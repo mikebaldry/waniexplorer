@@ -1,0 +1,30 @@
+{
+  "id": 1841,
+  "type": "kanji",
+  "character": "貢",
+  "primaryMeaning": "Tribute",
+  "otherMeanings": [],
+  "primaryReading": "こう",
+  "readings": [
+    {
+      "reading": "こう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "みつ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "This great <kanji>tribute</kanji> is being commissioned by Emperor <reading>こう</reading>いち. ",
+  "meaningMnemonic": "This <radical>construction</radical> project made from <radical>shellfish</radical> will act as a <kanji>tribute</kanji> to the Crabigator.",
+  "vocabularyIds": [
+    6666
+  ],
+  "radicalIds": [
+    25,
+    94
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%B2%A2"
+}

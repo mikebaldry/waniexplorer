@@ -1,0 +1,48 @@
+{
+  "id": 6317,
+  "type": "vocabulary",
+  "characters": "稲作",
+  "primaryMeaning": "Rice Cultivation",
+  "otherMeanings": [
+    "Rice Crop"
+  ],
+  "primaryReading": "いなさく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1735,
+      "character": "稲",
+      "readings": [
+        "いね",
+        "いな",
+        "とう"
+      ]
+    },
+    {
+      "id": 584,
+      "character": "作",
+      "readings": [
+        "さく",
+        "さ",
+        "つく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you <kanji>make</kanji> a <kanji>rice plant</kanji> then you are doing <vocabulary>rice cultivation</vocabulary>, since you're making it from the seed to the harvest and doing it all!",
+  "readingMnemonic": "The reading is the いな reading with the regular 作 on'yomi reading.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A8%B2%E4%BD%9C",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "稲",
+      "id": 1735,
+      "reading": "いな"
+    },
+    {
+      "type": "kanji",
+      "value": "作",
+      "id": 584,
+      "reading": "さく"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "id": 9217,
+  "object": "kana_vocabulary",
+  "url": "https://api.wanikani.com/v2/subjects/9217",
+  "data_updated_at": "2024-10-15T22:19:13.712062Z",
+  "data": {
+    "created_at": "2023-04-25T00:17:35.208605Z",
+    "level": 9,
+    "slug": "キロ",
+    "hidden_at": null,
+    "document_url": "https://www.wanikani.com/vocabulary/%E3%82%AD%E3%83%AD",
+    "characters": "キロ",
+    "meanings": [
+      {
+        "meaning": "Kilo",
+        "primary": true,
+        "accepted_answer": true
+      },
+      {
+        "meaning": "Kilogram",
+        "primary": false,
+        "accepted_answer": true
+      },
+      {
+        "meaning": "Kilometer",
+        "primary": false,
+        "accepted_answer": true
+      },
+      {
+        "meaning": "Kilowatt",
+        "primary": false,
+        "accepted_answer": true
+      }
+    ],
+    "auxiliary_meanings": [
+      {
+        "meaning": "Kg",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Km",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Kl",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Kw",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Kiloliter",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Kilobyte",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Kb",
+        "type": "whitelist"
+      }
+    ],
+    "parts_of_speech": [
+      "noun",
+      "suffix"
+    ],
+    "meaning_mnemonic": "キロ comes from <vocabulary>kilo</vocabulary>, and it can mean <vocabulary>kilogram</vocabulary>, <vocabulary>kilometer</vocabulary>, or any unit that starts with \"kilo\" in English.\n\nYou can also use abbreviations like \"kg\" and \"km\" in Japanese, and they're often just pronounced キロ too.",
+    "context_sentences": [
+      {
+        "en": "I lost five kilos in one month.",
+        "ja": "一ヶ月で五キロやせました。"
+      },
+      {
+        "en": "It is roughly 3 km from our house to the school.",
+        "ja": "うちから学校まで、大体３キロです。"
+      },
+      {
+        "en": "This stone sells for only one yen per kilo.",
+        "ja": "この石は、キロ当たり１円にしかなりません。"
+      }
+    ],
+    "pronunciation_audios": [
+      {
+        "url": "https://files.wanikani.com/md2r74sb58xxkwvaacdjlx1q4toi",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44796,
+          "pronunciation": "キロ",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/c9o7n97hjihrt7z28fg1buv2uk4r",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44796,
+          "pronunciation": "キロ",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      },
+      {
+        "url": "https://files.wanikani.com/qooy0fproztpeg5x9c59zal936fe",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44728,
+          "pronunciation": "キロ",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/i7746htb8h987f3trlpcugl57ghn",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44728,
+          "pronunciation": "キロ",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      }
+    ],
+    "lesson_position": 74,
+    "spaced_repetition_system_id": 1
+  }
+}

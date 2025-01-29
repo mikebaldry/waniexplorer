@@ -1,0 +1,54 @@
+{
+  "id": 3506,
+  "type": "vocabulary",
+  "characters": "出会う",
+  "primaryMeaning": "To Meet By Chance",
+  "otherMeanings": [
+    "To Meet Unexpectedly",
+    "To Come Across",
+    "To Encounter",
+    "To Run Into"
+  ],
+  "primaryReading": "であう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 483,
+      "character": "出",
+      "readings": [
+        "しゅつ",
+        "で",
+        "だ"
+      ]
+    },
+    {
+      "id": 566,
+      "character": "会",
+      "readings": [
+        "かい",
+        "あ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You <kanji>exit</kanji> your house and you <kanji>meet</kanji> someone. You didn’t mean to meet them, but it happened anyway. That’s why this word means <vocabulary>to meet by chance</vocabulary>.",
+  "readingMnemonic": "The reading is that of the word 出る and the word 会う, both of which you've hopefully seen. The 出 portion may be confusing, but you can usually assume that if one part of the word is kun'yomi / vocab reading, the other part is too, which is why 出 uses the vocab reading.\n\nOh by the way, this word can be written like this too: 出合う. It’s not as common, but you may come across it every now and then, so it’s good to know! ",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%87%BA%E4%BC%9A%E3%81%86",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "出",
+      "id": 483,
+      "reading": "で"
+    },
+    {
+      "type": "kanji",
+      "value": "会",
+      "id": 566,
+      "reading": "あ"
+    },
+    {
+      "type": "kana",
+      "value": "う"
+    }
+  ]
+}

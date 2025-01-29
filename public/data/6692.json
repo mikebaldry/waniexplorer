@@ -1,0 +1,44 @@
+{
+  "id": 6692,
+  "type": "vocabulary",
+  "characters": "即死",
+  "primaryMeaning": "Instant Death",
+  "otherMeanings": [],
+  "primaryReading": "そくし",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1850,
+      "character": "即",
+      "readings": [
+        "そく",
+        "すなわ"
+      ]
+    },
+    {
+      "id": 617,
+      "character": "死",
+      "readings": [
+        "し",
+        "し"
+      ]
+    }
+  ],
+  "meaningMnemonic": "An <kanji>instant</kanji> <kanji>death</kanji> is an <vocabulary>instant death</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8D%B3%E6%AD%BB",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "即",
+      "id": 1850,
+      "reading": "そく"
+    },
+    {
+      "type": "kanji",
+      "value": "死",
+      "id": 617,
+      "reading": "し"
+    }
+  ]
+}

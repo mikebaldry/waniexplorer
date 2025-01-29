@@ -1,0 +1,38 @@
+{
+  "id": 7127,
+  "type": "vocabulary",
+  "characters": "爽やか",
+  "primaryMeaning": "Refreshing",
+  "otherMeanings": [
+    "Fresh",
+    "Invigorating",
+    "Eloquent"
+  ],
+  "primaryReading": "さわやか",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2005,
+      "character": "爽",
+      "readings": [
+        "さわ",
+        "そう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This is the noun version of the kanji, making it <vocabulary>refreshing</vocabulary> as well.",
+  "readingMnemonic": "The reading is the same reading you learned with the kanji!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%88%BD%E3%82%84%E3%81%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "爽",
+      "id": 2005,
+      "reading": "さわ"
+    },
+    {
+      "type": "kana",
+      "value": "やか"
+    }
+  ]
+}

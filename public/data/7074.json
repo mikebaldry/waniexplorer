@@ -1,0 +1,45 @@
+{
+  "id": 7074,
+  "type": "vocabulary",
+  "characters": "伊勢",
+  "primaryMeaning": "Ise",
+  "otherMeanings": [],
+  "primaryReading": "いせ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1984,
+      "character": "伊",
+      "readings": [
+        "い",
+        "だ"
+      ]
+    },
+    {
+      "id": 1167,
+      "character": "勢",
+      "readings": [
+        "せい",
+        "せ",
+        "いきお"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The place with <kanji>Italy</kanji> <kanji>force</kanji> is a place known as <vocabulary>Ise</vocabulary>. It's a region of Japan that has a nice peninsula, I think. Going straight to the reading for this one may be your best bet.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Just watch out, because this uses the せ, not the せい you're used to seeing.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BC%8A%E5%8B%A2",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "伊",
+      "id": 1984,
+      "reading": "い"
+    },
+    {
+      "type": "kanji",
+      "value": "勢",
+      "id": 1167,
+      "reading": "せ"
+    }
+  ]
+}

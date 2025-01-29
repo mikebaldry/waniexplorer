@@ -1,0 +1,53 @@
+{
+  "id": 8627,
+  "type": "vocabulary",
+  "characters": "吸い殻",
+  "primaryMeaning": "Cigarette Butt",
+  "otherMeanings": [
+    "Tobacco Ashes"
+  ],
+  "primaryReading": "すいがら",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1177,
+      "character": "吸",
+      "readings": [
+        "きゅう",
+        "す"
+      ]
+    },
+    {
+      "id": 2376,
+      "character": "殻",
+      "readings": [
+        "かく",
+        "こく",
+        "ばい",
+        "から",
+        "がら"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This is a combination of the words 吸う meaning \"to smoke\" and 殻 meaning \"shell\" or \"husk.\" The husk left over after you're done smoking is the <vocabulary>cigarette butt</vocabulary>. Or <vocabulary>tobacco ashes</vocabulary> if you just have a pile of them.",
+  "readingMnemonic": "This is a combination of the words 吸う and 殻. Change the う to い and don't forget the rendaku, and you should be able to remember this reading too! ",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%90%B8%E3%81%84%E6%AE%BB",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "吸",
+      "id": 1177,
+      "reading": "す"
+    },
+    {
+      "type": "kana",
+      "value": "い"
+    },
+    {
+      "type": "kanji",
+      "value": "殻",
+      "id": 2376,
+      "reading": "がら"
+    }
+  ]
+}

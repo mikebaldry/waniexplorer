@@ -1,0 +1,46 @@
+{
+  "id": 3530,
+  "type": "vocabulary",
+  "characters": "問題",
+  "primaryMeaning": "Problem",
+  "otherMeanings": [
+    "Question"
+  ],
+  "primaryReading": "もんだい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 859,
+      "character": "問",
+      "readings": [
+        "もん",
+        "と",
+        "とん"
+      ]
+    },
+    {
+      "id": 872,
+      "character": "題",
+      "readings": [
+        "だい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>problem</kanji> <kanji>topic</kanji> is the <vocabulary>problem</vocabulary> or <vocabulary>question</vocabulary> you have to answer. If you think about it, topics as problems tends to be a school-related thing. So, when you have to answer a problem in school, that's 問題.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%95%8F%E9%A1%8C",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "問",
+      "id": 859,
+      "reading": "もん"
+    },
+    {
+      "type": "kanji",
+      "value": "題",
+      "id": 872,
+      "reading": "だい"
+    }
+  ]
+}

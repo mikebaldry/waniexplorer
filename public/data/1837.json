@@ -1,0 +1,26 @@
+{
+  "id": 1837,
+  "type": "kanji",
+  "character": "誰",
+  "primaryMeaning": "Who",
+  "otherMeanings": [],
+  "primaryReading": "だれ",
+  "readings": [
+    {
+      "reading": "だれ",
+      "primary": true,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Then, someone says turkey. \"<kanji>Who</kanji> said turkey? You? How <reading>dare</reading> (だれ) you.\"",
+  "meaningMnemonic": "Who will <radical>say</radical> <radical>turkey</radical>? Who? <kanji>WHO</kanji>???",
+  "vocabularyIds": [
+    6653,
+    6654
+  ],
+  "radicalIds": [
+    117,
+    240
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%AA%B0"
+}

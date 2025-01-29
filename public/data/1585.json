@@ -1,0 +1,33 @@
+{
+  "id": 1585,
+  "type": "kanji",
+  "character": "滞",
+  "primaryMeaning": "Stagnate",
+  "otherMeanings": [],
+  "primaryReading": "たい",
+  "readings": [
+    {
+      "reading": "たい",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "とどこお",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "While you watch the tsunami <kanji>stagnate</kanji>, you get ready for work. While you were watching this whole thing happening, you were tying your <reading>tie</reading> (たい). Once the tsunami stagnated, you were all done tying your tie. And since the tsunami is no longer a threat, you’re ready to go to work.",
+  "meaningMnemonic": "A <radical>tsunami</radical>, once stopped by a <radical>belt</radical>, will begin to <kanji>stagnate</kanji>. This belt is a belt of water resistance, so the belt stops the tsunami. The belt has caused the tsunami to stagnate.",
+  "vocabularyIds": [
+    5877,
+    5878,
+    6252,
+    6733
+  ],
+  "radicalIds": [
+    352,
+    103
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%BB%9E"
+}

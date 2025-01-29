@@ -1,0 +1,58 @@
+{
+  "id": 5114,
+  "type": "vocabulary",
+  "characters": "修辞学",
+  "primaryMeaning": "Rhetoric",
+  "otherMeanings": [],
+  "primaryReading": "しゅうじがく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1360,
+      "character": "修",
+      "readings": [
+        "しゅう",
+        "おさ"
+      ]
+    },
+    {
+      "id": 981,
+      "character": "辞",
+      "readings": [
+        "じ",
+        "や"
+      ]
+    },
+    {
+      "id": 599,
+      "character": "学",
+      "readings": [
+        "がく",
+        "まな"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>mastering</kanji> <kanji>word</kanji>s field of <kanji>study</kanji> is also known as <vocabulary>rhetoric</vocabulary>.\n\n修辞学 is specifically for the study and theory of rhetoric. Rhetoric as an academic field, in other words. If you're just talking about the way people persuade each other with words, the more colloquial term is レトリック. ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BF%AE%E8%BE%9E%E5%AD%A6",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "修",
+      "id": 1360,
+      "reading": "しゅう"
+    },
+    {
+      "type": "kanji",
+      "value": "辞",
+      "id": 981,
+      "reading": "じ"
+    },
+    {
+      "type": "kanji",
+      "value": "学",
+      "id": 599,
+      "reading": "がく"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 6433,
+  "type": "vocabulary",
+  "characters": "殖える",
+  "primaryMeaning": "To Multiply",
+  "otherMeanings": [
+    "To Increase"
+  ],
+  "primaryReading": "ふえる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1766,
+      "character": "殖",
+      "readings": [
+        "しょく",
+        "ふ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>multiply</kanji> and the verb vocab version means <vocabulary>to multiply</vocabulary> or <vocabulary>to increase</vocabulary>.",
+  "readingMnemonic": "What is multiplying? Your use of the word \"<reading>fu</reading>\" (ふ) for when you laugh. You used to say just \"ha ha ha\" like everyone else. Now the occurrences of you saying <reading>fufufu</reading> is really multiplying. You might also notice that this is similar to the word 増える, which means \"to increase.\" This has a similar meaning and the same reading, use that to your advantage!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%AE%96%E3%81%88%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "殖",
+      "id": 1766,
+      "reading": "ふ"
+    },
+    {
+      "type": "kana",
+      "value": "える"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 5201,
+  "type": "vocabulary",
+  "characters": "逆説",
+  "primaryMeaning": "Paradox",
+  "otherMeanings": [],
+  "primaryReading": "ぎゃくせつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1346,
+      "character": "逆",
+      "readings": [
+        "ぎゃく",
+        "さか"
+      ]
+    },
+    {
+      "id": 1026,
+      "character": "説",
+      "readings": [
+        "せつ",
+        "と"
+      ]
+    }
+  ],
+  "meaningMnemonic": "It is <kanji>reverse</kanji> to the <kanji>theory</kanji>! What is going on? Things aren't right. There must be some kind of <vocabulary>paradox</vocabulary> going on, where all theories are reversed! D:",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%80%86%E8%AA%AC",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "逆",
+      "id": 1346,
+      "reading": "ぎゃく"
+    },
+    {
+      "type": "kanji",
+      "value": "説",
+      "id": 1026,
+      "reading": "せつ"
+    }
+  ]
+}

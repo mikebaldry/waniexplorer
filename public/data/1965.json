@@ -1,0 +1,31 @@
+{
+  "id": 1965,
+  "type": "kanji",
+  "character": "錬",
+  "primaryMeaning": "Tempering",
+  "otherMeanings": [],
+  "primaryReading": "れん",
+  "readings": [
+    {
+      "reading": "れん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ね",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "The smithy where you’re doing the <kanji>tempering</kanji> is pretty fancy, but it’s just a <reading>ren</reading>tal (れん). You haven't sold enough gold to own a smithy as nice as this one yet, so for now, you rent one. It is pretty swanky though, even for a rental.",
+  "meaningMnemonic": "The <radical>gold</radical> from the <radical>east</radical> needs <kanji>tempering</kanji> before it can be sold. The gold from the east is good, it just needs some tempering before it's entirely presentable. You know, tempering like you'd do in a forge.",
+  "vocabularyIds": [
+    7022,
+    7023
+  ],
+  "radicalIds": [
+    118,
+    224
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%8C%AC"
+}

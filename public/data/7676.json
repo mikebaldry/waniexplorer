@@ -1,0 +1,53 @@
+{
+  "id": 7676,
+  "type": "vocabulary",
+  "characters": "大空",
+  "primaryMeaning": "Heavens",
+  "otherMeanings": [
+    "Firmament",
+    "Sky",
+    "Skies"
+  ],
+  "primaryReading": "おおぞら",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 453,
+      "character": "大",
+      "readings": [
+        "たい",
+        "だい",
+        "おお",
+        "ひろ"
+      ]
+    },
+    {
+      "id": 601,
+      "character": "空",
+      "readings": [
+        "くう",
+        "そら",
+        "あ",
+        "から",
+        "す"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>big</kanji> thing in the <kanji>sky</kanji> is the <vocabulary>heavens</vocabulary>. The heavens where birds and planes soar, not the one you go to after you die if you've been really good.",
+  "readingMnemonic": "The readings for this word are both kun'yomi readings. You've learned both of these readings by now so you should be able to read this on your own. Just remember that そら becomes ぞら because of rendaku here.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A4%A7%E7%A9%BA",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "大",
+      "id": 453,
+      "reading": "おお"
+    },
+    {
+      "type": "kanji",
+      "value": "空",
+      "id": 601,
+      "reading": "ぞら"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 5549,
+  "type": "vocabulary",
+  "characters": "複雑",
+  "primaryMeaning": "Complicated",
+  "otherMeanings": [
+    "Complex"
+  ],
+  "primaryReading": "ふくざつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1493,
+      "character": "複",
+      "readings": [
+        "ふく"
+      ]
+    },
+    {
+      "id": 1494,
+      "character": "雑",
+      "readings": [
+        "ざつ",
+        "ぞう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "There are <kanji>duplicate</kanji>s of everything, not to mention the duplicates are <kanji>random</kanji>. Nothing makes sense, and everything is super <vocabulary>complicated</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A4%87%E9%9B%91",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "複",
+      "id": 1493,
+      "reading": "ふく"
+    },
+    {
+      "type": "kanji",
+      "value": "雑",
+      "id": 1494,
+      "reading": "ざつ"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 3743,
+  "type": "vocabulary",
+  "characters": "単に",
+  "primaryMeaning": "Simply",
+  "otherMeanings": [
+    "Merely",
+    "Only"
+  ],
+  "primaryReading": "たんに",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 942,
+      "character": "単",
+      "readings": [
+        "たん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you're moving towards (に) <kanji>simple</kanji>, you're saying <vocabulary>simply</vocabulary>, <vocabulary>merely</vocabulary>, or <vocabulary>only</vocabulary>.",
+  "readingMnemonic": "If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8D%98%E3%81%AB",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "単",
+      "id": 942,
+      "reading": "たん"
+    },
+    {
+      "type": "kana",
+      "value": "に"
+    }
+  ]
+}

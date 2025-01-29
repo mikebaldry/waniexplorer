@@ -1,0 +1,45 @@
+{
+  "id": 7978,
+  "type": "vocabulary",
+  "characters": "総帥",
+  "primaryMeaning": "Commander",
+  "otherMeanings": [
+    "Leader",
+    "Fuhrer"
+  ],
+  "primaryReading": "そうすい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1131,
+      "character": "総",
+      "readings": [
+        "そう"
+      ]
+    },
+    {
+      "id": 2219,
+      "character": "帥",
+      "readings": [
+        "すい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>commander</kanji> of the <kanji>whole</kanji> army is just called \" the <vocabulary>commander</vocabulary>.\" No one knows his real name and everyone is too afraid to ask. ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B7%8F%E5%B8%A5",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "総",
+      "id": 1131,
+      "reading": "そう"
+    },
+    {
+      "type": "kanji",
+      "value": "帥",
+      "id": 2219,
+      "reading": "すい"
+    }
+  ]
+}

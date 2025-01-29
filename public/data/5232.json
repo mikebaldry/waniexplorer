@@ -1,0 +1,37 @@
+{
+  "id": 5232,
+  "type": "vocabulary",
+  "characters": "怒り",
+  "primaryMeaning": "Anger",
+  "otherMeanings": [
+    "Wrath"
+  ],
+  "primaryReading": "いかり",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1330,
+      "character": "怒",
+      "readings": [
+        "ど",
+        "おこ",
+        "いか"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word looks a lot like 怒る, doesn't it? But this word isn't a verb, so you can think of it as referring to <vocabulary>anger</vocabulary> or <vocabulary>wrath</vocabulary> itself.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You haven't learned this reading yet, so here's a mnemonic to help you:\n\nI have a lot of <vocabulary>anger</vocabulary> because <reading>I ca</reading>rry (いか) all of my own things (books, luggage, drinks) and no one will ever carry them for me. Plus, the more things I carry, the more anger I carry inside. Ahh!\n\n\n\n",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%80%92%E3%82%8A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "怒",
+      "id": 1330,
+      "reading": "いか"
+    },
+    {
+      "type": "kana",
+      "value": "り"
+    }
+  ]
+}

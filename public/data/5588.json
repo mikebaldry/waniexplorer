@@ -1,0 +1,48 @@
+{
+  "id": 5588,
+  "type": "vocabulary",
+  "characters": "汚点",
+  "primaryMeaning": "Stain",
+  "otherMeanings": [
+    "Smudge"
+  ],
+  "primaryReading": "おてん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1506,
+      "character": "汚",
+      "readings": [
+        "お",
+        "よご",
+        "きたな",
+        "けが"
+      ]
+    },
+    {
+      "id": 641,
+      "character": "点",
+      "readings": [
+        "てん",
+        "つ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>dirty</kanji> <kanji>point</kanji> is a little point of dirtiness on something. This is a <vocabulary>stain</vocabulary> or <vocabulary>smudge</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B1%9A%E7%82%B9",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "汚",
+      "id": 1506,
+      "reading": "お"
+    },
+    {
+      "type": "kanji",
+      "value": "点",
+      "id": 641,
+      "reading": "てん"
+    }
+  ]
+}

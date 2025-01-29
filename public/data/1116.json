@@ -1,0 +1,32 @@
+{
+  "id": 1116,
+  "type": "kanji",
+  "character": "罪",
+  "primaryMeaning": "Guilt",
+  "otherMeanings": [],
+  "primaryReading": "ざい",
+  "readings": [
+    {
+      "reading": "ざい",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "つみ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "The <kanji>guilt</kanji> shows on the criminal's face. They smile, shrug, and pull a stolen <reading>xy</reading>lophone (ざい) out of their back pocket.",
+  "meaningMnemonic": "Put a <radical>net</radical> around a <radical>criminal</radical> to show their <kanji>guilt</kanji>. Criminals look like anyone else on the street, so you decide to tie them in nets to make sure people know who they're dealing with.",
+  "vocabularyIds": [
+    4320,
+    4321,
+    4322
+  ],
+  "radicalIds": [
+    163,
+    209
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%BD%AA"
+}

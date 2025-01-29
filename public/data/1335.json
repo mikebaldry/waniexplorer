@@ -1,0 +1,34 @@
+{
+  "id": 1335,
+  "type": "kanji",
+  "character": "締",
+  "primaryMeaning": "Tighten",
+  "otherMeanings": [],
+  "primaryReading": "てい",
+  "readings": [
+    {
+      "reading": "てい",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "し",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You <kanji>tighten</kanji> your towel before you eat <reading>ta</reading>ter (てい) tots every night. That way it stands up nice and straight next to your eating chair, ready for all that delicious tater tot grease that gets on your fingers.",
+  "meaningMnemonic": "You have a special <radical>thread</radical> in your <radical>towel</radical> you can use to make it <radical>stand</radical> up by <kanji>tighten</kanji>ing it.",
+  "vocabularyIds": [
+    5069,
+    5070,
+    5272,
+    5273
+  ],
+  "radicalIds": [
+    86,
+    55,
+    102
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%B7%A0"
+}

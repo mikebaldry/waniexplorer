@@ -1,0 +1,35 @@
+{
+  "id": 1527,
+  "type": "kanji",
+  "character": "暮",
+  "primaryMeaning": "Livelihood",
+  "otherMeanings": [],
+  "primaryReading": "ぼ",
+  "readings": [
+    {
+      "reading": "ぼ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "く",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "From out of nowhere, <reading>Bo</reading>bo (ぼ) the notorious clown thief starts picking the plants, ending their <kanji>livelihood</kanji>. Bobo needs the flowers for his clown acts, so he uses the livelihood of the flowers to support his own livelihood.",
+  "meaningMnemonic": "A <radical>greenhouse</radical> is already really good when it comes to a plant's livelihood. But add the <radical>sun</radical> into that equation and you have something really great for the plants. Their <kanji>livelihood</kanji> will be awesome, now!",
+  "vocabularyIds": [
+    5648,
+    5649,
+    5853,
+    6029,
+    6994,
+    7776
+  ],
+  "radicalIds": [
+    356,
+    22
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%9A%AE"
+}

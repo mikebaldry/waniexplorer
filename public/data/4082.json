@@ -1,0 +1,36 @@
+{
+  "id": 4082,
+  "type": "vocabulary",
+  "characters": "告げる",
+  "primaryMeaning": "To Announce",
+  "otherMeanings": [
+    "To Tell"
+  ],
+  "primaryReading": "つげる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1031,
+      "character": "告",
+      "readings": [
+        "こく",
+        "つ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>announce</kanji> so the verb vocab version is <vocabulary>to announce</vocabulary>.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: I'd like <vocabulary>to announce</vocabulary>... we're not having one baby, we're having <reading>two</reading> (つ) babies!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%91%8A%E3%81%92%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "告",
+      "id": 1031,
+      "reading": "つ"
+    },
+    {
+      "type": "kana",
+      "value": "げる"
+    }
+  ]
+}

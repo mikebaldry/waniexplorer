@@ -1,0 +1,53 @@
+{
+  "id": 7955,
+  "type": "vocabulary",
+  "characters": "必須",
+  "primaryMeaning": "Indispensable",
+  "otherMeanings": [
+    "Required",
+    "Essential"
+  ],
+  "primaryReading": "ひっす",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 655,
+      "character": "必",
+      "readings": [
+        "ひつ",
+        "かなら"
+      ]
+    },
+    {
+      "id": 2174,
+      "character": "須",
+      "readings": [
+        "す",
+        "しゅ",
+        "すべから",
+        "すべし",
+        "ひげ",
+        "まつ",
+        "もち",
+        "もと"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Something that's <kanji>certain</kanji>ly <kanji>necessary</kanji> is something you can't live without. It's <vocabulary>indispensable</vocabulary>. And it's <vocabulary>required</vocabulary> by you to keep on living.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BF%85%E9%A0%88",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "必",
+      "id": 655,
+      "reading": null
+    },
+    {
+      "type": "kanji",
+      "value": "須",
+      "id": 2174,
+      "reading": null
+    }
+  ]
+}

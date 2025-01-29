@@ -1,0 +1,37 @@
+{
+  "id": 8949,
+  "type": "vocabulary",
+  "characters": "刺さる",
+  "primaryMeaning": "To Be Pierced",
+  "otherMeanings": [
+    "To Get Pricked",
+    "To Be Stabbed"
+  ],
+  "primaryReading": "ささる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1296,
+      "character": "刺",
+      "readings": [
+        "さ",
+        "し"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb.\n\nThis is an intransitive verb, meaning that the piercing just happens, without emphasis on what makes it happen. That's why this verb means <vocabulary>to be pierced</vocabulary>, <vocabulary>to get pricked</vocabulary>, or <vocabulary>to be stabbed</vocabulary>. This is a tricky one because the English translations often end up being transitive, but in Japanese we always use this with the particle に, not を, so it's intransitive.",
+  "readingMnemonic": "Since this word has okurigana (hiragana attached to the kanji) you know that it's probably going to be the kun'yomi reading.\n\nLucky for you, the kanji readings for transitive and intransitive verbs are almost always the same. Once you learn one, you know them both! This reading is the same as 刺す.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%88%BA%E3%81%95%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "刺",
+      "id": 1296,
+      "reading": "さ"
+    },
+    {
+      "type": "kana",
+      "value": "さる"
+    }
+  ]
+}

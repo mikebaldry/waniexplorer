@@ -1,0 +1,37 @@
+{
+  "id": 3233,
+  "type": "vocabulary",
+  "characters": "最も",
+  "primaryMeaning": "The Most",
+  "otherMeanings": [
+    "Most",
+    "Extremely"
+  ],
+  "primaryReading": "もっとも",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 774,
+      "character": "最",
+      "readings": [
+        "さい",
+        "もっと"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This is the adverb version of the kanji, so it has the same meaning, basically. You can say this is <vocabulary>the most</vocabulary> or just <vocabulary>most</vocabulary>. You can also use it as <vocabulary>extremely</vocabulary>.",
+  "readingMnemonic": "The reading for this is a reading you didn't learn with the kanji (the kun'yomi reading). To learn it, let's look at a mnemonic. \n\nThink of <vocabulary>the most</vocabulary> ridiculous <reading>motto</reading> (もっと) you've ever heard. Now imagine a motto that's even more ridiculous. Here are some actual totally real mottos that are the most ridiculous: \"What Can Brown Do for You?\" \"It's Not for Women\" \"If It Doesn't Get All Over the Place, It Doesn't Belong in Your Face\" and of course, \"Why Not Enjoy the Go?\"",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9C%80%E3%82%82",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "最",
+      "id": 774,
+      "reading": "もっと"
+    },
+    {
+      "type": "kana",
+      "value": "も"
+    }
+  ]
+}

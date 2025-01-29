@@ -1,0 +1,45 @@
+{
+  "id": 8507,
+  "type": "vocabulary",
+  "characters": "錠剤",
+  "primaryMeaning": "Pill",
+  "otherMeanings": [
+    "Lozenge",
+    "Tablet"
+  ],
+  "primaryReading": "じょうざい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2394,
+      "character": "錠",
+      "readings": [
+        "じょう"
+      ]
+    },
+    {
+      "id": 1750,
+      "character": "剤",
+      "readings": [
+        "ざい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You take a <kanji>dose</kanji> of medicine but it gets <kanji>lock</kanji>ed in your throat because it's the kind of <vocabulary>pill</vocabulary> you chew, not swallow! You need to pay attention to which one is which or it won't help at all.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%8C%A0%E5%89%A4",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "錠",
+      "id": 2394,
+      "reading": "じょう"
+    },
+    {
+      "type": "kanji",
+      "value": "剤",
+      "id": 1750,
+      "reading": "ざい"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 1684,
+  "type": "kanji",
+  "character": "奏",
+  "primaryMeaning": "Play Music",
+  "otherMeanings": [],
+  "primaryReading": "そう",
+  "readings": [
+    {
+      "reading": "そう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "かな",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "In heaven, the ones that <kanji>play music</kanji> are the <reading>sou</reading>ls (そう) of the dead. They have a huge band up there, and even though it just seems like normal spring sounds to you, up there in heaven when the souls play music it's more like a huge, 100-part band!",
+  "meaningMnemonic": "When it's <radical>spring</radical> in <radical>heaven</radical> they <kanji>play music</kanji>. To your mortal, human ears it sounds more like snow melting, birds chirping, and plants waking up.",
+  "vocabularyIds": [
+    6176,
+    6177
+  ],
+  "radicalIds": [
+    8779,
+    40
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%A5%8F"
+}

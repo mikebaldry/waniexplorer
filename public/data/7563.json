@@ -1,0 +1,50 @@
+{
+  "id": 7563,
+  "type": "vocabulary",
+  "characters": "三日",
+  "primaryMeaning": "Third Day",
+  "otherMeanings": [
+    "Day Three",
+    "Three Days"
+  ],
+  "primaryReading": "みっか",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 449,
+      "character": "三",
+      "readings": [
+        "さん",
+        "み"
+      ]
+    },
+    {
+      "id": 476,
+      "character": "日",
+      "readings": [
+        "にち",
+        "じつ",
+        "ひ",
+        "か",
+        "び"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<vocabulary>Third day</vocabulary> or <vocabulary>day three</vocabulary>. No matter how you look at this word, it makes a lot of sense.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Counting days, however, are an exception (at least up to ten). You need to use the kun'yomi readings to read this word. You already know the kun'yomi reading for 三 from when you learned the word 三つ. Here is a way to remember the reading for 日:\n\nOn the <vocabulary>third day</vocabulary> you have to give <reading>me</reading> (み) a ride in your <reading>car</reading> (か). I don't have a car of my own, so don't forget me, okay?",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%89%E6%97%A5",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "三",
+      "id": 449,
+      "reading": "み"
+    },
+    {
+      "type": "kanji",
+      "value": "日",
+      "id": 476,
+      "reading": null
+    }
+  ]
+}

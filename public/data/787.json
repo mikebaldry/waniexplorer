@@ -1,0 +1,31 @@
+{
+  "id": 787,
+  "type": "kanji",
+  "character": "努",
+  "primaryMeaning": "Toil",
+  "otherMeanings": [],
+  "primaryReading": "ど",
+  "readings": [
+    {
+      "reading": "ど",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "つと",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "The servants are making lots of food for you and your <reading>do</reading>g (ど). You're really hungry, so you encourage your minions to <kanji>toil</kanji> away faster so that you might feast a bit sooner.",
+  "meaningMnemonic": "A <radical>woman</radical> of <radical>power</radical> sits on a <radical>stool</radical> while her servants <kanji>toil</kanji> away in the kitchen. They are toiling away preparing a feast for this woman of power while she kicks back on her cozy stool. She’s a queen and deserves to be pampered.",
+  "vocabularyIds": [
+    3269
+  ],
+  "radicalIds": [
+    19,
+    30,
+    13
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%8A%AA"
+}

@@ -1,0 +1,47 @@
+{
+  "id": 8609,
+  "type": "vocabulary",
+  "characters": "花婿",
+  "primaryMeaning": "Bridegroom",
+  "otherMeanings": [
+    "Groom"
+  ],
+  "primaryReading": "はなむこ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 557,
+      "character": "花",
+      "readings": [
+        "はな",
+        "か",
+        "け"
+      ]
+    },
+    {
+      "id": 2454,
+      "character": "婿",
+      "readings": [
+        "むこ",
+        "せい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>groom</kanji> gets a <kanji>flower</kanji> on his lapel and he's finally a real <vocabulary>bridegroom</vocabulary>! Before that he was just waiting to be one. The flower makes it for real.",
+  "readingMnemonic": "The readings for this word are both kun'yomi readings. You learned them when you learned the kanji, so you should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%8A%B1%E5%A9%BF",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "花",
+      "id": 557,
+      "reading": "はな"
+    },
+    {
+      "type": "kanji",
+      "value": "婿",
+      "id": 2454,
+      "reading": "むこ"
+    }
+  ]
+}

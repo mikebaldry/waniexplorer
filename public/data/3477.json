@@ -1,0 +1,47 @@
+{
+  "id": 3477,
+  "type": "vocabulary",
+  "characters": "弱虫",
+  "primaryMeaning": "Weakling",
+  "otherMeanings": [
+    "Coward"
+  ],
+  "primaryReading": "よわむし",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 661,
+      "character": "弱",
+      "readings": [
+        "じゃく",
+        "よわ"
+      ]
+    },
+    {
+      "id": 553,
+      "character": "虫",
+      "readings": [
+        "むし",
+        "ちゅう",
+        "き"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>weak</kanji> <kanji>insect</kanji>. This is what people call <vocabulary>weakling</vocabulary>s in Japan. This is a good word to know if you're a bully, or something.",
+  "readingMnemonic": "The reading for this one is a weird one. It uses the kun'yomi readings for both, meaning you'll have to pull your knowledge of the word 弱い from earlier and apply it here. 虫 should be okay, though, as this is the reading you learned with the kanji.\n\nJust remember, only weak bugs use kun'yomi, and that weak bug is you in this instance.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BC%B1%E8%99%AB",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "弱",
+      "id": 661,
+      "reading": "よわ"
+    },
+    {
+      "type": "kanji",
+      "value": "虫",
+      "id": 553,
+      "reading": "むし"
+    }
+  ]
+}

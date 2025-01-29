@@ -1,0 +1,59 @@
+{
+  "id": 4052,
+  "type": "vocabulary",
+  "characters": "大阪弁",
+  "primaryMeaning": "Osaka Dialect",
+  "otherMeanings": [],
+  "primaryReading": "おおさかべん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 453,
+      "character": "大",
+      "readings": [
+        "たい",
+        "だい",
+        "おお",
+        "ひろ"
+      ]
+    },
+    {
+      "id": 994,
+      "character": "阪",
+      "readings": [
+        "はん",
+        "さか"
+      ]
+    },
+    {
+      "id": 984,
+      "character": "弁",
+      "readings": [
+        "べん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Remember 大阪 (Osaka)? This is the <kanji>dialect</kanji> they speak, making this word <vocabulary>Osaka dialect</vocabulary>.",
+  "readingMnemonic": "If you know how to read 大阪 you can just add 弁 to it and be able to read the whole thing, though maybe not in <vocabulary>Osaka dialect</vocabulary>. Okay, fine, it's probably the same thing in Osaka dialect.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A4%A7%E9%98%AA%E5%BC%81",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "大",
+      "id": 453,
+      "reading": "おお"
+    },
+    {
+      "type": "kanji",
+      "value": "阪",
+      "id": 994,
+      "reading": "さか"
+    },
+    {
+      "type": "kanji",
+      "value": "弁",
+      "id": 984,
+      "reading": "べん"
+    }
+  ]
+}

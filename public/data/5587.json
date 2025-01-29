@@ -1,0 +1,49 @@
+{
+  "id": 5587,
+  "type": "vocabulary",
+  "characters": "汚水",
+  "primaryMeaning": "Dirty Water",
+  "otherMeanings": [
+    "Filthy Water",
+    "Sewage"
+  ],
+  "primaryReading": "おすい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1506,
+      "character": "汚",
+      "readings": [
+        "お",
+        "よご",
+        "きたな",
+        "けが"
+      ]
+    },
+    {
+      "id": 479,
+      "character": "水",
+      "readings": [
+        "すい",
+        "みず"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Dirty</kanji> <kanji>water</kanji> is <vocabulary>dirty water</vocabulary>. Gross. Could also be <vocabulary>sewage</vocabulary>. Even grosser.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B1%9A%E6%B0%B4",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "汚",
+      "id": 1506,
+      "reading": "お"
+    },
+    {
+      "type": "kanji",
+      "value": "水",
+      "id": 479,
+      "reading": "すい"
+    }
+  ]
+}

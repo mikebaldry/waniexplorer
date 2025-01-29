@@ -1,0 +1,37 @@
+{
+  "id": 4147,
+  "type": "vocabulary",
+  "characters": "試みる",
+  "primaryMeaning": "To Try To Do Something",
+  "otherMeanings": [
+    "To Attempt Something"
+  ],
+  "primaryReading": "こころみる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1029,
+      "character": "試",
+      "readings": [
+        "し",
+        "こころ",
+        "ため"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>try</kanji> so the verb vocab version is <vocabulary>to try to do something</vocabulary> or <vocabulary>to attempt something</vocabulary>.\n\nThis verb is transitive, meaning it takes a direct object. Here, the direct object is whatever it is that you're trying to do.",
+  "readingMnemonic": "You know how when you try to do something you put your whole heart into it? Well, think of that in Japanese. You put your whole <reading>心</reading> (こころ) into it.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A9%A6%E3%81%BF%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "試",
+      "id": 1029,
+      "reading": "こころ"
+    },
+    {
+      "type": "kana",
+      "value": "みる"
+    }
+  ]
+}

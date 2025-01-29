@@ -1,0 +1,54 @@
+{
+  "id": 6937,
+  "type": "vocabulary",
+  "characters": "吹き込む",
+  "primaryMeaning": "To Blow In",
+  "otherMeanings": [
+    "To Breathe Into",
+    "To Imbue"
+  ],
+  "primaryReading": "ふきこむ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1751,
+      "character": "吹",
+      "readings": [
+        "ふ",
+        "すい"
+      ]
+    },
+    {
+      "id": 1504,
+      "character": "込",
+      "readings": [
+        "こ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You know that 吹く is \"to blow\" and the kanji 込 means <kanji>into</kanji>. So this word means <vocabulary>to blow in</vocabulary> or <vocabulary>to breathe into</vocabulary>, and it can be used both transitively and intransitively.\n\nIt can also be used figuratively to mean to breathe into or<vocabulary>to imbue</vocabulary>, like breathing new life into something, or imbuing someone’s mind with hatred.",
+  "readingMnemonic": "The reading comes from the word 吹く and the kanji 込む.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%90%B9%E3%81%8D%E8%BE%BC%E3%82%80",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "吹",
+      "id": 1751,
+      "reading": "ふ"
+    },
+    {
+      "type": "kana",
+      "value": "き"
+    },
+    {
+      "type": "kanji",
+      "value": "込",
+      "id": 1504,
+      "reading": "こ"
+    },
+    {
+      "type": "kana",
+      "value": "む"
+    }
+  ]
+}

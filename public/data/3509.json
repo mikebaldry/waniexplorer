@@ -1,0 +1,51 @@
+{
+  "id": 3509,
+  "type": "vocabulary",
+  "characters": "見送る",
+  "primaryMeaning": "To See Off",
+  "otherMeanings": [
+    "To Put Off",
+    "To Pass On"
+  ],
+  "primaryReading": "みおくる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 558,
+      "character": "見",
+      "readings": [
+        "み",
+        "けん"
+      ]
+    },
+    {
+      "id": 734,
+      "character": "送",
+      "readings": [
+        "そう",
+        "おく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You know the words 見る and 送る by now, hopefully. Here you're \"seeing\" the \"sending.\" You're seeing someone off, so this verb is <vocabulary>to see off</vocabulary>. This can also mean <vocabulary>to put off</vocabulary> or <vocabulary>to pass on</vocabulary>, since it's as though you're just passively seeing someone (or something) off rather than taking action and going with them.",
+  "readingMnemonic": "The readings come from the vocab words 見る and 送る. Make sure you know those and you'll know this word's reading as well. ",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A6%8B%E9%80%81%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "見",
+      "id": 558,
+      "reading": "み"
+    },
+    {
+      "type": "kanji",
+      "value": "送",
+      "id": 734,
+      "reading": "おく"
+    },
+    {
+      "type": "kana",
+      "value": "る"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 616,
+  "type": "kanji",
+  "character": "次",
+  "primaryMeaning": "Next",
+  "otherMeanings": [],
+  "primaryReading": "じ",
+  "readings": [
+    {
+      "reading": "じ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "し",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "つぎ",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "つ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "To remember the reading じ, we used the word \"Jesus\" - Finally, when you're at the last store in existence, you decide it's time to pray to <reading>Je</reading>sus (じ), asking for a miracle. He comes down from the heavens with ice in his hands.",
+  "meaningMnemonic": "<radical>Ice</radical> is what you're <radical>lack</radical>ing, so the <kanji>next</kanji> thing you need to do is go to the store and see if they have any. Nope, no ice. So, now you go to the next store. Is there ice here? Nope. Next!",
+  "vocabularyIds": [
+    2870,
+    2871,
+    2872,
+    2873,
+    3427,
+    9296
+  ],
+  "radicalIds": [
+    123,
+    142
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%AC%A1"
+}

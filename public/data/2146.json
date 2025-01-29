@@ -1,0 +1,45 @@
+{
+  "id": 2146,
+  "type": "kanji",
+  "character": "苗",
+  "primaryMeaning": "Seedling",
+  "otherMeanings": [
+    "Sapling"
+  ],
+  "primaryReading": "みょう",
+  "readings": [
+    {
+      "reading": "みょう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "びょう",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "なえ",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "なわ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "The <kanji>seedling</kanji>s try their best to blend in by referring to themselves as <reading>myou</reading> (みょう), you know, me and you combined. That's myou.",
+  "meaningMnemonic": "<radical>Flowers</radical> that grow in a <radical>rice paddy</radical> only live to be <kanji>seedling</kanji>s. Once they sprout, they're plucked away to make room for more rice. Poor little seedlings.",
+  "vocabularyIds": [
+    7828,
+    7829,
+    8034,
+    8035
+  ],
+  "radicalIds": [
+    90,
+    51
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%8B%97"
+}

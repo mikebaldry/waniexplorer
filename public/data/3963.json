@@ -1,0 +1,47 @@
+{
+  "id": 3963,
+  "type": "vocabulary",
+  "characters": "米兵",
+  "primaryMeaning": "US Soldier",
+  "otherMeanings": [
+    "American Soldier"
+  ],
+  "primaryReading": "べいへい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 574,
+      "character": "米",
+      "readings": [
+        "べい",
+        "まい",
+        "こめ"
+      ]
+    },
+    {
+      "id": 1000,
+      "character": "兵",
+      "readings": [
+        "へい",
+        "ひょう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Remember how 米国 is \"America.\" Well, more of that again. With 米 representing \"America\" you can combine that with 兵 (<kanji>soldier</kanji>) to have yourself a <vocabulary>US soldier</vocabulary> / <vocabulary>American soldier</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B1%B3%E5%85%B5",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "米",
+      "id": 574,
+      "reading": "べい"
+    },
+    {
+      "type": "kanji",
+      "value": "兵",
+      "id": 1000,
+      "reading": "へい"
+    }
+  ]
+}

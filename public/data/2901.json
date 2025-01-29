@@ -1,0 +1,35 @@
+{
+  "id": 2901,
+  "type": "vocabulary",
+  "characters": "歩く",
+  "primaryMeaning": "To Walk",
+  "otherMeanings": [],
+  "primaryReading": "あるく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 628,
+      "character": "歩",
+      "readings": [
+        "ほ",
+        "ある",
+        "あゆ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>walk</kanji> so the verb version means <vocabulary>to walk</vocabulary>.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nYou have to remember the ある portion. Imagine yourself going <vocabulary>to walk</vocabulary> outside. But, as you walk, you walk like a pirate. You have a peg leg, a parrot, and a hook. Lastly, you say \"<reading>arrrrr</reading>\" (ある). Go ahead, say it out loud while walking around your room like a pirate. It will help.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%AD%A9%E3%81%8F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "歩",
+      "id": 628,
+      "reading": "ある"
+    },
+    {
+      "type": "kana",
+      "value": "く"
+    }
+  ]
+}

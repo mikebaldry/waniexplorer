@@ -1,0 +1,35 @@
+{
+  "id": 2334,
+  "type": "kanji",
+  "character": "槽",
+  "primaryMeaning": "Tank",
+  "otherMeanings": [
+    "Vat"
+  ],
+  "primaryReading": "そう",
+  "readings": [
+    {
+      "reading": "そう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ふね",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You're staring at the big <kanji>tank</kanji> when an eerie sound comes out, \"Oooh I am the <reading>sou</reading>l (そう) of the tree! You've trapped me in this tank and now I'm going to haunt it!\" You don't want to be haunted by a tank with a soul stuck in it.",
+  "meaningMnemonic": "A <radical>tree</radical> melts into the <radical>ground</radical> after listening to loud <radical>music</radical> in the hot <radical>sun</radical>, so you have to find a nice big <kanji>tank</kanji> to scoop the melted tree into. The music made the tree vibrate at juuust the right frequency that it, combined with the hot sun, made the tree turn into a puddle. You can't just leave it being all blobby on the ground, so you find a tank for it.",
+  "vocabularyIds": [
+    8376,
+    8377
+  ],
+  "radicalIds": [
+    23,
+    1,
+    185,
+    22
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%A7%BD"
+}

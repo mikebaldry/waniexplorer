@@ -1,0 +1,34 @@
+{
+  "id": 1405,
+  "type": "kanji",
+  "character": "怖",
+  "primaryMeaning": "Scary",
+  "otherMeanings": [],
+  "primaryReading": "ふ",
+  "readings": [
+    {
+      "reading": "ふ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "こわ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "As you watch this <kanji>scary</kanji> scene you can't help but mutter, \"<reading>Foo</reading>l,\" (ふ) under your breath. Then you hear \"Fool, fool, fool, it's too scary you fool!\" and you realize all of the other narwhals are chanting.",
+  "meaningMnemonic": "The <radical>soul</radical> of a <radical>narwhal</radical> was sucked into its <radical>towel</radical>, which is <kanji>scary</kanji>!",
+  "vocabularyIds": [
+    5233,
+    5234,
+    5235,
+    5701
+  ],
+  "radicalIds": [
+    232,
+    26,
+    102
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%80%96"
+}

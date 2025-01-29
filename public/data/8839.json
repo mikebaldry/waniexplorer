@@ -1,0 +1,39 @@
+{
+  "id": 8839,
+  "type": "kanji",
+  "character": "叩",
+  "primaryMeaning": "Tap",
+  "otherMeanings": [
+    "Strike",
+    "Slap"
+  ],
+  "primaryReading": "こう",
+  "readings": [
+    {
+      "reading": "こう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "たた",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "はた",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "As you <kanji>tap</kanji> and <kanji>strike</kanji> your own mouth, <reading>こう</reading>いち comes dancing into your bathroom. \"Hey now, this looks fun, can I try tapping my mouth too?\" he asks. \"Sure,\" you say, and offer him a stamp.",
+  "meaningMnemonic": "On your <radical>mouth</radical> is a <radical>stamp</radical> that you <kanji>tap</kanji>, <kanji>strike</kanji> and <kanji>slap</kanji> to create a beat! The stamp looks like a little drum, but you're really just hitting your mouth for fun (the stamp was an excuse to make it seem normal).",
+  "vocabularyIds": [
+    8852,
+    8853
+  ],
+  "radicalIds": [
+    16,
+    145
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%8F%A9"
+}

@@ -1,0 +1,58 @@
+{
+  "id": 6648,
+  "type": "vocabulary",
+  "characters": "軍艦島",
+  "primaryMeaning": "Battleship Island",
+  "otherMeanings": [
+    "Gunkanjima"
+  ],
+  "primaryReading": "ぐんかんじま",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 954,
+      "character": "軍",
+      "readings": [
+        "ぐん"
+      ]
+    },
+    {
+      "id": 1790,
+      "character": "艦",
+      "readings": [
+        "かん"
+      ]
+    },
+    {
+      "id": 822,
+      "character": "島",
+      "readings": [
+        "しま",
+        "とう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A 軍艦 is a <kanji>battleship</kanji>, and 島 is an island. Welcome to... <vocabulary>Battleship Island</vocabulary> (go Jurassic Park music).",
+  "readingMnemonic": "This word uses the on'yomi readings for 軍 and 艦, and the kun'yomi reading for 島. You learned all of them, so you should know the reading already! Oh, but watch out for the rendaku.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%BB%8D%E8%89%A6%E5%B3%B6",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "軍",
+      "id": 954,
+      "reading": "ぐん"
+    },
+    {
+      "type": "kanji",
+      "value": "艦",
+      "id": 1790,
+      "reading": "かん"
+    },
+    {
+      "type": "kanji",
+      "value": "島",
+      "id": 822,
+      "reading": "じま"
+    }
+  ]
+}

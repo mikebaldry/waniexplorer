@@ -1,0 +1,43 @@
+{
+  "id": 5698,
+  "type": "vocabulary",
+  "characters": "賃貸",
+  "primaryMeaning": "Rental",
+  "otherMeanings": [],
+  "primaryReading": "ちんたい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1544,
+      "character": "賃",
+      "readings": [
+        "ちん"
+      ]
+    },
+    {
+      "id": 1324,
+      "character": "貸",
+      "readings": [
+        "か",
+        "たい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Rent</kanji> it and I will <kanji>lend</kanji> it to you. This thing that is being lent and rented? It's a <vocabulary>rental</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You just have to remember that 貸 is read as たい for this one. What is your rental? It is a <reading>tie</reading> (たい) fighter. Sweet.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%B3%83%E8%B2%B8",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "賃",
+      "id": 1544,
+      "reading": "ちん"
+    },
+    {
+      "type": "kanji",
+      "value": "貸",
+      "id": 1324,
+      "reading": "たい"
+    }
+  ]
+}

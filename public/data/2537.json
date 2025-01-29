@@ -1,0 +1,33 @@
+{
+  "id": 2537,
+  "type": "vocabulary",
+  "characters": "手",
+  "primaryMeaning": "Hand",
+  "otherMeanings": [
+    "Arm"
+  ],
+  "primaryReading": "て",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 474,
+      "character": "手",
+      "readings": [
+        "て",
+        "しゅ",
+        "ず"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji means <kanji>hand</kanji>, and the word means <vocabulary>hand</vocabulary> too! It can also be used to refer to your whole <vocabulary>arm</vocabulary>.",
+  "readingMnemonic": "Since this word is made up of a single kanji, it uses the kun'yomi reading. Since this is a body part, the kun'yomi reading usually takes priority. That means you learned the kun'yomi reading already when you learned the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%89%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "手",
+      "id": 474,
+      "reading": "て"
+    }
+  ]
+}

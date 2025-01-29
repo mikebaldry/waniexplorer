@@ -1,0 +1,46 @@
+{
+  "id": 9074,
+  "type": "vocabulary",
+  "characters": "怪我",
+  "primaryMeaning": "Injury",
+  "otherMeanings": [],
+  "primaryReading": "けが",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1302,
+      "character": "怪",
+      "readings": [
+        "かい",
+        "け",
+        "あや"
+      ]
+    },
+    {
+      "id": 1294,
+      "character": "我",
+      "readings": [
+        "が",
+        "われ",
+        "わ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Do you know how <kanji>suspicious</kanji> <kanji>I</kanji> get if I have an <vocabulary>injury</vocabulary>? I start suspecting everyone around me of having given me the injury. It was you, wasn't it?",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi for both kanji. It also uses the less common reading け, which you learned with 怪, so here's a mnemonic to help you recall this reading:\n\nRemember the suspicious soul and its <reading>ke</reading>ttle (け)? Yup, turns out this exact kettle is responsible for the <vocabulary>injury</vocabulary>. Suspicious souls and their kettles...",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%80%AA%E6%88%91",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "怪",
+      "id": 1302,
+      "reading": "け"
+    },
+    {
+      "type": "kanji",
+      "value": "我",
+      "id": 1294,
+      "reading": "が"
+    }
+  ]
+}

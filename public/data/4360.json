@@ -1,0 +1,45 @@
+{
+  "id": 4360,
+  "type": "vocabulary",
+  "characters": "口笛",
+  "primaryMeaning": "Whistling",
+  "otherMeanings": [],
+  "primaryReading": "くちぶえ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 452,
+      "character": "口",
+      "readings": [
+        "こう",
+        "く",
+        "くち"
+      ]
+    },
+    {
+      "id": 1121,
+      "character": "笛",
+      "readings": [
+        "てき",
+        "ふえ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>mouth</kanji> <kanji>flute</kanji>... Normal flutes you blow air through to make a sound. How do you blow air through your mouth to make a sound? By <vocabulary>whistling</vocabulary>.",
+  "readingMnemonic": "The reading is the kun'yomi readings put together. Thank 口 for being a body part, which tends to cause this to happen. So, you have 口 (くち) and 笛 (ふえ) put together, though ふえ changes to ぶえ, maybe because you can't whistle properly? Buuuweeee. Buwwweee.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8F%A3%E7%AC%9B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "口",
+      "id": 452,
+      "reading": "くち"
+    },
+    {
+      "type": "kanji",
+      "value": "笛",
+      "id": 1121,
+      "reading": "ぶえ"
+    }
+  ]
+}

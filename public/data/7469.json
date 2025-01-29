@@ -1,0 +1,61 @@
+{
+  "id": 7469,
+  "type": "vocabulary",
+  "characters": "自動車",
+  "primaryMeaning": "Automobile",
+  "otherMeanings": [
+    "Car"
+  ],
+  "primaryReading": "じどうしゃ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 578,
+      "character": "自",
+      "readings": [
+        "じ",
+        "し",
+        "みずか"
+      ]
+    },
+    {
+      "id": 827,
+      "character": "動",
+      "readings": [
+        "どう",
+        "うご"
+      ]
+    },
+    {
+      "id": 562,
+      "character": "車",
+      "readings": [
+        "しゃ",
+        "くるま"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You know that 自動 is <vocabulary>automatic</vocabulary>. So what is an automatic <kanji>car</kanji>? That is an <vocabulary>automobile</vocabulary>, or simply a <vocabulary>car</vocabulary>.",
+  "readingMnemonic": "The reading comes from 自動 and the kanji 車's readings, combined.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%87%AA%E5%8B%95%E8%BB%8A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "自",
+      "id": 578,
+      "reading": "じ"
+    },
+    {
+      "type": "kanji",
+      "value": "動",
+      "id": 827,
+      "reading": "どう"
+    },
+    {
+      "type": "kanji",
+      "value": "車",
+      "id": 562,
+      "reading": "しゃ"
+    }
+  ]
+}

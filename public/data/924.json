@@ -1,0 +1,37 @@
+{
+  "id": 924,
+  "type": "kanji",
+  "character": "骨",
+  "primaryMeaning": "Bone",
+  "otherMeanings": [],
+  "primaryReading": "こつ",
+  "readings": [
+    {
+      "reading": "こつ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ほね",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Outer space is cold, and if you're traveling to the moon, you're going to need a lot of <reading>coats</reading> (こつ). All of these coats will keep you warm, even if you do end up breaking your forehead <kanji>bone</kanji>. ",
+  "meaningMnemonic": "If you have a <radical>mustache</radical> and you hit your <radical>forehead</radical> on the <radical>moon</radical>, you’re probably going to break a <kanji>bone</kanji>. Ok, so it doesn’t matter so much if you have a mustache, but if you’re travelling fast enough to make it to the moon, you’re definitely breaking a bone if you run into it.",
+  "vocabularyIds": [
+    3686,
+    3703,
+    3728,
+    6519,
+    6673,
+    8249,
+    9089
+  ],
+  "radicalIds": [
+    121,
+    76,
+    43
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%AA%A8"
+}

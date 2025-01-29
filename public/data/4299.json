@@ -1,0 +1,46 @@
+{
+  "id": 4299,
+  "type": "vocabulary",
+  "characters": "災害",
+  "primaryMeaning": "Natural Disaster",
+  "otherMeanings": [
+    "Disaster",
+    "Accident"
+  ],
+  "primaryReading": "さいがい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1089,
+      "character": "災",
+      "readings": [
+        "さい",
+        "わざわ"
+      ]
+    },
+    {
+      "id": 1093,
+      "character": "害",
+      "readings": [
+        "がい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>disaster</kanji> that does <kanji>damage</kanji>. Usually these are <vocabulary>natural disaster</vocabulary>s, though they could also just be regular <vocabulary>disaster</vocabulary>s as well.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%81%BD%E5%AE%B3",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "災",
+      "id": 1089,
+      "reading": "さい"
+    },
+    {
+      "type": "kanji",
+      "value": "害",
+      "id": 1093,
+      "reading": "がい"
+    }
+  ]
+}

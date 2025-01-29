@@ -1,0 +1,58 @@
+{
+  "id": 8750,
+  "type": "vocabulary",
+  "characters": "運動会",
+  "primaryMeaning": "Sports Day",
+  "otherMeanings": [],
+  "primaryReading": "うんどうかい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 752,
+      "character": "運",
+      "readings": [
+        "うん",
+        "はこ"
+      ]
+    },
+    {
+      "id": 827,
+      "character": "動",
+      "readings": [
+        "どう",
+        "うご"
+      ]
+    },
+    {
+      "id": 566,
+      "character": "会",
+      "readings": [
+        "かい",
+        "あ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Remember how 運動 means \"exercise?\" When you <kanji>meet</kanji> with a bunch of other people to exercise it's called <vocabulary>Sports Day</vocabulary>! This is a day at schools in Japan where everybody does physical stuff together! It's fun and also very tiring! ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%81%8B%E5%8B%95%E4%BC%9A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "運",
+      "id": 752,
+      "reading": "うん"
+    },
+    {
+      "type": "kanji",
+      "value": "動",
+      "id": 827,
+      "reading": "どう"
+    },
+    {
+      "type": "kanji",
+      "value": "会",
+      "id": 566,
+      "reading": "かい"
+    }
+  ]
+}

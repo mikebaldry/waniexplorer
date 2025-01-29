@@ -1,0 +1,48 @@
+{
+  "id": 8058,
+  "type": "vocabulary",
+  "characters": "急騰",
+  "primaryMeaning": "Sudden Rise",
+  "otherMeanings": [
+    "Sharp Rise",
+    "Jump"
+  ],
+  "primaryReading": "きゅうとう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 970,
+      "character": "急",
+      "readings": [
+        "きゅう",
+        "いそ"
+      ]
+    },
+    {
+      "id": 2198,
+      "character": "騰",
+      "readings": [
+        "とう",
+        "あが",
+        "のぼ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Sudden</kanji> <kanji>inflation</kanji> results in a <vocabulary>sudden rise</vocabulary> of prices, aka a <vocabulary>sharp rise</vocabulary> or a <vocabulary>jump</vocabulary> in prices.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%80%A5%E9%A8%B0",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "急",
+      "id": 970,
+      "reading": "きゅう"
+    },
+    {
+      "type": "kanji",
+      "value": "騰",
+      "id": 2198,
+      "reading": "とう"
+    }
+  ]
+}

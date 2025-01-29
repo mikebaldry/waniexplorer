@@ -1,0 +1,45 @@
+{
+  "id": 4433,
+  "type": "vocabulary",
+  "characters": "人権",
+  "primaryMeaning": "Human Rights",
+  "otherMeanings": [],
+  "primaryReading": "じんけん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 444,
+      "character": "人",
+      "readings": [
+        "にん",
+        "じん",
+        "ひと",
+        "と"
+      ]
+    },
+    {
+      "id": 1134,
+      "character": "権",
+      "readings": [
+        "けん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>People</kanji> <kanji>Rights</kanji> are <vocabulary>human rights</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BA%BA%E6%A8%A9",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "人",
+      "id": 444,
+      "reading": "じん"
+    },
+    {
+      "type": "kanji",
+      "value": "権",
+      "id": 1134,
+      "reading": "けん"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 7423,
+  "type": "vocabulary",
+  "characters": "搬出",
+  "primaryMeaning": "Carry Out",
+  "otherMeanings": [],
+  "primaryReading": "はんしゅつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2114,
+      "character": "搬",
+      "readings": [
+        "はん"
+      ]
+    },
+    {
+      "id": 483,
+      "character": "出",
+      "readings": [
+        "しゅつ",
+        "で",
+        "だ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Transport</kanji> and <kanji>exit</kanji> these goods from here (by transporting them). Take it away. It's time to <vocabulary>carry out</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%90%AC%E5%87%BA",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "搬",
+      "id": 2114,
+      "reading": "はん"
+    },
+    {
+      "type": "kanji",
+      "value": "出",
+      "id": 483,
+      "reading": "しゅつ"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 652,
+  "type": "kanji",
+  "character": "付",
+  "primaryMeaning": "Attach",
+  "otherMeanings": [],
+  "primaryReading": "つ",
+  "readings": [
+    {
+      "reading": "つ",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "ふ",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "You have to remember the kun'yomi reading of this kanji, and the part you need to remember is つ. So, think of <kanji>attach</kanji>ing something to something else. What would you need? You'd need <reading>two</reading> (つ) things to put together!",
+  "meaningMnemonic": "You have to take the <radical>measurement</radical> of a <radical>leader</radical>. Imagine yourself measuring that leader's height and then coming up short. This is not good, you think. Leaders need to be at least six feet tall. So, to make the leader tall enough, you <kanji>attach</kanji> another head to the top of the leader's head.",
+  "vocabularyIds": [
+    2937,
+    3229,
+    3471,
+    3475,
+    3476,
+    3493,
+    3508,
+    3511,
+    3577,
+    4949,
+    5250,
+    7453,
+    7625,
+    7658,
+    8213
+  ],
+  "radicalIds": [
+    75,
+    74
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E4%BB%98"
+}

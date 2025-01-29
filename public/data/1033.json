@@ -1,0 +1,39 @@
+{
+  "id": 1033,
+  "type": "kanji",
+  "character": "達",
+  "primaryMeaning": "Attain",
+  "otherMeanings": [
+    "Plural"
+  ],
+  "primaryReading": "たつ",
+  "readings": [
+    {
+      "reading": "たつ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "たち",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "If you can't <kanji>attain</kanji> a scooter, attaining a <reading>tattoo</reading> (たつ) of one is the next best thing. Might as well get two tattooed on because <kanji>plural</kanji> is always better. This is a surefire way to attain happiness. Get a tattoo.",
+  "meaningMnemonic": "For <radical>happiness</radical>, a <radical>scooter</radical> is the best way to <kanji>attain</kanji> it—<kanji>plural</kanji> scooters would be even better. Everyone loves a good scooter. And as they say, the path to attaining happiness is littered with plural scooters.",
+  "vocabularyIds": [
+    4151,
+    4152,
+    4153,
+    4154,
+    4365,
+    7075,
+    7549,
+    7646
+  ],
+  "radicalIds": [
+    114,
+    260
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%81%94"
+}

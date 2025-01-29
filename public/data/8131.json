@@ -1,0 +1,45 @@
+{
+  "id": 8131,
+  "type": "vocabulary",
+  "characters": "静粛",
+  "primaryMeaning": "Silent",
+  "otherMeanings": [],
+  "primaryReading": "せいしゅく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1052,
+      "character": "静",
+      "readings": [
+        "せい",
+        "しず"
+      ]
+    },
+    {
+      "id": 2238,
+      "character": "粛",
+      "readings": [
+        "しゅく",
+        "すく",
+        "つつし"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>solemn</kanji> <kanji>quiet</kanji> person will always be <vocabulary>silent</vocabulary>. They never ever speak.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9D%99%E7%B2%9B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "静",
+      "id": 1052,
+      "reading": "せい"
+    },
+    {
+      "type": "kanji",
+      "value": "粛",
+      "id": 2238,
+      "reading": "しゅく"
+    }
+  ]
+}

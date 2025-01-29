@@ -1,0 +1,57 @@
+{
+  "id": 9289,
+  "type": "vocabulary",
+  "characters": "客観的",
+  "primaryMeaning": "Objective",
+  "otherMeanings": [],
+  "primaryReading": "きゃっかんてき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 723,
+      "character": "客",
+      "readings": [
+        "きゃく"
+      ]
+    },
+    {
+      "id": 1175,
+      "character": "観",
+      "readings": [
+        "かん",
+        "み"
+      ]
+    },
+    {
+      "id": 914,
+      "character": "的",
+      "readings": [
+        "てき",
+        "まと"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Remember 主観的 meaning \"subjective\"? This is the counterpart to that. And since <kanji>guest</kanji>s' and customers' <kanji>view</kanji>s are always objectively right, this means <vocabulary>objective</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AE%A2%E8%A6%B3%E7%9A%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "客",
+      "id": 723,
+      "reading": null
+    },
+    {
+      "type": "kanji",
+      "value": "観",
+      "id": 1175,
+      "reading": null
+    },
+    {
+      "type": "kanji",
+      "value": "的",
+      "id": 914,
+      "reading": null
+    }
+  ]
+}

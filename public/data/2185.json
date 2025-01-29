@@ -1,0 +1,39 @@
+{
+  "id": 2185,
+  "type": "kanji",
+  "character": "乃",
+  "primaryMeaning": "From",
+  "otherMeanings": [],
+  "primaryReading": "の",
+  "readings": [
+    {
+      "reading": "の",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "なんじ",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "すなわ",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "ない",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "If you're going <kanji>from</kanji> place to place, make sure you have some <reading>no</reading>ri (の) seaweed on you, in case you get hungry. Nori is a great source of energy.",
+  "meaningMnemonic": "What do <radical>stairs</radical> do? They take you <kanji>from</kanji> where you were, to somewhere else. They're a way to get <kanji>from</kanji> place to place.",
+  "vocabularyIds": [
+    9101
+  ],
+  "radicalIds": [
+    200
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E4%B9%83"
+}

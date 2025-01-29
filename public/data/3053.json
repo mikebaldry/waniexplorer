@@ -1,0 +1,33 @@
+{
+  "id": 3053,
+  "type": "vocabulary",
+  "characters": "絵",
+  "primaryMeaning": "Picture",
+  "otherMeanings": [
+    "Painting",
+    "Drawing",
+    "Illustration"
+  ],
+  "primaryReading": "え",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 698,
+      "character": "絵",
+      "readings": [
+        "え"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.\n\n絵 refers to <vocabulary>picture</vocabulary>s, such as <vocabulary>painting</vocabulary>s, <vocabulary>drawing</vocabulary>s, or <vocabulary>illustration</vocabulary>s.",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B5%B5",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "絵",
+      "id": 698,
+      "reading": "え"
+    }
+  ]
+}

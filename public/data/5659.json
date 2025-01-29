@@ -1,0 +1,46 @@
+{
+  "id": 5659,
+  "type": "vocabulary",
+  "characters": "異性",
+  "primaryMeaning": "Different Gender",
+  "otherMeanings": [
+    "Opposite Sex"
+  ],
+  "primaryReading": "いせい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1530,
+      "character": "異",
+      "readings": [
+        "い",
+        "こと"
+      ]
+    },
+    {
+      "id": 918,
+      "character": "性",
+      "readings": [
+        "せい",
+        "しょう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Someone who <kanji>differ</kanji>s in <kanji>gender</kanji> from you is of a <vocabulary>different gender</vocabulary>. This is often used to mean the <vocabulary>opposite sex</vocabulary> in the sense of men as viewed by women and vice versa.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%95%B0%E6%80%A7",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "異",
+      "id": 1530,
+      "reading": "い"
+    },
+    {
+      "type": "kanji",
+      "value": "性",
+      "id": 918,
+      "reading": "せい"
+    }
+  ]
+}

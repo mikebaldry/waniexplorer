@@ -1,0 +1,46 @@
+{
+  "id": 5165,
+  "type": "vocabulary",
+  "characters": "反攻",
+  "primaryMeaning": "Counterattack",
+  "otherMeanings": [
+    "Counter Offensive"
+  ],
+  "primaryReading": "はんこう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 855,
+      "character": "反",
+      "readings": [
+        "はん",
+        "そ"
+      ]
+    },
+    {
+      "id": 1378,
+      "character": "攻",
+      "readings": [
+        "こう",
+        "せ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Anti</kanji> <kanji>aggression</kanji> is when you receive some aggression, then respond to it with anti aggression, aka your <vocabulary>counterattack</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8F%8D%E6%94%BB",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "反",
+      "id": 855,
+      "reading": "はん"
+    },
+    {
+      "type": "kanji",
+      "value": "攻",
+      "id": 1378,
+      "reading": "こう"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 4625,
+  "type": "vocabulary",
+  "characters": "備える",
+  "primaryMeaning": "To Provide",
+  "otherMeanings": [
+    "To Furnish",
+    "To Equip",
+    "To Prepare For"
+  ],
+  "primaryReading": "そなえる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1202,
+      "character": "備",
+      "readings": [
+        "び",
+        "そな"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>provide</kanji> so the verb vocab version is <vocabulary>to provide</vocabulary>.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: You have <vocabulary>to provide</vocabulary> your friends with their own <reading>sauna</reading> (そな) because they don't want to use your shower. This requires you to go out and buy a sauna for your house (very expensive) just so you can provide your needy friends with what they want (a sauna). Feel angry you have to provide this.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%82%99%E3%81%88%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "備",
+      "id": 1202,
+      "reading": "そな"
+    },
+    {
+      "type": "kana",
+      "value": "える"
+    }
+  ]
+}

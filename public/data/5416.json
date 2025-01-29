@@ -1,0 +1,36 @@
+{
+  "id": 5416,
+  "type": "vocabulary",
+  "characters": "既に",
+  "primaryMeaning": "Already",
+  "otherMeanings": [
+    "Previously"
+  ],
+  "primaryReading": "すでに",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1447,
+      "character": "既",
+      "readings": [
+        "き",
+        "すで"
+      ]
+    }
+  ],
+  "meaningMnemonic": "One of the meanings is the same as the kanji, <vocabulary>previously</vocabulary>, but it can also mean <vocabulary>already</vocabulary>.",
+  "readingMnemonic": "The reading is different from what you learned with the kanji. But as I told you <vocabulary>already</vocabulary>, I'll be there on <reading>Su-day</reading> (すで). It's like Sunday, but not quite the same. Imagine your confusion when someone says this over and over, but you don't know what Suday is.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%97%A2%E3%81%AB",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "既",
+      "id": 1447,
+      "reading": "すで"
+    },
+    {
+      "type": "kana",
+      "value": "に"
+    }
+  ]
+}

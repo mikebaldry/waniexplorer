@@ -1,0 +1,46 @@
+{
+  "id": 5452,
+  "type": "vocabulary",
+  "characters": "倉庫",
+  "primaryMeaning": "Warehouse",
+  "otherMeanings": [
+    "Storehouse"
+  ],
+  "primaryReading": "そうこ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1460,
+      "character": "倉",
+      "readings": [
+        "そう",
+        "くら"
+      ]
+    },
+    {
+      "id": 1348,
+      "character": "庫",
+      "readings": [
+        "こ",
+        "くら"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>storage</kanji> <kanji>warehouse</kanji> is some kind of <vocabulary>warehouse</vocabulary>, or some kind of <vocabulary>storehouse</vocabulary>.\n\nCurious about the difference between 倉庫 and 庫? While 庫 refers to traditional Japanese storehouses, 倉庫 is used for modern warehouses and storehouses, both the commercial kind and the ones for personal use.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%80%89%E5%BA%AB",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "倉",
+      "id": 1460,
+      "reading": "そう"
+    },
+    {
+      "type": "kanji",
+      "value": "庫",
+      "id": 1348,
+      "reading": "こ"
+    }
+  ]
+}

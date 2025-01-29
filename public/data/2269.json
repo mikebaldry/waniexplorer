@@ -1,0 +1,27 @@
+{
+  "id": 2269,
+  "type": "kanji",
+  "character": "該",
+  "primaryMeaning": "The Above",
+  "otherMeanings": [
+    "That Specifically"
+  ],
+  "primaryReading": "がい",
+  "readings": [
+    {
+      "reading": "がい",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "As you focus on <kanji>the above</kanji> words you realize a <reading>guy</reading> (がい) is trying to push the rest of the things you're saying back up with the rest of them. No! The above text is all that matters! Go away guy!",
+  "meaningMnemonic": "You want to <radical>slice</radical> what you <radical>say</radical> in half so that people focus on <kanji>the above</kanji> text first. The above is what you want them to see! So slice what you say!",
+  "vocabularyIds": [
+    8236
+  ],
+  "radicalIds": [
+    117,
+    351
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%A9%B2"
+}

@@ -1,0 +1,46 @@
+{
+  "id": 7247,
+  "type": "vocabulary",
+  "characters": "塗料",
+  "primaryMeaning": "Paint",
+  "otherMeanings": [
+    "Painting Material",
+    "Coating"
+  ],
+  "primaryReading": "とりょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2044,
+      "character": "塗",
+      "readings": [
+        "と",
+        "ぬ"
+      ]
+    },
+    {
+      "id": 878,
+      "character": "料",
+      "readings": [
+        "りょう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Paint</kanji> <kanji>material</kanji> is <vocabulary>paint</vocabulary>, or <vocabulary>painting material</vocabulary>.\n\n塗料 refers to the paint or <vocabulary>coating</vocabulary> used for surfaces like walls or industrial items to decorate or protect them.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A1%97%E6%96%99",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "塗",
+      "id": 2044,
+      "reading": "と"
+    },
+    {
+      "type": "kanji",
+      "value": "料",
+      "id": 878,
+      "reading": "りょう"
+    }
+  ]
+}

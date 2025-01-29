@@ -1,0 +1,46 @@
+{
+  "id": 7078,
+  "type": "vocabulary",
+  "characters": "少佐",
+  "primaryMeaning": "Major",
+  "otherMeanings": [
+    "Lieutenant Commander"
+  ],
+  "primaryReading": "しょうさ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 506,
+      "character": "少",
+      "readings": [
+        "しょう",
+        "すこ",
+        "すく"
+      ]
+    },
+    {
+      "id": 1985,
+      "character": "佐",
+      "readings": [
+        "さ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>few</kanji> who <kanji>help</kanji> are the <vocabulary>major</vocabulary>s or <vocabulary>lieutenant commander</vocabulary>s. They are the few who step up to the plate to help out in the army, according to this word's kanji.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B0%91%E4%BD%90",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "少",
+      "id": 506,
+      "reading": "しょう"
+    },
+    {
+      "type": "kanji",
+      "value": "佐",
+      "id": 1985,
+      "reading": "さ"
+    }
+  ]
+}

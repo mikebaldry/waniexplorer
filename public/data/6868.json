@@ -1,0 +1,46 @@
+{
+  "id": 6868,
+  "type": "vocabulary",
+  "characters": "凶悪",
+  "primaryMeaning": "Atrocious",
+  "otherMeanings": [
+    "Fiendish"
+  ],
+  "primaryReading": "きょうあく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1911,
+      "character": "凶",
+      "readings": [
+        "きょう"
+      ]
+    },
+    {
+      "id": 829,
+      "character": "悪",
+      "readings": [
+        "あく",
+        "お",
+        "わる"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>villain</kanji> who is <kanji>bad</kanji> is the most <vocabulary>atrocious</vocabulary> and <vocabulary>fiendish</vocabulary> villain of them all.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%87%B6%E6%82%AA",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "凶",
+      "id": 1911,
+      "reading": "きょう"
+    },
+    {
+      "type": "kanji",
+      "value": "悪",
+      "id": 829,
+      "reading": "あく"
+    }
+  ]
+}

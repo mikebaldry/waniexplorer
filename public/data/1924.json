@@ -1,0 +1,35 @@
+{
+  "id": 1924,
+  "type": "kanji",
+  "character": "裸",
+  "primaryMeaning": "Naked",
+  "otherMeanings": [
+    "Nude"
+  ],
+  "primaryReading": "ら",
+  "readings": [
+    {
+      "reading": "ら",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "はだか",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Known for being <kanji>naked</kanji> (and showing you his spirit fruit) is the ancient Egyptian god <reading>Ra</reading> (ら).",
+  "meaningMnemonic": "If you're showing me your \"<radical>spirit</radical> <radical>fruit</radical>\" then you are just <kanji>naked</kanji>. You're <kanji>nude</kanji>.",
+  "vocabularyIds": [
+    6894,
+    6895,
+    6896,
+    7139
+  ],
+  "radicalIds": [
+    80,
+    235
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%A3%B8"
+}

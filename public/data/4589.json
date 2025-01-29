@@ -1,0 +1,57 @@
+{
+  "id": 4589,
+  "type": "vocabulary",
+  "characters": "領収書",
+  "primaryMeaning": "Receipt",
+  "otherMeanings": [],
+  "primaryReading": "りょうしゅうしょ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1171,
+      "character": "領",
+      "readings": [
+        "りょう"
+      ]
+    },
+    {
+      "id": 1186,
+      "character": "収",
+      "readings": [
+        "しゅう",
+        "おさ"
+      ]
+    },
+    {
+      "id": 962,
+      "character": "書",
+      "readings": [
+        "しょ",
+        "か"
+      ]
+    }
+  ],
+  "meaningMnemonic": "I <kanji>obtain</kanji> some <kanji>territory</kanji>, so I want a <kanji>writte</kanji>n record of it. How will I get a written record of my obtained territory? How about with a <vocabulary>receipt</vocabulary>? Emailing one will do just fine.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%A0%98%E5%8F%8E%E6%9B%B8",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "領",
+      "id": 1171,
+      "reading": "りょう"
+    },
+    {
+      "type": "kanji",
+      "value": "収",
+      "id": 1186,
+      "reading": "しゅう"
+    },
+    {
+      "type": "kanji",
+      "value": "書",
+      "id": 962,
+      "reading": "しょ"
+    }
+  ]
+}

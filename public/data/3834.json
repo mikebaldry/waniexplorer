@@ -1,0 +1,42 @@
+{
+  "id": 3834,
+  "type": "vocabulary",
+  "characters": "政府",
+  "primaryMeaning": "Government",
+  "otherMeanings": [],
+  "primaryReading": "せいふ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 985,
+      "character": "政",
+      "readings": [
+        "せい"
+      ]
+    },
+    {
+      "id": 977,
+      "character": "府",
+      "readings": [
+        "ふ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Politics</kanji> and <kanji>government</kanji>. They are needed to keep the <vocabulary>government</vocabulary> rolling.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%94%BF%E5%BA%9C",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "政",
+      "id": 985,
+      "reading": "せい"
+    },
+    {
+      "type": "kanji",
+      "value": "府",
+      "id": 977,
+      "reading": "ふ"
+    }
+  ]
+}

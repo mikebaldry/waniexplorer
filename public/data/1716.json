@@ -1,0 +1,33 @@
+{
+  "id": 1716,
+  "type": "kanji",
+  "character": "棋",
+  "primaryMeaning": "Chess Piece",
+  "otherMeanings": [],
+  "primaryReading": "き",
+  "readings": [
+    {
+      "reading": "き",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ご",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Before the tree crab can make it out with the <kanji>chess piece</kanji>, you shut the door to the games cabinet and lock it with a <reading>key</reading> (き), trapping the tree crab inside. Now what?",
+  "meaningMnemonic": "A <radical>tree</radical> <radical>crab</radical> breaks into your games cabinet and steals a <kanji>chess piece</kanji>. He’s trying to impress all his tree crabs back home by showing how not afraid of humans he is. Plus the rest of the tree crabs need one last chess piece to complete their set.",
+  "vocabularyIds": [
+    6239,
+    6272,
+    6273,
+    8494
+  ],
+  "radicalIds": [
+    23,
+    205
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%A3%8B"
+}

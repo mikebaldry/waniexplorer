@@ -1,0 +1,32 @@
+{
+  "id": 2309,
+  "type": "kanji",
+  "character": "悦",
+  "primaryMeaning": "Delight",
+  "otherMeanings": [
+    "Joy"
+  ],
+  "primaryReading": "えつ",
+  "readings": [
+    {
+      "reading": "えつ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "よろこ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "The <kanji>delight</kanji> you feel is so great that it becomes permanently <reading>etch</reading>ed (えつ) in your soul and even your face.",
+  "meaningMnemonic": "If you can <radical>guard</radical> your <radical>soul</radical> from bad things you'll always feel <kanji>delight</kanji> and <kanji>joy</kanji>. It's hard to guard your soul from everything though, so take all the joy you can, while you can.",
+  "vocabularyIds": [
+    8283
+  ],
+  "radicalIds": [
+    232,
+    422
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%82%A6"
+}

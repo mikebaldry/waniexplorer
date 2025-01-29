@@ -1,0 +1,45 @@
+{
+  "id": 4546,
+  "type": "vocabulary",
+  "characters": "副業",
+  "primaryMeaning": "Side Business",
+  "otherMeanings": [
+    "Side Job",
+    "Side Gig"
+  ],
+  "primaryReading": "ふくぎょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1174,
+      "character": "副",
+      "readings": [
+        "ふく"
+      ]
+    },
+    {
+      "id": 756,
+      "character": "業",
+      "readings": [
+        "ぎょう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>side</kanji> <kanji>business</kanji> is a <vocabulary>side business</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%89%AF%E6%A5%AD",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "副",
+      "id": 1174,
+      "reading": "ふく"
+    },
+    {
+      "type": "kanji",
+      "value": "業",
+      "id": 756,
+      "reading": "ぎょう"
+    }
+  ]
+}

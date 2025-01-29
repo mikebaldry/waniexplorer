@@ -1,0 +1,34 @@
+{
+  "id": 5074,
+  "type": "vocabulary",
+  "characters": "腹",
+  "primaryMeaning": "Belly",
+  "otherMeanings": [
+    "Abdomen",
+    "Stomach"
+  ],
+  "primaryReading": "はら",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1317,
+      "character": "腹",
+      "readings": [
+        "ふく",
+        "はら",
+        "なか"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "If anyone ever tries to touch your <kanji>belly</kanji> make sure you yell \"Seku<reading>hara</reading> (はら)! Sekuhara!” Sekuhara is short for sexual harassment in Japan. And if you don't want someone to touch your belly, but they're trying to, then that's sekuhara!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%85%B9",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "腹",
+      "id": 1317,
+      "reading": "はら"
+    }
+  ]
+}

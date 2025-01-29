@@ -1,0 +1,44 @@
+{
+  "id": 4326,
+  "type": "vocabulary",
+  "characters": "裕福",
+  "primaryMeaning": "Wealthy",
+  "otherMeanings": [
+    "Wealth"
+  ],
+  "primaryReading": "ゆうふく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1098,
+      "character": "裕",
+      "readings": [
+        "ゆう"
+      ]
+    },
+    {
+      "id": 867,
+      "character": "福",
+      "readings": [
+        "ふく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You have such <kanji>abundant</kanji> <kanji>luck</kanji>! If you have abundant luck, you're probably also <vocabulary>wealthy</vocabulary>, because lots of <vocabulary>wealth</vocabulary> equals lots of luck, right?",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A3%95%E7%A6%8F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "裕",
+      "id": 1098,
+      "reading": "ゆう"
+    },
+    {
+      "type": "kanji",
+      "value": "福",
+      "id": 867,
+      "reading": "ふく"
+    }
+  ]
+}

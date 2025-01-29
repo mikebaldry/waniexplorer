@@ -1,0 +1,27 @@
+{
+  "id": 1384,
+  "type": "kanji",
+  "character": "欧",
+  "primaryMeaning": "Europe",
+  "otherMeanings": [],
+  "primaryReading": "おう",
+  "readings": [
+    {
+      "reading": "おう",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "<kanji>Europe</kanji> is lacking so much because their <reading>王</reading> (おう) keeps taking everything.",
+  "meaningMnemonic": "A <radical>district</radical> that <radical>lack</radical>s things will be in <kanji>Europe</kanji>.",
+  "vocabularyIds": [
+    5244,
+    5245,
+    5246
+  ],
+  "radicalIds": [
+    322,
+    142
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%AC%A7"
+}

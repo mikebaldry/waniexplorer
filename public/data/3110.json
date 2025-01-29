@@ -1,0 +1,37 @@
+{
+  "id": 3110,
+  "type": "vocabulary",
+  "characters": "苦い",
+  "primaryMeaning": "Bitter Tasting",
+  "otherMeanings": [
+    "Bitter"
+  ],
+  "primaryReading": "にがい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 719,
+      "character": "苦",
+      "readings": [
+        "く",
+        "くる",
+        "にが"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji for 苦 means <kanji>suffering</kanji>. This word, however, is a bit different, but you'll see how it's related. It means <vocabulary>bitter tasting</vocabulary>. Think of putting the most <vocabulary>bitter</vocabulary> thing in the world in your mouth. You feel sick, your mouth gets all weird, and you try to spit it out but the bitterness remains. Obviously eating bitter tasting things will cause you to suffer.",
+  "readingMnemonic": "This reading of the kanji is unique to this meaning of the word, so here's a mnemonic to help you out!\n\nThe taste is so <vocabulary>bitter tasting</vocabulary> that you fall to your knees really, really hard. Luckily, you were wearing your <reading>knee gua</reading>rds (にが). Feel the relief that you were wearing them. Ack, no relief now. It's still bitter in your mouth.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%8B%A6%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "苦",
+      "id": 719,
+      "reading": "にが"
+    },
+    {
+      "type": "kana",
+      "value": "い"
+    }
+  ]
+}

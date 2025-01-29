@@ -1,0 +1,37 @@
+{
+  "id": 5820,
+  "type": "vocabulary",
+  "characters": "損なう",
+  "primaryMeaning": "To Harm",
+  "otherMeanings": [
+    "To Injure",
+    "To Damage"
+  ],
+  "primaryReading": "そこなう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1573,
+      "character": "損",
+      "readings": [
+        "そん",
+        "そこ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "To do <kanji>loss</kanji> to something means you are doing something to make something have loss. This is <vocabulary>to harm</vocabulary> or <vocabulary>to injure</vocabulary>.",
+  "readingMnemonic": "In order <vocabulary>to harm</vocabulary> your opponent, you go way overboard. You <reading>soak</reading> (そこ) them in acid. Soaked head to toe. Too far man, too far.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%90%8D%E3%81%AA%E3%81%86",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "損",
+      "id": 1573,
+      "reading": "そこ"
+    },
+    {
+      "type": "kana",
+      "value": "なう"
+    }
+  ]
+}

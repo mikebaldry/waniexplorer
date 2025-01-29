@@ -1,0 +1,92 @@
+{
+  "id": 9236,
+  "object": "kana_vocabulary",
+  "url": "https://api.wanikani.com/v2/subjects/9236",
+  "data_updated_at": "2024-10-15T22:19:14.723048Z",
+  "data": {
+    "created_at": "2023-04-25T01:29:58.217522Z",
+    "level": 48,
+    "slug": "ホッチキス",
+    "hidden_at": null,
+    "document_url": "https://www.wanikani.com/vocabulary/%E3%83%9B%E3%83%83%E3%83%81%E3%82%AD%E3%82%B9",
+    "characters": "ホッチキス",
+    "meanings": [
+      {
+        "meaning": "Stapler",
+        "primary": true,
+        "accepted_answer": true
+      }
+    ],
+    "auxiliary_meanings": [],
+    "parts_of_speech": [
+      "noun"
+    ],
+    "meaning_mnemonic": "This word means <vocabulary>stapler</vocabulary>. It comes from the name of the company that first imported staplers into Japan: Hotchkiss! Here’s a mnemonic to help you remember it: \n\nEver given a <reading>hot kiss</reading> (ホッチキス) to a <vocabulary>stapler</vocabulary>? Imagine what that feels like, and you'll remember this word forever.",
+    "context_sentences": [
+      {
+        "en": "Ah, we're out of staples.",
+        "ja": "あ、ホッチキスの針、切れちゃった。"
+      },
+      {
+        "en": "Wow, that's thick! I wonder if I can staple it together with this stapler?",
+        "ja": "うわっ、分厚い！このホッチキスでとじれるかな？"
+      },
+      {
+        "en": "When stapling Japanese documents, it is common practice to staple the top right corner for vertical writing and the top left corner for horizontal writing.",
+        "ja": "日本の書類をホッチキスで止める時は、縦書きの場合は右上、横書きの場合は左上をホチキスで止めるのが一般的です。"
+      }
+    ],
+    "pronunciation_audios": [
+      {
+        "url": "https://files.wanikani.com/dusy5tpavkd6wv0ssx9etlzqqnlw",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44811,
+          "pronunciation": "ホッチキス",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/r45zq9sdykzvn37pozrthgqkfww2",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44811,
+          "pronunciation": "ホッチキス",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      },
+      {
+        "url": "https://files.wanikani.com/fnfk16sqmmbd3r5bi1btfm4w9kko",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44743,
+          "pronunciation": "ホッチキス",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/heprmieqq0onxzu37thi9ehsduyw",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44743,
+          "pronunciation": "ホッチキス",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      }
+    ],
+    "lesson_position": 1,
+    "spaced_repetition_system_id": 1
+  }
+}

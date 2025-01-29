@@ -1,0 +1,37 @@
+{
+  "id": 5751,
+  "type": "vocabulary",
+  "characters": "降る",
+  "primaryMeaning": "To Fall",
+  "otherMeanings": [
+    "To Come Down"
+  ],
+  "primaryReading": "ふる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1548,
+      "character": "降",
+      "readings": [
+        "こう",
+        "お",
+        "ふ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>descend</kanji>, but this word means something closer to <vocabulary>to fall</vocabulary> or <vocabulary>to come down</vocabulary>. Usually used with things like rain or snow.",
+  "readingMnemonic": "The rain is <vocabulary>to fall</vocabulary> and you're outside anyway with your mouth open so you'll get a mouth <reading>full</reading> (ふる) of rainwater! All the ponds, wells, and your yard will be full of water too!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%99%8D%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "降",
+      "id": 1548,
+      "reading": "ふ"
+    },
+    {
+      "type": "kana",
+      "value": "る"
+    }
+  ]
+}

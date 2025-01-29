@@ -1,0 +1,47 @@
+{
+  "id": 1506,
+  "type": "kanji",
+  "character": "汚",
+  "primaryMeaning": "Dirty",
+  "otherMeanings": [],
+  "primaryReading": "お",
+  "readings": [
+    {
+      "reading": "お",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "よご",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "きたな",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "けが",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "What's the most <kanji>dirty</kanji> are the prisons' <reading>o</reading>bi (お) collections. You can hear the prisoners crying, \"Oh, not the obi. Our obi are all dirty, oh no!\"",
+  "meaningMnemonic": "A <radical>tsunami</radical> hit not one, but <radical>TWO</radical> <radical>prison</radical>s, making them extremely <kanji>dirty</kanji>.",
+  "vocabularyIds": [
+    5585,
+    5586,
+    5587,
+    5588,
+    5736,
+    7471,
+    8476
+  ],
+  "radicalIds": [
+    103,
+    7,
+    14
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%B1%9A"
+}

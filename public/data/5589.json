@@ -1,0 +1,37 @@
+{
+  "id": 5589,
+  "type": "vocabulary",
+  "characters": "欲しい",
+  "primaryMeaning": "Wanted",
+  "otherMeanings": [
+    "Desired",
+    "Want"
+  ],
+  "primaryReading": "ほしい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1507,
+      "character": "欲",
+      "readings": [
+        "よく",
+        "ほ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>want</kanji>? It's also <vocabulary>wanted</vocabulary>.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: What do you want? A <reading>hoe</reading> (ほ), like a garden hoe, you sicko.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%AC%B2%E3%81%97%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "欲",
+      "id": 1507,
+      "reading": "ほ"
+    },
+    {
+      "type": "kana",
+      "value": "しい"
+    }
+  ]
+}

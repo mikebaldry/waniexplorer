@@ -1,0 +1,34 @@
+{
+  "id": 6592,
+  "type": "vocabulary",
+  "characters": "掘る",
+  "primaryMeaning": "To Dig",
+  "otherMeanings": [],
+  "primaryReading": "ほる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1814,
+      "character": "掘",
+      "readings": [
+        "くつ",
+        "ほ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>dig</kanji> and the verb vocab version is <vocabulary>to dig</vocabulary>.",
+  "readingMnemonic": "If you are going <vocabulary>to dig</vocabulary> you are going to end up making a <reading>ho</reading>le (ほ).",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8E%98%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "掘",
+      "id": 1814,
+      "reading": "ほ"
+    },
+    {
+      "type": "kana",
+      "value": "る"
+    }
+  ]
+}

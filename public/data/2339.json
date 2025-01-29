@@ -1,0 +1,36 @@
+{
+  "id": 2339,
+  "type": "kanji",
+  "character": "羅",
+  "primaryMeaning": "Spread Out",
+  "otherMeanings": [
+    "Arrange"
+  ],
+  "primaryReading": "ら",
+  "readings": [
+    {
+      "reading": "ら",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "うすもの",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You <kanji>spread out</kanji> your net and <kanji>arrange</kanji> it just so. You expect it to catch a turkey, but instead you catch the ancient Egyptian god <reading>Ra</reading> (ら).",
+  "meaningMnemonic": "You have a <radical>net</radical> of <radical>thread</radical> for catching a <radical>turkey</radical>. But, it must be <kanji>spread out</kanji> and you must <kanji>arrange</kanji> it first.",
+  "vocabularyIds": [
+    8391,
+    8392,
+    8393,
+    9126
+  ],
+  "radicalIds": [
+    163,
+    86,
+    240
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%BE%85"
+}

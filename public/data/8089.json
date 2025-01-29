@@ -1,0 +1,51 @@
+{
+  "id": 8089,
+  "type": "vocabulary",
+  "characters": "和尚",
+  "primaryMeaning": "Buddhist High Priest",
+  "otherMeanings": [
+    "High Priest",
+    "Buddhist Priest"
+  ],
+  "primaryReading": "おしょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 712,
+      "character": "和",
+      "readings": [
+        "わ",
+        "お",
+        "なご",
+        "やわ",
+        "かず",
+        "より"
+      ]
+    },
+    {
+      "id": 2236,
+      "character": "尚",
+      "readings": [
+        "しょう",
+        "なお"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Who works for <kanji>peace</kanji> and is held in high <kanji>esteem</kanji>? A <vocabulary>Buddhist high priest</vocabulary>. They work harder than anyone else to reach world peace so they're held in very high esteem.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You didn't learn this reading for 和 yet, so here's a mnemonic to help you:\n\nThe only thing you ever hear the <vocabulary>Buddhist High Priest</vocabulary> say is \"<reading>O</reading>ooooo\" (お). It must be some kind of Buddhist humming or chanting. Every time you think about him you hear that o sound in your head.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%92%8C%E5%B0%9A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "和",
+      "id": 712,
+      "reading": "お"
+    },
+    {
+      "type": "kanji",
+      "value": "尚",
+      "id": 2236,
+      "reading": "しょう"
+    }
+  ]
+}

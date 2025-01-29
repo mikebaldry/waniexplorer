@@ -1,0 +1,45 @@
+{
+  "id": 4081,
+  "type": "vocabulary",
+  "characters": "告白",
+  "primaryMeaning": "Confession",
+  "otherMeanings": [],
+  "primaryReading": "こくはく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1031,
+      "character": "告",
+      "readings": [
+        "こく",
+        "つ"
+      ]
+    },
+    {
+      "id": 491,
+      "character": "白",
+      "readings": [
+        "はく",
+        "しろ",
+        "しら"
+      ]
+    }
+  ],
+  "meaningMnemonic": "To <kanji>announce</kanji> something and make it <kanji>white</kanji> is to make a <vocabulary>confession</vocabulary>. Think of a completely blank sheet of paper - your confession clears all the announcements from the sheet of paper, making it white.\n\nThis word is often used when someone confesses romantic feelings for someone else.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%91%8A%E7%99%BD",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "告",
+      "id": 1031,
+      "reading": "こく"
+    },
+    {
+      "type": "kanji",
+      "value": "白",
+      "id": 491,
+      "reading": "はく"
+    }
+  ]
+}

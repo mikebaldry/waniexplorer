@@ -1,0 +1,37 @@
+{
+  "id": 1173,
+  "type": "kanji",
+  "character": "藤",
+  "primaryMeaning": "Wisteria",
+  "otherMeanings": [],
+  "primaryReading": "ふじ",
+  "readings": [
+    {
+      "reading": "ふじ",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "とう",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "どう",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Since they're on the moon, where did they get the <kanji>wisteria</kanji> from? Actually, from one of the points on earth that is nearest to the moon, Mt. <reading>Fuji</reading> (ふじ).",
+  "meaningMnemonic": "The only <radical>flowers</radical> that the <radical>moon</radical> <radical>gladiator</radical>s will <radical>water</radical> are <kanji>wisteria</kanji>.",
+  "vocabularyIds": [
+    4544
+  ],
+  "radicalIds": [
+    90,
+    43,
+    8819,
+    45
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%97%A4"
+}

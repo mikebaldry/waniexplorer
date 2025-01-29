@@ -1,0 +1,37 @@
+{
+  "id": 1248,
+  "type": "kanji",
+  "character": "限",
+  "primaryMeaning": "Limit",
+  "otherMeanings": [],
+  "primaryReading": "げん",
+  "readings": [
+    {
+      "reading": "げん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "かぎ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "The person who hates these <kanji>limit</kanji>s more than anyone else is <reading>Gen</reading>ji (げん). He wants to be able to tunnel under buildings, sneak in, smooch ladies, and sneak back out. But all the building root limits make that impossible!",
+  "meaningMnemonic": "A <radical>building</radical>'s <radical>root</radical>s will <kanji>limit</kanji> the things under and around it.",
+  "vocabularyIds": [
+    4744,
+    4745,
+    4746,
+    4747,
+    4748,
+    4749,
+    4750,
+    4973
+  ],
+  "radicalIds": [
+    176,
+    196
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%99%90"
+}

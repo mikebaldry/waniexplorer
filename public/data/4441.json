@@ -1,0 +1,53 @@
+{
+  "id": 4441,
+  "type": "vocabulary",
+  "characters": "素晴らしい",
+  "primaryMeaning": "Wonderful",
+  "otherMeanings": [
+    "Splendid",
+    "Magnificent",
+    "The Best"
+  ],
+  "primaryReading": "すばらしい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1138,
+      "character": "素",
+      "readings": [
+        "そ",
+        "す",
+        "もと"
+      ]
+    },
+    {
+      "id": 933,
+      "character": "晴",
+      "readings": [
+        "は",
+        "せい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "An <kanji>element</kanji> of <kanji>clear up</kanji> (like the sky clearing up!) is so <vocabulary>wonderful</vocabulary> and <vocabulary>splendid</vocabulary>. Sort of a weird word, but very useful. Just think of that wonderful feeling you get when the sun breaks and things clear up and it's awesome.",
+  "readingMnemonic": "The reading is a bit weird, too. Luckily, you've learned both of them already. 晴れる is はれる. That's the reading you use here, though は goes to ば.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B4%A0%E6%99%B4%E3%82%89%E3%81%97%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "素",
+      "id": 1138,
+      "reading": "す"
+    },
+    {
+      "type": "kanji",
+      "value": "晴",
+      "id": 933,
+      "reading": "ば"
+    },
+    {
+      "type": "kana",
+      "value": "らしい"
+    }
+  ]
+}

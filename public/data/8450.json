@@ -1,0 +1,44 @@
+{
+  "id": 8450,
+  "type": "vocabulary",
+  "characters": "帆走",
+  "primaryMeaning": "Sailing",
+  "otherMeanings": [],
+  "primaryReading": "はんそう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2389,
+      "character": "帆",
+      "readings": [
+        "はん",
+        "ほ"
+      ]
+    },
+    {
+      "id": 595,
+      "character": "走",
+      "readings": [
+        "そう",
+        "はし"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>sail</kanji> <kanji>run</kanji>s boats along the sea by <vocabulary>sailing</vocabulary>! You can't run along the water unless the sail is out and catching the wind.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B8%86%E8%B5%B0",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "帆",
+      "id": 2389,
+      "reading": "はん"
+    },
+    {
+      "type": "kanji",
+      "value": "走",
+      "id": 595,
+      "reading": "そう"
+    }
+  ]
+}

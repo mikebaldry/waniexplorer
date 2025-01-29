@@ -1,0 +1,49 @@
+{
+  "id": 3039,
+  "type": "vocabulary",
+  "characters": "入所",
+  "primaryMeaning": "Admission",
+  "otherMeanings": [
+    "Entrance",
+    "Imprisonment",
+    "Internment"
+  ],
+  "primaryReading": "にゅうしょ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 445,
+      "character": "入",
+      "readings": [
+        "にゅう",
+        "はい",
+        "い"
+      ]
+    },
+    {
+      "id": 707,
+      "character": "所",
+      "readings": [
+        "しょ",
+        "ところ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You <kanji>enter</kanji> a <kanji>facility</kanji>. So this is your <vocabulary>admission</vocabulary> or <vocabulary>entrance</vocabulary> into that facility. \n\n入所 is for entering facilities or institutions, often those with names ending in 所, like a 研究所 (research institute). It's also used in prison contexts. You might gain \"admission\" to prison for not doing your WaniKani reviews, for example, at least in countries ruled by Crabigators...",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%85%A5%E6%89%80",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "入",
+      "id": 445,
+      "reading": "にゅう"
+    },
+    {
+      "type": "kanji",
+      "value": "所",
+      "id": 707,
+      "reading": "しょ"
+    }
+  ]
+}

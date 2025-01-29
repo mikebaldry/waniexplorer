@@ -1,0 +1,46 @@
+{
+  "id": 4478,
+  "type": "vocabulary",
+  "characters": "義理",
+  "primaryMeaning": "Sense Of Duty",
+  "otherMeanings": [
+    "Social Obligation",
+    "In-Law"
+  ],
+  "primaryReading": "ぎり",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1154,
+      "character": "義",
+      "readings": [
+        "ぎ"
+      ]
+    },
+    {
+      "id": 669,
+      "character": "理",
+      "readings": [
+        "り",
+        "ことわり"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You have <kanji>righteousness</kanji> and then a <kanji>reason</kanji> behind it, at least in your own mind. This is your <vocabulary>sense of duty</vocabulary>. And it really is a \"sense\" in a way, too. You just feel it. It's not an actual thing that is tangible. It is your own personal reason for this righteousness.\n\nThis word can also mean <vocabulary>in-law</vocabulary> like your mother-in-law, because they're your mother in the social obligation sense only, not by blood.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%BE%A9%E7%90%86",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "義",
+      "id": 1154,
+      "reading": "ぎ"
+    },
+    {
+      "type": "kanji",
+      "value": "理",
+      "id": 669,
+      "reading": "り"
+    }
+  ]
+}

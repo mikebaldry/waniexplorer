@@ -1,0 +1,47 @@
+{
+  "id": 3331,
+  "type": "vocabulary",
+  "characters": "根気",
+  "primaryMeaning": "Patience",
+  "otherMeanings": [
+    "Perseverance",
+    "Persistence"
+  ],
+  "primaryReading": "こんき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 817,
+      "character": "根",
+      "readings": [
+        "こん",
+        "ね"
+      ]
+    },
+    {
+      "id": 548,
+      "character": "気",
+      "readings": [
+        "き",
+        "け"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>root</kanji> of your <kanji>energy</kanji>. You have to dig deep into your energy, all the way to the origin and source of it, to have enough <vocabulary>patience</vocabulary> to deal with this dumb kid who's eating away at your not-root energy. It's all you have, and you need to use it.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%A0%B9%E6%B0%97",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "根",
+      "id": 817,
+      "reading": "こん"
+    },
+    {
+      "type": "kanji",
+      "value": "気",
+      "id": 548,
+      "reading": "き"
+    }
+  ]
+}

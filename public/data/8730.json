@@ -1,0 +1,32 @@
+{
+  "id": 8730,
+  "type": "vocabulary",
+  "characters": "〜房",
+  "primaryMeaning": "Section",
+  "otherMeanings": [
+    "Bunch"
+  ],
+  "primaryReading": "ふさ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1692,
+      "character": "房",
+      "readings": [
+        "ぼう",
+        "ふさ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Remember when you learned 房? Well it can be used as a counter for clusters of fruit. Like a <vocabulary>section</vocabulary> of an orange or a <vocabulary>bunch</vocabulary> of grapes! Yum!",
+  "readingMnemonic": "You learned this reading already when you learned 房!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E3%80%9C%E6%88%BF",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "房",
+      "id": 1692,
+      "reading": "ふさ"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 2742,
+  "type": "vocabulary",
+  "characters": "会う",
+  "primaryMeaning": "To Meet",
+  "otherMeanings": [
+    "To Encounter"
+  ],
+  "primaryReading": "あう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 566,
+      "character": "会",
+      "readings": [
+        "かい",
+        "あ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>meet</kanji> so the verb form of that is <vocabulary>to meet</vocabulary> or <vocabulary>to encounter</vocabulary>.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nYou have to remember the あ part but let's include the う as well for this one. Who do you want <vocabulary>to meet</vocabulary> more than anyone? Think about it. Then, imagine meeting them. The first thing they do is grab your arm and pinch it. You yell out \"<reading>OW</reading>!\" (あう) and they laugh and run away.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BC%9A%E3%81%86",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "会",
+      "id": 566,
+      "reading": "あ"
+    },
+    {
+      "type": "kana",
+      "value": "う"
+    }
+  ]
+}

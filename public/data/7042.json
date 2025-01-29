@@ -1,0 +1,47 @@
+{
+  "id": 7042,
+  "type": "vocabulary",
+  "characters": "阻止",
+  "primaryMeaning": "Obstruction",
+  "otherMeanings": [
+    "Hindrance"
+  ],
+  "primaryReading": "そし",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1972,
+      "character": "阻",
+      "readings": [
+        "そ",
+        "はば"
+      ]
+    },
+    {
+      "id": 514,
+      "character": "止",
+      "readings": [
+        "し",
+        "と",
+        "や"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you <kanji>thwart</kanji> and <kanji>stop</kanji> something, you are an <vocabulary>obstruction</vocabulary> or <vocabulary>hindrance</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%98%BB%E6%AD%A2",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "阻",
+      "id": 1972,
+      "reading": "そ"
+    },
+    {
+      "type": "kanji",
+      "value": "止",
+      "id": 514,
+      "reading": "し"
+    }
+  ]
+}

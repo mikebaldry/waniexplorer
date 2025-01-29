@@ -1,0 +1,48 @@
+{
+  "id": 455,
+  "type": "kanji",
+  "character": "山",
+  "primaryMeaning": "Mountain",
+  "otherMeanings": [],
+  "primaryReading": "さん",
+  "readings": [
+    {
+      "reading": "さん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "やま",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Think about <kanji>mountains</kanji> talking to each other, calling each other by their names and adding the Japanese name-ender <reading>san</reading> (さん) to each of their names. \"Hello, Everest-<reading>san</reading>.\" \"Oh hi, Fuji-<reading>san</reading>.\"",
+  "meaningMnemonic": "The <radical>mountain</radical> radical and the <kanji>mountain</kanji> kanji are the same.",
+  "vocabularyIds": [
+    2504,
+    2505,
+    2549,
+    3392,
+    3652,
+    4440,
+    5475,
+    5490,
+    5923,
+    5925,
+    6534,
+    6708,
+    7858,
+    8140,
+    8233,
+    8410,
+    8678,
+    8957,
+    8962,
+    9041
+  ],
+  "radicalIds": [
+    20
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%B1%B1"
+}

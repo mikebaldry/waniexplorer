@@ -1,0 +1,47 @@
+{
+  "id": 8151,
+  "type": "vocabulary",
+  "characters": "逸脱",
+  "primaryMeaning": "Deviation",
+  "otherMeanings": [
+    "Departure"
+  ],
+  "primaryReading": "いつだつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2235,
+      "character": "逸",
+      "readings": [
+        "いつ",
+        "そ",
+        "はぐ"
+      ]
+    },
+    {
+      "id": 1157,
+      "character": "脱",
+      "readings": [
+        "だつ",
+        "ぬ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you <kanji>deviate</kanji> from the plan and <kanji>escape</kanji> from it, that's a serious <vocabulary>deviation</vocabulary> and could ruin everything! Stick to the plan! Stop deviating!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%80%B8%E8%84%B1",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "逸",
+      "id": 2235,
+      "reading": "いつ"
+    },
+    {
+      "type": "kanji",
+      "value": "脱",
+      "id": 1157,
+      "reading": "だつ"
+    }
+  ]
+}

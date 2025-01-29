@@ -1,0 +1,45 @@
+{
+  "id": 7009,
+  "type": "vocabulary",
+  "characters": "囲碁",
+  "primaryMeaning": "Go",
+  "otherMeanings": [
+    "Go Board Game"
+  ],
+  "primaryReading": "いご",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 901,
+      "character": "囲",
+      "readings": [
+        "い",
+        "かこ"
+      ]
+    },
+    {
+      "id": 1959,
+      "character": "碁",
+      "readings": [
+        "ご"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The game of <kanji>go</kanji> is one where you <kanji>surround</kanji> the enemy with your go pieces. So, adding this to the name of <vocabulary>go</vocabulary> makes sense, and just makes this the <vocabulary>go board game</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%9B%B2%E7%A2%81",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "囲",
+      "id": 901,
+      "reading": "い"
+    },
+    {
+      "type": "kanji",
+      "value": "碁",
+      "id": 1959,
+      "reading": "ご"
+    }
+  ]
+}

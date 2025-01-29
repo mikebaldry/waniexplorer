@@ -1,0 +1,36 @@
+{
+  "id": 3585,
+  "type": "vocabulary",
+  "characters": "感じ",
+  "primaryMeaning": "Feeling",
+  "otherMeanings": [
+    "Sense",
+    "Impression"
+  ],
+  "primaryReading": "かんじ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 862,
+      "character": "感",
+      "readings": [
+        "かん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This is a noun version of the kanji <kanji>feeling</kanji>. What is that? It's a <vocabulary>feeling</vocabulary> as well.",
+  "readingMnemonic": "The reading for both on'yomi and kun'yomi of this kanji are the same, actually. So long as you learned the reading that was with the kanji, you can't go wrong. Feel good?",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%84%9F%E3%81%98",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "感",
+      "id": 862,
+      "reading": "かん"
+    },
+    {
+      "type": "kana",
+      "value": "じ"
+    }
+  ]
+}

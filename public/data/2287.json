@@ -1,0 +1,31 @@
+{
+  "id": 2287,
+  "type": "kanji",
+  "character": "愉",
+  "primaryMeaning": "Pleasant",
+  "otherMeanings": [],
+  "primaryReading": "ゆ",
+  "readings": [
+    {
+      "reading": "ゆ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "たの",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "The <kanji>pleasant</kanji> soul within the Death Star actually looks like a <reading>yu</reading>rt (ゆ), not a big angry, metal ball.",
+  "meaningMnemonic": "The <radical>soul</radical> of the <radical>Death Star</radical> is actually quite <kanji>pleasant</kanji>. And if you think about it, it's the people who control the Death Star that are evil and kill.",
+  "vocabularyIds": [
+    8202,
+    8363
+  ],
+  "radicalIds": [
+    232,
+    8790
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%84%89"
+}

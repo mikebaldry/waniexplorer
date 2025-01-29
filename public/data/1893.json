@@ -1,0 +1,31 @@
+{
+  "id": 1893,
+  "type": "kanji",
+  "character": "釣",
+  "primaryMeaning": "Fishing",
+  "otherMeanings": [],
+  "primaryReading": "つ",
+  "readings": [
+    {
+      "reading": "つ",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "ちょう",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "You caught a couple of gold fish. <reading>Two</reading> (つ) gold fish, actually!",
+  "meaningMnemonic": "A <radical>gold</radical> <radical>pool</radical> is where you're going to go <kanji>fishing</kanji>. Because, if the pool is gold, hopefully the fish are too.",
+  "vocabularyIds": [
+    6814,
+    6815
+  ],
+  "radicalIds": [
+    118,
+    236
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%87%A3"
+}

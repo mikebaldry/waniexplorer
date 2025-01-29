@@ -1,0 +1,45 @@
+{
+  "id": 1796,
+  "type": "kanji",
+  "character": "衣",
+  "primaryMeaning": "Clothes",
+  "otherMeanings": [],
+  "primaryReading": "い",
+  "readings": [
+    {
+      "reading": "い",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "え",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ころも",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "きぬ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "An <reading>ea</reading>gle (い) sees a pile of your <kanji>clothes</kanji> and lays an <reading>e</reading>gg (え) in them. The eagle’s egg needs a soft warm place to incubate, and your pile of clothes is the perfect place.",
+  "meaningMnemonic": "The <radical>clothes</radical> radical and the <kanji>clothes</kanji> kanji are exactly the same! Surprising!",
+  "vocabularyIds": [
+    6529,
+    6530,
+    6531,
+    6651,
+    7611,
+    8877,
+    9310
+  ],
+  "radicalIds": [
+    320
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%A1%A3"
+}

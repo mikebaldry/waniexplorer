@@ -1,0 +1,46 @@
+{
+  "id": 9098,
+  "type": "vocabulary",
+  "characters": "瑛斗",
+  "primaryMeaning": "Eito",
+  "otherMeanings": [
+    "Akito"
+  ],
+  "primaryReading": "えいと",
+  "otherReadings": [
+    "あきと"
+  ],
+  "kanji": [
+    {
+      "id": 2293,
+      "character": "瑛",
+      "readings": [
+        "えい"
+      ]
+    },
+    {
+      "id": 1886,
+      "character": "斗",
+      "readings": [
+        "と"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>crystal</kanji> <kanji>ladle</kanji> is the Japanese given name <vocabulary>Eito</vocabulary>. If you know the singer-songwriter Eito, imagine him holding a crystal ladle. If not, any Eito will do! Other public figures with the name include pro baseball player Tanaka Eito (田中 瑛斗) and Takarazuka actor Namiki Eito (波輝 瑛斗).",
+  "readingMnemonic": "This name uses the on'yomi for both kanji, and you learned both these readings with the kanji. Get yourself a crystal ladle to celebrate!\n\nNote: This name can also sometimes be read あきと, as is the case for pro baseball player Takabe Akito (髙部 瑛斗).",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%91%9B%E6%96%97",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "瑛",
+      "id": 2293,
+      "reading": "えい"
+    },
+    {
+      "type": "kanji",
+      "value": "斗",
+      "id": 1886,
+      "reading": "と"
+    }
+  ]
+}

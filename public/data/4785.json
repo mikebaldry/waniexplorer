@@ -1,0 +1,46 @@
+{
+  "id": 4785,
+  "type": "vocabulary",
+  "characters": "景観",
+  "primaryMeaning": "Landscape",
+  "otherMeanings": [
+    "Cityscape",
+    "Scenery"
+  ],
+  "primaryReading": "けいかん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1256,
+      "character": "景",
+      "readings": [
+        "けい"
+      ]
+    },
+    {
+      "id": 1175,
+      "character": "観",
+      "readings": [
+        "かん",
+        "み"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Quite the <kanji>scene</kanji>, this <kanji>view</kanji> is. So what you're looking at is a <vocabulary>landscape</vocabulary>. This often refers to a <vocabulary>cityscape</vocabulary> or the general <vocabulary>scenery</vocabulary> of an area.\n\nThis is a formal word that’s commonly used in the context of urban planning or environmental design.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%99%AF%E8%A6%B3",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "景",
+      "id": 1256,
+      "reading": "けい"
+    },
+    {
+      "type": "kanji",
+      "value": "観",
+      "id": 1175,
+      "reading": "かん"
+    }
+  ]
+}

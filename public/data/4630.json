@@ -1,0 +1,61 @@
+{
+  "id": 4630,
+  "type": "vocabulary",
+  "characters": "新幹線",
+  "primaryMeaning": "Bullet Train",
+  "otherMeanings": [
+    "Shinkansen"
+  ],
+  "primaryReading": "しんかんせん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 857,
+      "character": "新",
+      "readings": [
+        "しん",
+        "あたら",
+        "あら",
+        "にい"
+      ]
+    },
+    {
+      "id": 1204,
+      "character": "幹",
+      "readings": [
+        "かん",
+        "みき"
+      ]
+    },
+    {
+      "id": 767,
+      "character": "線",
+      "readings": [
+        "せん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This is one of those words that makes more sense when you look at the reading first. Technically this is the \"New Tree Trunk Line\" but you wouldn't realize this is the Japanese <vocabulary>bullet train</vocabulary> aka <vocabulary>Shinkansen</vocabulary> from that, would you? Maybe going to the reading will help you after all.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Read this to be able to remember the meaning, too, which is <vocabulary>Shinkansen</vocabulary>.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%96%B0%E5%B9%B9%E7%B7%9A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "新",
+      "id": 857,
+      "reading": "しん"
+    },
+    {
+      "type": "kanji",
+      "value": "幹",
+      "id": 1204,
+      "reading": "かん"
+    },
+    {
+      "type": "kanji",
+      "value": "線",
+      "id": 767,
+      "reading": "せん"
+    }
+  ]
+}

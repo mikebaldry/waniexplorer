@@ -1,0 +1,33 @@
+{
+  "id": 1976,
+  "type": "kanji",
+  "character": "架",
+  "primaryMeaning": "Shelf",
+  "otherMeanings": [],
+  "primaryReading": "か",
+  "readings": [
+    {
+      "reading": "か",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "か",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Once you turn the tree into a <kanji>shelf</kanji> you put the shelf in your <reading>ca</reading>r (か) and sell it at a local pawn shop. You keep doing this over and over again until you are rich. You command the trees to turn into shelves and then you take the shelves in your car to sell them. Easy money.",
+  "meaningMnemonic": "With the <radical>power</radical> of your <radical>mouth</radical> you command a <radical>tree</radical> to become a <kanji>shelf</kanji>. Most of the time one would have to use their hands and tools to turn a tree into a shelf, but you are capable of turning a tree into a shelf by using the power of your mouth.",
+  "vocabularyIds": [
+    7051,
+    7052,
+    7053
+  ],
+  "radicalIds": [
+    13,
+    16,
+    23
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%9E%B6"
+}

@@ -1,0 +1,44 @@
+{
+  "id": 6363,
+  "type": "vocabulary",
+  "characters": "駐在",
+  "primaryMeaning": "Residence",
+  "otherMeanings": [
+    "Stay"
+  ],
+  "primaryReading": "ちゅうざい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1743,
+      "character": "駐",
+      "readings": [
+        "ちゅう"
+      ]
+    },
+    {
+      "id": 1107,
+      "character": "在",
+      "readings": [
+        "ざい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You're a <kanji>resident</kanji> and you <kanji>exist</kanji> in the place you're residing in. That means you have <vocabulary>residence</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%A7%90%E5%9C%A8",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "駐",
+      "id": 1743,
+      "reading": "ちゅう"
+    },
+    {
+      "type": "kanji",
+      "value": "在",
+      "id": 1107,
+      "reading": "ざい"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 922,
+  "type": "kanji",
+  "character": "術",
+  "primaryMeaning": "Technique",
+  "otherMeanings": [
+    "Art"
+  ],
+  "primaryReading": "じゅつ",
+  "readings": [
+    {
+      "reading": "じゅつ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "すべ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Angels are so good at this because they are trained in nin<reading>jutsu</reading> (じゅつ), or the \"ninja techniques.\" Everyone knows that ninjas are great at carrying drops on the go!",
+  "meaningMnemonic": "There <radical>go</radical> some <radical>angel</radical>s with <radical>drop</radical>s on their shoulders. Carrying drops like that requires <kanji>technique</kanji>. It’s a real <kanji>art</kanji>.",
+  "vocabularyIds": [
+    3726,
+    3727,
+    3908,
+    3916,
+    3921,
+    6977,
+    7023
+  ],
+  "radicalIds": [
+    111,
+    130,
+    3
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%A1%93"
+}

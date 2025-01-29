@@ -1,0 +1,32 @@
+{
+  "id": 2116,
+  "type": "kanji",
+  "character": "洞",
+  "primaryMeaning": "Cave",
+  "otherMeanings": [],
+  "primaryReading": "どう",
+  "readings": [
+    {
+      "reading": "どう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ほら",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Best way to remember the reading for this kanji is to think about how the shape of a cave is the shape of a <reading>dou</reading>ghnut (どう).",
+  "meaningMnemonic": "A <radical>tsunami</radical> is the <radical>same</radical> as a <kanji>cave</kanji>. Because, if a wave is big enough, it will curl over on itself, creating a sort of cave within the wave. That's why it's the same as a cave!",
+  "vocabularyIds": [
+    7426,
+    7427,
+    7428
+  ],
+  "radicalIds": [
+    103,
+    341
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%B4%9E"
+}

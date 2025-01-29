@@ -1,0 +1,45 @@
+{
+  "id": 5952,
+  "type": "vocabulary",
+  "characters": "旧姓",
+  "primaryMeaning": "Former Surname",
+  "otherMeanings": [
+    "Maiden Name"
+  ],
+  "primaryReading": "きゅうせい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1611,
+      "character": "旧",
+      "readings": [
+        "きゅう"
+      ]
+    },
+    {
+      "id": 1612,
+      "character": "姓",
+      "readings": [
+        "せい",
+        "しょう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Your <kanji>former</kanji> <kanji>surname</kanji> is just that: your <vocabulary>former surname</vocabulary>! This is often your <vocabulary>maiden name</vocabulary>, as in the name you had before getting married.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%97%A7%E5%A7%93",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "旧",
+      "id": 1611,
+      "reading": "きゅう"
+    },
+    {
+      "type": "kanji",
+      "value": "姓",
+      "id": 1612,
+      "reading": "せい"
+    }
+  ]
+}

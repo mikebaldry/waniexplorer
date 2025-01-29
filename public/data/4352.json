@@ -1,0 +1,45 @@
+{
+  "id": 4352,
+  "type": "vocabulary",
+  "characters": "汽船",
+  "primaryMeaning": "Steam Ship",
+  "otherMeanings": [
+    "Steam Boat"
+  ],
+  "primaryReading": "きせん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1038,
+      "character": "汽",
+      "readings": [
+        "き"
+      ]
+    },
+    {
+      "id": 671,
+      "character": "船",
+      "readings": [
+        "せん",
+        "ふね"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>steam</kanji> <kanji>ship</kanji> is a <vocabulary>steam ship</vocabulary> or <vocabulary>steam boat</vocabulary>. So fancy back in their day!",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B1%BD%E8%88%B9",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "汽",
+      "id": 1038,
+      "reading": "き"
+    },
+    {
+      "type": "kanji",
+      "value": "船",
+      "id": 671,
+      "reading": "せん"
+    }
+  ]
+}

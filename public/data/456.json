@@ -1,0 +1,38 @@
+{
+  "id": 456,
+  "type": "kanji",
+  "character": "川",
+  "primaryMeaning": "River",
+  "otherMeanings": [],
+  "primaryReading": "かわ",
+  "readings": [
+    {
+      "reading": "かわ",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "せん",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "You're standing next to a <kanji>river</kanji> that's actually used as a <reading>ca</reading>r <reading>wa</reading>sh (かわ). ",
+  "meaningMnemonic": "The <radical>river</radical> radical and the <kanji>river</kanji> kanji are the same as each other!",
+  "vocabularyIds": [
+    2506,
+    3993,
+    4620,
+    5495,
+    5978,
+    6117,
+    6930,
+    7073,
+    7413,
+    9120
+  ],
+  "radicalIds": [
+    21
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%B7%9D"
+}

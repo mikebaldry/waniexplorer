@@ -1,0 +1,37 @@
+{
+  "id": 5081,
+  "type": "vocabulary",
+  "characters": "誘う",
+  "primaryMeaning": "To Invite",
+  "otherMeanings": [
+    "To Tempt",
+    "To Entice"
+  ],
+  "primaryReading": "さそう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1327,
+      "character": "誘",
+      "readings": [
+        "ゆう",
+        "さそ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>invite</kanji>. The verb vocab version is <vocabulary>to invite</vocabulary>.\n\n誘う refers to casually inviting someone to a place, an event, or an activity. If it's an invitation to something tempting, it can also mean <vocabulary>to tempt</vocabulary>, or <vocabulary>to entice</vocabulary>.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: You <reading>saw so</reading> (さそ) much in this person that you decided <vocabulary>to invite</vocabulary> them to dinner.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%AA%98%E3%81%86",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "誘",
+      "id": 1327,
+      "reading": "さそ"
+    },
+    {
+      "type": "kana",
+      "value": "う"
+    }
+  ]
+}

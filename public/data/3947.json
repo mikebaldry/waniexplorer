@@ -1,0 +1,50 @@
+{
+  "id": 3947,
+  "type": "vocabulary",
+  "characters": "証明",
+  "primaryMeaning": "Proof",
+  "otherMeanings": [
+    "Prove",
+    "Verify"
+  ],
+  "primaryReading": "しょうめい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 987,
+      "character": "証",
+      "readings": [
+        "しょう",
+        "あかし"
+      ]
+    },
+    {
+      "id": 626,
+      "character": "明",
+      "readings": [
+        "めい",
+        "みょう",
+        "あ",
+        "あか",
+        "あき"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Is the <kanji>evidence</kanji> <kanji>bright</kanji> enough to convince me? Is this really <vocabulary>proof</vocabulary> enough to <vocabulary>prove</vocabulary> it?",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A8%BC%E6%98%8E",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "証",
+      "id": 987,
+      "reading": "しょう"
+    },
+    {
+      "type": "kanji",
+      "value": "明",
+      "id": 626,
+      "reading": "めい"
+    }
+  ]
+}

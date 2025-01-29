@@ -1,0 +1,53 @@
+{
+  "id": 4107,
+  "type": "vocabulary",
+  "characters": "書き直す",
+  "primaryMeaning": "To Rewrite",
+  "otherMeanings": [],
+  "primaryReading": "かきなおす",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 962,
+      "character": "書",
+      "readings": [
+        "しょ",
+        "か"
+      ]
+    },
+    {
+      "id": 630,
+      "character": "直",
+      "readings": [
+        "ちょく",
+        "じき",
+        "なお"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you take your <kanji>writing</kanji> and <kanji>fix</kanji> it, you are taking your writing and rewriting it. This word means <vocabulary>to rewrite</vocabulary>, because the fixing is really heavy, so regular revisions won't do.",
+  "readingMnemonic": "The readings come from 書く and 直す. Know those and you'll know how to read this word too!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9B%B8%E3%81%8D%E7%9B%B4%E3%81%99",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "書",
+      "id": 962,
+      "reading": "か"
+    },
+    {
+      "type": "kana",
+      "value": "き"
+    },
+    {
+      "type": "kanji",
+      "value": "直",
+      "id": 630,
+      "reading": "なお"
+    },
+    {
+      "type": "kana",
+      "value": "す"
+    }
+  ]
+}

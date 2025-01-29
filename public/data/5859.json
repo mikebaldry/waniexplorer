@@ -1,0 +1,35 @@
+{
+  "id": 5859,
+  "type": "vocabulary",
+  "characters": "遅れる",
+  "primaryMeaning": "To Be Late",
+  "otherMeanings": [],
+  "primaryReading": "おくれる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1579,
+      "character": "遅",
+      "readings": [
+        "ち",
+        "おそ",
+        "おく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If something or someone is <kanji>slow</kanji>, and they \"do slow\" they are going <vocabulary>to be late</vocabulary>.",
+  "readingMnemonic": "What is slow and probably going to be late all the time? A big <reading>oak</reading> (おく). Oaks have trouble moving, and are slow, and therefore are always late, too.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%81%85%E3%82%8C%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "遅",
+      "id": 1579,
+      "reading": "おく"
+    },
+    {
+      "type": "kana",
+      "value": "れる"
+    }
+  ]
+}

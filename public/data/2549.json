@@ -1,0 +1,45 @@
+{
+  "id": 2549,
+  "type": "vocabulary",
+  "characters": "火山",
+  "primaryMeaning": "Volcano",
+  "otherMeanings": [],
+  "primaryReading": "かざん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 480,
+      "character": "火",
+      "readings": [
+        "か",
+        "ひ",
+        "ほ"
+      ]
+    },
+    {
+      "id": 455,
+      "character": "山",
+      "readings": [
+        "さん",
+        "やま"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A fire mountain is probably what you think it is: A <vocabulary>volcano</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. The 山 reading is ざん instead of さん because of rendaku (sequential voicing).",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%81%AB%E5%B1%B1",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "火",
+      "id": 480,
+      "reading": "か"
+    },
+    {
+      "type": "kanji",
+      "value": "山",
+      "id": 455,
+      "reading": "ざん"
+    }
+  ]
+}

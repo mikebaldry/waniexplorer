@@ -1,0 +1,55 @@
+{
+  "id": 694,
+  "type": "kanji",
+  "character": "場",
+  "primaryMeaning": "Location",
+  "otherMeanings": [
+    "Place"
+  ],
+  "primaryReading": "じょう",
+  "readings": [
+    {
+      "reading": "じょう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ば",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Knowing your <kanji>location</kanji> from dirt is quite a feat! Who taught you that? It was <reading>Joe</reading> (じょう), the big local farmhand. Despite being a bit weird, he can identify any <kanji>place</kanji> just from its dirt!",
+  "meaningMnemonic": "<radical>Dirt</radical> makes it <radical>easy</radical> to identify your <kanji>location</kanji>. Even if you add an extra line to mark the ground, it's still easy. Keep that in mind and you can go from <kanji>place</kanji> to place.",
+  "vocabularyIds": [
+    3034,
+    3035,
+    3036,
+    3037,
+    3309,
+    3498,
+    4314,
+    4596,
+    4645,
+    4863,
+    4938,
+    5617,
+    5779,
+    5811,
+    5945,
+    6364,
+    6601,
+    6679,
+    7215,
+    7641,
+    7680,
+    7743,
+    8062,
+    9237
+  ],
+  "radicalIds": [
+    17,
+    172
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%A0%B4"
+}

@@ -1,0 +1,46 @@
+{
+  "id": 8562,
+  "type": "vocabulary",
+  "characters": "暗礁",
+  "primaryMeaning": "Reef",
+  "otherMeanings": [
+    "Sunken Reef"
+  ],
+  "primaryReading": "あんしょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 864,
+      "character": "暗",
+      "readings": [
+        "あん",
+        "くら",
+        "くれ"
+      ]
+    },
+    {
+      "id": 2413,
+      "character": "礁",
+      "readings": [
+        "しょう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>dark</kanji> <kanji>reef</kanji> is still a <vocabulary>reef</vocabulary>. It's just really deep underwater so it's kinda dark under there. Because of that it can also be called a <vocabulary>sunken reef</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9A%97%E7%A4%81",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "暗",
+      "id": 864,
+      "reading": "あん"
+    },
+    {
+      "type": "kanji",
+      "value": "礁",
+      "id": 2413,
+      "reading": "しょう"
+    }
+  ]
+}

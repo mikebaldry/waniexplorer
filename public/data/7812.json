@@ -1,0 +1,48 @@
+{
+  "id": 7812,
+  "type": "vocabulary",
+  "characters": "玄米",
+  "primaryMeaning": "Unpolished Rice",
+  "otherMeanings": [
+    "Unmilled Rice",
+    "Brown Rice"
+  ],
+  "primaryReading": "げんまい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2145,
+      "character": "玄",
+      "readings": [
+        "げん",
+        "くろ"
+      ]
+    },
+    {
+      "id": 574,
+      "character": "米",
+      "readings": [
+        "べい",
+        "まい",
+        "こめ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Mysterious</kanji> <kanji>rice</kanji> is <vocabulary>unpolished rice</vocabulary>, or <vocabulary>brown rice</vocabulary>. You're used to seeing nice white rice, so seeing rice look any other way is really strange for you.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You didn't learn this reading for 米 so here's a mnemonic to help you:\n\nThe biggest problem when you buy <vocabulary>unpolished rice</vocabulary> is the <reading>mic</reading>e (まい)! Mice like to eat and sleep in unpolished rice, so you have to be careful when you buy a bag that you get rid of all the sleeping mice before you try to cook it.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%8E%84%E7%B1%B3",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "玄",
+      "id": 2145,
+      "reading": "げん"
+    },
+    {
+      "type": "kanji",
+      "value": "米",
+      "id": 574,
+      "reading": "まい"
+    }
+  ]
+}

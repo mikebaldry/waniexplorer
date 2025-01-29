@@ -1,0 +1,36 @@
+{
+  "id": 3494,
+  "type": "vocabulary",
+  "characters": "化かす",
+  "primaryMeaning": "To Bewitch",
+  "otherMeanings": [
+    "To Enchant"
+  ],
+  "primaryReading": "ばかす",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 607,
+      "character": "化",
+      "readings": [
+        "か",
+        "ば"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You've seen the word 化ける (to transform) before. Now we have a similar word. This word means <vocabulary>to bewitch</vocabulary> because when you cuss (かす) you are saying a magic word and bewitching the person in front of you. Imagine yourself yelling out cuss words, and every time a new enchantment falls upon your victim.\n\nThis verb is transitive, meaning it takes a direct object. You bewitch someone or something.",
+  "readingMnemonic": "The reading is the same as 化ける, so make sure you know that word and you'll be able to learn this word's reading as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8C%96%E3%81%8B%E3%81%99",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "化",
+      "id": 607,
+      "reading": "ば"
+    },
+    {
+      "type": "kana",
+      "value": "かす"
+    }
+  ]
+}

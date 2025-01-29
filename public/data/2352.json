@@ -1,0 +1,34 @@
+{
+  "id": 2352,
+  "type": "kanji",
+  "character": "盲",
+  "primaryMeaning": "Blind",
+  "otherMeanings": [],
+  "primaryReading": "もう",
+  "readings": [
+    {
+      "reading": "もう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "めくら",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "When you're <kanji>blind</kanji> you probably shouldn't drive anymore because if you do you'll <reading>mow</reading> (もう) everyone over. Actually, don't mow your lawn either. Blind people probably shouldn't be driving anything.",
+  "meaningMnemonic": "The <radical>death</radical> of your <radical>eye</radical>s means that you've gone <kanji>blind</kanji>.",
+  "vocabularyIds": [
+    8384,
+    8385,
+    8386,
+    8387,
+    8400
+  ],
+  "radicalIds": [
+    212,
+    53
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%9B%B2"
+}

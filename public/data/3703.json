@@ -1,0 +1,43 @@
+{
+  "id": 3703,
+  "type": "vocabulary",
+  "characters": "骨格",
+  "primaryMeaning": "Skeleton",
+  "otherMeanings": [],
+  "primaryReading": "こっかく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 924,
+      "character": "骨",
+      "readings": [
+        "こつ",
+        "ほね"
+      ]
+    },
+    {
+      "id": 920,
+      "character": "格",
+      "readings": [
+        "かく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>status</kanji> of your <kanji>bones</kanji> (aka how they're all arranged and put together) equals your <vocabulary>skeleton</vocabulary>. That bone status is lookin' good on you!",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Just note that こつ changes to こっ.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%AA%A8%E6%A0%BC",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "骨",
+      "id": 924,
+      "reading": null
+    },
+    {
+      "type": "kanji",
+      "value": "格",
+      "id": 920,
+      "reading": null
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 1267,
+  "type": "kanji",
+  "character": "効",
+  "primaryMeaning": "Effective",
+  "otherMeanings": [],
+  "primaryReading": "こう",
+  "readings": [
+    {
+      "reading": "こう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "き",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "The most <kanji>effective</kanji> mix of two powers is two <reading>こう</reading>いちs. Take one, mix it with another, and you have something with immeasurable power. You use it to attack that animal-like creature. It's super effective!",
+  "meaningMnemonic": "If you <radical>mix</radical> different types of <radical>power</radical> you'll produce something <kanji>effective</kanji>.",
+  "vocabularyIds": [
+    4805,
+    4806,
+    4807,
+    4808,
+    5008,
+    5199,
+    6694
+  ],
+  "radicalIds": [
+    302,
+    13
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%8A%B9"
+}

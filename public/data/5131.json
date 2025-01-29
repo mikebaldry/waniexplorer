@@ -1,0 +1,43 @@
+{
+  "id": 5131,
+  "type": "vocabulary",
+  "characters": "旅券",
+  "primaryMeaning": "Passport",
+  "otherMeanings": [],
+  "primaryReading": "りょけん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 816,
+      "character": "旅",
+      "readings": [
+        "りょ",
+        "たび"
+      ]
+    },
+    {
+      "id": 1361,
+      "character": "券",
+      "readings": [
+        "けん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Your <kanji>trip</kanji> <kanji>ticket</kanji> is the ticket that lets you go on ALL of your trips. It's not your airplane ticket, it's not your boat ticket, it's the trip ticket. It's your <vocabulary>passport</vocabulary>, which allows you to take trips.\n\n旅券 is a formal term for a passport. It's commonly used in official documents and formal settings, like when dealing with government paperwork. In less formal contexts, you can simply say パスポート!",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%97%85%E5%88%B8",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "旅",
+      "id": 816,
+      "reading": "りょ"
+    },
+    {
+      "type": "kanji",
+      "value": "券",
+      "id": 1361,
+      "reading": "けん"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 7320,
+  "type": "vocabulary",
+  "characters": "陶器",
+  "primaryMeaning": "Pottery",
+  "otherMeanings": [
+    "Ceramics"
+  ],
+  "primaryReading": "とうき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2070,
+      "character": "陶",
+      "readings": [
+        "とう"
+      ]
+    },
+    {
+      "id": 876,
+      "character": "器",
+      "readings": [
+        "き",
+        "うつわ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>pottery</kanji> <kanji>container</kanji> is <vocabulary>pottery</vocabulary>. It's <vocabulary>ceramics</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%99%B6%E5%99%A8",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "陶",
+      "id": 2070,
+      "reading": "とう"
+    },
+    {
+      "type": "kanji",
+      "value": "器",
+      "id": 876,
+      "reading": "き"
+    }
+  ]
+}

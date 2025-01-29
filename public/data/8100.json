@@ -1,0 +1,48 @@
+{
+  "id": 8100,
+  "type": "vocabulary",
+  "characters": "傲慢",
+  "primaryMeaning": "Pride",
+  "otherMeanings": [
+    "Haughtiness",
+    "Arrogance",
+    "Insolence"
+  ],
+  "primaryReading": "ごうまん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2253,
+      "character": "傲",
+      "readings": [
+        "ごう",
+        "あなど",
+        "おご"
+      ]
+    },
+    {
+      "id": 2179,
+      "character": "慢",
+      "readings": [
+        "まん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you <kanji>ridicule</kanji> other people because you're so <kanji>proud</kanji> of yourself that everyone seems like crap in comparison, you've got too much <vocabulary>pride</vocabulary>. You should also work on toning down your <vocabulary>arrogance</vocabulary> and <vocabulary>haughtiness</vocabulary>, because people won't like you.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%82%B2%E6%85%A2",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "傲",
+      "id": 2253,
+      "reading": "ごう"
+    },
+    {
+      "type": "kanji",
+      "value": "慢",
+      "id": 2179,
+      "reading": "まん"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 5436,
+  "type": "vocabulary",
+  "characters": "尋ねる",
+  "primaryMeaning": "To Inquire",
+  "otherMeanings": [
+    "To Ask"
+  ],
+  "primaryReading": "たずねる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1452,
+      "character": "尋",
+      "readings": [
+        "じん",
+        "たず",
+        "ひろ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>inquire</kanji> so the verb vocab version is <vocabulary>to inquire</vocabulary>.",
+  "readingMnemonic": "I'd like <vocabulary>to inquire</vocabulary> about a few things. Wait, what? You won't cooperate? How about I just <reading>taze</reading> (たず) you with this tazer then? BzzzbbzbhhhAHHHHHH!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B0%8B%E3%81%AD%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "尋",
+      "id": 1452,
+      "reading": "たず"
+    },
+    {
+      "type": "kana",
+      "value": "ねる"
+    }
+  ]
+}

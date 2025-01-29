@@ -1,0 +1,37 @@
+{
+  "id": 9059,
+  "type": "vocabulary",
+  "characters": "鑑みる",
+  "primaryMeaning": "To Be In Light Of Something",
+  "otherMeanings": [
+    "To Take Something Into Account"
+  ],
+  "primaryReading": "かんがみる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1450,
+      "character": "鑑",
+      "readings": [
+        "かん",
+        "かんが",
+        "かがみ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji means <kanji>model</kanji>, and the verb version means things like <vocabulary>to be in light of something</vocabulary> or <vocabulary>to take something into account</vocabulary>. If something is your model, you're taking it into account, and it's in light of it that you make your decisions.\n\nThis verb is transitive, meaning that it can take a direct object, but you'll probably see it used more with the particle に. It's a pretty formal word so you'll mostly come across it in official, written contexts.",
+  "readingMnemonic": "This verb uses the kun'yomi of the kanji. You haven't learned that yet, so here's mnemonic to help you:\n\nIf you want <vocabulary>to take something into account</vocabulary>, you'll need to <reading>考</reading>える (かんが) about it really hard first. Please think about it really, really carefully, because it's bound <vocabulary>to be in light of something</vocabulary>, and we need to know what that something is.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%91%91%E3%81%BF%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "鑑",
+      "id": 1450,
+      "reading": "かんが"
+    },
+    {
+      "type": "kana",
+      "value": "みる"
+    }
+  ]
+}

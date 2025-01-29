@@ -1,0 +1,27 @@
+{
+  "id": 1286,
+  "type": "kanji",
+  "character": "往",
+  "primaryMeaning": "Journey",
+  "otherMeanings": [
+    "Depart"
+  ],
+  "primaryReading": "おう",
+  "readings": [
+    {
+      "reading": "おう",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Finally, it's time for your master's <kanji>journey</kanji> and he calls to you and says, \"You are the <reading>王</reading> (おう) of the house now. Take care of everything while I'm gone.\"",
+  "meaningMnemonic": "You <radical>loiter</radical> around your <radical>master</radical> until he <kanji>depart</kanji>s on a <kanji>journey</kanji>. You have a lot more freedom to do things after your master has departed, so until that time you just loiter about looking busy and staying out of his way.",
+  "vocabularyIds": [
+    4911
+  ],
+  "radicalIds": [
+    99,
+    154
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%BE%80"
+}

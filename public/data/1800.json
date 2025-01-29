@@ -1,0 +1,35 @@
+{
+  "id": 1800,
+  "type": "kanji",
+  "character": "誠",
+  "primaryMeaning": "Sincerity",
+  "otherMeanings": [],
+  "primaryReading": "せい",
+  "readings": [
+    {
+      "reading": "せい",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "まこと",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "When you say something with complete, unabashed <kanji>sincerity</kanji> your special <reading>sa</reading>ber (せい) starts to pulse with the beating of your heart. It shows the person you want to become close to that you truly are sincere!",
+  "meaningMnemonic": "Something you <radical>say</radical> to someone you <radical>become</radical> attached to should be said with <kanji>sincerity</kanji>. You need to speak with sincerity when you say things to someone who will eventually become your significant other, for example.",
+  "vocabularyIds": [
+    6545,
+    6546,
+    6547,
+    6548,
+    6652,
+    7962
+  ],
+  "radicalIds": [
+    117,
+    263
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%AA%A0"
+}

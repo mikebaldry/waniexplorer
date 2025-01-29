@@ -1,0 +1,45 @@
+{
+  "id": 2940,
+  "type": "vocabulary",
+  "characters": "以前",
+  "primaryMeaning": "Previously",
+  "otherMeanings": [
+    "Before"
+  ],
+  "primaryReading": "いぜん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 653,
+      "character": "以",
+      "readings": [
+        "い"
+      ]
+    },
+    {
+      "id": 633,
+      "character": "前",
+      "readings": [
+        "ぜん",
+        "まえ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>From</kanji> <kanji>before</kanji>, just means <vocabulary>previously</vocabulary> or <vocabulary>before</vocabulary> now.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BB%A5%E5%89%8D",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "以",
+      "id": 653,
+      "reading": "い"
+    },
+    {
+      "type": "kanji",
+      "value": "前",
+      "id": 633,
+      "reading": "ぜん"
+    }
+  ]
+}

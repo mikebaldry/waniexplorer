@@ -1,0 +1,52 @@
+{
+  "id": 5061,
+  "type": "vocabulary",
+  "characters": "先端",
+  "primaryMeaning": "Tip",
+  "otherMeanings": [
+    "The Latest",
+    "Cutting Edge"
+  ],
+  "primaryReading": "せんたん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 543,
+      "character": "先",
+      "readings": [
+        "せん",
+        "さき",
+        "ま"
+      ]
+    },
+    {
+      "id": 1339,
+      "character": "端",
+      "readings": [
+        "たん",
+        "はし",
+        "はた",
+        "は",
+        "はした",
+        "はな"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>previous</kanji> (or <kanji>ahead</kanji>) <kanji>edge</kanji> is the <vocabulary>tip</vocabulary> of something, like your finger or your chopsticks. It's also a word used to describe <vocabulary>the latest</vocabulary> (technology, etc), because it's on the <vocabulary>cutting edge</vocabulary>. The tip!",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%85%88%E7%AB%AF",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "先",
+      "id": 543,
+      "reading": "せん"
+    },
+    {
+      "type": "kanji",
+      "value": "端",
+      "id": 1339,
+      "reading": "たん"
+    }
+  ]
+}

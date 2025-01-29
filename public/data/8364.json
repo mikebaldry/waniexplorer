@@ -1,0 +1,38 @@
+{
+  "id": 8364,
+  "type": "vocabulary",
+  "characters": "憂い",
+  "primaryMeaning": "Grief",
+  "otherMeanings": [
+    "Distress",
+    "Sorrow"
+  ],
+  "primaryReading": "うれい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2263,
+      "character": "憂",
+      "readings": [
+        "ゆう",
+        "う",
+        "うれ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This is a single kanji with an い on the end, but wait! It's not an adjective, it's just a noun (tricky, tricky). The kanji means <kanji>grief</kanji>, so this word means <vocabulary>grief</vocabulary> or <vocabulary>distress</vocabulary>.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You learned this reading when you learned 憂える. Remember that and you'll remember this!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%86%82%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "憂",
+      "id": 2263,
+      "reading": "うれ"
+    },
+    {
+      "type": "kana",
+      "value": "い"
+    }
+  ]
+}

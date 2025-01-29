@@ -1,0 +1,37 @@
+{
+  "id": 539,
+  "type": "kanji",
+  "character": "皮",
+  "primaryMeaning": "Skin",
+  "otherMeanings": [],
+  "primaryReading": "ひ",
+  "readings": [
+    {
+      "reading": "ひ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "かわ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Without your <kanji>skin</kanji> to protect you, you feel the full <reading>he</reading>at (ひ) from the friction of your body going down the branch slide.",
+  "meaningMnemonic": "<radical>Slide</radical> down a <radical>branch</radical> and your <kanji>skin</kanji> will come off. Unlike what Tarzan will make you believe, you can't just slide around on branches, they're rough and painful and if you do it your skin will come sliding off and it will hurt.",
+  "vocabularyIds": [
+    2735,
+    2769,
+    4594,
+    6497,
+    7827,
+    7958,
+    7959,
+    9264
+  ],
+  "radicalIds": [
+    5,
+    81
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%9A%AE"
+}

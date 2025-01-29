@@ -1,0 +1,50 @@
+{
+  "id": 3229,
+  "type": "vocabulary",
+  "characters": "顔付き",
+  "primaryMeaning": "Expression",
+  "otherMeanings": [
+    "Facial Expression"
+  ],
+  "primaryReading": "かおつき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 772,
+      "character": "顔",
+      "readings": [
+        "かお",
+        "がん"
+      ]
+    },
+    {
+      "id": 652,
+      "character": "付",
+      "readings": [
+        "つ",
+        "ふ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The thing that is <kanji>attach</kanji>ed to your <kanji>face</kanji> isn't a big booger or anything like that. It's something that's always there. It's your <vocabulary>expression</vocabulary>.",
+  "readingMnemonic": "The readings are both kun'yomi, but they're the readings you've already learned when you learned the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%A1%94%E4%BB%98%E3%81%8D",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "顔",
+      "id": 772,
+      "reading": "かお"
+    },
+    {
+      "type": "kanji",
+      "value": "付",
+      "id": 652,
+      "reading": "つ"
+    },
+    {
+      "type": "kana",
+      "value": "き"
+    }
+  ]
+}

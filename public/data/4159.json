@@ -1,0 +1,48 @@
+{
+  "id": 4159,
+  "type": "vocabulary",
+  "characters": "分類",
+  "primaryMeaning": "Classification",
+  "otherMeanings": [
+    "Categorization"
+  ],
+  "primaryReading": "ぶんるい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 501,
+      "character": "分",
+      "readings": [
+        "ぶん",
+        "ふん",
+        "ぶ",
+        "わ"
+      ]
+    },
+    {
+      "id": 1034,
+      "character": "類",
+      "readings": [
+        "るい",
+        "たぐ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You <kanji>divide</kanji> something into different <kanji>type</kanji>s. That's called <vocabulary>classification</vocabulary> or <vocabulary>categorization</vocabulary>.\n\n分類 is a relatively formal word that refers to the act of classifying or categorizing items, organisms, or information into specific groups based on shared characteristics or criteria.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%88%86%E9%A1%9E",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "分",
+      "id": 501,
+      "reading": "ぶん"
+    },
+    {
+      "type": "kanji",
+      "value": "類",
+      "id": 1034,
+      "reading": "るい"
+    }
+  ]
+}

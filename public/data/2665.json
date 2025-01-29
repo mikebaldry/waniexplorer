@@ -1,0 +1,65 @@
+{
+  "id": 2665,
+  "type": "vocabulary",
+  "characters": "一年生",
+  "primaryMeaning": "First Year Student",
+  "otherMeanings": [],
+  "primaryReading": "いちねんせい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 440,
+      "character": "一",
+      "readings": [
+        "いち",
+        "いつ",
+        "ひと",
+        "かず"
+      ]
+    },
+    {
+      "id": 546,
+      "character": "年",
+      "readings": [
+        "ねん",
+        "とし"
+      ]
+    },
+    {
+      "id": 850,
+      "character": "生",
+      "readings": [
+        "せい",
+        "しょう",
+        "い",
+        "なま",
+        "う",
+        "は",
+        "き"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You'd maybe think this just means <kanji>one</kanji> <kanji>year</kanji> of <kanji>life</kanji>, but it actually means <vocabulary>first year student</vocabulary>. A second year student is a 二年生, and so on. Just think about how crazy the Japanese are about school. You can see why school is life, and not life itself, making this vocab word \"first year student.\"",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%80%E5%B9%B4%E7%94%9F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "一",
+      "id": 440,
+      "reading": "いち"
+    },
+    {
+      "type": "kanji",
+      "value": "年",
+      "id": 546,
+      "reading": "ねん"
+    },
+    {
+      "type": "kanji",
+      "value": "生",
+      "id": 850,
+      "reading": "せい"
+    }
+  ]
+}

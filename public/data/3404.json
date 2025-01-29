@@ -1,0 +1,47 @@
+{
+  "id": 3404,
+  "type": "vocabulary",
+  "characters": "切手",
+  "primaryMeaning": "Postage Stamp",
+  "otherMeanings": [
+    "Stamp"
+  ],
+  "primaryReading": "きって",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 502,
+      "character": "切",
+      "readings": [
+        "せつ",
+        "き"
+      ]
+    },
+    {
+      "id": 474,
+      "character": "手",
+      "readings": [
+        "て",
+        "しゅ",
+        "ず"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This is a pretty old word, and in the olden days, everything was <kanji>cut</kanji> by <kanji>hand</kanji>, including <vocabulary>postage stamp</vocabulary>s. Having to cut thousands of <vocabulary>stamp</vocabulary>s each day by hand sounds incredibly laborious, so maybe that's why this word came to be associated specifically with stamps.",
+  "readingMnemonic": "You'd think that the reading for this would consist of the on'yomi readings, but human body parts (hand) do funny things to words. In this case, it's the kun'yomi readings of both the kanji. You should know the kun'yomi reading for <kanji>切</kanji> and <kanji>手</kanji> from the previous levels, meaning you should be able to remember the reading for this word fairly easily. Watch out for the small っ, though.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%88%87%E6%89%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "切",
+      "id": 502,
+      "reading": "き"
+    },
+    {
+      "type": "kanji",
+      "value": "手",
+      "id": 474,
+      "reading": null
+    }
+  ]
+}

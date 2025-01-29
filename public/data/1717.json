@@ -1,0 +1,37 @@
+{
+  "id": 1717,
+  "type": "kanji",
+  "character": "渋",
+  "primaryMeaning": "Bitter",
+  "otherMeanings": [
+    "Astringent",
+    "Reluctant"
+  ],
+  "primaryReading": "じゅう",
+  "readings": [
+    {
+      "reading": "じゅう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "しぶ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "With the <kanji>bitter</kanji> taste in your mouth, you <kanji>reluctant</kanji>ly gather up all of your <reading>jew</reading>els (じゅう) and wait for the tsunami to take you away. At least with your jewels with you, there may be some hope of selling them and building a better life if you make it.",
+  "meaningMnemonic": "There's a <radical>tsunami</radical> coming and you can't <radical>stop</radical> the <radical>explosion</radical> of <kanji>bitter</kanji>ness in your mouth. You're scared. Your mouth tastes bitter and <kanji>astringent</kanji>.\n\nThis word also means <kanji>reluctant</kanji>, because wouldn't you be reluctant to let a tsunami come wash you away with that bitter explosion of flavor in your mouth?",
+  "vocabularyIds": [
+    6252,
+    6274,
+    6468,
+    8731
+  ],
+  "radicalIds": [
+    103,
+    44,
+    8788
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%B8%8B"
+}

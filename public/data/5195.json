@@ -1,0 +1,63 @@
+{
+  "id": 5195,
+  "type": "vocabulary",
+  "characters": "貯金箱",
+  "primaryMeaning": "Savings Box",
+  "otherMeanings": [
+    "Piggy Bank",
+    "Bank",
+    "Money Box"
+  ],
+  "primaryReading": "ちょきんばこ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1290,
+      "character": "貯",
+      "readings": [
+        "ちょ",
+        "たくわ"
+      ]
+    },
+    {
+      "id": 602,
+      "character": "金",
+      "readings": [
+        "きん",
+        "こん",
+        "かね",
+        "かな"
+      ]
+    },
+    {
+      "id": 972,
+      "character": "箱",
+      "readings": [
+        "はこ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Remember how 貯金 is your <kanji>savings</kanji>? A <kanji>box</kanji> you put said savings in is a <vocabulary>savings box</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%B2%AF%E9%87%91%E7%AE%B1",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "貯",
+      "id": 1290,
+      "reading": "ちょ"
+    },
+    {
+      "type": "kanji",
+      "value": "金",
+      "id": 602,
+      "reading": "きん"
+    },
+    {
+      "type": "kanji",
+      "value": "箱",
+      "id": 972,
+      "reading": "ばこ"
+    }
+  ]
+}

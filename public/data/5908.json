@@ -1,0 +1,49 @@
+{
+  "id": 5908,
+  "type": "vocabulary",
+  "characters": "行為",
+  "primaryMeaning": "Deed",
+  "otherMeanings": [],
+  "primaryReading": "こうい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 580,
+      "character": "行",
+      "readings": [
+        "こう",
+        "ぎょう",
+        "い",
+        "おこな",
+        "ゆ"
+      ]
+    },
+    {
+      "id": 1600,
+      "character": "為",
+      "readings": [
+        "い",
+        "ため",
+        "な",
+        "す"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You <kanji>go</kanji> for the <kanji>sake</kanji> of others. You are constantly doing <vocabulary>deed</vocabulary>s like this for others.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A1%8C%E7%82%BA",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "行",
+      "id": 580,
+      "reading": "こう"
+    },
+    {
+      "type": "kanji",
+      "value": "為",
+      "id": 1600,
+      "reading": "い"
+    }
+  ]
+}

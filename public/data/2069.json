@@ -1,0 +1,33 @@
+{
+  "id": 2069,
+  "type": "kanji",
+  "character": "謀",
+  "primaryMeaning": "Conspire",
+  "otherMeanings": [],
+  "primaryReading": "ぼう",
+  "readings": [
+    {
+      "reading": "ぼう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "はか",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Now you're getting it! That tree is trying to <kanji>conspire</kanji> against you and take you down. Take your <reading>bow</reading>ling (ぼう) ball and bowl it and all its friends down!",
+  "meaningMnemonic": "Watch what you <radical>say</radical> to what appears to be a <radical>sweet</radical> <radical>tree</radical>, because that tree will 100% <kanji>conspire</kanji> against you.",
+  "vocabularyIds": [
+    7317,
+    7318,
+    7319
+  ],
+  "radicalIds": [
+    117,
+    360,
+    23
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%AC%80"
+}

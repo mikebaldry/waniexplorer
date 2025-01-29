@@ -1,0 +1,35 @@
+{
+  "id": 2822,
+  "type": "vocabulary",
+  "characters": "形",
+  "primaryMeaning": "Shape",
+  "otherMeanings": [
+    "Appearance",
+    "Form"
+  ],
+  "primaryReading": "かたち",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 589,
+      "character": "形",
+      "readings": [
+        "けい",
+        "ぎょう",
+        "かた",
+        "かたち"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "Since this word is made up of a single kanji, it should use the kun'yomi reading. You haven't learned this reading yet, so here's a mnemonic to help you:\n\nYou really want to eat food that's in neat <vocabulary>shape</vocabulary>s, so you decide to use a <reading>cutter</reading> (かた) on your <reading>chee</reading>se (ち) to make it a new shape. Square cheese is so boring. After you cut it up you have mouse shaped cheese! It just tastes better like that.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BD%A2",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "形",
+      "id": 589,
+      "reading": "かたち"
+    }
+  ]
+}

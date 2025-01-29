@@ -1,0 +1,47 @@
+{
+  "id": 750,
+  "type": "kanji",
+  "character": "葉",
+  "primaryMeaning": "Leaf",
+  "otherMeanings": [
+    "Leaves"
+  ],
+  "primaryReading": "は",
+  "readings": [
+    {
+      "reading": "は",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "よう",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ば",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Picture a little flower working really hard to grow its first leaf. The <kanji>leaf</kanji> pops out and it shouts, \"<reading>Ha</reading> (は)!\"",
+  "meaningMnemonic": "In the <radical>world</radical> of <radical>flowers</radical> and <radical>tree</radical>s, the most important thing is the <kanji>leaf</kanji>. <kanji>Leaves</kanji> are how flowers and trees get their nutrients from the sun! ",
+  "vocabularyIds": [
+    3181,
+    3550,
+    3698,
+    4143,
+    6248,
+    7492,
+    7534,
+    7629,
+    7696,
+    9291
+  ],
+  "radicalIds": [
+    90,
+    83,
+    23
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%91%89"
+}

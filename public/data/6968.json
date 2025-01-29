@@ -1,0 +1,36 @@
+{
+  "id": 6968,
+  "type": "vocabulary",
+  "characters": "穏やか",
+  "primaryMeaning": "Calm",
+  "otherMeanings": [
+    "Mild"
+  ],
+  "primaryReading": "おだやか",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1943,
+      "character": "穏",
+      "readings": [
+        "おん",
+        "おだ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This is a な adjective version of the kanji which means <kanji>calm</kanji>. The vocab version here is <vocabulary>calm</vocabulary> as well, though you can use it to mean <vocabulary>mild</vocabulary> as well.",
+  "readingMnemonic": "What is <vocabulary>calm</vocabulary>? \"<reading>Ode</reading> (おだ) to Joy\" is nice and calm and mild, as far as music goes.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A9%8F%E3%82%84%E3%81%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "穏",
+      "id": 1943,
+      "reading": "おだ"
+    },
+    {
+      "type": "kana",
+      "value": "やか"
+    }
+  ]
+}

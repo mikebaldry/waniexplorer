@@ -1,0 +1,48 @@
+{
+  "id": 3819,
+  "type": "vocabulary",
+  "characters": "作品",
+  "primaryMeaning": "A Work",
+  "otherMeanings": [
+    "Work",
+    "Production"
+  ],
+  "primaryReading": "さくひん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 584,
+      "character": "作",
+      "readings": [
+        "さく",
+        "さ",
+        "つく"
+      ]
+    },
+    {
+      "id": 967,
+      "character": "品",
+      "readings": [
+        "ひん",
+        "しな"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you <kanji>make</kanji> a <kanji>product</kanji>, it's not really a product anymore, but <vocabulary>a work</vocabulary>. It's your <vocabulary>work</vocabulary> of art or literature, or maybe a theater <vocabulary>production</vocabulary>.\n\nThis can be any kind of artistic creation: a book, a composition, a painting, a movie, a play... It doesn't mean \"product\" (you'll learn the word for that later!) but it can be used for a product when you want to highlight the artistic talent behind it.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BD%9C%E5%93%81",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "作",
+      "id": 584,
+      "reading": "さく"
+    },
+    {
+      "type": "kanji",
+      "value": "品",
+      "id": 967,
+      "reading": "ひん"
+    }
+  ]
+}

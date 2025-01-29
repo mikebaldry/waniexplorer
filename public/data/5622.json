@@ -1,0 +1,49 @@
+{
+  "id": 5622,
+  "type": "vocabulary",
+  "characters": "窓口",
+  "primaryMeaning": "Ticket Window",
+  "otherMeanings": [
+    "Ticket Counter",
+    "Clerk",
+    "Customer Service"
+  ],
+  "primaryReading": "まどぐち",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1516,
+      "character": "窓",
+      "readings": [
+        "まど",
+        "そう"
+      ]
+    },
+    {
+      "id": 452,
+      "character": "口",
+      "readings": [
+        "こう",
+        "く",
+        "くち"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>window</kanji> <kanji>mouth</kanji> is where you go to buy tickets out of the window. You know how there's those windows with holes in them, or the window is the hole itself? That's the kind of <vocabulary>ticket window</vocabulary> I'm talking about.",
+  "readingMnemonic": "The reading is the readings for 窓 and the reading for 口.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%AA%93%E5%8F%A3",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "窓",
+      "id": 1516,
+      "reading": "まど"
+    },
+    {
+      "type": "kanji",
+      "value": "口",
+      "id": 452,
+      "reading": "ぐち"
+    }
+  ]
+}

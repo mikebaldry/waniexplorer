@@ -1,0 +1,33 @@
+{
+  "id": 1892,
+  "type": "kanji",
+  "character": "叫",
+  "primaryMeaning": "Shout",
+  "otherMeanings": [],
+  "primaryReading": "きょう",
+  "readings": [
+    {
+      "reading": "きょう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "さけ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You need to <kanji>shout</kanji> so that people can understand you through the mouth vines. You shout, \"<reading>きょう</reading>と!\" because you hear there is a temple there for people with your condition.",
+  "meaningMnemonic": "You have <radical>mouth</radical> <radical>vines</radical>, so you <kanji>shout</kanji>! It's hard for you to talk normally, and even harder for people to understand you unless you shout.",
+  "vocabularyIds": [
+    6812,
+    6813,
+    6960,
+    6961
+  ],
+  "radicalIds": [
+    16,
+    289
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%8F%AB"
+}

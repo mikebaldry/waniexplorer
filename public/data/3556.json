@@ -1,0 +1,36 @@
+{
+  "id": 3556,
+  "type": "vocabulary",
+  "characters": "転ぶ",
+  "primaryMeaning": "To Fall Over",
+  "otherMeanings": [
+    "To Fall Down"
+  ],
+  "primaryReading": "ころぶ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 747,
+      "character": "転",
+      "readings": [
+        "てん",
+        "ころ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Do you remember the word 転がる? This is kind of similar, instead of rolling, this is more for when something falls and hits the ground. It means <vocabulary>to fall over</vocabulary> or <vocabulary>to fall down</vocabulary>. Just imagine someone falling off a chair face first into the dirt and making a ぶ sound.",
+  "readingMnemonic": "The reading comes from 転がる. Hopefully you know that one well enough to associate it with this one, meaning you can read them both.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%BB%A2%E3%81%B6",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "転",
+      "id": 747,
+      "reading": "ころ"
+    },
+    {
+      "type": "kana",
+      "value": "ぶ"
+    }
+  ]
+}

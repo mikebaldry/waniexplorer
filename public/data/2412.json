@@ -1,0 +1,34 @@
+{
+  "id": 2412,
+  "type": "kanji",
+  "character": "紡",
+  "primaryMeaning": "Spinning",
+  "otherMeanings": [
+    "Spin"
+  ],
+  "primaryReading": "ぼう",
+  "readings": [
+    {
+      "reading": "ぼう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "つむ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "While you're <kanji>spinning</kanji> you realize that you've always wanted to make your own <reading>bow</reading>ling (ぼう) ball. And bowling ball cover. And bowling ball shoes.",
+  "meaningMnemonic": "Move <radical>thread</radical> in the right <radical>direction</radical> and you'll end up <kanji>spinning</kanji> it into yarn. Then you can spin that yarn into a sweater or a scarf with your favorite half tofu half fugu mascot on it!",
+  "vocabularyIds": [
+    8568,
+    8569,
+    8570
+  ],
+  "radicalIds": [
+    86,
+    66
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%B4%A1"
+}

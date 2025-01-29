@@ -1,0 +1,45 @@
+{
+  "id": 8696,
+  "type": "vocabulary",
+  "characters": "文学",
+  "primaryMeaning": "Literature",
+  "otherMeanings": [],
+  "primaryReading": "ぶんがく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 475,
+      "character": "文",
+      "readings": [
+        "ぶん",
+        "もん",
+        "ふみ"
+      ]
+    },
+    {
+      "id": 599,
+      "character": "学",
+      "readings": [
+        "がく",
+        "まな"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you <kanji>study</kanji> <kanji>writing</kanji>, it's called <vocabulary>literature</vocabulary>. You'll get to study lots of things other people wrote before you!",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 文 has two on'yomi readings, here's a mnemonic to help you remember which one to use:\n\nAll the great works of <vocabulary>literature</vocabulary> are about <reading>bun</reading>s (ぶん). That's the subtle thread running through all literature: buns.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%96%87%E5%AD%A6",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "文",
+      "id": 475,
+      "reading": "ぶん"
+    },
+    {
+      "type": "kanji",
+      "value": "学",
+      "id": 599,
+      "reading": "がく"
+    }
+  ]
+}

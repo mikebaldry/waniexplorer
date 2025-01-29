@@ -1,0 +1,39 @@
+{
+  "id": 1494,
+  "type": "kanji",
+  "character": "雑",
+  "primaryMeaning": "Random",
+  "otherMeanings": [
+    "Miscellaneous"
+  ],
+  "primaryReading": "ざつ",
+  "readings": [
+    {
+      "reading": "ざつ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ぞう",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "As if things couldn’t get any more <kanji>random</kanji>, <reading>Zazu</reading> (ざつ) from the Lion King flies into the tree and starts asking the nine turkeys <kanji>miscellaneous</kanji> trivia. Zazu always did have a thirst for knowledge, but this is kind of strange.",
+  "meaningMnemonic": "You count <radical>nine</radical> of them in the <radical>tree</radical>, each <radical>turkey</radical> holding something <kanji>random</kanji> or <kanji>miscellaneous</kanji>. There are nine turkeys in the tree and they’re all holding random, miscellaneous things. How odd.",
+  "vocabularyIds": [
+    5549,
+    5553,
+    5554,
+    5621,
+    7099,
+    7312,
+    8637
+  ],
+  "radicalIds": [
+    11,
+    23,
+    240
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%9B%91"
+}

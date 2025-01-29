@@ -1,0 +1,47 @@
+{
+  "id": 6605,
+  "type": "vocabulary",
+  "characters": "分析",
+  "primaryMeaning": "Analysis",
+  "otherMeanings": [
+    "Analyzing"
+  ],
+  "primaryReading": "ぶんせき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 501,
+      "character": "分",
+      "readings": [
+        "ぶん",
+        "ふん",
+        "ぶ",
+        "わ"
+      ]
+    },
+    {
+      "id": 1820,
+      "character": "析",
+      "readings": [
+        "せき"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You <kanji>divide</kanji> things to then do <kanji>analysis</kanji> on them. We can just call this <vocabulary>analysis</vocabulary> or <vocabulary>analyzing</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%88%86%E6%9E%90",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "分",
+      "id": 501,
+      "reading": "ぶん"
+    },
+    {
+      "type": "kanji",
+      "value": "析",
+      "id": 1820,
+      "reading": "せき"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 7803,
+  "type": "vocabulary",
+  "characters": "渦",
+  "primaryMeaning": "Whirlpool",
+  "otherMeanings": [
+    "Eddy",
+    "Vortex"
+  ],
+  "primaryReading": "うず",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2147,
+      "character": "渦",
+      "readings": [
+        "か",
+        "うず"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You did not learn this meaning, so here's a mnemonic to help you to remember: \n\nThere are lots of <vocabulary>whirlpools</vocabulary> at the <reading>u</reading>ni <reading>zoo</reading> (うず). Unis really like being spun around in whirlpools, so when you go to the zoo to see them look out for the tank full of them!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B8%A6",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "渦",
+      "id": 2147,
+      "reading": "うず"
+    }
+  ]
+}

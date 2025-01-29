@@ -1,0 +1,41 @@
+{
+  "id": 2777,
+  "type": "vocabulary",
+  "characters": "行き",
+  "primaryMeaning": "Train Direction",
+  "otherMeanings": [
+    "Bound For"
+  ],
+  "primaryReading": "ゆき",
+  "otherReadings": [
+    "いき"
+  ],
+  "kanji": [
+    {
+      "id": 580,
+      "character": "行",
+      "readings": [
+        "こう",
+        "ぎょう",
+        "い",
+        "おこな",
+        "ゆ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This is a weird word. Call it exceptional. You'll see this at train stations, especially. You know the kanji means <kanji>go</kanji>. So, something is going somewhere. Now just use the き to help you to remember that this word means <vocabulary>train direction</vocabulary> (aka it tells you which direction a train is going), because this word is the key (き) to you knowing what direction you're going in so you don't get lost. You could also remember this word as \"<vocabulary>bound for</vocabulary>\" aka \"Bound for Tokyo Station.\"",
+  "readingMnemonic": "The reading is also an exception. It can be いき, but instead we're focusing on the ゆき reading. You have to remember the ゆ portion, so think of it this way: \n\nJust think about the <vocabulary>train direction</vocabulary> that <reading>you</reading> (ゆ) need to go in. It's all about you. Not your friends or anyone else. You. You are the most important person at this train station.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A1%8C%E3%81%8D",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "行",
+      "id": 580,
+      "reading": "ゆ"
+    },
+    {
+      "type": "kana",
+      "value": "き"
+    }
+  ]
+}

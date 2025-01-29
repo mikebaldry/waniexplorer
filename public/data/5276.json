@@ -1,0 +1,49 @@
+{
+  "id": 5276,
+  "type": "vocabulary",
+  "characters": "航空",
+  "primaryMeaning": "Aviation",
+  "otherMeanings": [
+    "Flight"
+  ],
+  "primaryReading": "こうくう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1397,
+      "character": "航",
+      "readings": [
+        "こう",
+        "わたる"
+      ]
+    },
+    {
+      "id": 601,
+      "character": "空",
+      "readings": [
+        "くう",
+        "そら",
+        "あ",
+        "から",
+        "す"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Navigation</kanji> in the <kanji>sky</kanji> is <vocabulary>aviation</vocabulary> and <vocabulary>flight</vocabulary>. Vroom vroom sky flying!",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%88%AA%E7%A9%BA",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "航",
+      "id": 1397,
+      "reading": "こう"
+    },
+    {
+      "type": "kanji",
+      "value": "空",
+      "id": 601,
+      "reading": "くう"
+    }
+  ]
+}

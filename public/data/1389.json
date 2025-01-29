@@ -1,0 +1,39 @@
+{
+  "id": 1389,
+  "type": "kanji",
+  "character": "壊",
+  "primaryMeaning": "Break",
+  "otherMeanings": [],
+  "primaryReading": "かい",
+  "readings": [
+    {
+      "reading": "かい",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "こわ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You angrily search to see what caused your clothes washing machine to <kanji>break</kanji> and you see some <reading>kay</reading>aks (かい) upriver. The people in the kayaks are jumping around, kicking dirt up, which is what broke your stuff.",
+  "meaningMnemonic": "You set up a <radical>net</radical> on a <radical>cross</radical> to wash your <radical>clothes</radical> in the river, when a huge wave of <radical>dirt</radical> smashes into it, <kanji>break</kanji>ing the whole thing and sending your clothes tumbling down the river.",
+  "vocabularyIds": [
+    5220,
+    5221,
+    5222,
+    5414,
+    5415,
+    5868,
+    6074,
+    6744
+  ],
+  "radicalIds": [
+    17,
+    15,
+    163,
+    320
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%A3%8A"
+}

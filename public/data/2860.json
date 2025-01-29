@@ -1,0 +1,46 @@
+{
+  "id": 2860,
+  "type": "vocabulary",
+  "characters": "安心",
+  "primaryMeaning": "Relief",
+  "otherMeanings": [
+    "Peace Of Mind"
+  ],
+  "primaryReading": "あんしん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 612,
+      "character": "安",
+      "readings": [
+        "あん",
+        "やす"
+      ]
+    },
+    {
+      "id": 508,
+      "character": "心",
+      "readings": [
+        "しん",
+        "こころ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When your <kanji>heart</kanji> is <kanji>relax</kanji>ed, how do you feel? What if this is after something startling happens? You would feel <vocabulary>relief</vocabulary> or <vocabulary>peace of mind</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AE%89%E5%BF%83",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "安",
+      "id": 612,
+      "reading": "あん"
+    },
+    {
+      "type": "kanji",
+      "value": "心",
+      "id": 508,
+      "reading": "しん"
+    }
+  ]
+}

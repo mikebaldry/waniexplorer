@@ -1,0 +1,46 @@
+{
+  "id": 7486,
+  "type": "vocabulary",
+  "characters": "解説",
+  "primaryMeaning": "Explanation",
+  "otherMeanings": [
+    "Commentary"
+  ],
+  "primaryReading": "かいせつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1150,
+      "character": "解",
+      "readings": [
+        "かい",
+        "と"
+      ]
+    },
+    {
+      "id": 1026,
+      "character": "説",
+      "readings": [
+        "せつ",
+        "と"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Once you've <kanji>solve</kanji>d a <kanji>theory</kanji>, you should be able to give a pretty good <vocabulary>explanation</vocabulary> of it to somebody else. Makes sense, right? \n\n解説 refers to a detailed and analytical explanation. It's often used when someone, often an expert, provides an in-depth analysis about a topic, like a sports game or news article <vocabulary>commentary</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A7%A3%E8%AA%AC",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "解",
+      "id": 1150,
+      "reading": "かい"
+    },
+    {
+      "type": "kanji",
+      "value": "説",
+      "id": 1026,
+      "reading": "せつ"
+    }
+  ]
+}

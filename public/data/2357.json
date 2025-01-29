@@ -1,0 +1,36 @@
+{
+  "id": 2357,
+  "type": "kanji",
+  "character": "烏",
+  "primaryMeaning": "Crow",
+  "otherMeanings": [],
+  "primaryReading": "からす",
+  "readings": [
+    {
+      "reading": "からす",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "う",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "お",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "If you can't tell just from looking at it that it's a <kanji>crow</kanji> and not a bird, walk up to it and <reading>caress</reading> (からす) it with your hand! If it caresses you back, it's a crow! If it freaks out and flies away or pecks your face, it's a normal bird. Crows are really smart and like affection. That's what makes them so cool!",
+  "meaningMnemonic": "An altered <radical>bird</radical> is a <kanji>crow</kanji>! They look like birds but they're bigger and darker and smarter!",
+  "vocabularyIds": [
+    8382,
+    8383,
+    8408
+  ],
+  "radicalIds": [
+    151
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%83%8F"
+}

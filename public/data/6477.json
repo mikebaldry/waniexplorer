@@ -1,0 +1,47 @@
+{
+  "id": 6477,
+  "type": "vocabulary",
+  "characters": "徹夜",
+  "primaryMeaning": "All Night",
+  "otherMeanings": [
+    "Sleepless Night",
+    "All Nighter"
+  ],
+  "primaryReading": "てつや",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1776,
+      "character": "徹",
+      "readings": [
+        "てつ"
+      ]
+    },
+    {
+      "id": 622,
+      "character": "夜",
+      "readings": [
+        "や",
+        "よ",
+        "よる"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Penetrate</kanji> the <kanji>night</kanji> and go on through to the morning. You were up <vocabulary>all night</vocabulary> and had a <vocabulary>sleepless night</vocabulary> aka <vocabulary>all nighter</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BE%B9%E5%A4%9C",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "徹",
+      "id": 1776,
+      "reading": "てつ"
+    },
+    {
+      "type": "kanji",
+      "value": "夜",
+      "id": 622,
+      "reading": "や"
+    }
+  ]
+}

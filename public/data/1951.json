@@ -1,0 +1,33 @@
+{
+  "id": 1951,
+  "type": "kanji",
+  "character": "寧",
+  "primaryMeaning": "Rather",
+  "otherMeanings": [],
+  "primaryReading": "ねい",
+  "readings": [
+    {
+      "reading": "ねい",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "むし",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "As you try to decide which you'd <kanji>rather</kanji> have, your <reading>neigh</reading>bors (ねい) come out and grab the heart out of your hands.",
+  "meaningMnemonic": "On the <radical>roof</radical> is your <radical>heart</radical>. OR! In a <radical>net</radical> in the <radical>street</radical>. Which would you <kanji>rather</kanji>?",
+  "vocabularyIds": [
+    6982,
+    6983
+  ],
+  "radicalIds": [
+    78,
+    65,
+    163,
+    27
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%AF%A7"
+}

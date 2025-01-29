@@ -1,0 +1,54 @@
+{
+  "id": 3497,
+  "type": "vocabulary",
+  "characters": "知り合い",
+  "primaryMeaning": "Acquaintance",
+  "otherMeanings": [],
+  "primaryReading": "しりあい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 631,
+      "character": "知",
+      "readings": [
+        "ち",
+        "し"
+      ]
+    },
+    {
+      "id": 852,
+      "character": "合",
+      "readings": [
+        "ごう",
+        "がっ",
+        "あ",
+        "あい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You've probably seen the words 知る and 合う by now. This is someone you \"know\" because you have \"come together\" before, but that's pretty much it. You don't really know them well, you just met them a couple times so you know who they are. This person is an <vocabulary>acquaintance</vocabulary>.",
+  "readingMnemonic": "The readings are that of 知る and 合う. So long as you know those words, you should be able to read this one too.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%9F%A5%E3%82%8A%E5%90%88%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "知",
+      "id": 631,
+      "reading": "し"
+    },
+    {
+      "type": "kana",
+      "value": "り"
+    },
+    {
+      "type": "kanji",
+      "value": "合",
+      "id": 852,
+      "reading": "あい"
+    },
+    {
+      "type": "kana",
+      "value": "い"
+    }
+  ]
+}

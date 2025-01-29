@@ -1,0 +1,48 @@
+{
+  "id": 6582,
+  "type": "vocabulary",
+  "characters": "病床",
+  "primaryMeaning": "Sickbed",
+  "otherMeanings": [
+    "Hospital Bed"
+  ],
+  "primaryReading": "びょうしょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 773,
+      "character": "病",
+      "readings": [
+        "びょう",
+        "や",
+        "やまい"
+      ]
+    },
+    {
+      "id": 1810,
+      "character": "床",
+      "readings": [
+        "ゆか",
+        "とこ",
+        "しょう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>sick</kanji> <kanji>bed</kanji> is a <vocabulary>sickbed</vocabulary>. If you're in that bed, you're probably sick.\n\n病床 is a relatively advanced word found in written phrases like 病床にふす (to be in sickbed). It can also formally refer to a <vocabulary>hospital bed</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%97%85%E5%BA%8A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "病",
+      "id": 773,
+      "reading": "びょう"
+    },
+    {
+      "type": "kanji",
+      "value": "床",
+      "id": 1810,
+      "reading": "しょう"
+    }
+  ]
+}

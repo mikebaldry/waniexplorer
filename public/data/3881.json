@@ -1,0 +1,38 @@
+{
+  "id": 3881,
+  "type": "vocabulary",
+  "characters": "消える",
+  "primaryMeaning": "To Disappear",
+  "otherMeanings": [
+    "To Go Out",
+    "To Turn Off"
+  ],
+  "primaryReading": "きえる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 819,
+      "character": "消",
+      "readings": [
+        "しょう",
+        "き",
+        "け"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You've seen that 消す is \"to extinguish.\" So, this is another verb version of that. This time, you're not doing the extinguishing, it's just happening. Something is going <vocabulary>to disappear</vocabulary> on its own. How can you differentiate this from 消す? Well, える allows you to notice how the object disappeared into thin <reading>air</reading> (える). You know you didn't do it, so it disappeared on its own, making it <vocabulary>to disappear</vocabulary>.",
+  "readingMnemonic": "The reading is different from 消す, unfortunately, so you can't use that. Just think about how after the object in front of you disappears you use a <reading>key</reading> (き) to open an invisible door. That's where everything's disappearing to! You see all your disappeared stuff on the other side of this invisible door which you opened with a magical <reading>key</reading>.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B6%88%E3%81%88%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "消",
+      "id": 819,
+      "reading": "き"
+    },
+    {
+      "type": "kana",
+      "value": "える"
+    }
+  ]
+}

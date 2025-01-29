@@ -1,0 +1,45 @@
+{
+  "id": 4807,
+  "type": "vocabulary",
+  "characters": "効率",
+  "primaryMeaning": "Efficiency",
+  "otherMeanings": [],
+  "primaryReading": "こうりつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1267,
+      "character": "効",
+      "readings": [
+        "こう",
+        "き"
+      ]
+    },
+    {
+      "id": 1091,
+      "character": "率",
+      "readings": [
+        "りつ",
+        "そつ",
+        "ひき"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Your <kanji>effective</kanji> <kanji>percent</kanji> shows how effective you are. If you're at an effective percent of 80%, that's your <vocabulary>efficiency</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8A%B9%E7%8E%87",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "効",
+      "id": 1267,
+      "reading": "こう"
+    },
+    {
+      "type": "kanji",
+      "value": "率",
+      "id": 1091,
+      "reading": "りつ"
+    }
+  ]
+}

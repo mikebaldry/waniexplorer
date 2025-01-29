@@ -1,0 +1,35 @@
+{
+  "id": 5576,
+  "type": "vocabulary",
+  "characters": "込む",
+  "primaryMeaning": "To Get Into",
+  "otherMeanings": [
+    "To Go Deep Into"
+  ],
+  "primaryReading": "こむ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1504,
+      "character": "込",
+      "readings": [
+        "こ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word ends with the hiragana う, which tells you it's a verb. The kanji 込 means <kanji>into</kanji>, so the verb version is <vocabulary>to get into</vocabulary>.\n\nThis word generally attaches to the stem of another verb, and adds a nuance of moving something towards the center of something, or going deep into something. You’ll be seeing lots of examples of words with 込む on the end, so you’ll gradually get a feel for the nuance it adds!",
+  "readingMnemonic": "Lucky for you, the reading you learned with the kanji is the one you use here.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%BE%BC%E3%82%80-5576",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "込",
+      "id": 1504,
+      "reading": "こ"
+    },
+    {
+      "type": "kana",
+      "value": "む"
+    }
+  ]
+}

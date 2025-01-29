@@ -1,0 +1,39 @@
+{
+  "id": 1399,
+  "type": "kanji",
+  "character": "板",
+  "primaryMeaning": "Board",
+  "otherMeanings": [],
+  "primaryReading": "ばん",
+  "readings": [
+    {
+      "reading": "ばん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "はん",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "いた",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Turning every tree you could lay your eyes on into <kanji>board</kanji>s has gotten the attention of the Tree Lovers Association. \"<reading>Ban</reading>ned (ばん), BANNED, I say!\", they shouted at you.",
+  "meaningMnemonic": "If you're <radical>anti</radical>-<radical>tree</radical>, you won't mind if I turn all of them into <kanji>board</kanji>s! Hahaha!",
+  "vocabularyIds": [
+    5240,
+    5241,
+    6251,
+    7470,
+    9290
+  ],
+  "radicalIds": [
+    23,
+    218
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%9D%BF"
+}

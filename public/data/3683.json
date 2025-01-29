@@ -1,0 +1,43 @@
+{
+  "id": 3683,
+  "type": "vocabulary",
+  "characters": "特技",
+  "primaryMeaning": "Specialty",
+  "otherMeanings": [],
+  "primaryReading": "とくぎ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 807,
+      "character": "特",
+      "readings": [
+        "とく"
+      ]
+    },
+    {
+      "id": 919,
+      "character": "技",
+      "readings": [
+        "ぎ",
+        "わざ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Your <kanji>special</kanji> <kanji>skill</kanji> is your <vocabulary>specialty</vocabulary>. So, what is your 特技?",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%89%B9%E6%8A%80",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "特",
+      "id": 807,
+      "reading": "とく"
+    },
+    {
+      "type": "kanji",
+      "value": "技",
+      "id": 919,
+      "reading": "ぎ"
+    }
+  ]
+}

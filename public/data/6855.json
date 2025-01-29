@@ -1,0 +1,36 @@
+{
+  "id": 6855,
+  "type": "vocabulary",
+  "characters": "稼ぐ",
+  "primaryMeaning": "To Earn Income",
+  "otherMeanings": [
+    "To Make Money"
+  ],
+  "primaryReading": "かせぐ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1935,
+      "character": "稼",
+      "readings": [
+        "か",
+        "かせ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>earnings</kanji> and the verb vocab version is <vocabulary>to earn income</vocabulary>, because you can't \"to income\" something. Can also be <vocabulary>to make money</vocabulary>.",
+  "readingMnemonic": "<vocabulary>To earn income</vocabulary>, you decided to start a <reading>car</reading> <reading>sa</reading>le. (かせ) \"Every car sale, a step to richness!\" was your quirky business mantra.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A8%BC%E3%81%90",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "稼",
+      "id": 1935,
+      "reading": "かせ"
+    },
+    {
+      "type": "kana",
+      "value": "ぐ"
+    }
+  ]
+}

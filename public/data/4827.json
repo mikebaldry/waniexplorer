@@ -1,0 +1,36 @@
+{
+  "id": 4827,
+  "type": "vocabulary",
+  "characters": "捜す",
+  "primaryMeaning": "To Search For",
+  "otherMeanings": [
+    "To Seek"
+  ],
+  "primaryReading": "さがす",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1274,
+      "character": "捜",
+      "readings": [
+        "そう",
+        "さが"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>search</kanji> so the verb vocab version is <vocabulary>to search for</vocabulary> or <vocabulary>to seek</vocabulary>.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: You're searching all around for a \"<reading>sagger</reading>\" (さが) on your body. This is a flap of skin that is sagging on your body really far, and you probably should get it removed.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8D%9C%E3%81%99",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "捜",
+      "id": 1274,
+      "reading": "さが"
+    },
+    {
+      "type": "kana",
+      "value": "す"
+    }
+  ]
+}

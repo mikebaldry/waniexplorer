@@ -1,0 +1,60 @@
+{
+  "id": 4793,
+  "type": "vocabulary",
+  "characters": "候補者",
+  "primaryMeaning": "Candidate",
+  "otherMeanings": [
+    "Applicant"
+  ],
+  "primaryReading": "こうほしゃ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1262,
+      "character": "候",
+      "readings": [
+        "こう",
+        "そうろう"
+      ]
+    },
+    {
+      "id": 1261,
+      "character": "補",
+      "readings": [
+        "ほ",
+        "おぎな"
+      ]
+    },
+    {
+      "id": 690,
+      "character": "者",
+      "readings": [
+        "しゃ",
+        "もの"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>candidate</kanji> is <kanji>someone</kanji> who's a <kanji>supplement</kanji> to the entire political system. Despite being a supplement, they're still a <vocabulary>candidate</vocabulary> nonetheless, unless they can win!",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%80%99%E8%A3%9C%E8%80%85",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "候",
+      "id": 1262,
+      "reading": "こう"
+    },
+    {
+      "type": "kanji",
+      "value": "補",
+      "id": 1261,
+      "reading": "ほ"
+    },
+    {
+      "type": "kanji",
+      "value": "者",
+      "id": 690,
+      "reading": "しゃ"
+    }
+  ]
+}

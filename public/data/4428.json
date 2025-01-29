@@ -1,0 +1,47 @@
+{
+  "id": 4428,
+  "type": "vocabulary",
+  "characters": "建設",
+  "primaryMeaning": "Construction",
+  "otherMeanings": [
+    "Constructing",
+    "Establishment"
+  ],
+  "primaryReading": "けんせつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 946,
+      "character": "建",
+      "readings": [
+        "けん",
+        "た"
+      ]
+    },
+    {
+      "id": 1132,
+      "character": "設",
+      "readings": [
+        "せつ",
+        "もう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You do the <kanji>build</kanji>ing to <kanji>establish</kanji> something. This whole process is called <vocabulary>construction</vocabulary>!\n\n建設 is a pretty formal word for construction, focusing on the action or process of <vocabulary>constructing</vocabulary> rather than the structure itself. It’s often used for large construction projects, like malls, dams, or bridges. In some contexts, it can also refer to the <vocabulary>establishment</vocabulary> of significant entities, like a new state.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BB%BA%E8%A8%AD",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "建",
+      "id": 946,
+      "reading": "けん"
+    },
+    {
+      "type": "kanji",
+      "value": "設",
+      "id": 1132,
+      "reading": "せつ"
+    }
+  ]
+}

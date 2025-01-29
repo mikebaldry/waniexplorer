@@ -1,0 +1,48 @@
+{
+  "id": 2760,
+  "type": "vocabulary",
+  "characters": "毎年",
+  "primaryMeaning": "Every Year",
+  "otherMeanings": [
+    "Yearly",
+    "Annually",
+    "Each Year"
+  ],
+  "primaryReading": "まいとし",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 572,
+      "character": "毎",
+      "readings": [
+        "まい",
+        "ごと"
+      ]
+    },
+    {
+      "id": 546,
+      "character": "年",
+      "readings": [
+        "ねん",
+        "とし"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You have <kanji>every</kanji> and <kanji>year</kanji> to combine into <vocabulary>every year</vocabulary> (<vocabulary>yearly</vocabulary> works as well).",
+  "readingMnemonic": "The reading for 毎 is what you'd expect. The reading for 年 is the kun'yomi reading, though. So, use your knowledge of the vocab 年 to help yourself to remember the reading for this word. You'll need to remember that the reading for this word is strange to get it into that brain of yours. ",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%AF%8E%E5%B9%B4",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "毎",
+      "id": 572,
+      "reading": "まい"
+    },
+    {
+      "type": "kanji",
+      "value": "年",
+      "id": 546,
+      "reading": "とし"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 1690,
+  "type": "kanji",
+  "character": "慮",
+  "primaryMeaning": "Consider",
+  "otherMeanings": [],
+  "primaryReading": "りょ",
+  "readings": [
+    {
+      "reading": "りょ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "おもんぱく",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "おもんぱか",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "It's <kanji>consider</kanji>ing you for so long that it takes out a <reading>ro</reading>be (りょ), a pipe, and an armchair and starts puffing away, staring intently at you. You didn't even know tigers could wear robes, but this one seems to use it to help itself think.",
+  "meaningMnemonic": "A <radical>tiger</radical> needs to <radical>think</radical> and <kanji>consider</kanji> its actions before it attacks. Tigers are smart hunters, so they need to consider all options and really think through a situation.",
+  "vocabularyIds": [
+    6188,
+    6189,
+    6190,
+    6344,
+    8205
+  ],
+  "radicalIds": [
+    254,
+    368
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%85%AE"
+}

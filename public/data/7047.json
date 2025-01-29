@@ -1,0 +1,33 @@
+{
+  "id": 7047,
+  "type": "vocabulary",
+  "characters": "俵",
+  "primaryMeaning": "Sack",
+  "otherMeanings": [
+    "Straw Bag",
+    "Straw Sack"
+  ],
+  "primaryReading": "たわら",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1974,
+      "character": "俵",
+      "readings": [
+        "ひょう",
+        "たわら"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "A bunch of <vocabulary>sack</vocabulary>s or <vocabulary>straw bag</vocabulary>s are stacked upon each other to make a <reading>tower</reading> (たわら). Imagine walking into this sack tower and wonder how it's all held together. Such poor architecture.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BF%B5",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "俵",
+      "id": 1974,
+      "reading": "たわら"
+    }
+  ]
+}

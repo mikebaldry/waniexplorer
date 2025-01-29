@@ -1,0 +1,37 @@
+{
+  "id": 4115,
+  "type": "vocabulary",
+  "characters": "焼く",
+  "primaryMeaning": "To Bake",
+  "otherMeanings": [
+    "To Burn Something",
+    "To Grill"
+  ],
+  "primaryReading": "やく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1040,
+      "character": "焼",
+      "readings": [
+        "や",
+        "しょう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>bake</kanji> or <kanji>burn</kanji>. So, the verb vocab version is <vocabulary>to bake</vocabulary>, <vocabulary>to burn something</vocabulary>, or even <vocabulary>to grill</vocabulary>.\n\n焼く means to apply heat to something to change it in a physical way. It can refer to lightly toasting something, charring it, or even burning it to ashes depending on the context. It's commonly used in cooking contexts to describe baking, grilling, or roasting food. But it can also be used with pottery, film photography, and even sun-tanning.",
+  "readingMnemonic": "The reading comes from the reading you learned with the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%84%BC%E3%81%8F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "焼",
+      "id": 1040,
+      "reading": "や"
+    },
+    {
+      "type": "kana",
+      "value": "く"
+    }
+  ]
+}

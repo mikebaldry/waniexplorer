@@ -1,0 +1,50 @@
+{
+  "id": 8254,
+  "type": "vocabulary",
+  "characters": "非凡",
+  "primaryMeaning": "Prodigy",
+  "otherMeanings": [
+    "Rare",
+    "Unique",
+    "Extraordinary"
+  ],
+  "primaryReading": "ひぼん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1013,
+      "character": "非",
+      "readings": [
+        "ひ"
+      ]
+    },
+    {
+      "id": 2301,
+      "character": "凡",
+      "readings": [
+        "ぼん",
+        "はん",
+        "おうよ",
+        "およ",
+        "すべ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "It's an <kanji>injustice</kanji> that so many people in this world are <kanji>mediocre</kanji> and we can't all be a <vocabulary>prodigy</vocabulary> at something. Everyone deserves to be <vocabulary>unique</vocabulary>, but it just isn't true.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9D%9E%E5%87%A1",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "非",
+      "id": 1013,
+      "reading": "ひ"
+    },
+    {
+      "type": "kanji",
+      "value": "凡",
+      "id": 2301,
+      "reading": "ぼん"
+    }
+  ]
+}

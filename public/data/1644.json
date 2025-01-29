@@ -1,0 +1,25 @@
+{
+  "id": 1644,
+  "type": "kanji",
+  "character": "昭",
+  "primaryMeaning": "Shining",
+  "otherMeanings": [],
+  "primaryReading": "しょう",
+  "readings": [
+    {
+      "reading": "しょう",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "This <kanji>shining</kanji> is aimed directly at the <reading>Shou</reading>gun (しょう). The sun is shining on the Shougun to not only show its support for his leadership, but to let him shine brighter than anyone else in Japan.",
+  "meaningMnemonic": "The <radical>sun</radical> <radical>call</radical>s out to the earth by <kanji>shining</kanji> down on it.",
+  "vocabularyIds": [
+    6051
+  ],
+  "radicalIds": [
+    22,
+    331
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%98%AD"
+}

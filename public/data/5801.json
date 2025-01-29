@@ -1,0 +1,36 @@
+{
+  "id": 5801,
+  "type": "vocabulary",
+  "characters": "沿う",
+  "primaryMeaning": "To Run Alongside",
+  "otherMeanings": [
+    "To Run Parallel To"
+  ],
+  "primaryReading": "そう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1567,
+      "character": "沿",
+      "readings": [
+        "えん",
+        "そ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>run alongside</kanji> so the verb vocab version is <vocabulary>to run alongside</vocabulary>.",
+  "readingMnemonic": "Imagine yourself on a path designed <vocabulary>to run alongside</vocabulary> an endless array of <reading>so</reading>ap (そ) bars. As you walk alongside the soap bars, you enjoy their delightful scents. It's a \"scent-sational\" promenade with soap bars that leaves you feeling squeaky clean!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B2%BF%E3%81%86",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "沿",
+      "id": 1567,
+      "reading": "そ"
+    },
+    {
+      "type": "kana",
+      "value": "う"
+    }
+  ]
+}

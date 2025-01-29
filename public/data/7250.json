@@ -1,0 +1,47 @@
+{
+  "id": 7250,
+  "type": "vocabulary",
+  "characters": "斜体",
+  "primaryMeaning": "Italics",
+  "otherMeanings": [
+    "Italic Font Style"
+  ],
+  "primaryReading": "しゃたい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2045,
+      "character": "斜",
+      "readings": [
+        "しゃ",
+        "なな"
+      ]
+    },
+    {
+      "id": 583,
+      "character": "体",
+      "readings": [
+        "たい",
+        "てい",
+        "からだ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When text has a <kanji>diagonal</kanji> <kanji>body</kanji> to it, it is leaning. It is in <vocabulary>italics</vocabulary> or the <vocabulary>italic font style</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%96%9C%E4%BD%93",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "斜",
+      "id": 2045,
+      "reading": "しゃ"
+    },
+    {
+      "type": "kanji",
+      "value": "体",
+      "id": 583,
+      "reading": "たい"
+    }
+  ]
+}

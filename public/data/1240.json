@@ -1,0 +1,30 @@
+{
+  "id": 1240,
+  "type": "kanji",
+  "character": "環",
+  "primaryMeaning": "Loop",
+  "otherMeanings": [],
+  "primaryReading": "かん",
+  "readings": [
+    {
+      "reading": "かん",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "The king also explains that this <kanji>loop</kanji> technique was used by Genghis <reading>Khan</reading> (かん) when he was conquering cities. He'd loop around the entire place with a net and trap them.",
+  "meaningMnemonic": "The <radical>king</radical> is showing his people how to put a <radical>net</radical> around a weird <radical>zombie</radical> by walking around it in a <kanji>loop</kanji>. It's a weird zombie because it has the ground on top of its head instead of dirt.",
+  "vocabularyIds": [
+    4732,
+    8197,
+    8360,
+    8361,
+    8563
+  ],
+  "radicalIds": [
+    48,
+    163,
+    8784
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%92%B0"
+}

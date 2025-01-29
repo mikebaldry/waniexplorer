@@ -1,0 +1,50 @@
+{
+  "id": 3854,
+  "type": "vocabulary",
+  "characters": "真っ黒",
+  "primaryMeaning": "Pitch Black",
+  "otherMeanings": [
+    "Pure Black"
+  ],
+  "primaryReading": "まっくろ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 971,
+      "character": "真",
+      "readings": [
+        "しん",
+        "ま"
+      ]
+    },
+    {
+      "id": 677,
+      "character": "黒",
+      "readings": [
+        "こく",
+        "くろ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>reality</kanji> is that it's <kanji>black</kanji>. Like, so black that it's beyond fake black, it's reality black. This is so black it's <vocabulary>pitch black</vocabulary>.",
+  "readingMnemonic": "The reading for the 真 is the vocab kun'yomi reading. Think of what is pitch black. It's your poor <reading>Ma</reading> (ま). She is so dark that she sucks in light, like a black hole... wait, she is a black hole, it explains why your Ma is pitch black.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%9C%9F%E3%81%A3%E9%BB%92",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "真",
+      "id": 971,
+      "reading": "ま"
+    },
+    {
+      "type": "kana",
+      "value": "っ"
+    },
+    {
+      "type": "kanji",
+      "value": "黒",
+      "id": 677,
+      "reading": "くろ"
+    }
+  ]
+}

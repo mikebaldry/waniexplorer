@@ -1,0 +1,48 @@
+{
+  "id": 6288,
+  "type": "vocabulary",
+  "characters": "補充",
+  "primaryMeaning": "Resupply",
+  "otherMeanings": [
+    "Refill",
+    "Restock"
+  ],
+  "primaryReading": "ほじゅう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1261,
+      "character": "補",
+      "readings": [
+        "ほ",
+        "おぎな"
+      ]
+    },
+    {
+      "id": 1721,
+      "character": "充",
+      "readings": [
+        "じゅう",
+        "あ",
+        "み"
+      ]
+    }
+  ],
+  "meaningMnemonic": "To take a <kanji>supplement</kanji> and <kanji>allocate</kanji> it to where it needs to be is to <vocabulary>resupply</vocabulary> or <vocabulary>refill</vocabulary> something.\n\n補充 means filling in the gaps when there's a shortage. It's used for things like <vocabulary>restock</vocabulary>ing supplies, replacing what's been used, or adding more staff to meet demand. The goal is to bring things back to a needed or complete level.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A3%9C%E5%85%85",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "補",
+      "id": 1261,
+      "reading": "ほ"
+    },
+    {
+      "type": "kanji",
+      "value": "充",
+      "id": 1721,
+      "reading": "じゅう"
+    }
+  ]
+}

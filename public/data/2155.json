@@ -1,0 +1,39 @@
+{
+  "id": 2155,
+  "type": "kanji",
+  "character": "陥",
+  "primaryMeaning": "Cave In",
+  "otherMeanings": [],
+  "primaryReading": "かん",
+  "readings": [
+    {
+      "reading": "かん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "おちい",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "おとしい",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You keep picturing the <kanji>cave in</kanji> and you see Genghis <reading>Khan</reading> (かん) climbing over the rubble. He's the one who took down this prison! And he's coming for your town next!",
+  "meaningMnemonic": "This <radical>building</radical> was a <radical>former</radical> <radical>prison</radical> until the <kanji>cave in</kanji>. You see, prisons aren't built very carefully, they just try to get them done fast enough to stuff people in there. So while you can tell this was once a building, it definitely isn't a prison anymore, since the whole thing caved in.",
+  "vocabularyIds": [
+    7946,
+    7947,
+    7948,
+    7949
+  ],
+  "radicalIds": [
+    176,
+    14,
+    374
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%99%A5"
+}

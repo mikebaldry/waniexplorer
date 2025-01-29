@@ -1,0 +1,30 @@
+{
+  "id": 1784,
+  "type": "kanji",
+  "character": "虎",
+  "primaryMeaning": "Tiger",
+  "otherMeanings": [],
+  "primaryReading": "とら",
+  "readings": [
+    {
+      "reading": "とら",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "こ",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "The <kanji>tiger</kanji> is using his legs to run away from the <reading>Torah</reading> (とら). This tiger is deathly afraid of religion, so a holy book like the Torah causes the tiger to run away.",
+  "meaningMnemonic": "A <radical>tiger</radical> has <radical>legs</radical> that belong to a <kanji>tiger</kanji>. You know, a tiger has the legs of a tiger. This is common knowledge. Nothing new here.",
+  "vocabularyIds": [
+    6502
+  ],
+  "radicalIds": [
+    254,
+    28
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%99%8E"
+}

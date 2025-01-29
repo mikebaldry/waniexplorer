@@ -1,0 +1,34 @@
+{
+  "id": 7214,
+  "type": "vocabulary",
+  "characters": "踊り",
+  "primaryMeaning": "Dance",
+  "otherMeanings": [],
+  "primaryReading": "おどり",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2032,
+      "character": "踊",
+      "readings": [
+        "おど",
+        "よう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>dance</kanji> is a <vocabulary>dance</vocabulary>.",
+  "readingMnemonic": "The reading is the one you learned with the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%B8%8A%E3%82%8A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "踊",
+      "id": 2032,
+      "reading": "おど"
+    },
+    {
+      "type": "kana",
+      "value": "り"
+    }
+  ]
+}

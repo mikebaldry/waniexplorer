@@ -1,0 +1,36 @@
+{
+  "id": 5021,
+  "type": "vocabulary",
+  "characters": "悩む",
+  "primaryMeaning": "To Worry",
+  "otherMeanings": [
+    "To Be Troubled"
+  ],
+  "primaryReading": "なやむ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1321,
+      "character": "悩",
+      "readings": [
+        "なや",
+        "のう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>worry</kanji> so the verb vocab version is <vocabulary>to worry</vocabulary>.\n\n悩む is often intransitive, like 彼はいつも悩んでいる (he's always worrying). But it can also be transitive, in which case it'll take a direct object, like 彼女のことを悩む (to worry about her). ",
+  "readingMnemonic": "The reading is the same as what you learned with the kanji, so no need <vocabulary>to worry</vocabulary> about it.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%82%A9%E3%82%80",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "悩",
+      "id": 1321,
+      "reading": "なや"
+    },
+    {
+      "type": "kana",
+      "value": "む"
+    }
+  ]
+}

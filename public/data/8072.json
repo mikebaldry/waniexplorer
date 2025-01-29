@@ -1,0 +1,31 @@
+{
+  "id": 8072,
+  "type": "vocabulary",
+  "characters": "卸",
+  "primaryMeaning": "Wholesale",
+  "otherMeanings": [],
+  "primaryReading": "おろし",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2233,
+      "character": "卸",
+      "readings": [
+        "おろし",
+        "おろ",
+        "しゃ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8D%B8",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "卸",
+      "id": 2233,
+      "reading": "おろし"
+    }
+  ]
+}

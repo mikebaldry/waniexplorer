@@ -1,0 +1,32 @@
+{
+  "id": 874,
+  "type": "kanji",
+  "character": "駅",
+  "primaryMeaning": "Station",
+  "otherMeanings": [
+    "Train Station"
+  ],
+  "primaryReading": "えき",
+  "readings": [
+    {
+      "reading": "えき",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "The train pulls into the <kanji>station</kanji>. They walk up to the train doors, but they don't open. \"Perhaps <reading>a key</reading> (えき) would help?\" asks the station master, as he goes over to open the door to the train.",
+  "meaningMnemonic": "A <radical>horse</radical> and a <radical>shrimp</radical> are sitting next to each other. They are both at the train <kanji>station</kanji>, waiting for a train to come and take them home.",
+  "vocabularyIds": [
+    3643,
+    3644,
+    3645,
+    3646,
+    4099,
+    4576
+  ],
+  "radicalIds": [
+    165,
+    215
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%A7%85"
+}

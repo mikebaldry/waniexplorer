@@ -1,0 +1,48 @@
+{
+  "id": 7648,
+  "type": "vocabulary",
+  "characters": "議会",
+  "primaryMeaning": "Diet",
+  "otherMeanings": [
+    "The Diet",
+    "Congress",
+    "Parliament",
+    "Assembly"
+  ],
+  "primaryReading": "ぎかい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1114,
+      "character": "議",
+      "readings": [
+        "ぎ"
+      ]
+    },
+    {
+      "id": 566,
+      "character": "会",
+      "readings": [
+        "かい",
+        "あ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The place you <kanji>meet</kanji> for <kanji>deliberation</kanji> in Japan is called the <vocabulary>Diet</vocabulary>. It's their version of <vocabulary>congress</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%AD%B0%E4%BC%9A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "議",
+      "id": 1114,
+      "reading": "ぎ"
+    },
+    {
+      "type": "kanji",
+      "value": "会",
+      "id": 566,
+      "reading": "かい"
+    }
+  ]
+}

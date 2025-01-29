@@ -1,0 +1,60 @@
+{
+  "id": 4539,
+  "type": "vocabulary",
+  "characters": "受領書",
+  "primaryMeaning": "Receipt",
+  "otherMeanings": [
+    "Delivery Confirmation Slip",
+    "Docket"
+  ],
+  "primaryReading": "じゅりょうしょ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 711,
+      "character": "受",
+      "readings": [
+        "じゅ",
+        "う"
+      ]
+    },
+    {
+      "id": 1171,
+      "character": "領",
+      "readings": [
+        "りょう"
+      ]
+    },
+    {
+      "id": 962,
+      "character": "書",
+      "readings": [
+        "しょ",
+        "か"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Please <kanji>accept</kanji> this <kanji>territory</kanji>. Oh, you want some <kanji>writing</kanji> to make the deal official? Okay, here's a <vocabulary>receipt</vocabulary>.\n\nThis word refers to a document which serves as proof of receiving goods, services, or money in an official setting, like a business transaction. If you’re just talking about the receipt you get while shopping, you can simply say レシート or 領収書. ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8F%97%E9%A0%98%E6%9B%B8",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "受",
+      "id": 711,
+      "reading": "じゅ"
+    },
+    {
+      "type": "kanji",
+      "value": "領",
+      "id": 1171,
+      "reading": "りょう"
+    },
+    {
+      "type": "kanji",
+      "value": "書",
+      "id": 962,
+      "reading": "しょ"
+    }
+  ]
+}

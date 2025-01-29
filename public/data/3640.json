@@ -1,0 +1,45 @@
+{
+  "id": 3640,
+  "type": "vocabulary",
+  "characters": "養子",
+  "primaryMeaning": "Adopted Child",
+  "otherMeanings": [],
+  "primaryReading": "ようし",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 889,
+      "character": "養",
+      "readings": [
+        "よう",
+        "やしな"
+      ]
+    },
+    {
+      "id": 462,
+      "character": "子",
+      "readings": [
+        "し",
+        "す",
+        "こ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>foster</kanji> <kanji>child</kanji> you bring into your family is your <vocabulary>adopted child</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%A4%8A%E5%AD%90",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "養",
+      "id": 889,
+      "reading": "よう"
+    },
+    {
+      "type": "kanji",
+      "value": "子",
+      "id": 462,
+      "reading": "し"
+    }
+  ]
+}

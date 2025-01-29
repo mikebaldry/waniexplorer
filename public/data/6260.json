@@ -1,0 +1,49 @@
+{
+  "id": 6260,
+  "type": "vocabulary",
+  "characters": "邦人",
+  "primaryMeaning": "Fellow Countryman",
+  "otherMeanings": [
+    "Japanese National",
+    "Compatriot"
+  ],
+  "primaryReading": "ほうじん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1708,
+      "character": "邦",
+      "readings": [
+        "ほう",
+        "くに"
+      ]
+    },
+    {
+      "id": 444,
+      "character": "人",
+      "readings": [
+        "にん",
+        "じん",
+        "ひと",
+        "と"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>home country</kanji> <kanji>person</kanji> is a <vocabulary>fellow countryman</vocabulary> or <vocabulary>compatriot</vocabulary> (only for Japanese people though). In Japan, you're a <vocabulary>Japanese national</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%82%A6%E4%BA%BA",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "邦",
+      "id": 1708,
+      "reading": "ほう"
+    },
+    {
+      "type": "kanji",
+      "value": "人",
+      "id": 444,
+      "reading": "じん"
+    }
+  ]
+}

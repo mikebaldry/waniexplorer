@@ -1,0 +1,32 @@
+{
+  "id": 2436,
+  "type": "kanji",
+  "character": "匿",
+  "primaryMeaning": "Hide",
+  "otherMeanings": [],
+  "primaryReading": "とく",
+  "readings": [
+    {
+      "reading": "とく",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "かくま",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "As you <kanji>hide</kanji> the ghost of <reading>Toku</reading>gawa (とく) Ieyasu appears before you, inside the cage! His arms are crossed and he's shaking his head at you. \"Do you think I managed to become the first shougun of Japan by hiding?\"",
+  "meaningMnemonic": "This <radical>cage</radical> is full of <radical>flowers</radical> on the <radical>right</radical> side to <kanji>hide</kanji> the fact that you're in here too.",
+  "vocabularyIds": [
+    8597,
+    8598
+  ],
+  "radicalIds": [
+    217,
+    90,
+    362
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%8C%BF"
+}

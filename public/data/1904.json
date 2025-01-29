@@ -1,0 +1,32 @@
+{
+  "id": 1904,
+  "type": "kanji",
+  "character": "芽",
+  "primaryMeaning": "Sprout",
+  "otherMeanings": [],
+  "primaryReading": "め",
+  "readings": [
+    {
+      "reading": "め",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "が",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "When the <kanji>sprout</kanji> gets out of the ground and opens up, instead of a flower there is a human-looking <reading>目</reading> (め), looking right at you.",
+  "meaningMnemonic": "A <radical>flowers</radical> <radical>fang</radical> is the bud that comes out of the ground. It's like a little fang, coming from the earth, and it will become a flower someday. This is a little <kanji>sprout</kanji>.",
+  "vocabularyIds": [
+    6839,
+    6962,
+    8405
+  ],
+  "radicalIds": [
+    90,
+    333
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%8A%BD"
+}

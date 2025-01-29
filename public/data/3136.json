@@ -1,0 +1,43 @@
+{
+  "id": 3136,
+  "type": "vocabulary",
+  "characters": "発見",
+  "primaryMeaning": "Discovery",
+  "otherMeanings": [],
+  "primaryReading": "はっけん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 729,
+      "character": "発",
+      "readings": [
+        "はつ"
+      ]
+    },
+    {
+      "id": 558,
+      "character": "見",
+      "readings": [
+        "み",
+        "けん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You make <kanji>departure</kanji> from your home off into the great beyond. You will go to <kanji>see</kanji> the unseen, and hopefully make a great <vocabulary>discovery</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. You know the はつ part, which gets shortened to はっ. The 見 is unlike what you learned with 見, though. \n\nIn order to remember that this is けん, imagine you're going out to make a discovery of some strange new lands. With strange new lands, there comes strange new people. This one has a samurai named <reading>Ken</reading> (けん) on it. He's trying to discover new things too!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%99%BA%E8%A6%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "発",
+      "id": 729,
+      "reading": null
+    },
+    {
+      "type": "kanji",
+      "value": "見",
+      "id": 558,
+      "reading": null
+    }
+  ]
+}

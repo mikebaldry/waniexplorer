@@ -1,0 +1,48 @@
+{
+  "id": 8544,
+  "type": "vocabulary",
+  "characters": "擬装",
+  "primaryMeaning": "Disguise",
+  "otherMeanings": [
+    "Camouflage"
+  ],
+  "primaryReading": "ぎそう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2416,
+      "character": "擬",
+      "readings": [
+        "ぎ",
+        "まが",
+        "もど"
+      ]
+    },
+    {
+      "id": 1541,
+      "character": "装",
+      "readings": [
+        "そう",
+        "しょう",
+        "よそお"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Use <kanji>attire</kanji> that <kanji>imitate</kanji>s your surroundings to create a <vocabulary>disguise</vocabulary>. Or throw on some <vocabulary>camouflage</vocabulary> so that no one will be able to find you in Walmart.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%93%AC%E8%A3%85",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "擬",
+      "id": 2416,
+      "reading": "ぎ"
+    },
+    {
+      "type": "kanji",
+      "value": "装",
+      "id": 1541,
+      "reading": "そう"
+    }
+  ]
+}

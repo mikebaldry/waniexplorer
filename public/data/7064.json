@@ -1,0 +1,37 @@
+{
+  "id": 7064,
+  "type": "vocabulary",
+  "characters": "欺く",
+  "primaryMeaning": "To Deceive",
+  "otherMeanings": [
+    "To Swindle",
+    "To Delude"
+  ],
+  "primaryReading": "あざむく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1980,
+      "character": "欺",
+      "readings": [
+        "ぎ",
+        "あざむ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>deceit</kanji>, so when you're doing deceit, you are going <vocabulary>to deceive</vocabulary> someone.",
+  "readingMnemonic": "As a human everyone would know who you are. You can't deceive anyone like that. But, <reading>as a moo</reading> (あざむ)... a cow is what I mean... nobody would know who you are.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%AC%BA%E3%81%8F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "欺",
+      "id": 1980,
+      "reading": "あざむ"
+    },
+    {
+      "type": "kana",
+      "value": "く"
+    }
+  ]
+}

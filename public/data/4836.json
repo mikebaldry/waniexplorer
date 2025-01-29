@@ -1,0 +1,37 @@
+{
+  "id": 4836,
+  "type": "vocabulary",
+  "characters": "掛ける",
+  "primaryMeaning": "To Hang Something",
+  "otherMeanings": [
+    "To Hang Up Something"
+  ],
+  "primaryReading": "かける",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1278,
+      "character": "掛",
+      "readings": [
+        "か",
+        "かい",
+        "けい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>hang</kanji> so the verb vocab version is <vocabulary>to hang something</vocabulary> or <vocabulary>to hang up something</vocabulary> (as in to hang it up by a hook).\n\nYou can remember this because you must <reading>care</reading> (ける) about the way you hang something up. Without care, it won't stay hanging for long.",
+  "readingMnemonic": "The reading is the same as what you learned with the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8E%9B%E3%81%91%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "掛",
+      "id": 1278,
+      "reading": "か"
+    },
+    {
+      "type": "kana",
+      "value": "ける"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": 7494,
+  "type": "vocabulary",
+  "characters": "律動的",
+  "primaryMeaning": "Rhythmical",
+  "otherMeanings": [
+    "Rhythmic"
+  ],
+  "primaryReading": "りつどうてき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1197,
+      "character": "律",
+      "readings": [
+        "りつ"
+      ]
+    },
+    {
+      "id": 827,
+      "character": "動",
+      "readings": [
+        "どう",
+        "うご"
+      ]
+    },
+    {
+      "id": 914,
+      "character": "的",
+      "readings": [
+        "てき",
+        "まと"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Rhythm is 律動, but by adding a 的 in there we get the adjective version of that word, making it <vocabulary>rhythmical</vocabulary> or <vocabulary>rhythmic</vocabulary>.\n\nNote that リズミカル and テンポのいい are much more common words to use for \"rhythmical\" and “rhythmic” respectively, but you may sometimes see 律動的 in formal writing.",
+  "readingMnemonic": "The reading is the same as 律動. The 的 part you should also be able to read by now.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BE%8B%E5%8B%95%E7%9A%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "律",
+      "id": 1197,
+      "reading": "りつ"
+    },
+    {
+      "type": "kanji",
+      "value": "動",
+      "id": 827,
+      "reading": "どう"
+    },
+    {
+      "type": "kanji",
+      "value": "的",
+      "id": 914,
+      "reading": "てき"
+    }
+  ]
+}

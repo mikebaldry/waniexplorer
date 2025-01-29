@@ -1,0 +1,37 @@
+{
+  "id": 8944,
+  "type": "vocabulary",
+  "characters": "改める",
+  "primaryMeaning": "To Change Something",
+  "otherMeanings": [
+    "To Revise Something",
+    "To Correct Something"
+  ],
+  "primaryReading": "あらためる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1082,
+      "character": "改",
+      "readings": [
+        "かい",
+        "あらた"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb.\n\nThe kanji itself means <kanji>renew</kanji>, and this verb's meaning isn't far off. What do you do if you renew something, usually to make it better? You're going <vocabulary>to change something</vocabulary>, <vocabulary>to revise something</vocabulary>, or <vocabulary>to correct something</vocabulary>. This verb is transitive, so it takes a direct object.\n\n改める is a formal word for when you're actively make changes or improvements, like fixing a mistake or reforming a system. You might also use it when you decide to change your behavior or update your way of doing something.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you:\n\nUsually when we want <vocabulary>to change something</vocabulary>, we want to make it <reading>新た</reading> (あらた), right? Out with the old, in with the 新た, as they say.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%94%B9%E3%82%81%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "改",
+      "id": 1082,
+      "reading": "あらた"
+    },
+    {
+      "type": "kana",
+      "value": "める"
+    }
+  ]
+}

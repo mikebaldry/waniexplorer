@@ -1,0 +1,46 @@
+{
+  "id": 5450,
+  "type": "vocabulary",
+  "characters": "嘆息",
+  "primaryMeaning": "Sigh",
+  "otherMeanings": [
+    "Lament"
+  ],
+  "primaryReading": "たんそく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1459,
+      "character": "嘆",
+      "readings": [
+        "たん",
+        "なげ"
+      ]
+    },
+    {
+      "id": 815,
+      "character": "息",
+      "readings": [
+        "そく",
+        "いき"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>sigh</kanji> <kanji>breath</kanji> is a <vocabulary>sigh</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%98%86%E6%81%AF",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "嘆",
+      "id": 1459,
+      "reading": "たん"
+    },
+    {
+      "type": "kanji",
+      "value": "息",
+      "id": 815,
+      "reading": "そく"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": 3079,
+  "type": "vocabulary",
+  "characters": "電池",
+  "primaryMeaning": "Battery",
+  "otherMeanings": [],
+  "primaryReading": "でんち",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 706,
+      "character": "電",
+      "readings": [
+        "でん"
+      ]
+    },
+    {
+      "id": 573,
+      "character": "池",
+      "readings": [
+        "ち",
+        "いけ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>pond</kanji> for <kanji>electricity</kanji>? May seem weird at first, but if you think of something that's gathering all the electricity into one pond... that thing is like a <vocabulary>battery</vocabulary> (and is a battery).",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9B%BB%E6%B1%A0",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "電",
+      "id": 706,
+      "reading": "でん"
+    },
+    {
+      "type": "kanji",
+      "value": "池",
+      "id": 573,
+      "reading": "ち"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 7680,
+  "type": "vocabulary",
+  "characters": "役場",
+  "primaryMeaning": "Town Hall",
+  "otherMeanings": [
+    "Town Office",
+    "Public Office"
+  ],
+  "primaryReading": "やくば",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 685,
+      "character": "役",
+      "readings": [
+        "やく",
+        "えき"
+      ]
+    },
+    {
+      "id": 694,
+      "character": "場",
+      "readings": [
+        "じょう",
+        "ば"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>service</kanji> <kanji>location</kanji> is a place that people go when they're in need of a service. The best place for this is the <vocabulary>town hall</vocabulary>. Everyone goes to this one location to voice their complaints, and in return their needs are serviced by the officials in the town hall.\n\n役場 specifically refers to the administrative office of a town (町) or village (村) rather than a city (市). Depending on the location, it may be also be called a 町役場 or 村役場.",
+  "readingMnemonic": "This word uses the on'yomi reading for the first kanji and the kun'yomi reading for the second kanji. That's all you have to remember, though, because you've seen both of these readings before!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BD%B9%E5%A0%B4",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "役",
+      "id": 685,
+      "reading": "やく"
+    },
+    {
+      "type": "kanji",
+      "value": "場",
+      "id": 694,
+      "reading": "ば"
+    }
+  ]
+}

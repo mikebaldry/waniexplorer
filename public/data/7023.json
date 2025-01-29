@@ -1,0 +1,60 @@
+{
+  "id": 7023,
+  "type": "vocabulary",
+  "characters": "錬金術",
+  "primaryMeaning": "Alchemy",
+  "otherMeanings": [],
+  "primaryReading": "れんきんじゅつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1965,
+      "character": "錬",
+      "readings": [
+        "れん",
+        "ね"
+      ]
+    },
+    {
+      "id": 602,
+      "character": "金",
+      "readings": [
+        "きん",
+        "こん",
+        "かね",
+        "かな"
+      ]
+    },
+    {
+      "id": 922,
+      "character": "術",
+      "readings": [
+        "じゅつ",
+        "すべ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Tempering</kanji> <kanji>gold</kanji> is a <kanji>technique</kanji> so magical that we can consider it to be <vocabulary>alchemy</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%8C%AC%E9%87%91%E8%A1%93",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "錬",
+      "id": 1965,
+      "reading": "れん"
+    },
+    {
+      "type": "kanji",
+      "value": "金",
+      "id": 602,
+      "reading": "きん"
+    },
+    {
+      "type": "kanji",
+      "value": "術",
+      "id": 922,
+      "reading": "じゅつ"
+    }
+  ]
+}

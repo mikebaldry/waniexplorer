@@ -1,0 +1,46 @@
+{
+  "id": 3951,
+  "type": "vocabulary",
+  "characters": "関西",
+  "primaryMeaning": "Kansai",
+  "otherMeanings": [],
+  "primaryReading": "かんさい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 982,
+      "character": "関",
+      "readings": [
+        "かん",
+        "かか",
+        "せき"
+      ]
+    },
+    {
+      "id": 581,
+      "character": "西",
+      "readings": [
+        "せい",
+        "さい",
+        "にし"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <vocabulary>Kansai</vocabulary> region of Japan is the Southern Central part of Japan. It actually <kanji>connects</kanji> the East side of Japan (at least back in the day) to the West side, making it the \"connection to the west.\" For our purposes, though, we should call it \"Kansai.\"",
+  "readingMnemonic": "Urgh, what a confusing reading! The 西 is さい instead of せい. Readings like this just make you want to <reading>sigh</reading> (さい), no?",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%96%A2%E8%A5%BF",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "関",
+      "id": 982,
+      "reading": "かん"
+    },
+    {
+      "type": "kanji",
+      "value": "西",
+      "id": 581,
+      "reading": "さい"
+    }
+  ]
+}

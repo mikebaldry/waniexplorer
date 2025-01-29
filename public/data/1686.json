@@ -1,0 +1,32 @@
+{
+  "id": 1686,
+  "type": "kanji",
+  "character": "併",
+  "primaryMeaning": "Join",
+  "otherMeanings": [],
+  "primaryReading": "へい",
+  "readings": [
+    {
+      "reading": "へい",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "あわ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "The leader guy approaches you out of the darkness, his lantern held high. Oh no, not that guy. You've heard about his horn problem and you don't want to <kanji>join</kanji> him. You look around and spot a large <reading>hay</reading>stack (へい). You quickly jump into it and hide from him.",
+  "meaningMnemonic": "A <radical>leader</radical> with <radical>horns</radical> takes a <radical>lantern</radical> and searches for people to <kanji>join</kanji> him. He needs more people to join his cause so he can get his horns removed. He’s embarrassed of them which is why he only travels at night, hence the lantern.",
+  "vocabularyIds": [
+    6180,
+    6181
+  ],
+  "radicalIds": [
+    75,
+    8767,
+    171
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E4%BD%B5"
+}

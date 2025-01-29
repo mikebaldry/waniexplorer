@@ -1,0 +1,50 @@
+{
+  "id": 2477,
+  "type": "vocabulary",
+  "characters": "一人",
+  "primaryMeaning": "Alone",
+  "otherMeanings": [
+    "One Person"
+  ],
+  "primaryReading": "ひとり",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 440,
+      "character": "一",
+      "readings": [
+        "いち",
+        "いつ",
+        "ひと",
+        "かず"
+      ]
+    },
+    {
+      "id": 444,
+      "character": "人",
+      "readings": [
+        "にん",
+        "じん",
+        "ひと",
+        "と"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When there's <kanji>one</kanji> <kanji>person</kanji>, what are they? Well, they're either just going to be simply <vocabulary>one person</vocabulary> or <vocabulary>alone</vocabulary>.",
+  "readingMnemonic": "The reading for this vocab doesn't follow any rules you learned previously. It's an exception, which means you have to learn the reading separately too. Spend a few moments trying to remember this word, look away for 10 seconds, and then try to recall its reading. Could you do it? Try again, this time in thirty seconds. Did you do it again? Okay, go ahead and move on. You may know it now, though you'll need to recall it again in the next 5-10 minutes if you want to remember it for good.\n\nAlternatively, if you know the reading for the vocab word 一つ (in the same level as this word), you can know that it uses the same reading!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%80%E4%BA%BA",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "一",
+      "id": 440,
+      "reading": "ひと"
+    },
+    {
+      "type": "kanji",
+      "value": "人",
+      "id": 444,
+      "reading": null
+    }
+  ]
+}

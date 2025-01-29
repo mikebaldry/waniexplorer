@@ -1,0 +1,30 @@
+{
+  "id": 468,
+  "type": "kanji",
+  "character": "才",
+  "primaryMeaning": "Talent",
+  "otherMeanings": [],
+  "primaryReading": "さい",
+  "readings": [
+    {
+      "reading": "さい",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "But then people start to say that no human could have so much <kanji>talent</kanji>, that you must be a <reading>cy</reading>borg (さい). Are you really a talented cyborg?",
+  "meaningMnemonic": "On the <radical>ground</radical> you put <radical>barb</radical>s at the bottom of a <radical>slide</radical>. This is your special <kanji>talent</kanji>. When you go down the slide, you fly right past the barbs like some kind of daredevil. Any normal kid would land on the barbs and get hurt, but you have this talent.",
+  "vocabularyIds": [
+    2519,
+    2536,
+    3721,
+    6377,
+    7381
+  ],
+  "radicalIds": [
+    1,
+    6,
+    5
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%89%8D"
+}

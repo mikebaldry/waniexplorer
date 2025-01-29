@@ -1,0 +1,43 @@
+{
+  "id": 732,
+  "type": "kanji",
+  "character": "美",
+  "primaryMeaning": "Beauty",
+  "otherMeanings": [
+    "Beautiful"
+  ],
+  "primaryReading": "び",
+  "readings": [
+    {
+      "reading": "び",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "み",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "うつく",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "The big sheep's <kanji>beauty</kanji> has attracted a swarm of <reading>bee</reading>s (び). The sheep is so beautiful that the bees have mistaken it for a flower.",
+  "meaningMnemonic": "A <radical>sheep</radical> that's <radical>big</radical> is a true <kanji>beauty</kanji>. Big is <kanji>beautiful</kanji>, and that's all the more true for sheep.",
+  "vocabularyIds": [
+    3140,
+    3141,
+    3727,
+    3916,
+    5501,
+    6442,
+    8722
+  ],
+  "radicalIds": [
+    136,
+    18
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%BE%8E"
+}

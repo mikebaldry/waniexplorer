@@ -1,0 +1,47 @@
+{
+  "id": 3176,
+  "type": "vocabulary",
+  "characters": "回転",
+  "primaryMeaning": "Revolve",
+  "otherMeanings": [
+    "Rotate",
+    "Rotation"
+  ],
+  "primaryReading": "かいてん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 569,
+      "character": "回",
+      "readings": [
+        "かい",
+        "まわ"
+      ]
+    },
+    {
+      "id": 747,
+      "character": "転",
+      "readings": [
+        "てん",
+        "ころ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You <kanji>revolve</kanji> X number of <kanji>times</kanji>. Really, the times isn't so important, but the revolving is. That's why this word is <vocabulary>revolve</vocabulary> or <vocabulary>rotate</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. P.S. Ever heard of \"回転ずし?\" That's the kind of sushi that's on conveyor belts, rotating around and around, bringing you delicious plates of things.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%9B%9E%E8%BB%A2",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "回",
+      "id": 569,
+      "reading": "かい"
+    },
+    {
+      "type": "kanji",
+      "value": "転",
+      "id": 747,
+      "reading": "てん"
+    }
+  ]
+}

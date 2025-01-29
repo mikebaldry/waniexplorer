@@ -1,0 +1,26 @@
+{
+  "id": 1435,
+  "type": "kanji",
+  "character": "符",
+  "primaryMeaning": "Token",
+  "otherMeanings": [],
+  "primaryReading": "ふ",
+  "readings": [
+    {
+      "reading": "ふ",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "You hand over the <kanji>token</kanji> but your friend drops it and yells, \"You <reading>foo</reading>l (ふ)! I'm allergic to bamboo!\"",
+  "meaningMnemonic": "You take some <radical>bamboo</radical> and <radical>attach</radical> it together into a <kanji>token</kanji> of appreciation for your friend. Your friend greatly appreciates this token of friendship.",
+  "vocabularyIds": [
+    5348,
+    5451
+  ],
+  "radicalIds": [
+    85,
+    248
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%AC%A6"
+}

@@ -1,0 +1,32 @@
+{
+  "id": 7801,
+  "type": "vocabulary",
+  "characters": "浦",
+  "primaryMeaning": "Bay",
+  "otherMeanings": [
+    "Inlet"
+  ],
+  "primaryReading": "うら",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2153,
+      "character": "浦",
+      "readings": [
+        "うら",
+        "ほ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.\n\nThat said, it's mostly used as a standalone word meaning \"bay\" in classical literature. Nowadays, it comes up most in place names, like the port Tagonoura (田子の浦) and the city of Urayasu (浦安市).",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B5%A6",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "浦",
+      "id": 2153,
+      "reading": "うら"
+    }
+  ]
+}

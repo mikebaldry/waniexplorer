@@ -1,0 +1,46 @@
+{
+  "id": 8408,
+  "type": "vocabulary",
+  "characters": "烏賊",
+  "primaryMeaning": "Squid",
+  "otherMeanings": [
+    "Cuttlefish"
+  ],
+  "primaryReading": "いか",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2357,
+      "character": "烏",
+      "readings": [
+        "からす",
+        "う",
+        "お"
+      ]
+    },
+    {
+      "id": 2330,
+      "character": "賊",
+      "readings": [
+        "ぞく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Look in the sea and you'll see what looks like a <kanji>crow</kanji> moving under the water and it's a <kanji>thief</kanji>! It's stealing from all the fish. As it comes closer you see that it isn't a crow, it's a <vocabulary>squid</vocabulary>. Or a <vocabulary>cuttlefish</vocabulary>? One or the other.",
+  "readingMnemonic": "The reading for this word is completely irregular, so here's a mnemonic to help you remember it:\n\nYou call the fish police to arrest that thieving <vocabulary>squid</vocabulary>, but it jumps into it's <reading>ea</reading>gle <reading>ca</reading>r (いか) and makes a swift getaway. In case you didn't know, an eagle car is an eagle moonlighting as a car. The eagle car is zooming up into the sky, so there's no way the fish police can catch it now.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%83%8F%E8%B3%8A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "烏",
+      "id": 2357,
+      "reading": null
+    },
+    {
+      "type": "kanji",
+      "value": "賊",
+      "id": 2330,
+      "reading": null
+    }
+  ]
+}

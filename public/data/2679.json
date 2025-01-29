@@ -1,0 +1,62 @@
+{
+  "id": 2679,
+  "type": "vocabulary",
+  "characters": "一本気",
+  "primaryMeaning": "One-Track Mind",
+  "otherMeanings": [
+    "Single Mindedness"
+  ],
+  "primaryReading": "いっぽんぎ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 440,
+      "character": "一",
+      "readings": [
+        "いち",
+        "いつ",
+        "ひと",
+        "かず"
+      ]
+    },
+    {
+      "id": 487,
+      "character": "本",
+      "readings": [
+        "ほん",
+        "もと"
+      ]
+    },
+    {
+      "id": 548,
+      "character": "気",
+      "readings": [
+        "き",
+        "け"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You have only <kanji>one</kanji> <kanji>book</kanji> <kanji>energy</kanji>. No other books cross your mind. Only this one book. Why? Because you have such a <vocabulary>one-track mind</vocabulary>.",
+  "readingMnemonic": "The reading is based off the on'yomi readings for everything, though every reading is slightly altered. いち getting shortened to いっ, ほん changing to ぽん, and き gets changed to ぎ. They're based off the readings you know already, though, so making this shift shouldn't be too hard... that is, unless you have an 一本気, ammiright?",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%80%E6%9C%AC%E6%B0%97",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "一",
+      "id": 440,
+      "reading": "いっ"
+    },
+    {
+      "type": "kanji",
+      "value": "本",
+      "id": 487,
+      "reading": "ぽん"
+    },
+    {
+      "type": "kanji",
+      "value": "気",
+      "id": 548,
+      "reading": "ぎ"
+    }
+  ]
+}

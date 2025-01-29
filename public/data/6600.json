@@ -1,0 +1,47 @@
+{
+  "id": 6600,
+  "type": "vocabulary",
+  "characters": "書斎",
+  "primaryMeaning": "Study",
+  "otherMeanings": [
+    "Den",
+    "Library"
+  ],
+  "primaryReading": "しょさい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 962,
+      "character": "書",
+      "readings": [
+        "しょ",
+        "か"
+      ]
+    },
+    {
+      "id": 1818,
+      "character": "斎",
+      "readings": [
+        "さい",
+        "いつ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "I <kanji>write</kanji> for <kanji>purification</kanji>. I do this purification writing in my <vocabulary>study</vocabulary> and <vocabulary>den</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9B%B8%E6%96%8E",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "書",
+      "id": 962,
+      "reading": "しょ"
+    },
+    {
+      "type": "kanji",
+      "value": "斎",
+      "id": 1818,
+      "reading": "さい"
+    }
+  ]
+}

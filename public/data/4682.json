@@ -1,0 +1,37 @@
+{
+  "id": 4682,
+  "type": "vocabulary",
+  "characters": "アメリカ製",
+  "primaryMeaning": "Made In USA",
+  "otherMeanings": [
+    "Made in America"
+  ],
+  "primaryReading": "あめりかせい",
+  "otherReadings": [
+    "アメリカせい"
+  ],
+  "kanji": [
+    {
+      "id": 1219,
+      "character": "製",
+      "readings": [
+        "せい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>America</kanji> <kanji>manufacture</kanji>d is something that is <vocabulary>made in USA</vocabulary> or <vocabulary>made in America</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E8%A3%BD",
+  "elements": [
+    {
+      "type": "kana",
+      "value": "アメリカ"
+    },
+    {
+      "type": "kanji",
+      "value": "製",
+      "id": 1219,
+      "reading": "せい"
+    }
+  ]
+}

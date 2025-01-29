@@ -1,0 +1,52 @@
+{
+  "id": 9291,
+  "type": "vocabulary",
+  "characters": "紅葉",
+  "primaryMeaning": "Autumn Leaves",
+  "otherMeanings": [
+    "Red Leaves",
+    "Leaves Turning Red"
+  ],
+  "primaryReading": "こうよう",
+  "otherReadings": [
+    "もみじ"
+  ],
+  "kanji": [
+    {
+      "id": 1560,
+      "character": "紅",
+      "readings": [
+        "こう",
+        "く",
+        "べに",
+        "くれない"
+      ]
+    },
+    {
+      "id": 750,
+      "character": "葉",
+      "readings": [
+        "は",
+        "よう",
+        "ば"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You've got some <kanji>deep red</kanji> <kanji>leaves</kanji>. You'll usually see those during autumn, which makes this <vocabulary>autumn leaves</vocabulary>. Just <vocabulary>red leaves</vocabulary> is fine too, though.\n\nNote that this refers not only to the leaves themselves, but also the process of them changing color, so this can also mean <vocabulary>leaves turning red</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. As you haven't learned this reading for 葉 yet, here's a mnemonic to help you:\n\nYour favorite pastime during autumn is sitting there admiring the <vocabulary>autumn leaves</vocabulary> while eating some <reading>yo</reading>gurt (よう). There's no better combination than autumn leaves and yogurt.\n\nNote that there's also an additional reading, もみじ, used to refer to the Japanese maple tree, or its leaves, but we'd like you to focus on こうよう for this one.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B4%85%E8%91%89",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "紅",
+      "id": 1560,
+      "reading": "こう"
+    },
+    {
+      "type": "kanji",
+      "value": "葉",
+      "id": 750,
+      "reading": "よう"
+    }
+  ]
+}

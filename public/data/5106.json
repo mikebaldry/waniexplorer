@@ -1,0 +1,46 @@
+{
+  "id": 5106,
+  "type": "vocabulary",
+  "characters": "絶景",
+  "primaryMeaning": "Spectacular View",
+  "otherMeanings": [
+    "Stunning View",
+    "Superb View"
+  ],
+  "primaryReading": "ぜっけい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1371,
+      "character": "絶",
+      "readings": [
+        "ぜつ",
+        "た"
+      ]
+    },
+    {
+      "id": 1256,
+      "character": "景",
+      "readings": [
+        "けい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "All good things are fleeting. When a <kanji>scene</kanji> in front of you <kanji>dies out</kanji>, it is gone. But, it was beautiful, it was amazing, it was a <vocabulary>spectacular view</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B5%B6%E6%99%AF",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "絶",
+      "id": 1371,
+      "reading": null
+    },
+    {
+      "type": "kanji",
+      "value": "景",
+      "id": 1256,
+      "reading": null
+    }
+  ]
+}

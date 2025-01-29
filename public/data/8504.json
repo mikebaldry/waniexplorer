@@ -1,0 +1,37 @@
+{
+  "id": 8504,
+  "type": "vocabulary",
+  "characters": "酌む",
+  "primaryMeaning": "To Serve",
+  "otherMeanings": [
+    "To Scoop",
+    "To Take Into Consideration"
+  ],
+  "primaryReading": "くむ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2391,
+      "character": "酌",
+      "readings": [
+        "しゃく",
+        "く"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>serve</kanji>, and the verb version is <vocabulary>to scoop</vocabulary> or <vocabulary>to serve</vocabulary>.\n\nIt can also mean <vocabulary>to take into consideration</vocabulary> someone else's feelings or opinions. Kind of like you're scooping up the person's feelings and considering them!",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nWhat do you decide <vocabulary>to scoop</vocabulary> out for your guests? <reading>Coo</reading>kies (く)! But not just any cookies. Cookie smoothies! They're delicious and you won't serve anyone anything else. They must drink your delicious cookie drinks.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%85%8C%E3%82%80",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "酌",
+      "id": 2391,
+      "reading": "く"
+    },
+    {
+      "type": "kana",
+      "value": "む"
+    }
+  ]
+}

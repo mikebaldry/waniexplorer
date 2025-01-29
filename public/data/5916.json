@@ -1,0 +1,45 @@
+{
+  "id": 5916,
+  "type": "vocabulary",
+  "characters": "脱獄",
+  "primaryMeaning": "Escape From Prison",
+  "otherMeanings": [
+    "Jailbreak"
+  ],
+  "primaryReading": "だつごく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1157,
+      "character": "脱",
+      "readings": [
+        "だつ",
+        "ぬ"
+      ]
+    },
+    {
+      "id": 1602,
+      "character": "獄",
+      "readings": [
+        "ごく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You're making your <kanji>escape</kanji> from <kanji>prison</kanji> . So this means... <vocabulary>escape from prison</vocabulary>. Or <vocabulary>jailbreak</vocabulary> if you're feeling a little fancy.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%84%B1%E7%8D%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "脱",
+      "id": 1157,
+      "reading": "だつ"
+    },
+    {
+      "type": "kanji",
+      "value": "獄",
+      "id": 1602,
+      "reading": "ごく"
+    }
+  ]
+}

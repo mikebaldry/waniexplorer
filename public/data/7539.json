@@ -1,0 +1,33 @@
+{
+  "id": 7539,
+  "type": "vocabulary",
+  "characters": "性",
+  "primaryMeaning": "Gender",
+  "otherMeanings": [
+    "Nature",
+    "Sex"
+  ],
+  "primaryReading": "せい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 918,
+      "character": "性",
+      "readings": [
+        "せい",
+        "しょう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%80%A7",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "性",
+      "id": 918,
+      "reading": "せい"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 1143,
+  "type": "kanji",
+  "character": "検",
+  "primaryMeaning": "Examine",
+  "otherMeanings": [],
+  "primaryReading": "けん",
+  "readings": [
+    {
+      "reading": "けん",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "You're sticking your face in really, really close to <kanji>examine</kanji> this little squid in the tree when <reading>Ken</reading> (けん) the samurai appears behind you. \"There you are, squid! Thank you citizen, I've been looking all over for my little chum.\"",
+  "meaningMnemonic": "You see a <radical>tree</radical> with a <radical>squid</radical> on it, so you get closer to <kanji>examine</kanji> it.",
+  "vocabularyIds": [
+    4450,
+    4451,
+    4852,
+    4967,
+    5269,
+    7430,
+    8427
+  ],
+  "radicalIds": [
+    23,
+    8785
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%A4%9C"
+}

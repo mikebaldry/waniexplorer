@@ -1,0 +1,136 @@
+{
+  "id": 9219,
+  "object": "kana_vocabulary",
+  "url": "https://api.wanikani.com/v2/subjects/9219",
+  "data_updated_at": "2024-10-15T22:19:13.834366Z",
+  "data": {
+    "created_at": "2023-04-25T00:26:49.486712Z",
+    "level": 10,
+    "slug": "サービス",
+    "hidden_at": null,
+    "document_url": "https://www.wanikani.com/vocabulary/%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9",
+    "characters": "サービス",
+    "meanings": [
+      {
+        "meaning": "Service",
+        "primary": true,
+        "accepted_answer": true
+      },
+      {
+        "meaning": "Freebie",
+        "primary": false,
+        "accepted_answer": true
+      },
+      {
+        "meaning": "Giving A Freebie",
+        "primary": false,
+        "accepted_answer": true
+      }
+    ],
+    "auxiliary_meanings": [
+      {
+        "meaning": "Offering A Service",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Discount",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Gift",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "On The House",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Giving A Discount",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "For Free",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Free",
+        "type": "whitelist"
+      }
+    ],
+    "parts_of_speech": [
+      "noun",
+      "する verb"
+    ],
+    "meaning_mnemonic": "This is the equivalent of the English word <vocabulary>service</vocabulary>. By extension, it's often used to mean a <vocabulary>freebie</vocabulary>. Though it's generally used as a standard noun, it can also be a verbal noun used with する. In this case, it means <vocabulary>giving a freebie</vocabulary>.",
+    "context_sentences": [
+      {
+        "en": "The service at that restaurant isn't great, is it?",
+        "ja": "あのレストランのサービス、ビミョーじゃない？"
+      },
+      {
+        "en": "It's on the house.",
+        "ja": "サービスです。"
+      },
+      {
+        "en": "Eh, it's just lip service, isn't it?",
+        "ja": "えー、ただのリップサービスじゃない？"
+      },
+      {
+        "en": "When I bought cream buns, they gave me bread crusts for free.",
+        "ja": "クリームパン買ったら、パンの耳、サービスしてくれた。"
+      }
+    ],
+    "pronunciation_audios": [
+      {
+        "url": "https://files.wanikani.com/82rn7kwiolh8d04crkoowgfxhmrr",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44799,
+          "pronunciation": "サービス",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/c7p701dkbzpxp8oggin2wclur4hg",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44799,
+          "pronunciation": "サービス",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      },
+      {
+        "url": "https://files.wanikani.com/ejzjdk6sy766amvbkct8bdc2cozz",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44731,
+          "pronunciation": "サービス",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/9ihjonoym9fk1dxslk35yxjfuz38",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44731,
+          "pronunciation": "サービス",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      }
+    ],
+    "lesson_position": 61,
+    "spaced_repetition_system_id": 1
+  }
+}

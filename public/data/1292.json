@@ -1,0 +1,34 @@
+{
+  "id": 1292,
+  "type": "kanji",
+  "character": "障",
+  "primaryMeaning": "Hinder",
+  "otherMeanings": [],
+  "primaryReading": "しょう",
+  "readings": [
+    {
+      "reading": "しょう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "さわ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Someone put this building here specifically to <kanji>hinder</kanji> you. They knew you were close to the next chapter of your life, and they wanted to hinder you really good. And there they are, sitting on a throne smirking. It's the <reading>Shou</reading>gun (しょう).",
+  "meaningMnemonic": "There's a <radical>building</radical> standing in the way of the next <radical>chapter</radical> in your life, and it's <kanji>hinder</kanji>ing you. It's not like you couldn't find another way around, but it's definitely inconvenient.",
+  "vocabularyIds": [
+    4935,
+    4994,
+    4995,
+    4996,
+    4997
+  ],
+  "radicalIds": [
+    176,
+    8828
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%9A%9C"
+}

@@ -1,0 +1,105 @@
+{
+  "id": 9226,
+  "object": "kana_vocabulary",
+  "url": "https://api.wanikani.com/v2/subjects/9226",
+  "data_updated_at": "2024-10-15T22:19:14.163852Z",
+  "data": {
+    "created_at": "2023-04-25T00:52:02.856721Z",
+    "level": 13,
+    "slug": "ワンピース",
+    "hidden_at": null,
+    "document_url": "https://www.wanikani.com/vocabulary/%E3%83%AF%E3%83%B3%E3%83%94%E3%83%BC%E3%82%B9",
+    "characters": "ワンピース",
+    "meanings": [
+      {
+        "meaning": "Dress",
+        "primary": true,
+        "accepted_answer": true
+      }
+    ],
+    "auxiliary_meanings": [
+      {
+        "meaning": "Casual Dress",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "One-Piece Dress",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "One-Piece Suit",
+        "type": "whitelist"
+      }
+    ],
+    "parts_of_speech": [
+      "noun"
+    ],
+    "meaning_mnemonic": "ワンピース comes from the English word one-piece, but it generally refers to a casual <vocabulary>dress</vocabulary> in Japanese.",
+    "context_sentences": [
+      {
+        "en": "That dress is so cute!",
+        "ja": "そのワンピース、めっちゃかわいいね！"
+      },
+      {
+        "en": "I bought five dresses at a bargain sale.",
+        "ja": "バーゲンで、ワンピースを五着も買っちゃった。"
+      },
+      {
+        "en": "I spilled coffee on my favorite white dress.",
+        "ja": "お気に入りの白いワンピースにコーヒーをこぼしてしまった。"
+      }
+    ],
+    "pronunciation_audios": [
+      {
+        "url": "https://files.wanikani.com/dmf5mrj6xt7r9hhrjq2ksvmk6l4m",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44816,
+          "pronunciation": "ワンピース",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/rwaxvra36jek94ytwgwum1v2p0to",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44816,
+          "pronunciation": "ワンピース",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      },
+      {
+        "url": "https://files.wanikani.com/dx7aotb6e2kxq6a8nfqs6yar5o2b",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44748,
+          "pronunciation": "ワンピース",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/ilt6u0kzat2regvklu73hhytywfn",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44748,
+          "pronunciation": "ワンピース",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      }
+    ],
+    "lesson_position": 4,
+    "spaced_repetition_system_id": 1
+  }
+}

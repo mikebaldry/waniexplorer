@@ -1,0 +1,46 @@
+{
+  "id": 9064,
+  "type": "vocabulary",
+  "characters": "居候",
+  "primaryMeaning": "Freeloader",
+  "otherMeanings": [
+    "Lodger Who Pays Nothing"
+  ],
+  "primaryReading": "いそうろう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1280,
+      "character": "居",
+      "readings": [
+        "きょ",
+        "い"
+      ]
+    },
+    {
+      "id": 1262,
+      "character": "候",
+      "readings": [
+        "こう",
+        "そうろう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "To stay <kanji>alive</kanji> in some <kanji>climate</kanji>s, some have no choice but to be a <vocabulary>freeloader</vocabulary>. That is, <vocabulary>a lodger who pays nothing</vocabulary>. If you live somewhere with an inhospitable climate but you can't afford to pay rent, your only option is to live with someone for free.",
+  "readingMnemonic": "This is a slightly unusual case because both kanji use the kun'yomi. You haven't learned that reading for 候 yet, so here's a mnemonic to help you:\n\nWhat? You've become a <vocabulary>freeloader</vocabulary>? I can't believe you've gone <reading>so low</reading> (そうろう)!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B1%85%E5%80%99",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "居",
+      "id": 1280,
+      "reading": "い"
+    },
+    {
+      "type": "kanji",
+      "value": "候",
+      "id": 1262,
+      "reading": "そうろう"
+    }
+  ]
+}

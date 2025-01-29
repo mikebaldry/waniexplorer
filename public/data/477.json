@@ -1,0 +1,63 @@
+{
+  "id": 477,
+  "type": "kanji",
+  "character": "月",
+  "primaryMeaning": "Moon",
+  "otherMeanings": [
+    "Month"
+  ],
+  "primaryReading": "げつ",
+  "readings": [
+    {
+      "reading": "げつ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "がつ",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "つき",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "The <kanji>moon</kanji> really <reading>gets</reading> (げつ) to your <reading>guts</reading> (がつ). Staring at the moon for too long will give you terrible indigestion, so be careful!",
+  "meaningMnemonic": "The <kanji>moon</kanji> kanji is made up of the <radical>moon</radical> radical. This kanji is also used to mean <kanji>month</kanji>.",
+  "vocabularyIds": [
+    2522,
+    2528,
+    2542,
+    2543,
+    2544,
+    2545,
+    2562,
+    2595,
+    2650,
+    2651,
+    2702,
+    2745,
+    2758,
+    2783,
+    2825,
+    2949,
+    4056,
+    4674,
+    4817,
+    4888,
+    5358,
+    6172,
+    6990,
+    7325,
+    9169,
+    9241,
+    9286,
+    9287
+  ],
+  "radicalIds": [
+    43
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%9C%88"
+}

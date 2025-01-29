@@ -1,0 +1,32 @@
+{
+  "id": 2202,
+  "type": "kanji",
+  "character": "錦",
+  "primaryMeaning": "Brocade",
+  "otherMeanings": [],
+  "primaryReading": "にしき",
+  "readings": [
+    {
+      "reading": "にしき",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "きん",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "You want to keep your <kanji>brocade</kanji> fabrics safe, so you lock them away and seal them in with a <reading>niche key</reading> (にしき). It's niche because brocade is a very niche kind of thing.",
+  "meaningMnemonic": "You weave <radical>gold</radical> and <radical>white</radical> patterns into this <radical>towel</radical>, turning it into <kanji>brocade</kanji>. It's beautiful, elegant, and worth way more than when it was just a plain towel.",
+  "vocabularyIds": [
+    8047,
+    8048
+  ],
+  "radicalIds": [
+    118,
+    52,
+    102
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%8C%A6"
+}

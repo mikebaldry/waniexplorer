@@ -1,0 +1,42 @@
+{
+  "id": 638,
+  "type": "kanji",
+  "character": "星",
+  "primaryMeaning": "Star",
+  "otherMeanings": [],
+  "primaryReading": "せい",
+  "readings": [
+    {
+      "reading": "せい",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ほし",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "This <kanji>star</kanji> (the sun) and all of the others are yours to protect with your trusty <reading>sa</reading>ber (せい). If you could protect your land from the West, then you can certainly defend the stars too!",
+  "meaningMnemonic": "The <radical>sun</radical> that gives <radical>life</radical> is our very own <kanji>star</kanji> (which we happen to call the sun). Of course, all the other stars are probably giving life to other planets as well.",
+  "vocabularyIds": [
+    2915,
+    5140,
+    5550,
+    7619,
+    7620,
+    7673,
+    7879,
+    8662,
+    9009,
+    9010,
+    9011,
+    9013,
+    9055
+  ],
+  "radicalIds": [
+    22,
+    210
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%98%9F"
+}

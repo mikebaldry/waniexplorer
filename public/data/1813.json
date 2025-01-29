@@ -1,0 +1,33 @@
+{
+  "id": 1813,
+  "type": "kanji",
+  "character": "挑",
+  "primaryMeaning": "Challenge",
+  "otherMeanings": [],
+  "primaryReading": "ちょう",
+  "readings": [
+    {
+      "reading": "ちょう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "いど",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "In your finger, you see a <kanji>challenge</kanji>. And... if you look closely, you can see the fast movements of your fingers forming the outline of Mrs. <reading>Chou</reading>'s (ちょう) face. Oh no, the challenge is going to be Mrs. Chou!",
+  "meaningMnemonic": "When your <radical>finger</radical>s move like that, you know it's an <radical>omen</radical> of a <kanji>challenge</kanji> that will face you soon in the future.",
+  "vocabularyIds": [
+    6589,
+    6590,
+    6591,
+    6756
+  ],
+  "radicalIds": [
+    63,
+    363
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%8C%91"
+}

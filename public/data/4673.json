@@ -1,0 +1,46 @@
+{
+  "id": 4673,
+  "type": "vocabulary",
+  "characters": "年額",
+  "primaryMeaning": "Annual Amount",
+  "otherMeanings": [
+    "Yearly Amount"
+  ],
+  "primaryReading": "ねんがく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 546,
+      "character": "年",
+      "readings": [
+        "ねん",
+        "とし"
+      ]
+    },
+    {
+      "id": 1218,
+      "character": "額",
+      "readings": [
+        "がく",
+        "ひたい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>year</kanji> <kanji>amount</kanji> is the <vocabulary>yearly amount</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B9%B4%E9%A1%8D",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "年",
+      "id": 546,
+      "reading": "ねん"
+    },
+    {
+      "type": "kanji",
+      "value": "額",
+      "id": 1218,
+      "reading": "がく"
+    }
+  ]
+}

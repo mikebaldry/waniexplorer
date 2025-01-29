@@ -1,0 +1,38 @@
+{
+  "id": 6338,
+  "type": "vocabulary",
+  "characters": "宜しく",
+  "primaryMeaning": "Best Regards",
+  "otherMeanings": [
+    "Well",
+    "Properly",
+    "Suitably"
+  ],
+  "primaryReading": "よろしく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1677,
+      "character": "宜",
+      "readings": [
+        "よろ",
+        "ぎ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji is <kanji>best regards</kanji> and this can be <vocabulary>best regards</vocabulary> as well. It can also mean <vocabulary>well</vocabulary>, <vocabulary>properly</vocabulary> and <vocabulary>suitably</vocabulary> as well.",
+  "readingMnemonic": "The reading comes from what you learned with the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AE%9C%E3%81%97%E3%81%8F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "宜",
+      "id": 1677,
+      "reading": "よろ"
+    },
+    {
+      "type": "kana",
+      "value": "しく"
+    }
+  ]
+}

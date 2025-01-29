@@ -1,0 +1,27 @@
+{
+  "id": 2341,
+  "type": "kanji",
+  "character": "俸",
+  "primaryMeaning": "Salary",
+  "otherMeanings": [],
+  "primaryReading": "ほう",
+  "readings": [
+    {
+      "reading": "ほう",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Your <kanji>salary</kanji> is sent straight to your <reading>ho</reading>me (ほう) instead of the bank. Okay, something is definitely fishy here.",
+  "meaningMnemonic": "The <radical>leader</radical> says <radical>spring</radical> is looking <radical>dry</radical>, so you'll need your <kanji>salary</kanji> in advance.",
+  "vocabularyIds": [
+    8346,
+    8347
+  ],
+  "radicalIds": [
+    75,
+    8779,
+    61
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E4%BF%B8"
+}

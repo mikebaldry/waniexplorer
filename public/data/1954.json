@@ -1,0 +1,33 @@
+{
+  "id": 1954,
+  "type": "kanji",
+  "character": "涼",
+  "primaryMeaning": "Cool",
+  "otherMeanings": [],
+  "primaryReading": "すず",
+  "readings": [
+    {
+      "reading": "すず",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "りょう",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "You find out that the <kanji>cool</kanji> tsunami water is coming from <reading>Sue Zoo</reading> (すず). The only animal there is a penguin named Sue, so the Sue Zoo is always kept cool for her. But now that Sue's fountain broke, the cool water is everywhere! Time to sue the zoo…",
+  "meaningMnemonic": "A <radical>tsunami</radical> causes the <radical>capital</radical> to become very <kanji>cool</kanji>. The capital was already a pretty cool temperature, but with the addition of the water from the tsunami, the capital is now very cool.",
+  "vocabularyIds": [
+    6996,
+    6997,
+    6998,
+    7160
+  ],
+  "radicalIds": [
+    103,
+    299
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%B6%BC"
+}

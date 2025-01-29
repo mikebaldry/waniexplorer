@@ -1,0 +1,58 @@
+{
+  "id": 454,
+  "type": "kanji",
+  "character": "女",
+  "primaryMeaning": "Woman",
+  "otherMeanings": [],
+  "primaryReading": "じょ",
+  "readings": [
+    {
+      "reading": "じょ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "にょ",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "にょう",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "おんな",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "め",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "When you think of a <kanji>woman</kanji>, think of <reading>Jo</reading>-Anne (じょ), though she usually goes by just \"Jo.\"",
+  "meaningMnemonic": "The radical for <radical>woman</radical> and the kanji for <kanji>woman</kanji> are exactly the same.",
+  "vocabularyIds": [
+    2503,
+    2512,
+    2514,
+    2554,
+    2555,
+    3678,
+    4435,
+    4872,
+    6030,
+    6978,
+    7518,
+    7583,
+    8475,
+    8515,
+    8735
+  ],
+  "radicalIds": [
+    19
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%A5%B3"
+}

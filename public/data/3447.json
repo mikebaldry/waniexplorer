@@ -1,0 +1,46 @@
+{
+  "id": 3447,
+  "type": "vocabulary",
+  "characters": "近々",
+  "primaryMeaning": "In The Near Future",
+  "otherMeanings": [
+    "Soon"
+  ],
+  "primaryReading": "ちかぢか",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 596,
+      "character": "近",
+      "readings": [
+        "きん",
+        "こん",
+        "ちか"
+      ]
+    },
+    {
+      "id": 856,
+      "character": "々",
+      "readings": [
+        "のま"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When something is <kanji>close</kanji> <kanji>close</kanji> (the 々 character repeats the kanji that was before it) it will happen <vocabulary>in the near future</vocabulary>, or <vocabulary>soon</vocabulary>. \n\nThis is pretty vague, and it's up to the person speaking to decide how soon <vocabulary>soon</vocabulary> is. Depending on the person and the situation, it could technically be used for anything up to a few years!",
+  "readingMnemonic": "The reading is the kun'yomi reading twice; that's the one you learn with the vocab word 近い from the previous level. The second 近 gets converted to ぢか, though, so take note of that. To write the character ぢ, type \"di\" on your keyboard.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%BF%91%E3%80%85",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "近",
+      "id": 596,
+      "reading": "ちか"
+    },
+    {
+      "type": "kanji",
+      "value": "々",
+      "id": 596,
+      "reading": "ぢか"
+    }
+  ]
+}

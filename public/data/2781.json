@@ -1,0 +1,33 @@
+{
+  "id": 2781,
+  "type": "vocabulary",
+  "characters": "何",
+  "primaryMeaning": "What",
+  "otherMeanings": [],
+  "primaryReading": "なに",
+  "otherReadings": [
+    "なん"
+  ],
+  "kanji": [
+    {
+      "id": 582,
+      "character": "何",
+      "readings": [
+        "なに",
+        "なん",
+        "か"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "The reading for this word is the same as the reading you learned with the kanji. What? Yeah, that's what.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BD%95",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "何",
+      "id": 582,
+      "reading": "なに"
+    }
+  ]
+}

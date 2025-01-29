@@ -1,0 +1,39 @@
+{
+  "id": 555,
+  "type": "kanji",
+  "character": "男",
+  "primaryMeaning": "Man",
+  "otherMeanings": [],
+  "primaryReading": "だん",
+  "readings": [
+    {
+      "reading": "だん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "なん",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "おとこ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "When you think of a <kanji>man</kanji>, think of <reading>dawn</reading> (だん), because that man has to get up at dawn to power his rice paddy every day. ",
+  "meaningMnemonic": "The radical for <radical>man</radical> and the kanji for <kanji>man</kanji> are exactly the same.",
+  "vocabularyIds": [
+    2692,
+    3408,
+    3412,
+    3680,
+    4633,
+    8985
+  ],
+  "radicalIds": [
+    243
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%94%B7"
+}

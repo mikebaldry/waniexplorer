@@ -1,0 +1,47 @@
+{
+  "id": 7379,
+  "type": "vocabulary",
+  "characters": "表彰",
+  "primaryMeaning": "Public Acknowledgement",
+  "otherMeanings": [
+    "Public Recognition",
+    "Commendation"
+  ],
+  "primaryReading": "ひょうしょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 720,
+      "character": "表",
+      "readings": [
+        "ひょう",
+        "あらわ",
+        "おもて"
+      ]
+    },
+    {
+      "id": 2094,
+      "character": "彰",
+      "readings": [
+        "しょう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You want people to <kanji>express</kanji> how they feel about you in a <kanji>clear</kanji> manner, so you demand they give you <vocabulary>public acknowledgement</vocabulary>. You want clear, concise <vocabulary>public recognition</vocabulary> for all of your amazing talents, skills, and for reaching level 50 of WaniKani. Maybe they'll throw you a parade!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A1%A8%E5%BD%B0",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "表",
+      "id": 720,
+      "reading": "ひょう"
+    },
+    {
+      "type": "kanji",
+      "value": "彰",
+      "id": 2094,
+      "reading": "しょう"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 8540,
+  "type": "vocabulary",
+  "characters": "憧れ",
+  "primaryMeaning": "Yearning",
+  "otherMeanings": [
+    "Longing",
+    "Admiration"
+  ],
+  "primaryReading": "あこがれ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2429,
+      "character": "憧",
+      "readings": [
+        "あこが",
+        "しょう",
+        "とう",
+        "どう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you <kanji>long for</kanji> something you'll get feelings of <vocabulary>yearning</vocabulary> and <vocabulary>longing</vocabulary>. Don't worry, some day you'll get whatever it is. \n\n憧れ can also describe a strong feeling of <vocabulary>admiration</vocabulary>, particularly for people.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You learned this reading already so you should be able to read it!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%86%A7%E3%82%8C",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "憧",
+      "id": 2429,
+      "reading": "あこが"
+    },
+    {
+      "type": "kana",
+      "value": "れ"
+    }
+  ]
+}

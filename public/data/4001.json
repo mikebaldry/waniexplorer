@@ -1,0 +1,46 @@
+{
+  "id": 4001,
+  "type": "vocabulary",
+  "characters": "恋愛",
+  "primaryMeaning": "Love",
+  "otherMeanings": [
+    "Romance"
+  ],
+  "primaryReading": "れんあい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1024,
+      "character": "恋",
+      "readings": [
+        "れん",
+        "こい"
+      ]
+    },
+    {
+      "id": 1021,
+      "character": "愛",
+      "readings": [
+        "あい",
+        "まな"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you have <kanji>romance</kanji> and <kanji>love</kanji> all in the same package. Well, that is <vocabulary>love</vocabulary>! Ah, love! This is the word used when talking about love, though. You don't use this to say \"I love you.\"",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%81%8B%E6%84%9B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "恋",
+      "id": 1024,
+      "reading": "れん"
+    },
+    {
+      "type": "kanji",
+      "value": "愛",
+      "id": 1021,
+      "reading": "あい"
+    }
+  ]
+}

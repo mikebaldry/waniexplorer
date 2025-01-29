@@ -1,0 +1,37 @@
+{
+  "id": 1127,
+  "type": "kanji",
+  "character": "判",
+  "primaryMeaning": "Judge",
+  "otherMeanings": [],
+  "primaryReading": "はん",
+  "readings": [
+    {
+      "reading": "はん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ばん",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "This <kanji>judge</kanji> is <reading>Han</reading> (はん) Solo, so you know he's not going to back down.",
+  "meaningMnemonic": "\"I'll cut that baby in <radical>half</radical> with a <radical>knife</radical> if you don't figure out custody,\" says the <kanji>judge</kanji>. Ah, the oldest judge trick in the book.",
+  "vocabularyIds": [
+    4411,
+    4412,
+    4444,
+    4448,
+    4452,
+    4582,
+    4618,
+    4855
+  ],
+  "radicalIds": [
+    305,
+    128
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%88%A4"
+}

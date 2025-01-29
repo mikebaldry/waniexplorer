@@ -1,0 +1,47 @@
+{
+  "id": 8358,
+  "type": "vocabulary",
+  "characters": "弔辞",
+  "primaryMeaning": "Memorial Address",
+  "otherMeanings": [
+    "Funeral Address"
+  ],
+  "primaryReading": "ちょうじ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2343,
+      "character": "弔",
+      "readings": [
+        "ちょう",
+        "とぶら",
+        "とむら"
+      ]
+    },
+    {
+      "id": 981,
+      "character": "辞",
+      "readings": [
+        "じ",
+        "や"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When someone <kanji>quit</kanji>s living you need to offer your <kanji>condolence</kanji>s during their <vocabulary>memorial address</vocabulary>. Let it all out and tell everyone what you thought about that dead guy.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BC%94%E8%BE%9E",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "弔",
+      "id": 2343,
+      "reading": "ちょう"
+    },
+    {
+      "type": "kanji",
+      "value": "辞",
+      "id": 981,
+      "reading": "じ"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": 8667,
+  "type": "vocabulary",
+  "characters": "親指",
+  "primaryMeaning": "Thumb",
+  "otherMeanings": [
+    "Big Toe"
+  ],
+  "primaryReading": "おやゆび",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 770,
+      "character": "親",
+      "readings": [
+        "しん",
+        "おや",
+        "した"
+      ]
+    },
+    {
+      "id": 797,
+      "character": "指",
+      "readings": [
+        "し",
+        "ゆび",
+        "さ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Your <kanji>parent</kanji> <kanji>finger</kanji> is your <vocabulary>thumb</vocabulary>! It's bigger than your other fingers, so that means it's in charge too! This goes for the fingers on your feet too, I mean, your toes. So the parent toe is your <vocabulary>big toe</vocabulary>.",
+  "readingMnemonic": "This word uses the kun'yomi readings from both kanji, probably because it includes body parts. You know them both already, so now you know this too!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A6%AA%E6%8C%87",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "親",
+      "id": 770,
+      "reading": "おや"
+    },
+    {
+      "type": "kanji",
+      "value": "指",
+      "id": 797,
+      "reading": "ゆび"
+    }
+  ]
+}

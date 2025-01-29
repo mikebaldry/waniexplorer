@@ -1,0 +1,30 @@
+{
+  "id": 2466,
+  "type": "kanji",
+  "character": "狐",
+  "primaryMeaning": "Fox",
+  "otherMeanings": [],
+  "primaryReading": "きつね",
+  "readings": [
+    {
+      "reading": "きつね",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "こ",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "If you want to stop <kanji>fox</kanji>es from stealing your melons you can get one of those <reading>kits</reading> that <reading>neigh</reading> (きつね) when one is around. The kits neigh when they sense a fox, but because it sounds like a horse the fox won't run. But you'll be able to get out there and take your melons back!",
+  "meaningMnemonic": "The <radical>animal</radical> that hangs out in <radical>melon</radical> patches is the elusive <kanji>fox</kanji>! They like to steal melons then come back into town disguised as human melon sellers. Foxes are tricky like that.",
+  "vocabularyIds": [
+    8658
+  ],
+  "radicalIds": [
+    144,
+    384
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%8B%90"
+}

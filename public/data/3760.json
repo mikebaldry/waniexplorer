@@ -1,0 +1,51 @@
+{
+  "id": 3760,
+  "type": "vocabulary",
+  "characters": "春休み",
+  "primaryMeaning": "Spring Break",
+  "otherMeanings": [
+    "Spring Vacation",
+    "Spring Holiday"
+  ],
+  "primaryReading": "はるやすみ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 931,
+      "character": "春",
+      "readings": [
+        "はる",
+        "しゅん"
+      ]
+    },
+    {
+      "id": 542,
+      "character": "休",
+      "readings": [
+        "きゅう",
+        "やす"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You've seen 夏休み and 冬休み. If that isn't enough, you can see that this is a <kanji>spring</kanji> <kanji>rest</kanji> of some kind. That would be a <vocabulary>spring break</vocabulary> or <vocabulary>spring vacation</vocabulary>.",
+  "readingMnemonic": "The reading for 春 is the same as the one you learned with the kanji. The 休み part is the same as the vocab word 休み, which hopefully you can read! If you know those readings, you can read this too.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%98%A5%E4%BC%91%E3%81%BF",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "春",
+      "id": 931,
+      "reading": "はる"
+    },
+    {
+      "type": "kanji",
+      "value": "休",
+      "id": 542,
+      "reading": "やす"
+    },
+    {
+      "type": "kana",
+      "value": "み"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 656,
+  "type": "kanji",
+  "character": "未",
+  "primaryMeaning": "Not Yet",
+  "otherMeanings": [],
+  "primaryReading": "み",
+  "readings": [
+    {
+      "reading": "み",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ま",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "いま",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "ひつじ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "What a selfish kid, right? Well, all he thinks about is \"<reading>Me</reading> (み) me me me me me me me me me me.\" Hate kids like that.",
+  "meaningMnemonic": "You're flying in a <radical>jet</radical>. Even though it's one of the fastest things on earth, your child is sitting in the back asking, \"Are we there yet? Are we there yet?\" You have to keep responding. \"<kanji>Not yet</kanji>! Not yet! NOT YET!\"",
+  "vocabularyIds": [
+    2945,
+    2946,
+    3020,
+    5304,
+    5655,
+    7239
+  ],
+  "radicalIds": [
+    134
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%9C%AA"
+}

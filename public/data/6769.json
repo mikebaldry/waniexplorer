@@ -1,0 +1,44 @@
+{
+  "id": 6769,
+  "type": "vocabulary",
+  "characters": "網戸",
+  "primaryMeaning": "Screen Door",
+  "otherMeanings": [],
+  "primaryReading": "あみど",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1832,
+      "character": "網",
+      "readings": [
+        "もう",
+        "あみ"
+      ]
+    },
+    {
+      "id": 509,
+      "character": "戸",
+      "readings": [
+        "と",
+        "こ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>netting</kanji> <kanji>door</kanji> is a <vocabulary>screen door</vocabulary>. Makes sense, right? Screen doors are like little meshy nets made into a door shape.",
+  "readingMnemonic": "You've seen 網 on its own. We're going to use that reading. Then, add the 戸 reading with rendaku and you have yourself あみど.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B6%B2%E6%88%B8",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "網",
+      "id": 1832,
+      "reading": "あみ"
+    },
+    {
+      "type": "kanji",
+      "value": "戸",
+      "id": 509,
+      "reading": "ど"
+    }
+  ]
+}

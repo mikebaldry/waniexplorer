@@ -1,0 +1,32 @@
+{
+  "id": 4015,
+  "type": "vocabulary",
+  "characters": "梅",
+  "primaryMeaning": "Ume",
+  "otherMeanings": [
+    "Japanese Plum"
+  ],
+  "primaryReading": "うめ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1007,
+      "character": "梅",
+      "readings": [
+        "うめ",
+        "ばい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "The reading is the same as what you learned with the kanji. It's also the same as the meaning of the kanji / vocab, though you can think of this as <vocabulary> Japanese plum</vocabulary> as well if you want.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%A2%85",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "梅",
+      "id": 1007,
+      "reading": "うめ"
+    }
+  ]
+}

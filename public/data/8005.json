@@ -1,0 +1,50 @@
+{
+  "id": 8005,
+  "type": "vocabulary",
+  "characters": "玄人",
+  "primaryMeaning": "Expert",
+  "otherMeanings": [
+    "Professional",
+    "Specialist",
+    "Woman Of The Red Light District"
+  ],
+  "primaryReading": "くろうと",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2145,
+      "character": "玄",
+      "readings": [
+        "げん",
+        "くろ"
+      ]
+    },
+    {
+      "id": 444,
+      "character": "人",
+      "readings": [
+        "にん",
+        "じん",
+        "ひと",
+        "と"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>mysterious</kanji> <kanji>person</kanji> is really really good at what they do. So good that they aren't exactly sure what is it they do, but you know they're definitely an <vocabulary>expert</vocabulary> at whatever it is.",
+  "readingMnemonic": "This reading for this word is mysteriously an exception (sorry). So here's a mnemonic to help:\n\nIf you're such an <vocabulary>expert</vocabulary> you should be able to tell what anything is if someone asks you. Even this <reading>crow toe</reading> (くろうと). Crow toes are pretty hard to recognize, unless you're a <vocabulary>professional</vocabulary> crow guy. But I guess you are, huh?",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%8E%84%E4%BA%BA",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "玄",
+      "id": 2145,
+      "reading": "くろ"
+    },
+    {
+      "type": "kanji",
+      "value": "人",
+      "id": 444,
+      "reading": null
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": 636,
+  "type": "kanji",
+  "character": "後",
+  "primaryMeaning": "Behind",
+  "otherMeanings": [
+    "After",
+    "Back",
+    "Later"
+  ],
+  "primaryReading": "ご",
+  "readings": [
+    {
+      "reading": "ご",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "こう",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "うし",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "あと",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "のち",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You finally look <kanji>behind</kanji> you and see <reading>Go</reading>dzilla (ご) and a giant <reading>こう</reading>いち having a violent battle <kanji>back</kanji> there!",
+  "meaningMnemonic": "If you <radical>loiter</radical> around to <radical>poop</radical> in <radical>winter</radical> you never know what could be happening <kanji>behind</kanji> you. <kanji>After</kanji> you're done you could turn <kanji>back</kanji> to see something really crazy that you missed because you took so long to poop in the cold.",
+  "vocabularyIds": [
+    2911,
+    2912,
+    2913,
+    3235,
+    3783,
+    4832,
+    7235,
+    7255,
+    7554,
+    7708,
+    7896,
+    8801,
+    9288
+  ],
+  "radicalIds": [
+    99,
+    87,
+    60
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%BE%8C"
+}

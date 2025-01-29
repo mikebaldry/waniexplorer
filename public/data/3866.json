@@ -1,0 +1,36 @@
+{
+  "id": 3866,
+  "type": "vocabulary",
+  "characters": "辞める",
+  "primaryMeaning": "To Quit",
+  "otherMeanings": [
+    "To Resign As"
+  ],
+  "primaryReading": "やめる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 981,
+      "character": "辞",
+      "readings": [
+        "じ",
+        "や"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>quit</kanji> so the verb vocab version is <vocabulary>to quit</vocabulary>.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \"Hey, you going <vocabulary>to quit</vocabulary>?\" \"<reading>Yah</reading> (や) man, I'm going to quit.\"",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%BE%9E%E3%82%81%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "辞",
+      "id": 981,
+      "reading": "や"
+    },
+    {
+      "type": "kana",
+      "value": "める"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 7924,
+  "type": "vocabulary",
+  "characters": "覇者",
+  "primaryMeaning": "Supreme Ruler",
+  "otherMeanings": [
+    "Champion"
+  ],
+  "primaryReading": "はしゃ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2157,
+      "character": "覇",
+      "readings": [
+        "は",
+        "はく",
+        "はたがしら"
+      ]
+    },
+    {
+      "id": 690,
+      "character": "者",
+      "readings": [
+        "しゃ",
+        "もの"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Someone</kanji> with the most <kanji>leadership</kanji> is known as the <vocabulary>supreme ruler</vocabulary>. No one has more leadership than them.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A6%87%E8%80%85",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "覇",
+      "id": 2157,
+      "reading": "は"
+    },
+    {
+      "type": "kanji",
+      "value": "者",
+      "id": 690,
+      "reading": "しゃ"
+    }
+  ]
+}

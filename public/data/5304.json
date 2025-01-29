@@ -1,0 +1,45 @@
+{
+  "id": 5304,
+  "type": "vocabulary",
+  "characters": "未婚",
+  "primaryMeaning": "Unmarried",
+  "otherMeanings": [],
+  "primaryReading": "みこん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 656,
+      "character": "未",
+      "readings": [
+        "み",
+        "ま",
+        "いま",
+        "ひつじ"
+      ]
+    },
+    {
+      "id": 1416,
+      "character": "婚",
+      "readings": [
+        "こん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Not yet</kanji> <kanji>marriage</kanji>? You haven't been married. You're <vocabulary>unmarried</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9C%AA%E5%A9%9A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "未",
+      "id": 656,
+      "reading": "み"
+    },
+    {
+      "type": "kanji",
+      "value": "婚",
+      "id": 1416,
+      "reading": "こん"
+    }
+  ]
+}

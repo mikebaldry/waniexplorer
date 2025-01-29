@@ -1,0 +1,32 @@
+{
+  "id": 2803,
+  "type": "vocabulary",
+  "characters": "草",
+  "primaryMeaning": "Grass",
+  "otherMeanings": [
+    "Weed"
+  ],
+  "primaryReading": "くさ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 605,
+      "character": "草",
+      "readings": [
+        "くさ",
+        "そう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "Since this word is made up of a single kanji, it uses the kun'yomi reading. You learned this reading when you learned the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%8D%89",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "草",
+      "id": 605,
+      "reading": "くさ"
+    }
+  ]
+}

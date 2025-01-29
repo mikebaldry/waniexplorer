@@ -1,0 +1,29 @@
+{
+  "id": 3768,
+  "type": "vocabulary",
+  "characters": "毒",
+  "primaryMeaning": "Poison",
+  "otherMeanings": [],
+  "primaryReading": "どく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 948,
+      "character": "毒",
+      "readings": [
+        "どく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "The reading for this word is the same as the kanji's reading.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%AF%92",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "毒",
+      "id": 948,
+      "reading": "どく"
+    }
+  ]
+}

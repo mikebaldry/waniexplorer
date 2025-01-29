@@ -1,0 +1,47 @@
+{
+  "id": 2984,
+  "type": "vocabulary",
+  "characters": "海魚",
+  "primaryMeaning": "Ocean Fish",
+  "otherMeanings": [
+    "Saltwater Fish"
+  ],
+  "primaryReading": "うみざかな",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 640,
+      "character": "海",
+      "readings": [
+        "かい",
+        "うみ"
+      ]
+    },
+    {
+      "id": 674,
+      "character": "魚",
+      "readings": [
+        "ぎょ",
+        "さかな",
+        "うお"
+      ]
+    }
+  ],
+  "meaningMnemonic": "An <kanji>ocean</kanji> <kanji>fish</kanji> is simply an <vocabulary>ocean fish</vocabulary>. They also happen to be the most delicious kind of fish.",
+  "readingMnemonic": "You might think this is all going to be on'yomi, which it can be, but we'd actually like you to focus on the kun'yomi reading <ja>うみざかな</ja> here. Using the on'yomi is also correct, but sounds formal and scientific, while <ja>うみざかな</ja> is much more colloquial, so try to remember this reading instead! You already know the individual kun'yomi readings for this, but do watch out for the rendaku.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B5%B7%E9%AD%9A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "海",
+      "id": 640,
+      "reading": "うみ"
+    },
+    {
+      "type": "kanji",
+      "value": "魚",
+      "id": 674,
+      "reading": "ざかな"
+    }
+  ]
+}

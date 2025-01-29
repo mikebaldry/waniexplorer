@@ -1,0 +1,49 @@
+{
+  "id": 6962,
+  "type": "vocabulary",
+  "characters": "新芽",
+  "primaryMeaning": "Sprout",
+  "otherMeanings": [
+    "Bud",
+    "Shoot"
+  ],
+  "primaryReading": "しんめ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 857,
+      "character": "新",
+      "readings": [
+        "しん",
+        "あたら",
+        "あら",
+        "にい"
+      ]
+    },
+    {
+      "id": 1904,
+      "character": "芽",
+      "readings": [
+        "め",
+        "が"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>new</kanji> <kanji>sprout</kanji> is a <vocabulary>sprout</vocabulary> or <vocabulary>bud</vocabulary> or <vocabulary>shoot</vocabulary>. All sprouts are new, after all.",
+  "readingMnemonic": "The reading is the readings you learned with the kanji, combined.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%96%B0%E8%8A%BD",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "新",
+      "id": 857,
+      "reading": "しん"
+    },
+    {
+      "type": "kanji",
+      "value": "芽",
+      "id": 1904,
+      "reading": "め"
+    }
+  ]
+}

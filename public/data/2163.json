@@ -1,0 +1,40 @@
+{
+  "id": 2163,
+  "type": "kanji",
+  "character": "鎖",
+  "primaryMeaning": "Chain",
+  "otherMeanings": [],
+  "primaryReading": "さ",
+  "readings": [
+    {
+      "reading": "さ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "くさり",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "とざ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "However, the only way to break the <kanji>chain</kanji> is to <reading>saw</reading> (さ) it open. Once the triceratops shellfish start holding on, they never let go. So when you want to take the chain off you have to really hack at it with your saw.",
+  "meaningMnemonic": "The famous <radical>gold</radical> <radical>triceratops</radical> <radical>shellfish</radical> is good for only one thing, and that's being made into <kanji>chain</kanji>s. They link their triceratops horns together and form an unbreakable gold chain. You can't eat them, because they're gold. So they're only really good for their chaining together ability.",
+  "vocabularyIds": [
+    7941,
+    7942,
+    7943,
+    7944,
+    7945
+  ],
+  "radicalIds": [
+    118,
+    8765,
+    94
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%8E%96"
+}

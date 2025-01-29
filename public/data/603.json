@@ -1,0 +1,38 @@
+{
+  "id": 603,
+  "type": "kanji",
+  "character": "雨",
+  "primaryMeaning": "Rain",
+  "otherMeanings": [],
+  "primaryReading": "あめ",
+  "readings": [
+    {
+      "reading": "あめ",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "あま",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "う",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "What if the <kanji>rain</kanji> actually tried to <reading>aim</reading> (あめ) for you? As in, drops would move out of their normal flight path just to hit you on your head? You'd be a lot wetter, that's for sure.",
+  "meaningMnemonic": "The radical for <radical>rain</radical> and the kanji for <kanji>rain</kanji> are the same thing.",
+  "vocabularyIds": [
+    2800,
+    6836,
+    9254,
+    9267,
+    9271
+  ],
+  "radicalIds": [
+    119
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%9B%A8"
+}

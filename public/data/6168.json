@@ -1,0 +1,34 @@
+{
+  "id": 6168,
+  "type": "vocabulary",
+  "characters": "致す",
+  "primaryMeaning": "To Do",
+  "otherMeanings": [],
+  "primaryReading": "いたす",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1682,
+      "character": "致",
+      "readings": [
+        "ち",
+        "いた"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>do</kanji> and the verb vocab version is <vocabulary>to do</vocabulary>. This is a polite way to say \"to do.\"",
+  "readingMnemonic": "What are you going <vocabulary>to do</vocabulary>? You're going to become a professional <reading>eater</reading> (いた), because you like to do eating a lot, and you are very polite about your eating despite how fast you eat in these competitions.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%87%B4%E3%81%99",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "致",
+      "id": 1682,
+      "reading": "いた"
+    },
+    {
+      "type": "kana",
+      "value": "す"
+    }
+  ]
+}

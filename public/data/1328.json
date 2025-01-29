@@ -1,0 +1,32 @@
+{
+  "id": 1328,
+  "type": "kanji",
+  "character": "就",
+  "primaryMeaning": "Get A Position",
+  "otherMeanings": [],
+  "primaryReading": "しゅう",
+  "readings": [
+    {
+      "reading": "しゅう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "つ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "In order to help the dog <kanji>get a position</kanji>, the capital cobbler made him a pair of nice <reading>shoe</reading>s (しゅう). The shoes help him walk on his hurt legs, but more importantly, they boost his confidence and make him feel ready for any position.",
+  "meaningMnemonic": "In the <radical>capital</radical>, even a broken <radical>dog</radical> can <kanji>get a position</kanji>. That's because the capital has so many jobs available that even a poor, broken dog can find a place to work.",
+  "vocabularyIds": [
+    5009,
+    5010,
+    5011
+  ],
+  "radicalIds": [
+    299,
+    47
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%B0%B1"
+}

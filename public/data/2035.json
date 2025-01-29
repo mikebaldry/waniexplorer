@@ -1,0 +1,37 @@
+{
+  "id": 2035,
+  "type": "kanji",
+  "character": "脅",
+  "primaryMeaning": "Threaten",
+  "otherMeanings": [],
+  "primaryReading": "きょう",
+  "readings": [
+    {
+      "reading": "きょう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "おど",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "おびや",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "This extra power-filled moon is now trying to <kanji>threaten</kanji> the safety of <reading>きょう</reading>と. All of きょうと is shaking and getting dark as the moon comes closer and closer.",
+  "meaningMnemonic": "There's <radical>power</radical>, <radical>power</radical>, and <radical>power</radical> stacked on top of the <radical>moon</radical>, <kanji>threaten</kanji>ing to bring it down!",
+  "vocabularyIds": [
+    7157,
+    7158,
+    7436
+  ],
+  "radicalIds": [
+    13,
+    43
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%84%85"
+}

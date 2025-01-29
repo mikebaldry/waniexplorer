@@ -1,0 +1,58 @@
+{
+  "id": 5230,
+  "type": "vocabulary",
+  "characters": "不健康",
+  "primaryMeaning": "Unhealthy",
+  "otherMeanings": [
+    "Not Healthy"
+  ],
+  "primaryReading": "ふけんこう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 563,
+      "character": "不",
+      "readings": [
+        "ふ",
+        "ぶ"
+      ]
+    },
+    {
+      "id": 1342,
+      "character": "健",
+      "readings": [
+        "けん"
+      ]
+    },
+    {
+      "id": 1343,
+      "character": "康",
+      "readings": [
+        "こう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If 健康 is \"health,\" then something that is <kanji>not</kanji> this is <vocabulary>unhealthy</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Will help to know 健康 first.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%8D%E5%81%A5%E5%BA%B7",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "不",
+      "id": 563,
+      "reading": "ふ"
+    },
+    {
+      "type": "kanji",
+      "value": "健",
+      "id": 1342,
+      "reading": "けん"
+    },
+    {
+      "type": "kanji",
+      "value": "康",
+      "id": 1343,
+      "reading": "こう"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": 2615,
+  "type": "vocabulary",
+  "characters": "中止",
+  "primaryMeaning": "Suspension",
+  "otherMeanings": [
+    "Cancellation",
+    "Discontinuation"
+  ],
+  "primaryReading": "ちゅうし",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 469,
+      "character": "中",
+      "readings": [
+        "ちゅう",
+        "なか"
+      ]
+    },
+    {
+      "id": 514,
+      "character": "止",
+      "readings": [
+        "し",
+        "と",
+        "や"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When something is in the <kanji>middle</kanji> of an action but it's <kanji>stop</kanji>ped, this means it's put into <vocabulary>suspension</vocabulary>. Imagine getting frozen while you're running. It's kind of like that.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%AD%E6%AD%A2",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "中",
+      "id": 469,
+      "reading": "ちゅう"
+    },
+    {
+      "type": "kanji",
+      "value": "止",
+      "id": 514,
+      "reading": "し"
+    }
+  ]
+}

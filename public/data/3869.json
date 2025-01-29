@@ -1,0 +1,50 @@
+{
+  "id": 3869,
+  "type": "vocabulary",
+  "characters": "入門",
+  "primaryMeaning": "Admission",
+  "otherMeanings": [
+    "Entrance",
+    "Introduction",
+    "Apprenticeship"
+  ],
+  "primaryReading": "にゅうもん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 445,
+      "character": "入",
+      "readings": [
+        "にゅう",
+        "はい",
+        "い"
+      ]
+    },
+    {
+      "id": 964,
+      "character": "門",
+      "readings": [
+        "もん",
+        "と",
+        "かど"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you are able to <kanji>enter</kanji> the <kanji>gate</kanji> then you have gained <vocabulary>admission</vocabulary> and <vocabulary>entrance</vocabulary> to the facility.  Sometimes you do this to start an <vocabulary>apprenticeship</vocabulary>, where you get an <vocabulary>introduction</vocabulary> to some sweet new skills, like how to make an entrance.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%85%A5%E9%96%80",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "入",
+      "id": 445,
+      "reading": "にゅう"
+    },
+    {
+      "type": "kanji",
+      "value": "門",
+      "id": 964,
+      "reading": "もん"
+    }
+  ]
+}

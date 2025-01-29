@@ -1,0 +1,50 @@
+{
+  "id": 4767,
+  "type": "vocabulary",
+  "characters": "頑張る",
+  "primaryMeaning": "To Persevere",
+  "otherMeanings": [
+    "To Do One's Best"
+  ],
+  "primaryReading": "がんばる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 927,
+      "character": "頑",
+      "readings": [
+        "がん",
+        "かたく"
+      ]
+    },
+    {
+      "id": 1205,
+      "character": "張",
+      "readings": [
+        "ちょう",
+        "は"
+      ]
+    }
+  ],
+  "meaningMnemonic": "張る is <kanji>to stretch</kanji>. You're <kanji>stubborn</kanji> and want to stretch out what you're doing right now. Although you're stubborn, you keep doing it. You persevere. That's why this word is <vocabulary>to persevere</vocabulary> or <vocabulary>to do one's best</vocabulary>.",
+  "readingMnemonic": "The reading for this word is the reading for 頑 and 張る put together but the 張る part gets rendaku'd so keep that in mind.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%A0%91%E5%BC%B5%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "頑",
+      "id": 927,
+      "reading": "がん"
+    },
+    {
+      "type": "kanji",
+      "value": "張",
+      "id": 1205,
+      "reading": "ば"
+    },
+    {
+      "type": "kana",
+      "value": "る"
+    }
+  ]
+}

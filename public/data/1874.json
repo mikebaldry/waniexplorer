@@ -1,0 +1,39 @@
+{
+  "id": 1874,
+  "type": "kanji",
+  "character": "縁",
+  "primaryMeaning": "Edge",
+  "otherMeanings": [],
+  "primaryReading": "えん",
+  "readings": [
+    {
+      "reading": "えん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ねん",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ふち",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Suddenly, the pig squeals, pulls the thread, and sends them both over the <kanji>edge</kanji>. Straight to their <reading>en</reading>d (えん).",
+  "meaningMnemonic": "There's a <radical>thread</radical> tying <radical>wolverine</radical> to a <radical>pig</radical>, balancing them over the <kanji>edge</kanji> of a cliff together.",
+  "vocabularyIds": [
+    6775,
+    6776,
+    6777,
+    7612
+  ],
+  "radicalIds": [
+    86,
+    105,
+    233
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%B8%81"
+}

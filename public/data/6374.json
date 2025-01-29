@@ -1,0 +1,62 @@
+{
+  "id": 6374,
+  "type": "vocabulary",
+  "characters": "合唱団",
+  "primaryMeaning": "Chorus",
+  "otherMeanings": [
+    "Choir"
+  ],
+  "primaryReading": "がっしょうだん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 852,
+      "character": "合",
+      "readings": [
+        "ごう",
+        "がっ",
+        "あ",
+        "あい"
+      ]
+    },
+    {
+      "id": 1746,
+      "character": "唱",
+      "readings": [
+        "しょう",
+        "とな"
+      ]
+    },
+    {
+      "id": 1076,
+      "character": "団",
+      "readings": [
+        "だん",
+        "とん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "People who <kanji>join</kanji> in a <kanji>chant</kanji> <kanji>group</kanji> are people who are in a <vocabulary>chorus</vocabulary> or <vocabulary>choir</vocabulary>.",
+  "readingMnemonic": "The reading for 合 is pretty weird. It's a がっ instead of a ごう. Just imagine a bunch of people in a chorus singing \"ga ga ga ga gaaaa!\"",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%90%88%E5%94%B1%E5%9B%A3",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "合",
+      "id": 852,
+      "reading": "がっ"
+    },
+    {
+      "type": "kanji",
+      "value": "唱",
+      "id": 1746,
+      "reading": "しょう"
+    },
+    {
+      "type": "kanji",
+      "value": "団",
+      "id": 1076,
+      "reading": "だん"
+    }
+  ]
+}

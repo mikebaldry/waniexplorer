@@ -1,0 +1,49 @@
+{
+  "id": 3016,
+  "type": "vocabulary",
+  "characters": "大役",
+  "primaryMeaning": "Important Task",
+  "otherMeanings": [
+    "Great Duty",
+    "Important Role"
+  ],
+  "primaryReading": "たいやく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 453,
+      "character": "大",
+      "readings": [
+        "たい",
+        "だい",
+        "おお",
+        "ひろ"
+      ]
+    },
+    {
+      "id": 685,
+      "character": "役",
+      "readings": [
+        "やく",
+        "えき"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>big</kanji> <kanji>duty</kanji> is a <vocabulary>great duty</vocabulary>. It can also be an <vocabulary>important task</vocabulary>. Think about some kind of big duty you have. Then, think about what an important task it is too. Feel proud of your important task.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 大 has two on'yomi readings, here's a mnemonic to help you remember which one to use:\n\nYou've been assigned the <vocabulary>important task</vocabulary> of taking care of the local <reading>tie</reading> <reading>yak</reading>s (たいやく). Where you're from, tie-wearing yaks are incredibly important, so don't take this great duty lightly!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A4%A7%E5%BD%B9",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "大",
+      "id": 453,
+      "reading": "たい"
+    },
+    {
+      "type": "kanji",
+      "value": "役",
+      "id": 685,
+      "reading": "やく"
+    }
+  ]
+}

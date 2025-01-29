@@ -1,0 +1,41 @@
+{
+  "id": 627,
+  "type": "kanji",
+  "character": "東",
+  "primaryMeaning": "East",
+  "otherMeanings": [],
+  "primaryReading": "とう",
+  "readings": [
+    {
+      "reading": "とう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ひがし",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You walk <kanji>east</kanji> for a few hours until you finally come to a city. It's <reading>とう</reading>きょう. Oh! とうきょう is in the east. I get it now!",
+  "meaningMnemonic": "Behind that <radical>tree</radical> the <radical>sun</radical> is rising in the <kanji>east</kanji>. The sun always rises in the east, so if you head that way, past the tree, you'll be going east too.",
+  "vocabularyIds": [
+    2897,
+    2898,
+    2899,
+    2900,
+    3350,
+    3423,
+    3458,
+    3522,
+    3836,
+    3958,
+    6641,
+    8516
+  ],
+  "radicalIds": [
+    23,
+    22
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%9D%B1"
+}

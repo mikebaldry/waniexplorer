@@ -1,0 +1,49 @@
+{
+  "id": 859,
+  "type": "kanji",
+  "character": "問",
+  "primaryMeaning": "Problem",
+  "otherMeanings": [
+    "Question"
+  ],
+  "primaryReading": "もん",
+  "readings": [
+    {
+      "reading": "もん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "と",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "とん",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "The reason you ran mouth first into this gate was because you were being chased by a <reading>mon</reading>ster (もん). A monster in and of itself is a big enough <kanji>problem</kanji> as is, let alone smashing your mouth into a gate. You poor, hapless soul.",
+  "meaningMnemonic": "If you run into a <radical>gate</radical> <radical>mouth</radical> first, you’re going to have a <kanji>problem</kanji>. Smashing your mouth into a gate is going to hurt. A lot. The problem you’re now in is one of getting to a hospital and having your mouth sewn back on. The <kanji>question</kanji> is, how are you going to get to the hospital?",
+  "vocabularyIds": [
+    3530,
+    3531,
+    4451,
+    4737,
+    5080,
+    5437,
+    6359,
+    6712,
+    7384,
+    7637,
+    8623,
+    9257,
+    9262
+  ],
+  "radicalIds": [
+    214,
+    16
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%95%8F"
+}

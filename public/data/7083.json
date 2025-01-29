@@ -1,0 +1,62 @@
+{
+  "id": 7083,
+  "type": "vocabulary",
+  "characters": "可哀想",
+  "primaryMeaning": "Pitiful",
+  "otherMeanings": [
+    "Poor",
+    "Pitiable",
+    "Pathetic"
+  ],
+  "primaryReading": "かわいそう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1049,
+      "character": "可",
+      "readings": [
+        "か"
+      ]
+    },
+    {
+      "id": 1987,
+      "character": "哀",
+      "readings": [
+        "あい",
+        "あわ"
+      ]
+    },
+    {
+      "id": 861,
+      "character": "想",
+      "readings": [
+        "そう",
+        "そ",
+        "おも"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>possible</kanji> <kanji>pathetic</kanji> scenario you might <kanji>imagine</kanji> is probably not just possibly pathetic. It's downright <vocabulary>pitiful</vocabulary> and <vocabulary>pathetic</vocabulary>, for sure.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. Well, at least most of it does. To remember the reading for 哀 imagine some <vocabulary>pathetic</vocabulary> person who lost their home. They may be <vocabulary>pitiful</vocabulary> but at some point after losing their home they decided that the hood of your car would make a fine place to live. You can't help but ask them, \"<reading>Why</reading> (わい) my car?\" There are so many other cars this pathetic person could be camping out on, but they chose yours.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8F%AF%E5%93%80%E6%83%B3",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "可",
+      "id": 1049,
+      "reading": "か"
+    },
+    {
+      "type": "kanji",
+      "value": "哀",
+      "id": 1987,
+      "reading": null
+    },
+    {
+      "type": "kanji",
+      "value": "想",
+      "id": 861,
+      "reading": null
+    }
+  ]
+}

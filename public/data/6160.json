@@ -1,0 +1,43 @@
+{
+  "id": 6160,
+  "type": "vocabulary",
+  "characters": "老齢",
+  "primaryMeaning": "Old Age",
+  "otherMeanings": [],
+  "primaryReading": "ろうれい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 781,
+      "character": "老",
+      "readings": [
+        "ろう"
+      ]
+    },
+    {
+      "id": 1676,
+      "character": "齢",
+      "readings": [
+        "れい",
+        "よわい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you are at an <kanji>elderly</kanji> <kanji>age</kanji> you are at an <vocabulary>old age</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%80%81%E9%BD%A2",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "老",
+      "id": 781,
+      "reading": "ろう"
+    },
+    {
+      "type": "kanji",
+      "value": "齢",
+      "id": 1676,
+      "reading": "れい"
+    }
+  ]
+}

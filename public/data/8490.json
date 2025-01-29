@@ -1,0 +1,43 @@
+{
+  "id": 8490,
+  "type": "vocabulary",
+  "characters": "肖像",
+  "primaryMeaning": "Portrait",
+  "otherMeanings": [],
+  "primaryReading": "しょうぞう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2374,
+      "character": "肖",
+      "readings": [
+        "しょう",
+        "あやか"
+      ]
+    },
+    {
+      "id": 890,
+      "character": "像",
+      "readings": [
+        "ぞう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When art <kanji>resemble</kanji>s the <kanji>image</kanji> of a person, it's a <vocabulary>portrait</vocabulary>. And it doesn't just resemble them, it captures their image perfectly. Now that's what I call a portrait.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%82%96%E5%83%8F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "肖",
+      "id": 2374,
+      "reading": "しょう"
+    },
+    {
+      "type": "kanji",
+      "value": "像",
+      "id": 890,
+      "reading": "ぞう"
+    }
+  ]
+}

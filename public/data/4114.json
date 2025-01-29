@@ -1,0 +1,50 @@
+{
+  "id": 4114,
+  "type": "vocabulary",
+  "characters": "皿洗い",
+  "primaryMeaning": "Dishwashing",
+  "otherMeanings": [
+    "Doing Dishes",
+    "Washing Dishes"
+  ],
+  "primaryReading": "さらあらい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 540,
+      "character": "皿",
+      "readings": [
+        "さら"
+      ]
+    },
+    {
+      "id": 1043,
+      "character": "洗",
+      "readings": [
+        "せん",
+        "あら"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You know the word 皿 (plate) and the word 洗う (to wash), right? You can probably guess dish washing is happening here, but this is a noun, so it's the idea of <vocabulary>dishwashing</vocabulary>, AKA <vocabulary>doing dishes</vocabulary>, or <vocabulary>washing dishes</vocabulary>.",
+  "readingMnemonic": "The readings are the individual vocab words (you can tell because there's a bit of hiragana stuck on there). It's the reading for 皿 and 洗う combined.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%9A%BF%E6%B4%97%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "皿",
+      "id": 540,
+      "reading": "さら"
+    },
+    {
+      "type": "kanji",
+      "value": "洗",
+      "id": 1043,
+      "reading": "あら"
+    },
+    {
+      "type": "kana",
+      "value": "い"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": 3953,
+  "type": "vocabulary",
+  "characters": "右側",
+  "primaryMeaning": "Right Side",
+  "otherMeanings": [
+    "Right-hand Side"
+  ],
+  "primaryReading": "みぎがわ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 484,
+      "character": "右",
+      "readings": [
+        "ゆう",
+        "う",
+        "みぎ"
+      ]
+    },
+    {
+      "id": 999,
+      "character": "側",
+      "readings": [
+        "がわ",
+        "そば",
+        "そく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>right</kanji> <kanji>side</kanji> is the <vocabulary>right side</vocabulary>.",
+  "readingMnemonic": "The reading is all kun'yomi vocab reading. You should know the reading of the vocab word 右 by now. Also, the 側 reading happens to be the reading you learned with the kanji as well as with the word 側.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8F%B3%E5%81%B4",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "右",
+      "id": 484,
+      "reading": "みぎ"
+    },
+    {
+      "type": "kanji",
+      "value": "側",
+      "id": 999,
+      "reading": "がわ"
+    }
+  ]
+}

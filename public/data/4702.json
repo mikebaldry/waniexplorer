@@ -1,0 +1,32 @@
+{
+  "id": 4702,
+  "type": "vocabulary",
+  "characters": "〜層",
+  "primaryMeaning": "Layer Of",
+  "otherMeanings": [
+    "Layer",
+    "Demographic"
+  ],
+  "primaryReading": "そう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1231,
+      "character": "層",
+      "readings": [
+        "そう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This is a word that's attached to other things indicating the <vocabulary>layer of</vocabulary> something (or just <vocabulary>layer</vocabulary>). It has essentially the same meaning as the kanji it comes from, <kanji>layer</kanji>.",
+  "readingMnemonic": "The reading is the reading you learned with the kanji. It's treated like a jukugo reading because it's normally attached to things.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E3%80%9C%E5%B1%A4",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "層",
+      "id": 1231,
+      "reading": "そう"
+    }
+  ]
+}

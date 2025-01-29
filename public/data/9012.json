@@ -1,0 +1,34 @@
+{
+  "id": 9012,
+  "type": "kanji",
+  "character": "冥",
+  "primaryMeaning": "Underworld",
+  "otherMeanings": [],
+  "primaryReading": "めい",
+  "readings": [
+    {
+      "reading": "めい",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "みょう",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "The sun is unusually hot for the month of <reading>May</reading> (めい), which must be why those underworld creatures are running around.",
+  "meaningMnemonic": "Your <radical>forehead</radical> is in the <radical>sun</radical>, and you start seeing those creatures with <radical>lid</radical>s for heads and  <radical>fins</radical> for feet again. Where on earth did they come from? They must have come from the <kanji>underworld</kanji>. Nothing like that exists in this life.",
+  "vocabularyIds": [
+    9013,
+    9014,
+    9015
+  ],
+  "radicalIds": [
+    76,
+    22,
+    8,
+    2
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%86%A5"
+}

@@ -1,0 +1,48 @@
+{
+  "id": 4493,
+  "type": "vocabulary",
+  "characters": "過去",
+  "primaryMeaning": "Past",
+  "otherMeanings": [
+    "The Past"
+  ],
+  "primaryReading": "かこ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1158,
+      "character": "過",
+      "readings": [
+        "か",
+        "す",
+        "あやま"
+      ]
+    },
+    {
+      "id": 532,
+      "character": "去",
+      "readings": [
+        "きょ",
+        "こ",
+        "さ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you <kanji>surpass</kanji> the <kanji>past</kanji> then you're going backwards in time (at least if you're coming from the \"present\"). If this is the case, then you are definitely in the <vocabulary>past</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. But 去 has two on'yomi readings and you haven't seen this one yet, so here's a mnemonic to help:\n\nIn the <vocabulary>past</vocabulary>, you were a <reading>子</reading> (こ). You're not really a 子 anymore, but in the past you definitely used to be a 子!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%81%8E%E5%8E%BB",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "過",
+      "id": 1158,
+      "reading": "か"
+    },
+    {
+      "type": "kanji",
+      "value": "去",
+      "id": 532,
+      "reading": "こ"
+    }
+  ]
+}

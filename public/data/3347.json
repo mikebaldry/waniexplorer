@@ -1,0 +1,58 @@
+{
+  "id": 3347,
+  "type": "vocabulary",
+  "characters": "第二章",
+  "primaryMeaning": "Chapter Two",
+  "otherMeanings": [
+    "Second Chapter"
+  ],
+  "primaryReading": "だいにしょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 825,
+      "character": "第",
+      "readings": [
+        "だい"
+      ]
+    },
+    {
+      "id": 441,
+      "character": "二",
+      "readings": [
+        "に",
+        "ふた"
+      ]
+    },
+    {
+      "id": 824,
+      "character": "章",
+      "readings": [
+        "しょう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>ordinal number prefix</kanji> <kanji>two</kanji> <kanji>chapter</kanji> has a much simpler way of describing it, which is <vocabulary>chapter two</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%AC%AC%E4%BA%8C%E7%AB%A0",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "第",
+      "id": 825,
+      "reading": "だい"
+    },
+    {
+      "type": "kanji",
+      "value": "二",
+      "id": 441,
+      "reading": "に"
+    },
+    {
+      "type": "kanji",
+      "value": "章",
+      "id": 824,
+      "reading": "しょう"
+    }
+  ]
+}

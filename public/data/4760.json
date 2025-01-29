@@ -1,0 +1,44 @@
+{
+  "id": 4760,
+  "type": "vocabulary",
+  "characters": "通販",
+  "primaryMeaning": "Mail Order",
+  "otherMeanings": [],
+  "primaryReading": "つうはん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 665,
+      "character": "通",
+      "readings": [
+        "つう",
+        "とお",
+        "かよ"
+      ]
+    },
+    {
+      "id": 1246,
+      "character": "販",
+      "readings": [
+        "はん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Things you <kanji>sell</kanji> that <kanji>pass through</kanji> the world to get to you are probably <vocabulary>mail order</vocabulary>. You order them and they get zoomed off to you, passing through all kinds of space to arrive at your door.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%80%9A%E8%B2%A9",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "通",
+      "id": 665,
+      "reading": "つう"
+    },
+    {
+      "type": "kanji",
+      "value": "販",
+      "id": 1246,
+      "reading": "はん"
+    }
+  ]
+}

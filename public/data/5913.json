@@ -1,0 +1,43 @@
+{
+  "id": 5913,
+  "type": "vocabulary",
+  "characters": "獄内",
+  "primaryMeaning": "In Prison",
+  "otherMeanings": [],
+  "primaryReading": "ごくない",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1602,
+      "character": "獄",
+      "readings": [
+        "ごく"
+      ]
+    },
+    {
+      "id": 500,
+      "character": "内",
+      "readings": [
+        "ない",
+        "うち"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you're <kanji>inside</kanji> <kanji>prison</kanji> you're <vocabulary>in prison</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%8D%84%E5%86%85",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "獄",
+      "id": 1602,
+      "reading": "ごく"
+    },
+    {
+      "type": "kanji",
+      "value": "内",
+      "id": 500,
+      "reading": "ない"
+    }
+  ]
+}

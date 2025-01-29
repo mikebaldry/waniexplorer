@@ -1,0 +1,42 @@
+{
+  "id": 7010,
+  "type": "vocabulary",
+  "characters": "碁盤",
+  "primaryMeaning": "Go Board",
+  "otherMeanings": [],
+  "primaryReading": "ごばん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1959,
+      "character": "碁",
+      "readings": [
+        "ご"
+      ]
+    },
+    {
+      "id": 1697,
+      "character": "盤",
+      "readings": [
+        "ばん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>go</kanji> <kanji>tray</kanji> is a tray for playing the game \"go.\" This tray is a <vocabulary>go board</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A2%81%E7%9B%A4",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "碁",
+      "id": 1959,
+      "reading": "ご"
+    },
+    {
+      "type": "kanji",
+      "value": "盤",
+      "id": 1697,
+      "reading": "ばん"
+    }
+  ]
+}

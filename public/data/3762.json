@@ -1,0 +1,48 @@
+{
+  "id": 3762,
+  "type": "vocabulary",
+  "characters": "昨日",
+  "primaryMeaning": "Yesterday",
+  "otherMeanings": [],
+  "primaryReading": "きのう",
+  "otherReadings": [
+    "さくじつ"
+  ],
+  "kanji": [
+    {
+      "id": 947,
+      "character": "昨",
+      "readings": [
+        "さく"
+      ]
+    },
+    {
+      "id": 476,
+      "character": "日",
+      "readings": [
+        "にち",
+        "じつ",
+        "ひ",
+        "か",
+        "び"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>yesterday</kanji> <kanji>day</kanji> is <vocabulary>yesterday</vocabulary>. What a blast from the past!",
+  "readingMnemonic": "Oof. The reading for this word makes no sense. You'll have to forget everything you've learned about the readings of the kanji and just go straight up mnemonic for the word on its own. Okay. Think about what you did yesterday, all day. You played <reading>keno</reading> (きのう), gambling away your grandmother's money. Yesterday was the worst day ever because you lost everything playing Keno. Today is different, not like yesterday, right?",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%98%A8%E6%97%A5",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "昨",
+      "id": 947,
+      "reading": null
+    },
+    {
+      "type": "kanji",
+      "value": "日",
+      "id": 476,
+      "reading": null
+    }
+  ]
+}

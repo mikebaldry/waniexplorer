@@ -1,0 +1,49 @@
+{
+  "id": 1386,
+  "type": "kanji",
+  "character": "請",
+  "primaryMeaning": "Request",
+  "otherMeanings": [],
+  "primaryReading": "せい",
+  "readings": [
+    {
+      "reading": "せい",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "しん",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "しょう",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "う",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "こ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "The next time someone <kanji>request</kanji>s something from you, take out your <reading>sa</reading>ber (せい) and slice it in half!",
+  "meaningMnemonic": "If what you <radical>say</radical> comes out <radical>blue</radical>, everyone knows that means you made a <kanji>request</kanji>. You request a favor and the words slide out of your mouth in a bright, blue blob. They hover in front of you for a few seconds, before splashing onto the person you made the request to.",
+  "vocabularyIds": [
+    5285,
+    5286,
+    5287,
+    5288,
+    9308
+  ],
+  "radicalIds": [
+    117,
+    120
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%AB%8B"
+}

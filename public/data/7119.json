@@ -1,0 +1,47 @@
+{
+  "id": 7119,
+  "type": "vocabulary",
+  "characters": "掌握",
+  "primaryMeaning": "Grasping",
+  "otherMeanings": [
+    "Seizing",
+    "Holding"
+  ],
+  "primaryReading": "しょうあく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2002,
+      "character": "掌",
+      "readings": [
+        "しょう",
+        "てのひら"
+      ]
+    },
+    {
+      "id": 1816,
+      "character": "握",
+      "readings": [
+        "あく",
+        "にぎ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Manipulate</kanji> your <kanji>grip</kanji> over and over. You have to manipulate it because you're slipping. You're just <vocabulary>grasping</vocabulary> right now.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8E%8C%E6%8F%A1",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "掌",
+      "id": 2002,
+      "reading": "しょう"
+    },
+    {
+      "type": "kanji",
+      "value": "握",
+      "id": 1816,
+      "reading": "あく"
+    }
+  ]
+}

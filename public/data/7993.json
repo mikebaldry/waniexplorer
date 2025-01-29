@@ -1,0 +1,52 @@
+{
+  "id": 7993,
+  "type": "vocabulary",
+  "characters": "枯れ木",
+  "primaryMeaning": "Dead Tree",
+  "otherMeanings": [
+    "Dry Wood"
+  ],
+  "primaryReading": "かれき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2124,
+      "character": "枯",
+      "readings": [
+        "こ",
+        "か"
+      ]
+    },
+    {
+      "id": 478,
+      "character": "木",
+      "readings": [
+        "もく",
+        "ぼく",
+        "き",
+        "こ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>wither</kanji>ed <kanji>tree</kanji> is a <vocabulary>dead tree</vocabulary> and it's got really <vocabulary>dry wood</vocabulary>. Perfect for a campfire!",
+  "readingMnemonic": "The readings for this word are both kun'yomi readings. You've learned both of these readings by now so you should be able to read this on your own. Sometimes you'll see it spelled 枯木 without the kana too. Keep your eyes open for it!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9E%AF%E3%82%8C%E6%9C%A8",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "枯",
+      "id": 2124,
+      "reading": "か"
+    },
+    {
+      "type": "kana",
+      "value": "れ"
+    },
+    {
+      "type": "kanji",
+      "value": "木",
+      "id": 478,
+      "reading": "き"
+    }
+  ]
+}

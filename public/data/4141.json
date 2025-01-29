@@ -1,0 +1,59 @@
+{
+  "id": 4141,
+  "type": "vocabulary",
+  "characters": "二枚舌",
+  "primaryMeaning": "Forked Tongue",
+  "otherMeanings": [
+    "Duplicity"
+  ],
+  "primaryReading": "にまいじた",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 441,
+      "character": "二",
+      "readings": [
+        "に",
+        "ふた"
+      ]
+    },
+    {
+      "id": 1051,
+      "character": "枚",
+      "readings": [
+        "まい"
+      ]
+    },
+    {
+      "id": 1070,
+      "character": "舌",
+      "readings": [
+        "した",
+        "ぜつ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You have <kanji>two</kanji> <kanji>flat objects</kanji> that make up your <kanji>tongue</kanji>. What kind of tongue is made up of two of anything? That's a tongue that's split, that's a <vocabulary>forked tongue</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. That's the case for the first two kanji, but 舌 actually uses the kun'yomi. Not only that, it's read here as じた, and not した.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BA%8C%E6%9E%9A%E8%88%8C",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "二",
+      "id": 441,
+      "reading": "に"
+    },
+    {
+      "type": "kanji",
+      "value": "枚",
+      "id": 1051,
+      "reading": "まい"
+    },
+    {
+      "type": "kanji",
+      "value": "舌",
+      "id": 1070,
+      "reading": "じた"
+    }
+  ]
+}

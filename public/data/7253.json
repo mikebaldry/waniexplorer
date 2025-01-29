@@ -1,0 +1,30 @@
+{
+  "id": 7253,
+  "type": "vocabulary",
+  "characters": "盾",
+  "primaryMeaning": "Shield",
+  "otherMeanings": [],
+  "primaryReading": "たて",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2047,
+      "character": "盾",
+      "readings": [
+        "じゅん",
+        "たて"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "Think of a big ol' <vocabulary>shield</vocabulary>. It's so big it will stand (<reading>立て</reading>) tall right in front of you.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%9B%BE",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "盾",
+      "id": 2047,
+      "reading": "たて"
+    }
+  ]
+}

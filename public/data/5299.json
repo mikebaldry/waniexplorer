@@ -1,0 +1,47 @@
+{
+  "id": 5299,
+  "type": "vocabulary",
+  "characters": "欠乏",
+  "primaryMeaning": "Lack",
+  "otherMeanings": [
+    "Scarcity",
+    "Deficiency"
+  ],
+  "primaryReading": "けつぼう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 646,
+      "character": "欠",
+      "readings": [
+        "けつ",
+        "か"
+      ]
+    },
+    {
+      "id": 1423,
+      "character": "乏",
+      "readings": [
+        "ぼう",
+        "とぼ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "We are <kanji>lack</kanji>ing and things are <kanji>scarce</kanji>. We have a <vocabulary>lack</vocabulary> and <vocabulary>scarcity</vocabulary> of resources.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%AC%A0%E4%B9%8F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "欠",
+      "id": 646,
+      "reading": "けつ"
+    },
+    {
+      "type": "kanji",
+      "value": "乏",
+      "id": 1423,
+      "reading": "ぼう"
+    }
+  ]
+}

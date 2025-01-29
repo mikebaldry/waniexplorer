@@ -1,0 +1,57 @@
+{
+  "id": 4580,
+  "type": "vocabulary",
+  "characters": "委員会",
+  "primaryMeaning": "Committee",
+  "otherMeanings": [],
+  "primaryReading": "いいんかい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1125,
+      "character": "委",
+      "readings": [
+        "い",
+        "ゆだ"
+      ]
+    },
+    {
+      "id": 821,
+      "character": "員",
+      "readings": [
+        "いん"
+      ]
+    },
+    {
+      "id": 566,
+      "character": "会",
+      "readings": [
+        "かい",
+        "あ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "There are member(s) of a committee (委員) all getting together to <kanji>meet</kanji>. This is the <vocabulary>committee</vocabulary> itself.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Of course it will help to know 委員 as well, since it's 2/3rds of the word.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A7%94%E5%93%A1%E4%BC%9A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "委",
+      "id": 1125,
+      "reading": "い"
+    },
+    {
+      "type": "kanji",
+      "value": "員",
+      "id": 821,
+      "reading": "いん"
+    },
+    {
+      "type": "kanji",
+      "value": "会",
+      "id": 566,
+      "reading": "かい"
+    }
+  ]
+}

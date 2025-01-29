@@ -1,0 +1,40 @@
+{
+  "id": 7697,
+  "type": "vocabulary",
+  "characters": "放つ",
+  "primaryMeaning": "To Fire",
+  "otherMeanings": [
+    "To Hit",
+    "To Emit",
+    "To Set Free",
+    "To Break Wind"
+  ],
+  "primaryReading": "はなつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 791,
+      "character": "放",
+      "readings": [
+        "ほう",
+        "はな",
+        "ほう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. You already learned the verbs 放す and 放れる but this one is a little different. This is a specific kind of releasing. It means <vocabulary>to fire</vocabulary> an arrow, <vocabulary>to hit</vocabulary> a baseball, or <vocabulary>to emit</vocabulary> light. It even works when you're releasing a fart. Yes, it means <vocabulary>to break wind</vocabulary> too. What a great word!",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You learned this reading already so you should be able to read it!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%94%BE%E3%81%A4",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "放",
+      "id": 791,
+      "reading": "はな"
+    },
+    {
+      "type": "kana",
+      "value": "つ"
+    }
+  ]
+}

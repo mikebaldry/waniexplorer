@@ -1,0 +1,47 @@
+{
+  "id": 2880,
+  "type": "vocabulary",
+  "characters": "出血",
+  "primaryMeaning": "Bleeding",
+  "otherMeanings": [
+    "Bleed"
+  ],
+  "primaryReading": "しゅっけつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 483,
+      "character": "出",
+      "readings": [
+        "しゅつ",
+        "で",
+        "だ"
+      ]
+    },
+    {
+      "id": 619,
+      "character": "血",
+      "readings": [
+        "けつ",
+        "ち"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When the thing that is <kanji>exit</kanji>ing is <kanji>blood</kanji>, you are probably <vocabulary>bleeding</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. \n\nNote that the しゅつ from 出 gets shortened to しゅっ. That's a small つ there, not a big one.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%87%BA%E8%A1%80",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "出",
+      "id": 483,
+      "reading": "しゅっ"
+    },
+    {
+      "type": "kanji",
+      "value": "血",
+      "id": 619,
+      "reading": "けつ"
+    }
+  ]
+}

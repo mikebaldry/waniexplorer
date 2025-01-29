@@ -1,0 +1,36 @@
+{
+  "id": 4310,
+  "type": "vocabulary",
+  "characters": "確かに",
+  "primaryMeaning": "Certainly",
+  "otherMeanings": [
+    "Surely"
+  ],
+  "primaryReading": "たしかに",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1103,
+      "character": "確",
+      "readings": [
+        "かく",
+        "たし"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This is an adverb, but it has the same meaning (basically) as the kanji. It means <vocabulary>certainly</vocabulary>, and it can also mean <vocabulary>surely</vocabulary>.",
+  "readingMnemonic": "The reading for this one is <vocabulary>certainly</vocabulary> weird. To remember the reading for this word, just think how you're certain that if you s<reading>tash</reading> the treasure, nobody will find it here.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A2%BA%E3%81%8B%E3%81%AB",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "確",
+      "id": 1103,
+      "reading": "たし"
+    },
+    {
+      "type": "kana",
+      "value": "かに"
+    }
+  ]
+}

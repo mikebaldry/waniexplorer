@@ -1,0 +1,64 @@
+{
+  "id": 6209,
+  "type": "vocabulary",
+  "characters": "一人称",
+  "primaryMeaning": "First Person",
+  "otherMeanings": [],
+  "primaryReading": "いちにんしょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 440,
+      "character": "一",
+      "readings": [
+        "いち",
+        "いつ",
+        "ひと",
+        "かず"
+      ]
+    },
+    {
+      "id": 444,
+      "character": "人",
+      "readings": [
+        "にん",
+        "じん",
+        "ひと",
+        "と"
+      ]
+    },
+    {
+      "id": 1698,
+      "character": "称",
+      "readings": [
+        "しょう",
+        "とな",
+        "たた",
+        "ほめ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>one</kanji> <kanji>person</kanji> <kanji>title</kanji> is the title one person gives themselves. They are speaking in the <vocabulary>first person</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%80%E4%BA%BA%E7%A7%B0",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "一",
+      "id": 440,
+      "reading": "いち"
+    },
+    {
+      "type": "kanji",
+      "value": "人",
+      "id": 444,
+      "reading": "にん"
+    },
+    {
+      "type": "kanji",
+      "value": "称",
+      "id": 1698,
+      "reading": "しょう"
+    }
+  ]
+}

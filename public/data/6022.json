@@ -1,0 +1,46 @@
+{
+  "id": 6022,
+  "type": "vocabulary",
+  "characters": "承諾",
+  "primaryMeaning": "Consent",
+  "otherMeanings": [
+    "Agreement",
+    "Acceptance"
+  ],
+  "primaryReading": "しょうだく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1572,
+      "character": "承",
+      "readings": [
+        "しょう",
+        "うけたまわ"
+      ]
+    },
+    {
+      "id": 1641,
+      "character": "諾",
+      "readings": [
+        "だく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You have my <kanji>consent</kanji> and <kanji>agreement</kanji>. This is my <vocabulary>consent</vocabulary>, <vocabulary>agreement</vocabulary>, or <vocabulary>acceptance</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%89%BF%E8%AB%BE",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "承",
+      "id": 1572,
+      "reading": "しょう"
+    },
+    {
+      "type": "kanji",
+      "value": "諾",
+      "id": 1641,
+      "reading": "だく"
+    }
+  ]
+}

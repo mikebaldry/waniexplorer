@@ -1,0 +1,50 @@
+{
+  "id": 5012,
+  "type": "vocabulary",
+  "characters": "退屈",
+  "primaryMeaning": "Boring",
+  "otherMeanings": [
+    "Boredom",
+    "Tedious"
+  ],
+  "primaryReading": "たいくつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1319,
+      "character": "退",
+      "readings": [
+        "たい",
+        "しりぞ",
+        "ひ",
+        "ど",
+        "の"
+      ]
+    },
+    {
+      "id": 1320,
+      "character": "屈",
+      "readings": [
+        "くつ",
+        "かが"
+      ]
+    }
+  ],
+  "meaningMnemonic": "I <kanji>retreat</kanji>! I <kanji>yield</kanji>! I can't take it anymore, it's so <vocabulary>boring</vocabulary>. Just imagine yourself giving up on whatever you're doing because you're so darn bored. You can't stand it. You have to retreat. You are ready to yield. Booooooring.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%80%80%E5%B1%88",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "退",
+      "id": 1319,
+      "reading": "たい"
+    },
+    {
+      "type": "kanji",
+      "value": "屈",
+      "id": 1320,
+      "reading": "くつ"
+    }
+  ]
+}

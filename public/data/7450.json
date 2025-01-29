@@ -1,0 +1,46 @@
+{
+  "id": 7450,
+  "type": "vocabulary",
+  "characters": "鬱気",
+  "primaryMeaning": "Gloomy Mood",
+  "otherMeanings": [
+    "Feeling Downcast",
+    "Gloom"
+  ],
+  "primaryReading": "うっき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2090,
+      "character": "鬱",
+      "readings": [
+        "うつ"
+      ]
+    },
+    {
+      "id": 548,
+      "character": "気",
+      "readings": [
+        "き",
+        "け"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>gloomy</kanji> <kanji>energy</kanji> has filled the room. This puts you in a <vocabulary>gloomy mood</vocabulary>. You are now <vocabulary>feeling downcast</vocabulary>.\n\nThis word is formal, so you'll mostly just see it in literature.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Careful of the shortening of 鬱 or you'll feel gloomy.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%AC%B1%E6%B0%97",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "鬱",
+      "id": 2090,
+      "reading": null
+    },
+    {
+      "type": "kanji",
+      "value": "気",
+      "id": 548,
+      "reading": null
+    }
+  ]
+}

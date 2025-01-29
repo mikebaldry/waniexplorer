@@ -1,0 +1,48 @@
+{
+  "id": 7649,
+  "type": "vocabulary",
+  "characters": "得体",
+  "primaryMeaning": "Character",
+  "otherMeanings": [
+    "Nature"
+  ],
+  "primaryReading": "えたい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1081,
+      "character": "得",
+      "readings": [
+        "とく",
+        "え",
+        "う"
+      ]
+    },
+    {
+      "id": 583,
+      "character": "体",
+      "readings": [
+        "たい",
+        "てい",
+        "からだ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "With time your <kanji>body</kanji> will <kanji>acquire</kanji> a certain type of <vocabulary>character</vocabulary>. It shows your true <vocabulary>nature</vocabulary> as a person.\n\nNote: We almost always use this word in the phrases 得体が知れない/得体の知れない, so check out the context sentences to see what kind of \"character\" we're talking about.",
+  "readingMnemonic": "The reading is a combination of kun'yomi and on'yomi readings. That being said, both readings for both kanji are the readings you learned already, so you should be able to read this.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BE%97%E4%BD%93",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "得",
+      "id": 1081,
+      "reading": "え"
+    },
+    {
+      "type": "kanji",
+      "value": "体",
+      "id": 583,
+      "reading": "たい"
+    }
+  ]
+}

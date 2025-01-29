@@ -1,0 +1,35 @@
+{
+  "id": 3185,
+  "type": "vocabulary",
+  "characters": "開ける",
+  "primaryMeaning": "To Open Something",
+  "otherMeanings": [],
+  "primaryReading": "あける",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 753,
+      "character": "開",
+      "readings": [
+        "かい",
+        "あ",
+        "ひら"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>open</kanji> and the verb vocab version is <vocabulary>to open something</vocabulary>.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nYou go <vocabulary>to open</vocabulary> the door. When you do, a huge scream comes out: \"<reading>AAAHHH</reading>!\" (あ). Imagine giant あ characters flying out of the door you opened as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%96%8B%E3%81%91%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "開",
+      "id": 753,
+      "reading": "あ"
+    },
+    {
+      "type": "kana",
+      "value": "ける"
+    }
+  ]
+}

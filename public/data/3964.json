@@ -1,0 +1,47 @@
+{
+  "id": 3964,
+  "type": "vocabulary",
+  "characters": "原因",
+  "primaryMeaning": "Cause",
+  "otherMeanings": [
+    "Origin",
+    "Source"
+  ],
+  "primaryReading": "げんいん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 995,
+      "character": "原",
+      "readings": [
+        "げん",
+        "はら"
+      ]
+    },
+    {
+      "id": 1010,
+      "character": "因",
+      "readings": [
+        "いん",
+        "よ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>original</kanji> <kanji>cause</kanji> is how you got into this mess. Forget all the things it caused, the first <vocabulary>cause</vocabulary> is the <vocabulary>origin</vocabulary> and <vocabulary>source</vocabulary> of what's going on right now. You can pinpoint one thing that caused all of this!",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8E%9F%E5%9B%A0",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "原",
+      "id": 995,
+      "reading": "げん"
+    },
+    {
+      "type": "kanji",
+      "value": "因",
+      "id": 1010,
+      "reading": "いん"
+    }
+  ]
+}

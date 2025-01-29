@@ -1,0 +1,33 @@
+{
+  "id": 4504,
+  "type": "vocabulary",
+  "characters": "坊さん",
+  "primaryMeaning": "Monk",
+  "otherMeanings": [],
+  "primaryReading": "ぼうさん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1159,
+      "character": "坊",
+      "readings": [
+        "ぼう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "さん is what you put on people's names. It's like \"Mr.\" sort of. So a \"Mr. <kanji>monk</kanji>\" is a <vocabulary>monk</vocabulary>.",
+  "readingMnemonic": "The reading is the one you learned with the kanji. <reading>ぼう</reading>さん！",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%9D%8A%E3%81%95%E3%82%93",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "坊",
+      "id": 1159,
+      "reading": "ぼう"
+    },
+    {
+      "type": "kana",
+      "value": "さん"
+    }
+  ]
+}

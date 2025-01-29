@@ -1,0 +1,46 @@
+{
+  "id": 3286,
+  "type": "vocabulary",
+  "characters": "教育",
+  "primaryMeaning": "Education",
+  "otherMeanings": [],
+  "primaryReading": "きょういく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 668,
+      "character": "教",
+      "readings": [
+        "きょう",
+        "おし",
+        "おそ"
+      ]
+    },
+    {
+      "id": 795,
+      "character": "育",
+      "readings": [
+        "いく",
+        "そだ",
+        "はぐく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Teach</kanji> and <kanji>nurture</kanji>. That's what your <vocabulary>education</vocabulary> is supposed to do.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%95%99%E8%82%B2",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "教",
+      "id": 668,
+      "reading": "きょう"
+    },
+    {
+      "type": "kanji",
+      "value": "育",
+      "id": 795,
+      "reading": "いく"
+    }
+  ]
+}

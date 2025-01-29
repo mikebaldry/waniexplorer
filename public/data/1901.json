@@ -1,0 +1,32 @@
+{
+  "id": 1901,
+  "type": "kanji",
+  "character": "粒",
+  "primaryMeaning": "Grains",
+  "otherMeanings": [],
+  "primaryReading": "りゅう",
+  "readings": [
+    {
+      "reading": "りゅう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "つぶ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You have a box of <kanji>grains</kanji>. <reading>Ryuu</reading> (りゅう) from Street Fighter is doing training by punching the grains to strengthen his fingers.",
+  "meaningMnemonic": "The part of <radical>rice</radical> that <radical>stand</radical>s up tall in the air (at the end of the stalks) is the <kanji>grains</kanji>.",
+  "vocabularyIds": [
+    6834,
+    6835,
+    6957
+  ],
+  "radicalIds": [
+    98,
+    55
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%B2%92"
+}

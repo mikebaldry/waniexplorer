@@ -1,0 +1,50 @@
+{
+  "id": 8440,
+  "type": "vocabulary",
+  "characters": "呆気",
+  "primaryMeaning": "Dumbfounded",
+  "otherMeanings": [
+    "Taken Aback",
+    "Astonished"
+  ],
+  "primaryReading": "あっけ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2251,
+      "character": "呆",
+      "readings": [
+        "ほう",
+        "あき",
+        "おろか",
+        "ほけ",
+        "ぼ"
+      ]
+    },
+    {
+      "id": 548,
+      "character": "気",
+      "readings": [
+        "き",
+        "け"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>energy</kanji> of being <kanji>shock</kanji>ed fills your body and leaves you <vocabulary>dumbfounded</vocabulary>. You're so <vocabulary>taken aback</vocabulary> by this surge of shock that all you can do is stand still and let the energy go through you.",
+  "readingMnemonic": "This word uses the kun'yomi reading for one kanji and the on'yomi reading for the other. Just remember that they're the two readings you didn't learn when you learned the kanji and you should be okay.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%91%86%E6%B0%97",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "呆",
+      "id": 2251,
+      "reading": "あっ"
+    },
+    {
+      "type": "kanji",
+      "value": "気",
+      "id": 548,
+      "reading": "け"
+    }
+  ]
+}

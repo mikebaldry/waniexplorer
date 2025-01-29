@@ -1,0 +1,26 @@
+{
+  "id": 2418,
+  "type": "kanji",
+  "character": "閑",
+  "primaryMeaning": "Leisure",
+  "otherMeanings": [],
+  "primaryReading": "かん",
+  "readings": [
+    {
+      "reading": "かん",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "As you <kanji>leisure</kanji>ly nap, you hear a gruff voice, \"Ah, you're done too, huh?\" It's Genghis <reading>Khan</reading> (かん)! He's spending his leisure time relaxing under this abandoned gate just like you.",
+  "meaningMnemonic": "You see a <radical>gate</radical> with a <radical>tree</radical> growing through it and it reminds you that you need more <kanji>leisure</kanji> time. You walk up to the gate tree and curl up under its branches. No one will bother you because the tree is blocking the gate from being used.",
+  "vocabularyIds": [
+    8590,
+    8591
+  ],
+  "radicalIds": [
+    214,
+    23
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%96%91"
+}

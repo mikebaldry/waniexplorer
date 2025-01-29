@@ -1,0 +1,48 @@
+{
+  "id": 8040,
+  "type": "vocabulary",
+  "characters": "虐待",
+  "primaryMeaning": "Abuse",
+  "otherMeanings": [
+    "Maltreatment",
+    "Mistreatment",
+    "Cruelty"
+  ],
+  "primaryReading": "ぎゃくたい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2208,
+      "character": "虐",
+      "readings": [
+        "ぎゃく",
+        "しいた"
+      ]
+    },
+    {
+      "id": 726,
+      "character": "待",
+      "readings": [
+        "たい",
+        "ま"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you can't <kanji>wait</kanji> to <kanji>oppress</kanji> people when you grow up, you're the kind of person who's prone to inflicting <vocabulary>abuse</vocabulary> on other people. You should try to correct that right away.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%99%90%E5%BE%85",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "虐",
+      "id": 2208,
+      "reading": "ぎゃく"
+    },
+    {
+      "type": "kanji",
+      "value": "待",
+      "id": 726,
+      "reading": "たい"
+    }
+  ]
+}

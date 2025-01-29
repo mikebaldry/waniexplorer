@@ -1,0 +1,43 @@
+{
+  "id": 4611,
+  "type": "vocabulary",
+  "characters": "律動",
+  "primaryMeaning": "Rhythm",
+  "otherMeanings": [],
+  "primaryReading": "りつどう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1197,
+      "character": "律",
+      "readings": [
+        "りつ"
+      ]
+    },
+    {
+      "id": 827,
+      "character": "動",
+      "readings": [
+        "どう",
+        "うご"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>law</kanji> of <kanji>move</kanji>ment is governed by <vocabulary>rhythm</vocabulary>. Imagine moving around to a boss beat. As you move, you start to feel the rhythm in your step. Go ahead and walk around your room and feel this rhythm. \n\nNote that リズム is a much more common word to use for \"rhythm,\" but you may see the kanji version sometimes in formal writing. One thing you will see more often is 律動的 which means \"rhythmic.\"",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BE%8B%E5%8B%95",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "律",
+      "id": 1197,
+      "reading": "りつ"
+    },
+    {
+      "type": "kanji",
+      "value": "動",
+      "id": 827,
+      "reading": "どう"
+    }
+  ]
+}

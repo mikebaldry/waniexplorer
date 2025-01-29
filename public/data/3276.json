@@ -1,0 +1,47 @@
+{
+  "id": 3276,
+  "type": "vocabulary",
+  "characters": "海岸",
+  "primaryMeaning": "Seashore",
+  "otherMeanings": [
+    "Coast",
+    "Seacoast"
+  ],
+  "primaryReading": "かいがん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 640,
+      "character": "海",
+      "readings": [
+        "かい",
+        "うみ"
+      ]
+    },
+    {
+      "id": 790,
+      "character": "岸",
+      "readings": [
+        "がん",
+        "きし"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>ocean</kanji>/<kanji>sea</kanji> <kanji>coast</kanji> is the <vocabulary>seashore</vocabulary>. Then again, it could also be the <vocabulary>coast</vocabulary> as well.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B5%B7%E5%B2%B8",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "海",
+      "id": 640,
+      "reading": "かい"
+    },
+    {
+      "type": "kanji",
+      "value": "岸",
+      "id": 790,
+      "reading": "がん"
+    }
+  ]
+}

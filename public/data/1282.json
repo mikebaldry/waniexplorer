@@ -1,0 +1,32 @@
+{
+  "id": 1282,
+  "type": "kanji",
+  "character": "授",
+  "primaryMeaning": "Instruct",
+  "otherMeanings": [],
+  "primaryReading": "じゅ",
+  "readings": [
+    {
+      "reading": "じゅ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "さず",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "\"Yes! I will <kanji>instruct</kanji> you, my dear students!\" you cry, \"I will instruct you on how to open a small <reading>ju</reading>ice (じゅ) box!\" That's right. These little kids need help learning how to open small juice boxes (small because kids are small).",
+  "meaningMnemonic": "There are <radical>fingers</radical> reaching towards you asking you to <radical>accept</radical> to <kanji>instruct</kanji> them. They're the fingers of students. And you're the teacher. See them reach out for knowledge. They want to accept this knowledge into their hearts and brains. Instruct them!",
+  "vocabularyIds": [
+    4928,
+    4929,
+    9285
+  ],
+  "radicalIds": [
+    63,
+    298
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%8E%88"
+}

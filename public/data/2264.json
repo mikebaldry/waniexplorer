@@ -1,0 +1,42 @@
+{
+  "id": 2264,
+  "type": "kanji",
+  "character": "朴",
+  "primaryMeaning": "Simple",
+  "otherMeanings": [
+    "Crude"
+  ],
+  "primaryReading": "ぼく",
+  "readings": [
+    {
+      "reading": "ぼく",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "えのき",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "ほう",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "ほお",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You're admiring your <kanji>simple</kanji> looking toe tree when a lumberjack runs up and asks who created it. <reading>ぼく</reading>, you say. As in \"I\" said it, in a manly dude, way. He doesn't seem to believe you, so you say it a few more times. ぼく ぼく ぼく!",
+  "meaningMnemonic": "You decide to carve a <radical>tree</radical> into a giant replica of your big <radical>toe</radical> because you think it will be really <kanji>simple</kanji>. Once you're done though, it looks like a really <kanji>crude</kanji> attempt at a fat, lumpy blob. Maybe carving isn't as simple as you thought.",
+  "vocabularyIds": [
+    8217
+  ],
+  "radicalIds": [
+    23,
+    10
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%9C%B4"
+}

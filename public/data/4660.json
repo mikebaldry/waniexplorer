@@ -1,0 +1,47 @@
+{
+  "id": 4660,
+  "type": "vocabulary",
+  "characters": "寝坊する",
+  "primaryMeaning": "To Oversleep",
+  "otherMeanings": [],
+  "primaryReading": "ねぼうする",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1160,
+      "character": "寝",
+      "readings": [
+        "ね",
+        "しん"
+      ]
+    },
+    {
+      "id": 1159,
+      "character": "坊",
+      "readings": [
+        "ぼう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "寝坊 is <kanji>oversleep</kanji>. Make that into a verb and you have <vocabulary>to oversleep</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. It also just takes the reading from 寝坊.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AF%9D%E5%9D%8A%E3%81%99%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "寝",
+      "id": 1160,
+      "reading": "ね"
+    },
+    {
+      "type": "kanji",
+      "value": "坊",
+      "id": 1159,
+      "reading": "ぼう"
+    },
+    {
+      "type": "kana",
+      "value": "する"
+    }
+  ]
+}

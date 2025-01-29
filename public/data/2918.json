@@ -1,0 +1,48 @@
+{
+  "id": 2918,
+  "type": "vocabulary",
+  "characters": "海外",
+  "primaryMeaning": "Overseas",
+  "otherMeanings": [
+    "Foreign",
+    "Abroad"
+  ],
+  "primaryReading": "かいがい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 640,
+      "character": "海",
+      "readings": [
+        "かい",
+        "うみ"
+      ]
+    },
+    {
+      "id": 521,
+      "character": "外",
+      "readings": [
+        "がい",
+        "そと",
+        "はず"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>outside</kanji> of the <kanji>sea</kanji> is someplace <vocabulary>overseas</vocabulary>. It can also be <vocabulary>foreign</vocabulary> or <vocabulary>abroad</vocabulary> if those words are easier to remember for you.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B5%B7%E5%A4%96",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "海",
+      "id": 640,
+      "reading": "かい"
+    },
+    {
+      "type": "kanji",
+      "value": "外",
+      "id": 521,
+      "reading": "がい"
+    }
+  ]
+}

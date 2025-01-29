@@ -1,0 +1,53 @@
+{
+  "id": 784,
+  "type": "kanji",
+  "character": "初",
+  "primaryMeaning": "First",
+  "otherMeanings": [],
+  "primaryReading": "しょ",
+  "readings": [
+    {
+      "reading": "しょ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "はじ",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "はつ",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "そ",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "ぞ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "If you were lucky enough to be the <kanji>first</kanji> one to find the spirit sword, you should open up a small <reading>show</reading> (しょ) to show it off! And then you can make yourself the first in line every day to see the show.",
+  "meaningMnemonic": "If you want a <radical>spirit</radical> <radical>sword</radical>, you have to be the <kanji>first</kanji> one to find it. Do you really think the first person to come across a spirit sword wouldn't want it?! No. So if you're any place but first, you're not getting anything.",
+  "vocabularyIds": [
+    3260,
+    3261,
+    3302,
+    3568,
+    3569,
+    5342,
+    7687,
+    9035,
+    9036
+  ],
+  "radicalIds": [
+    80,
+    24
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%88%9D"
+}

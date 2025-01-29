@@ -1,0 +1,33 @@
+{
+  "id": 1027,
+  "type": "kanji",
+  "character": "幻",
+  "primaryMeaning": "Illusion",
+  "otherMeanings": [],
+  "primaryReading": "げん",
+  "readings": [
+    {
+      "reading": "げん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "まぼろし",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Somehow the poop cape <kanji>illusion</kanji> goes over really well. The crowd is giving you a standing ovation and right in the center is <reading>Gen</reading>ji (げん). He marches up to you, wipes a tear from his eye, and says, \"Your illusion cape is wonderful. I must have it!\"",
+  "meaningMnemonic": "You hide <radical>poop</radical> in a <radical>cape</radical> as part of the <kanji>illusion</kanji> in your magic show. Your acts are kind of gross and this one involves creating the illusion of disappearing poop by hiding it within the folds of your cape.",
+  "vocabularyIds": [
+    3988,
+    3989,
+    3990,
+    6745
+  ],
+  "radicalIds": [
+    87,
+    8780
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%B9%BB"
+}

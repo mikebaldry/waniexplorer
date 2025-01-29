@@ -1,0 +1,44 @@
+{
+  "id": 4040,
+  "type": "vocabulary",
+  "characters": "仮説",
+  "primaryMeaning": "Hypothesis",
+  "otherMeanings": [],
+  "primaryReading": "かせつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 739,
+      "character": "仮",
+      "readings": [
+        "か",
+        "かり"
+      ]
+    },
+    {
+      "id": 1026,
+      "character": "説",
+      "readings": [
+        "せつ",
+        "と"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>temporary</kanji> <kanji>theory</kanji> isn't one that's set in stone yet. In fact, it's not really a theory at all, it's more of a <vocabulary>hypothesis</vocabulary>.\n\nThis word is generally used when referring to research or some sort of investigation where a hypothesis is put forward that needs to be tested and validated through evidence and experimentation.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BB%AE%E8%AA%AC",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "仮",
+      "id": 739,
+      "reading": "か"
+    },
+    {
+      "type": "kanji",
+      "value": "説",
+      "id": 1026,
+      "reading": "せつ"
+    }
+  ]
+}

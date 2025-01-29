@@ -1,0 +1,34 @@
+{
+  "id": 6869,
+  "type": "vocabulary",
+  "characters": "狩り",
+  "primaryMeaning": "Hunting",
+  "otherMeanings": [],
+  "primaryReading": "かり",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1913,
+      "character": "狩",
+      "readings": [
+        "か",
+        "しゅ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You have the noun version of <kanji>hunt</kanji>. That is <vocabulary>hunting</vocabulary>.",
+  "readingMnemonic": "The reading uses the reading from the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%8B%A9%E3%82%8A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "狩",
+      "id": 1913,
+      "reading": "か"
+    },
+    {
+      "type": "kana",
+      "value": "り"
+    }
+  ]
+}

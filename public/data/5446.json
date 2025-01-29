@@ -1,0 +1,32 @@
+{
+  "id": 5446,
+  "type": "vocabulary",
+  "characters": "棒",
+  "primaryMeaning": "Pole",
+  "otherMeanings": [
+    "Wooden Pole",
+    "Rod"
+  ],
+  "primaryReading": "ぼう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1457,
+      "character": "棒",
+      "readings": [
+        "ぼう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%A3%92",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "棒",
+      "id": 1457,
+      "reading": "ぼう"
+    }
+  ]
+}

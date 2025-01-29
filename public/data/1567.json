@@ -1,0 +1,34 @@
+{
+  "id": 1567,
+  "type": "kanji",
+  "character": "沿",
+  "primaryMeaning": "Run Alongside",
+  "otherMeanings": [],
+  "primaryReading": "えん",
+  "readings": [
+    {
+      "reading": "えん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "そ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You're able to <kanji>run alongside</kanji> the tsunami for about ten seconds before everything <reading>en</reading>ds (えん).",
+  "meaningMnemonic": "There's a <radical>tsunami</radical> coming, so you put your <radical>fins</radical> on, open your <radical>mouth</radical> wide, and try to <kanji>run alongside</kanji> it.",
+  "vocabularyIds": [
+    5798,
+    5799,
+    5800,
+    5801
+  ],
+  "radicalIds": [
+    103,
+    2,
+    16
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%B2%BF"
+}

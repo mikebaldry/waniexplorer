@@ -1,0 +1,38 @@
+{
+  "id": 3615,
+  "type": "vocabulary",
+  "characters": "皆さん",
+  "primaryMeaning": "Everyone",
+  "otherMeanings": [
+    "Everybody",
+    "All"
+  ],
+  "primaryReading": "みなさん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 895,
+      "character": "皆",
+      "readings": [
+        "みな",
+        "みんな",
+        "かい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Everyone</kanji> + さん (normal name ender). This is the normal way to say <vocabulary>everyone</vocabulary>",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%9A%86%E3%81%95%E3%82%93",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "皆",
+      "id": 895,
+      "reading": "みな"
+    },
+    {
+      "type": "kana",
+      "value": "さん"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 5825,
+  "type": "vocabulary",
+  "characters": "枝",
+  "primaryMeaning": "Branch",
+  "otherMeanings": [],
+  "primaryReading": "えだ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1574,
+      "character": "枝",
+      "readings": [
+        "えだ",
+        "し"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "Since this is a word made up of a single kanji and nothing else, you can assume that this word will use the kun'yomi reading. The reading you learned for this kanji happens to be the kun'yomi reading as well. So if you know the kanji you know the reading.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9E%9D",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "枝",
+      "id": 1574,
+      "reading": "えだ"
+    }
+  ]
+}

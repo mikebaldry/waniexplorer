@@ -1,0 +1,37 @@
+{
+  "id": 3657,
+  "type": "vocabulary",
+  "characters": "例えば",
+  "primaryMeaning": "For Example",
+  "otherMeanings": [
+    "For Instance",
+    "Supposing That"
+  ],
+  "primaryReading": "たとえば",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 896,
+      "character": "例",
+      "readings": [
+        "れい",
+        "たと"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This has almost the same meaning as the kanji it comes from. Instead of just simply being \"example,\" though, it's <vocabulary>for example</vocabulary>. It can also sometimes mean <vocabulary>supposing that</vocabulary> when talking about hypothetical scenarios. So, supposing that I start a sentence with this, I can be all like \"例えば, I am using 例えば in a sentence.\"",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: Using all kinds of \"<vocabulary>for examples</vocabulary>\" like this, you were <reading>taught</reading> (たと) many things throughout your life. For example, you were taught about...",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BE%8B%E3%81%88%E3%81%B0",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "例",
+      "id": 896,
+      "reading": "たと"
+    },
+    {
+      "type": "kana",
+      "value": "えば"
+    }
+  ]
+}

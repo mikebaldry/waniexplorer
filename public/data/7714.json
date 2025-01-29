@@ -1,0 +1,41 @@
+{
+  "id": 7714,
+  "type": "vocabulary",
+  "characters": "お祝い",
+  "primaryMeaning": "Celebration",
+  "otherMeanings": [
+    "Congratulatory Gift"
+  ],
+  "primaryReading": "おいわい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1223,
+      "character": "祝",
+      "readings": [
+        "しゅく",
+        "しゅう",
+        "いわ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This is the noun version of the kanji <kanji>celebrate</kanji>, so it means <vocabulary>celebration</vocabulary>! \n\nお祝い is also used to mean a <vocabulary>congratulatory gift</vocabulary> itself.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You learned this reading already so you should be able to read it!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E3%81%8A%E7%A5%9D%E3%81%84",
+  "elements": [
+    {
+      "type": "kana",
+      "value": "お"
+    },
+    {
+      "type": "kanji",
+      "value": "祝",
+      "id": 1223,
+      "reading": "いわ"
+    },
+    {
+      "type": "kana",
+      "value": "い"
+    }
+  ]
+}

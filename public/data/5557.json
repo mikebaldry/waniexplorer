@@ -1,0 +1,45 @@
+{
+  "id": 5557,
+  "type": "vocabulary",
+  "characters": "酸素",
+  "primaryMeaning": "Oxygen",
+  "otherMeanings": [],
+  "primaryReading": "さんそ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1496,
+      "character": "酸",
+      "readings": [
+        "さん",
+        "す"
+      ]
+    },
+    {
+      "id": 1138,
+      "character": "素",
+      "readings": [
+        "そ",
+        "す",
+        "もと"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>acid</kanji> <kanji>element</kanji> is <vocabulary>oxygen</vocabulary>. In German it’s the same as in Japanese - it’s called “Sauerstoff”, including “sauer”, the word for “sour”. The noun version is “Säure” which means both “sourness” and “acid” (which again is the same in Japanese, the same kanji is used in both words). The word “oxygenium” in Greek/Latin literally means “acid maker”. Long ago chemists thought oxygen was a defining characteristic of acids, later they found out there are also acids without oxygen like hydrochloric/muriatic/salt acid and the defining characteristic actually is hydrogen. But the name stuck.\n\nOr you could just imagine all the oxygen you breathe has turned into acid (oh no!), and it sucks to breathe. Whatever works for you.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%85%B8%E7%B4%A0",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "酸",
+      "id": 1496,
+      "reading": "さん"
+    },
+    {
+      "type": "kanji",
+      "value": "素",
+      "id": 1138,
+      "reading": "そ"
+    }
+  ]
+}

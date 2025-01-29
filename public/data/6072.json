@@ -1,0 +1,44 @@
+{
+  "id": 6072,
+  "type": "vocabulary",
+  "characters": "塁審",
+  "primaryMeaning": "Baseball Umpire",
+  "otherMeanings": [
+    "Umpire"
+  ],
+  "primaryReading": "るいしん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1650,
+      "character": "塁",
+      "readings": [
+        "るい"
+      ]
+    },
+    {
+      "id": 1144,
+      "character": "審",
+      "readings": [
+        "しん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>baseball base</kanji> <kanji>judge</kanji> is one who judges things on a baseball field. This is a <vocabulary>baseball umpire</vocabulary>, or more simply, an <vocabulary>umpire</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A1%81%E5%AF%A9",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "塁",
+      "id": 1650,
+      "reading": "るい"
+    },
+    {
+      "type": "kanji",
+      "value": "審",
+      "id": 1144,
+      "reading": "しん"
+    }
+  ]
+}

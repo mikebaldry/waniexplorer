@@ -1,0 +1,53 @@
+{
+  "id": 735,
+  "type": "kanji",
+  "character": "重",
+  "primaryMeaning": "Heavy",
+  "otherMeanings": [],
+  "primaryReading": "じゅう",
+  "readings": [
+    {
+      "reading": "じゅう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ちょう",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "おも",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "かさ",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "え",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "In your hand is a very <kanji>heavy</kanji> <reading>jew</reading>el (じゅう). Real jewels are always heavier than they look.",
+  "meaningMnemonic": "The <radical>heavy</radical> radical and the <kanji>heavy</kanji> kanji are the same.",
+  "vocabularyIds": [
+    3150,
+    3151,
+    3152,
+    3153,
+    6307,
+    7662,
+    7777,
+    8247,
+    9294,
+    9304
+  ],
+  "radicalIds": [
+    188
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%87%8D"
+}

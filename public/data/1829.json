@@ -1,0 +1,40 @@
+{
+  "id": 1829,
+  "type": "kanji",
+  "character": "紛",
+  "primaryMeaning": "Distract",
+  "otherMeanings": [],
+  "primaryReading": "ふん",
+  "readings": [
+    {
+      "reading": "ふん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "まぎ",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "まぐ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Despite how distracted you are, that was indeed a lot of <reading>fun</reading> (ふん).",
+  "meaningMnemonic": "Take this <radical>thread</radical> and look at this <radical>part</radical>. Now look at this part! Now look at this part. You don't know where to look! Haha, I have <kanji>distract</kanji>ed you!",
+  "vocabularyIds": [
+    6627,
+    6628,
+    6767,
+    6768,
+    7140,
+    7156
+  ],
+  "radicalIds": [
+    86,
+    247
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%B4%9B"
+}

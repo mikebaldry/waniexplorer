@@ -1,0 +1,40 @@
+{
+  "id": 9274,
+  "type": "vocabulary",
+  "characters": "明らか",
+  "primaryMeaning": "Obvious",
+  "otherMeanings": [
+    "Clear",
+    "Evident"
+  ],
+  "primaryReading": "あきらか",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 626,
+      "character": "明",
+      "readings": [
+        "めい",
+        "みょう",
+        "あ",
+        "あか",
+        "あき"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When it's <kanji>bright</kanji> around, things become more <vocabulary>obvious</vocabulary>, <vocabulary>clear</vocabulary> and <vocabulary>evident</vocabulary>.",
+  "readingMnemonic": "Since this is a word that consists of a kanji with hiragana attached, you can bet that it uses kun'yomi. Unfortunately, 明 is a little tricky and has a few of those. So here's a mnemonic to help you remember this one:\n\nIt's <vocabulary>obvious</vocabulary> that all you need is <reading>a key</reading> (あき) to open this door. It's like, blatantly <vocabulary>clear</vocabulary>. The lock is right there. You really just need a key. Did you forget it? Of course you did…",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%98%8E%E3%82%89%E3%81%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "明",
+      "id": 626,
+      "reading": "あき"
+    },
+    {
+      "type": "kana",
+      "value": "らか"
+    }
+  ]
+}

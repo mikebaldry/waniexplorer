@@ -1,0 +1,39 @@
+{
+  "id": 5573,
+  "type": "vocabulary",
+  "characters": "厳しい",
+  "primaryMeaning": "Strict",
+  "otherMeanings": [
+    "Harsh",
+    "Severe"
+  ],
+  "primaryReading": "きびしい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1502,
+      "character": "厳",
+      "readings": [
+        "げん",
+        "ごん",
+        "きび",
+        "おごそ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>strict</kanji>? It is also <vocabulary>strict</vocabulary>.",
+  "readingMnemonic": "The most <vocabulary>strict</vocabulary> creature in Japan is the <reading>key bee</reading> (きび). Little key bees have to be very strict about locking the doors to their hive. If they aren't strict enough, the scary Japanese hornets will get in and kill them all. Have you seen those things? They're terrifying!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8E%B3%E3%81%97%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "厳",
+      "id": 1502,
+      "reading": "きび"
+    },
+    {
+      "type": "kana",
+      "value": "しい"
+    }
+  ]
+}

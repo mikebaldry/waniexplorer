@@ -1,0 +1,56 @@
+{
+  "id": 5496,
+  "type": "vocabulary",
+  "characters": "徳島県",
+  "primaryMeaning": "Tokushima Prefecture",
+  "otherMeanings": [],
+  "primaryReading": "とくしまけん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1476,
+      "character": "徳",
+      "readings": [
+        "とく"
+      ]
+    },
+    {
+      "id": 822,
+      "character": "島",
+      "readings": [
+        "しま",
+        "とう"
+      ]
+    },
+    {
+      "id": 731,
+      "character": "県",
+      "readings": [
+        "けん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>virtue</kanji> <kanji>island</kanji> <kanji>prefecture</kanji> is <vocabulary>Tokushima prefecture</vocabulary>. The reading will give away the meaning of this one, so long as you knew \"prefecture.\"",
+  "readingMnemonic": "The readings are the ones you learned with the individual kanji. Put them together and you'll know this is <vocabulary>Tokushima Prefecture</vocabulary>.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BE%B3%E5%B3%B6%E7%9C%8C",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "徳",
+      "id": 1476,
+      "reading": "とく"
+    },
+    {
+      "type": "kanji",
+      "value": "島",
+      "id": 822,
+      "reading": "しま"
+    },
+    {
+      "type": "kanji",
+      "value": "県",
+      "id": 731,
+      "reading": "けん"
+    }
+  ]
+}

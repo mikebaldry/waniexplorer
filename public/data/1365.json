@@ -1,0 +1,29 @@
+{
+  "id": 1365,
+  "type": "kanji",
+  "character": "麗",
+  "primaryMeaning": "Lovely",
+  "otherMeanings": [],
+  "primaryReading": "れい",
+  "readings": [
+    {
+      "reading": "れい",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "うるわ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "\"<kanji>Lovely</kanji>\" is the name of my <reading>ray</reading> (れい) gun. It's more lovely than any other thing.",
+  "meaningMnemonic": "If you know the radical meaning <radical>lovely</radical>, you know the kanji meaning <kanji>lovely</kanji> as well!",
+  "vocabularyIds": [
+    5502
+  ],
+  "radicalIds": [
+    318
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%BA%97"
+}

@@ -1,0 +1,42 @@
+{
+  "id": 4651,
+  "type": "vocabulary",
+  "characters": "俳句",
+  "primaryMeaning": "Haiku",
+  "otherMeanings": [],
+  "primaryReading": "はいく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1215,
+      "character": "俳",
+      "readings": [
+        "はい"
+      ]
+    },
+    {
+      "id": 1053,
+      "character": "句",
+      "readings": [
+        "く"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>haiku</kanji> <kanji>paragraph</kanji> is just a <vocabulary>haiku</vocabulary>. Haikus are little haiku paragraphs.\n\nYou will learn kanji\nThe Crabigator watches\nHe feeds on reviews",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BF%B3%E5%8F%A5",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "俳",
+      "id": 1215,
+      "reading": "はい"
+    },
+    {
+      "type": "kanji",
+      "value": "句",
+      "id": 1053,
+      "reading": "く"
+    }
+  ]
+}

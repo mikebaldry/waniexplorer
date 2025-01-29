@@ -1,0 +1,67 @@
+{
+  "id": 6938,
+  "type": "vocabulary",
+  "characters": "口笛を吹く",
+  "primaryMeaning": "To Whistle",
+  "otherMeanings": [],
+  "primaryReading": "くちぶえをふく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 452,
+      "character": "口",
+      "readings": [
+        "こう",
+        "く",
+        "くち"
+      ]
+    },
+    {
+      "id": 1121,
+      "character": "笛",
+      "readings": [
+        "てき",
+        "ふえ"
+      ]
+    },
+    {
+      "id": 1751,
+      "character": "吹",
+      "readings": [
+        "ふ",
+        "すい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You know that 口笛 is \"whistling.\" So, if you're <kanji>blow</kanji>ing your whistle you're going <vocabulary>to whistle</vocabulary>.",
+  "readingMnemonic": "The readings are of 口笛 and the reading you learned from 吹.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8F%A3%E7%AC%9B%E3%82%92%E5%90%B9%E3%81%8F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "口",
+      "id": 452,
+      "reading": "くち"
+    },
+    {
+      "type": "kanji",
+      "value": "笛",
+      "id": 1121,
+      "reading": "ぶえ"
+    },
+    {
+      "type": "kana",
+      "value": "を"
+    },
+    {
+      "type": "kanji",
+      "value": "吹",
+      "id": 1751,
+      "reading": "ふ"
+    },
+    {
+      "type": "kana",
+      "value": "く"
+    }
+  ]
+}

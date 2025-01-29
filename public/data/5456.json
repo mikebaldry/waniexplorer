@@ -1,0 +1,32 @@
+{
+  "id": 5456,
+  "type": "vocabulary",
+  "characters": "巣",
+  "primaryMeaning": "Nest",
+  "otherMeanings": [
+    "Habitat"
+  ],
+  "primaryReading": "す",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1462,
+      "character": "巣",
+      "readings": [
+        "す",
+        "そう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well. This can refer to all kinds of things, like a spider's web or a mouse's burrow or a bee's hive, etc. Basically, it's a place where animals live, not necessarily just a nest as in a bird's \"nest,\" etc.",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B7%A3",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "巣",
+      "id": 1462,
+      "reading": "す"
+    }
+  ]
+}

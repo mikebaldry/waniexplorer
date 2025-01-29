@@ -1,0 +1,26 @@
+{
+  "id": 1344,
+  "type": "kanji",
+  "character": "郎",
+  "primaryMeaning": "Guy",
+  "otherMeanings": [],
+  "primaryReading": "ろう",
+  "readings": [
+    {
+      "reading": "ろう",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "You talk to that <kanji>guy</kanji>. The only thing he does is offer you <reading>roe</reading> (ろう).",
+  "meaningMnemonic": "Inside the \"<radical>Good</radical> <radical>Building</radical>\" there's a single <kanji>guy</kanji>.",
+  "vocabularyIds": [
+    5097,
+    9103
+  ],
+  "radicalIds": [
+    8822,
+    176
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%83%8E"
+}

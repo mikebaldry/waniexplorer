@@ -1,0 +1,32 @@
+{
+  "id": 8102,
+  "type": "vocabulary",
+  "characters": "杏",
+  "primaryMeaning": "Apricot",
+  "otherMeanings": [],
+  "primaryReading": "あんず",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2257,
+      "character": "杏",
+      "readings": [
+        "あんず",
+        "あん",
+        "きょう",
+        "こう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "You learned this reading with the kanji! Yay!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9D%8F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "杏",
+      "id": 2257,
+      "reading": "あんず"
+    }
+  ]
+}

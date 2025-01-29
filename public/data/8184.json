@@ -1,0 +1,46 @@
+{
+  "id": 8184,
+  "type": "vocabulary",
+  "characters": "佳作",
+  "primaryMeaning": "Fine Work",
+  "otherMeanings": [
+    "Good Piece Of Work"
+  ],
+  "primaryReading": "かさく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2267,
+      "character": "佳",
+      "readings": [
+        "か"
+      ]
+    },
+    {
+      "id": 584,
+      "character": "作",
+      "readings": [
+        "さく",
+        "さ",
+        "つく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Make</kanji> something <kanji>excellent</kanji> and everyone will call it a <vocabulary>fine work</vocabulary>. Or make something that sucks and let everyone down. It's your call.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BD%B3%E4%BD%9C",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "佳",
+      "id": 2267,
+      "reading": "か"
+    },
+    {
+      "type": "kanji",
+      "value": "作",
+      "id": 584,
+      "reading": "さく"
+    }
+  ]
+}

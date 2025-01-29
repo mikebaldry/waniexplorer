@@ -1,0 +1,35 @@
+{
+  "id": 1587,
+  "type": "kanji",
+  "character": "介",
+  "primaryMeaning": "Jammed In",
+  "otherMeanings": [],
+  "primaryReading": "かい",
+  "readings": [
+    {
+      "reading": "かい",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "すけ",
+      "primary": false,
+      "type": "nanori"
+    }
+  ],
+  "readingMnemonic": "Look down! You're <kanji>jammed in</kanji>to something. You can't move your feet. What is this?! Oh, your body's been jammed in a <reading>kay</reading>ak (かい).",
+  "meaningMnemonic": "The <radical>jammed in</radical> radical and the <kanji>jammed in</kanji> kanji are the same!",
+  "vocabularyIds": [
+    5879,
+    5880,
+    5883,
+    6042,
+    6043,
+    6044,
+    8445
+  ],
+  "radicalIds": [
+    166
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E4%BB%8B"
+}

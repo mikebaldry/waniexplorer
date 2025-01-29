@@ -1,0 +1,45 @@
+{
+  "id": 2858,
+  "type": "vocabulary",
+  "characters": "方向",
+  "primaryMeaning": "Direction",
+  "otherMeanings": [],
+  "primaryReading": "ほうこう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 510,
+      "character": "方",
+      "readings": [
+        "ほう",
+        "かた"
+      ]
+    },
+    {
+      "id": 611,
+      "character": "向",
+      "readings": [
+        "こう",
+        "む",
+        "なた"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>direction</kanji> <kanji>yonder</kanji> over there is still just the <vocabulary>direction</vocabulary> of something, though a complicated way to say it, I think. This direction is the \"what direction did he go in?\" sort of direction.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%96%B9%E5%90%91",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "方",
+      "id": 510,
+      "reading": "ほう"
+    },
+    {
+      "type": "kanji",
+      "value": "向",
+      "id": 611,
+      "reading": "こう"
+    }
+  ]
+}

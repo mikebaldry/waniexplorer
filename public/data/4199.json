@@ -1,0 +1,35 @@
+{
+  "id": 4199,
+  "type": "vocabulary",
+  "characters": "得",
+  "primaryMeaning": "Benefit",
+  "otherMeanings": [
+    "Profit",
+    "Advantage",
+    "Gain"
+  ],
+  "primaryReading": "とく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1081,
+      "character": "得",
+      "readings": [
+        "とく",
+        "え",
+        "う"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you are able to <kanji>acquire</kanji> whatever you want, you start to see the <vocabulary>benefit</vocabulary>s of everything around you and begin to <vocabulary>profit</vocabulary> from them. Aren't you so amazing?",
+  "readingMnemonic": "The reading for this is the same as with the kanji you learned. <reading>とく</reading>!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BE%97",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "得",
+      "id": 1081,
+      "reading": "とく"
+    }
+  ]
+}

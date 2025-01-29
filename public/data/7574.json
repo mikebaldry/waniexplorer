@@ -1,0 +1,47 @@
+{
+  "id": 7574,
+  "type": "vocabulary",
+  "characters": "作業",
+  "primaryMeaning": "Work",
+  "otherMeanings": [
+    "Task",
+    "Operation"
+  ],
+  "primaryReading": "さぎょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 584,
+      "character": "作",
+      "readings": [
+        "さく",
+        "さ",
+        "つく"
+      ]
+    },
+    {
+      "id": 756,
+      "character": "業",
+      "readings": [
+        "ぎょう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you want to <kanji>make</kanji> a <kanji>business</kanji> successful you need to be prepared to do a lot of <vocabulary>work</vocabulary>. Be ready to handle many <vocabulary>task</vocabulary>s and <vocabulary>operation</vocabulary>s!\n\n作業 often focuses on individual, hands-on tasks that are undertaken to accomplish a specific objective.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 作 has two on'yomi readings, here's a mnemonic to help you remember which one to use:\n\nYou love the <vocabulary>work</vocabulary> involved in <reading>saw</reading>ing <reading>gyo</reading>za (さぎょう). There's something about taking a piece of gyoza and sawing right through it that you just love so much.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BD%9C%E6%A5%AD",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "作",
+      "id": 584,
+      "reading": "さ"
+    },
+    {
+      "type": "kanji",
+      "value": "業",
+      "id": 756,
+      "reading": "ぎょう"
+    }
+  ]
+}

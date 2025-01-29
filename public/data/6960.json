@@ -1,0 +1,38 @@
+{
+  "id": 6960,
+  "type": "vocabulary",
+  "characters": "叫び",
+  "primaryMeaning": "Shout",
+  "otherMeanings": [
+    "Scream",
+    "A Shout",
+    "A Scream"
+  ],
+  "primaryReading": "さけび",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1892,
+      "character": "叫",
+      "readings": [
+        "きょう",
+        "さけ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "叫ぶ is \"to shout\" and \"to scream.\" This is the noun version. This is a <vocabulary>shout</vocabulary> or <vocabulary>scream</vocabulary>.",
+  "readingMnemonic": "The reading comes from 叫ぶ.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8F%AB%E3%81%B3",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "叫",
+      "id": 1892,
+      "reading": "さけ"
+    },
+    {
+      "type": "kana",
+      "value": "び"
+    }
+  ]
+}

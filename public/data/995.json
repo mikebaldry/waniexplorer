@@ -1,0 +1,43 @@
+{
+  "id": 995,
+  "type": "kanji",
+  "character": "原",
+  "primaryMeaning": "Original",
+  "otherMeanings": [
+    "Fundamental",
+    "Field"
+  ],
+  "primaryReading": "げん",
+  "readings": [
+    {
+      "reading": "げん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "はら",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "The <kanji>original</kanji> Japanese hero was <reading>Gen</reading>ji (げん), from \"The Tale of Genji.\"",
+  "meaningMnemonic": "The <radical>original</radical> radical and the <kanji>original</kanji> kanji are the same!\n\nThis kanji can also mean <kanji>field</kanji>, probably because that's what everything originally looked like before humans: just a bunch of fields.",
+  "vocabularyIds": [
+    3964,
+    3965,
+    3966,
+    4176,
+    4705,
+    5931,
+    6256,
+    6467,
+    6750,
+    7334,
+    8008,
+    9113
+  ],
+  "radicalIds": [
+    230
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%8E%9F"
+}

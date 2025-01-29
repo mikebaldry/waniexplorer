@@ -1,0 +1,61 @@
+{
+  "id": 3553,
+  "type": "vocabulary",
+  "characters": "三番目",
+  "primaryMeaning": "Third Thing",
+  "otherMeanings": [
+    "The Third"
+  ],
+  "primaryReading": "さんばんめ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 449,
+      "character": "三",
+      "readings": [
+        "さん",
+        "み"
+      ]
+    },
+    {
+      "id": 696,
+      "character": "番",
+      "readings": [
+        "ばん",
+        "つが",
+        "つがい"
+      ]
+    },
+    {
+      "id": 492,
+      "character": "目",
+      "readings": [
+        "め",
+        "もく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Remember 一番目? This is just like that, but with three, making it the <vocabulary>third thing</vocabulary> or simply <vocabulary>the third</vocabulary>.",
+  "readingMnemonic": "Use your knowledge of the reading for 一番目 to remember the reading for this word as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%89%E7%95%AA%E7%9B%AE",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "三",
+      "id": 449,
+      "reading": "さん"
+    },
+    {
+      "type": "kanji",
+      "value": "番",
+      "id": 696,
+      "reading": "ばん"
+    },
+    {
+      "type": "kanji",
+      "value": "目",
+      "id": 492,
+      "reading": "め"
+    }
+  ]
+}

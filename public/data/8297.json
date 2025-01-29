@@ -1,0 +1,43 @@
+{
+  "id": 8297,
+  "type": "vocabulary",
+  "characters": "洪水",
+  "primaryMeaning": "Flood",
+  "otherMeanings": [],
+  "primaryReading": "こうずい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2314,
+      "character": "洪",
+      "readings": [
+        "こう"
+      ]
+    },
+    {
+      "id": 479,
+      "character": "水",
+      "readings": [
+        "すい",
+        "みず"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>flood</kanji> of <kanji>water</kanji> still makes a <vocabulary>flood</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. But watch out because すい becomes ずい here.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B4%AA%E6%B0%B4",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "洪",
+      "id": 2314,
+      "reading": "こう"
+    },
+    {
+      "type": "kanji",
+      "value": "水",
+      "id": 479,
+      "reading": "ずい"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 7328,
+  "type": "vocabulary",
+  "characters": "征服",
+  "primaryMeaning": "Conquest",
+  "otherMeanings": [
+    "Subjugation"
+  ],
+  "primaryReading": "せいふく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2072,
+      "character": "征",
+      "readings": [
+        "せい"
+      ]
+    },
+    {
+      "id": 716,
+      "character": "服",
+      "readings": [
+        "ふく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "I will <kanji>subjugate</kanji> everyone to wear the <kanji>clothes</kanji> I want them to wear. They will wear my uniform, for they will be under my <vocabulary>subjugation</vocabulary>. I will <vocabulary>conquest</vocabulary> them!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BE%81%E6%9C%8D",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "征",
+      "id": 2072,
+      "reading": "せい"
+    },
+    {
+      "type": "kanji",
+      "value": "服",
+      "id": 716,
+      "reading": "ふく"
+    }
+  ]
+}

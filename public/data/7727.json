@@ -1,0 +1,64 @@
+{
+  "id": 7727,
+  "type": "vocabulary",
+  "characters": "無邪気",
+  "primaryMeaning": "Innocence",
+  "otherMeanings": [
+    "Simple Mindedness",
+    "Innocent",
+    "Simple Minded",
+    "Naive"
+  ],
+  "primaryReading": "むじゃき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1008,
+      "character": "無",
+      "readings": [
+        "む",
+        "ぶ",
+        "な"
+      ]
+    },
+    {
+      "id": 2086,
+      "character": "邪",
+      "readings": [
+        "じゃ",
+        "よこしま"
+      ]
+    },
+    {
+      "id": 548,
+      "character": "気",
+      "readings": [
+        "き",
+        "け"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If there is <kanji>nothing</kanji> <kanji>wicked</kanji> about your <kanji>spirit</kanji> at all, you are a going to be an <vocabulary>innocent</vocabulary> and <vocabulary>simple minded</vocabulary> person. ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%84%A1%E9%82%AA%E6%B0%97",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "無",
+      "id": 1008,
+      "reading": "む"
+    },
+    {
+      "type": "kanji",
+      "value": "邪",
+      "id": 2086,
+      "reading": "じゃ"
+    },
+    {
+      "type": "kanji",
+      "value": "気",
+      "id": 548,
+      "reading": "き"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 4561,
+  "type": "vocabulary",
+  "characters": "吸う",
+  "primaryMeaning": "To Smoke",
+  "otherMeanings": [
+    "To Suck",
+    "To Inhale"
+  ],
+  "primaryReading": "すう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1177,
+      "character": "吸",
+      "readings": [
+        "きゅう",
+        "す"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>suck</kanji> so the verb vocab version is <vocabulary>to suck</vocabulary>, but it's usually used to talk about what you do to cigarettes, so a better translation I think is <vocabulary>to smoke</vocabulary>.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: You smoke too much, and that gives you cancer. You decide to <reading>sue</reading> (す) the cigarette makers.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%90%B8%E3%81%86",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "吸",
+      "id": 1177,
+      "reading": "す"
+    },
+    {
+      "type": "kana",
+      "value": "う"
+    }
+  ]
+}

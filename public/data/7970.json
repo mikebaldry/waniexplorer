@@ -1,0 +1,49 @@
+{
+  "id": 7970,
+  "type": "vocabulary",
+  "characters": "啓発",
+  "primaryMeaning": "Enlightenment",
+  "otherMeanings": [
+    "Development",
+    "Illumination",
+    "Education",
+    "Inspiration"
+  ],
+  "primaryReading": "けいはつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2220,
+      "character": "啓",
+      "readings": [
+        "けい",
+        "さと",
+        "ひら"
+      ]
+    },
+    {
+      "id": 729,
+      "character": "発",
+      "readings": [
+        "はつ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you are <kanji>enlighten</kanji>ed enough you'll need to make your <kanji>departure</kanji> from this world into <vocabulary>enlightenment</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%95%93%E7%99%BA",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "啓",
+      "id": 2220,
+      "reading": "けい"
+    },
+    {
+      "type": "kanji",
+      "value": "発",
+      "id": 729,
+      "reading": "はつ"
+    }
+  ]
+}

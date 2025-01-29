@@ -1,0 +1,40 @@
+{
+  "id": 1600,
+  "type": "kanji",
+  "character": "為",
+  "primaryMeaning": "Sake",
+  "otherMeanings": [],
+  "primaryReading": "い",
+  "readings": [
+    {
+      "reading": "い",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ため",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "な",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "す",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "For the <kanji>sake</kanji> of convenience, companies will use <reading>ea</reading>gles (い) for delivery jobs in the future. Just put in an order, and it'll be at your doorstep in no time flat. Eagles are like, super fast at delivery.",
+  "meaningMnemonic": "The <radical>sake</radical> radical and the <kanji>sake</kanji> kanji are exactly the same! Sweet.",
+  "vocabularyIds": [
+    5907,
+    5908
+  ],
+  "radicalIds": [
+    355
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%82%BA"
+}

@@ -1,0 +1,34 @@
+{
+  "id": 1183,
+  "type": "kanji",
+  "character": "状",
+  "primaryMeaning": "Condition",
+  "otherMeanings": [],
+  "primaryReading": "じょう",
+  "readings": [
+    {
+      "reading": "じょう",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "What saved the dog's <kanji>condition</kanji> was none other than <reading>Joe</reading> (じょう), the local farmhand. He constantly keeps an eye on the dog's condition, including any dangerously sharp icicles that could descend on him.",
+  "meaningMnemonic": "See all those <radical>icicle</radical>s to the <radical>dog</radical>'s left? Good thing they all fell on his left, or he would've been in a terrible <kanji>condition</kanji>.",
+  "vocabularyIds": [
+    4569,
+    4570,
+    4591,
+    5054,
+    5473,
+    5658,
+    6044,
+    6290,
+    7986,
+    8314
+  ],
+  "radicalIds": [
+    8826,
+    47
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%8A%B6"
+}

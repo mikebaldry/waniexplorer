@@ -1,0 +1,51 @@
+{
+  "id": 5501,
+  "type": "vocabulary",
+  "characters": "美味しい",
+  "primaryMeaning": "Tasty",
+  "otherMeanings": [
+    "Delicious"
+  ],
+  "primaryReading": "おいしい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 732,
+      "character": "美",
+      "readings": [
+        "び",
+        "み",
+        "うつく"
+      ]
+    },
+    {
+      "id": 812,
+      "character": "味",
+      "readings": [
+        "み",
+        "あじ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Something with a <kanji>beauty</kanji> <kanji>taste</kanji> is something that is really <vocabulary>tasty</vocabulary> or <vocabulary>delicious</vocabulary>. Mmmm, yum!\n\nWhile 美味しい mostly describes tasty food, you may also occasionally see it being used for a sweet deal or situation that benefits you. ",
+  "readingMnemonic": "The reading for this makes no sense at all. You'll have to learn it straight up, that is, unless you know the word おいしい already, which many people do as it's used in every other sentence in every Japanese variety show. If you don't know this word already, just think of yourself eating something <vocabulary>delicious</vocabulary>. It's so delicious it makes you mad, I have no idea why. You yell at the chef: \"<reading>OI</reading> (おい). OI! WHY IS THIS SO DELICIOUS????\"",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%BE%8E%E5%91%B3%E3%81%97%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "美",
+      "id": 732,
+      "reading": null
+    },
+    {
+      "type": "kanji",
+      "value": "味",
+      "id": 812,
+      "reading": null
+    },
+    {
+      "type": "kana",
+      "value": "しい"
+    }
+  ]
+}

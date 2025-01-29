@@ -1,0 +1,44 @@
+{
+  "id": 7407,
+  "type": "vocabulary",
+  "characters": "信仰",
+  "primaryMeaning": "Religious Faith",
+  "otherMeanings": [],
+  "primaryReading": "しんこう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 940,
+      "character": "信",
+      "readings": [
+        "しん"
+      ]
+    },
+    {
+      "id": 2107,
+      "character": "仰",
+      "readings": [
+        "ぎょう",
+        "こう",
+        "あお"
+      ]
+    }
+  ],
+  "meaningMnemonic": "I <kanji>believe</kanji> and <kanji>look up to</kanji> a higher power, for I have <vocabulary>religious faith</vocabulary>.",
+  "readingMnemonic": "The reading for the 仰 portion is an exceptional one. Instead of ぎょう it's こう. Just remember, when it comes to religious faith, all you need to believe in is <reading>こう</reading>いち.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BF%A1%E4%BB%B0",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "信",
+      "id": 940,
+      "reading": "しん"
+    },
+    {
+      "type": "kanji",
+      "value": "仰",
+      "id": 2107,
+      "reading": "こう"
+    }
+  ]
+}

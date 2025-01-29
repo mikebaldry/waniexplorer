@@ -1,0 +1,35 @@
+{
+  "id": 4810,
+  "type": "vocabulary",
+  "characters": "属する",
+  "primaryMeaning": "To Belong To",
+  "otherMeanings": [
+    "To Fall Under"
+  ],
+  "primaryReading": "ぞくする",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1268,
+      "character": "属",
+      "readings": [
+        "ぞく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>belong</kanji> so the verb vocab version is <vocabulary>to belong to</vocabulary>.\n\n属する is a formal term for describing someone or something’s belonging to or being part of a group, category or classification.",
+  "readingMnemonic": "The reading is the one you learned with the kanji. This kanji is going <vocabulary>to belong to</vocabulary> you.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B1%9E%E3%81%99%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "属",
+      "id": 1268,
+      "reading": "ぞく"
+    },
+    {
+      "type": "kana",
+      "value": "する"
+    }
+  ]
+}

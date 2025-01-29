@@ -1,0 +1,33 @@
+{
+  "id": 538,
+  "type": "kanji",
+  "character": "申",
+  "primaryMeaning": "Say Humbly",
+  "otherMeanings": [],
+  "primaryReading": "もう",
+  "readings": [
+    {
+      "reading": "もう",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "しん",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "As you're saying all these humble things, you're also <reading>mow</reading>ing (もう) your neighbor's lawn. Your neighbors love you so much, because you're so humble, and you mow their lawn for them.",
+  "meaningMnemonic": "There’s a <radical>cross</radical> in your <radical>mouth</radical>, so the things you say are very pious. Everything you say, you <kanji>say humbly</kanji>.",
+  "vocabularyIds": [
+    2733,
+    2734,
+    5730,
+    9308
+  ],
+  "radicalIds": [
+    15,
+    16
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%94%B3"
+}

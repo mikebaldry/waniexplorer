@@ -1,0 +1,61 @@
+{
+  "id": 8079,
+  "type": "vocabulary",
+  "characters": "自叙伝",
+  "primaryMeaning": "Autobiography",
+  "otherMeanings": [],
+  "primaryReading": "じじょでん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 578,
+      "character": "自",
+      "readings": [
+        "じ",
+        "し",
+        "みずか"
+      ]
+    },
+    {
+      "id": 2248,
+      "character": "叙",
+      "readings": [
+        "じょ",
+        "つい",
+        "ついで"
+      ]
+    },
+    {
+      "id": 777,
+      "character": "伝",
+      "readings": [
+        "でん",
+        "つた",
+        "つて"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Tell</kanji> everyone how you <kanji>describe</kanji> your<kanji>self</kanji> in your <vocabulary>autobiography</vocabulary>. It's the only way they'll be able to understand the real you.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%87%AA%E5%8F%99%E4%BC%9D",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "自",
+      "id": 578,
+      "reading": "じ"
+    },
+    {
+      "type": "kanji",
+      "value": "叙",
+      "id": 2248,
+      "reading": "じょ"
+    },
+    {
+      "type": "kanji",
+      "value": "伝",
+      "id": 777,
+      "reading": "でん"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 1646,
+  "type": "kanji",
+  "character": "償",
+  "primaryMeaning": "Reparation",
+  "otherMeanings": [],
+  "primaryReading": "しょう",
+  "readings": [
+    {
+      "reading": "しょう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "つぐな",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "The leader who presented you with this <kanji>reparation</kanji> is the <reading>Shou</reading>gun (しょう) of Japan. He's trying to make up for all the threats he made to you and some of the things you saw (which he's now trying to cover up for).",
+  "meaningMnemonic": "The <radical>leader</radical> presents you with a <radical>prize</radical> as <kanji>reparation</kanji> for his past deeds. This leader wronged you in the past and wishes to make amends. Therefore the leader presents you with a reparation in the form of a glittering prize.",
+  "vocabularyIds": [
+    6055,
+    6056,
+    7932,
+    8147
+  ],
+  "radicalIds": [
+    75,
+    364
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%84%9F"
+}

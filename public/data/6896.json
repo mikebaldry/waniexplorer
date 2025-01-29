@@ -1,0 +1,30 @@
+{
+  "id": 6896,
+  "type": "vocabulary",
+  "characters": "裸",
+  "primaryMeaning": "Naked",
+  "otherMeanings": [],
+  "primaryReading": "はだか",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1924,
+      "character": "裸",
+      "readings": [
+        "ら",
+        "はだか"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "You are <vocabulary>naked</vocabulary> now. You used to wear a car, but you don't have it anymore (and you're not wearing it). You <reading>had a ca</reading>r (はだか), but now you don't have a car. That's what you'll explain when someone asks you why you're naked.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A3%B8",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "裸",
+      "id": 1924,
+      "reading": "はだか"
+    }
+  ]
+}

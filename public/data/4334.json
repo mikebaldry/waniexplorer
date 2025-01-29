@@ -1,0 +1,37 @@
+{
+  "id": 4334,
+  "type": "vocabulary",
+  "characters": "防ぐ",
+  "primaryMeaning": "To Defend Against",
+  "otherMeanings": [
+    "To Protect Against",
+    "To Prevent"
+  ],
+  "primaryReading": "ふせぐ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1117,
+      "character": "防",
+      "readings": [
+        "ぼう",
+        "ふせ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You're doing a <kanji>prevent</kanji>ion. When you prevent something, what are you really doing? You're trying <vocabulary>to defend against</vocabulary> something from happening. That's why this verb is a little weird and means <vocabulary>to defend</vocabulary> or <vocabulary>to protect against</vocabulary>. It can also be <vocabulary>to prevent</vocabulary>, too, but just make sure you're thinking of it more like you're defending something with your prevention.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: You want <vocabulary>to defend against</vocabulary> the enemy? You should probably put out that <reading>fuse</reading> (ふせ) attached to that giant bomb first then.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%98%B2%E3%81%90",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "防",
+      "id": 1117,
+      "reading": "ふせ"
+    },
+    {
+      "type": "kana",
+      "value": "ぐ"
+    }
+  ]
+}

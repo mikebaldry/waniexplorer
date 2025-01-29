@@ -1,0 +1,31 @@
+{
+  "id": 1912,
+  "type": "kanji",
+  "character": "塊",
+  "primaryMeaning": "Lump",
+  "otherMeanings": [],
+  "primaryReading": "かたまり",
+  "readings": [
+    {
+      "reading": "かたまり",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "かい",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Have you ever heard of the game \"Katamari Damacy?\" That game is about a little guy who rolls a ball around, turning it into a bigger and bigger <kanji>lump</kanji>. What do you think the <reading>Katamari</reading> (かたまり) part means? It means lump, of course.",
+  "meaningMnemonic": "A <radical>dirt</radical> <radical>demon</radical> is just a <kanji>lump</kanji>. Just like a dust bunny is just a clump of dust.",
+  "vocabularyIds": [
+    7145,
+    7146
+  ],
+  "radicalIds": [
+    17,
+    292
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%A1%8A"
+}

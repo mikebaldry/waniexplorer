@@ -1,0 +1,56 @@
+{
+  "id": 569,
+  "type": "kanji",
+  "character": "回",
+  "primaryMeaning": "Times",
+  "otherMeanings": [
+    "Revolve"
+  ],
+  "primaryReading": "かい",
+  "readings": [
+    {
+      "reading": "かい",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "まわ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "If you're having a hard time wrapping your head around the infinite number of <kanji>times</kanji> these mouths <kanji>revolve</kanji>, just picture yourself in a little <reading>kay</reading>ak (かい) going around and down through the mouths.",
+  "meaningMnemonic": "There's a <radical>mouth</radical> inside a <radical>mouth</radical>. But if you look even closer (not actually, but we're pretending), you can see another mouth inside that mouth... and another one inside of that one! It keeps going and going. Can you count the number of <kanji>times</kanji> there's a mouth inside a mouth? This kanji also means <kanji>revolve</kanji> too. Think of each \"time\" a thing happens, it loops back around and comes back to the beginning, revolving around again another time.",
+  "vocabularyIds": [
+    2749,
+    2750,
+    2751,
+    2752,
+    2753,
+    2786,
+    2871,
+    3176,
+    3260,
+    3438,
+    3464,
+    3468,
+    3544,
+    3945,
+    3946,
+    4848,
+    4916,
+    5133,
+    5152,
+    6361,
+    6391,
+    6484,
+    6562,
+    8371,
+    8453,
+    9037
+  ],
+  "radicalIds": [
+    16
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%9B%9E"
+}

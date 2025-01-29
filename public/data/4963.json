@@ -1,0 +1,44 @@
+{
+  "id": 4963,
+  "type": "vocabulary",
+  "characters": "鉛筆",
+  "primaryMeaning": "Pencil",
+  "otherMeanings": [],
+  "primaryReading": "えんぴつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1289,
+      "character": "鉛",
+      "readings": [
+        "えん",
+        "なまり"
+      ]
+    },
+    {
+      "id": 1288,
+      "character": "筆",
+      "readings": [
+        "ひつ",
+        "ふで"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Your <kanji>lead</kanji> <kanji>writing brush</kanji> has lead in it. What kind of writing instrument has lead in it? How about a <vocabulary>pencil</vocabulary>?",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%89%9B%E7%AD%86",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "鉛",
+      "id": 1289,
+      "reading": "えん"
+    },
+    {
+      "type": "kanji",
+      "value": "筆",
+      "id": 1288,
+      "reading": "ぴつ"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": 7693,
+  "type": "vocabulary",
+  "characters": "集まり",
+  "primaryMeaning": "Gathering",
+  "otherMeanings": [
+    "Meeting",
+    "Assembly",
+    "Party",
+    "Collection",
+    "Get Together"
+  ],
+  "primaryReading": "あつまり",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 754,
+      "character": "集",
+      "readings": [
+        "しゅう",
+        "あつ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This is the noun version of the kanji <kanji>gather</kanji>, so it means <vocabulary>gathering</vocabulary>.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You learned this reading already so you should be able to read it!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9B%86%E3%81%BE%E3%82%8A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "集",
+      "id": 754,
+      "reading": "あつ"
+    },
+    {
+      "type": "kana",
+      "value": "まり"
+    }
+  ]
+}

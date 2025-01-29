@@ -1,0 +1,49 @@
+{
+  "id": 8365,
+  "type": "vocabulary",
+  "characters": "果敢",
+  "primaryMeaning": "Resolute",
+  "otherMeanings": [
+    "Determined",
+    "Bold",
+    "Daring"
+  ],
+  "primaryReading": "かかん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1005,
+      "character": "果",
+      "readings": [
+        "か",
+        "くだ",
+        "は"
+      ]
+    },
+    {
+      "id": 2350,
+      "character": "敢",
+      "readings": [
+        "かん",
+        "あ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>daring</kanji> <kanji>fruit</kanji> is very <vocabulary>resolute</vocabulary> and <vocabulary>bold</vocabulary>! She's going to go out and be a fruit superhero or scientist or something. ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9E%9C%E6%95%A2",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "果",
+      "id": 1005,
+      "reading": "か"
+    },
+    {
+      "type": "kanji",
+      "value": "敢",
+      "id": 2350,
+      "reading": "かん"
+    }
+  ]
+}

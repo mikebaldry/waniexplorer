@@ -1,0 +1,35 @@
+{
+  "id": 1355,
+  "type": "kanji",
+  "character": "博",
+  "primaryMeaning": "Exhibition",
+  "otherMeanings": [
+    "Gambling"
+  ],
+  "primaryReading": "はく",
+  "readings": [
+    {
+      "reading": "はく",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ばく",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "You’re not very good at <kanji>gambling</kanji>, but you are pretty good at cheating. You <reading>hack</reading> (はく) the specialty <kanji>exhibition</kanji> gambling machines to pay out lots of cash just for you. You hack quickly and quietly, so luckily no one notices that you’ve hacked the system.",
+  "meaningMnemonic": "You wear a great big <radical>cross</radical> with a <radical>drop</radical> on it, and head to a <radical>specialty</radical> <kanji>exhibition</kanji> for <kanji>gambling</kanji>. The big cross and drop on your chest is your badge for being admitted into the exhibition. Everyone at the specialty exhibition has a cross and drop, and everyone is gambling.",
+  "vocabularyIds": [
+    5137,
+    5138,
+    5139
+  ],
+  "radicalIds": [
+    15,
+    3,
+    317
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%8D%9A"
+}

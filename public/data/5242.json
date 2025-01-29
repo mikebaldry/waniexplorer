@@ -1,0 +1,51 @@
+{
+  "id": 5242,
+  "type": "vocabulary",
+  "characters": "見極める",
+  "primaryMeaning": "To Get To The Bottom Of",
+  "otherMeanings": [
+    "To Identify Something"
+  ],
+  "primaryReading": "みきわめる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 558,
+      "character": "見",
+      "readings": [
+        "み",
+        "けん"
+      ]
+    },
+    {
+      "id": 1340,
+      "character": "極",
+      "readings": [
+        "きょく",
+        "ごく",
+        "きわ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "極める is \"to carry to extremes.\" If you take the action of <kanji>see</kanji>ing something to the extremes, you're going <vocabulary>to get to the bottom of</vocabulary> whatever it is. You'll be able <vocabulary>to identify something</vocabulary>, like the truth.\n\n見極める primarily involves the careful examination and discernment of the underlying aspects or truth of a matter. It emphasizes the thoroughness and effort required to make well-informed decisions or judgments, particularly when the situation is complex or difficult to understand.",
+  "readingMnemonic": "The readings come from the words 見る and 極める put together. Get to the bottom of this word and learn it.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A6%8B%E6%A5%B5%E3%82%81%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "見",
+      "id": 558,
+      "reading": "み"
+    },
+    {
+      "type": "kanji",
+      "value": "極",
+      "id": 1340,
+      "reading": "きわ"
+    },
+    {
+      "type": "kana",
+      "value": "める"
+    }
+  ]
+}

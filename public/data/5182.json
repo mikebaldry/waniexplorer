@@ -1,0 +1,32 @@
+{
+  "id": 5182,
+  "type": "vocabulary",
+  "characters": "程",
+  "primaryMeaning": "Extent",
+  "otherMeanings": [
+    "An Extent"
+  ],
+  "primaryReading": "ほど",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1369,
+      "character": "程",
+      "readings": [
+        "てい",
+        "ほど"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.\n\nNote that 程 is a word that works in conjunction with other words or phrases to express the extent, degree, or amount of a particular action or event. In less formal settings, you’ll also encounter this written in kana.",
+  "readingMnemonic": "You'll remember this kanji to the <vocabulary>extent</vocabulary> that you study it. If you study it like <reading>Hodo</reading>r (ほど) would study it, you won't learn it at all. You would only be able to say \"hodor, hodor,\" over and over again, which isn't helpful at all.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A8%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "程",
+      "id": 1369,
+      "reading": "ほど"
+    }
+  ]
+}

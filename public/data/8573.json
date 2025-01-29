@@ -1,0 +1,44 @@
+{
+  "id": 8573,
+  "type": "vocabulary",
+  "characters": "胆石",
+  "primaryMeaning": "Gallstones",
+  "otherMeanings": [],
+  "primaryReading": "たんせき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2425,
+      "character": "胆",
+      "readings": [
+        "たん",
+        "きも"
+      ]
+    },
+    {
+      "id": 493,
+      "character": "石",
+      "readings": [
+        "せき",
+        "いし"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Stone</kanji>s that form in your <kanji>guts</kanji> are <vocabulary>gallstones</vocabulary>. Sometimes you have to get them surgically taken out. Scary!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%83%86%E7%9F%B3",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "胆",
+      "id": 2425,
+      "reading": "たん"
+    },
+    {
+      "type": "kanji",
+      "value": "石",
+      "id": 493,
+      "reading": "せき"
+    }
+  ]
+}

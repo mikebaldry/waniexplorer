@@ -1,0 +1,31 @@
+{
+  "id": 6829,
+  "type": "vocabulary",
+  "characters": "姫",
+  "primaryMeaning": "Princess",
+  "otherMeanings": [
+    "Noble Girl"
+  ],
+  "primaryReading": "ひめ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1899,
+      "character": "姫",
+      "readings": [
+        "ひめ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well. Can also be used to refer to a <vocabulary>noble girl</vocabulary> as well, as in a girl of the noble family.",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A7%AB",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "姫",
+      "id": 1899,
+      "reading": "ひめ"
+    }
+  ]
+}

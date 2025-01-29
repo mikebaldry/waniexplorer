@@ -1,0 +1,37 @@
+{
+  "id": 8888,
+  "type": "vocabulary",
+  "characters": "羨む",
+  "primaryMeaning": "To Envy",
+  "otherMeanings": [
+    "To Be Envious Of",
+    "To Be Jealous Of"
+  ],
+  "primaryReading": "うらやむ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 8880,
+      "character": "羨",
+      "readings": [
+        "せん",
+        "うらや"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>envy</kanji> so the verb version is <vocabulary>to envy</vocabulary> someone.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You haven't learned this reading yet, so here's a mnemonic to help you:\n\nYou're really starting <vocabulary>to envy</vocabulary> those <reading>ura</reading>nium <reading>Ya</reading>nkees (うらや). That's the new Yankees team hopped up on uranium that were created in a lab. Even though they're gross and hulk-ish, they're really good at baseball, so you're jealous of them.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%BE%A8%E3%82%80",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "羨",
+      "id": 8880,
+      "reading": "うらや"
+    },
+    {
+      "type": "kana",
+      "value": "む"
+    }
+  ]
+}

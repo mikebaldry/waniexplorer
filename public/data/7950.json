@@ -1,0 +1,47 @@
+{
+  "id": 7950,
+  "type": "vocabulary",
+  "characters": "陳腐",
+  "primaryMeaning": "Cliched",
+  "otherMeanings": [
+    "Stale",
+    "Hackneyed"
+  ],
+  "primaryReading": "ちんぷ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2173,
+      "character": "陳",
+      "readings": [
+        "ちん",
+        "ひ"
+      ]
+    },
+    {
+      "id": 1578,
+      "character": "腐",
+      "readings": [
+        "ふ",
+        "くさ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you keep <kanji>exhibit</kanji>ing the same actions and emotions and phrases eventually they're going to <kanji>rot</kanji> and sound <vocabulary>cliched</vocabulary> to everyone. You have to mix things up once in a while. You don't want to get <vocabulary>stale</vocabulary>, do you?!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Just watch out for ふ becoming ぷ.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%99%B3%E8%85%90",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "陳",
+      "id": 2173,
+      "reading": "ちん"
+    },
+    {
+      "type": "kanji",
+      "value": "腐",
+      "id": 1578,
+      "reading": "ぷ"
+    }
+  ]
+}

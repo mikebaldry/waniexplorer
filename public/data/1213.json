@@ -1,0 +1,32 @@
+{
+  "id": 1213,
+  "type": "kanji",
+  "character": "呼",
+  "primaryMeaning": "Call",
+  "otherMeanings": [],
+  "primaryReading": "よ",
+  "readings": [
+    {
+      "reading": "よ",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "こ",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "But before you <kanji>call</kanji> for peace, you must first placate the masses. To do so, you astound them with your <reading>yo</reading>-yo (よ) skills. Once they are so entranced by how talented you are with a yo-yo, you easily convince them to make peace.",
+  "meaningMnemonic": "A <radical>mouth</radical> that wants <radical>peace</radical> can <kanji>call</kanji> for it. If you don’t have a mouth, you can’t call for peace. So use your mouth and call for peace when you can. Peace is great.",
+  "vocabularyIds": [
+    4648,
+    4878,
+    6262
+  ],
+  "radicalIds": [
+    16,
+    279
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%91%BC"
+}

@@ -1,0 +1,34 @@
+{
+  "id": 4265,
+  "type": "vocabulary",
+  "characters": "厚い",
+  "primaryMeaning": "Thick",
+  "otherMeanings": [],
+  "primaryReading": "あつい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1112,
+      "character": "厚",
+      "readings": [
+        "あつ",
+        "こう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>thick</kanji>? Also <vocabulary>thick</vocabulary>.\n\nThis is a relatively formal word that is generally used in writing.",
+  "readingMnemonic": "The reading is the same as what you learned with the kanji. No <vocabulary>thick</vocabulary> books needed to understand this reading, yeah?",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8E%9A%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "厚",
+      "id": 1112,
+      "reading": "あつ"
+    },
+    {
+      "type": "kana",
+      "value": "い"
+    }
+  ]
+}

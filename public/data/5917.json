@@ -1,0 +1,37 @@
+{
+  "id": 5917,
+  "type": "vocabulary",
+  "characters": "酔う",
+  "primaryMeaning": "To Be Drunk",
+  "otherMeanings": [
+    "To Be Seasick",
+    "To Be Carsick"
+  ],
+  "primaryReading": "よう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1603,
+      "character": "酔",
+      "readings": [
+        "すい",
+        "よ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>drunk</kanji> so the verb vocab version is <vocabulary>to be drunk</vocabulary>.\n\nThis drunk feeling also happens to some people in boats and cars. But we call that <vocabulary>to be seasick</vocabulary> or <vocabulary>to be carsick</vocabulary>. You aren't actually drunk, but you feel like you are (and you're probably gonna puke, yuck!).",
+  "readingMnemonic": "I'm not drunk, <reading>yo</reading> (よ). YO. I'm not drunk, yo. YO. Yo, I'm not drunk. Yo.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%85%94%E3%81%86",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "酔",
+      "id": 1603,
+      "reading": "よ"
+    },
+    {
+      "type": "kana",
+      "value": "う"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 2340,
+  "type": "kanji",
+  "character": "峡",
+  "primaryMeaning": "Ravine",
+  "otherMeanings": [],
+  "primaryReading": "きょう",
+  "readings": [
+    {
+      "reading": "きょう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "こう",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "はざま",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "The <kanji>ravine</kanji> is still in <reading>きょう</reading>と though, because if you went outside the city your marriage wouldn't be legal. So you found a secluded, local ravine.",
+  "meaningMnemonic": "To the <radical>mountain</radical>s you took your <radical>horned</radical> <radical>husband</radical> for you two to get married. (Society wouldn't accept a horned husband!) To hide even more from the prying eyes of society, you take your horned husband into a <kanji>ravine</kanji>.",
+  "vocabularyIds": [
+    8355,
+    8356
+  ],
+  "radicalIds": [
+    20,
+    8767,
+    146
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%B3%A1"
+}

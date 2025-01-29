@@ -1,0 +1,39 @@
+{
+  "id": 845,
+  "type": "kanji",
+  "character": "登",
+  "primaryMeaning": "Climb",
+  "otherMeanings": [],
+  "primaryReading": "とう",
+  "readings": [
+    {
+      "reading": "とう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "と",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "のぼ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You <kanji>climb</kanji> and climb and climb until you finally reach... <reading>とう</reading>きょう! At the top of this mountain you've been climbing you can see all of とうきょう. It's beautiful! It's breathtaking! All your climbing makes this view of とうきょう even more worthwhile!",
+  "meaningMnemonic": "You're in a <radical>tent</radical> eating <radical>beans</radical> because you're trying to <kanji>climb</kanji> a mountain! When you climb, you sleep in a tent and eat only beans (the ultimate climbing food).",
+  "vocabularyIds": [
+    3391,
+    3392,
+    3652,
+    5207,
+    5380
+  ],
+  "radicalIds": [
+    168,
+    181
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%99%BB"
+}

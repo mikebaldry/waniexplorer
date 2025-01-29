@@ -1,0 +1,37 @@
+{
+  "id": 3684,
+  "type": "vocabulary",
+  "characters": "折る",
+  "primaryMeaning": "To Fold Something",
+  "otherMeanings": [
+    "To Break Something"
+  ],
+  "primaryReading": "おる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 907,
+      "character": "折",
+      "readings": [
+        "せつ",
+        "お",
+        "おり"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>fold</kanji> or <kanji>break</kanji>, so the vocab verb version is <vocabulary>to fold something</vocabulary> or <vocabulary>to break something</vocabulary>",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: You <vocabulary>fold</vocabulary> your <reading>o</reading>bi (お) really carefully and put it away with the rest of your kimono.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8A%98%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "折",
+      "id": 907,
+      "reading": "お"
+    },
+    {
+      "type": "kana",
+      "value": "る"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1476,
+  "type": "kanji",
+  "character": "徳",
+  "primaryMeaning": "Virtue",
+  "otherMeanings": [],
+  "primaryReading": "とく",
+  "readings": [
+    {
+      "reading": "とく",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "As you try to decide if you want to live a life of <kanji>virtue</kanji> the ghost of <reading>Toku</reading>gawa (とく) Ieyasu appears before you. He points to your heart and the cross, then points to his own and you see a glowing cross in his own.",
+  "meaningMnemonic": "You're <radical>loiter</radical>ing, staring down at the <radical>cross</radical> that got caught in the <radical>net</radical> of your <radical>heart</radical>, because it's trying to teach you to act with <kanji>virtue</kanji>.",
+  "vocabularyIds": [
+    5494,
+    5495,
+    5496
+  ],
+  "radicalIds": [
+    99,
+    15,
+    163,
+    65
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%BE%B3"
+}

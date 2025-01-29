@@ -1,0 +1,46 @@
+{
+  "id": 8244,
+  "type": "vocabulary",
+  "characters": "鎮圧",
+  "primaryMeaning": "Suppression",
+  "otherMeanings": [
+    "Subjugation"
+  ],
+  "primaryReading": "ちんあつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2261,
+      "character": "鎮",
+      "readings": [
+        "ちん",
+        "おさえ",
+        "しず"
+      ]
+    },
+    {
+      "id": 1106,
+      "character": "圧",
+      "readings": [
+        "あつ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Tranquilize</kanji> <kanji>pressure</kanji> with medication that helps with its <vocabulary>suppression</vocabulary>. Then you won't have to feel it anymore.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%8E%AE%E5%9C%A7",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "鎮",
+      "id": 2261,
+      "reading": "ちん"
+    },
+    {
+      "type": "kanji",
+      "value": "圧",
+      "id": 1106,
+      "reading": "あつ"
+    }
+  ]
+}

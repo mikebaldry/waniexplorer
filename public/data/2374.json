@@ -1,0 +1,30 @@
+{
+  "id": 2374,
+  "type": "kanji",
+  "character": "肖",
+  "primaryMeaning": "Resemblance",
+  "otherMeanings": [],
+  "primaryReading": "しょう",
+  "readings": [
+    {
+      "reading": "しょう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "あやか",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "The first person to see this <kanji>resemblance</kanji> was the <reading>Shou</reading>gun (しょう). That's why he decided to put a triceratops head with the moon behind it on his mon (family crest). Now he's known as the full moon dinosaur shogun, and he's very famous.",
+  "meaningMnemonic": "You see a <radical>triceratops</radical> standing in front of a full <radical>moon</radical> and you can't help but see a really strong <kanji>resemblance</kanji>. The triceratops has that round frill thing behind its horns and it looks just like the round full moon. Who knew that a triceratops would resemble the moon!",
+  "vocabularyIds": [
+    8490
+  ],
+  "radicalIds": [
+    8765,
+    43
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%82%96"
+}

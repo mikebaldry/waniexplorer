@@ -1,0 +1,67 @@
+{
+  "id": 608,
+  "type": "kanji",
+  "character": "地",
+  "primaryMeaning": "Earth",
+  "otherMeanings": [
+    "Ground",
+    "Land"
+  ],
+  "primaryReading": "ち",
+  "readings": [
+    {
+      "reading": "ち",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "じ",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "The only way to keep this dirt alligator from dragging you under the <kanji>earth</kanji> and eating you is to feed it <reading>chee</reading>se (ち). That way it won't lead you to a horrific death under the earth by dragging you under and spinning you around until you eat dirt (literally).",
+  "meaningMnemonic": "A <radical>dirt</radical> <radical>alligator</radical> lives in the <kanji>earth</kanji>, not the water. They can swim through the earth itself! Which is pretty scary.\n\nYou can think of this word as <kanji>ground</kanji> too, because that's kind of what earth is made of.",
+  "vocabularyIds": [
+    2847,
+    2848,
+    2849,
+    2850,
+    2974,
+    3197,
+    3201,
+    3742,
+    3874,
+    4341,
+    4510,
+    4521,
+    4560,
+    5377,
+    5428,
+    5461,
+    5489,
+    5685,
+    5776,
+    5805,
+    5912,
+    6032,
+    6736,
+    6921,
+    7459,
+    7504,
+    7566,
+    7569,
+    7595,
+    7732,
+    7738,
+    7819,
+    8310,
+    8473,
+    8669
+  ],
+  "radicalIds": [
+    17,
+    77
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%9C%B0"
+}

@@ -1,0 +1,32 @@
+{
+  "id": 1937,
+  "type": "kanji",
+  "character": "溝",
+  "primaryMeaning": "Gutter",
+  "otherMeanings": [],
+  "primaryReading": "こう",
+  "readings": [
+    {
+      "reading": "こう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "みぞ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "In the <kanji>gutter</kanji> is a lifeguard, so Emperor <reading>こう</reading>いち decides to survey the damage.",
+  "meaningMnemonic": "<radical>Tsunami</radical> vs <radical>lifeguard</radical>. Who will win? After the water drains away, we find the lifeguard in the <kanji>gutter</kanji>.",
+  "vocabularyIds": [
+    6926,
+    6927,
+    6928
+  ],
+  "radicalIds": [
+    103,
+    303
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%BA%9D"
+}

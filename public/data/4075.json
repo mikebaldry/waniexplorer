@@ -1,0 +1,44 @@
+{
+  "id": 4075,
+  "type": "vocabulary",
+  "characters": "文句",
+  "primaryMeaning": "Complaint",
+  "otherMeanings": [],
+  "primaryReading": "もんく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 475,
+      "character": "文",
+      "readings": [
+        "ぶん",
+        "もん",
+        "ふみ"
+      ]
+    },
+    {
+      "id": 1053,
+      "character": "句",
+      "readings": [
+        "く"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>paragraph</kanji> in <kanji>writing</kanji> is what you send someone when you want to submit a <vocabulary>complaint</vocabulary>. You want to make sure these are in writing, though, otherwise you don't have proof of your complaint. Also, don't make it longer than a paragraph, because that's too long and nobody cares about how you think the shop staff mistreated your dog Fluffy.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%96%87%E5%8F%A5",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "文",
+      "id": 475,
+      "reading": "もん"
+    },
+    {
+      "type": "kanji",
+      "value": "句",
+      "id": 1053,
+      "reading": "く"
+    }
+  ]
+}

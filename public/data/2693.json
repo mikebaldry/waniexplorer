@@ -1,0 +1,30 @@
+{
+  "id": 2693,
+  "type": "vocabulary",
+  "characters": "町",
+  "primaryMeaning": "Town",
+  "otherMeanings": [],
+  "primaryReading": "まち",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 556,
+      "character": "町",
+      "readings": [
+        "ちょう",
+        "まち"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "Since this word is made up of a single kanji, it should use the kun'yomi reading. When learning the kanji, you didn't learn that reading, so here's a mnemonic to help you with this word: \n\nYou walk into this town. You hate it (because it's vocab, and who doesn't hate vocab?). So what do you do? You pull out a <reading>match</reading> (まち) and burn this town to the ground. Whoa, you some kind of psycho?",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%94%BA",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "町",
+      "id": 556,
+      "reading": "まち"
+    }
+  ]
+}

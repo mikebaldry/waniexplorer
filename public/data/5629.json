@@ -1,0 +1,36 @@
+{
+  "id": 5629,
+  "type": "vocabulary",
+  "characters": "垂らす",
+  "primaryMeaning": "To Dangle Something",
+  "otherMeanings": [
+    "To Dangle"
+  ],
+  "primaryReading": "たらす",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1519,
+      "character": "垂",
+      "readings": [
+        "すい",
+        "た"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>dangle</kanji> so the verb vocab version is <vocabulary>to dangle</vocabulary> or <vocabulary>to dangle something</vocabulary>. You're doing the dangling.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nWhat are you trying <vocabulary>to dangle</vocabulary>? You're dangling a <reading>ta</reading>co (た) in front of a hungry person. He just wants the taco, and you keep dangling it like that.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%9E%82%E3%82%89%E3%81%99",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "垂",
+      "id": 1519,
+      "reading": "た"
+    },
+    {
+      "type": "kana",
+      "value": "らす"
+    }
+  ]
+}

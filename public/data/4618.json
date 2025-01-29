@@ -1,0 +1,45 @@
+{
+  "id": 4618,
+  "type": "vocabulary",
+  "characters": "裁判",
+  "primaryMeaning": "Trial",
+  "otherMeanings": [],
+  "primaryReading": "さいばん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1194,
+      "character": "裁",
+      "readings": [
+        "さい",
+        "さば",
+        "た"
+      ]
+    },
+    {
+      "id": 1127,
+      "character": "判",
+      "readings": [
+        "はん",
+        "ばん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You're going to get <kanji>judge</kanji>d times two. <kanji>Judge</kanji> and <kanji>judge</kanji> again. Once by the judge and another time by the jury. This is a whole <vocabulary>trial</vocabulary> here.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. You hopefully learned this on'yomi for 判 with the word 評判, but here's a mnemonic to help you just in case:\n\nAfter your <reading>ban</reading> (ばん) on the WaniKani forums, you now face <vocabulary>trial</vocabulary> before none other than Judge Koichi. He's going to decide whether your ban will be lifted or not. Good luck, there's a lot at stake.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A3%81%E5%88%A4",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "裁",
+      "id": 1194,
+      "reading": "さい"
+    },
+    {
+      "type": "kanji",
+      "value": "判",
+      "id": 1127,
+      "reading": "ばん"
+    }
+  ]
+}

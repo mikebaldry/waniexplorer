@@ -1,0 +1,92 @@
+{
+  "id": 9181,
+  "object": "kana_vocabulary",
+  "url": "https://api.wanikani.com/v2/subjects/9181",
+  "data_updated_at": "2024-10-15T22:19:11.489556Z",
+  "data": {
+    "created_at": "2023-04-24T21:41:08.633403Z",
+    "level": 3,
+    "slug": "リンゴ",
+    "hidden_at": null,
+    "document_url": "https://www.wanikani.com/vocabulary/%E3%83%AA%E3%83%B3%E3%82%B4",
+    "characters": "リンゴ",
+    "meanings": [
+      {
+        "meaning": "Apple",
+        "primary": true,
+        "accepted_answer": true
+      }
+    ],
+    "auxiliary_meanings": [],
+    "parts_of_speech": [
+      "noun"
+    ],
+    "meaning_mnemonic": "<reading>Ringo</reading> (リンゴ) just ate your <vocabulary>apple</vocabulary>! You were about to take a bite, and he grabbed it. What is Ringo doing snatching apples? Surely he can afford his own.\n\nDid you know that Ringo Starr once appeared in a Japanese TV commercial for <vocabulary>apple</vocabulary> juice? That might help you remember this word, too!\n\nリンゴ is also commonly written in hiragana, and even in kanji, but you’ll probably see it in katakana the most.",
+    "context_sentences": [
+      {
+        "en": "Two apple juices, please.",
+        "ja": "リンゴジュース、二つ下さい。"
+      },
+      {
+        "en": "Do you want an apple or a banana?",
+        "ja": "リンゴかバナナ、いる？"
+      },
+      {
+        "en": "This apple tastes bad!",
+        "ja": "このリンゴ、まずい！"
+      }
+    ],
+    "pronunciation_audios": [
+      {
+        "url": "https://files.wanikani.com/kijeg1ktng42vcacybsxdofchztu",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44814,
+          "pronunciation": "リンゴ",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/noeddnpxot4oxzmfvg0qz4mu2xoq",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44814,
+          "pronunciation": "リンゴ",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      },
+      {
+        "url": "https://files.wanikani.com/n7e328tkdtfznti4wlfqf89p8x7i",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44746,
+          "pronunciation": "リンゴ",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/4xf55v7jycg4jrdhv7xx807nt5l5",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44746,
+          "pronunciation": "リンゴ",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      }
+    ],
+    "lesson_position": 59,
+    "spaced_repetition_system_id": 1
+  }
+}

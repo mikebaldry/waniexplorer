@@ -1,0 +1,37 @@
+{
+  "id": 3468,
+  "type": "vocabulary",
+  "characters": "回す",
+  "primaryMeaning": "To Turn Something",
+  "otherMeanings": [
+    "To Rotate Something",
+    "To Spin Something"
+  ],
+  "primaryReading": "まわす",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 569,
+      "character": "回",
+      "readings": [
+        "かい",
+        "まわ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You've probably seen the word 回る, which means \"to revolve.\" This word is similar, except for you're doing the turning/rotating action on something else. You can simply say <vocabulary>to turn something</vocabulary> or <vocabulary>to rotate something</vocabulary> when answering this question, but be sure to think of yourself actually turning/rotating something. Remember this by using the す on the end. You've taken your friend <reading>Sue</reading> and put her on a stick. You're rotating her over a fire on a spit because you're a sick cannibal.",
+  "readingMnemonic": "The reading is the same as the word 回る (まわ). So long as you know that level 5 word, you'll be able to read this one as well. Use both of these words together to remember their readings.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%9B%9E%E3%81%99",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "回",
+      "id": 569,
+      "reading": "まわ"
+    },
+    {
+      "type": "kana",
+      "value": "す"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": 1533,
+  "type": "kanji",
+  "character": "砂",
+  "primaryMeaning": "Sand",
+  "otherMeanings": [],
+  "primaryReading": "さ",
+  "readings": [
+    {
+      "reading": "さ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "しゃ",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "すな",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "What’s in your hand? A few grains of <reading>sa</reading>nd (さ)! <kanji>Sand</kanji>, sand, sand!",
+  "meaningMnemonic": "If you grind a <radical>stone</radical> down to more than just a <radical>few</radical> pieces, it will become <kanji>sand</kanji>. Stones that get broken up enough will become sand, and you pick up a few grains in your hand.",
+  "vocabularyIds": [
+    5666,
+    5667,
+    5668,
+    6807,
+    9127,
+    9128
+  ],
+  "radicalIds": [
+    54,
+    198
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%A0%82"
+}

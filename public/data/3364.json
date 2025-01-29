@@ -1,0 +1,34 @@
+{
+  "id": 3364,
+  "type": "vocabulary",
+  "characters": "深い",
+  "primaryMeaning": "Deep",
+  "otherMeanings": [],
+  "primaryReading": "ふかい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 831,
+      "character": "深",
+      "readings": [
+        "しん",
+        "ふか"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>deep</kanji>? It's also <vocabulary>deep</vocabulary>.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. Because the reading sounds just like a dirty word, and there may be innocent children about, I'll let you come up with your own mnemonic for this one. Maybe someone pushes you into a deep hole that will surely kill you so you yell something out as you fall down it?",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B7%B1%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "深",
+      "id": 831,
+      "reading": "ふか"
+    },
+    {
+      "type": "kana",
+      "value": "い"
+    }
+  ]
+}

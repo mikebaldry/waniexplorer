@@ -1,0 +1,46 @@
+{
+  "id": 571,
+  "type": "kanji",
+  "character": "当",
+  "primaryMeaning": "Correct",
+  "otherMeanings": [
+    "Right",
+    "Success"
+  ],
+  "primaryReading": "とう",
+  "readings": [
+    {
+      "reading": "とう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "あ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "When we need to remember the reading とう, we use the Japanese city Tokyo. The last question in the game show match is the following: \"What is the capital of Japan.\" The triceratops and the wolverine scream the <kanji>correct</kanji> answer at the same time: <reading>とう</reading>きょう!",
+  "meaningMnemonic": "There's a <radical>triceratops</radical> and a <radical>wolverine</radical>. What are they doing together? You'd think they'd fight, but they took their battle to another venue... they're competing in a game show! One of them answers a question, and the host says, \"<kanji>Success</kanji>! You're <kanji>correct</kanji>!\"",
+  "vocabularyIds": [
+    2756,
+    2757,
+    3426,
+    3465,
+    3609,
+    3835,
+    4669,
+    4876,
+    4877,
+    5378,
+    6969,
+    7623,
+    7677,
+    8236
+  ],
+  "radicalIds": [
+    8765,
+    105
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%BD%93"
+}

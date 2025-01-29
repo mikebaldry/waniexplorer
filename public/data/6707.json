@@ -1,0 +1,33 @@
+{
+  "id": 6707,
+  "type": "vocabulary",
+  "characters": "筒",
+  "primaryMeaning": "Pipe",
+  "otherMeanings": [
+    "Cylinder",
+    "Tube"
+  ],
+  "primaryReading": "つつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1854,
+      "character": "筒",
+      "readings": [
+        "とう",
+        "つつ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well. You'll see this used to mean <vocabulary>pipe</vocabulary> more often than <vocabulary>cylinder</vocabulary>, though.",
+  "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You did not learn this reading, so here's a mnemonic to help you to remember: When it comes to <vocabulary>pipe</vocabulary>s, you always want to have two sets of two of them, just in case. So, that's a <reading>two two</reading> (つつ) set of pipes, lined up next to each other for backup.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%AD%92",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "筒",
+      "id": 1854,
+      "reading": "つつ"
+    }
+  ]
+}

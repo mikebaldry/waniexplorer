@@ -1,0 +1,45 @@
+{
+  "id": 7979,
+  "type": "vocabulary",
+  "characters": "統帥",
+  "primaryMeaning": "Supreme Command",
+  "otherMeanings": [
+    "High Command"
+  ],
+  "primaryReading": "とうすい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1170,
+      "character": "統",
+      "readings": [
+        "とう",
+        "す"
+      ]
+    },
+    {
+      "id": 2219,
+      "character": "帥",
+      "readings": [
+        "すい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>commander</kanji> that <kanji>unite</kanji>s and <kanji>rule</kanji>s the world is one with <vocabulary>supreme command</vocabulary>. He's better than all the other commanders who couldn't bring everyone together and now he rules over everyone.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B5%B1%E5%B8%A5",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "統",
+      "id": 1170,
+      "reading": "とう"
+    },
+    {
+      "type": "kanji",
+      "value": "帥",
+      "id": 2219,
+      "reading": "すい"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 1549,
+  "type": "kanji",
+  "character": "丼",
+  "primaryMeaning": "Rice Bowl",
+  "otherMeanings": [],
+  "primaryReading": "どん",
+  "readings": [
+    {
+      "reading": "どん",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "どんぶり",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Just then, the <reading>don</reading> (どん) of your local mafia shows up, steals your <kanji>rice bowl</kanji>, and shoves you into the well. You’d gotten on the don’s bad side, so he came to teach you a lesson. The don steals your rice bowl and shoves you into the well.",
+  "meaningMnemonic": "Into a <radical>well</radical>, a <radical>drop</radical> of rice falls from your <kanji>rice bowl</kanji>. You were eating out of your rice bowl on the side of a well, and some rice fell out of your rice bowl and this drop of rice proceeded to fall all the way down.",
+  "vocabularyIds": [
+    5754,
+    5755,
+    5756,
+    5938
+  ],
+  "radicalIds": [
+    246,
+    3
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E4%B8%BC"
+}

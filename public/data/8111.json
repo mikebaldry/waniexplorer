@@ -1,0 +1,38 @@
+{
+  "id": 8111,
+  "type": "vocabulary",
+  "characters": "殊に",
+  "primaryMeaning": "Especially",
+  "otherMeanings": [
+    "Particularly",
+    "Additionally",
+    "Unusually"
+  ],
+  "primaryReading": "ことに",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2178,
+      "character": "殊",
+      "readings": [
+        "しゅ",
+        "こと"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "This is the kanji followed by the particle に, so it uses the kun'yomi reading like a kanji does if it's alone. You haven't learned this reading yet, so here's a mnemonic to help you:\n\nWhat do you wear when it's <vocabulary>especially</vocabulary> cold out? Your favorite <reading>coat</reading> (こと). You only wear it when it's <vocabulary>unusually</vocabulary> cold though, never any other time.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%AE%8A%E3%81%AB",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "殊",
+      "id": 2178,
+      "reading": "こと"
+    },
+    {
+      "type": "kana",
+      "value": "に"
+    }
+  ]
+}

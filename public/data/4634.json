@@ -1,0 +1,46 @@
+{
+  "id": 4634,
+  "type": "vocabulary",
+  "characters": "優先",
+  "primaryMeaning": "Priority",
+  "otherMeanings": [],
+  "primaryReading": "ゆうせん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1206,
+      "character": "優",
+      "readings": [
+        "ゆう",
+        "やさ",
+        "すぐ"
+      ]
+    },
+    {
+      "id": 543,
+      "character": "先",
+      "readings": [
+        "せん",
+        "さき",
+        "ま"
+      ]
+    }
+  ],
+  "meaningMnemonic": "It was <kanji>superior</kanji> <kanji>previous</kanji>ly, so we need to go back there. That, amongst all the other things, is our highest <vocabulary>priority</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%84%AA%E5%85%88",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "優",
+      "id": 1206,
+      "reading": "ゆう"
+    },
+    {
+      "type": "kanji",
+      "value": "先",
+      "id": 543,
+      "reading": "せん"
+    }
+  ]
+}

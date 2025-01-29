@@ -1,0 +1,32 @@
+{
+  "id": 699,
+  "type": "kanji",
+  "character": "買",
+  "primaryMeaning": "Buy",
+  "otherMeanings": [],
+  "primaryReading": "か",
+  "readings": [
+    {
+      "reading": "か",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "ばい",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "You decide to <kanji>buy</kanji> as many shellfish as you can fit in your <reading>ca</reading>r (か). You keep buying until your car is completely full of shellfish before you stop. Cars are totally a realistic unit of measure.",
+  "meaningMnemonic": "There are some <radical>shellfish</radical> in a <radical>net</radical> that you can <kanji>buy</kanji>. You can't just buy loose shellfish. You can only buy the ones that are in the net, bagged up and ready for your money.",
+  "vocabularyIds": [
+    3054,
+    3512,
+    5371
+  ],
+  "radicalIds": [
+    163,
+    94
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%B2%B7"
+}

@@ -1,0 +1,67 @@
+{
+  "id": 9288,
+  "type": "vocabulary",
+  "characters": "明後日",
+  "primaryMeaning": "Day After Tomorrow",
+  "otherMeanings": [],
+  "primaryReading": "あさって",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 626,
+      "character": "明",
+      "readings": [
+        "めい",
+        "みょう",
+        "あ",
+        "あか",
+        "あき"
+      ]
+    },
+    {
+      "id": 636,
+      "character": "後",
+      "readings": [
+        "ご",
+        "こう",
+        "うし",
+        "あと",
+        "のち"
+      ]
+    },
+    {
+      "id": 476,
+      "character": "日",
+      "readings": [
+        "にち",
+        "じつ",
+        "ひ",
+        "か",
+        "び"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Things will be <kanji>bright</kanji> <kanji>after</kanji> the next <kanji>day</kanji>. Or you can think of it as adding an 後 in between your 明日. And what comes after tomorrow? It's the <vocabulary>day after tomorrow</vocabulary>.",
+  "readingMnemonic": "Unfortunately, the reading for this is a complete exception, so here's a mnemonic to help you:\n\n\"What do you want to eat the <vocabulary>day after tomorrow</vocabulary>?\", your mom asks you. You answer, \"<reading>Ah, satay</reading> (あさって)?\" You're not so confident because you never know what you want to eat the day after tomorrow, but you absolutely love satay, the Indonesian skewers. Ah, satay it is!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%98%8E%E5%BE%8C%E6%97%A5",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "明",
+      "id": 626,
+      "reading": "あ"
+    },
+    {
+      "type": "kanji",
+      "value": "後",
+      "id": 636,
+      "reading": null
+    },
+    {
+      "type": "kanji",
+      "value": "日",
+      "id": 476,
+      "reading": null
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 7033,
+  "type": "vocabulary",
+  "characters": "瞬時",
+  "primaryMeaning": "Moment",
+  "otherMeanings": [
+    "Instant"
+  ],
+  "primaryReading": "しゅんじ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1968,
+      "character": "瞬",
+      "readings": [
+        "しゅん",
+        "またた",
+        "まばた"
+      ]
+    },
+    {
+      "id": 662,
+      "character": "時",
+      "readings": [
+        "じ",
+        "とき"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>blink</kanji> of <kanji>time</kanji> is a mere <vocabulary>moment</vocabulary> or <vocabulary>instant</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%9E%AC%E6%99%82",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "瞬",
+      "id": 1968,
+      "reading": "しゅん"
+    },
+    {
+      "type": "kanji",
+      "value": "時",
+      "id": 662,
+      "reading": "じ"
+    }
+  ]
+}

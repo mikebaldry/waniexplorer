@@ -1,0 +1,46 @@
+{
+  "id": 5068,
+  "type": "vocabulary",
+  "characters": "昇給",
+  "primaryMeaning": "Pay Raise",
+  "otherMeanings": [
+    "Getting A Raise"
+  ],
+  "primaryReading": "しょうきゅう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1331,
+      "character": "昇",
+      "readings": [
+        "しょう",
+        "のぼ"
+      ]
+    },
+    {
+      "id": 1345,
+      "character": "給",
+      "readings": [
+        "きゅう",
+        "たま"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you <kanji>ascend</kanji> in <kanji>salary</kanji> you get a <vocabulary>pay raise</vocabulary> at work.\n\nNote that this is a relatively formal word to talk about <vocabulary>getting a raise</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%98%87%E7%B5%A6",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "昇",
+      "id": 1331,
+      "reading": "しょう"
+    },
+    {
+      "type": "kanji",
+      "value": "給",
+      "id": 1345,
+      "reading": "きゅう"
+    }
+  ]
+}

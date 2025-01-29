@@ -1,0 +1,48 @@
+{
+  "id": 5253,
+  "type": "vocabulary",
+  "characters": "熱烈",
+  "primaryMeaning": "Fervent",
+  "otherMeanings": [
+    "Ardent",
+    "Passionate",
+    "Impassioned"
+  ],
+  "primaryReading": "ねつれつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 882,
+      "character": "熱",
+      "readings": [
+        "ねつ",
+        "あつ"
+      ]
+    },
+    {
+      "id": 1409,
+      "character": "烈",
+      "readings": [
+        "れつ",
+        "はげ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Your <kanji>fever</kanji> turns <kanji>violent</kanji> when you express your <vocabulary>fervent</vocabulary> feelings.\n\n熱烈 is a relatively formal word that describes someone being fervently absorbed in something or someone and showing <vocabulary>ardent</vocabulary> or <vocabulary>passionate</vocabulary> behavior, like 熱烈に応援する (support fervently). ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%86%B1%E7%83%88",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "熱",
+      "id": 882,
+      "reading": "ねつ"
+    },
+    {
+      "type": "kanji",
+      "value": "烈",
+      "id": 1409,
+      "reading": "れつ"
+    }
+  ]
+}

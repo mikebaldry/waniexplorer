@@ -1,0 +1,58 @@
+{
+  "id": 8441,
+  "type": "vocabulary",
+  "characters": "呆れ返る",
+  "primaryMeaning": "To Be Utterly Amazed",
+  "otherMeanings": [
+    "To Be Stunned",
+    "To Be Amazed"
+  ],
+  "primaryReading": "あきれかえる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2251,
+      "character": "呆",
+      "readings": [
+        "ほう",
+        "あき",
+        "おろか",
+        "ほけ",
+        "ぼ"
+      ]
+    },
+    {
+      "id": 858,
+      "character": "返",
+      "readings": [
+        "へん",
+        "かえ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This is a combination of the word 呆れる meaning \"to be amazed\" and 返る meaning \"to be returned.\" You're so amazed at something that it keeps returning to your mind. It means <vocabulary>to be utterly amazed</vocabulary>!",
+  "readingMnemonic": "This is a combination of the words 呆れる and 返る. 呆れる becomes 呆れ and you just add 返る to it. So reading this should be pretty simple.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%91%86%E3%82%8C%E8%BF%94%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "呆",
+      "id": 2251,
+      "reading": "あき"
+    },
+    {
+      "type": "kana",
+      "value": "れ"
+    },
+    {
+      "type": "kanji",
+      "value": "返",
+      "id": 858,
+      "reading": "かえ"
+    },
+    {
+      "type": "kana",
+      "value": "る"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "id": 9207,
+  "object": "kana_vocabulary",
+  "url": "https://api.wanikani.com/v2/subjects/9207",
+  "data_updated_at": "2024-10-15T22:19:13.119873Z",
+  "data": {
+    "created_at": "2023-04-24T23:43:43.733819Z",
+    "level": 8,
+    "slug": "でも",
+    "hidden_at": null,
+    "document_url": "https://www.wanikani.com/vocabulary/%E3%81%A7%E3%82%82",
+    "characters": "でも",
+    "meanings": [
+      {
+        "meaning": "But",
+        "primary": true,
+        "accepted_answer": true
+      },
+      {
+        "meaning": "However",
+        "primary": false,
+        "accepted_answer": true
+      }
+    ],
+    "auxiliary_meanings": [
+      {
+        "meaning": "Though",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Nevertheless",
+        "type": "whitelist"
+      }
+    ],
+    "parts_of_speech": [
+      "conjunction"
+    ],
+    "meaning_mnemonic": "I want to show you my <reading>demo</reading> (でも), <vocabulary>but</vocabulary> you don't want to see it. <vocabulary>However</vocabulary>, I'm going to show it to you anyway. So there.\n\nSomething to watch out for with でも is that it always goes at the beginning of a sentence, not in the middle, like \"but\" usually does in English. It’s also a fairly casual word, so it’s not normally used in formal situations.",
+    "context_sentences": [
+      {
+        "en": "But I can't.",
+        "ja": "でも、できないよ。"
+      },
+      {
+        "en": "But are you okay with that?",
+        "ja": "でも、いいの？"
+      },
+      {
+        "en": "But it's 50 percent off, you know?",
+        "ja": "でも、５０パーセントオフだよ？"
+      }
+    ],
+    "pronunciation_audios": [
+      {
+        "url": "https://files.wanikani.com/iyolf3tn3rwk4h6ywb53zzqia9rh",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44713,
+          "pronunciation": "でも",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/05eqwa43f5xj2wkqm8rfey2hlxiq",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44713,
+          "pronunciation": "でも",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      },
+      {
+        "url": "https://files.wanikani.com/fsh217l0eh1dau1tkig0pm0y2g56",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44772,
+          "pronunciation": "でも",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/xbc3devwyfqeg7gzrmq0qhjicw92",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44772,
+          "pronunciation": "でも",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      }
+    ],
+    "lesson_position": 0,
+    "spaced_repetition_system_id": 1
+  }
+}

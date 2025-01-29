@@ -1,0 +1,31 @@
+{
+  "id": 1818,
+  "type": "kanji",
+  "character": "斎",
+  "primaryMeaning": "Purification",
+  "otherMeanings": [],
+  "primaryReading": "さい",
+  "readings": [
+    {
+      "reading": "さい",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "いつ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "This <kanji>purification</kanji> ritual is supposed to help you forget your <reading>cy</reading>borg (さい). It's been a while, but you can't seem to get it out of your head. ",
+  "meaningMnemonic": "Use <radical>simultaneous</radical> <radical>jackhammer</radical>s to perform the <kanji>purification</kanji> ritual. Two jackhammers running perfectly in sync will purify your body, mind, and soul! (And the ground around you that's being jackhammered.)",
+  "vocabularyIds": [
+    6600,
+    6601
+  ],
+  "radicalIds": [
+    277,
+    207
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%96%8E"
+}

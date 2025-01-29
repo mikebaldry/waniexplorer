@@ -1,0 +1,44 @@
+{
+  "id": 9096,
+  "type": "vocabulary",
+  "characters": "勿論",
+  "primaryMeaning": "Of Course",
+  "otherMeanings": [
+    "Needless To Say"
+  ],
+  "primaryReading": "もちろん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 9095,
+      "character": "勿",
+      "readings": [
+        "もち"
+      ]
+    },
+    {
+      "id": 1119,
+      "character": "論",
+      "readings": [
+        "ろん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You <kanji>must not</kanji> consider this a <kanji>theory</kanji>, because <vocabulary>of course</vocabulary> it's a fact. <vocabulary>Needless to say</vocabulary>, this is the way things are.\n\nThis word is often written in kana, but it's worth knowing the kanji version too.",
+  "readingMnemonic": "This word uses the readings you learned with the kanji. <vocabulary>Needless to say</vocabulary>, you should be able to read this on your own!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8B%BF%E8%AB%96",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "勿",
+      "id": 9095,
+      "reading": "もち"
+    },
+    {
+      "type": "kanji",
+      "value": "論",
+      "id": 1119,
+      "reading": "ろん"
+    }
+  ]
+}

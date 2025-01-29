@@ -1,0 +1,36 @@
+{
+  "id": 7748,
+  "type": "vocabulary",
+  "characters": "植える",
+  "primaryMeaning": "To Plant Something",
+  "otherMeanings": [
+    "To Grow Something"
+  ],
+  "primaryReading": "うえる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 840,
+      "character": "植",
+      "readings": [
+        "しょく",
+        "う"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>plant</kanji>, so the verb version is <vocabulary>to plant something</vocabulary> or <vocabulary>to grow something</vocabulary>.",
+  "readingMnemonic": "You haven't learned this reading for 植 yet, so here's a mnemonic to help you:\n\nYou decided <vocabulary>to plant</vocabulary> an <reading>u</reading>ni (う) tree in your backyard. That's right, you can plant sea urchins and they'll grow like fruit off a really spiky tree. Just picture it. And then you'll get to eat all the uni you want!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%A4%8D%E3%81%88%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "植",
+      "id": 840,
+      "reading": "う"
+    },
+    {
+      "type": "kana",
+      "value": "える"
+    }
+  ]
+}

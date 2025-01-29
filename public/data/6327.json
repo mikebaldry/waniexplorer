@@ -1,0 +1,49 @@
+{
+  "id": 6327,
+  "type": "vocabulary",
+  "characters": "跳躍",
+  "primaryMeaning": "Jump",
+  "otherMeanings": [
+    "Leap",
+    "Bound",
+    "Skip"
+  ],
+  "primaryReading": "ちょうやく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1643,
+      "character": "跳",
+      "readings": [
+        "ちょう",
+        "と",
+        "は"
+      ]
+    },
+    {
+      "id": 1738,
+      "character": "躍",
+      "readings": [
+        "やく",
+        "おど"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you <kanji>hop</kanji> and <kanji>leap</kanji> into the air, you probably are doing a <vocabulary>jump</vocabulary> and <vocabulary>leap</vocabulary> into the air.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%B7%B3%E8%BA%8D",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "跳",
+      "id": 1643,
+      "reading": "ちょう"
+    },
+    {
+      "type": "kanji",
+      "value": "躍",
+      "id": 1738,
+      "reading": "やく"
+    }
+  ]
+}

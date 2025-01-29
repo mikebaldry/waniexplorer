@@ -1,0 +1,36 @@
+{
+  "id": 6909,
+  "type": "vocabulary",
+  "characters": "磨き",
+  "primaryMeaning": "Polish",
+  "otherMeanings": [
+    "Shine"
+  ],
+  "primaryReading": "みがき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1929,
+      "character": "磨",
+      "readings": [
+        "みが",
+        "ま"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>polish</kanji> is a <vocabulary>polish</vocabulary> or even a <vocabulary>shine</vocabulary>.",
+  "readingMnemonic": "The reading comes from the reading you learned with the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A3%A8%E3%81%8D",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "磨",
+      "id": 1929,
+      "reading": "みが"
+    },
+    {
+      "type": "kana",
+      "value": "き"
+    }
+  ]
+}

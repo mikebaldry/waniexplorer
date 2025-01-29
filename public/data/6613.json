@@ -1,0 +1,49 @@
+{
+  "id": 6613,
+  "type": "vocabulary",
+  "characters": "人柄",
+  "primaryMeaning": "Personal Character",
+  "otherMeanings": [
+    "Personality",
+    "Character"
+  ],
+  "primaryReading": "ひとがら",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 444,
+      "character": "人",
+      "readings": [
+        "にん",
+        "じん",
+        "ひと",
+        "と"
+      ]
+    },
+    {
+      "id": 1823,
+      "character": "柄",
+      "readings": [
+        "がら",
+        "へい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>person</kanji>'s <kanji>pattern</kanji> is the pattern of actions which they take to become who they are. What do they usually do? What is their pattern? This is the same as their <vocabulary>personal character</vocabulary> or <vocabulary>personality</vocabulary>.",
+  "readingMnemonic": "The readings are both kun'yomi readings, combined. For 人 you'll just have to remember this. With 柄 that's the reading you learned anyways, so that makes things easier. Just keep it consistent!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BA%BA%E6%9F%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "人",
+      "id": 444,
+      "reading": "ひと"
+    },
+    {
+      "type": "kanji",
+      "value": "柄",
+      "id": 1823,
+      "reading": "がら"
+    }
+  ]
+}

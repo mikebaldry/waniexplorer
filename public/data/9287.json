@@ -1,0 +1,37 @@
+{
+  "id": 9287,
+  "type": "vocabulary",
+  "characters": "〜ヶ月",
+  "primaryMeaning": "Counter For Months",
+  "otherMeanings": [
+    "Month Counter"
+  ],
+  "primaryReading": "かげつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 477,
+      "character": "月",
+      "readings": [
+        "げつ",
+        "がつ",
+        "つき"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Alright, so this one's a bit weird. See that oddly small ヶ there? Well, together with 月 (<kanji>month</kanji>), it becomes a <vocabulary>counter for months</vocabulary>. You'll use this when you want to talk about a specific number of months, so not when you're saying January, February, etc.\n\nNote that you'll run into different variants of this. While 一ヶ月 is the most common, you'll also encounter 一か月, 一カ月, and rarely 一箇月. Luckily, they're all read the same, just written differently. Speaking about reading, let's get to it.",
+  "readingMnemonic": "The little ヶ might be slightly misleading, as you'll have to read this as か. The rest is easy though, as 月 just takes a normal on'yomi reading. And since we're not talking about specific months, that means it's just げつ, making this 〜かげつ.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E3%80%9C%E3%83%B6%E6%9C%88",
+  "elements": [
+    {
+      "type": "kana",
+      "value": "ヶ"
+    },
+    {
+      "type": "kanji",
+      "value": "月",
+      "id": 477,
+      "reading": "げつ"
+    }
+  ]
+}

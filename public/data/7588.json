@@ -1,0 +1,37 @@
+{
+  "id": 7588,
+  "type": "vocabulary",
+  "characters": "変わる",
+  "primaryMeaning": "To Be Changed",
+  "otherMeanings": [
+    "To Be Transformed",
+    "To Be Altered"
+  ],
+  "primaryReading": "かわる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 944,
+      "character": "変",
+      "readings": [
+        "へん",
+        "か"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You've seen how 変える means \"to change\" something. This word means that something changed by itself, so it means <vocabulary>to be changed</vocabulary> or <vocabulary>to be altered</vocabulary>.\n\n変わる refers to the act of changing into something different, and involves alterations in nature, appearance, or state. For example, it can describe changes in weather or the season, someone undergoing a noticeable change in appearance or behavior, or one's feelings or thoughts evolving over time.\n\nSince 変わる means \"becoming something different,\" you can also use 変わった and 変わっている to describe someone or something that's \"different from what's normal.\" For example, you can say 変わった人 or 変わっている人 to mean \"an odd person.\"",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You learned this reading already so you should be able to read it!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A4%89%E3%82%8F%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "変",
+      "id": 944,
+      "reading": "か"
+    },
+    {
+      "type": "kana",
+      "value": "わる"
+    }
+  ]
+}

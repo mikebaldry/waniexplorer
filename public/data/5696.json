@@ -1,0 +1,30 @@
+{
+  "id": 5696,
+  "type": "vocabulary",
+  "characters": "諸〜",
+  "primaryMeaning": "Various",
+  "otherMeanings": [],
+  "primaryReading": "しょ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1543,
+      "character": "諸",
+      "readings": [
+        "しょ",
+        "もろ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This has the same meaning as the kanji. Stick this onto another word and you have \"various _____.\"",
+  "readingMnemonic": "The reading is the same as what you learned with the kanji as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%AB%B8%E3%80%9C",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "諸",
+      "id": 1543,
+      "reading": "しょ"
+    }
+  ]
+}

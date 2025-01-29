@@ -1,0 +1,47 @@
+{
+  "id": 8415,
+  "type": "vocabulary",
+  "characters": "何遍",
+  "primaryMeaning": "How Many Times",
+  "otherMeanings": [
+    "How Often"
+  ],
+  "primaryReading": "なんべん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 582,
+      "character": "何",
+      "readings": [
+        "なに",
+        "なん",
+        "か"
+      ]
+    },
+    {
+      "id": 2345,
+      "character": "遍",
+      "readings": [
+        "へん",
+        "あまね"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>What</kanji>'s <kanji>universal</kanji>? <vocabulary>How many times</vocabulary> do you think that question's been asked throughout time? Probably a lot of times.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Just watch out because へん becomes べん here.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BD%95%E9%81%8D",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "何",
+      "id": 582,
+      "reading": "なん"
+    },
+    {
+      "type": "kanji",
+      "value": "遍",
+      "id": 2345,
+      "reading": "べん"
+    }
+  ]
+}

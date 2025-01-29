@@ -1,0 +1,33 @@
+{
+  "id": 1016,
+  "type": "kanji",
+  "character": "渉",
+  "primaryMeaning": "Ford",
+  "otherMeanings": [
+    "Wade"
+  ],
+  "primaryReading": "しょう",
+  "readings": [
+    {
+      "reading": "しょう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "わた",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Your ability to <kanji>ford</kanji> this tsunami impresses everyone who witnesses it, especially the <reading>Shou</reading>gun (しょう). Now that you've taught him a tsunami can be forded, he's going to start sending his troops through them instead of waiting for them to pass.",
+  "meaningMnemonic": "A <radical>tsunami</radical> is coming, and you want to <radical>walk</radical> over it, so you have to <kanji>ford</kanji> it. You don’t walk across a tsunami, you <kanji>wade</kanji> across it.",
+  "vocabularyIds": [
+    3987,
+    4017
+  ],
+  "radicalIds": [
+    103,
+    245
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%B8%89"
+}

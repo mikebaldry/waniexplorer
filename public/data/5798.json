@@ -1,0 +1,46 @@
+{
+  "id": 5798,
+  "type": "vocabulary",
+  "characters": "沿岸",
+  "primaryMeaning": "Coast",
+  "otherMeanings": [
+    "Shore"
+  ],
+  "primaryReading": "えんがん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1567,
+      "character": "沿",
+      "readings": [
+        "えん",
+        "そ"
+      ]
+    },
+    {
+      "id": 790,
+      "character": "岸",
+      "readings": [
+        "がん",
+        "きし"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>run alongside</kanji> <kanji>coast</kanji> basically just describes the <vocabulary>coast</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B2%BF%E5%B2%B8",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "沿",
+      "id": 1567,
+      "reading": "えん"
+    },
+    {
+      "type": "kanji",
+      "value": "岸",
+      "id": 790,
+      "reading": "がん"
+    }
+  ]
+}

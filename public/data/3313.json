@@ -1,0 +1,35 @@
+{
+  "id": 3313,
+  "type": "vocabulary",
+  "characters": "特に",
+  "primaryMeaning": "Especially",
+  "otherMeanings": [
+    "Particularly"
+  ],
+  "primaryReading": "とくに",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 807,
+      "character": "特",
+      "readings": [
+        "とく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Something is towards (に) <kanji>special</kanji>. That thing is <vocabulary>especially</vocabulary> special, wouldn't you say?",
+  "readingMnemonic": "The reading is the same reading you learned for this kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%89%B9%E3%81%AB",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "特",
+      "id": 807,
+      "reading": "とく"
+    },
+    {
+      "type": "kana",
+      "value": "に"
+    }
+  ]
+}

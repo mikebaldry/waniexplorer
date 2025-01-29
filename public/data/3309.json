@@ -1,0 +1,47 @@
+{
+  "id": 3309,
+  "type": "vocabulary",
+  "characters": "戦場",
+  "primaryMeaning": "Battlefield",
+  "otherMeanings": [
+    "Battleground"
+  ],
+  "primaryReading": "せんじょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 803,
+      "character": "戦",
+      "readings": [
+        "せん",
+        "たたか",
+        "いくさ"
+      ]
+    },
+    {
+      "id": 694,
+      "character": "場",
+      "readings": [
+        "じょう",
+        "ば"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>war</kanji> <kanji>location</kanji> is the <vocabulary>battlefield</vocabulary>. That's where the wars are fought, anyways.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%88%A6%E5%A0%B4",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "戦",
+      "id": 803,
+      "reading": "せん"
+    },
+    {
+      "type": "kanji",
+      "value": "場",
+      "id": 694,
+      "reading": "じょう"
+    }
+  ]
+}

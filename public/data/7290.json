@@ -1,0 +1,54 @@
+{
+  "id": 7290,
+  "type": "vocabulary",
+  "characters": "刈り取る",
+  "primaryMeaning": "To Mow",
+  "otherMeanings": [
+    "To Reap",
+    "To Harvest"
+  ],
+  "primaryReading": "かりとる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2059,
+      "character": "刈",
+      "readings": [
+        "か"
+      ]
+    },
+    {
+      "id": 966,
+      "character": "取",
+      "readings": [
+        "と",
+        "しゅ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you <kanji>prune</kanji> and <kanji>take</kanji> from what you pruned, you're going <vocabulary>to mow</vocabulary> or <vocabulary>to reap</vocabulary> or <vocabulary>to harvest</vocabulary> whatever it is you're pruning.",
+  "readingMnemonic": "The reading is the reading you learned with 刈 and the reading from the vocab 取る.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%88%88%E3%82%8A%E5%8F%96%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "刈",
+      "id": 2059,
+      "reading": "か"
+    },
+    {
+      "type": "kana",
+      "value": "り"
+    },
+    {
+      "type": "kanji",
+      "value": "取",
+      "id": 966,
+      "reading": "と"
+    },
+    {
+      "type": "kana",
+      "value": "る"
+    }
+  ]
+}

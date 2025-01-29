@@ -1,0 +1,41 @@
+{
+  "id": 581,
+  "type": "kanji",
+  "character": "西",
+  "primaryMeaning": "West",
+  "otherMeanings": [],
+  "primaryReading": "せい",
+  "readings": [
+    {
+      "reading": "せい",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "さい",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "にし",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "People are attacking from the <kanji>West</kanji>, so you pull out your <reading>sa</reading>ber (せい) and beat them back. You keep pushing further and further West until you reach the ocean and there's nowhere left for them to run.",
+  "meaningMnemonic": "The <radical>west</radical> radical and the <kanji>west</kanji> kanji are the same. Isn't that nice?",
+  "vocabularyIds": [
+    2778,
+    2779,
+    3951,
+    3959,
+    4053,
+    6889,
+    7690,
+    8007
+  ],
+  "radicalIds": [
+    112
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%A5%BF"
+}

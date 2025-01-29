@@ -1,0 +1,35 @@
+{
+  "id": 4548,
+  "type": "vocabulary",
+  "characters": "値",
+  "primaryMeaning": "Value",
+  "otherMeanings": [
+    "Price"
+  ],
+  "primaryReading": "あたい",
+  "otherReadings": [
+    "ね"
+  ],
+  "kanji": [
+    {
+      "id": 1176,
+      "character": "値",
+      "readings": [
+        "ち",
+        "ね",
+        "あたい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>value</kanji> is a <vocabulary>value</vocabulary>, but only in the mathematical sense.\n\nDepending on the reading, this can also mean <vocabulary>price</vocabulary>.",
+  "readingMnemonic": "Imagine a numerical <vocabulary>value</vocabulary> written on <reading>a tie</reading> (あたい). Now imagine that it’s the <vocabulary>price</vocabulary> of a <reading>ne</reading>igh (ね) from your favorite horse. It’s a pretty high price, but you’ll do anything to hear that horse neigh.\n\nGenerally, あたい refers to a numerical value in math, while ね is a formal word for “price.”",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%80%A4",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "値",
+      "id": 1176,
+      "reading": "あたい"
+    }
+  ]
+}

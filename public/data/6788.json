@@ -1,0 +1,30 @@
+{
+  "id": 6788,
+  "type": "vocabulary",
+  "characters": "桃",
+  "primaryMeaning": "Peach",
+  "otherMeanings": [],
+  "primaryReading": "もも",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1879,
+      "character": "桃",
+      "readings": [
+        "もも",
+        "とう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%A1%83",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "桃",
+      "id": 1879,
+      "reading": "もも"
+    }
+  ]
+}

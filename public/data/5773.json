@@ -1,0 +1,46 @@
+{
+  "id": 5773,
+  "type": "vocabulary",
+  "characters": "神聖",
+  "primaryMeaning": "Holiness",
+  "otherMeanings": [
+    "Holy"
+  ],
+  "primaryReading": "しんせい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 799,
+      "character": "神",
+      "readings": [
+        "しん",
+        "じん",
+        "かみ"
+      ]
+    },
+    {
+      "id": 1558,
+      "character": "聖",
+      "readings": [
+        "せい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>God</kanji> is <kanji>holy</kanji>. Everything about a holy god is full of <vocabulary>holiness</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A5%9E%E8%81%96",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "神",
+      "id": 799,
+      "reading": "しん"
+    },
+    {
+      "type": "kanji",
+      "value": "聖",
+      "id": 1558,
+      "reading": "せい"
+    }
+  ]
+}

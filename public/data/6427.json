@@ -1,0 +1,46 @@
+{
+  "id": 6427,
+  "type": "vocabulary",
+  "characters": "繁殖",
+  "primaryMeaning": "Breeding",
+  "otherMeanings": [
+    "Multiplying"
+  ],
+  "primaryReading": "はんしょく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1764,
+      "character": "繁",
+      "readings": [
+        "はん",
+        "しげ"
+      ]
+    },
+    {
+      "id": 1766,
+      "character": "殖",
+      "readings": [
+        "しょく",
+        "ふ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Something that is <kanji>overgrown</kanji> and will <kanji>multiply</kanji> is obviously <vocabulary>breeding</vocabulary> and <vocabulary>multiplying</vocabulary> a ton.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B9%81%E6%AE%96",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "繁",
+      "id": 1764,
+      "reading": "はん"
+    },
+    {
+      "type": "kanji",
+      "value": "殖",
+      "id": 1766,
+      "reading": "しょく"
+    }
+  ]
+}

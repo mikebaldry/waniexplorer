@@ -1,0 +1,48 @@
+{
+  "id": 2783,
+  "type": "vocabulary",
+  "characters": "何月",
+  "primaryMeaning": "What Month",
+  "otherMeanings": [
+    "Which Month"
+  ],
+  "primaryReading": "なんがつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 582,
+      "character": "何",
+      "readings": [
+        "なに",
+        "なん",
+        "か"
+      ]
+    },
+    {
+      "id": 477,
+      "character": "月",
+      "readings": [
+        "げつ",
+        "がつ",
+        "つき"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You have <kanji>what</kanji> <kanji>month</kanji> - as in: <vocabulary>what month</vocabulary> is it? It's １０月, you fool. Get a job, hippy.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji, but 何 actually uses the kun'yomi reading here! And since 月 has two on'yomi readings, here's a mnemonic to help you remember this reading:\n\n<vocabulary>What month</vocabulary> gives you <reading>naan</reading> <reading>guts</reading> (なんがつ)? It's the month you eat so much naan that even your guts turn into naan! But <vocabulary>which month</vocabulary> was it again? ",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BD%95%E6%9C%88",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "何",
+      "id": 582,
+      "reading": "なん"
+    },
+    {
+      "type": "kanji",
+      "value": "月",
+      "id": 477,
+      "reading": "がつ"
+    }
+  ]
+}

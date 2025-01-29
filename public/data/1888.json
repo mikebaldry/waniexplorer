@@ -1,0 +1,32 @@
+{
+  "id": 1888,
+  "type": "kanji",
+  "character": "丘",
+  "primaryMeaning": "Hill",
+  "otherMeanings": [],
+  "primaryReading": "きゅう",
+  "readings": [
+    {
+      "reading": "きゅう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "おか",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You reach the top of the <kanji>hill</kanji> and realize the entire hill is covered in <reading>cu</reading>cumbers (きゅう). The axe has a little note on it that says \"Cucumber Hill Axe - Please Use.\"",
+  "meaningMnemonic": "An <radical>axe</radical> is stuck into the <radical>ground</radical> on a <kanji>hill</kanji>.",
+  "vocabularyIds": [
+    6806,
+    6807,
+    8336
+  ],
+  "radicalIds": [
+    115,
+    1
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E4%B8%98"
+}

@@ -1,0 +1,46 @@
+{
+  "id": 4484,
+  "type": "vocabulary",
+  "characters": "機会",
+  "primaryMeaning": "Opportunity",
+  "otherMeanings": [
+    "Chance"
+  ],
+  "primaryReading": "きかい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1090,
+      "character": "機",
+      "readings": [
+        "き",
+        "はた"
+      ]
+    },
+    {
+      "id": 566,
+      "character": "会",
+      "readings": [
+        "かい",
+        "あ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When the <kanji>machine</kanji>s <kanji>meet</kanji>, you finally have the <vocabulary>opportunity</vocabulary> to take them all out at once. DIE MACHINES!",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%A9%9F%E4%BC%9A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "機",
+      "id": 1090,
+      "reading": "き"
+    },
+    {
+      "type": "kanji",
+      "value": "会",
+      "id": 566,
+      "reading": "かい"
+    }
+  ]
+}

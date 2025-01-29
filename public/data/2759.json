@@ -1,0 +1,49 @@
+{
+  "id": 2759,
+  "type": "vocabulary",
+  "characters": "毎日",
+  "primaryMeaning": "Every Day",
+  "otherMeanings": [
+    "Daily"
+  ],
+  "primaryReading": "まいにち",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 572,
+      "character": "毎",
+      "readings": [
+        "まい",
+        "ごと"
+      ]
+    },
+    {
+      "id": 476,
+      "character": "日",
+      "readings": [
+        "にち",
+        "じつ",
+        "ひ",
+        "か",
+        "び"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Every</kanji> <kanji>day</kanji> is <vocabulary>daily</vocabulary> (or just <vocabulary>every day</vocabulary>).",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 日 has two on'yomi readings, here's a mnemonic to help you remember which one to use:\n\n<vocabulary>Every day</vocabulary> you watch your favorite program, <reading>My</reading> <reading>Nietzsche</reading> (まいにち). It's a <vocabulary>daily</vocabulary> cartoon about Nietzsche and his life, which you follow religiously. Oh how much you love Nietzsche.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%AF%8E%E6%97%A5",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "毎",
+      "id": 572,
+      "reading": "まい"
+    },
+    {
+      "type": "kanji",
+      "value": "日",
+      "id": 476,
+      "reading": "にち"
+    }
+  ]
+}

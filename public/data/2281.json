@@ -1,0 +1,35 @@
+{
+  "id": 2281,
+  "type": "kanji",
+  "character": "粗",
+  "primaryMeaning": "Coarse",
+  "otherMeanings": [
+    "Rough"
+  ],
+  "primaryReading": "そ",
+  "readings": [
+    {
+      "reading": "そ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "あら",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You take the <kanji>coarse</kanji> rice and try to wash it with <reading>so</reading>ap (そ).",
+  "meaningMnemonic": "If you find some <radical>rice</radical> in a <radical>top hat</radical> it's going to be really <kanji>coarse</kanji> and <kanji>rough</kanji>. Probably because it's not the kind that's meant to be eaten.",
+  "vocabularyIds": [
+    8226,
+    8227,
+    8228,
+    8388
+  ],
+  "radicalIds": [
+    98,
+    419
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%B2%97"
+}

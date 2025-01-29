@@ -1,0 +1,46 @@
+{
+  "id": 4999,
+  "type": "vocabulary",
+  "characters": "郵便",
+  "primaryMeaning": "Mail",
+  "otherMeanings": [
+    "Post"
+  ],
+  "primaryReading": "ゆうびん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1299,
+      "character": "郵",
+      "readings": [
+        "ゆう"
+      ]
+    },
+    {
+      "id": 808,
+      "character": "便",
+      "readings": [
+        "べん",
+        "びん",
+        "たよ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Mail</kanji> (or <kanji>post</kanji>) has <kanji>convenience</kanji> because it is sent for you in the <vocabulary>mail</vocabulary> (or the <vocabulary>post</vocabulary>!).\n\n郵便 originally referred to the postal system, but eventually also came to refer to mail itself as a shorthand for 郵便物.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. The reading for 便 here (びん) isn't the on'yomi you learned with the kanji though, so here's a mnemonic to help you out:\n\nYou get a lot of junk <vocabulary>mail</vocabulary>, so you throw it in the waste <reading>bin</reading> (びん). The waste bin is where that mail goes.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%83%B5%E4%BE%BF",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "郵",
+      "id": 1299,
+      "reading": "ゆう"
+    },
+    {
+      "type": "kanji",
+      "value": "便",
+      "id": 808,
+      "reading": "びん"
+    }
+  ]
+}

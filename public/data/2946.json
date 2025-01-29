@@ -1,0 +1,51 @@
+{
+  "id": 2946,
+  "type": "vocabulary",
+  "characters": "未来",
+  "primaryMeaning": "Future",
+  "otherMeanings": [
+    "The Future",
+    "Distant Future",
+    "The Distant Future"
+  ],
+  "primaryReading": "みらい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 656,
+      "character": "未",
+      "readings": [
+        "み",
+        "ま",
+        "いま",
+        "ひつじ"
+      ]
+    },
+    {
+      "id": 590,
+      "character": "来",
+      "readings": [
+        "らい",
+        "く",
+        "き"
+      ]
+    }
+  ],
+  "meaningMnemonic": "What has <kanji>not yet</kanji> <kanji>come</kanji>? The <vocabulary>future</vocabulary>.\n\n未来 is usually used to talk about the distant future, and it implies that the future can’t be foreseen. So you can use it to speculate about what might lie ahead, but you probably wouldn’t use it to discuss more concrete plans, goals or predictions.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9C%AA%E6%9D%A5",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "未",
+      "id": 656,
+      "reading": "み"
+    },
+    {
+      "type": "kanji",
+      "value": "来",
+      "id": 590,
+      "reading": "らい"
+    }
+  ]
+}

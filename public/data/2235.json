@@ -1,0 +1,42 @@
+{
+  "id": 2235,
+  "type": "kanji",
+  "character": "逸",
+  "primaryMeaning": "Deviate",
+  "otherMeanings": [
+    "Elude"
+  ],
+  "primaryReading": "いつ",
+  "readings": [
+    {
+      "reading": "いつ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "そ",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "はぐ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You <kanji>deviate</kanji> from the plan a little too well, and as you're scooting, what you've done <reading>eats</reading> (いつ) away at you. You feel guilty for eluding them... ",
+  "meaningMnemonic": "Jump on a <radical>scooter</radical> to <radical>excuse</radical> yourself from answering a question and you've successfully <kanji>deviate</kanji>d from that nosey person's plan! You've also been able to <kanji>elude</kanji> them pretty well.",
+  "vocabularyIds": [
+    8149,
+    8150,
+    8151,
+    8152,
+    8153,
+    8328
+  ],
+  "radicalIds": [
+    114,
+    208
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%80%B8"
+}

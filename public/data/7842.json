@@ -1,0 +1,43 @@
+{
+  "id": 7842,
+  "type": "vocabulary",
+  "characters": "公邸",
+  "primaryMeaning": "Official Residence",
+  "otherMeanings": [],
+  "primaryReading": "こうてい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 499,
+      "character": "公",
+      "readings": [
+        "こう"
+      ]
+    },
+    {
+      "id": 2138,
+      "character": "邸",
+      "readings": [
+        "てい",
+        "やしき"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>public</kanji> <kanji>residence</kanji> is the one you tell everyone for things like documents and loans and stuff. That means it's your <vocabulary>official residence</vocabulary> and it's in everyone's books.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%85%AC%E9%82%B8",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "公",
+      "id": 499,
+      "reading": "こう"
+    },
+    {
+      "type": "kanji",
+      "value": "邸",
+      "id": 2138,
+      "reading": "てい"
+    }
+  ]
+}

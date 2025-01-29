@@ -1,0 +1,50 @@
+{
+  "id": 3061,
+  "type": "vocabulary",
+  "characters": "人間",
+  "primaryMeaning": "Human",
+  "otherMeanings": [
+    "Human Being"
+  ],
+  "primaryReading": "にんげん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 444,
+      "character": "人",
+      "readings": [
+        "にん",
+        "じん",
+        "ひと",
+        "と"
+      ]
+    },
+    {
+      "id": 701,
+      "character": "間",
+      "readings": [
+        "かん",
+        "けん",
+        "あいだ",
+        "ま"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>person</kanji> <kanji>interval</kanji>. Just think of different intervals each with a different type of species. The raccoon interval... the dog interval... the person interval... they are the <vocabulary>human</vocabulary>s.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 人 has two on'yomi readings, and the reading of 間 is a bit of an oddball, here's a mnemonic to help you:\n\nDid you know that the <vocabulary>human</vocabulary>s who work for <reading>Nin</reading>tendo are all called <reading>Gen</reading>ji (にんげん)? Yep, that's right, every single human ever hired by Nintendo is called Genji, without exception.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BA%BA%E9%96%93",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "人",
+      "id": 444,
+      "reading": "にん"
+    },
+    {
+      "type": "kanji",
+      "value": "間",
+      "id": 701,
+      "reading": "げん"
+    }
+  ]
+}

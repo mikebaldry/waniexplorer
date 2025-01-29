@@ -1,0 +1,37 @@
+{
+  "id": 1825,
+  "type": "kanji",
+  "character": "滑",
+  "primaryMeaning": "Slippery",
+  "otherMeanings": [],
+  "primaryReading": "かつ",
+  "readings": [
+    {
+      "reading": "かつ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "すべ",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "なめ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "As you struggle on the <kanji>slippery</kanji> ground you hear a loud yowling sound. You turn and see a bunch of stray <reading>cats</reading> (かつ) slipping and sliding too. They're coming right for you, uh oh!",
+  "meaningMnemonic": "A <radical>tsunami</radical> breaks your <radical>bone</radical>s, not from hitting you, but from making the ground <kanji>slippery</kanji>. The water from the tsunami made all the sidewalks and stairs too slippery to walk on, but you tried anyway, slipped, and broke a couple bones.",
+  "vocabularyIds": [
+    6618,
+    6619,
+    6764
+  ],
+  "radicalIds": [
+    103,
+    385
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%BB%91"
+}

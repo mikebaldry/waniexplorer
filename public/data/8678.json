@@ -1,0 +1,47 @@
+{
+  "id": 8678,
+  "type": "vocabulary",
+  "characters": "沢山",
+  "primaryMeaning": "A Lot",
+  "otherMeanings": [
+    "Many",
+    "Much"
+  ],
+  "primaryReading": "たくさん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1208,
+      "character": "沢",
+      "readings": [
+        "たく",
+        "さわ"
+      ]
+    },
+    {
+      "id": 455,
+      "character": "山",
+      "readings": [
+        "さん",
+        "やま"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Swamp</kanji>s and <kanji>mountain</kanji>s happen <vocabulary>a lot</vocabulary> in Japan. That's why we use this to mean <vocabulary>many</vocabulary>! Because there are many of them!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. This word is usually written in kana though, so keep that in mind when you're writing it to use kana and not these kanji!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B2%A2%E5%B1%B1",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "沢",
+      "id": 1208,
+      "reading": "たく"
+    },
+    {
+      "type": "kanji",
+      "value": "山",
+      "id": 455,
+      "reading": "さん"
+    }
+  ]
+}

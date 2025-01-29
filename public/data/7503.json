@@ -1,0 +1,47 @@
+{
+  "id": 7503,
+  "type": "vocabulary",
+  "characters": "在留",
+  "primaryMeaning": "Residence",
+  "otherMeanings": [
+    "Staying In A Foreign Country"
+  ],
+  "primaryReading": "ざいりゅう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1107,
+      "character": "在",
+      "readings": [
+        "ざい"
+      ]
+    },
+    {
+      "id": 986,
+      "character": "留",
+      "readings": [
+        "る",
+        "りゅう",
+        "と",
+        "とど"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Where you <kanji>exist</kanji> is the place you're <kanji>detain</kanji>ed. As long as you're in this place, this will be your <vocabulary>residence</vocabulary>, even if you're <vocabulary>staying in a foreign country</vocabulary>.\n\n在留 is an official term used for people residing in a foreign country. You'll find it in phrases like 在留カード (residence card) or 在留外国人 (foreign resident).",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%9C%A8%E7%95%99",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "在",
+      "id": 1107,
+      "reading": "ざい"
+    },
+    {
+      "type": "kanji",
+      "value": "留",
+      "id": 986,
+      "reading": "りゅう"
+    }
+  ]
+}

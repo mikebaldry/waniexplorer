@@ -1,0 +1,49 @@
+{
+  "id": 3781,
+  "type": "vocabulary",
+  "characters": "新築",
+  "primaryMeaning": "Newly Built",
+  "otherMeanings": [
+    "New Building",
+    "New Construction"
+  ],
+  "primaryReading": "しんちく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 857,
+      "character": "新",
+      "readings": [
+        "しん",
+        "あたら",
+        "あら",
+        "にい"
+      ]
+    },
+    {
+      "id": 957,
+      "character": "築",
+      "readings": [
+        "ちく",
+        "きず"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Something that's <kanji>new</kanji>ly <kanji>construct</kanji>ed is something that's <vocabulary>newly built</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%96%B0%E7%AF%89",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "新",
+      "id": 857,
+      "reading": "しん"
+    },
+    {
+      "type": "kanji",
+      "value": "築",
+      "id": 957,
+      "reading": "ちく"
+    }
+  ]
+}

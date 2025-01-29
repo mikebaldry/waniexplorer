@@ -1,0 +1,47 @@
+{
+  "id": 5630,
+  "type": "vocabulary",
+  "characters": "垂直",
+  "primaryMeaning": "Vertical",
+  "otherMeanings": [
+    "Perpendicular"
+  ],
+  "primaryReading": "すいちょく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1519,
+      "character": "垂",
+      "readings": [
+        "すい",
+        "た"
+      ]
+    },
+    {
+      "id": 630,
+      "character": "直",
+      "readings": [
+        "ちょく",
+        "じき",
+        "なお"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Something is <kanji>dangl</kanji>ing in front of you, so you <kanji>fix</kanji> it so it's straight and not moving. It becomes perfectly <vocabulary>vertical</vocabulary>, <vocabulary>perpendicular</vocabulary> to the floor.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%9E%82%E7%9B%B4",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "垂",
+      "id": 1519,
+      "reading": "すい"
+    },
+    {
+      "type": "kanji",
+      "value": "直",
+      "id": 630,
+      "reading": "ちょく"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": 785,
+  "type": "kanji",
+  "character": "別",
+  "primaryMeaning": "Separate",
+  "otherMeanings": [],
+  "primaryReading": "べつ",
+  "readings": [
+    {
+      "reading": "べつ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "わか",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Why are you trying to make a sword and knife <kanji>separate</kanji> in your mouth? Because someone <reading>bets</reading> (べつ) you can't do it.",
+  "meaningMnemonic": "In your <radical>mouth</radical> you put a <radical>sword</radical> and a <radical>knife</radical>. Now that you have them in there, you have to make them <kanji>separate</kanji> from each other.",
+  "vocabularyIds": [
+    3262,
+    3263,
+    3264,
+    3265,
+    3266,
+    4174,
+    4715,
+    4908,
+    7495,
+    7744,
+    8142
+  ],
+  "radicalIds": [
+    16,
+    24,
+    128
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%88%A5"
+}

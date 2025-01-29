@@ -1,0 +1,46 @@
+{
+  "id": 3419,
+  "type": "vocabulary",
+  "characters": "方言",
+  "primaryMeaning": "Dialect",
+  "otherMeanings": [],
+  "primaryReading": "ほうげん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 510,
+      "character": "方",
+      "readings": [
+        "ほう",
+        "かた"
+      ]
+    },
+    {
+      "id": 593,
+      "character": "言",
+      "readings": [
+        "げん",
+        "ごん",
+        "い",
+        "こと"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>way</kanji> you <kanji>say</kanji> things is your <vocabulary>dialect</vocabulary>. It's an entire \"way\" of speaking. \n\nYou can even think of the  方 as being a \"direction.\" If you go far enough in different directions in a country, you'll discover different regional dialects.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%96%B9%E8%A8%80",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "方",
+      "id": 510,
+      "reading": "ほう"
+    },
+    {
+      "type": "kanji",
+      "value": "言",
+      "id": 593,
+      "reading": "げん"
+    }
+  ]
+}

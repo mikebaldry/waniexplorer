@@ -1,0 +1,49 @@
+{
+  "id": 8559,
+  "type": "vocabulary",
+  "characters": "甚大",
+  "primaryMeaning": "Immense",
+  "otherMeanings": [
+    "Tremendous",
+    "Enormous"
+  ],
+  "primaryReading": "じんだい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2408,
+      "character": "甚",
+      "readings": [
+        "じん",
+        "はなは"
+      ]
+    },
+    {
+      "id": 453,
+      "character": "大",
+      "readings": [
+        "たい",
+        "だい",
+        "おお",
+        "ひろ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Another way to say something is <kanji>very</kanji> <kanji>big</kanji> is to say it is <vocabulary>immense</vocabulary> or <vocabulary>enormous</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%94%9A%E5%A4%A7",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "甚",
+      "id": 2408,
+      "reading": "じん"
+    },
+    {
+      "type": "kanji",
+      "value": "大",
+      "id": 453,
+      "reading": "だい"
+    }
+  ]
+}

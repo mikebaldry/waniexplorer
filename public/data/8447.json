@@ -1,0 +1,45 @@
+{
+  "id": 8447,
+  "type": "vocabulary",
+  "characters": "触媒",
+  "primaryMeaning": "Catalyst",
+  "otherMeanings": [],
+  "primaryReading": "しょくばい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1229,
+      "character": "触",
+      "readings": [
+        "しょく",
+        "さわ",
+        "ふ"
+      ]
+    },
+    {
+      "id": 2379,
+      "character": "媒",
+      "readings": [
+        "ばい",
+        "なこうど"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If a <kanji>mediator</kanji> <kanji>touch</kanji>es people the right way, they will become a <vocabulary>catalyst</vocabulary> for change. This could be good or bad change depending on what they stuck their hands in.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A7%A6%E5%AA%92",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "触",
+      "id": 1229,
+      "reading": "しょく"
+    },
+    {
+      "type": "kanji",
+      "value": "媒",
+      "id": 2379,
+      "reading": "ばい"
+    }
+  ]
+}

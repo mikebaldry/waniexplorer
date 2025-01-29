@@ -1,0 +1,48 @@
+{
+  "id": 5412,
+  "type": "vocabulary",
+  "characters": "分離",
+  "primaryMeaning": "Separation",
+  "otherMeanings": [
+    "Segregation"
+  ],
+  "primaryReading": "ぶんり",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 501,
+      "character": "分",
+      "readings": [
+        "ぶん",
+        "ふん",
+        "ぶ",
+        "わ"
+      ]
+    },
+    {
+      "id": 1443,
+      "character": "離",
+      "readings": [
+        "り",
+        "はな"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you <kanji>divide</kanji> and <kanji>detach</kanji> things from each other, you're creating <vocabulary>separation</vocabulary> between them. Makes sense, right?\n\n分離 is a word you might hear in science when discussing how different substances, like oil and water, don't mix and separate from each other.\n\nAdditionally, 分離 can also be a formal term used to describe separating groups of people, often in discussions about serious topics like social <vocabulary>segregation</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%88%86%E9%9B%A2",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "分",
+      "id": 501,
+      "reading": "ぶん"
+    },
+    {
+      "type": "kanji",
+      "value": "離",
+      "id": 1443,
+      "reading": "り"
+    }
+  ]
+}

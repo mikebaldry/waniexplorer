@@ -1,0 +1,61 @@
+{
+  "id": 2650,
+  "type": "vocabulary",
+  "characters": "先々月",
+  "primaryMeaning": "Month Before Last",
+  "otherMeanings": [
+    "The Month Before Last"
+  ],
+  "primaryReading": "せんせんげつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 543,
+      "character": "先",
+      "readings": [
+        "せん",
+        "さき",
+        "ま"
+      ]
+    },
+    {
+      "id": 856,
+      "character": "々",
+      "readings": [
+        "のま"
+      ]
+    },
+    {
+      "id": 477,
+      "character": "月",
+      "readings": [
+        "げつ",
+        "がつ",
+        "つき"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>previous</kanji> <kanji>previous</kanji> <kanji>month</kanji> (remember that 々 just repeats the kanji before it) is the <vocabulary>month before last</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%85%88%E3%80%85%E6%9C%88",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "先",
+      "id": 543,
+      "reading": "せん"
+    },
+    {
+      "type": "kanji",
+      "value": "々",
+      "id": 543,
+      "reading": "せん"
+    },
+    {
+      "type": "kanji",
+      "value": "月",
+      "id": 477,
+      "reading": "げつ"
+    }
+  ]
+}

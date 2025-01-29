@@ -1,0 +1,160 @@
+{
+  "id": 9213,
+  "object": "kana_vocabulary",
+  "url": "https://api.wanikani.com/v2/subjects/9213",
+  "data_updated_at": "2024-10-15T22:19:13.473969Z",
+  "data": {
+    "created_at": "2023-04-25T00:01:23.967209Z",
+    "level": 9,
+    "slug": "ほとんど",
+    "hidden_at": null,
+    "document_url": "https://www.wanikani.com/vocabulary/%E3%81%BB%E3%81%A8%E3%82%93%E3%81%A9",
+    "characters": "ほとんど",
+    "meanings": [
+      {
+        "meaning": "Most",
+        "primary": true,
+        "accepted_answer": true
+      },
+      {
+        "meaning": "Almost All",
+        "primary": false,
+        "accepted_answer": true
+      },
+      {
+        "meaning": "Hardly",
+        "primary": false,
+        "accepted_answer": true
+      }
+    ],
+    "auxiliary_meanings": [
+      {
+        "meaning": "Almost Nothing",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Rarely",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "A Few",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Mostly",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Nearly",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Scarcely",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Most Of",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "All But",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Hardly Any",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Barely",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Barely Any",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Virtually",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Almost",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Really",
+        "type": "blacklist"
+      }
+    ],
+    "parts_of_speech": [
+      "adverb",
+      "noun"
+    ],
+    "meaning_mnemonic": "What can be eaten <reading>hot on dough</reading> (ほとんど)? <vocabulary>Most</vocabulary> things can. <vocabulary>Almost all</vocabulary> things, in fact. <vocabulary>Hardly</vocabulary> anything tastes bad when it's hot and served on dough.",
+    "context_sentences": [
+      {
+        "en": "I've played almost all of the games here.",
+        "ja": "ここにあるゲーム、ほとんどプレイしたことあるよ。"
+      },
+      {
+        "en": "I hardly understand any of this lecture.",
+        "ja": "このレクチャー、ほとんど分からないんだけど。"
+      },
+      {
+        "en": "Most people have smartphones nowadays.",
+        "ja": "今どき、スマホなんてほとんどの人がもってるでしょ。"
+      }
+    ],
+    "pronunciation_audios": [
+      {
+        "url": "https://files.wanikani.com/yrsr51n4hd5lg8ylzgne535n8vfd",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44780,
+          "pronunciation": "ほとんど",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/5yrs3sjv8w0t50iypiiu98fxgt1e",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44780,
+          "pronunciation": "ほとんど",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      },
+      {
+        "url": "https://files.wanikani.com/dfdea5412cwmwlqji31ls2mwdm9y",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44721,
+          "pronunciation": "ほとんど",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/b6euyf42pyx691v2eqo9daeai0j9",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44721,
+          "pronunciation": "ほとんど",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      }
+    ],
+    "lesson_position": 70,
+    "spaced_repetition_system_id": 1
+  }
+}

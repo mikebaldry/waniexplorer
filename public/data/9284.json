@@ -1,0 +1,45 @@
+{
+  "id": 9284,
+  "type": "vocabulary",
+  "characters": "歯科",
+  "primaryMeaning": "Dentistry",
+  "otherMeanings": [
+    "Dental"
+  ],
+  "primaryReading": "しか",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 841,
+      "character": "歯",
+      "readings": [
+        "は",
+        "し"
+      ]
+    },
+    {
+      "id": 642,
+      "character": "科",
+      "readings": [
+        "か"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Tooth</kanji> <kanji>science</kanji> gives you the science of <vocabulary>dentistry</vocabulary>, simple as that!\n\nNote that when used by itself, this word solely refers to the scientific field of dentistry. You'll often see it used in combination with other medical words, so have a look at the common word combinations if you wanna know more!",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. You haven't learned this reading for 歯 yet, so here's a mnemonic to help you:\n\nYou know who benefits from great <vocabulary>dentistry</vocabulary>? <reading>Shee</reading>p (し)! Have you seen one smile? Their wool makes a great, endless source of <vocabulary>dental</vocabulary> floss. That's their secret. Just think of the sheep and their perfect teeth and you'll never forget this reading!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%AD%AF%E7%A7%91",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "歯",
+      "id": 841,
+      "reading": "し"
+    },
+    {
+      "type": "kanji",
+      "value": "科",
+      "id": 642,
+      "reading": "か"
+    }
+  ]
+}

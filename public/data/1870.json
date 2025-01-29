@@ -1,0 +1,33 @@
+{
+  "id": 1870,
+  "type": "kanji",
+  "character": "炉",
+  "primaryMeaning": "Furnace",
+  "otherMeanings": [],
+  "primaryReading": "ろ",
+  "readings": [
+    {
+      "reading": "ろ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "いろり",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You're using the <kanji>furnace</kanji> to melt tar to put on the <reading>ro</reading>ad (ろ).",
+  "meaningMnemonic": "A <radical>fire</radical> <radical>door</radical> is a door that leads to something full of fire. That thing is a <kanji>furnace</kanji>.",
+  "vocabularyIds": [
+    6747,
+    6748,
+    6749,
+    6750
+  ],
+  "radicalIds": [
+    46,
+    73
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%82%89"
+}

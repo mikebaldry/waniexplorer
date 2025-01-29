@@ -1,0 +1,33 @@
+{
+  "id": 2277,
+  "type": "kanji",
+  "character": "賓",
+  "primaryMeaning": "VIP",
+  "otherMeanings": [
+    "Guest"
+  ],
+  "primaryReading": "ひん",
+  "readings": [
+    {
+      "reading": "ひん",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "These <kanji>VIP</kanji> <kanji>guest</kanji>s are part of a <reading>Hin</reading>du (ひん) envoy. ",
+  "meaningMnemonic": "Between the <radical>roof</radical> and the <radical>ground</radical> there are <radical>few</radical> <radical>shellfish</radical>. This is because we invited some <kanji>VIP</kanji> <kanji>guest</kanji>s into our home and they ate all our shellfish.",
+  "vocabularyIds": [
+    8237,
+    8238,
+    8239,
+    8240,
+    8412
+  ],
+  "radicalIds": [
+    78,
+    1,
+    198,
+    94
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%B3%93"
+}

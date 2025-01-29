@@ -1,0 +1,32 @@
+{
+  "id": 1673,
+  "type": "kanji",
+  "character": "狙",
+  "primaryMeaning": "Aim",
+  "otherMeanings": [],
+  "primaryReading": "そ",
+  "readings": [
+    {
+      "reading": "そ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ねら",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Ready, steady, <kanji>aim</kanji>... fire! You throw a bar of <reading>so</reading>ap (そ) at the animal. Yes, soap. You were sitting in your bathtub, washing and scrubbing, then the animal in the top hat caught your eye.",
+  "meaningMnemonic": "You see an <radical>animal</radical> wearing a <radical>top hat</radical> and decide to <kanji>aim</kanji> at it. The top hat is a perfect, giant target you use to take down this animal.",
+  "vocabularyIds": [
+    6134,
+    6135,
+    6258
+  ],
+  "radicalIds": [
+    144,
+    419
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%8B%99"
+}

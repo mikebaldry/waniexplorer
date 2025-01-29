@@ -1,0 +1,41 @@
+{
+  "id": 1056,
+  "type": "kanji",
+  "character": "煙",
+  "primaryMeaning": "Smoke",
+  "otherMeanings": [],
+  "primaryReading": "えん",
+  "readings": [
+    {
+      "reading": "えん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "けむ",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "けむり",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "The <kanji>smoke</kanji> is too much and you realize this is the <reading>en</reading>d (えん) for you. You're gonna die here!",
+  "meaningMnemonic": "You have a <radical>fire</radical> going on some <radical>dirt</radical> when a <radical>helicopter</radical> flies overhead. This causes <kanji>smoke</kanji> from the fire and the dirt to spread everywhere! It's in your eyes, your mouth, your ears! The smoke gets in your lungs and you can't breathe. Why helicopter, why!",
+  "vocabularyIds": [
+    4087,
+    4120,
+    4121,
+    4125,
+    4303,
+    7869
+  ],
+  "radicalIds": [
+    46,
+    424,
+    17
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%85%99"
+}

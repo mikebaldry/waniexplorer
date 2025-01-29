@@ -1,0 +1,44 @@
+{
+  "id": 5293,
+  "type": "vocabulary",
+  "characters": "英雄",
+  "primaryMeaning": "Hero",
+  "otherMeanings": [],
+  "primaryReading": "えいゆう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 953,
+      "character": "英",
+      "readings": [
+        "えい"
+      ]
+    },
+    {
+      "id": 1387,
+      "character": "雄",
+      "readings": [
+        "ゆう",
+        "おす",
+        "お"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You've learned 英 means \"England,\" but it can also mean <kanji>excel</kanji>. So what kind of person excels at being <kanji>brave</kanji>? A <vocabulary>hero</vocabulary>!\n\n英雄 is a relatively formal word often used to describe historical or legendary heroes, like William Wallace or King Arthur. In more casual contexts, like when talking about superheroes or referring to your dad as your hero, ヒーロー is more common.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%8B%B1%E9%9B%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "英",
+      "id": 953,
+      "reading": "えい"
+    },
+    {
+      "type": "kanji",
+      "value": "雄",
+      "id": 1387,
+      "reading": "ゆう"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 3732,
+  "type": "vocabulary",
+  "characters": "信じる",
+  "primaryMeaning": "To Believe",
+  "otherMeanings": [
+    "To Trust In"
+  ],
+  "primaryReading": "しんじる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 940,
+      "character": "信",
+      "readings": [
+        "しん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>believe</kanji> so the verb vocab version is <vocabulary>to believe</vocabulary>.",
+  "readingMnemonic": "The reading for 信 is しん no matter what! See, if you believe, good things will happen. You should be able to read this.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BF%A1%E3%81%98%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "信",
+      "id": 940,
+      "reading": "しん"
+    },
+    {
+      "type": "kana",
+      "value": "じる"
+    }
+  ]
+}

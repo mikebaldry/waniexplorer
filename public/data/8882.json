@@ -1,0 +1,26 @@
+{
+  "id": 8882,
+  "type": "kanji",
+  "character": "挨",
+  "primaryMeaning": "Push Open",
+  "otherMeanings": [],
+  "primaryReading": "あい",
+  "readings": [
+    {
+      "reading": "あい",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Your favorite thing to <kanji>push open</kanji> is your own <reading>eye</reading> (あい). You take the arrow into your fingers and gently push each lid open until you can see.",
+  "meaningMnemonic": "You use your <radical>fingers</radical> when you're in <radical>private</radical> to use an <radical>arrow</radical> to <kanji>push open</kanji> things.",
+  "vocabularyIds": [
+    8894
+  ],
+  "radicalIds": [
+    63,
+    140,
+    72
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%8C%A8"
+}

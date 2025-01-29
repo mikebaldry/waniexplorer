@@ -1,0 +1,34 @@
+{
+  "id": 1663,
+  "type": "kanji",
+  "character": "闘",
+  "primaryMeaning": "Struggle",
+  "otherMeanings": [],
+  "primaryReading": "とう",
+  "readings": [
+    {
+      "reading": "とう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "たたか",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You continue to <kanji>struggle</kanji> because you need to get these beans to the other side of the gate and into <reading>とう</reading>きょう. You usually struggle a little when people want to bring things through the gate to とうきょう, but this is ridiculous.",
+  "meaningMnemonic": "At this <radical>gate</radical> you're trying to get some <radical>beans</radical> through, but the <radical>measurements</radical> were off and you're starting to <kanji>struggle</kanji>. No matter how you push or pull these beans, they're just too big to get through the gate.",
+  "vocabularyIds": [
+    6109,
+    6110,
+    6111,
+    8369
+  ],
+  "radicalIds": [
+    214,
+    181,
+    74
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%97%98"
+}

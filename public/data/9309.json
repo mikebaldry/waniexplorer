@@ -1,0 +1,49 @@
+{
+  "id": 9309,
+  "type": "vocabulary",
+  "characters": "素人",
+  "primaryMeaning": "Amateur",
+  "otherMeanings": [
+    "Novice"
+  ],
+  "primaryReading": "しろうと",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1138,
+      "character": "素",
+      "readings": [
+        "そ",
+        "す",
+        "もと"
+      ]
+    },
+    {
+      "id": 444,
+      "character": "人",
+      "readings": [
+        "にん",
+        "じん",
+        "ひと",
+        "と"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You've got a very <kanji>element</kanji>al <kanji>person</kanji>. They're so elementary that they're quite an <vocabulary>amateur</vocabulary>, really. Maybe a little too elemental.",
+  "readingMnemonic": "Unfortunately, the reading for this is a complete exception, so you'll just have to memorize it. Here's a mnemonic to help you:\n\n\"You're an <vocabulary>amateur</vocabulary>!\", <reading>she wrote</reading> (しろうと). A little harsh, isn't it? But that's what she wrote. Gotta do a little better to impress her, pal.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B4%A0%E4%BA%BA",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "素",
+      "id": 1138,
+      "reading": null
+    },
+    {
+      "type": "kanji",
+      "value": "人",
+      "id": 444,
+      "reading": null
+    }
+  ]
+}

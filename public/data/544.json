@@ -1,0 +1,60 @@
+{
+  "id": 544,
+  "type": "kanji",
+  "character": "名",
+  "primaryMeaning": "Name",
+  "otherMeanings": [
+    "Famous"
+  ],
+  "primaryReading": "めい",
+  "readings": [
+    {
+      "reading": "めい",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "みょう",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "な",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "So, when does “Evening Mouth” appear? Turns out, “Evening Mouth” only comes out to talk in <reading>May</reading> (めい). You know this because it’s just starting to be spring, and when you look around (you’re watching “Evening Mouth” again) you see some spring flowers come up.",
+  "meaningMnemonic": "What is the <radical>evening</radical> <radical>mouth</radical>? Imagine a mouth that’s up in the night sky. It’s just there, talking, and only comes out at night. It only appears in one area of the world (what area would you choose? Imagine yourself going to that place to see the “night mouth.”), and appears only one month out of the year (more on this in a second). The “evening mouth” is the most famous thing in the _____ area (this is the area you choose). He’s so <kanji>famous</kanji> that everybody knows his <kanji>name</kanji> (“Evening Mouth.”).",
+  "vocabularyIds": [
+    2655,
+    2656,
+    2867,
+    2869,
+    2929,
+    3042,
+    3109,
+    3122,
+    3157,
+    3460,
+    3501,
+    4020,
+    4027,
+    4233,
+    4394,
+    4896,
+    5159,
+    5954,
+    6278,
+    6439,
+    7377,
+    7631,
+    8598,
+    8919
+  ],
+  "radicalIds": [
+    33,
+    16
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%90%8D"
+}

@@ -1,0 +1,60 @@
+{
+  "id": 8803,
+  "type": "vocabulary",
+  "characters": "番号札",
+  "primaryMeaning": "Numbered Tag",
+  "otherMeanings": [
+    "Numbered Ticket"
+  ],
+  "primaryReading": "ばんごうふだ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 696,
+      "character": "番",
+      "readings": [
+        "ばん",
+        "つが",
+        "つがい"
+      ]
+    },
+    {
+      "id": 533,
+      "character": "号",
+      "readings": [
+        "ごう"
+      ]
+    },
+    {
+      "id": 649,
+      "character": "札",
+      "readings": [
+        "さつ",
+        "ふだ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You know 番号 means \"number\" so add a <kanji>tag</kanji> to it and you have a <vocabulary>numbered tag</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word (番号) with a single-word kanji added. That means you have two on'yomi readings from the jukugo word and the kun'yomi reading from the single kanji (ふだ). Put them all together and you have the reading of this kanji!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%95%AA%E5%8F%B7%E6%9C%AD",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "番",
+      "id": 696,
+      "reading": "ばん"
+    },
+    {
+      "type": "kanji",
+      "value": "号",
+      "id": 533,
+      "reading": "ごう"
+    },
+    {
+      "type": "kanji",
+      "value": "札",
+      "id": 649,
+      "reading": "ふだ"
+    }
+  ]
+}

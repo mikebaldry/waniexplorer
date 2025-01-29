@@ -1,0 +1,32 @@
+{
+  "id": 2258,
+  "type": "kanji",
+  "character": "茜",
+  "primaryMeaning": "Red Dye",
+  "otherMeanings": [
+    "Madder"
+  ],
+  "primaryReading": "あかね",
+  "readings": [
+    {
+      "reading": "あかね",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "せん",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "As you're smashing the flowers into <kanji>red dye</kanji>, a little girl comes up to you and points at the paste. She says, \"<reading>赤ね</reading> (あかね)?\" (That's red, right?) You look down at the red dye on your fingers and nod. She's right, it is red.",
+  "meaningMnemonic": "<radical>Flowers</radical> that grow in the <radical>west</radical> are colored by the sun setting so they turn bright red. That's why red flowers that grow in the west are used to make <kanji>red dye</kanji>. They're the closest to the actual color of the red sun, so they're prized by painters and other artists for their perfect color for dye.",
+  "vocabularyIds": [
+    9106
+  ],
+  "radicalIds": [
+    90,
+    112
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%8C%9C"
+}

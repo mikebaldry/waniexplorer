@@ -1,0 +1,46 @@
+{
+  "id": 4324,
+  "type": "vocabulary",
+  "characters": "被害",
+  "primaryMeaning": "Damage",
+  "otherMeanings": [
+    "Harm",
+    "Injury"
+  ],
+  "primaryReading": "ひがい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1097,
+      "character": "被",
+      "readings": [
+        "ひ",
+        "かぶ"
+      ]
+    },
+    {
+      "id": 1093,
+      "character": "害",
+      "readings": [
+        "がい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Incur</kanji>ing <kanji>damage</kanji> creates <vocabulary>damage</vocabulary>,  <vocabulary>harm</vocabulary> and <vocabulary>injury</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A2%AB%E5%AE%B3",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "被",
+      "id": 1097,
+      "reading": "ひ"
+    },
+    {
+      "type": "kanji",
+      "value": "害",
+      "id": 1093,
+      "reading": "がい"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": 8418,
+  "type": "vocabulary",
+  "characters": "遮断",
+  "primaryMeaning": "Isolation",
+  "otherMeanings": [
+    "Cut Off",
+    "Blockade",
+    "Quarantine"
+  ],
+  "primaryReading": "しゃだん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2356,
+      "character": "遮",
+      "readings": [
+        "しゃ",
+        "さえぎ"
+      ]
+    },
+    {
+      "id": 1139,
+      "character": "断",
+      "readings": [
+        "だん",
+        "ことわ",
+        "た"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you <kanji>intercept</kanji> trade and <kanji>cut off</kanji> a country from the rest of the world they'll be stuck in a state of <vocabulary>isolation</vocabulary> or if they have some kind of disease like zombie-itus, it's a <vocabulary>quarantine</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%81%AE%E6%96%AD",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "遮",
+      "id": 2356,
+      "reading": "しゃ"
+    },
+    {
+      "type": "kanji",
+      "value": "断",
+      "id": 1139,
+      "reading": "だん"
+    }
+  ]
+}

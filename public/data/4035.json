@@ -1,0 +1,50 @@
+{
+  "id": 4035,
+  "type": "vocabulary",
+  "characters": "自覚",
+  "primaryMeaning": "Self-Awareness",
+  "otherMeanings": [
+    "Realization",
+    "Awareness",
+    "Consciousness"
+  ],
+  "primaryReading": "じかく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 578,
+      "character": "自",
+      "readings": [
+        "じ",
+        "し",
+        "みずか"
+      ]
+    },
+    {
+      "id": 1025,
+      "character": "覚",
+      "readings": [
+        "かく",
+        "おぼ",
+        "さ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "What does <kanji>self</kanji> and <kanji>awake</kanji> mean in combination? This refers to <vocabulary>self-awareness</vocabulary>, <vocabulary>consciousness</vocabulary> of yourself, or a <vocabulary>realization</vocabulary>.\n\nWondering about the difference between 意識 and 自覚? 意識 refers to a general state of awareness or consciousness, while 自覚 specifically relates to self-awareness. It implies clearly recognizing one's own actions, abilities, or circumstances, and is often used in contexts relating to personal growth.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%87%AA%E8%A6%9A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "自",
+      "id": 578,
+      "reading": "じ"
+    },
+    {
+      "type": "kanji",
+      "value": "覚",
+      "id": 1025,
+      "reading": "かく"
+    }
+  ]
+}

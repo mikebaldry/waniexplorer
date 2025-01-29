@@ -1,0 +1,46 @@
+{
+  "id": 808,
+  "type": "kanji",
+  "character": "便",
+  "primaryMeaning": "Convenience",
+  "otherMeanings": [
+    "Convenient"
+  ],
+  "primaryReading": "べん",
+  "readings": [
+    {
+      "reading": "べん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "びん",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "たよ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "She finds a place to dig in the ground. It looks like there's some fresh dirt here. Finally, the treasure of <kanji>convenience</kanji> that will make this leader's life so much easier. She digs into the ground and pulls out a box. When she opens it, she finds out it's a <reading>ben</reading>to (べん). \"My god,\" she thinks. \"This really will make my life more convenient. My people can take their lunches with them now instead of coming back to base to eat, which will waste way less time!\"",
+  "meaningMnemonic": "A <radical>leader</radical> stands upon the <radical>ground</radical> of the <radical>rice paddy</radical>. She is searching for <radical>treasure</radical>. It is said that this treasure here in this rice field will make things much easier for the leader (that's what leaders really want, after all). If she gets this treasure, it will be a great <kanji>convenience</kanji> for her, because convenience is everything when you're the leader.",
+  "vocabularyIds": [
+    3268,
+    3314,
+    3315,
+    4999,
+    5203,
+    5204,
+    5205,
+    5597
+  ],
+  "radicalIds": [
+    75,
+    1,
+    51,
+    31
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E4%BE%BF"
+}

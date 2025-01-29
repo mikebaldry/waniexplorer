@@ -1,0 +1,34 @@
+{
+  "id": 5657,
+  "type": "vocabulary",
+  "characters": "異なる",
+  "primaryMeaning": "To Differ",
+  "otherMeanings": [],
+  "primaryReading": "ことなる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1530,
+      "character": "異",
+      "readings": [
+        "い",
+        "こと"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>differ</kanji> so the verb vocab version is <vocabulary>to differ</vocabulary>.",
+  "readingMnemonic": "Look at your <reading>coat</reading> (こと), now look at mine. They are different. If you look at them, they are going <vocabulary>to differ</vocabulary>.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%95%B0%E3%81%AA%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "異",
+      "id": 1530,
+      "reading": "こと"
+    },
+    {
+      "type": "kana",
+      "value": "なる"
+    }
+  ]
+}

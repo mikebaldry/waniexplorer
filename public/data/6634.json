@@ -1,0 +1,63 @@
+{
+  "id": 6634,
+  "type": "vocabulary",
+  "characters": "交通網",
+  "primaryMeaning": "Traffic Network",
+  "otherMeanings": [
+    "Transportation Network"
+  ],
+  "primaryReading": "こうつうもう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 565,
+      "character": "交",
+      "readings": [
+        "こう",
+        "まじ",
+        "ま",
+        "か"
+      ]
+    },
+    {
+      "id": 665,
+      "character": "通",
+      "readings": [
+        "つう",
+        "とお",
+        "かよ"
+      ]
+    },
+    {
+      "id": 1832,
+      "character": "網",
+      "readings": [
+        "もう",
+        "あみ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>mix</kanji> of cars that <kanji>pass through</kanji> a <kanji>net</kanji>, that's a <vocabulary>traffic network</vocabulary>. ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BA%A4%E9%80%9A%E7%B6%B2",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "交",
+      "id": 565,
+      "reading": "こう"
+    },
+    {
+      "type": "kanji",
+      "value": "通",
+      "id": 665,
+      "reading": "つう"
+    },
+    {
+      "type": "kanji",
+      "value": "網",
+      "id": 1832,
+      "reading": "もう"
+    }
+  ]
+}

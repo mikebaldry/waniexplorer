@@ -1,0 +1,56 @@
+{
+  "id": 590,
+  "type": "kanji",
+  "character": "来",
+  "primaryMeaning": "Come",
+  "otherMeanings": [
+    "Next"
+  ],
+  "primaryReading": "らい",
+  "readings": [
+    {
+      "reading": "らい",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "く",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "き",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "When they come, though, everyone is disappointed. It turns out it's <reading>rye</reading> (らい) grains, and rye grains taste terrible. Yuck.",
+  "meaningMnemonic": "There's <radical>rice</radical> spread out all over the <radical>ground</radical>. This will cause the Predator to <kanji>come</kanji> because he loves kome (rice). Then once he's gone, the <kanji>next</kanji> Predator will come to eat.",
+  "vocabularyIds": [
+    2824,
+    2825,
+    2826,
+    2827,
+    2828,
+    2829,
+    2946,
+    3418,
+    3421,
+    3461,
+    4888,
+    4889,
+    4890,
+    4914,
+    5959,
+    8239,
+    8322,
+    8698,
+    8736,
+    9066
+  ],
+  "radicalIds": [
+    1,
+    98
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%9D%A5"
+}

@@ -1,0 +1,32 @@
+{
+  "id": 1964,
+  "type": "kanji",
+  "character": "鍛",
+  "primaryMeaning": "Forge",
+  "otherMeanings": [],
+  "primaryReading": "たん",
+  "readings": [
+    {
+      "reading": "たん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "きた",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You're trying to work the <kanji>forge</kanji>, but it's harder than you thought. You end up forging outside all day and get a wicked <reading>tan</reading> (たん).",
+  "meaningMnemonic": "You want to turn your <radical>gold</radical> <radical>comb</radical> into a <radical>weapon</radical>, so you throw it into the <kanji>forge</kanji>.",
+  "vocabularyIds": [
+    7022,
+    7024
+  ],
+  "radicalIds": [
+    118,
+    8792,
+    160
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%8D%9B"
+}

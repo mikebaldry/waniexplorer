@@ -1,0 +1,33 @@
+{
+  "id": 511,
+  "type": "kanji",
+  "character": "牛",
+  "primaryMeaning": "Cow",
+  "otherMeanings": [],
+  "primaryReading": "ぎゅう",
+  "readings": [
+    {
+      "reading": "ぎゅう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "うし",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Have you ever heard of わ<reading>ぎゅう</reading> (wagyu) beef? That ぎゅう is this ぎゅう.",
+  "meaningMnemonic": "The radical and the kanji for <kanji>cow</kanji> are exactly the same! That makes it easy to remember, so long as you know your radicals well enough.",
+  "vocabularyIds": [
+    2619,
+    2768,
+    3403,
+    4646,
+    5754
+  ],
+  "radicalIds": [
+    126
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%89%9B"
+}

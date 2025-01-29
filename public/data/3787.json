@@ -1,0 +1,47 @@
+{
+  "id": 3787,
+  "type": "vocabulary",
+  "characters": "英国",
+  "primaryMeaning": "Britain",
+  "otherMeanings": [
+    "Uk",
+    "United Kingdom",
+    "England"
+  ],
+  "primaryReading": "えいこく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 953,
+      "character": "英",
+      "readings": [
+        "えい"
+      ]
+    },
+    {
+      "id": 621,
+      "character": "国",
+      "readings": [
+        "こく",
+        "くに"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>England</kanji> <kanji>country</kanji> is where England is. This word can refer to <vocabulary>Britain</vocabulary>, the <vocabulary>United Kingdom</vocabulary> and <vocabulary>England</vocabulary>!\n\nNote that イギリス is more common for \"England\" - but, since this is a kanji learning website you should learn this word.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%8B%B1%E5%9B%BD",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "英",
+      "id": 953,
+      "reading": "えい"
+    },
+    {
+      "type": "kanji",
+      "value": "国",
+      "id": 621,
+      "reading": "こく"
+    }
+  ]
+}

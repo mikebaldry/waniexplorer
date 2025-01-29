@@ -1,0 +1,36 @@
+{
+  "id": 8339,
+  "type": "vocabulary",
+  "characters": "飽きる",
+  "primaryMeaning": "To Get Tired Of",
+  "otherMeanings": [
+    "To Lose Interest In"
+  ],
+  "primaryReading": "あきる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2316,
+      "character": "飽",
+      "readings": [
+        "ほう",
+        "あ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>bored</kanji>, so the verb version is <vocabulary>to get tired of</vocabulary> or <vocabulary>to lose interest in</vocabulary>.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading.  You haven't learned this reading yet, so here's a mnemonic to help you:\n\nWhen you start <vocabulary>to get tired of</vocabulary> something you can't help but yawn \"<reading>Ahh</reading> (あ).\" It doesn't matter how hard you try to hold back. The \"A-ah's\" keep coming out.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%A3%BD%E3%81%8D%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "飽",
+      "id": 2316,
+      "reading": "あ"
+    },
+    {
+      "type": "kana",
+      "value": "きる"
+    }
+  ]
+}

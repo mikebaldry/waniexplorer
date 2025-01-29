@@ -1,0 +1,36 @@
+{
+  "id": 1277,
+  "type": "kanji",
+  "character": "隠",
+  "primaryMeaning": "Hide",
+  "otherMeanings": [],
+  "primaryReading": "いん",
+  "readings": [
+    {
+      "reading": "いん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "かく",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "The wolverine looks up at the building he's trying to <kanji>hide</kanji> behind and sees it's an <reading>inn</reading> (いん).",
+  "meaningMnemonic": "Behind a <radical>building</radical>, a <radical>cleat</radical>-wearing <radical>wolverine</radical> is holding his <radical>heart</radical> and trying to <kanji>hide</kanji>.",
+  "vocabularyIds": [
+    4834,
+    4835,
+    5004,
+    5103,
+    8597
+  ],
+  "radicalIds": [
+    176,
+    8772,
+    105,
+    65
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%9A%A0"
+}

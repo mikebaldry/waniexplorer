@@ -1,0 +1,36 @@
+{
+  "id": 1164,
+  "type": "kanji",
+  "character": "置",
+  "primaryMeaning": "Put",
+  "otherMeanings": [],
+  "primaryReading": "ち",
+  "readings": [
+    {
+      "reading": "ち",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "お",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Once it's fixed, you <kanji>put</kanji> a bunch of <reading>chee</reading>se (ち) in the net. You want to catch something that eats cheese, so that you can then put that animal on your dinner table.",
+  "meaningMnemonic": "This <radical>net</radical> needs to be <radical>fix</radical>ed if you want to <kanji>put</kanji> food on the table.",
+  "vocabularyIds": [
+    4514,
+    4515,
+    4863,
+    5129,
+    5687,
+    6486,
+    7284
+  ],
+  "radicalIds": [
+    163,
+    8821
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%BD%AE"
+}

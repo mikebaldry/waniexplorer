@@ -1,0 +1,57 @@
+{
+  "id": 7958,
+  "type": "vocabulary",
+  "characters": "皮膚科",
+  "primaryMeaning": "Dermatology",
+  "otherMeanings": [],
+  "primaryReading": "ひふか",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 539,
+      "character": "皮",
+      "readings": [
+        "ひ",
+        "かわ"
+      ]
+    },
+    {
+      "id": 2132,
+      "character": "膚",
+      "readings": [
+        "ふ",
+        "はだ"
+      ]
+    },
+    {
+      "id": 642,
+      "character": "科",
+      "readings": [
+        "か"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Remember how you learned that 皮膚 is \"skin?\" Well the <kanji>science</kanji> of skin is <vocabulary>dermatology</vocabulary>!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%9A%AE%E8%86%9A%E7%A7%91",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "皮",
+      "id": 539,
+      "reading": "ひ"
+    },
+    {
+      "type": "kanji",
+      "value": "膚",
+      "id": 2132,
+      "reading": "ふ"
+    },
+    {
+      "type": "kanji",
+      "value": "科",
+      "id": 642,
+      "reading": "か"
+    }
+  ]
+}

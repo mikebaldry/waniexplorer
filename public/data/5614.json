@@ -1,0 +1,51 @@
+{
+  "id": 5614,
+  "type": "vocabulary",
+  "characters": "華々しい",
+  "primaryMeaning": "Gorgeous",
+  "otherMeanings": [
+    "Flamboyant",
+    "Brilliant",
+    "Remarkable"
+  ],
+  "primaryReading": "はなばなしい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1446,
+      "character": "華",
+      "readings": [
+        "か",
+        "はな"
+      ]
+    },
+    {
+      "id": 856,
+      "character": "々",
+      "readings": [
+        "のま"
+      ]
+    }
+  ],
+  "meaningMnemonic": "華やか is \"showy.\" Now we're doubling it, making it doubly showy. If you make something showy enough, it becomes <vocabulary>gorgeous</vocabulary>, but it also becomes pretty <vocabulary>flamboyant</vocabulary>. So, so, so flamboyant.",
+  "readingMnemonic": "The reading comes from 華やか. Note the second はな becomes ばな, to be <reading>はなばな</reading>しい.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%8F%AF%E3%80%85%E3%81%97%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "華",
+      "id": 1446,
+      "reading": "はな"
+    },
+    {
+      "type": "kanji",
+      "value": "々",
+      "id": 1446,
+      "reading": "ばな"
+    },
+    {
+      "type": "kana",
+      "value": "しい"
+    }
+  ]
+}

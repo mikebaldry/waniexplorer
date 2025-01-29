@@ -1,0 +1,38 @@
+{
+  "id": 8862,
+  "type": "kanji",
+  "character": "眉",
+  "primaryMeaning": "Eyebrows",
+  "otherMeanings": [],
+  "primaryReading": "み",
+  "readings": [
+    {
+      "reading": "み",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "び",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "まゆ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Underneath your fake <kanji>eyebrows</kanji> are two slabs of <reading>me</reading>at (み). Meat helps hair grow, according to many Internet specialists who also happen to sell meat. You're waiting for this meat to foster eyebrow hair, and when that sweet day comes you won't need these flags.",
+  "meaningMnemonic": "You're holding a <radical>flag</radical> on a <radical>stick</radical> above your <radical>eye</radical>s to imitate <kanji>eyebrows</kanji>. You can't grow any of your own, but you really love eyebrows, so this was the best you could do.",
+  "vocabularyIds": [
+    8872,
+    8873,
+    8874
+  ],
+  "radicalIds": [
+    37,
+    8761,
+    53
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%9C%89"
+}

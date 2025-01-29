@@ -1,0 +1,45 @@
+{
+  "id": 4459,
+  "type": "vocabulary",
+  "characters": "増加",
+  "primaryMeaning": "Increase",
+  "otherMeanings": [],
+  "primaryReading": "ぞうか",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1148,
+      "character": "増",
+      "readings": [
+        "ぞう",
+        "ふ",
+        "ま"
+      ]
+    },
+    {
+      "id": 1057,
+      "character": "加",
+      "readings": [
+        "か",
+        "くわ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "An <kanji>increase</kanji> will <kanji>add</kanji> to what you had before. This is an <vocabulary>increase</vocabulary>.\n\nThis word refers to an increase in number or quantity, often used in formal contexts, reports, or news articles.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A2%97%E5%8A%A0",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "増",
+      "id": 1148,
+      "reading": "ぞう"
+    },
+    {
+      "type": "kanji",
+      "value": "加",
+      "id": 1057,
+      "reading": "か"
+    }
+  ]
+}

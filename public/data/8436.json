@@ -1,0 +1,47 @@
+{
+  "id": 8436,
+  "type": "vocabulary",
+  "characters": "豪傑",
+  "primaryMeaning": "Hero",
+  "otherMeanings": [
+    "Bold Person",
+    "Daring Person",
+    "Extraordinary Person"
+  ],
+  "primaryReading": "ごうけつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1449,
+      "character": "豪",
+      "readings": [
+        "ごう"
+      ]
+    },
+    {
+      "id": 2393,
+      "character": "傑",
+      "readings": [
+        "けつ",
+        "すぐ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you look back in history and see someone of <kanji>exceptional</kanji> <kanji>greatness</kanji>, they're probably a <vocabulary>hero</vocabulary>. Not just a normal person, but an <vocabulary>extraordinary person</vocabulary> like Hercules or Mae Jemison.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%B1%AA%E5%82%91",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "豪",
+      "id": 1449,
+      "reading": "ごう"
+    },
+    {
+      "type": "kanji",
+      "value": "傑",
+      "id": 2393,
+      "reading": "けつ"
+    }
+  ]
+}

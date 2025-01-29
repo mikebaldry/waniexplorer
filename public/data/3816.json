@@ -1,0 +1,37 @@
+{
+  "id": 3816,
+  "type": "vocabulary",
+  "characters": "危ない",
+  "primaryMeaning": "Dangerous",
+  "otherMeanings": [
+    "Risky"
+  ],
+  "primaryReading": "あぶない",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 989,
+      "character": "危",
+      "readings": [
+        "き",
+        "あぶ",
+        "あや"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>dangerous</kanji>? It's <vocabulary>dangerous</vocabulary>.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: Someone is in danger! It's poor old <reading>abe</reading> (あぶ) Lincoln. You try to save him, yelling out 危ないよ！！！！, but he gets shot in the back of the head anyways.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8D%B1%E3%81%AA%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "危",
+      "id": 989,
+      "reading": "あぶ"
+    },
+    {
+      "type": "kana",
+      "value": "ない"
+    }
+  ]
+}

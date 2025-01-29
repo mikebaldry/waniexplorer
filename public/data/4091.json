@@ -1,0 +1,34 @@
+{
+  "id": 4091,
+  "type": "vocabulary",
+  "characters": "報じる",
+  "primaryMeaning": "To Report On",
+  "otherMeanings": [],
+  "primaryReading": "ほうじる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1035,
+      "character": "報",
+      "readings": [
+        "ほう",
+        "むく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>news report</kanji> so you could try to say \"to news report\" but that doesn't make sense. What does make sense is \"<vocabulary>to report on</vocabulary>,\" however.",
+  "readingMnemonic": "The reading doesn't seem like it's the kanji's on'yomi reading, but it is. What an oddity! Do you think it's worth doing a news report on it? Koichi, reporting in on this strange reading that is readable by you right now. Signing off.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A0%B1%E3%81%98%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "報",
+      "id": 1035,
+      "reading": "ほう"
+    },
+    {
+      "type": "kana",
+      "value": "じる"
+    }
+  ]
+}

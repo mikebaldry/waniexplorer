@@ -1,0 +1,48 @@
+{
+  "id": 9015,
+  "type": "vocabulary",
+  "characters": "冥土",
+  "primaryMeaning": "Realm Of The Dead",
+  "otherMeanings": [
+    "Underworld",
+    "Hades"
+  ],
+  "primaryReading": "めいど",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 9012,
+      "character": "冥",
+      "readings": [
+        "めい",
+        "みょう"
+      ]
+    },
+    {
+      "id": 459,
+      "character": "土",
+      "readings": [
+        "ど",
+        "と",
+        "つち"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>underworld</kanji> <kanji>dirt</kanji> is another word for the <vocabulary>realm of the dead</vocabulary>, <vocabulary>underworld</vocabulary>, or <vocabulary>Hades</vocabulary>. Like the word 冥界 (also in this level), it's rather poetic, and mostly used in written contexts involving spirituality, Buddhism, and ancient mythologies.\n\nThere are a few set expressions that only use 冥土, though. One example is 冥土の土産, \"a souvenir to take to the realm of the dead\". It refers to something abstract that is so valuable, it's worth taking to the underworld, such as the solution to a great mystery, or a happy memory.\n\nAnother expression is 冥土の旅支度, which means \"preparations for the journey to the realm of the dead\", and can refer to the preparation of the deceased before a funeral, as wells as certain preparations made by Buddhists while they're still alive.\n\nYou'll also see this word written as 冥途 sometimes.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%86%A5%E5%9C%9F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "冥",
+      "id": 9012,
+      "reading": "めい"
+    },
+    {
+      "type": "kanji",
+      "value": "土",
+      "id": 459,
+      "reading": "ど"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 7776,
+  "type": "vocabulary",
+  "characters": "暮れる",
+  "primaryMeaning": "To Get Dark",
+  "otherMeanings": [
+    "To End"
+  ],
+  "primaryReading": "くれる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1527,
+      "character": "暮",
+      "readings": [
+        "ぼ",
+        "く"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You've been so busy with your <kanji>livelihood</kanji>, you didn't even notice it's started <vocabulary>to get dark</vocabulary> outside. When you're doing lots of living, days and seasons just seem <vocabulary>to end</vocabulary> rather quickly like that.\n\nAlternatively, think about how <reading>rare</reading> (れる) it is <vocabulary>to get dark</vocabulary>. It really only happens once every 24 hours. A pretty rare occurence if you ask me.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You learned this reading when you learned 暮らす, so if you can remember that, you should be able to remember this one too!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9A%AE%E3%82%8C%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "暮",
+      "id": 1527,
+      "reading": "く"
+    },
+    {
+      "type": "kana",
+      "value": "れる"
+    }
+  ]
+}

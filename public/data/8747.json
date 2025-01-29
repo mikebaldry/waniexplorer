@@ -1,0 +1,30 @@
+{
+  "id": 8747,
+  "type": "vocabulary",
+  "characters": "湯",
+  "primaryMeaning": "Hot Water",
+  "otherMeanings": [],
+  "primaryReading": "ゆ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 844,
+      "character": "湯",
+      "readings": [
+        "ゆ",
+        "とう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B9%AF",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "湯",
+      "id": 844,
+      "reading": "ゆ"
+    }
+  ]
+}

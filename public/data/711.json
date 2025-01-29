@@ -1,0 +1,44 @@
+{
+  "id": 711,
+  "type": "kanji",
+  "character": "受",
+  "primaryMeaning": "Accept",
+  "otherMeanings": [
+    "Receive"
+  ],
+  "primaryReading": "じゅ",
+  "readings": [
+    {
+      "reading": "じゅ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "う",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "After you've been <kanji>accept</kanji>ed, they give you a small <reading>ju</reading>ice (じゅ) box to help you recover from the trauma of getting kicked. And you <kanji>receive</kanji> it with grace.",
+  "meaningMnemonic": "You're sitting on a <radical>stool</radical> and someone <radical>cleat</radical>s you in the <radical>forehead</radical> as part of an <kanji>accept</kanji>ance ritual. It's for the most prestigious Spanish soccer club in the world. You got knocked off the stool, and the cleats really hurt your forehead, but you're just glad to have been accepted.\n\nThis kanji also means <kanji>receive</kanji>, which is quite similar to accept. It shouldn't be too hard to remember.",
+  "vocabularyIds": [
+    3091,
+    3511,
+    4163,
+    4539,
+    6023,
+    6218,
+    8187,
+    8396,
+    8434,
+    8943,
+    9269,
+    9279
+  ],
+  "radicalIds": [
+    8772,
+    76,
+    30
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%8F%97"
+}

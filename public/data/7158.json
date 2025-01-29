@@ -1,0 +1,47 @@
+{
+  "id": 7158,
+  "type": "vocabulary",
+  "characters": "脅迫",
+  "primaryMeaning": "Threat",
+  "otherMeanings": [
+    "Menace"
+  ],
+  "primaryReading": "きょうはく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2035,
+      "character": "脅",
+      "readings": [
+        "きょう",
+        "おど",
+        "おびや"
+      ]
+    },
+    {
+      "id": 1336,
+      "character": "迫",
+      "readings": [
+        "はく",
+        "せま"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The thing that will <kanji>threaten</kanji> and then <kanji>urge</kanji> you to do something else is the <vocabulary>threat</vocabulary> and <vocabulary>menace</vocabulary>.\n\nNote that 脅迫 often involves overt and serious threats that may cross legal boundaries.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%84%85%E8%BF%AB",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "脅",
+      "id": 2035,
+      "reading": "きょう"
+    },
+    {
+      "type": "kanji",
+      "value": "迫",
+      "id": 1336,
+      "reading": "はく"
+    }
+  ]
+}

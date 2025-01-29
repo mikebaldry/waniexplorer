@@ -1,0 +1,119 @@
+{
+  "id": 9195,
+  "object": "kana_vocabulary",
+  "url": "https://api.wanikani.com/v2/subjects/9195",
+  "data_updated_at": "2024-10-22T08:34:07.998182Z",
+  "data": {
+    "created_at": "2023-04-24T23:08:10.474835Z",
+    "level": 5,
+    "slug": "すみません",
+    "hidden_at": null,
+    "document_url": "https://www.wanikani.com/vocabulary/%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93",
+    "characters": "すみません",
+    "meanings": [
+      {
+        "meaning": "Excuse Me",
+        "primary": true,
+        "accepted_answer": true
+      },
+      {
+        "meaning": "I'm Sorry",
+        "primary": false,
+        "accepted_answer": true
+      },
+      {
+        "meaning": "Sorry",
+        "primary": false,
+        "accepted_answer": true
+      }
+    ],
+    "auxiliary_meanings": [
+      {
+        "meaning": "We're Sorry",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Excuse Us",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Pardon Me",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Thank You",
+        "type": "whitelist"
+      }
+    ],
+    "parts_of_speech": [
+      "expression"
+    ],
+    "meaning_mnemonic": "<reading>Sue me, Ma Sen!</reading> (すみません), you yell at Ma Sen, before quickly adding \"<vocabulary>Excuse me</vocabulary>…<vocabulary>I'm sorry</vocabulary>, so <vocabulary> sorry</vocabulary>!\" You shouldn't have shouted at Ma Sen like that. You hope she won’t actually sue you.\n\nYou can use すみません both to apologize and to get someone’s attention. This expression is really common in Japan, and dropping it in wherever you can will help you blend right in!",
+    "context_sentences": [
+      {
+        "en": "Oh, excuse me! I'm sorry!",
+        "ja": "あ、すみません！ごめんなさい！"
+      },
+      {
+        "en": "Excuse me, where's the \"Ocean Hotel\"?",
+        "ja": "すみません、オーシャンホテルってどこですか。"
+      },
+      {
+        "en": "Excuse me, is now a good time?",
+        "ja": "すみません、今ちょっといいですか？"
+      }
+    ],
+    "pronunciation_audios": [
+      {
+        "url": "https://files.wanikani.com/bjp28g6kczyweusd948k21qmjhkb",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44766,
+          "pronunciation": "すみません",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/fat27es3a7fitxg22wzfr3thj21b",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44766,
+          "pronunciation": "すみません",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      },
+      {
+        "url": "https://files.wanikani.com/jvkxofgp40hpxlu5pfgqilstodxc",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44707,
+          "pronunciation": "すみません",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/q7a466ukh6vztrhnkxnmano5avfm",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44707,
+          "pronunciation": "すみません",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      }
+    ],
+    "lesson_position": 74,
+    "spaced_repetition_system_id": 1
+  }
+}

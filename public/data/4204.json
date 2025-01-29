@@ -1,0 +1,38 @@
+{
+  "id": 4204,
+  "type": "vocabulary",
+  "characters": "改まる",
+  "primaryMeaning": "To Be Renewed",
+  "otherMeanings": [
+    "To Be Altered",
+    "To Be Revised",
+    "To Be Formal"
+  ],
+  "primaryReading": "あらたまる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1082,
+      "character": "改",
+      "readings": [
+        "かい",
+        "あらた"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb.\n\nThe kanji itself means <kanji>renew</kanji> so the verb vocab version is <vocabulary>to be renewed</vocabulary>. Like most verbs ending in まる, this is an intransitive verb, meaning it doesn't take a direct object. Something renews or gets renewed, or something changes. See? No direct object.\n\nAlthough it's not often translated as \"renew,\" 改まる implies a kind of renewal in the changes it's used to describe — whether it's the revision of regulations or the old year changing over to a new one. It can also be used for personal improvements, or describe a shift to a more formal demeanor in social situations.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You might remember this reading from the transitive verb 改める, but here's a mnemonic just in case: \n\n<vocabulary>To be renewed</vocabulary> means to be changed into something <reading>新た</reading> (あらた). Out with the old, in with the 新た, right? Picture yourself in a situation where there's been a lot of change. Try to remember how it feels when everything is 新た. Are you nervous, excited, or do you usually move on without noticing?",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%94%B9%E3%81%BE%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "改",
+      "id": 1082,
+      "reading": "あらた"
+    },
+    {
+      "type": "kana",
+      "value": "まる"
+    }
+  ]
+}

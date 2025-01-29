@@ -1,0 +1,47 @@
+{
+  "id": 5087,
+  "type": "vocabulary",
+  "characters": "切迫",
+  "primaryMeaning": "Urgency",
+  "otherMeanings": [
+    "Drawing Near",
+    "Impending"
+  ],
+  "primaryReading": "せっぱく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 502,
+      "character": "切",
+      "readings": [
+        "せつ",
+        "き"
+      ]
+    },
+    {
+      "id": 1336,
+      "character": "迫",
+      "readings": [
+        "はく",
+        "せま"
+      ]
+    }
+  ],
+  "meaningMnemonic": "We're <kanji>cut</kanji> right down to the end, reaching that <kanji>urge</kanji> position where <vocabulary>urgency</vocabulary> is so strong.\n\n切迫 is used to describe the tension in a situation where a time limit is <vocabulary>drawing near</vocabulary>, or to describe something bad or dangerous as <vocabulary>impending</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. The せつ of 切 gets shortened to a small っ. The はく becomes ぱく.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%88%87%E8%BF%AB",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "切",
+      "id": 502,
+      "reading": "せっ"
+    },
+    {
+      "type": "kanji",
+      "value": "迫",
+      "id": 1336,
+      "reading": "ぱく"
+    }
+  ]
+}

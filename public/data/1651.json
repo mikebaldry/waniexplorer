@@ -1,0 +1,32 @@
+{
+  "id": 1651,
+  "type": "kanji",
+  "character": "崩",
+  "primaryMeaning": "Crumble",
+  "otherMeanings": [],
+  "primaryReading": "ほう",
+  "readings": [
+    {
+      "reading": "ほう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "くず",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "As the mountain <kanji>crumble</kanji>s you see your <reading>ho</reading>me (ほう), which is at the very top of the mountain, come crumbling down too.",
+  "meaningMnemonic": "Below this <radical>mountain</radical>, a <radical>moon</radical> and another <radical>moon</radical> crash into each other and the entire thing <kanji>crumble</kanji>s to pieces.",
+  "vocabularyIds": [
+    6073,
+    6074,
+    6245
+  ],
+  "radicalIds": [
+    20,
+    43
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%B4%A9"
+}

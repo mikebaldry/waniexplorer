@@ -1,0 +1,46 @@
+{
+  "id": 6297,
+  "type": "vocabulary",
+  "characters": "勧誘",
+  "primaryMeaning": "Solicitation",
+  "otherMeanings": [
+    "Invitation"
+  ],
+  "primaryReading": "かんゆう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1723,
+      "character": "勧",
+      "readings": [
+        "かん",
+        "すす"
+      ]
+    },
+    {
+      "id": 1327,
+      "character": "誘",
+      "readings": [
+        "ゆう",
+        "さそ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "I <kanji>recommend</kanji> this to you, so I'd like to <kanji>invite</kanji> you to try it. This is a <vocabulary>solicitation</vocabulary> or <vocabulary>invitation</vocabulary>.\n\nThis word describes inviting someone to join a group or activity, often with a pushy or persistent tone. It's commonly used in business, religious, or social settings.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8B%A7%E8%AA%98",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "勧",
+      "id": 1723,
+      "reading": "かん"
+    },
+    {
+      "type": "kanji",
+      "value": "誘",
+      "id": 1327,
+      "reading": "ゆう"
+    }
+  ]
+}

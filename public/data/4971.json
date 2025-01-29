@@ -1,0 +1,43 @@
+{
+  "id": 4971,
+  "type": "vocabulary",
+  "characters": "豚肉",
+  "primaryMeaning": "Pork",
+  "otherMeanings": [],
+  "primaryReading": "ぶたにく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1309,
+      "character": "豚",
+      "readings": [
+        "ぶた",
+        "とん"
+      ]
+    },
+    {
+      "id": 577,
+      "character": "肉",
+      "readings": [
+        "にく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>pig</kanji>'s <kanji>meat</kanji> is called <vocabulary>pork</vocabulary>.",
+  "readingMnemonic": "The readings are the ones you learned with the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%B1%9A%E8%82%89",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "豚",
+      "id": 1309,
+      "reading": "ぶた"
+    },
+    {
+      "type": "kanji",
+      "value": "肉",
+      "id": 577,
+      "reading": "にく"
+    }
+  ]
+}

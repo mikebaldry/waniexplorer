@@ -1,0 +1,45 @@
+{
+  "id": 8229,
+  "type": "vocabulary",
+  "characters": "累計",
+  "primaryMeaning": "Cumulative Total",
+  "otherMeanings": [
+    "Accumulated Total"
+  ],
+  "primaryReading": "るいけい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2273,
+      "character": "累",
+      "readings": [
+        "るい"
+      ]
+    },
+    {
+      "id": 935,
+      "character": "計",
+      "readings": [
+        "けい",
+        "はか"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Measure</kanji> how much you've <kanji>accumulate</kanji>d and you'll have a <vocabulary>cumulative total</vocabulary>. That total includes all the things you've bought since the beginning of time. Probably.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B4%AF%E8%A8%88",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "累",
+      "id": 2273,
+      "reading": "るい"
+    },
+    {
+      "type": "kanji",
+      "value": "計",
+      "id": 935,
+      "reading": "けい"
+    }
+  ]
+}

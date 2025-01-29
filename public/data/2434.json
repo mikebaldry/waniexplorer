@@ -1,0 +1,41 @@
+{
+  "id": 2434,
+  "type": "kanji",
+  "character": "沙",
+  "primaryMeaning": "Sand",
+  "otherMeanings": [],
+  "primaryReading": "さ",
+  "readings": [
+    {
+      "reading": "さ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "しゃ",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "すな",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "よなげる",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "How do I know there's <kanji>sand</kanji> in there? Because I <reading>saw</reading> (さ) them! ",
+  "meaningMnemonic": "People think <radical>tsunami</radical>s are only made of water but they have a <radical>few</radical> pieces of <kanji>sand</kanji> in there too. There's actually more sand in the ocean than most people think. And tsunamis can't just have water and sharks in them. A few grains of sand will always slip in.",
+  "vocabularyIds": [
+    8547,
+    9126
+  ],
+  "radicalIds": [
+    103,
+    198
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%B2%99"
+}

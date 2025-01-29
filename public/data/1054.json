@@ -1,0 +1,35 @@
+{
+  "id": 1054,
+  "type": "kanji",
+  "character": "禁",
+  "primaryMeaning": "Prohibit",
+  "otherMeanings": [
+    "Prohibition"
+  ],
+  "primaryReading": "きん",
+  "readings": [
+    {
+      "reading": "きん",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "The person who decided to <kanji>prohibit</kanji> jackhammering two trees is the <reading>Kin</reading>g (きん) of England. He's the only person who's able to prohibit certain things, so it had to be him.",
+  "meaningMnemonic": "Killing two <radical>tree</radical>s with a <radical>jackhammer</radical> is expressly <kanji>prohibit</kanji>ed. Don't get me wrong, you can rip up one tree with your jackhammer, but not two.",
+  "vocabularyIds": [
+    4076,
+    4125,
+    4126,
+    4312,
+    5513,
+    5574,
+    7839,
+    8455,
+    8710
+  ],
+  "radicalIds": [
+    23,
+    207
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%A6%81"
+}

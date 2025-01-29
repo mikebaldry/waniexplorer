@@ -1,0 +1,36 @@
+{
+  "id": 5365,
+  "type": "vocabulary",
+  "characters": "詳しい",
+  "primaryMeaning": "Detailed",
+  "otherMeanings": [
+    "Expert"
+  ],
+  "primaryReading": "くわしい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1412,
+      "character": "詳",
+      "readings": [
+        "しょう",
+        "くわ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>detailed</kanji>? It's also <vocabulary>detailed</vocabulary>.",
+  "readingMnemonic": "When something is <vocabulary>detailed</vocabulary> it is made up of a huge <reading>qua</reading>ntity (くわ) of little things. And if you're an <vocabulary>expert</vocabulary> on something, you'll have a huge quantity of knowledge, too.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A9%B3%E3%81%97%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "詳",
+      "id": 1412,
+      "reading": "くわ"
+    },
+    {
+      "type": "kana",
+      "value": "しい"
+    }
+  ]
+}

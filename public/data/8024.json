@@ -1,0 +1,49 @@
+{
+  "id": 8024,
+  "type": "vocabulary",
+  "characters": "同胞",
+  "primaryMeaning": "Brethren",
+  "otherMeanings": [
+    "Brothers",
+    "Fellow Countrymen",
+    "Compatriot"
+  ],
+  "primaryReading": "どうほう",
+  "otherReadings": [
+    "どうぼう"
+  ],
+  "kanji": [
+    {
+      "id": 568,
+      "character": "同",
+      "readings": [
+        "どう",
+        "おな"
+      ]
+    },
+    {
+      "id": 2191,
+      "character": "胞",
+      "readings": [
+        "ほう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "People who have the <kanji>same</kanji> <kanji>cell</kanji>s as you are your <vocabulary>brethren</vocabulary>, they're your <vocabulary>brothers</vocabulary>!  ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%90%8C%E8%83%9E",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "同",
+      "id": 568,
+      "reading": "どう"
+    },
+    {
+      "type": "kanji",
+      "value": "胞",
+      "id": 2191,
+      "reading": "ほう"
+    }
+  ]
+}

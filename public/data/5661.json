@@ -1,0 +1,46 @@
+{
+  "id": 5661,
+  "type": "vocabulary",
+  "characters": "天皇",
+  "primaryMeaning": "Emperor Of Japan",
+  "otherMeanings": [
+    "Emperor"
+  ],
+  "primaryReading": "てんのう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 473,
+      "character": "天",
+      "readings": [
+        "てん",
+        "あま"
+      ]
+    },
+    {
+      "id": 1531,
+      "character": "皇",
+      "readings": [
+        "こう",
+        "おう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The Japanese <kanji>emperor</kanji> is supposed to have come from the <kanji>heaven</kanji>s, so that just makes this heaven emperor the <vocabulary>emperor of Japan</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You just have to remember that 皇 is read as のう here. You just found out you can never be the Emperor of Japan because you aren't Japanese. <reading>NOOOOOOOOOOOOO</reading>~ (のう).",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A4%A9%E7%9A%87",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "天",
+      "id": 473,
+      "reading": "てん"
+    },
+    {
+      "type": "kanji",
+      "value": "皇",
+      "id": 1531,
+      "reading": null
+    }
+  ]
+}

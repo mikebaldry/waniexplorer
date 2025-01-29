@@ -1,0 +1,38 @@
+{
+  "id": 1860,
+  "type": "kanji",
+  "character": "擦",
+  "primaryMeaning": "Rub",
+  "otherMeanings": [],
+  "primaryReading": "さつ",
+  "readings": [
+    {
+      "reading": "さつ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "こす",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "す",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Just when you thought the <kanji>rub</kanji>bing couldn't get any worse, <reading>Satsu</reading>ki (さつ) appears and hops up onto the roof. AAGH! It hurts!",
+  "meaningMnemonic": "You use your <radical>fingers</radical> to hold the <radical>roof</radical> of the <radical>festival</radical> up, but it <kanji>rub</kanji>s against them. The roof is heavy, and you have to walk to keep up, so the roof is rubbing against them really, really badly.",
+  "vocabularyIds": [
+    6720,
+    6721,
+    6955
+  ],
+  "radicalIds": [
+    63,
+    78,
+    8825
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%93%A6"
+}

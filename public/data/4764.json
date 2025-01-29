@@ -1,0 +1,39 @@
+{
+  "id": 4764,
+  "type": "vocabulary",
+  "characters": "割れる",
+  "primaryMeaning": "To Be Divided",
+  "otherMeanings": [
+    "To Be Split",
+    "To Break"
+  ],
+  "primaryReading": "われる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1193,
+      "character": "割",
+      "readings": [
+        "わり",
+        "わ",
+        "かつ",
+        "さ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Remember how 割る is \"to divide\"? Now you're learning the intransitive version. Instead of you doing the dividing, something just gets divided or split up. So this is <vocabulary>to be divided</vocabulary> or <vocabulary>to be split</vocabulary>.\n\nIt can also mean <vocabulary>to break</vocabulary>, as in ワイングラスが割れる (the wine glass breaks). After all, when an object breaks, it’s divided into parts, right?",
+  "readingMnemonic": "The reading is shared with 割る.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%89%B2%E3%82%8C%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "割",
+      "id": 1193,
+      "reading": "わ"
+    },
+    {
+      "type": "kana",
+      "value": "れる"
+    }
+  ]
+}

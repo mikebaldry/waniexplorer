@@ -1,0 +1,38 @@
+{
+  "id": 1649,
+  "type": "kanji",
+  "character": "執",
+  "primaryMeaning": "Tenacious",
+  "otherMeanings": [],
+  "primaryReading": "しゅう",
+  "readings": [
+    {
+      "reading": "しゅう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "しつ",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "と",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Happiness is as <kanji>tenacious</kanji> as a <reading>shih tzu</reading> (しつ) with a <reading>shoe</reading> (しゅう). That little dog does not want to give up on the shoe, no matter what's happening around it.",
+  "meaningMnemonic": "<radical>Happiness</radical> is a <radical>circle</radical> that's <kanji>tenacious</kanji>. In other words, we're all in this circle/cycle where we do whatever we can to grab onto happiness and hold it as tightly as we can.",
+  "vocabularyIds": [
+    6067,
+    6068,
+    6069,
+    8480
+  ],
+  "radicalIds": [
+    260,
+    223
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%9F%B7"
+}

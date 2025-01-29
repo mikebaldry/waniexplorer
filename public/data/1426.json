@@ -1,0 +1,35 @@
+{
+  "id": 1426,
+  "type": "kanji",
+  "character": "延",
+  "primaryMeaning": "Prolong",
+  "otherMeanings": [],
+  "primaryReading": "えん",
+  "readings": [
+    {
+      "reading": "えん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "の",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You can <kanji>prolong</kanji> your life with correct yoga techniques, but unfortunately, if you ever stop doing yoga after you've started this prolonging process, it will just <reading>en</reading>d (えん) suddenly.",
+  "meaningMnemonic": "If you do <radical>yoga</radical> <radical>correct</radical>ly, you will not only <kanji>prolong</kanji> your body but your life!",
+  "vocabularyIds": [
+    5308,
+    5309,
+    5310,
+    5606,
+    5861,
+    8935
+  ],
+  "radicalIds": [
+    206,
+    229
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%BB%B6"
+}

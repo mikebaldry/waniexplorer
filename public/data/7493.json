@@ -1,0 +1,51 @@
+{
+  "id": 7493,
+  "type": "vocabulary",
+  "characters": "丁度いい",
+  "primaryMeaning": "Just Right",
+  "otherMeanings": [
+    "Exactly Right"
+  ],
+  "primaryReading": "ちょうどいい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 464,
+      "character": "丁",
+      "readings": [
+        "ちょう",
+        "てい"
+      ]
+    },
+    {
+      "id": 725,
+      "character": "度",
+      "readings": [
+        "ど",
+        "たく",
+        "たび"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If 丁度 is \"exactly\", then \"exactly good\" is going to be just the right amount, aka <vocabulary>just right</vocabulary>.",
+  "readingMnemonic": "If you know the reading for 丁度 you'll know the reading for this too. Your knowledge should be <vocabulary>just right</vocabulary>, as they say inside my head.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%81%E5%BA%A6%E3%81%84%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "丁",
+      "id": 464,
+      "reading": "ちょう"
+    },
+    {
+      "type": "kanji",
+      "value": "度",
+      "id": 725,
+      "reading": "ど"
+    },
+    {
+      "type": "kana",
+      "value": "いい"
+    }
+  ]
+}

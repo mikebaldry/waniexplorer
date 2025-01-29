@@ -1,0 +1,48 @@
+{
+  "id": 4908,
+  "type": "vocabulary",
+  "characters": "差別する",
+  "primaryMeaning": "To Discriminate",
+  "otherMeanings": [],
+  "primaryReading": "さべつする",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1235,
+      "character": "差",
+      "readings": [
+        "さ",
+        "さ"
+      ]
+    },
+    {
+      "id": 785,
+      "character": "別",
+      "readings": [
+        "べつ",
+        "わか"
+      ]
+    }
+  ],
+  "meaningMnemonic": "差別 is discrimination. This is the verb version, <vocabulary>to discriminate</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B7%AE%E5%88%A5%E3%81%99%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "差",
+      "id": 1235,
+      "reading": "さ"
+    },
+    {
+      "type": "kanji",
+      "value": "別",
+      "id": 785,
+      "reading": "べつ"
+    },
+    {
+      "type": "kana",
+      "value": "する"
+    }
+  ]
+}

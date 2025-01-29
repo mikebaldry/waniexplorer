@@ -1,0 +1,38 @@
+{
+  "id": 2448,
+  "type": "kanji",
+  "character": "醜",
+  "primaryMeaning": "Ugly",
+  "otherMeanings": [],
+  "primaryReading": "しゅう",
+  "readings": [
+    {
+      "reading": "しゅう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "しこ",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "みにく",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "The <kanji>ugly</kanji> demon is drunk and taking off his <reading>shoe</reading>s (しゅう) and swinging them around his head. And, oh no, he's drinking more alcohol out of the shoes.",
+  "meaningMnemonic": "Give <radical>alcohol</radical> to a <radical>demon</radical> and you'll see how <kanji>ugly</kanji> it really is. Demons need to concentrate to keep their disguises going. Even if it looked pretty when you met it, like super handsome, give it a few drinks and its facade will slide off and reveal its super gross demon face.",
+  "vocabularyIds": [
+    8654,
+    8655,
+    8656,
+    8657
+  ],
+  "radicalIds": [
+    182,
+    292
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%86%9C"
+}

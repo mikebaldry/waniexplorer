@@ -1,0 +1,52 @@
+{
+  "id": 5083,
+  "type": "vocabulary",
+  "characters": "貸し切り",
+  "primaryMeaning": "Private Reservation",
+  "otherMeanings": [],
+  "primaryReading": "かしきり",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1324,
+      "character": "貸",
+      "readings": [
+        "か",
+        "たい"
+      ]
+    },
+    {
+      "id": 502,
+      "character": "切",
+      "readings": [
+        "せつ",
+        "き"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>lend</kanji>ing gets <kanji>cut</kanji> right away when you make a <vocabulary>private reservation</vocabulary>.\n\n貸し切り means reserving a space exclusively, like renting out a restaurant for a birthday party or chartering a bus, cruise, or jet.",
+  "readingMnemonic": "It's the reading of 貸す and 切る put together. Know those two readings and you know this one as well. Sometimes you'll see this word as 貸切り or 貸切 as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%B2%B8%E3%81%97%E5%88%87%E3%82%8A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "貸",
+      "id": 1324,
+      "reading": "か"
+    },
+    {
+      "type": "kana",
+      "value": "し"
+    },
+    {
+      "type": "kanji",
+      "value": "切",
+      "id": 502,
+      "reading": "き"
+    },
+    {
+      "type": "kana",
+      "value": "り"
+    }
+  ]
+}

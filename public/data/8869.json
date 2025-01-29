@@ -1,0 +1,29 @@
+{
+  "id": 8869,
+  "type": "vocabulary",
+  "characters": "膝",
+  "primaryMeaning": "Knee",
+  "otherMeanings": [],
+  "primaryReading": "ひざ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 8861,
+      "character": "膝",
+      "readings": [
+        "ひざ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same.",
+  "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You've learned them already, so you should be able to read this on your own!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%86%9D",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "膝",
+      "id": 8861,
+      "reading": "ひざ"
+    }
+  ]
+}

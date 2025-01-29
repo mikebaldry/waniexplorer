@@ -1,0 +1,44 @@
+{
+  "id": 5162,
+  "type": "vocabulary",
+  "characters": "攻撃",
+  "primaryMeaning": "Attack",
+  "otherMeanings": [],
+  "primaryReading": "こうげき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1378,
+      "character": "攻",
+      "readings": [
+        "こう",
+        "せ"
+      ]
+    },
+    {
+      "id": 1377,
+      "character": "撃",
+      "readings": [
+        "げき",
+        "う"
+      ]
+    }
+  ],
+  "meaningMnemonic": "With <kanji>aggression</kanji> you <kanji>attack</kanji> the enemy. This is an <vocabulary>attack</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%94%BB%E6%92%83",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "攻",
+      "id": 1378,
+      "reading": "こう"
+    },
+    {
+      "type": "kanji",
+      "value": "撃",
+      "id": 1377,
+      "reading": "げき"
+    }
+  ]
+}

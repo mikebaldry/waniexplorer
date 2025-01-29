@@ -1,0 +1,34 @@
+{
+  "id": 1682,
+  "type": "kanji",
+  "character": "致",
+  "primaryMeaning": "Do",
+  "otherMeanings": [],
+  "primaryReading": "ち",
+  "readings": [
+    {
+      "reading": "ち",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "いた",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "To get the mole to <kanji>do</kanji> what you want, just give it a nice big hunk of <reading>chee</reading>se (ち).",
+  "meaningMnemonic": "A <radical>mole</radical> in <radical>winter</radical> will <kanji>do</kanji> whatever you ask, if you know how to ask it.",
+  "vocabularyIds": [
+    6168,
+    6169,
+    6170,
+    6451,
+    8989
+  ],
+  "radicalIds": [
+    274,
+    60
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%87%B4"
+}

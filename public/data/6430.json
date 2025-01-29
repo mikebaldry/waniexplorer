@@ -1,0 +1,45 @@
+{
+  "id": 6430,
+  "type": "vocabulary",
+  "characters": "頻発",
+  "primaryMeaning": "Frequent Occurrence",
+  "otherMeanings": [
+    "Occur Frequently"
+  ],
+  "primaryReading": "ひんぱつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1765,
+      "character": "頻",
+      "readings": [
+        "ひん",
+        "しき"
+      ]
+    },
+    {
+      "id": 729,
+      "character": "発",
+      "readings": [
+        "はつ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Something that <kanji>frequent</kanji>ly <kanji>departure</kanji>s has much frequency and is a <vocabulary>frequent occurrence</vocabulary>. Oh, that? Yeah, it departures with much frequency.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%A0%BB%E7%99%BA",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "頻",
+      "id": 1765,
+      "reading": "ひん"
+    },
+    {
+      "type": "kanji",
+      "value": "発",
+      "id": 729,
+      "reading": "ぱつ"
+    }
+  ]
+}

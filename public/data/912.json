@@ -1,0 +1,39 @@
+{
+  "id": 912,
+  "type": "kanji",
+  "character": "残",
+  "primaryMeaning": "Remainder",
+  "otherMeanings": [],
+  "primaryReading": "ざん",
+  "readings": [
+    {
+      "reading": "ざん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "のこ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "The <kanji>remainder</kanji> of the yakuza bars aren't in Japan. Strangely, they are all in <reading>Zan</reading>zibar (ざん).",
+  "meaningMnemonic": "<radical>Yakuza</radical> <radical>bars</radical> barely exist. The <kanji>remainder</kanji> of them aren't even in Japan.",
+  "vocabularyIds": [
+    3676,
+    3704,
+    3705,
+    3706,
+    3844,
+    3930,
+    4256,
+    4676,
+    8041,
+    8163
+  ],
+  "radicalIds": [
+    132,
+    8782
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%AE%8B"
+}

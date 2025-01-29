@@ -1,0 +1,44 @@
+{
+  "id": 5601,
+  "type": "vocabulary",
+  "characters": "訳者",
+  "primaryMeaning": "Translator",
+  "otherMeanings": [],
+  "primaryReading": "やくしゃ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1511,
+      "character": "訳",
+      "readings": [
+        "やく",
+        "わけ"
+      ]
+    },
+    {
+      "id": 690,
+      "character": "者",
+      "readings": [
+        "しゃ",
+        "もの"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Someone</kanji> who <kanji>translate</kanji>s things is a <vocabulary>translator</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A8%B3%E8%80%85",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "訳",
+      "id": 1511,
+      "reading": "やく"
+    },
+    {
+      "type": "kanji",
+      "value": "者",
+      "id": 690,
+      "reading": "しゃ"
+    }
+  ]
+}

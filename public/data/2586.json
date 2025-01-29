@@ -1,0 +1,38 @@
+{
+  "id": 2586,
+  "type": "vocabulary",
+  "characters": "立つ",
+  "primaryMeaning": "To Stand",
+  "otherMeanings": [
+    "To Stand Up",
+    "To Rise"
+  ],
+  "primaryReading": "たつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 494,
+      "character": "立",
+      "readings": [
+        "りつ",
+        "りゅう",
+        "た"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means \"stand\" so what is the verb version of that? It's <vocabulary>to stand</vocabulary>.",
+  "readingMnemonic": "You have to remember the た portion of this word to learn the reading of it. Think of it this way:\n\nYou have <vocabulary>to stand up</vocabulary> in order to wave goodbye to someone. When you stand up, you also say <reading>ta</reading>-ta (た)!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%AB%8B%E3%81%A4",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "立",
+      "id": 494,
+      "reading": "た"
+    },
+    {
+      "type": "kana",
+      "value": "つ"
+    }
+  ]
+}

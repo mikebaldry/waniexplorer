@@ -1,0 +1,36 @@
+{
+  "id": 3756,
+  "type": "vocabulary",
+  "characters": "建てる",
+  "primaryMeaning": "To Build",
+  "otherMeanings": [
+    "To Construct"
+  ],
+  "primaryReading": "たてる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 946,
+      "character": "建",
+      "readings": [
+        "けん",
+        "た"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>build</kanji> so the verb vocab version is <vocabulary>to build</vocabulary>.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: Think about what happens when you build something. What are you doing? You're standing it up. How do you say \"to stand\" in Japanese? <reading>た</reading>てる. That's the reading of this word as well. If you think about it they're similar!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BB%BA%E3%81%A6%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "建",
+      "id": 946,
+      "reading": "た"
+    },
+    {
+      "type": "kana",
+      "value": "てる"
+    }
+  ]
+}

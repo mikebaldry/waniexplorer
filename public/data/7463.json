@@ -1,0 +1,47 @@
+{
+  "id": 7463,
+  "type": "vocabulary",
+  "characters": "味方",
+  "primaryMeaning": "Ally",
+  "otherMeanings": [
+    "Supporter",
+    "Friend"
+  ],
+  "primaryReading": "みかた",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 812,
+      "character": "味",
+      "readings": [
+        "み",
+        "あじ"
+      ]
+    },
+    {
+      "id": 510,
+      "character": "方",
+      "readings": [
+        "ほう",
+        "かた"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>flavor</kanji> of this <kanji>direction</kanji> is one I'd like to follow and go in, along with you. You have a good flavor and you're going in a good direction. Will you be my <vocabulary>ally</vocabulary>? I'll be your <vocabulary>supporter</vocabulary>.",
+  "readingMnemonic": "This word uses the on'yomi reading for 味 and the kun'yomi reading for 方. Luckily, you've learned them both already so you should be able to read this word!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%91%B3%E6%96%B9",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "味",
+      "id": 812,
+      "reading": "み"
+    },
+    {
+      "type": "kanji",
+      "value": "方",
+      "id": 510,
+      "reading": "かた"
+    }
+  ]
+}

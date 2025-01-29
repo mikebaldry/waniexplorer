@@ -1,0 +1,50 @@
+{
+  "id": 880,
+  "type": "kanji",
+  "character": "殺",
+  "primaryMeaning": "Kill",
+  "otherMeanings": [],
+  "primaryReading": "さつ",
+  "readings": [
+    {
+      "reading": "さつ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "さい",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ころ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "But after the <kanji>kill</kanji>, <reading>Satsu</reading>ki (さつ) appears and yells at you. She likes trees — remember how she protected one in the 札 mnemonic? — so Satsuki's pretty upset you'd kill one like that.",
+  "meaningMnemonic": "There's <radical>treasure</radical> in this <radical>tree</radical> so you take out your <radical>weapon</radical> and <kanji>kill</kanji> it.",
+  "vocabularyIds": [
+    3598,
+    3605,
+    3606,
+    3607,
+    3898,
+    3899,
+    4829,
+    6180,
+    6329,
+    6913,
+    6987,
+    7046,
+    8039,
+    8210,
+    9040
+  ],
+  "radicalIds": [
+    31,
+    23,
+    160
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%AE%BA"
+}

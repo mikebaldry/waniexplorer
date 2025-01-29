@@ -1,0 +1,38 @@
+{
+  "id": 8190,
+  "type": "vocabulary",
+  "characters": "凝る",
+  "primaryMeaning": "To Be Passionate About",
+  "otherMeanings": [
+    "To Be Into",
+    "To Grow Stiff"
+  ],
+  "primaryReading": "こる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2283,
+      "character": "凝",
+      "readings": [
+        "ぎょう",
+        "こ",
+        "こご"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>congeal</kanji> or <kanji>freeze</kanji>, so the verb version is <vocabulary>to grow stiff</vocabulary>. Remember 肩こり (shoulder stiffness)? This is where that こり part comes from.\n\n凝る also means  <vocabulary>to be passionate about</vocabulary> something. Think of it this way: your passions are <kanji>freez</kanji>ing onto one thing, so you're going <vocabulary>to be into</vocabulary> that thing.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nWhat have all your friends started <vocabulary>to be passionate about</vocabulary>? Their <reading>子</reading>s (こ). They all keep having kids and now that's all they seem to care about. Damn kids.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%87%9D%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "凝",
+      "id": 2283,
+      "reading": "こ"
+    },
+    {
+      "type": "kana",
+      "value": "る"
+    }
+  ]
+}

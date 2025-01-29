@@ -1,0 +1,38 @@
+{
+  "id": 8179,
+  "type": "vocabulary",
+  "characters": "伏せる",
+  "primaryMeaning": "To Cover",
+  "otherMeanings": [
+    "To Hide",
+    "To Lay Upside Down",
+    "To Turn Over"
+  ],
+  "primaryReading": "ふせる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2260,
+      "character": "伏",
+      "readings": [
+        "ふく",
+        "ふ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>bow</kanji> or <kanji>lay</kanji>, so the verb version is what when you try <vocabulary>to cover</vocabulary> or <vocabulary>to hide</vocabulary> something. You're doing the action to something, you're not the one hiding.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nWho's that you're trying <vocabulary>to cover</vocabulary> up? It's your <reading>foo</reading>l (ふ) brother. He keeps doing embarrassing things and trying to get you in trouble. So you're trying <vocabulary>to hide</vocabulary> him with your jacket. Well we see him, we know he's a fool, so you can stop now.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BC%8F%E3%81%9B%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "伏",
+      "id": 2260,
+      "reading": "ふ"
+    },
+    {
+      "type": "kana",
+      "value": "せる"
+    }
+  ]
+}

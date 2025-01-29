@@ -1,0 +1,67 @@
+{
+  "id": 3715,
+  "type": "vocabulary",
+  "characters": "私生活",
+  "primaryMeaning": "Personal Life",
+  "otherMeanings": [
+    "One's Personal Life",
+    "Private Life",
+    "One's Private Life"
+  ],
+  "primaryReading": "しせいかつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 923,
+      "character": "私",
+      "readings": [
+        "し",
+        "わたし"
+      ]
+    },
+    {
+      "id": 850,
+      "character": "生",
+      "readings": [
+        "せい",
+        "しょう",
+        "い",
+        "なま",
+        "う",
+        "は",
+        "き"
+      ]
+    },
+    {
+      "id": 639,
+      "character": "活",
+      "readings": [
+        "かつ",
+        "い"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You've seen 生活 before, right? So what about the \"life\" of <kanji>I</kanji>? Whose life is that? Why, that's my own <vocabulary>personal life</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A7%81%E7%94%9F%E6%B4%BB",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "私",
+      "id": 923,
+      "reading": "し"
+    },
+    {
+      "type": "kanji",
+      "value": "生",
+      "id": 850,
+      "reading": "せい"
+    },
+    {
+      "type": "kanji",
+      "value": "活",
+      "id": 639,
+      "reading": "かつ"
+    }
+  ]
+}

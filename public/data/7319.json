@@ -1,0 +1,44 @@
+{
+  "id": 7319,
+  "type": "vocabulary",
+  "characters": "陰謀",
+  "primaryMeaning": "Conspiracy",
+  "otherMeanings": [],
+  "primaryReading": "いんぼう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1931,
+      "character": "陰",
+      "readings": [
+        "いん",
+        "かげ"
+      ]
+    },
+    {
+      "id": 2069,
+      "character": "謀",
+      "readings": [
+        "ぼう",
+        "はか"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Under the <kanji>shade</kanji> people <kanji>conspire</kanji>. When people do this, <vocabulary>conspiracy</vocabulary> appears.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%99%B0%E8%AC%80",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "陰",
+      "id": 1931,
+      "reading": "いん"
+    },
+    {
+      "type": "kanji",
+      "value": "謀",
+      "id": 2069,
+      "reading": "ぼう"
+    }
+  ]
+}

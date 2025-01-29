@@ -1,0 +1,37 @@
+{
+  "id": 1575,
+  "type": "kanji",
+  "character": "爪",
+  "primaryMeaning": "Claw",
+  "otherMeanings": [
+    "Nail"
+  ],
+  "primaryReading": "つめ",
+  "readings": [
+    {
+      "reading": "つめ",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "つま",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "そう",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "You sink your <kanji>claw</kanji>s into anything your two <reading>目</reading> (つめ) see, because you're such a fierce predator. If your two 目 can see it, your claws will get to it. Your claws are basically an extension of your two eyes, that's how skilled you are.",
+  "meaningMnemonic": "The <radical>claw</radical> radical and the <kanji>claw</kanji> kanji are exactly the same! Ravishing!",
+  "vocabularyIds": [
+    5832,
+    5833
+  ],
+  "radicalIds": [
+    350
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%88%AA"
+}

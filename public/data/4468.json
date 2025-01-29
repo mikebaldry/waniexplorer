@@ -1,0 +1,50 @@
+{
+  "id": 4468,
+  "type": "vocabulary",
+  "characters": "分解",
+  "primaryMeaning": "Breakdown",
+  "otherMeanings": [
+    "Dismantling",
+    "Disassembling",
+    "Decomposition"
+  ],
+  "primaryReading": "ぶんかい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 501,
+      "character": "分",
+      "readings": [
+        "ぶん",
+        "ふん",
+        "ぶ",
+        "わ"
+      ]
+    },
+    {
+      "id": 1150,
+      "character": "解",
+      "readings": [
+        "かい",
+        "と"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you <kanji>divide</kanji> and <kanji>untie</kanji> things, you're unraveling the connections between them. In other words, you're doing a <vocabulary>breakdown</vocabulary> or <vocabulary>dismantling</vocabulary> of something.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%88%86%E8%A7%A3",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "分",
+      "id": 501,
+      "reading": "ぶん"
+    },
+    {
+      "type": "kanji",
+      "value": "解",
+      "id": 1150,
+      "reading": "かい"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": 7989,
+  "type": "vocabulary",
+  "characters": "据える",
+  "primaryMeaning": "To Install",
+  "otherMeanings": [
+    "To Place",
+    "To Fix",
+    "To Set",
+    "To Lay",
+    "To Seat"
+  ],
+  "primaryReading": "すえる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2209,
+      "character": "据",
+      "readings": [
+        "す",
+        "きょ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>install</kanji>, so the verb version is <vocabulary>to install</vocabulary> or <vocabulary>to fix</vocabulary>.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You learned this reading already so you should be able to read it!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8D%AE%E3%81%88%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "据",
+      "id": 2209,
+      "reading": "す"
+    },
+    {
+      "type": "kana",
+      "value": "える"
+    }
+  ]
+}

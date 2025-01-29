@@ -1,0 +1,49 @@
+{
+  "id": 7304,
+  "type": "vocabulary",
+  "characters": "大概",
+  "primaryMeaning": "In General",
+  "otherMeanings": [
+    "Mainly",
+    "Mostly"
+  ],
+  "primaryReading": "たいがい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 453,
+      "character": "大",
+      "readings": [
+        "たい",
+        "だい",
+        "おお",
+        "ひろ"
+      ]
+    },
+    {
+      "id": 2064,
+      "character": "概",
+      "readings": [
+        "がい",
+        "おおむ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>big</kanji> <kanji>approximation</kanji> is when I say something <vocabulary>in general</vocabulary>. I'm <vocabulary>mainly</vocabulary> and <vocabulary>mostly</vocabulary> telling everything.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A4%A7%E6%A6%82",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "大",
+      "id": 453,
+      "reading": "たい"
+    },
+    {
+      "type": "kanji",
+      "value": "概",
+      "id": 2064,
+      "reading": "がい"
+    }
+  ]
+}

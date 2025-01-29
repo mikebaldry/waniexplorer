@@ -1,0 +1,47 @@
+{
+  "id": 2808,
+  "type": "vocabulary",
+  "characters": "体内",
+  "primaryMeaning": "Inside The Body",
+  "otherMeanings": [
+    "Internal"
+  ],
+  "primaryReading": "たいない",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 583,
+      "character": "体",
+      "readings": [
+        "たい",
+        "てい",
+        "からだ"
+      ]
+    },
+    {
+      "id": 500,
+      "character": "内",
+      "readings": [
+        "ない",
+        "うち"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>body</kanji>'s <kanji>inside</kanji> means <vocabulary>inside the body</vocabulary> or <vocabulary>internal</vocabulary>.\n\n体内 refers specifically to internal body stuff, so you'll often see it in medical and scientific contexts.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BD%93%E5%86%85",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "体",
+      "id": 583,
+      "reading": "たい"
+    },
+    {
+      "type": "kanji",
+      "value": "内",
+      "id": 500,
+      "reading": "ない"
+    }
+  ]
+}

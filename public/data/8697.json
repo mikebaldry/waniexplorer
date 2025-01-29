@@ -1,0 +1,37 @@
+{
+  "id": 8697,
+  "type": "vocabulary",
+  "characters": "知る",
+  "primaryMeaning": "To Know",
+  "otherMeanings": [
+    "To Learn",
+    "To Find Out"
+  ],
+  "primaryReading": "しる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 631,
+      "character": "知",
+      "readings": [
+        "ち",
+        "し"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>know</kanji> so the verb version means <vocabulary>to know</vocabulary>. It can additionally refer to how one comes to know something, so it also means <vocabulary>to learn</vocabulary> or <vocabulary>to find out</vocabulary>. ",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you:\n\nYou want <vocabulary>to know</vocabulary> everything there is to know about <reading>sheep</reading> (し). Why? Because you are a busybody who wants to know everything. But for now, you'll settle for sheep. Right now all you know is that sheep are soft, come in many colors, and that they have 360 degree vision with their weird, rectangle eyes. There's even more to know, so you better get on it!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%9F%A5%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "知",
+      "id": 631,
+      "reading": "し"
+    },
+    {
+      "type": "kana",
+      "value": "る"
+    }
+  ]
+}

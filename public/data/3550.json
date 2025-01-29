@@ -1,0 +1,51 @@
+{
+  "id": 3550,
+  "type": "vocabulary",
+  "characters": "落ち葉",
+  "primaryMeaning": "Fallen Leaves",
+  "otherMeanings": [
+    "Fallen Leaf"
+  ],
+  "primaryReading": "おちば",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 749,
+      "character": "落",
+      "readings": [
+        "らく",
+        "お"
+      ]
+    },
+    {
+      "id": 750,
+      "character": "葉",
+      "readings": [
+        "は",
+        "よう",
+        "ば"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>leaf</kanji> that <kanji>fall</kanji>s are <vocabulary>fallen leaves</vocabulary>.",
+  "readingMnemonic": "The reading for this one is a bit strange. You'll have to pull from your knowledge of 落ちる and use that for the first half. Then, 葉 is rendaku'd to ば. Because, when a leaf falls, Scrooge says \"BAH! Humbug!\" (probably because he's losing money).",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%90%BD%E3%81%A1%E8%91%89",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "落",
+      "id": 749,
+      "reading": "お"
+    },
+    {
+      "type": "kana",
+      "value": "ち"
+    },
+    {
+      "type": "kanji",
+      "value": "葉",
+      "id": 750,
+      "reading": "ば"
+    }
+  ]
+}

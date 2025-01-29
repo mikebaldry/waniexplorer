@@ -1,0 +1,36 @@
+{
+  "id": 4012,
+  "type": "vocabulary",
+  "characters": "栄える",
+  "primaryMeaning": "To Flourish",
+  "otherMeanings": [
+    "To Prosper"
+  ],
+  "primaryReading": "さかえる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1006,
+      "character": "栄",
+      "readings": [
+        "えい",
+        "さか"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>flourish</kanji> or <kanji>prosper</kanji>, so the verb vocab versions of these would be <vocabulary>to flourish</vocabulary> or <vocabulary>to prosper</vocabulary>.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: What do you flourish at? You're an amazing <reading>soccer</reading> (さか) player who flourishes and prospers no matter where you go to play this wonderful (but not as good as baseball) sport.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%A0%84%E3%81%88%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "栄",
+      "id": 1006,
+      "reading": "さか"
+    },
+    {
+      "type": "kana",
+      "value": "える"
+    }
+  ]
+}

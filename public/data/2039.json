@@ -1,0 +1,32 @@
+{
+  "id": 2039,
+  "type": "kanji",
+  "character": "培",
+  "primaryMeaning": "Cultivate",
+  "otherMeanings": [],
+  "primaryReading": "ばい",
+  "readings": [
+    {
+      "reading": "ばい",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "つちか",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Before you can start this whole <kanji>cultivation</kanji> process however, you have to say <reading>bye</reading> (ばい) to the clown. Say bye to him, then bash his head in, and drop him in the dirt.",
+  "meaningMnemonic": "Your <radical>dirt</radical> needs a  <radical>clown</radical> in it if you want to <kanji>cultivate</kanji> good crops. Clowns act as a natural fertilizer, and this will make it super easy to cultivate any crops you could ever want in this dirt. Isn't nature amazing?",
+  "vocabularyIds": [
+    7232,
+    7233,
+    8105
+  ],
+  "radicalIds": [
+    17,
+    175
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%9F%B9"
+}

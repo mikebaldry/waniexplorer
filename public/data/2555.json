@@ -1,0 +1,46 @@
+{
+  "id": 2555,
+  "type": "vocabulary",
+  "characters": "王女",
+  "primaryMeaning": "Princess",
+  "otherMeanings": [],
+  "primaryReading": "おうじょ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 482,
+      "character": "王",
+      "readings": [
+        "おう"
+      ]
+    },
+    {
+      "id": 454,
+      "character": "女",
+      "readings": [
+        "じょ",
+        "にょ",
+        "にょう",
+        "おんな",
+        "め"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>king</kanji>'s <kanji>woman</kanji> (or girl) is the <vocabulary>princess</vocabulary>.\n\nYou know she's the princess because she comes <em>after</em> the king — she's just his daughter and doesn't have as much power. Imagine the king with a young woman following after him. Must be the princess!\n\nIf you prefer some grammatical details, you can try to remember that when a word consists of two kanji, sometimes the first kanji has a possessive relation to the second. In this case, 王 possesses 女, making it the king's girl (almost like \"daddy's girl\"). In other words, the princess!",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. That said, this reading can be easy to confuse with other similar words, so here's a mnemonic to help you out:\n\nThe <vocabulary>princess</vocabulary> is named <reading>Jo</reading>-Ann Jr. (じょ), or Jo for short , and she loves making people say \"Ohh, Jo!\" (王女) by sneaking up and scaring them. Whenever you think of the princess now, imagine how many times people have screamed \"Ohh, Jo!\" at her. ",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%8E%8B%E5%A5%B3",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "王",
+      "id": 482,
+      "reading": "おう"
+    },
+    {
+      "type": "kanji",
+      "value": "女",
+      "id": 454,
+      "reading": "じょ"
+    }
+  ]
+}

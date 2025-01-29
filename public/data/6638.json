@@ -1,0 +1,43 @@
+{
+  "id": 6638,
+  "type": "vocabulary",
+  "characters": "肝臓",
+  "primaryMeaning": "Liver",
+  "otherMeanings": [],
+  "primaryReading": "かんぞう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1833,
+      "character": "肝",
+      "readings": [
+        "かん",
+        "きも"
+      ]
+    },
+    {
+      "id": 1546,
+      "character": "臓",
+      "readings": [
+        "ぞう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>liver</kanji> <kanji>internal organ</kanji> is your <vocabulary>liver</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%82%9D%E8%87%93",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "肝",
+      "id": 1833,
+      "reading": "かん"
+    },
+    {
+      "type": "kanji",
+      "value": "臓",
+      "id": 1546,
+      "reading": "ぞう"
+    }
+  ]
+}

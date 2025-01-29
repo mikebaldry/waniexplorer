@@ -1,0 +1,47 @@
+{
+  "id": 5119,
+  "type": "vocabulary",
+  "characters": "児童",
+  "primaryMeaning": "Children",
+  "otherMeanings": [
+    "Child",
+    "School Children"
+  ],
+  "primaryReading": "じどう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1349,
+      "character": "児",
+      "readings": [
+        "じ",
+        "に",
+        "こ"
+      ]
+    },
+    {
+      "id": 833,
+      "character": "童",
+      "readings": [
+        "どう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>child</kanji> who is a <kanji>juvenile</kanji> is just a <vocabulary>child</vocabulary>. A group of them is <vocabulary>children</vocabulary>.\n\n児童 refers specifically to children who are of elementary school age, typically from around 6 to 12 years old. It's often used in formal contexts, like in legal documents or when referring to <vocabulary>school children</vocabulary> in educational settings.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%85%90%E7%AB%A5",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "児",
+      "id": 1349,
+      "reading": "じ"
+    },
+    {
+      "type": "kanji",
+      "value": "童",
+      "id": 833,
+      "reading": "どう"
+    }
+  ]
+}

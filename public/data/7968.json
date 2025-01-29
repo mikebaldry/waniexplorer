@@ -1,0 +1,58 @@
+{
+  "id": 7968,
+  "type": "vocabulary",
+  "characters": "召し上がる",
+  "primaryMeaning": "To Eat",
+  "otherMeanings": [
+    "To Drink"
+  ],
+  "primaryReading": "めしあがる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2122,
+      "character": "召",
+      "readings": [
+        "しょう",
+        "め"
+      ]
+    },
+    {
+      "id": 450,
+      "character": "上",
+      "readings": [
+        "じょう",
+        "うえ",
+        "あ",
+        "のぼ",
+        "うわ",
+        "かみ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You've learned that 召す can mean \"to take\" when a social higher-up takes a meal or a drink. Now you're adding 上がる (to go up), so you've got the added image of the food or drink rising up to their mouth. In other words, this is a respectful way of saying <vocabulary>to eat</vocabulary> or <vocabulary>to drink</vocabulary>.",
+  "readingMnemonic": "This is a combination of the words 召す and 上がる that you've learned already.召す becomes 召し and then you add 上がる to it. Pretty straightforward, right?",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8F%AC%E3%81%97%E4%B8%8A%E3%81%8C%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "召",
+      "id": 2122,
+      "reading": "め"
+    },
+    {
+      "type": "kana",
+      "value": "し"
+    },
+    {
+      "type": "kanji",
+      "value": "上",
+      "id": 450,
+      "reading": "あ"
+    },
+    {
+      "type": "kana",
+      "value": "がる"
+    }
+  ]
+}

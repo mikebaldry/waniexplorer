@@ -1,0 +1,45 @@
+{
+  "id": 8731,
+  "type": "vocabulary",
+  "characters": "渋々",
+  "primaryMeaning": "Reluctantly",
+  "otherMeanings": [
+    "Unwillingly"
+  ],
+  "primaryReading": "しぶしぶ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1717,
+      "character": "渋",
+      "readings": [
+        "じゅう",
+        "しぶ"
+      ]
+    },
+    {
+      "id": 856,
+      "character": "々",
+      "readings": [
+        "のま"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you bite into something <kanji>bitter</kanji> (twice!) you'll take your next bite <vocabulary>reluctantly</vocabulary>. Because who would want that much of something bitter? Not you.",
+  "readingMnemonic": "This is the kun'yomi reading twice. You learned this reading when you learned 渋い. If you remember that, you know this too!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B8%8B%E3%80%85",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "渋",
+      "id": 1717,
+      "reading": "しぶ"
+    },
+    {
+      "type": "kanji",
+      "value": "々",
+      "id": 1717,
+      "reading": "しぶ"
+    }
+  ]
+}

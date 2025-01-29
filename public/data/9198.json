@@ -1,0 +1,103 @@
+{
+  "id": 9198,
+  "object": "kana_vocabulary",
+  "url": "https://api.wanikani.com/v2/subjects/9198",
+  "data_updated_at": "2024-10-15T22:19:12.396908Z",
+  "data": {
+    "created_at": "2023-04-24T23:16:20.622475Z",
+    "level": 6,
+    "slug": "この",
+    "hidden_at": null,
+    "document_url": "https://www.wanikani.com/vocabulary/%E3%81%93%E3%81%AE",
+    "characters": "この",
+    "meanings": [
+      {
+        "meaning": "This",
+        "primary": true,
+        "accepted_answer": true
+      },
+      {
+        "meaning": "These",
+        "primary": false,
+        "accepted_answer": true
+      }
+    ],
+    "auxiliary_meanings": [
+      {
+        "meaning": "Those",
+        "type": "blacklist"
+      }
+    ],
+    "parts_of_speech": [
+      "adjective",
+      "こそあど word"
+    ],
+    "meaning_mnemonic": "Remember how これ means \"this one\"? Well, この simply means <vocabulary>this</vocabulary>. The difference is that これ is used on its own, whereas この goes before a noun. For example, この人 means \"this person\".\n\nNotice how words like this starting with こ are close to you? We'll be learning a few more of these, and they all follow the same pattern!",
+    "context_sentences": [
+      {
+        "en": "Who's this?",
+        "ja": "この人、だれ？"
+      },
+      {
+        "en": "Please look at this page.",
+        "ja": "このページを見てください。"
+      },
+      {
+        "en": "Sorry, my schedule is full on this day.",
+        "ja": "ごめん、この日はスケジュールがいっぱいなんだ。"
+      }
+    ],
+    "pronunciation_audios": [
+      {
+        "url": "https://files.wanikani.com/48mhaufo61ahaj5wvqd9nf5fae3f",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44760,
+          "pronunciation": "この",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/9cwj91te75l2v731kos9sd8bkzj1",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44760,
+          "pronunciation": "この",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      },
+      {
+        "url": "https://files.wanikani.com/qndim2yoku2l659lb5czgrn3y8uu",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44701,
+          "pronunciation": "この",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/ipinvxi3kpry5uduu8nk30buzg7v",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44701,
+          "pronunciation": "この",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      }
+    ],
+    "lesson_position": 0,
+    "spaced_repetition_system_id": 1
+  }
+}

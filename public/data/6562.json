@@ -1,0 +1,52 @@
+{
+  "id": 6562,
+  "type": "vocabulary",
+  "characters": "駆け回る",
+  "primaryMeaning": "To Run Around",
+  "otherMeanings": [],
+  "primaryReading": "かけまわる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1744,
+      "character": "駆",
+      "readings": [
+        "か",
+        "く"
+      ]
+    },
+    {
+      "id": 569,
+      "character": "回",
+      "readings": [
+        "かい",
+        "まわ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "To 駆ける is \"to gallop.\" 回る is \"to revolve.\" So if you're galloping around in a revolving fashion, you are going <vocabulary>to run around</vocabulary>.",
+  "readingMnemonic": "The readings come from 駆ける and 回る.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%A7%86%E3%81%91%E5%9B%9E%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "駆",
+      "id": 1744,
+      "reading": "か"
+    },
+    {
+      "type": "kana",
+      "value": "け"
+    },
+    {
+      "type": "kanji",
+      "value": "回",
+      "id": 569,
+      "reading": "まわ"
+    },
+    {
+      "type": "kana",
+      "value": "る"
+    }
+  ]
+}

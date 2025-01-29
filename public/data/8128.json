@@ -1,0 +1,62 @@
+{
+  "id": 8128,
+  "type": "vocabulary",
+  "characters": "無秩序",
+  "primaryMeaning": "Disorder",
+  "otherMeanings": [
+    "Chaos",
+    "Confusion"
+  ],
+  "primaryReading": "むちつじょ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1008,
+      "character": "無",
+      "readings": [
+        "む",
+        "ぶ",
+        "な"
+      ]
+    },
+    {
+      "id": 2167,
+      "character": "秩",
+      "readings": [
+        "ちつ"
+      ]
+    },
+    {
+      "id": 1480,
+      "character": "序",
+      "readings": [
+        "じょ",
+        "つい",
+        "ついで"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Remember how you learned that 秩序 means \"order?\" Well if you have <kanji>nothing</kanji> like that then it falls into <vocabulary>disorder</vocabulary> and <vocabulary>chaos</vocabulary>!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%84%A1%E7%A7%A9%E5%BA%8F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "無",
+      "id": 1008,
+      "reading": "む"
+    },
+    {
+      "type": "kanji",
+      "value": "秩",
+      "id": 2167,
+      "reading": "ちつ"
+    },
+    {
+      "type": "kanji",
+      "value": "序",
+      "id": 1480,
+      "reading": "じょ"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 1791,
+  "type": "kanji",
+  "character": "潜",
+  "primaryMeaning": "Conceal",
+  "otherMeanings": [],
+  "primaryReading": "せん",
+  "readings": [
+    {
+      "reading": "せん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "くぐ",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "ひそ",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "もぐ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "The husbands are going to <kanji>conceal</kanji> their pet <reading>cen</reading>taur (せん) in the sun. The local government isn’t too pleased that they have a pet centaur so they have to conceal it in the sun so it doesn't get confiscated.",
+  "meaningMnemonic": "A <radical>tsunami</radical> carries a <radical>husband</radical> and his <radical>husband</radical> up into the <radical>sun</radical>, where they're going to <kanji>conceal</kanji> something. ",
+  "vocabularyIds": [
+    6512,
+    6514,
+    6516,
+    6517,
+    6945,
+    8181
+  ],
+  "radicalIds": [
+    103,
+    146,
+    22
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%BD%9C"
+}

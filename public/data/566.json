@@ -1,0 +1,62 @@
+{
+  "id": 566,
+  "type": "kanji",
+  "character": "会",
+  "primaryMeaning": "Meet",
+  "otherMeanings": [
+    "Meeting"
+  ],
+  "primaryReading": "かい",
+  "readings": [
+    {
+      "reading": "かい",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "あ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "What better way to <kanji>meet</kanji> new people than to start <reading>kay</reading>aking (かい)! Get into your kayak and just float out into the water. You'll eventually bump into someone else in a kayak and boom, you're meeting someone new!",
+  "meaningMnemonic": "The <radical>meet</radical> radical and the <kanji>meet</kanji> kanji are the same!",
+  "vocabularyIds": [
+    2741,
+    2742,
+    2834,
+    3076,
+    3343,
+    3506,
+    3548,
+    3660,
+    3785,
+    4103,
+    4330,
+    4484,
+    4580,
+    4754,
+    4937,
+    5138,
+    5228,
+    5569,
+    5578,
+    5717,
+    6139,
+    6149,
+    6463,
+    7011,
+    7523,
+    7580,
+    7582,
+    7648,
+    7705,
+    7850,
+    8750,
+    9061
+  ],
+  "radicalIds": [
+    155
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E4%BC%9A"
+}

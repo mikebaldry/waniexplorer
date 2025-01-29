@@ -1,0 +1,38 @@
+{
+  "id": 913,
+  "type": "kanji",
+  "character": "求",
+  "primaryMeaning": "Request",
+  "otherMeanings": [],
+  "primaryReading": "きゅう",
+  "readings": [
+    {
+      "reading": "きゅう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "もと",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Oh, one more thing. I <kanji>request</kanji> that you wipe up the water with this <reading>cu</reading>cumber (きゅう).",
+  "meaningMnemonic": "On the <radical>ground</radical> is a <radical>water</radical> <radical>drop</radical> you spilled, so I <kanji>request</kanji> you wipe it up. I would do it myself, but you're the one who spilled it, so I'm requesting you do it and take responsibility for your mistake.",
+  "vocabularyIds": [
+    3707,
+    3708,
+    3924,
+    3925,
+    4600,
+    5285,
+    5302,
+    5590
+  ],
+  "radicalIds": [
+    1,
+    45,
+    3
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%B1%82"
+}

@@ -1,0 +1,36 @@
+{
+  "id": 6812,
+  "type": "vocabulary",
+  "characters": "叫ぶ",
+  "primaryMeaning": "To Shout",
+  "otherMeanings": [
+    "To Scream"
+  ],
+  "primaryReading": "さけぶ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1892,
+      "character": "叫",
+      "readings": [
+        "きょう",
+        "さけ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>shout</kanji> so the verb vocab version is <vocabulary>to shout</vocabulary>. Can also be <vocabulary>to scream</vocabulary>.",
+  "readingMnemonic": "To remember the reading of this, just think about how you start <vocabulary>to shout</vocabulary> and <vocabulary>to scream</vocabulary> when you drink way too much <reading>sake</reading> (さけ).",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8F%AB%E3%81%B6",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "叫",
+      "id": 1892,
+      "reading": "さけ"
+    },
+    {
+      "type": "kana",
+      "value": "ぶ"
+    }
+  ]
+}

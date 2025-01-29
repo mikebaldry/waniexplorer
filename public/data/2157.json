@@ -1,0 +1,40 @@
+{
+  "id": 2157,
+  "type": "kanji",
+  "character": "覇",
+  "primaryMeaning": "Leadership",
+  "otherMeanings": [],
+  "primaryReading": "は",
+  "readings": [
+    {
+      "reading": "は",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "はく",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "はたがしら",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Under your superior <kanji>leadership</kanji> you and your leather helicopter crew are able to make it to the moon. The moon! Your crew is so impressed by your leadership, and their lack of being very dead, and they all start laughing, \"<reading>Ha</reading> (は) ha ha ha!\" They thought they were going to die but you lead them to the moon safely!",
+  "meaningMnemonic": "Take a <radical>leather</radical> <radical>helicopter</radical> to the <radical>moon</radical> to prove your excellent <kanji>leadership</kanji>. Some people called you crazy, but you'll show them, as you lead an entire crew of leather helicopter pilots on their first mission to space!",
+  "vocabularyIds": [
+    7921,
+    7922,
+    7923,
+    7924,
+    7925
+  ],
+  "radicalIds": [
+    424,
+    288,
+    43
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%A6%87"
+}

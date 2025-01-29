@@ -1,0 +1,37 @@
+{
+  "id": 1238,
+  "type": "kanji",
+  "character": "量",
+  "primaryMeaning": "Quantity",
+  "otherMeanings": [
+    "Amount"
+  ],
+  "primaryReading": "りょう",
+  "readings": [
+    {
+      "reading": "りょう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "はか",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Today's dawn has brought with it an increase in the <kanji>quantity</kanji> of <reading>row</reading>(りょう) boats! Aww, aren't they cute? Look at all of the new row boats lined up together. They all have their own sets of oars too.",
+  "meaningMnemonic": "When <radical>dawn</radical> reaches this <radical>village</radical> it increases in <kanji>quantity</kanji>. That's right. Every morning the <kanji>amount</kanji> of people or animals living here goes up by at least one.",
+  "vocabularyIds": [
+    4725,
+    4726,
+    4727,
+    4728,
+    8619,
+    9115
+  ],
+  "radicalIds": [
+    293,
+    125
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%87%8F"
+}

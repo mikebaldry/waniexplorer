@@ -1,0 +1,48 @@
+{
+  "id": 5548,
+  "type": "vocabulary",
+  "characters": "衛生",
+  "primaryMeaning": "Hygiene",
+  "otherMeanings": [],
+  "primaryReading": "えいせい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1492,
+      "character": "衛",
+      "readings": [
+        "えい"
+      ]
+    },
+    {
+      "id": 850,
+      "character": "生",
+      "readings": [
+        "せい",
+        "しょう",
+        "い",
+        "なま",
+        "う",
+        "は",
+        "き"
+      ]
+    }
+  ],
+  "meaningMnemonic": "In <kanji>defense</kanji> of <kanji>life</kanji>, you have to remain clean. If you are dirty, you will die earlier (think: plagues). So, to defend said life, you must have good <vocabulary>hygiene</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A1%9B%E7%94%9F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "衛",
+      "id": 1492,
+      "reading": "えい"
+    },
+    {
+      "type": "kanji",
+      "value": "生",
+      "id": 850,
+      "reading": "せい"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": 8171,
+  "type": "vocabulary",
+  "characters": "顕在",
+  "primaryMeaning": "Actual",
+  "otherMeanings": [
+    "Obvious",
+    "Explicit",
+    "Overt",
+    "Apparent",
+    "Evident"
+  ],
+  "primaryReading": "けんざい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2237,
+      "character": "顕",
+      "readings": [
+        "けん",
+        "あきらか",
+        "あらわ"
+      ]
+    },
+    {
+      "id": 1107,
+      "character": "在",
+      "readings": [
+        "ざい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If it <kanji>appear</kanji>s to <kanji>exist</kanji>, then it's probably an <vocabulary>actual</vocabulary> thing... you know, existing and stuff. That should be pretty <vocabulary>obvious</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%A1%95%E5%9C%A8",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "顕",
+      "id": 2237,
+      "reading": "けん"
+    },
+    {
+      "type": "kanji",
+      "value": "在",
+      "id": 1107,
+      "reading": "ざい"
+    }
+  ]
+}

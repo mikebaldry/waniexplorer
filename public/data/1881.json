@@ -1,0 +1,32 @@
+{
+  "id": 1881,
+  "type": "kanji",
+  "character": "謎",
+  "primaryMeaning": "Riddle",
+  "otherMeanings": [],
+  "primaryReading": "なぞ",
+  "readings": [
+    {
+      "reading": "なぞ",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "めい",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Did you figure out the answer to this <kanji>riddle</kanji>? Say your answer aloud to the screen right now.... <reading>not so</reading> (なぞ)! You're wrong.",
+  "meaningMnemonic": "I <radical>say</radical>, which weighs more: a kilogram of <radical>scooter</radical>s or a kilogram of <radical>rice</radical>? This is a <kanji>riddle</kanji>!",
+  "vocabularyIds": [
+    6795,
+    6796
+  ],
+  "radicalIds": [
+    117,
+    114,
+    98
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%AC%8E"
+}

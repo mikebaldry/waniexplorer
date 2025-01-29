@@ -1,0 +1,34 @@
+{
+  "id": 2169,
+  "type": "kanji",
+  "character": "膨",
+  "primaryMeaning": "Swell",
+  "otherMeanings": [],
+  "primaryReading": "ぼう",
+  "readings": [
+    {
+      "reading": "ぼう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ふく",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Using this method, your hair <kanji>swell</kanji>s so much it looks like a giant <reading>bow</reading>ling (ぼう) ball is sitting on top of your head. It's all round, and well... swollen is probably the only word that fits.",
+  "meaningMnemonic": "Play your <radical>drum</radical> under the <radical>moon</radical> and your <radical>hair</radical> will <kanji>swell</kanji>! The more you play and the longer it's under the moon, the larger your hair will swell.",
+  "vocabularyIds": [
+    7915,
+    7916,
+    7917,
+    8137
+  ],
+  "radicalIds": [
+    43,
+    421,
+    38
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%86%A8"
+}

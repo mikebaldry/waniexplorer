@@ -1,0 +1,33 @@
+{
+  "id": 2129,
+  "type": "kanji",
+  "character": "耕",
+  "primaryMeaning": "Plow",
+  "otherMeanings": [],
+  "primaryReading": "こう",
+  "readings": [
+    {
+      "reading": "こう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "たがや",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "<kanji>plow</kanji>ing all the fields are <reading>こう</reading>いちs. Not Emperor こういち. These are the こういち clones the government made, and now they're being put to use.",
+  "meaningMnemonic": "You have a <radical>plow</radical> and a (water) <radical>well</radical>. These are the two things you need in order to <kanji>plow</kanji>.",
+  "vocabularyIds": [
+    7818,
+    7819,
+    7820,
+    7821
+  ],
+  "radicalIds": [
+    388,
+    246
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%80%95"
+}

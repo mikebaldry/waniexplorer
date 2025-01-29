@@ -1,0 +1,44 @@
+{
+  "id": 2878,
+  "type": "vocabulary",
+  "characters": "羊毛",
+  "primaryMeaning": "Wool",
+  "otherMeanings": [],
+  "primaryReading": "ようもう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 618,
+      "character": "羊",
+      "readings": [
+        "よう",
+        "ひつじ"
+      ]
+    },
+    {
+      "id": 513,
+      "character": "毛",
+      "readings": [
+        "もう",
+        "け"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>sheep</kanji>'s <kanji>fur</kanji> is <vocabulary>wool</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%BE%8A%E6%AF%9B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "羊",
+      "id": 618,
+      "reading": "よう"
+    },
+    {
+      "type": "kanji",
+      "value": "毛",
+      "id": 513,
+      "reading": "もう"
+    }
+  ]
+}

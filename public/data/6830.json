@@ -1,0 +1,43 @@
+{
+  "id": 6830,
+  "type": "vocabulary",
+  "characters": "姫様",
+  "primaryMeaning": "Princess",
+  "otherMeanings": [],
+  "primaryReading": "ひめさま",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1899,
+      "character": "姫",
+      "readings": [
+        "ひめ"
+      ]
+    },
+    {
+      "id": 865,
+      "character": "様",
+      "readings": [
+        "さま",
+        "よう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>princess</kanji> (<kanji>formal name ender</kanji>) is the princess, and you're talking to her politely. She is the <vocabulary>princess</vocabulary>.",
+  "readingMnemonic": "The reading is the reading of 姫 and 様 combined together.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A7%AB%E6%A7%98",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "姫",
+      "id": 1899,
+      "reading": "ひめ"
+    },
+    {
+      "type": "kanji",
+      "value": "様",
+      "id": 865,
+      "reading": "さま"
+    }
+  ]
+}

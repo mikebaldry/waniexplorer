@@ -1,0 +1,36 @@
+{
+  "id": 6308,
+  "type": "vocabulary",
+  "characters": "拒む",
+  "primaryMeaning": "To Refuse",
+  "otherMeanings": [
+    "To Reject"
+  ],
+  "primaryReading": "こばむ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1730,
+      "character": "拒",
+      "readings": [
+        "きょ",
+        "こば"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>refuse</kanji> and the verb vocab version is <vocabulary>to refuse</vocabulary>.",
+  "readingMnemonic": "What are you refusing? You are refusing a child, because children are all bad. You say \"<reading>子 ba</reading>d, <reading>子 ba</reading>d\" over and over again.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8B%92%E3%82%80",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "拒",
+      "id": 1730,
+      "reading": "こば"
+    },
+    {
+      "type": "kana",
+      "value": "む"
+    }
+  ]
+}

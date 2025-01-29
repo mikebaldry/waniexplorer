@@ -1,0 +1,34 @@
+{
+  "id": 7263,
+  "type": "vocabulary",
+  "characters": "憎しみ",
+  "primaryMeaning": "Hatred",
+  "otherMeanings": [],
+  "primaryReading": "にくしみ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1997,
+      "character": "憎",
+      "readings": [
+        "ぞう",
+        "にく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If 憎む is \"to hate\" then the noun version would be <vocabulary>hatred</vocabulary>.",
+  "readingMnemonic": "The reading comes from 憎む.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%86%8E%E3%81%97%E3%81%BF",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "憎",
+      "id": 1997,
+      "reading": "にく"
+    },
+    {
+      "type": "kana",
+      "value": "しみ"
+    }
+  ]
+}

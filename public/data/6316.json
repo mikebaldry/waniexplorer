@@ -1,0 +1,48 @@
+{
+  "id": 6316,
+  "type": "vocabulary",
+  "characters": "稲田",
+  "primaryMeaning": "Rice Field",
+  "otherMeanings": [
+    "Rice Paddy",
+    "Paddy Field"
+  ],
+  "primaryReading": "いなだ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1735,
+      "character": "稲",
+      "readings": [
+        "いね",
+        "いな",
+        "とう"
+      ]
+    },
+    {
+      "id": 490,
+      "character": "田",
+      "readings": [
+        "た",
+        "でん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>rice plant</kanji> <kanji>rice paddy</kanji> is a <vocabulary>rice field</vocabulary> or <vocabulary>rice paddy</vocabulary>.",
+  "readingMnemonic": "The reading is the いな reading for 稲 and the regular 田 reading rendaku'd.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A8%B2%E7%94%B0",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "稲",
+      "id": 1735,
+      "reading": "いな"
+    },
+    {
+      "type": "kanji",
+      "value": "田",
+      "id": 490,
+      "reading": "だ"
+    }
+  ]
+}

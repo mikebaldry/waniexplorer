@@ -1,0 +1,43 @@
+{
+  "id": 5540,
+  "type": "vocabulary",
+  "characters": "老眼",
+  "primaryMeaning": "Farsightedness",
+  "otherMeanings": [],
+  "primaryReading": "ろうがん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 781,
+      "character": "老",
+      "readings": [
+        "ろう"
+      ]
+    },
+    {
+      "id": 1488,
+      "character": "眼",
+      "readings": [
+        "がん",
+        "め"
+      ]
+    }
+  ],
+  "meaningMnemonic": "An <kanji>elderly</kanji> <kanji>eyeball</kanji> is one that can't see things close up. That's why this word means <vocabulary>farsightedness</vocabulary>. But this is the kind of farsightedness that only comes with age. So you have to be an elderly oldey to have 老眼.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%80%81%E7%9C%BC",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "老",
+      "id": 781,
+      "reading": "ろう"
+    },
+    {
+      "type": "kanji",
+      "value": "眼",
+      "id": 1488,
+      "reading": "がん"
+    }
+  ]
+}

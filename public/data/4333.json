@@ -1,0 +1,45 @@
+{
+  "id": 4333,
+  "type": "vocabulary",
+  "characters": "防止",
+  "primaryMeaning": "Prevention",
+  "otherMeanings": [],
+  "primaryReading": "ぼうし",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1117,
+      "character": "防",
+      "readings": [
+        "ぼう",
+        "ふせ"
+      ]
+    },
+    {
+      "id": 514,
+      "character": "止",
+      "readings": [
+        "し",
+        "と",
+        "や"
+      ]
+    }
+  ],
+  "meaningMnemonic": "To <kanji>prevent</kanji> and <kanji>stop</kanji> someone from doing something is <vocabulary>prevention</vocabulary>. It's good to have prevention instead of letting something bad happen.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%98%B2%E6%AD%A2",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "防",
+      "id": 1117,
+      "reading": "ぼう"
+    },
+    {
+      "type": "kanji",
+      "value": "止",
+      "id": 514,
+      "reading": "し"
+    }
+  ]
+}

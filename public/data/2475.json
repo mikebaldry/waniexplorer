@@ -1,0 +1,32 @@
+{
+  "id": 2475,
+  "type": "vocabulary",
+  "characters": "人",
+  "primaryMeaning": "Person",
+  "otherMeanings": [],
+  "primaryReading": "ひと",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 444,
+      "character": "人",
+      "readings": [
+        "にん",
+        "じん",
+        "ひと",
+        "と"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When a vocab is a single kanji all alone, it usually has the same meaning as its kanji parent. That goes for this vocab word as well. <kanji>Person</kanji> is <vocabulary>person</vocabulary>.",
+  "readingMnemonic": "When a vocab is a single kanji with no okurigana (hiragana attached to the kanji), it usually uses the kun'yomi reading. Since you don't know the kun'yomi reading for this kanji yet, let's use a mnemonic to learn it.\n\nWhat does a <vocabulary>person</vocabulary> hate more than anything? They hate extreme <reading>heat</reading> (ひと). You can always put on more clothes to stay warm, but when the heat gets too high, you can only take off so much.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BA%BA",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "人",
+      "id": 444,
+      "reading": "ひと"
+    }
+  ]
+}

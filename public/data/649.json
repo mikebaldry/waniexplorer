@@ -1,0 +1,40 @@
+{
+  "id": 649,
+  "type": "kanji",
+  "character": "札",
+  "primaryMeaning": "Bill",
+  "otherMeanings": [
+    "Tag",
+    "Label",
+    "Note"
+  ],
+  "primaryReading": "さつ",
+  "readings": [
+    {
+      "reading": "さつ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ふだ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "And the person who gave the tree an umbrella to protect it from all those <kanji>bills</kanji>? <reading>Satsu</reading>ki (さつ), a little girl famous for… handing out umbrellas, I guess. Makes sense that Satsuki would take care of these bills then.",
+  "meaningMnemonic": "This <radical>tree</radical> has an <radical>umbrella</radical>, which it's holding over its head. Strange, because trees normally like water… Turns out, this tree wasn't getting showered in water, but in dollar <kanji>bill</kanji>s instead.",
+  "vocabularyIds": [
+    2932,
+    2933,
+    8800,
+    8803,
+    8806,
+    8808,
+    8811
+  ],
+  "radicalIds": [
+    23,
+    211
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%9C%AD"
+}

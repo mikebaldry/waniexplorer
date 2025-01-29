@@ -1,0 +1,45 @@
+{
+  "id": 5778,
+  "type": "vocabulary",
+  "characters": "磁石",
+  "primaryMeaning": "Magnet",
+  "otherMeanings": [
+    "A Magnet"
+  ],
+  "primaryReading": "じしゃく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1559,
+      "character": "磁",
+      "readings": [
+        "じ"
+      ]
+    },
+    {
+      "id": 493,
+      "character": "石",
+      "readings": [
+        "せき",
+        "いし"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>magnet</kanji> <kanji>stone</kanji> is a <vocabulary>magnet</vocabulary>. Magnets look like little stones, right?",
+  "readingMnemonic": "The 磁 reading makes sense. The しゃく reading for 石 is an exception. To remember this, just think how you are using a magnet to find this <reading>shack</reading> (しゃく) full of other magnets. It pulls you towards the shack, and when you find it and open it, all the magnets fly out and crush you because of magnety reasons.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A3%81%E7%9F%B3",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "磁",
+      "id": 1559,
+      "reading": "じ"
+    },
+    {
+      "type": "kanji",
+      "value": "石",
+      "id": 493,
+      "reading": null
+    }
+  ]
+}

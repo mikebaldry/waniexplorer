@@ -1,0 +1,72 @@
+{
+  "id": 483,
+  "type": "kanji",
+  "character": "出",
+  "primaryMeaning": "Exit",
+  "otherMeanings": [],
+  "primaryReading": "しゅつ",
+  "readings": [
+    {
+      "reading": "しゅつ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "で",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "だ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "As you're trying to <kanji>exit</kanji> this mountain range, you suddenly realize that someone is actually hunting you. What? Make sure to feel that sudden realization. It's crazy. Then, you find the exit and run towards it. Sadly, the hunter is waiting there, and he <reading>shoots you</reading> (しゅつ) through the leg, knocking you down.",
+  "meaningMnemonic": "There are two <radical>mountains</radical> in front of you... and probably a bunch more around you too. You are in a pass, and don't know how to get out. You are frantically looking for the <kanji>exit</kanji> before you freeze to death. The most important thing is to find the exit from this mountain range - your life depends on it.",
+  "vocabularyIds": [
+    2556,
+    2557,
+    2558,
+    2880,
+    3040,
+    3418,
+    3433,
+    3435,
+    3461,
+    3506,
+    3980,
+    4071,
+    4380,
+    4566,
+    4684,
+    4977,
+    5027,
+    5335,
+    5340,
+    5508,
+    5509,
+    5915,
+    5940,
+    6402,
+    6561,
+    6675,
+    6936,
+    6959,
+    7274,
+    7423,
+    7872,
+    7903,
+    8086,
+    8660,
+    9020,
+    9083,
+    9084,
+    9131,
+    9154
+  ],
+  "radicalIds": [
+    20
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%87%BA"
+}

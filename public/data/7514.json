@@ -1,0 +1,38 @@
+{
+  "id": 7514,
+  "type": "vocabulary",
+  "characters": "通う",
+  "primaryMeaning": "To Commute",
+  "otherMeanings": [
+    "To Attend",
+    "To Go Back And Forth"
+  ],
+  "primaryReading": "かよう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 665,
+      "character": "通",
+      "readings": [
+        "つう",
+        "とお",
+        "かよ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji means <kanji>pass through</kanji> but we already know the word 通る which means to pass through. This word means a different kind of passing through, like how you pass through the halls of your school everyday. But we don't say to pass through school, we say <vocabulary>to attend</vocabulary> school, or <vocabulary>to commute</vocabulary> to school.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use one of the kun'yomi readings. You didn't learn that reading with this kanji, so here's a mnemonic to help you:\n\nYou live in the middle of three different school districts so you need to decide which of the three schools you want <vocabulary>to attend</vocabulary>. You decide you don't mind that you have <vocabulary>to commute</vocabulary> to the farthest of the three because their mascot is Wile E. <reading>Coyo</reading>te (かよ). He's your favorite Looney Toon because he always has the energy <vocabulary>to go back and forth</vocabulary> after that road runner.\n",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%80%9A%E3%81%86",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "通",
+      "id": 665,
+      "reading": "かよ"
+    },
+    {
+      "type": "kana",
+      "value": "う"
+    }
+  ]
+}

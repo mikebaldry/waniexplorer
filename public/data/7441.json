@@ -1,0 +1,56 @@
+{
+  "id": 7441,
+  "type": "vocabulary",
+  "characters": "殴り合い",
+  "primaryMeaning": "Fistfight",
+  "otherMeanings": [
+    "Fist Fight"
+  ],
+  "primaryReading": "なぐりあい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2046,
+      "character": "殴",
+      "readings": [
+        "おう",
+        "なぐ"
+      ]
+    },
+    {
+      "id": 852,
+      "character": "合",
+      "readings": [
+        "ごう",
+        "がっ",
+        "あ",
+        "あい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Remember 殴る, which means \"to punch\"? Well, add on 合う and you've got <vocabulary>punches</vocabulary> that have <vocabulary>come together</vocabulary> with other punches. By \"come together\" I mean your fist is coming in contact with someone's face, and their fist is coming in contact with your kidneys. In other words, this is a <vocabulary>fistfight</vocabulary>.",
+  "readingMnemonic": "The readings come from 殴る and 合う, punched together.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%AE%B4%E3%82%8A%E5%90%88%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "殴",
+      "id": 2046,
+      "reading": "なぐ"
+    },
+    {
+      "type": "kana",
+      "value": "り"
+    },
+    {
+      "type": "kanji",
+      "value": "合",
+      "id": 852,
+      "reading": "あい"
+    },
+    {
+      "type": "kana",
+      "value": "い"
+    }
+  ]
+}

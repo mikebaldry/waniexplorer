@@ -1,0 +1,53 @@
+{
+  "id": 6051,
+  "type": "vocabulary",
+  "characters": "昭和",
+  "primaryMeaning": "Showa Era",
+  "otherMeanings": [
+    "Shouwa Era",
+    "Showa",
+    "Shouwa",
+    "Showa Emperor",
+    "Shouwa Emperor"
+  ],
+  "primaryReading": "しょうわ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1644,
+      "character": "昭",
+      "readings": [
+        "しょう"
+      ]
+    },
+    {
+      "id": 712,
+      "character": "和",
+      "readings": [
+        "わ",
+        "お",
+        "なご",
+        "やわ",
+        "かず",
+        "より"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>shining</kanji> <kanji>peace</kanji> time was a time known as the <vocabulary>Showa Era</vocabulary>. This can also refer to the <vocabulary>Showa Emperor</vocabulary> or just <vocabulary>Showa</vocabulary> itself. Everything Showa is here.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%98%AD%E5%92%8C",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "昭",
+      "id": 1644,
+      "reading": "しょう"
+    },
+    {
+      "type": "kanji",
+      "value": "和",
+      "id": 712,
+      "reading": "わ"
+    }
+  ]
+}

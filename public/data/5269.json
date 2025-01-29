@@ -1,0 +1,44 @@
+{
+  "id": 5269,
+  "type": "vocabulary",
+  "characters": "検索",
+  "primaryMeaning": "Lookup",
+  "otherMeanings": [
+    "Internet Search"
+  ],
+  "primaryReading": "けんさく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1143,
+      "character": "検",
+      "readings": [
+        "けん"
+      ]
+    },
+    {
+      "id": 1410,
+      "character": "索",
+      "readings": [
+        "さく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You <kanji>examine</kanji> then <kanji>search</kanji>. These are the steps you take in order to perform a <vocabulary>lookup</vocabulary> of some kind (or, as the case may be in modern times, do an <vocabulary>internet search</vocabulary>).",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%A4%9C%E7%B4%A2",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "検",
+      "id": 1143,
+      "reading": "けん"
+    },
+    {
+      "type": "kanji",
+      "value": "索",
+      "id": 1410,
+      "reading": "さく"
+    }
+  ]
+}

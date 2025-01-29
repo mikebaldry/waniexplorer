@@ -1,0 +1,38 @@
+{
+  "id": 2320,
+  "type": "kanji",
+  "character": "嘉",
+  "primaryMeaning": "Esteem",
+  "otherMeanings": [
+    "Praise"
+  ],
+  "primaryReading": "か",
+  "readings": [
+    {
+      "reading": "か",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "よい",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "よみ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You hold them in such high <kanji>esteem</kanji> that you give them your <reading>ca</reading>r (か). I ... I said you give them your car! Give them your car. Hey, hey!",
+  "meaningMnemonic": "If when you speak it sounds like the <radical>power</radical> of a <radical>drum</radical> is coming out of your <radical>mouth</radical>, then people will hold you in high <kanji>esteem</kanji>. Anyone who has a loud, booming, powerful voice will be held in high esteem in this day and age. Look at all those awesome musicians who have booming voices!",
+  "vocabularyIds": [
+    8265
+  ],
+  "radicalIds": [
+    421,
+    13,
+    16
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%98%89"
+}

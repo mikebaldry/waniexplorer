@@ -1,0 +1,43 @@
+{
+  "id": 5720,
+  "type": "vocabulary",
+  "characters": "内臓",
+  "primaryMeaning": "Internal Organ",
+  "otherMeanings": [],
+  "primaryReading": "ないぞう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 500,
+      "character": "内",
+      "readings": [
+        "ない",
+        "うち"
+      ]
+    },
+    {
+      "id": 1546,
+      "character": "臓",
+      "readings": [
+        "ぞう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Inside</kanji> <kanji>internal organs</kanji> are your <vocabulary>internal organs</vocabulary>, though you'd think the second kanji would give a hint to that without the 内.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%86%85%E8%87%93",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "内",
+      "id": 500,
+      "reading": "ない"
+    },
+    {
+      "type": "kanji",
+      "value": "臓",
+      "id": 1546,
+      "reading": "ぞう"
+    }
+  ]
+}

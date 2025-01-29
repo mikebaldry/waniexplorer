@@ -1,0 +1,49 @@
+{
+  "id": 3925,
+  "type": "vocabulary",
+  "characters": "要求する",
+  "primaryMeaning": "To Demand Something",
+  "otherMeanings": [],
+  "primaryReading": "ようきゅうする",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 737,
+      "character": "要",
+      "readings": [
+        "よう",
+        "い",
+        "かなめ"
+      ]
+    },
+    {
+      "id": 913,
+      "character": "求",
+      "readings": [
+        "きゅう",
+        "もと"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You hopefully remember that 要求 means \"demand\" . When you make that a verb, it becomes <vocabulary>to demand something</vocabulary>.",
+  "readingMnemonic": "The reading is just the vocab word 要求. It's also the regular on'yomi jukugo reading.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A6%81%E6%B1%82%E3%81%99%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "要",
+      "id": 737,
+      "reading": "よう"
+    },
+    {
+      "type": "kanji",
+      "value": "求",
+      "id": 913,
+      "reading": "きゅう"
+    },
+    {
+      "type": "kana",
+      "value": "する"
+    }
+  ]
+}

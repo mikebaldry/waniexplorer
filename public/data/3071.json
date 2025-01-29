@@ -1,0 +1,35 @@
+{
+  "id": 3071,
+  "type": "vocabulary",
+  "characters": "楽しい",
+  "primaryMeaning": "Fun",
+  "otherMeanings": [],
+  "primaryReading": "たのしい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 704,
+      "character": "楽",
+      "readings": [
+        "らく",
+        "がく",
+        "たの"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Ending with an い tells you that this word is an い-adjective. What's the adjective form of <kanji>pleasure</kanji>? Well, you could say it's \"pleasurable,\" but I'm afraid that's not what we're going for here. In this case, this word is a little more innocent. It just means <vocabulary>fun</vocabulary>.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nHow much <vocabulary>fun</vocabulary> did you have? You just had a <reading>ton o'</reading> (たの) fun!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%A5%BD%E3%81%97%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "楽",
+      "id": 704,
+      "reading": "たの"
+    },
+    {
+      "type": "kana",
+      "value": "しい"
+    }
+  ]
+}

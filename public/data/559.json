@@ -1,0 +1,31 @@
+{
+  "id": 559,
+  "type": "kanji",
+  "character": "貝",
+  "primaryMeaning": "Shellfish",
+  "otherMeanings": [
+    "Shell"
+  ],
+  "primaryReading": "かい",
+  "readings": [
+    {
+      "reading": "かい",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "ばい",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "To get some <kanji>shellfish</kanji>, all you have to do is hop in your <reading>kay</reading>ak (かい) and get some. Shellfish live in the water.",
+  "meaningMnemonic": "The <radical>shellfish</radical> radical and the <kanji>shellfish</kanji> kanji are the same! It can be just the <kanji>shell</kanji> part too.",
+  "vocabularyIds": [
+    2703
+  ],
+  "radicalIds": [
+    94
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%B2%9D"
+}

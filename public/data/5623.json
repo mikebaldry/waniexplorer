@@ -1,0 +1,30 @@
+{
+  "id": 5623,
+  "type": "vocabulary",
+  "characters": "窓",
+  "primaryMeaning": "Window",
+  "otherMeanings": [],
+  "primaryReading": "まど",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1516,
+      "character": "窓",
+      "readings": [
+        "まど",
+        "そう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "The reading is the same as the kanji reading you learned.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%AA%93",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "窓",
+      "id": 1516,
+      "reading": "まど"
+    }
+  ]
+}

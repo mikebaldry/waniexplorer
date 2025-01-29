@@ -1,0 +1,49 @@
+{
+  "id": 9292,
+  "type": "vocabulary",
+  "characters": "親父",
+  "primaryMeaning": "One's Father",
+  "otherMeanings": [
+    "Middle-Aged Man",
+    "Father"
+  ],
+  "primaryReading": "おやじ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 770,
+      "character": "親",
+      "readings": [
+        "しん",
+        "おや",
+        "した"
+      ]
+    },
+    {
+      "id": 512,
+      "character": "父",
+      "readings": [
+        "ちち",
+        "とう",
+        "ふ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "One's <kanji>parent</kanji> <kanji>father</kanji> is simply just <vocabulary>one's father</vocabulary>. \n\nNote that 親父 has a masculine and somewhat vulgar tone to it. It can refer to your own dad, someone else's, or a <vocabulary>middle-aged man</vocabulary> you're friendly with. When not talking about your own father, you'll want to add a さん at the end, making it 親父さん.",
+  "readingMnemonic": "The reading for this is unfortunately a bit of an exception. 親 uses the kun'yomi おや, and 父 uses the じ reading which you learned with 叔父. You've learned all these readings before, so as long as you remember them, you're good to go. If you don't, check out the mnemonics for these readings on their vocabularies' pages!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A6%AA%E7%88%B6",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "親",
+      "id": 770,
+      "reading": "おや"
+    },
+    {
+      "type": "kanji",
+      "value": "父",
+      "id": 512,
+      "reading": null
+    }
+  ]
+}

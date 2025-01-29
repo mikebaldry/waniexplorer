@@ -1,0 +1,47 @@
+{
+  "id": 6998,
+  "type": "vocabulary",
+  "characters": "涼風",
+  "primaryMeaning": "Cool Breeze",
+  "otherMeanings": [
+    "Refreshing Breeze"
+  ],
+  "primaryReading": "りょうふう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1954,
+      "character": "涼",
+      "readings": [
+        "すず",
+        "りょう"
+      ]
+    },
+    {
+      "id": 853,
+      "character": "風",
+      "readings": [
+        "ふう",
+        "ふ",
+        "かぜ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>cool</kanji> <kanji>wind</kanji> is a <vocabulary>cool breeze</vocabulary>.",
+  "readingMnemonic": "The reading is all on'yomi, and you know how to read 風. You didn't learn 涼's on'yomi (りょう) with the kanji though, so here's a mnemonic to help:\n\nImagine that a <vocabulary>cool breeze</vocabulary> is pushing your little <reading>row</reading> (りょう) boat along, so that you don't need to do any rowing. Ahh, what a nice cool breeze…",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B6%BC%E9%A2%A8",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "涼",
+      "id": 1954,
+      "reading": "りょう"
+    },
+    {
+      "type": "kanji",
+      "value": "風",
+      "id": 853,
+      "reading": "ふう"
+    }
+  ]
+}

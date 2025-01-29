@@ -1,0 +1,47 @@
+{
+  "id": 3659,
+  "type": "vocabulary",
+  "characters": "悪例",
+  "primaryMeaning": "Bad Example",
+  "otherMeanings": [
+    "Bad Precedent"
+  ],
+  "primaryReading": "あくれい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 829,
+      "character": "悪",
+      "readings": [
+        "あく",
+        "お",
+        "わる"
+      ]
+    },
+    {
+      "id": 896,
+      "character": "例",
+      "readings": [
+        "れい",
+        "たと"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>bad</kanji> <kanji>example</kanji> is a <vocabulary>bad example</vocabulary> and is something you don't want.\n\nThis is a formal expression and less common than 悪い例 (bad example) or 良くない例 (not good example).",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%82%AA%E4%BE%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "悪",
+      "id": 829,
+      "reading": "あく"
+    },
+    {
+      "type": "kanji",
+      "value": "例",
+      "id": 896,
+      "reading": "れい"
+    }
+  ]
+}

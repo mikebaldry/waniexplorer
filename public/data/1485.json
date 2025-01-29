@@ -1,0 +1,42 @@
+{
+  "id": 1485,
+  "type": "kanji",
+  "character": "桜",
+  "primaryMeaning": "Sakura",
+  "otherMeanings": [
+    "Cherry Tree",
+    "Cherry Blossom"
+  ],
+  "primaryReading": "さくら",
+  "readings": [
+    {
+      "reading": "さくら",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "おう",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "よう",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "How do you say <kanji>cherry tree</kanji> in Japanese? <reading>Sakura</reading> (さくら). <kanji>Sakura</kanji> is Japanese for cherry tree. I’m sure you’ve probably heard this before, so it shouldn’t be too hard to remember.",
+  "meaningMnemonic": "Under a <radical>tree</radical> sitting on the <radical>grass</radical> is a <radical>woman</radical> who loves <kanji>sakura</kanji>, or <kanji>cherry tree</kanji>, if you’re an English speaker. This woman really likes to just chill out in the grass under these cherry trees and watch the sakura blossoms. It’s very pretty.",
+  "vocabularyIds": [
+    5530,
+    5531,
+    5532,
+    5533
+  ],
+  "radicalIds": [
+    23,
+    8783,
+    19
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%A1%9C"
+}

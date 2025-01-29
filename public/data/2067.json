@@ -1,0 +1,33 @@
+{
+  "id": 2067,
+  "type": "kanji",
+  "character": "煮",
+  "primaryMeaning": "Boil",
+  "otherMeanings": [],
+  "primaryReading": "に",
+  "readings": [
+    {
+      "reading": "に",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "しゃ",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Welp, the pot is at a rolling <kanji>boil</kanji> and your <reading>knee</reading> (に) is in there. The person wasn't saying they wanted to boil, they said they wanted to boil someone. And that meant you. Well, your knee anyway.",
+  "meaningMnemonic": "If <radical>someone</radical> wants to <radical>boil</radical>, you let them <kanji>boil</kanji>!",
+  "vocabularyIds": [
+    7311,
+    7312,
+    7313,
+    8950
+  ],
+  "radicalIds": [
+    203,
+    131
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%85%AE"
+}

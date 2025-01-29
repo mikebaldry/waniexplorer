@@ -1,0 +1,44 @@
+{
+  "id": 6388,
+  "type": "vocabulary",
+  "characters": "内堀",
+  "primaryMeaning": "Inner Moat",
+  "otherMeanings": [],
+  "primaryReading": "うちぼり",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 500,
+      "character": "内",
+      "readings": [
+        "ない",
+        "うち"
+      ]
+    },
+    {
+      "id": 1752,
+      "character": "堀",
+      "readings": [
+        "ほり",
+        "くつ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>inside</kanji> <kanji>ditch</kanji> is the inner ditch, or, if you make it awesome enough, the <vocabulary>inner moat</vocabulary>. If they get through the outer moat, we have the inner one, at least!",
+  "readingMnemonic": "The reading is the kun'yomi / vocab readings of these kanji. 内 + 堀 added into one word.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%86%85%E5%A0%80",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "内",
+      "id": 500,
+      "reading": "うち"
+    },
+    {
+      "type": "kanji",
+      "value": "堀",
+      "id": 1752,
+      "reading": "ぼり"
+    }
+  ]
+}

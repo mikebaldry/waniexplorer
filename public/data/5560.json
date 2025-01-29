@@ -1,0 +1,37 @@
+{
+  "id": 5560,
+  "type": "vocabulary",
+  "characters": "飼う",
+  "primaryMeaning": "To Keep A Pet",
+  "otherMeanings": [
+    "To Raise A Pet",
+    "To Own A Pet"
+  ],
+  "primaryReading": "かう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1498,
+      "character": "飼",
+      "readings": [
+        "か",
+        "し"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji is <kanji>domesticate</kanji>. When you domesticate an animal, you get <vocabulary>to keep a pet</vocabulary> of some kind. You'd use this to describe when you are keeping a dog or cat or something.",
+  "readingMnemonic": "The reading is the one you learned with the kanji. The か of <reading>ca</reading>t!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%A3%BC%E3%81%86",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "飼",
+      "id": 1498,
+      "reading": "か"
+    },
+    {
+      "type": "kana",
+      "value": "う"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 1437,
+  "type": "kanji",
+  "character": "越",
+  "primaryMeaning": "Go Beyond",
+  "otherMeanings": [],
+  "primaryReading": "えつ",
+  "readings": [
+    {
+      "reading": "えつ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "こ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "To solidify your ability to <kanji>go beyond</kanji> the abilities of other humans, you <reading>etch</reading> (えつ) sacred runes into your legs to preserve your running abilities. Etching these runes makes sure that your skills will never deteriorate.",
+  "meaningMnemonic": "You <radical>run</radical> every day and soon you <radical>become</radical> a human that can <kanji>go beyond</kanji> the normal speed limits of man. You run and you run and you run. This training allows you to become super human. You go beyond the limits of a normal human. You become a human who can run really fast.",
+  "vocabularyIds": [
+    5373,
+    5374,
+    5609,
+    5721,
+    5722,
+    8264
+  ],
+  "radicalIds": [
+    124,
+    263
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%B6%8A"
+}

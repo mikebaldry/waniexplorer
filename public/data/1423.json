@@ -1,0 +1,34 @@
+{
+  "id": 1423,
+  "type": "kanji",
+  "character": "乏",
+  "primaryMeaning": "Scarce",
+  "otherMeanings": [],
+  "primaryReading": "ぼう",
+  "readings": [
+    {
+      "reading": "ぼう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "とぼ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Still looking for a leaf, you determine that they are far too <kanji>scarce</kanji> to find here. Just before you give up, you discover a giant <reading>bow</reading>ling (ぼう) ball. As you pick it up, another one comes thundering down the hill knocking over a tiny tree.",
+  "meaningMnemonic": "If you look for a <radical>leaf</radical> among the <radical>hills</radical> you will notice they are <kanji>scarce</kanji>. The hills have no trees around them, so there are no leaves. The leaves are scarce here on the hills.",
+  "vocabularyIds": [
+    5298,
+    5299,
+    5369,
+    5510,
+    8312
+  ],
+  "radicalIds": [
+    8763,
+    8771
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E4%B9%8F"
+}

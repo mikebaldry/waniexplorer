@@ -1,0 +1,45 @@
+{
+  "id": 2849,
+  "type": "vocabulary",
+  "characters": "土地",
+  "primaryMeaning": "Land",
+  "otherMeanings": [],
+  "primaryReading": "とち",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 459,
+      "character": "土",
+      "readings": [
+        "ど",
+        "と",
+        "つち"
+      ]
+    },
+    {
+      "id": 608,
+      "character": "地",
+      "readings": [
+        "ち",
+        "じ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>soil</kanji> of the <kanji>earth</kanji> is the portion of the earth that is made up of <vocabulary>land</vocabulary>.",
+  "readingMnemonic": "The reading is the on'yomi reading, but 土 gets modified to と for some reason. Just remember that the land you're standing on is made of <reading>toe</reading>s... millions of them. Yuck.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%9C%9F%E5%9C%B0",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "土",
+      "id": 459,
+      "reading": "と"
+    },
+    {
+      "type": "kanji",
+      "value": "地",
+      "id": 608,
+      "reading": "ち"
+    }
+  ]
+}

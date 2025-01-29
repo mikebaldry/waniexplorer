@@ -1,0 +1,49 @@
+{
+  "id": 6793,
+  "type": "vocabulary",
+  "characters": "辛抱",
+  "primaryMeaning": "Patience",
+  "otherMeanings": [
+    "Endurance"
+  ],
+  "primaryReading": "しんぼう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1880,
+      "character": "辛",
+      "readings": [
+        "から",
+        "つら",
+        "しん"
+      ]
+    },
+    {
+      "id": 1671,
+      "character": "抱",
+      "readings": [
+        "だ",
+        "ほう",
+        "かか",
+        "いだ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>spicy</kanji> <kanji>hug</kanji> is a hug that feels not so great. But, it's not really painful all at once, either. As you're receiving a spicy hug, you just have to show <vocabulary>patience</vocabulary> and <vocabulary>endurance</vocabulary> while it lasts.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji, but you haven't learned this for either 辛 or 抱 yet, so let's use a mnemonic to remember it: \n\nThink about how much <vocabulary>patience</vocabulary> and <vocabulary>endurance</vocabulary> your <reading>shin</reading>s (しん) need to have to be good at <reading>bo</reading>wling (ぼう). You won't get any strikes with weak shins!\n\nNote that the ぼう reading is the rendaku'd reading for 抱.\n",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%BE%9B%E6%8A%B1",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "辛",
+      "id": 1880,
+      "reading": "しん"
+    },
+    {
+      "type": "kanji",
+      "value": "抱",
+      "id": 1671,
+      "reading": "ぼう"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 7485,
+  "type": "vocabulary",
+  "characters": "読者",
+  "primaryMeaning": "Reader",
+  "otherMeanings": [],
+  "primaryReading": "どくしゃ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 765,
+      "character": "読",
+      "readings": [
+        "よ",
+        "とう",
+        "どく",
+        "とく"
+      ]
+    },
+    {
+      "id": 690,
+      "character": "者",
+      "readings": [
+        "しゃ",
+        "もの"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>read</kanji>ing <kanji>someone</kanji> is someone who is reading. They are the <vocabulary>reader</vocabulary> (of a book, blog, article, etc).",
+  "readingMnemonic": "The reading for 読 is the on'yomi reading, which you didn't learn with the kanji. This reading is どく, and you can remember it by thinking about how you are the <vocabulary>reader</vocabulary>, and as the reader you choose where to read. For you, the best place to read is a peaceful <reading>dock</reading> (どく). Sit on the dock and relax. Be the reader.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%AA%AD%E8%80%85",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "読",
+      "id": 765,
+      "reading": "どく"
+    },
+    {
+      "type": "kanji",
+      "value": "者",
+      "id": 690,
+      "reading": "しゃ"
+    }
+  ]
+}

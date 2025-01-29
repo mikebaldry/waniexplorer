@@ -1,0 +1,33 @@
+{
+  "id": 1395,
+  "type": "kanji",
+  "character": "臣",
+  "primaryMeaning": "Servant",
+  "otherMeanings": [
+    "Retainer"
+  ],
+  "primaryReading": "しん",
+  "readings": [
+    {
+      "reading": "しん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "じん",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Your <kanji>servant</kanji>, also known as your <kanji>retainer</kanji>, bangs his <reading>shins</reading> (しん) all the time so you make him wear <reading>jean</reading>s (じん) to work now. He bangs his shins on all the furniture in the house, knocking over all your valuables. But at least when he’s wearing jeans it doesn’t leave bruises like it did when he wasn’t wearing pants.",
+  "meaningMnemonic": "The <radical>servant</radical> radical and the <kanji>servant</kanji> kanji are exactly the same! Just remember that the kanji also means <kanji>retainer</kanji> and you’ll be fine.",
+  "vocabularyIds": [
+    5274,
+    5424,
+    5425
+  ],
+  "radicalIds": [
+    323
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%87%A3"
+}

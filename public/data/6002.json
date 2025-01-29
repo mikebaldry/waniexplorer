@@ -1,0 +1,46 @@
+{
+  "id": 6002,
+  "type": "vocabulary",
+  "characters": "継承",
+  "primaryMeaning": "Succession",
+  "otherMeanings": [
+    "Inheritance"
+  ],
+  "primaryReading": "けいしょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1632,
+      "character": "継",
+      "readings": [
+        "けい",
+        "つ"
+      ]
+    },
+    {
+      "id": 1572,
+      "character": "承",
+      "readings": [
+        "しょう",
+        "うけたまわ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "I will <kanji>inherit</kanji> at your <kanji>consent</kanji>. It's not just given straight to me at birth, though it kind of is. I get <vocabulary>succession</vocabulary>, but only if people say it's okay.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B6%99%E6%89%BF",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "継",
+      "id": 1632,
+      "reading": "けい"
+    },
+    {
+      "type": "kanji",
+      "value": "承",
+      "id": 1572,
+      "reading": "しょう"
+    }
+  ]
+}

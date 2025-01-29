@@ -1,0 +1,34 @@
+{
+  "id": 2178,
+  "type": "kanji",
+  "character": "殊",
+  "primaryMeaning": "Especially",
+  "otherMeanings": [],
+  "primaryReading": "しゅ",
+  "readings": [
+    {
+      "reading": "しゅ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "こと",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You're <kanji>especially</kanji> worried now, because they're putting you in some kind of <reading>chu</reading>te (しゅ). You already took a slide in here, and now you're teetering over the edge of a dark, steep chute into who knows where!",
+  "meaningMnemonic": "If the <radical>yakuza</radical> <radical>slide</radical> you into a <radical>jet</radical>, things are <kanji>especially</kanji> bad for you. Not just normal bad, like, especially bad.",
+  "vocabularyIds": [
+    7893,
+    7894,
+    8069,
+    8111
+  ],
+  "radicalIds": [
+    132,
+    5,
+    134
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%AE%8A"
+}

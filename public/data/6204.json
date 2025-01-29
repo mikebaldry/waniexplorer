@@ -1,0 +1,32 @@
+{
+  "id": 6204,
+  "type": "vocabulary",
+  "characters": "盤",
+  "primaryMeaning": "Tray",
+  "otherMeanings": [
+    "Board",
+    "Disc"
+  ],
+  "primaryReading": "ばん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1697,
+      "character": "盤",
+      "readings": [
+        "ばん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are the same! This word also means <vocabulary>board</vocabulary> and <vocabulary>disc</vocabulary>, which makes sense if you think about it. Boards you play games on are basically just trays for the pieces, and discs go inside boards (like records) for storage.",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%9B%A4",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "盤",
+      "id": 1697,
+      "reading": "ばん"
+    }
+  ]
+}

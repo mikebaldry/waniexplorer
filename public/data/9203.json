@@ -1,0 +1,119 @@
+{
+  "id": 9203,
+  "object": "kana_vocabulary",
+  "url": "https://api.wanikani.com/v2/subjects/9203",
+  "data_updated_at": "2024-10-15T22:19:12.923314Z",
+  "data": {
+    "created_at": "2023-04-24T23:34:28.686555Z",
+    "level": 6,
+    "slug": "カバン",
+    "hidden_at": null,
+    "document_url": "https://www.wanikani.com/vocabulary/%E3%82%AB%E3%83%90%E3%83%B3",
+    "characters": "カバン",
+    "meanings": [
+      {
+        "meaning": "Bag",
+        "primary": true,
+        "accepted_answer": true
+      },
+      {
+        "meaning": "Handbag",
+        "primary": false,
+        "accepted_answer": true
+      },
+      {
+        "meaning": "Backpack",
+        "primary": false,
+        "accepted_answer": true
+      }
+    ],
+    "auxiliary_meanings": [
+      {
+        "meaning": "Satchel",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Briefcase",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Rucksack",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Purse",
+        "type": "whitelist"
+      }
+    ],
+    "parts_of_speech": [
+      "noun"
+    ],
+    "meaning_mnemonic": "If there’s a <reading>ca</reading>r <reading>ban</reading> (カバン), you’ll need a nice <vocabulary>bag</vocabulary> to carry all your stuff in. You can’t just throw it all in the car, so get yourself a nice bag instead.\n\nカバン is used for bags that you can close and that have a fairly rigid structure, like <vocabulary>handbag</vocabulary>s and <vocabulary>backpack</vocabulary>s, but not more flimsy bags that don't close, like plastic bags and paper bags.\n\nThis word can also be written in hiragana and kanji. All versions are pretty common, but you'll probably see it in katakana the most. ",
+    "context_sentences": [
+      {
+        "en": "Oh, I don't have my bag!",
+        "ja": "あ、カバンがない！"
+      },
+      {
+        "en": "That's funny. I thought I put them in my bag.",
+        "ja": "おかしいなぁ。カバンに入れたはずなのに。"
+      },
+      {
+        "en": "I opted for a larger bag that can hold a lot of stuff.",
+        "ja": "いっぱい入るよう、大きめのカバンにしたよ。"
+      }
+    ],
+    "pronunciation_audios": [
+      {
+        "url": "https://files.wanikani.com/eeu2zfeuqf3uiij9k5xf9nmxs4r2",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44758,
+          "pronunciation": "かばん",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/muvhjqfir1es13tvj9owa6u5dz0a",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44758,
+          "pronunciation": "かばん",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      },
+      {
+        "url": "https://files.wanikani.com/3fg8uescqg77kvflx4zj8omiv4b1",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44699,
+          "pronunciation": "かばん",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/rqe82yg4zdbyqvb9yo7xosccao0m",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44699,
+          "pronunciation": "かばん",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      }
+    ],
+    "lesson_position": 0,
+    "spaced_repetition_system_id": 1
+  }
+}

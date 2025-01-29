@@ -1,0 +1,39 @@
+{
+  "id": 1880,
+  "type": "kanji",
+  "character": "辛",
+  "primaryMeaning": "Spicy",
+  "otherMeanings": [],
+  "primaryReading": "から",
+  "readings": [
+    {
+      "reading": "から",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "つら",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "しん",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "When you eat <kanji>spicy</kanji> food, it gives a <reading>から</reading>て chop to your mouth. That's where that spicy feeling comes from!",
+  "meaningMnemonic": "The <radical>spicy</radical> radical and <kanji>spicy</kanji> kanji are exactly the same! Hot!",
+  "vocabularyIds": [
+    6790,
+    6791,
+    6792,
+    6793,
+    6794,
+    8812
+  ],
+  "radicalIds": [
+    178
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%BE%9B"
+}

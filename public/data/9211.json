@@ -1,0 +1,103 @@
+{
+  "id": 9211,
+  "object": "kana_vocabulary",
+  "url": "https://api.wanikani.com/v2/subjects/9211",
+  "data_updated_at": "2024-10-15T22:19:13.295786Z",
+  "data": {
+    "created_at": "2023-04-24T23:55:52.602511Z",
+    "level": 8,
+    "slug": "どこ",
+    "hidden_at": null,
+    "document_url": "https://www.wanikani.com/vocabulary/%E3%81%A9%E3%81%93",
+    "characters": "どこ",
+    "meanings": [
+      {
+        "meaning": "Where",
+        "primary": true,
+        "accepted_answer": true
+      }
+    ],
+    "auxiliary_meanings": [
+      {
+        "meaning": "Here",
+        "type": "blacklist"
+      },
+      {
+        "meaning": "There",
+        "type": "blacklist"
+      }
+    ],
+    "parts_of_speech": [
+      "noun",
+      "pronoun",
+      "こそあど word"
+    ],
+    "meaning_mnemonic": "Remember how words beginning with ど are often question words, and words ending in こ refer to places? This one's no exception, so どこ means <vocabulary>where</vocabulary>. ",
+    "context_sentences": [
+      {
+        "en": "Where are you going?",
+        "ja": "どこに行くの？"
+      },
+      {
+        "en": "Which McDonald's?",
+        "ja": "どこのマクドナルド？"
+      },
+      {
+        "en": "Where do you come from?",
+        "ja": "どこから来たの？"
+      }
+    ],
+    "pronunciation_audios": [
+      {
+        "url": "https://files.wanikani.com/2bnfuspt3ngjdunajg058ygdxsq4",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44774,
+          "pronunciation": "どこ",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/doqxpq1dwgl2k627p86fwmea6yz2",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44774,
+          "pronunciation": "どこ",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      },
+      {
+        "url": "https://files.wanikani.com/4rewysy0kt8pl97j6zkxlk3mf9dy",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44715,
+          "pronunciation": "どこ",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/a3oawhw6ez7ofjjia0t0sxrssq5o",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44715,
+          "pronunciation": "どこ",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      }
+    ],
+    "lesson_position": 0,
+    "spaced_repetition_system_id": 1
+  }
+}

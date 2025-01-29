@@ -1,0 +1,31 @@
+{
+  "id": 7830,
+  "type": "vocabulary",
+  "characters": "蓮",
+  "primaryMeaning": "Sacred Lotus",
+  "otherMeanings": [],
+  "primaryReading": "はす",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2150,
+      "character": "蓮",
+      "readings": [
+        "れん",
+        "はす",
+        "はちす"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This isn't just any <kanji>lotus</kanji>. It's THE lotus. The <vocabulary>Sacred Lotus</vocabulary>. When you see it blooming all alone in a murky pond, you'll know.",
+  "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You did not learn this reading, so here's a mnemonic to help you: \n\nThe <vocabulary>sacred lotus</vocabulary> <reading>has</reading> (はす) a strong significance (and probably some powers). It has something at least, just remember it has something special going on, and you'll be fine.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%93%AE",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "蓮",
+      "id": 2150,
+      "reading": "はす"
+    }
+  ]
+}

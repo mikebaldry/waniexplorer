@@ -1,0 +1,38 @@
+{
+  "id": 3704,
+  "type": "vocabulary",
+  "characters": "残り",
+  "primaryMeaning": "Remainder",
+  "otherMeanings": [
+    "Remnant",
+    "Leftover",
+    "Residue"
+  ],
+  "primaryReading": "のこり",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 912,
+      "character": "残",
+      "readings": [
+        "ざん",
+        "のこ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This has the same meaning as the kanji. The little り thrown on there is just a little <vocabulary>remainder</vocabulary> sticking off the end of the kanji. No need to pay attention to that.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: You're waiting inside. The <vocabulary>remainder</vocabulary> of your forces are out there, fighting. You don't know who will survive... or if they even will. You have a secret <reading>knock</reading> (のこ), though, that you use to find out if it's one of the remaining forces outside or the enemy, broken through. You hear a knock. What is it? Is it your men or theirs? Imagine it out, focusing on the knock conversation that happens between you and the remainder.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%AE%8B%E3%82%8A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "残",
+      "id": 912,
+      "reading": "のこ"
+    },
+    {
+      "type": "kana",
+      "value": "り"
+    }
+  ]
+}

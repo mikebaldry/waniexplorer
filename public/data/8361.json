@@ -1,0 +1,56 @@
+{
+  "id": 8361,
+  "type": "vocabulary",
+  "characters": "循環器",
+  "primaryMeaning": "Circulatory Organ",
+  "otherMeanings": [],
+  "primaryReading": "じゅんかんき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2282,
+      "character": "循",
+      "readings": [
+        "じゅん"
+      ]
+    },
+    {
+      "id": 1240,
+      "character": "環",
+      "readings": [
+        "かん"
+      ]
+    },
+    {
+      "id": 876,
+      "character": "器",
+      "readings": [
+        "き",
+        "うつわ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You already know that 循環 means \"circulation,\" so adding <kanji>container</kanji> makes it what holds things that circulate. They're your <vocabulary>circulatory organ</vocabulary>s. They contain all the blood moving throughout your body like a container. ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BE%AA%E7%92%B0%E5%99%A8",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "循",
+      "id": 2282,
+      "reading": "じゅん"
+    },
+    {
+      "type": "kanji",
+      "value": "環",
+      "id": 1240,
+      "reading": "かん"
+    },
+    {
+      "type": "kanji",
+      "value": "器",
+      "id": 876,
+      "reading": "き"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": 5655,
+  "type": "vocabulary",
+  "characters": "未熟",
+  "primaryMeaning": "Unripe",
+  "otherMeanings": [
+    "Immature",
+    "Inexperienced",
+    "Not Yet Good At"
+  ],
+  "primaryReading": "みじゅく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 656,
+      "character": "未",
+      "readings": [
+        "み",
+        "ま",
+        "いま",
+        "ひつじ"
+      ]
+    },
+    {
+      "id": 1529,
+      "character": "熟",
+      "readings": [
+        "じゅく",
+        "う"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Something that has <kanji>not yet</kanji> <kanji>ripen</kanji>ed, is, well, <vocabulary>unripe</vocabulary>. This is often used figuratively to say that someone is either <vocabulary>immature</vocabulary> or <vocabulary>inexperienced</vocabulary>, so you'll often encounter those usages!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9C%AA%E7%86%9F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "未",
+      "id": 656,
+      "reading": "み"
+    },
+    {
+      "type": "kanji",
+      "value": "熟",
+      "id": 1529,
+      "reading": "じゅく"
+    }
+  ]
+}

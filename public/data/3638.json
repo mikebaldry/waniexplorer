@@ -1,0 +1,47 @@
+{
+  "id": 3638,
+  "type": "vocabulary",
+  "characters": "心願",
+  "primaryMeaning": "Heartfelt Desire",
+  "otherMeanings": [
+    "Heartfelt Wish"
+  ],
+  "primaryReading": "しんがん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 508,
+      "character": "心",
+      "readings": [
+        "しん",
+        "こころ"
+      ]
+    },
+    {
+      "id": 888,
+      "character": "願",
+      "readings": [
+        "がん",
+        "ねが",
+        "ねがい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The thing your <kanji>heart</kanji> <kanji>request</kanji>s is what your heart wants. This is your <vocabulary>heartfelt desire</vocabulary>.\n\n心願 is often found in the phrase 心願成就 (fulfillment of a heartfelt wish), commonly used in the context of prayer rituals at Shinto shrines or Buddhist temples.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BF%83%E9%A1%98",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "心",
+      "id": 508,
+      "reading": "しん"
+    },
+    {
+      "type": "kanji",
+      "value": "願",
+      "id": 888,
+      "reading": "がん"
+    }
+  ]
+}

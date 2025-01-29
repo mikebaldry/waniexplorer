@@ -1,0 +1,36 @@
+{
+  "id": 5163,
+  "type": "vocabulary",
+  "characters": "攻める",
+  "primaryMeaning": "To Attack",
+  "otherMeanings": [
+    "To Assail"
+  ],
+  "primaryReading": "せめる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1378,
+      "character": "攻",
+      "readings": [
+        "こう",
+        "せ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You don't say \"to aggression.\" When you do aggression on someone, you're probably doing something to hurt them in some way. This is an attack, making this word <vocabulary>to attack</vocabulary>.\n\n攻める means to attack or advance on an enemy in battle, but it can also apply to making a strong or proactive move in competitions like sports, business, or games. It can also be used to describe taking bold actions, like moving ahead with a risky plan.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you:\n\n<vocabulary>To attack</vocabulary> someone, use a <reading>ce</reading>lery (せ) stick. Celery is not a deadly weapon but most people hate it, so it's perfect to casually attack someone, especially those who hate celery.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%94%BB%E3%82%81%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "攻",
+      "id": 1378,
+      "reading": "せ"
+    },
+    {
+      "type": "kana",
+      "value": "める"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 8716,
+  "type": "vocabulary",
+  "characters": "増す",
+  "primaryMeaning": "To Increase",
+  "otherMeanings": [
+    "To Grow"
+  ],
+  "primaryReading": "ます",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1148,
+      "character": "増",
+      "readings": [
+        "ぞう",
+        "ふ",
+        "ま"
+      ]
+    }
+  ],
+  "meaningMnemonic": "It's another verb with the kanji 増! This one means <vocabulary>to increase</vocabulary> too! But!\n\nJust like 増える, this is when something is just increasing on its own. You can use this word to talk about an increase in number, quantity, or degree, but it’s more literary and less common than 増える, except when referring to an increase in degree.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You haven't learned this reading yet so here's a mnemonic to help you:\n\nWhat <vocabulary>increase</vocabulary>s with time? Your love for your <reading>ma</reading>ma (ま)! Your love for her will grow and grow the older you get! I love you, mama!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A2%97%E3%81%99",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "増",
+      "id": 1148,
+      "reading": "ま"
+    },
+    {
+      "type": "kana",
+      "value": "す"
+    }
+  ]
+}

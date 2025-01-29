@@ -1,0 +1,48 @@
+{
+  "id": 6735,
+  "type": "vocabulary",
+  "characters": "沼田",
+  "primaryMeaning": "Marshy Rice Field",
+  "otherMeanings": [
+    "Marshy Rice Paddy"
+  ],
+  "primaryReading": "ぬまた",
+  "otherReadings": [
+    "ぬた"
+  ],
+  "kanji": [
+    {
+      "id": 1866,
+      "character": "沼",
+      "readings": [
+        "ぬま",
+        "しょう"
+      ]
+    },
+    {
+      "id": 490,
+      "character": "田",
+      "readings": [
+        "た",
+        "でん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>bog</kanji> <kanji>rice paddy</kanji> is a <vocabulary>marshy rice field</vocabulary>. This is just a rice paddy in marshy form.",
+  "readingMnemonic": "The reading is the same as what you learned with the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B2%BC%E7%94%B0",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "沼",
+      "id": 1866,
+      "reading": "ぬま"
+    },
+    {
+      "type": "kanji",
+      "value": "田",
+      "id": 490,
+      "reading": "た"
+    }
+  ]
+}

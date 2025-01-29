@@ -1,0 +1,30 @@
+{
+  "id": 2504,
+  "type": "vocabulary",
+  "characters": "山",
+  "primaryMeaning": "Mountain",
+  "otherMeanings": [],
+  "primaryReading": "やま",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 455,
+      "character": "山",
+      "readings": [
+        "さん",
+        "やま"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A vocab made of a single kanji all alone with no okurigana (hiragana attached to the kanji) usually has the same exact meaning as the kanji it's made from. So by that you know that this vocab's meaning is <vocabulary>mountain</vocabulary>.",
+  "readingMnemonic": "When a vocab is a single kanji all alone with no okurigana (hiragana attached to the kanji) it's usually going to be the kun'yomi reading, which you didn't learn when you learned the kanji. To remember this word's reading we'll use a mnemonic.\n\nWhat are you doing going up into the <vocabulary>mountain</vocabulary>s? You're hunting for <reading>yam</reading>s (やま). Go ahead, imagine yourself doing just that, climbing up the mountain (it's hard work!) and then digging in the ground with your hands, then pulling up that sweet, delicious yam! Mmm!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B1%B1",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "山",
+      "id": 455,
+      "reading": "やま"
+    }
+  ]
+}

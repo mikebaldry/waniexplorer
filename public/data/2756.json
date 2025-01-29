@@ -1,0 +1,38 @@
+{
+  "id": 2756,
+  "type": "vocabulary",
+  "characters": "当たる",
+  "primaryMeaning": "To Be Right",
+  "otherMeanings": [
+    "To Be On Target",
+    "To Touch",
+    "To Hit"
+  ],
+  "primaryReading": "あたる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 571,
+      "character": "当",
+      "readings": [
+        "とう",
+        "あ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You know this is a verb because it ends with an <ja>う</ja> sound. The kanji for this word is <kanji>right</kanji> or <kanji>success</kanji>, so what's the verb form of that? Turns out it's a ton of things. But it's mostly for when things go right. As in <vocabulary>to be right</vocabulary> or <vocabulary>to be on target</vocabulary>. \n\n<ja>当たる</ja> is intransitive, so it doesn't take a direct object. Your answer is right, or your shot is on target. See? No direct object.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you to remember the あ portion. \n\nWhen your guess turns out <vocabulary>to be right</vocabulary>, you can't help but shout, \"<reading>Ah</reading>! (あ)\" That \"Ah\" is your victory cry.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BD%93%E3%81%9F%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "当",
+      "id": 571,
+      "reading": "あ"
+    },
+    {
+      "type": "kana",
+      "value": "たる"
+    }
+  ]
+}

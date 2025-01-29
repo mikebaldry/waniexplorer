@@ -1,0 +1,44 @@
+{
+  "id": 4410,
+  "type": "vocabulary",
+  "characters": "選挙",
+  "primaryMeaning": "Election",
+  "otherMeanings": [],
+  "primaryReading": "せんきょ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 886,
+      "character": "選",
+      "readings": [
+        "せん",
+        "えら"
+      ]
+    },
+    {
+      "id": 1126,
+      "character": "挙",
+      "readings": [
+        "きょ",
+        "あ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You have to <kanji>choose</kanji> someone and <kanji>raise</kanji> them up to office. This is an <vocabulary>election</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%81%B8%E6%8C%99",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "選",
+      "id": 886,
+      "reading": "せん"
+    },
+    {
+      "type": "kanji",
+      "value": "挙",
+      "id": 1126,
+      "reading": "きょ"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": 8264,
+  "type": "vocabulary",
+  "characters": "呉越同舟",
+  "primaryMeaning": "Bitter Enemies In The Same Boat",
+  "otherMeanings": [
+    "Classic Rivals",
+    "Traditional Rivals"
+  ],
+  "primaryReading": "ごえつどうしゅう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2300,
+      "character": "呉",
+      "readings": [
+        "ご",
+        "くれ",
+        "く"
+      ]
+    },
+    {
+      "id": 1437,
+      "character": "越",
+      "readings": [
+        "えつ",
+        "こ"
+      ]
+    },
+    {
+      "id": 568,
+      "character": "同",
+      "readings": [
+        "どう",
+        "おな"
+      ]
+    },
+    {
+      "id": 1909,
+      "character": "舟",
+      "readings": [
+        "ふね",
+        "ふな",
+        "しゅう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You <kanji>give</kanji> your rival information that will <kanji>go beyond</kanji> what you normally say and you realize the two of you are in the <kanji>same</kanji> <kanji>boat</kanji> on a lot of personal things. You are <vocabulary>bitter enemies in the same boat</vocabulary>! Or <vocabulary>classic rivals</vocabulary>, like you see in movies and read about. You never would have known if you hadn't gone beyond what you normally give people.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You haven't learned this reading for 舟 yet, so here's a mnemonic to help you:\n\nWhat are <vocabulary>bitter enemies in the same boat</vocabulary> supposed to do? They <reading>shoo</reading>t (しゅう) each other!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%91%89%E8%B6%8A%E5%90%8C%E8%88%9F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "呉",
+      "id": 2300,
+      "reading": "ご"
+    },
+    {
+      "type": "kanji",
+      "value": "越",
+      "id": 1437,
+      "reading": "えつ"
+    },
+    {
+      "type": "kanji",
+      "value": "同",
+      "id": 568,
+      "reading": "どう"
+    },
+    {
+      "type": "kanji",
+      "value": "舟",
+      "id": 1909,
+      "reading": "しゅう"
+    }
+  ]
+}

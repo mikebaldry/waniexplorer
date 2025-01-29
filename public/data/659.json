@@ -1,0 +1,43 @@
+{
+  "id": 659,
+  "type": "kanji",
+  "character": "夏",
+  "primaryMeaning": "Summer",
+  "otherMeanings": [],
+  "primaryReading": "なつ",
+  "readings": [
+    {
+      "reading": "なつ",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "げ",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "か",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "が",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Now it's summertime! What do you do during the <kanji>summer</kanji>? You just sit around with your favorite string tying <reading>knots</reading> (なつ) in it over and over again.",
+  "meaningMnemonic": "The <radical>eye</radical> <radical>leaf</radical> grows only in the <radical>winter</radical>. Every other leaf, however, will do the opposite, which is to grow in the <kanji>summer</kanji>.",
+  "vocabularyIds": [
+    2952,
+    2953,
+    6541
+  ],
+  "radicalIds": [
+    8763,
+    53,
+    60
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%A4%8F"
+}

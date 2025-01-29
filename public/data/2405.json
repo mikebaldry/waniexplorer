@@ -1,0 +1,42 @@
+{
+  "id": 2405,
+  "type": "kanji",
+  "character": "雌",
+  "primaryMeaning": "Female",
+  "otherMeanings": [],
+  "primaryReading": "めす",
+  "readings": [
+    {
+      "reading": "めす",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "め",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "めん",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "し",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "The <kanji>female</kanji> turkey then runs around making a <reading>mess</reading> (めす) of things trying to figure out what's wrong with you. She kicks around her hay, water bowl, and scratches at your pants, making more mess marks on them. But you don't move and she gets even more worried.",
+  "meaningMnemonic": "If you can <radical>stop</radical> a <radical>turkey</radical> by putting a <radical>spoon</radical> in its face you'll know it's a <kanji>female</kanji> turkey. A male turkey will peck the spoon out of your hand and run away. But a female turkey will wonder why you're putting a spoon there, stop, and look up at you wondering if you're okay.",
+  "vocabularyIds": [
+    8592,
+    8593
+  ],
+  "radicalIds": [
+    44,
+    57,
+    240
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%9B%8C"
+}

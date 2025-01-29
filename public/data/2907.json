@@ -1,0 +1,47 @@
+{
+  "id": 2907,
+  "type": "vocabulary",
+  "characters": "社長",
+  "primaryMeaning": "Company President",
+  "otherMeanings": [
+    "President Of A Company"
+  ],
+  "primaryReading": "しゃちょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 591,
+      "character": "社",
+      "readings": [
+        "しゃ",
+        "やしろ"
+      ]
+    },
+    {
+      "id": 632,
+      "character": "長",
+      "readings": [
+        "ちょう",
+        "なが",
+        "は"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>company</kanji> <kanji>leader</kanji> is the <vocabulary>company president</vocabulary>. Be sure to greet your 社長 with a hearty good morning when they stumble in!",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A4%BE%E9%95%B7",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "社",
+      "id": 591,
+      "reading": "しゃ"
+    },
+    {
+      "type": "kanji",
+      "value": "長",
+      "id": 632,
+      "reading": "ちょう"
+    }
+  ]
+}

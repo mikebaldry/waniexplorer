@@ -1,0 +1,36 @@
+{
+  "id": 2859,
+  "type": "vocabulary",
+  "characters": "安い",
+  "primaryMeaning": "Cheap",
+  "otherMeanings": [
+    "Inexpensive"
+  ],
+  "primaryReading": "やすい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 612,
+      "character": "安",
+      "readings": [
+        "あん",
+        "やす"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This is a single kanji with an い at the end, meaning you know it's probably an adjective. One of the meanings of 安 is <kanji>cheap</kanji>, so this is just that as an adjective, <vocabulary>cheap</vocabulary>. Time to go to a 100円 shop and get some 安い goods, ammiright?",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\n\"Would you like this item for <vocabulary>cheap</vocabulary>?\" \n\n\"<reading>YAASS</reading> (やす), please!\" ",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AE%89%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "安",
+      "id": 612,
+      "reading": "やす"
+    },
+    {
+      "type": "kana",
+      "value": "い"
+    }
+  ]
+}

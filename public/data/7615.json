@@ -1,0 +1,51 @@
+{
+  "id": 7615,
+  "type": "vocabulary",
+  "characters": "八日",
+  "primaryMeaning": "Eighth Day",
+  "otherMeanings": [
+    "Eight Days",
+    "Day Eight"
+  ],
+  "primaryReading": "ようか",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 446,
+      "character": "八",
+      "readings": [
+        "はち",
+        "や",
+        "よう"
+      ]
+    },
+    {
+      "id": 476,
+      "character": "日",
+      "readings": [
+        "にち",
+        "じつ",
+        "ひ",
+        "か",
+        "び"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<vocabulary>Eighth day</vocabulary> or <vocabulary>day eight</vocabulary>. No matter how you look at this word, it makes a lot of sense.",
+  "readingMnemonic": "Words that count days use an exceptional reading. Even though this is a jukugo word, it uses kun'yomi readings for both the kanji. Think about this word this way:\n\nEvery <vocabulary>eighth day</vocabulary> you have to buy <reading>yo</reading>gurt to fuel your <reading>ca</reading>r (ようか). Your car runs on yogurt, but it needs to be refilled every <vocabulary>eight days</vocabulary> to keep running. It's really inconvenient because it's just ONE day more than a week. And a week just feels better. Oh well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%85%AB%E6%97%A5",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "八",
+      "id": 446,
+      "reading": "よう"
+    },
+    {
+      "type": "kanji",
+      "value": "日",
+      "id": 476,
+      "reading": "か"
+    }
+  ]
+}

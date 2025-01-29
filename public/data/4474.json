@@ -1,0 +1,38 @@
+{
+  "id": 4474,
+  "type": "vocabulary",
+  "characters": "企てる",
+  "primaryMeaning": "To Plan",
+  "otherMeanings": [
+    "To Scheme",
+    "To Attempt"
+  ],
+  "primaryReading": "くわだてる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1153,
+      "character": "企",
+      "readings": [
+        "き",
+        "くわだ",
+        "たくら"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>plan</kanji> so the verb vocab version is <vocabulary>to plan</vocabulary>.",
+  "readingMnemonic": "You say you have something you need <vocabulary>to plan</vocabulary>? <reading>Coo</reading>l, <reading>whadda</reading>ya (くわだ) gonna do?",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BC%81%E3%81%A6%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "企",
+      "id": 1153,
+      "reading": "くわだ"
+    },
+    {
+      "type": "kana",
+      "value": "てる"
+    }
+  ]
+}

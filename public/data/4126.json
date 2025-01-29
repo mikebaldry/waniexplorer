@@ -1,0 +1,47 @@
+{
+  "id": 4126,
+  "type": "vocabulary",
+  "characters": "禁止",
+  "primaryMeaning": "Forbidden",
+  "otherMeanings": [
+    "Prohibition",
+    "Ban"
+  ],
+  "primaryReading": "きんし",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1054,
+      "character": "禁",
+      "readings": [
+        "きん"
+      ]
+    },
+    {
+      "id": 514,
+      "character": "止",
+      "readings": [
+        "し",
+        "と",
+        "や"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Stop</kanji>! That's <kanji>prohibition</kanji> (prohibited)! When something is prohibited and you're forced to stop, that thing is obviously <vocabulary>forbidden</vocabulary>. If you see this you should probably not do the thing it's telling you not to do.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A6%81%E6%AD%A2",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "禁",
+      "id": 1054,
+      "reading": "きん"
+    },
+    {
+      "type": "kanji",
+      "value": "止",
+      "id": 514,
+      "reading": "し"
+    }
+  ]
+}

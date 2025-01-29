@@ -1,0 +1,43 @@
+{
+  "id": 6588,
+  "type": "vocabulary",
+  "characters": "円弧",
+  "primaryMeaning": "Arc",
+  "otherMeanings": [],
+  "primaryReading": "えんこ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 472,
+      "character": "円",
+      "readings": [
+        "えん",
+        "まる"
+      ]
+    },
+    {
+      "id": 1812,
+      "character": "弧",
+      "readings": [
+        "こ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>round</kanji> <kanji>arc</kanji> is, well, the shape of an <vocabulary>arc</vocabulary>. It has that round shape to it, you know?\n",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%86%86%E5%BC%A7",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "円",
+      "id": 472,
+      "reading": "えん"
+    },
+    {
+      "type": "kanji",
+      "value": "弧",
+      "id": 1812,
+      "reading": "こ"
+    }
+  ]
+}

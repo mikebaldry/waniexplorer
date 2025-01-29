@@ -1,0 +1,49 @@
+{
+  "id": 8733,
+  "type": "vocabulary",
+  "characters": "入力",
+  "primaryMeaning": "Input",
+  "otherMeanings": [
+    "Enter",
+    "Entry"
+  ],
+  "primaryReading": "にゅうりょく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 445,
+      "character": "入",
+      "readings": [
+        "にゅう",
+        "はい",
+        "い"
+      ]
+    },
+    {
+      "id": 447,
+      "character": "力",
+      "readings": [
+        "りょく",
+        "りき",
+        "ちから"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Enter</kanji> something with all your <kanji>strength</kanji> and you will look down to see that what you're doing is <vocabulary>input</vocabulary>ting data. You're inputting it right now! Into this site! The answers you <vocabulary>enter</vocabulary> into WaniKani with all your strength can be said with this word. Wow. Full circle already, and you're only on level 2. Look at you go!",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 力 has two on'yomi readings, here's a mnemonic to help you remember which one to use:\n\nWhere you work, <vocabulary>input</vocabulary>ting things earns you <reading>new</reading> <reading>lock</reading>s (にゅうりょく). Not only is your job only about <vocabulary>enter</vocabulary>ing things into a computer, you're also paid exclusively in new locks. Maybe consider a career change!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%85%A5%E5%8A%9B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "入",
+      "id": 445,
+      "reading": "にゅう"
+    },
+    {
+      "type": "kanji",
+      "value": "力",
+      "id": 447,
+      "reading": "りょく"
+    }
+  ]
+}

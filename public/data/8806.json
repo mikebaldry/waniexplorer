@@ -1,0 +1,47 @@
+{
+  "id": 8806,
+  "type": "vocabulary",
+  "characters": "荷札",
+  "primaryMeaning": "Tag",
+  "otherMeanings": [
+    "Shipping Label",
+    "Label"
+  ],
+  "primaryReading": "にふだ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 973,
+      "character": "荷",
+      "readings": [
+        "に",
+        "か"
+      ]
+    },
+    {
+      "id": 649,
+      "character": "札",
+      "readings": [
+        "さつ",
+        "ふだ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>luggage</kanji> <kanji>tag</kanji> is a <vocabulary>tag</vocabulary> you put on luggage. It's also a <vocabulary>label</vocabulary> you can put on a package before you send it, like a <vocabulary>shipping label</vocabulary>. ",
+  "readingMnemonic": "This word uses the kun'yomi reading for both kanji. You've learned both of these readings already, so you should be able to read this word too.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%8D%B7%E6%9C%AD",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "荷",
+      "id": 973,
+      "reading": "に"
+    },
+    {
+      "type": "kanji",
+      "value": "札",
+      "id": 649,
+      "reading": "ふだ"
+    }
+  ]
+}

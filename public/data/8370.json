@@ -1,0 +1,47 @@
+{
+  "id": 8370,
+  "type": "vocabulary",
+  "characters": "勇敢",
+  "primaryMeaning": "Brave",
+  "otherMeanings": [
+    "Heroic",
+    "Gallant"
+  ],
+  "primaryReading": "ゆうかん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 941,
+      "character": "勇",
+      "readings": [
+        "ゆう",
+        "いさ"
+      ]
+    },
+    {
+      "id": 2350,
+      "character": "敢",
+      "readings": [
+        "かん",
+        "あ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You have <kanji>courage</kanji> and <kanji>daring</kanji>! You're a <vocabulary>brave</vocabulary> and <vocabulary>heroic</vocabulary> hero of old. A samurai perhaps?",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8B%87%E6%95%A2",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "勇",
+      "id": 941,
+      "reading": "ゆう"
+    },
+    {
+      "type": "kanji",
+      "value": "敢",
+      "id": 2350,
+      "reading": "かん"
+    }
+  ]
+}

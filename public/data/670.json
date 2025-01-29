@@ -1,0 +1,37 @@
+{
+  "id": 670,
+  "type": "kanji",
+  "character": "組",
+  "primaryMeaning": "Group",
+  "otherMeanings": [
+    "Association",
+    "Team"
+  ],
+  "primaryReading": "くみ",
+  "readings": [
+    {
+      "reading": "くみ",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "そ",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Everyone in this <kanji>group</kanji> loves <reading>cumi</reading>n (くみ). You know, the spice or seed. The group take off their top hats and fill them with cumin. You're officially a group for lovers of cumin.",
+  "meaningMnemonic": "Sew <radical>thread</radical> through your <radical>top hat</radical> and to the top hats of other people you know and you'll turn into a <kanji>group</kanji> of top hat wearing people. You're all connected by the thread now, so everyone will assume you're a group, even if that's all you guys have going for yourselves.",
+  "vocabularyIds": [
+    2975,
+    5071,
+    6311,
+    8664,
+    9278
+  ],
+  "radicalIds": [
+    86,
+    419
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%B5%84"
+}

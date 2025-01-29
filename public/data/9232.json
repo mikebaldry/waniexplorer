@@ -1,0 +1,126 @@
+{
+  "id": 9232,
+  "object": "kana_vocabulary",
+  "url": "https://api.wanikani.com/v2/subjects/9232",
+  "data_updated_at": "2024-10-15T22:19:14.546950Z",
+  "data": {
+    "created_at": "2023-04-25T01:15:44.539362Z",
+    "level": 18,
+    "slug": "ドキドキ",
+    "hidden_at": null,
+    "document_url": "https://www.wanikani.com/vocabulary/%E3%83%89%E3%82%AD%E3%83%89%E3%82%AD",
+    "characters": "ドキドキ",
+    "meanings": [
+      {
+        "meaning": "Racing Heart",
+        "primary": true,
+        "accepted_answer": true
+      },
+      {
+        "meaning": "Excited",
+        "primary": false,
+        "accepted_answer": true
+      },
+      {
+        "meaning": "Nervous",
+        "primary": false,
+        "accepted_answer": true
+      }
+    ],
+    "auxiliary_meanings": [
+      {
+        "meaning": "Heartbeat",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Pounding",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Throbbing",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Thumping",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Beating Fast",
+        "type": "whitelist"
+      }
+    ],
+    "parts_of_speech": [
+      "noun",
+      "する verb",
+      "な adjective",
+      "オノマトペ"
+    ],
+    "meaning_mnemonic": "<reading>Doc, Doc</reading> (ドキドキ), listen to my <vocabulary>racing heart</vocabulary>. I'm so <vocabulary>excited</vocabulary>, but I'm also a bit <vocabulary>nervous</vocabulary>.\n\nドキドキ is an オノマトペ used to describe the feeling of your heart beating fast. When does your heart race? When you get excited or nervous, so ドキドキ also expresses those feelings!",
+    "context_sentences": [
+      {
+        "en": "Oh man, I'm so nervous.",
+        "ja": "やばい、めっちゃドキドキする。"
+      },
+      {
+        "en": "He was so cool that my heart was pounding.",
+        "ja": "カッコよくて、ドキドキでした。"
+      },
+      {
+        "en": "I could feel your excitement.",
+        "ja": "ドキドキが伝わってきたよ。"
+      }
+    ],
+    "pronunciation_audios": [
+      {
+        "url": "https://files.wanikani.com/q86hpatt81npunffei4hvhu98yzp",
+        "metadata": {
+          "gender": "female",
+          "source_id": 45162,
+          "pronunciation": "ドキドキ",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      },
+      {
+        "url": "https://files.wanikani.com/iqjhpxeunyi57sll3nketn9bktbr",
+        "metadata": {
+          "gender": "female",
+          "source_id": 45162,
+          "pronunciation": "ドキドキ",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/ggl5wcy8gyv49qsfgei4cyxs8alo",
+        "metadata": {
+          "gender": "male",
+          "source_id": 45163,
+          "pronunciation": "ドキドキ",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/czjoudsrc8uy305f9hgrvt52vtl1",
+        "metadata": {
+          "gender": "male",
+          "source_id": 45163,
+          "pronunciation": "ドキドキ",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      }
+    ],
+    "lesson_position": 39,
+    "spaced_repetition_system_id": 1
+  }
+}

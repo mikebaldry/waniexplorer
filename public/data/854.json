@@ -1,0 +1,41 @@
+{
+  "id": 854,
+  "type": "kanji",
+  "character": "予",
+  "primaryMeaning": "Beforehand",
+  "otherMeanings": [],
+  "primaryReading": "よ",
+  "readings": [
+    {
+      "reading": "よ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "あらかじ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "As you look <kanji>beforehand</kanji>, you see a <reading>yo-</reading>yo (よ) lying in the street.",
+  "meaningMnemonic": "What does your <radical>mama</radical> tell you to do in the <radical>street</radical>? Look before you cross! You gotta do it <kanji>beforehand</kanji>, or it could be too late.",
+  "vocabularyIds": [
+    3100,
+    3543,
+    3718,
+    4084,
+    4090,
+    4337,
+    5865,
+    7630,
+    7762,
+    8298,
+    8479,
+    8480
+  ],
+  "radicalIds": [
+    141,
+    27
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E4%BA%88"
+}

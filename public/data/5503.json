@@ -1,0 +1,33 @@
+{
+  "id": 5503,
+  "type": "vocabulary",
+  "characters": "身",
+  "primaryMeaning": "Body",
+  "otherMeanings": [
+    "Oneself",
+    "Animal Flesh"
+  ],
+  "primaryReading": "み",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 689,
+      "character": "身",
+      "readings": [
+        "しん",
+        "み"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji is <kanji>somebody</kanji>, but the word is <vocabulary>body</vocabulary>. I guess somebody is somebody's body, so they are similar at least. It also refers to <vocabulary>animal flesh</vocabulary> sometimes, meaning the non-bone edible parts of animals, including seafood. It's the \"mi\" in sashimi!\n\nWonder about the difference between 体 and 身? 体 refers to physical human and animal bodies, often describing their condition, appearance, etc. While 身 can also mean \"physical human body,\" it can also refer to the self as an individual and be used to indicate one’s social standing or position. That's why you might see 身 used in idiomatic phrases like 身につく, which refers to acquiring or mastering something, like a skill.",
+  "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You did not learn this reading, so here's a mnemonic to help you to remember: Who is that somebody? Who is that <vocabulary>body</vocabulary>? Why, of course it is <reading>me</reading> (み).",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%BA%AB",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "身",
+      "id": 689,
+      "reading": "み"
+    }
+  ]
+}

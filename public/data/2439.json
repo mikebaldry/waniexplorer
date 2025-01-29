@@ -1,0 +1,28 @@
+{
+  "id": 2439,
+  "type": "kanji",
+  "character": "坑",
+  "primaryMeaning": "Pit",
+  "otherMeanings": [
+    "Hole"
+  ],
+  "primaryReading": "こう",
+  "readings": [
+    {
+      "reading": "こう",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "When you reach the bottom of the <kanji>pit</kanji>, you hear someone scuffling around and the sounds of chains. You light a match and inch closer to see what it is. In the darkness, you see <reading>こう</reading>いち, starved and chained in a pit under your table.",
+  "meaningMnemonic": "In the <radical>dirt</radical>, you find a <radical>lid</radical> under the <radical>table</radical>. You lift it to reveal a deep <kanji>pit</kanji>. Why is there a <kanji>hole</kanji> under your table?",
+  "vocabularyIds": [
+    8606
+  ],
+  "radicalIds": [
+    17,
+    8,
+    177
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%9D%91"
+}

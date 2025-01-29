@@ -1,0 +1,36 @@
+{
+  "id": 1307,
+  "type": "kanji",
+  "character": "振",
+  "primaryMeaning": "Shake",
+  "otherMeanings": [
+    "Wave"
+  ],
+  "primaryReading": "しん",
+  "readings": [
+    {
+      "reading": "しん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ふ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You think you finally got the earth to <kanji>shake</kanji> but when you look down it's just your <reading>shin</reading>s (しん). Darn you shins, I thought I made some progress. Hey wait... why won't you stop?!",
+  "meaningMnemonic": "You're trying to use your <radical>fingers</radical> to cause a <radical>landslide</radical> so you have to <kanji>shake</kanji> the earth. You probably won't succeed, but the best you can do is to shake your hands on the dirt as hard as you can. It looks like you're trying to <kanji>wave</kanji> at the ground now.",
+  "vocabularyIds": [
+    4925,
+    4926,
+    4927,
+    5158,
+    5159
+  ],
+  "radicalIds": [
+    63,
+    183
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%8C%AF"
+}

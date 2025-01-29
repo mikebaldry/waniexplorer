@@ -1,0 +1,33 @@
+{
+  "id": 6387,
+  "type": "vocabulary",
+  "characters": "堀",
+  "primaryMeaning": "Ditch",
+  "otherMeanings": [
+    "Moat",
+    "Canal"
+  ],
+  "primaryReading": "ほり",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1752,
+      "character": "堀",
+      "readings": [
+        "ほり",
+        "くつ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A0%80",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "堀",
+      "id": 1752,
+      "reading": "ほり"
+    }
+  ]
+}

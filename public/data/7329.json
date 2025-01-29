@@ -1,0 +1,52 @@
+{
+  "id": 7329,
+  "type": "vocabulary",
+  "characters": "陛下",
+  "primaryMeaning": "Your Majesty",
+  "otherMeanings": [
+    "His Majesty",
+    "Her Majesty"
+  ],
+  "primaryReading": "へいか",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2073,
+      "character": "陛",
+      "readings": [
+        "へい"
+      ]
+    },
+    {
+      "id": 451,
+      "character": "下",
+      "readings": [
+        "か",
+        "げ",
+        "した",
+        "さ",
+        "くだ",
+        "お",
+        "しも",
+        "もと"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Your <kanji>highness</kanji> I am so <kanji>below</kanji> you because <vocabulary>your majesty</vocabulary> is so great and amazing!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%99%9B%E4%B8%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "陛",
+      "id": 2073,
+      "reading": "へい"
+    },
+    {
+      "type": "kanji",
+      "value": "下",
+      "id": 451,
+      "reading": "か"
+    }
+  ]
+}

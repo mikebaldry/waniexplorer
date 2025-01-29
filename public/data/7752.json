@@ -1,0 +1,61 @@
+{
+  "id": 7752,
+  "type": "vocabulary",
+  "characters": "意図的",
+  "primaryMeaning": "Intentional",
+  "otherMeanings": [
+    "On Purpose"
+  ],
+  "primaryReading": "いとてき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 811,
+      "character": "意",
+      "readings": [
+        "い"
+      ]
+    },
+    {
+      "id": 585,
+      "character": "図",
+      "readings": [
+        "ず",
+        "と",
+        "え",
+        "はか"
+      ]
+    },
+    {
+      "id": 914,
+      "character": "的",
+      "readings": [
+        "てき",
+        "まと"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You wouldn't put your <kanji>idea</kanji> in a <kanji>diagram</kanji> <kanji>~like</kanji> format if it wasn't <vocabulary>intentional</vocabulary>. Doing that takes a lot of work. So you can only make diagram like things <vocabulary>on purpose</vocabulary>!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You haven't learned this reading for 図 yet, so here's a mnemonic to help you:\n\nYou <vocabulary>intentional</vocabulary>ly stub your <reading>toe</reading> (と) all the time! If you hurt your toe <vocabulary>on purpose</vocabulary> you can get out of class and work! It's a really simple injury, but you can't do other stuff while it's hurt, so you always do it on purpose to get out of things.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%84%8F%E5%9B%B3%E7%9A%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "意",
+      "id": 811,
+      "reading": "い"
+    },
+    {
+      "type": "kanji",
+      "value": "図",
+      "id": 585,
+      "reading": "と"
+    },
+    {
+      "type": "kanji",
+      "value": "的",
+      "id": 914,
+      "reading": "てき"
+    }
+  ]
+}

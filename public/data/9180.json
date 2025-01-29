@@ -1,0 +1,92 @@
+{
+  "id": 9180,
+  "object": "kana_vocabulary",
+  "url": "https://api.wanikani.com/v2/subjects/9180",
+  "data_updated_at": "2024-10-15T22:19:11.454432Z",
+  "data": {
+    "created_at": "2023-04-18T18:27:49.646257Z",
+    "level": 3,
+    "slug": "する",
+    "hidden_at": null,
+    "document_url": "https://www.wanikani.com/vocabulary/%E3%81%99%E3%82%8B",
+    "characters": "する",
+    "meanings": [
+      {
+        "meaning": "To Do",
+        "primary": true,
+        "accepted_answer": true
+      }
+    ],
+    "auxiliary_meanings": [],
+    "parts_of_speech": [
+      "する verb"
+    ],
+    "meaning_mnemonic": "It's only <reading>through</reading> (する) doing things that we get better at them, so you need <vocabulary>to do</vocabulary> them as much as you can.\n\nする basically means <vocabulary>to do</vocabulary>, but it’s incredibly versatile and goes beyond its English equivalent. Besides being used alone, it can be put together with a whole range of nouns to turn them into verbs. We call these する verbs and you'll learn a lot of them as we go along!",
+    "context_sentences": [
+      {
+        "en": "What do you want to do for Christmas?",
+        "ja": "クリスマス、どうする？"
+      },
+      {
+        "en": "If you don't, someone else will.",
+        "ja": "あなたがしなくても、だれかがするよ。"
+      },
+      {
+        "en": "Shoot there with all your might.",
+        "ja": "そこで、力いっぱいシュートをするんだ。"
+      }
+    ],
+    "pronunciation_audios": [
+      {
+        "url": "https://files.wanikani.com/3xnh2ub1a0gnow9i6zsx6k2wdda6",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44767,
+          "pronunciation": "する",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/0rfc69bezx17r66aghvlakusunlz",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44767,
+          "pronunciation": "する",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      },
+      {
+        "url": "https://files.wanikani.com/324gmmp85n2eggw3lqqrzxyaykr2",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44708,
+          "pronunciation": "する",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/b8wpzr0eela6mt6391ro20nfj4h8",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44708,
+          "pronunciation": "する",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      }
+    ],
+    "lesson_position": 58,
+    "spaced_repetition_system_id": 1
+  }
+}

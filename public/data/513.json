@@ -1,0 +1,39 @@
+{
+  "id": 513,
+  "type": "kanji",
+  "character": "毛",
+  "primaryMeaning": "Fur",
+  "otherMeanings": [
+    "Hair"
+  ],
+  "primaryReading": "もう",
+  "readings": [
+    {
+      "reading": "もう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "け",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "With <kanji>fur</kanji>, wisp your imagination to a land where there are stalks of fur all around, just like a big tall grassy field (except instead of grass, it’s fur). You’re surrounded by the black fur, the wind is blowing. Imagine yourself touching the long fur and smelling it. What does it feel / smell like? Now it’s time to get rid of it. There’s just too much <kanji>hair</kanji>! To get rid of it, you’ll need to <reading>mow</reading> (もう) it down with a lawn mower. Imagine yourself starting up the lawn mower, and taking it around, mowing down the hair. Hear the sound of the mower in your head (they’re loud and distinct). The important thing is to imagine yourself mowing everything. Key is to think “fur → In the fur → getting rid of the fur → mow the fur,” in that order. That’ll get you to mow, which will help you to remember the on’yomi.",
+  "meaningMnemonic": "<kanji>Fur</kanji> and <radical>fur</radical> are the same as each other, so the meaning of this kanji should be simple. This can also mean <kanji>hair</kanji>, too, though more like furry hair.",
+  "vocabularyIds": [
+    2616,
+    2878,
+    3409,
+    3416,
+    4194,
+    5767,
+    6818,
+    8874,
+    9264
+  ],
+  "radicalIds": [
+    67
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%AF%9B"
+}

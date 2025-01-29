@@ -1,0 +1,32 @@
+{
+  "id": 7761,
+  "type": "vocabulary",
+  "characters": "宙",
+  "primaryMeaning": "Midair",
+  "otherMeanings": [
+    "Air",
+    "Space"
+  ],
+  "primaryReading": "ちゅう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1073,
+      "character": "宙",
+      "readings": [
+        "ちゅう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AE%99",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "宙",
+      "id": 1073,
+      "reading": "ちゅう"
+    }
+  ]
+}

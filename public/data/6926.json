@@ -1,0 +1,33 @@
+{
+  "id": 6926,
+  "type": "vocabulary",
+  "characters": "溝",
+  "primaryMeaning": "Gutter",
+  "otherMeanings": [
+    "Ditch",
+    "Drain"
+  ],
+  "primaryReading": "みぞ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1937,
+      "character": "溝",
+      "readings": [
+        "こう",
+        "みぞ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You did not learn this reading, so here's a mnemonic to help you: \n\nWhat goes in the <vocabulary>gutter</vocabulary>? 水. But, the reading isn't exactly right. It's <reading>みぞ</reading>not みず, but close enough to create a hook.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%BA%9D",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "溝",
+      "id": 1937,
+      "reading": "みぞ"
+    }
+  ]
+}

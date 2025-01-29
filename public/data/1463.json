@@ -1,0 +1,36 @@
+{
+  "id": 1463,
+  "type": "kanji",
+  "character": "帯",
+  "primaryMeaning": "Belt",
+  "otherMeanings": [],
+  "primaryReading": "たい",
+  "readings": [
+    {
+      "reading": "たい",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "おび",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "The <kanji>belt</kanji> isn't absorbent enough, so you wrap it in your <reading>tie</reading> (たい) and then tie the whole thing around your forehead again.",
+  "meaningMnemonic": "There's a <radical>mountain</radical> coming out of the <radical>ground</radical> that you want to climb, but your <radical>forehead</radical> needs a <radical>towel</radical> for all your sweat. You don't have a towel, so you take off your <kanji>belt</kanji> and tie it around your forehead.",
+  "vocabularyIds": [
+    5460,
+    5461,
+    6404,
+    6565,
+    6752
+  ],
+  "radicalIds": [
+    20,
+    1,
+    76,
+    102
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%B8%AF"
+}

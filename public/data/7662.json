@@ -1,0 +1,49 @@
+{
+  "id": 7662,
+  "type": "vocabulary",
+  "characters": "貴重",
+  "primaryMeaning": "Precious",
+  "otherMeanings": [
+    "Valuable"
+  ],
+  "primaryReading": "きちょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1547,
+      "character": "貴",
+      "readings": [
+        "き",
+        "とうと"
+      ]
+    },
+    {
+      "id": 735,
+      "character": "重",
+      "readings": [
+        "じゅう",
+        "ちょう",
+        "おも",
+        "かさ",
+        "え"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Something that's <kanji>valuable</kanji> and <kanji>heavy</kanji> is extremely <vocabulary>precious</vocabulary> and probably even more <vocabulary>valuable</vocabulary> than your less heavy things.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You didn't learn this reading for 重 though, so here's a mnemonic to help you:\n\nKeep things <vocabulary>precious</vocabulary> to you very close, because the evil Mrs. <reading>Chou</reading> (ちょう) will come and steal it away if you don't. She'll take every <vocabulary>valuable</vocabulary> you have and destroy them.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%B2%B4%E9%87%8D",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "貴",
+      "id": 1547,
+      "reading": "き"
+    },
+    {
+      "type": "kanji",
+      "value": "重",
+      "id": 735,
+      "reading": "ちょう"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 7594,
+  "type": "vocabulary",
+  "characters": "自在",
+  "primaryMeaning": "Full Control",
+  "otherMeanings": [
+    "Freely",
+    "At Will"
+  ],
+  "primaryReading": "じざい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 578,
+      "character": "自",
+      "readings": [
+        "じ",
+        "し",
+        "みずか"
+      ]
+    },
+    {
+      "id": 1107,
+      "character": "在",
+      "readings": [
+        "ざい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you're all by yourself and only your <kanji>self</kanji> <kanji>exist</kanji>s, you probably have <vocabulary>full control</vocabulary>. You can do whatever you want <vocabulary>freely</vocabulary> and <vocabulary>at will</vocabulary>.\n\n自在 is commonly used with the particle に to form the adverb 自在に. This describes how someone can handle something effortlessly, as if they have full control over it.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%87%AA%E5%9C%A8",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "自",
+      "id": 578,
+      "reading": "じ"
+    },
+    {
+      "type": "kanji",
+      "value": "在",
+      "id": 1107,
+      "reading": "ざい"
+    }
+  ]
+}

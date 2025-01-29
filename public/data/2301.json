@@ -1,0 +1,48 @@
+{
+  "id": 2301,
+  "type": "kanji",
+  "character": "凡",
+  "primaryMeaning": "Mediocre",
+  "otherMeanings": [],
+  "primaryReading": "ぼん",
+  "readings": [
+    {
+      "reading": "ぼん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "はん",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "おうよ",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "およ",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "すべ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You weren't expecting to see such a <kanji>mediocre</kanji> table so you go up to the guy who's selling it and say, \"Hey, I have a <reading>bone</reading> (ぼん) to pick with you!\" But he doesn't think there is a bone to pick at all, he doesn't think the table is mediocre like you do.",
+  "meaningMnemonic": "You go to buy a <radical>table</radical> but it looks like it has water damage from <radical>drop</radical>s of water hitting it. This makes it a pretty <kanji>mediocre</kanji> table. The water drops haven't really damaged it that much, it still stands and you can use it, but it's kinda ugly, so it's just mediocre.",
+  "vocabularyIds": [
+    8254,
+    8255,
+    8256,
+    8257
+  ],
+  "radicalIds": [
+    177,
+    3
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%87%A1"
+}

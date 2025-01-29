@@ -1,0 +1,30 @@
+{
+  "id": 5488,
+  "type": "vocabulary",
+  "characters": "墓",
+  "primaryMeaning": "Grave",
+  "otherMeanings": [],
+  "primaryReading": "はか",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1474,
+      "character": "墓",
+      "readings": [
+        "ぼ",
+        "はか"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "When you finally have a <vocabulary>grave</vocabulary> and you're dead and buried, your one wish is for the New Zealand All Blacks to do the <reading>Haka</reading> (はか) over your grave. If you don't know what the haka is, look it up, it's pretty neat.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A2%93",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "墓",
+      "id": 1474,
+      "reading": "はか"
+    }
+  ]
+}

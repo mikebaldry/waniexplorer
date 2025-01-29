@@ -1,0 +1,36 @@
+{
+  "id": 5504,
+  "type": "vocabulary",
+  "characters": "移る",
+  "primaryMeaning": "To Be Shifted",
+  "otherMeanings": [
+    "To Be Transferred"
+  ],
+  "primaryReading": "うつる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1368,
+      "character": "移",
+      "readings": [
+        "い",
+        "うつ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>shift</kanji> and the verb vocab version is <vocabulary>to be shifted</vocabulary>. You know that this is the one where something is shifted (and you're not doing the shifting), because it's really <reading>ru</reading>de (る) to be shifted, and you don't like it when people do it to you (because it happens quite a lot, strangely).",
+  "readingMnemonic": "The reading is the same as 移す, so use that to remember this!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A7%BB%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "移",
+      "id": 1368,
+      "reading": "うつ"
+    },
+    {
+      "type": "kana",
+      "value": "る"
+    }
+  ]
+}

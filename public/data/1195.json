@@ -1,0 +1,34 @@
+{
+  "id": 1195,
+  "type": "kanji",
+  "character": "崎",
+  "primaryMeaning": "Cape",
+  "otherMeanings": [],
+  "primaryReading": "さき",
+  "readings": [
+    {
+      "reading": "さき",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "き",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Atop the big mountain overlooking the <kanji>cape</kanji>, you see a <reading>saw</reading> and a <reading>key</reading> (さき) lying on the ground. What are they doing there?",
+  "meaningMnemonic": "On top of a <radical>big</radical> <radical>mountain</radical>, wearing a <radical>lip ring</radical>, you see a <kanji>cape</kanji> jutting out into the ocean. You’re wearing a lip ring because you’re a cool and edgy individual who likes to climb big mountains. From the top of the big mountain, you see a cape.",
+  "vocabularyIds": [
+    4619,
+    4620,
+    4621,
+    4875
+  ],
+  "radicalIds": [
+    20,
+    18,
+    113
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%B4%8E"
+}

@@ -1,0 +1,41 @@
+{
+  "id": 1217,
+  "type": "kanji",
+  "character": "担",
+  "primaryMeaning": "Carry",
+  "otherMeanings": [
+    "Bear"
+  ],
+  "primaryReading": "たん",
+  "readings": [
+    {
+      "reading": "たん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "にな",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "かつ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Once you're <kanji>carry</kanji>ing everything, and the dawn sun is shining bright, you start getting <reading>tan</reading> (たん). Especially those fingers you're using to carry things.",
+  "meaningMnemonic": "You use your <radical>fingers</radical> at <radical>dawn</radical> to <kanji>carry</kanji> many things. You have to carry yourself out of bed. You have to carry your backpack or purse or laptop bag to school or work. Your fingers have to carry a lot of weight around at dawn.",
+  "vocabularyIds": [
+    4668,
+    4669,
+    4670,
+    4924,
+    7053
+  ],
+  "radicalIds": [
+    63,
+    293
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%8B%85"
+}

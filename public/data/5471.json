@@ -1,0 +1,45 @@
+{
+  "id": 5471,
+  "type": "vocabulary",
+  "characters": "麦粉",
+  "primaryMeaning": "Wheat Flour",
+  "otherMeanings": [],
+  "primaryReading": "むぎこ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 598,
+      "character": "麦",
+      "readings": [
+        "むぎ",
+        "ばく"
+      ]
+    },
+    {
+      "id": 1467,
+      "character": "粉",
+      "readings": [
+        "ふん",
+        "こな",
+        "こ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Wheat</kanji> <kanji>powder</kanji> is <vocabulary>wheat flour</vocabulary>.",
+  "readingMnemonic": "This word uses the kun'yomi readings. Since you didn't learn that reading for 粉 with the kanji, here's a mnemonic to help you out. What sort of people like <vocabulary>wheat flour</vocabulary> the most? <reading>子</reading>! 子 like wheat flour the most since it is both fun to eat and to play with. Silly 子, wheat flour is a food, not a toy.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%BA%A6%E7%B2%89-5471",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "麦",
+      "id": 598,
+      "reading": "むぎ"
+    },
+    {
+      "type": "kanji",
+      "value": "粉",
+      "id": 1467,
+      "reading": "こ"
+    }
+  ]
+}

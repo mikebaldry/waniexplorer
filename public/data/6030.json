@@ -1,0 +1,50 @@
+{
+  "id": 6030,
+  "type": "vocabulary",
+  "characters": "彼女",
+  "primaryMeaning": "She",
+  "otherMeanings": [
+    "Girlfriend"
+  ],
+  "primaryReading": "かのじょ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1594,
+      "character": "彼",
+      "readings": [
+        "かれ",
+        "かの",
+        "ひ"
+      ]
+    },
+    {
+      "id": 454,
+      "character": "女",
+      "readings": [
+        "じょ",
+        "にょ",
+        "にょう",
+        "おんな",
+        "め"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>he</kanji> <kanji>woman</kanji> is <vocabulary>she</vocabulary>. Also could mean <vocabulary>girlfriend</vocabulary>, depending on how it's used.",
+  "readingMnemonic": "The reading for this is a bit weird, at least for the 彼 portion. Just think about how <vocabulary>she</vocabulary> (your <vocabulary>girlfriend</vocabulary>) is a <reading>canoe</reading> (かの), and you love that canoe girlfriend more than anything. She is your best friend and your lover, and everyone thinks you're weird. Imagine everyone thinking you're weird as you give kisses to your canoe girlfriend.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BD%BC%E5%A5%B3",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "彼",
+      "id": 1594,
+      "reading": "かの"
+    },
+    {
+      "type": "kanji",
+      "value": "女",
+      "id": 454,
+      "reading": "じょ"
+    }
+  ]
+}

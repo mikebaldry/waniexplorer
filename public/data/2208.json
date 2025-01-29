@@ -1,0 +1,34 @@
+{
+  "id": 2208,
+  "type": "kanji",
+  "character": "虐",
+  "primaryMeaning": "Oppress",
+  "otherMeanings": [],
+  "primaryReading": "ぎゃく",
+  "readings": [
+    {
+      "reading": "ぎゃく",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "しいた",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Tiger and wolverine people are so <kanji>oppress</kanji>ed that the only thing they're allowed to amuse themselves with is <reading>Gak</reading> (ぎゃく). You know, that weird goo they made us play with when we were kids? Well that's not so fun when it's all you have.",
+  "meaningMnemonic": "<radical>Tiger</radical>s and <radical>wolverine</radical>s have one big thing in common and it's that the government likes to <kanji>oppress</kanji> them. It doesn't matter if you're the animal or a mutant X-Men hybrid. The government will go out of its way to oppress you if you are one. ",
+  "vocabularyIds": [
+    8039,
+    8040,
+    8041,
+    8042,
+    8043
+  ],
+  "radicalIds": [
+    254,
+    105
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%99%90"
+}

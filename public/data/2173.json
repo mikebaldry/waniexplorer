@@ -1,0 +1,35 @@
+{
+  "id": 2173,
+  "type": "kanji",
+  "character": "陳",
+  "primaryMeaning": "Exhibit",
+  "otherMeanings": [],
+  "primaryReading": "ちん",
+  "readings": [
+    {
+      "reading": "ちん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ひ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Right now the <kanji>exhibit</kanji> has a bunch of <reading>chin</reading>s (ちん) on display. Animal chins, human chins, every chin you can think of is in the exhibit.",
+  "meaningMnemonic": "The <radical>building</radical> to the <radical>east</radical> is an <kanji>exhibit</kanji>.",
+  "vocabularyIds": [
+    7950,
+    7951,
+    7952,
+    7953,
+    8167,
+    8168
+  ],
+  "radicalIds": [
+    176,
+    224
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%99%B3"
+}

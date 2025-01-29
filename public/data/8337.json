@@ -1,0 +1,73 @@
+{
+  "id": 8337,
+  "type": "vocabulary",
+  "characters": "靖国神社",
+  "primaryMeaning": "Yasukuni Shrine",
+  "otherMeanings": [],
+  "primaryReading": "やすくにじんじゃ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2319,
+      "character": "靖",
+      "readings": [
+        "やす",
+        "せい"
+      ]
+    },
+    {
+      "id": 621,
+      "character": "国",
+      "readings": [
+        "こく",
+        "くに"
+      ]
+    },
+    {
+      "id": 799,
+      "character": "神",
+      "readings": [
+        "しん",
+        "じん",
+        "かみ"
+      ]
+    },
+    {
+      "id": 591,
+      "character": "社",
+      "readings": [
+        "しゃ",
+        "やしろ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You already know that 神社 means \"shinto shrine,\" so add <kanji>peaceful</kanji> and <kanji>country</kanji> to it and you get a shrine that calls for the peace of the entire country. It's Yasukuni Shrine. If you watch the news you know that this name and everything it stands for is always a <a href=\"http://en.wikipedia.org/wiki/Yasukuni_Shrine\" target=\"_blank\">topic of current debates</a>.",
+  "readingMnemonic": "This is a combination of two words. The first two kanji take the kun'yomi readings and the second two are the jukugo word 神社. You already learned all of these readings, so you should already be able to read this word!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "靖",
+      "id": 2319,
+      "reading": "やす"
+    },
+    {
+      "type": "kanji",
+      "value": "国",
+      "id": 621,
+      "reading": "くに"
+    },
+    {
+      "type": "kanji",
+      "value": "神",
+      "id": 799,
+      "reading": "じん"
+    },
+    {
+      "type": "kanji",
+      "value": "社",
+      "id": 591,
+      "reading": "じゃ"
+    }
+  ]
+}

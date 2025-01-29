@@ -1,0 +1,45 @@
+{
+  "id": 4231,
+  "type": "vocabulary",
+  "characters": "若者",
+  "primaryMeaning": "Young Person",
+  "otherMeanings": [],
+  "primaryReading": "わかもの",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1065,
+      "character": "若",
+      "readings": [
+        "わか",
+        "も",
+        "じゃく"
+      ]
+    },
+    {
+      "id": 690,
+      "character": "者",
+      "readings": [
+        "しゃ",
+        "もの"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>young</kanji> <kanji>someone</kanji> is a <vocabulary>young person</vocabulary>.",
+  "readingMnemonic": "The reading for this one is a pain. 若 is the same as what you learned with the kanji (わか), but 者 is もの, which isn't what you learned. Think of this: A <vocabulary>young person</vocabulary> does what they want. They don't follow tradition or do anything the way you'd want them to, just like the reading of this word. Also, their actions make you really want to <reading>moan</reading> (もの) because ugh, young people. Get off my lawn.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%8B%A5%E8%80%85",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "若",
+      "id": 1065,
+      "reading": "わか"
+    },
+    {
+      "type": "kanji",
+      "value": "者",
+      "id": 690,
+      "reading": "もの"
+    }
+  ]
+}

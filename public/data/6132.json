@@ -1,0 +1,47 @@
+{
+  "id": 6132,
+  "type": "vocabulary",
+  "characters": "掲示",
+  "primaryMeaning": "Notice",
+  "otherMeanings": [
+    "Bulletin"
+  ],
+  "primaryReading": "けいじ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1672,
+      "character": "掲",
+      "readings": [
+        "けい",
+        "かか"
+      ]
+    },
+    {
+      "id": 1169,
+      "character": "示",
+      "readings": [
+        "じ",
+        "し",
+        "しめ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "To <kanji>display</kanji> and <kanji>indicate</kanji> something is to put up a <vocabulary>notice</vocabulary> or <vocabulary>bulletin</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8E%B2%E7%A4%BA",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "掲",
+      "id": 1672,
+      "reading": "けい"
+    },
+    {
+      "type": "kanji",
+      "value": "示",
+      "id": 1169,
+      "reading": "じ"
+    }
+  ]
+}

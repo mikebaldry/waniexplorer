@@ -1,0 +1,38 @@
+{
+  "id": 2361,
+  "type": "kanji",
+  "character": "哉",
+  "primaryMeaning": "Question Mark",
+  "otherMeanings": [
+    "?"
+  ],
+  "primaryReading": "や",
+  "readings": [
+    {
+      "reading": "や",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "さい",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "かな",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "The drunkard takes the <kanji>question mark</kanji> back and presses it to his head. He's wearing a <reading>Ya</reading>nkee's (や) cap. Oh come on. \"Do you just want to know the Yankee's score in the game?\" The drunkard nods.",
+  "meaningMnemonic": "A <radical>drunkard</radical> has <radical>dirt</radical> in his <radical>mouth</radical> as he tries to talk to you. You walk over and he spits a <kanji>question mark</kanji> into your hand. It's covered in dirt and spit. Um... does this mean he's confused? He probably doesn't even know where he is. But how did he make this question mark and why was it in his mouth?",
+  "vocabularyIds": [
+    9112
+  ],
+  "radicalIds": [
+    17,
+    16,
+    194
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%93%89"
+}

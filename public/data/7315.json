@@ -1,0 +1,46 @@
+{
+  "id": 7315,
+  "type": "vocabulary",
+  "characters": "覆面",
+  "primaryMeaning": "Mask",
+  "otherMeanings": [],
+  "primaryReading": "ふくめん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2068,
+      "character": "覆",
+      "readings": [
+        "ふく",
+        "おお",
+        "くつがえ"
+      ]
+    },
+    {
+      "id": 974,
+      "character": "面",
+      "readings": [
+        "めん",
+        "おも",
+        "おもて"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Cover</kanji> your <kanji>face</kanji>. Not with your hands or a puppy, but with a <vocabulary>mask</vocabulary>! Okay, I guess you could cover it with a puppy mask, but that's all you.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A6%86%E9%9D%A2",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "覆",
+      "id": 2068,
+      "reading": "ふく"
+    },
+    {
+      "type": "kanji",
+      "value": "面",
+      "id": 974,
+      "reading": "めん"
+    }
+  ]
+}

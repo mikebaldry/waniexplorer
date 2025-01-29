@@ -1,0 +1,33 @@
+{
+  "id": 7906,
+  "type": "vocabulary",
+  "characters": "猟",
+  "primaryMeaning": "Hunting",
+  "otherMeanings": [
+    "Game"
+  ],
+  "primaryReading": "りょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2184,
+      "character": "猟",
+      "readings": [
+        "りょう",
+        "かり",
+        "か"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%8C%9F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "猟",
+      "id": 2184,
+      "reading": "りょう"
+    }
+  ]
+}

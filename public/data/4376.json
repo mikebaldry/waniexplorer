@@ -1,0 +1,46 @@
+{
+  "id": 4376,
+  "type": "vocabulary",
+  "characters": "発表",
+  "primaryMeaning": "Announcement",
+  "otherMeanings": [
+    "Presentation"
+  ],
+  "primaryReading": "はっぴょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 729,
+      "character": "発",
+      "readings": [
+        "はつ"
+      ]
+    },
+    {
+      "id": 720,
+      "character": "表",
+      "readings": [
+        "ひょう",
+        "あらわ",
+        "おもて"
+      ]
+    }
+  ],
+  "meaningMnemonic": "I'm going to <kanji>express</kanji> my <kanji>departure</kanji>. That is my only <vocabulary>announcement</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. The ひょう changes to ぴょう and the はつ gets shortened, though, so just about everything about this word is weird.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%99%BA%E8%A1%A8",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "発",
+      "id": 729,
+      "reading": null
+    },
+    {
+      "type": "kanji",
+      "value": "表",
+      "id": 720,
+      "reading": null
+    }
+  ]
+}

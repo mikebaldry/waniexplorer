@@ -1,0 +1,73 @@
+{
+  "id": 6020,
+  "type": "vocabulary",
+  "characters": "鹿児島県",
+  "primaryMeaning": "Kagoshima Prefecture",
+  "otherMeanings": [],
+  "primaryReading": "かごしまけん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1640,
+      "character": "鹿",
+      "readings": [
+        "か",
+        "ろく",
+        "しか"
+      ]
+    },
+    {
+      "id": 1349,
+      "character": "児",
+      "readings": [
+        "じ",
+        "に",
+        "こ"
+      ]
+    },
+    {
+      "id": 822,
+      "character": "島",
+      "readings": [
+        "しま",
+        "とう"
+      ]
+    },
+    {
+      "id": 731,
+      "character": "県",
+      "readings": [
+        "けん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>deer</kanji> <kanji>child</kanji> <kanji>island</kanji> <kanji>prefecture</kanji> is <vocabulary>Kagoshima Prefecture</vocabulary>. ",
+  "readingMnemonic": "The readings are part on'yomi, part kun'yomi, but you should know them all if you look at them one by one. Just remember that 児 is read as ご here. Go, Kagoshima Prefecture! Go!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "鹿",
+      "id": 1640,
+      "reading": "か"
+    },
+    {
+      "type": "kanji",
+      "value": "児",
+      "id": 1349,
+      "reading": "ご"
+    },
+    {
+      "type": "kanji",
+      "value": "島",
+      "id": 822,
+      "reading": "しま"
+    },
+    {
+      "type": "kanji",
+      "value": "県",
+      "id": 731,
+      "reading": "けん"
+    }
+  ]
+}

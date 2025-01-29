@@ -1,0 +1,46 @@
+{
+  "id": 7081,
+  "type": "vocabulary",
+  "characters": "巻尺",
+  "primaryMeaning": "Tape Measure",
+  "otherMeanings": [
+    "Measuring Tape"
+  ],
+  "primaryReading": "まきじゃく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1273,
+      "character": "巻",
+      "readings": [
+        "かん",
+        "ま",
+        "まき"
+      ]
+    },
+    {
+      "id": 1986,
+      "character": "尺",
+      "readings": [
+        "しゃく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>scroll</kanji> of <kanji>shaku</kanji>. So, a scroll is all rolled up, right? And a shaku is an older form of Japanese measurement. If you roll up a measuring thing into a scroll-like container... what does it become? A <vocabulary>tape measure</vocabulary>!",
+  "readingMnemonic": "The reading for 巻 is the 巻く reading, pushed into the kanji. The 尺 reading is the normal reading of 尺. Careful of the rendaku.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B7%BB%E5%B0%BA",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "巻",
+      "id": 1273,
+      "reading": "まき"
+    },
+    {
+      "type": "kanji",
+      "value": "尺",
+      "id": 1986,
+      "reading": "じゃく"
+    }
+  ]
+}

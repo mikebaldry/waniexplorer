@@ -1,0 +1,63 @@
+{
+  "id": 3210,
+  "type": "vocabulary",
+  "characters": "日本語",
+  "primaryMeaning": "Japanese Language",
+  "otherMeanings": [
+    "Japanese"
+  ],
+  "primaryReading": "にほんご",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 476,
+      "character": "日",
+      "readings": [
+        "にち",
+        "じつ",
+        "ひ",
+        "か",
+        "び"
+      ]
+    },
+    {
+      "id": 487,
+      "character": "本",
+      "readings": [
+        "ほん",
+        "もと"
+      ]
+    },
+    {
+      "id": 764,
+      "character": "語",
+      "readings": [
+        "ご",
+        "かた"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You know 日本 is \"Japan.\" So, when you add <kanji>language</kanji> onto the end of that you have <vocabulary>Japanese language</vocabulary>.",
+  "readingMnemonic": "The reading is just the vocab word 日本 (にほん) plus the on'yomi that you learned for 語. Combine them together to get the reading for this word.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%97%A5%E6%9C%AC%E8%AA%9E",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "日",
+      "id": 476,
+      "reading": null
+    },
+    {
+      "type": "kanji",
+      "value": "本",
+      "id": 487,
+      "reading": null
+    },
+    {
+      "type": "kanji",
+      "value": "語",
+      "id": 764,
+      "reading": null
+    }
+  ]
+}

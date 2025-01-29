@@ -1,0 +1,38 @@
+{
+  "id": 7775,
+  "type": "vocabulary",
+  "characters": "散らし",
+  "primaryMeaning": "Leaflet",
+  "otherMeanings": [
+    "Handbill",
+    "Flyer",
+    "Scattering"
+  ],
+  "primaryReading": "ちらし",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1466,
+      "character": "散",
+      "readings": [
+        "さん",
+        "ち"
+      ]
+    }
+  ],
+  "meaningMnemonic": "What do people usually <kanji>scatter</kanji> in a rush (らし)? <vocabulary>Leaflet</vocabulary>s and <vocabulary>flyer</vocabulary>s. Handing them out takes way too much time, so if you just <a href=\"https://www.youtube.com/watch?v=vfaNkGXrEtA\" target=\"_blank\">scatter them all over the place</a> your job will be done so much faster!",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You learned this reading when you learned the 散る, so you should be able to read it already! \n\nNote that this word is almost always written in kana, and チラシ is much more common than ちらし. ",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%95%A3%E3%82%89%E3%81%97",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "散",
+      "id": 1466,
+      "reading": "ち"
+    },
+    {
+      "type": "kana",
+      "value": "らし"
+    }
+  ]
+}

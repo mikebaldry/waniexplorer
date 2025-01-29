@@ -1,0 +1,47 @@
+{
+  "id": 4083,
+  "type": "vocabulary",
+  "characters": "広告",
+  "primaryMeaning": "Advertisement",
+  "otherMeanings": [
+    "Ad",
+    "Advert"
+  ],
+  "primaryReading": "こうこく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 523,
+      "character": "広",
+      "readings": [
+        "ひろ",
+        "こう"
+      ]
+    },
+    {
+      "id": 1031,
+      "character": "告",
+      "readings": [
+        "こく",
+        "つ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you <kanji>announce</kanji> something to a <kanji>wide</kanji> audience, you're just throwing your message out there for everyone to hear. This is just a big wide <vocabulary>advertisement</vocabulary>.",
+  "readingMnemonic": "Sorry, you only learned the kun'yomi reading with 広. So, think of it this way when you need to remember this word's meaning: You're advertising something. It's a big <vocabulary>advertisement</vocabulary> to advertise how terrible a person <reading>こう</reading>いち is. Come up with some terrible things he's done so that you can imagine this crazy Koichi advertisement you made and ran on national TV.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BA%83%E5%91%8A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "広",
+      "id": 523,
+      "reading": "こう"
+    },
+    {
+      "type": "kanji",
+      "value": "告",
+      "id": 1031,
+      "reading": "こく"
+    }
+  ]
+}

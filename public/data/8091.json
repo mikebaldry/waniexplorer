@@ -1,0 +1,73 @@
+{
+  "id": 8091,
+  "type": "vocabulary",
+  "characters": "時期尚早",
+  "primaryMeaning": "Premature",
+  "otherMeanings": [],
+  "primaryReading": "じきしょうそう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 662,
+      "character": "時",
+      "readings": [
+        "じ",
+        "とき"
+      ]
+    },
+    {
+      "id": 839,
+      "character": "期",
+      "readings": [
+        "き",
+        "ご"
+      ]
+    },
+    {
+      "id": 2236,
+      "character": "尚",
+      "readings": [
+        "しょう",
+        "なお"
+      ]
+    },
+    {
+      "id": 547,
+      "character": "早",
+      "readings": [
+        "そう",
+        "はや",
+        "さ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You already learned that the word 時期 means \"time period,\" so when you add <kanji>furthermore</kanji> and <kanji>early</kanji> to that, it means that something happened ahead of time. It means <vocabulary>premature</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%99%82%E6%9C%9F%E5%B0%9A%E6%97%A9",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "時",
+      "id": 662,
+      "reading": "じ"
+    },
+    {
+      "type": "kanji",
+      "value": "期",
+      "id": 839,
+      "reading": "き"
+    },
+    {
+      "type": "kanji",
+      "value": "尚",
+      "id": 2236,
+      "reading": "しょう"
+    },
+    {
+      "type": "kanji",
+      "value": "早",
+      "id": 547,
+      "reading": "そう"
+    }
+  ]
+}

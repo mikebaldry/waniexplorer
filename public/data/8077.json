@@ -1,0 +1,48 @@
+{
+  "id": 8077,
+  "type": "vocabulary",
+  "characters": "叙述",
+  "primaryMeaning": "Giving An Account",
+  "otherMeanings": [
+    "Narrating",
+    "Describing"
+  ],
+  "primaryReading": "じょじゅつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2248,
+      "character": "叙",
+      "readings": [
+        "じょ",
+        "つい",
+        "ついで"
+      ]
+    },
+    {
+      "id": 1243,
+      "character": "述",
+      "readings": [
+        "じゅつ",
+        "の"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you <kanji>describe</kanji> an event by <kanji>mention</kanji>ing everything that happened, you must be <vocabulary>giving an account</vocabulary> of it.\n\n叙述 refers to <vocabulary>narrating</vocabulary> or <vocabulary>describing</vocabulary> events in an orderly sequence. It usually suggests a specific writing technique associated with storytelling and narrative.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8F%99%E8%BF%B0",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "叙",
+      "id": 2248,
+      "reading": "じょ"
+    },
+    {
+      "type": "kanji",
+      "value": "述",
+      "id": 1243,
+      "reading": "じゅつ"
+    }
+  ]
+}

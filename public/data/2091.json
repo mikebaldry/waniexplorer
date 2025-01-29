@@ -1,0 +1,30 @@
+{
+  "id": 2091,
+  "type": "kanji",
+  "character": "鰐",
+  "primaryMeaning": "Alligator",
+  "otherMeanings": [
+    "Crocodile"
+  ],
+  "primaryReading": "わに",
+  "readings": [
+    {
+      "reading": "わに",
+      "primary": true,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "The reading is the same as the わに in \"WaniKani.\" Ever heard of it?",
+  "meaningMnemonic": "A <radical>fish</radical> with two <radical>mouth</radical>s has the number <radical>two</radical> on it because it's in <radical>prison</radical> (that's its prison number). Who put the poor two-mouthed fish in prison? An <kanji>alligator</kanji>. Because alligators hate two-mouthed fish.",
+  "vocabularyIds": [
+    7362,
+    7860
+  ],
+  "radicalIds": [
+    150,
+    16,
+    7,
+    14
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%B0%90"
+}

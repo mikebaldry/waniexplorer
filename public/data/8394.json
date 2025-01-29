@@ -1,0 +1,47 @@
+{
+  "id": 8394,
+  "type": "vocabulary",
+  "characters": "胎児",
+  "primaryMeaning": "Embryo",
+  "otherMeanings": [
+    "Fetus",
+    "Foetus"
+  ],
+  "primaryReading": "たいじ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2353,
+      "character": "胎",
+      "readings": [
+        "たい"
+      ]
+    },
+    {
+      "id": 1349,
+      "character": "児",
+      "readings": [
+        "じ",
+        "に",
+        "こ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>child</kanji> that's still in a <kanji>womb</kanji> is a <vocabulary>fetus</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%83%8E%E5%85%90",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "胎",
+      "id": 2353,
+      "reading": "たい"
+    },
+    {
+      "type": "kanji",
+      "value": "児",
+      "id": 1349,
+      "reading": "じ"
+    }
+  ]
+}

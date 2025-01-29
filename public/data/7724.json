@@ -1,0 +1,40 @@
+{
+  "id": 7724,
+  "type": "vocabulary",
+  "characters": "降ろす",
+  "primaryMeaning": "To Take Down",
+  "otherMeanings": [
+    "To Launch",
+    "To Drop",
+    "To Lower",
+    "To Bring Down"
+  ],
+  "primaryReading": "おろす",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1548,
+      "character": "降",
+      "readings": [
+        "こう",
+        "お",
+        "ふ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. You already learned that 降りる means \"to get off.\" This is when you're helping something else descend down from something, not when you yourself are getting down. So it means <vocabulary>to take down</vocabulary> or <vocabulary>to lower</vocabulary>.",
+  "readingMnemonic": "This word uses the kun'yomi reading, which you already learned. Go you!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%99%8D%E3%82%8D%E3%81%99",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "降",
+      "id": 1548,
+      "reading": "お"
+    },
+    {
+      "type": "kana",
+      "value": "ろす"
+    }
+  ]
+}

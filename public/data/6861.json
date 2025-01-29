@@ -1,0 +1,47 @@
+{
+  "id": 6861,
+  "type": "vocabulary",
+  "characters": "肌色",
+  "primaryMeaning": "Skin Color",
+  "otherMeanings": [
+    "Skin Tone"
+  ],
+  "primaryReading": "はだいろ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1908,
+      "character": "肌",
+      "readings": [
+        "はだ",
+        "き"
+      ]
+    },
+    {
+      "id": 579,
+      "character": "色",
+      "readings": [
+        "いろ",
+        "しき",
+        "しょく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Skin</kanji> <kanji>color</kanji> is <vocabulary>skin color</vocabulary>, or <vocabulary>skin tone</vocabulary>.\n\nThis word originally referred to a pale orange or peach color, and sometimes you'll still see it used that way. But labeling that as 肌色 wasn't inclusive of all skin tones. Now, it simply refers to skin color in general.",
+  "readingMnemonic": "The readings are the vocab kun'yomi readings of each kanji, 肌 and 色 combined into one.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%82%8C%E8%89%B2",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "肌",
+      "id": 1908,
+      "reading": "はだ"
+    },
+    {
+      "type": "kanji",
+      "value": "色",
+      "id": 579,
+      "reading": "いろ"
+    }
+  ]
+}

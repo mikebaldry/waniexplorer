@@ -1,0 +1,32 @@
+{
+  "id": 1362,
+  "type": "kanji",
+  "character": "婦",
+  "primaryMeaning": "Wife",
+  "otherMeanings": [],
+  "primaryReading": "ふ",
+  "readings": [
+    {
+      "reading": "ふ",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Your <kanji>wife</kanji> suddenly looks at you and calls you a <reading>foo</reading>l (ふ). Wuh! Then you look down and see that you're also dressed as Wolverine.",
+  "meaningMnemonic": "That <radical>woman</radical> dressed as <radical>Wolverine</radical> with a <radical>towel</radical> tied around her <radical>forehead</radical> is your <kanji>wife</kanji>. You're cosplaying together!",
+  "vocabularyIds": [
+    5144,
+    5145,
+    5146,
+    6167,
+    7657,
+    8611
+  ],
+  "radicalIds": [
+    19,
+    105,
+    76,
+    102
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%A9%A6"
+}

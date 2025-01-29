@@ -1,0 +1,47 @@
+{
+  "id": 8207,
+  "type": "vocabulary",
+  "characters": "遺憾",
+  "primaryMeaning": "Regrettable",
+  "otherMeanings": [
+    "Unsatisfactory"
+  ],
+  "primaryReading": "いかん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1616,
+      "character": "遺",
+      "readings": [
+        "い",
+        "ゆい",
+        "のこ"
+      ]
+    },
+    {
+      "id": 2279,
+      "character": "憾",
+      "readings": [
+        "かん",
+        "うら"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you <kanji>leave behind</kanji> something and it makes you feel <kanji>remorse</kanji> it's a really <vocabulary>regrettable</vocabulary> situation. You should probably go back for whatever it was so you won't lead an <vocabulary>unsatisfactory</vocabulary> life.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%81%BA%E6%86%BE",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "遺",
+      "id": 1616,
+      "reading": "い"
+    },
+    {
+      "type": "kanji",
+      "value": "憾",
+      "id": 2279,
+      "reading": "かん"
+    }
+  ]
+}

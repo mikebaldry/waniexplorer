@@ -1,0 +1,47 @@
+{
+  "id": 5127,
+  "type": "vocabulary",
+  "characters": "処理",
+  "primaryMeaning": "Deal With",
+  "otherMeanings": [
+    "Take Care Of",
+    "Process"
+  ],
+  "primaryReading": "しょり",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1354,
+      "character": "処",
+      "readings": [
+        "しょ",
+        "ところ"
+      ]
+    },
+    {
+      "id": 669,
+      "character": "理",
+      "readings": [
+        "り",
+        "ことわり"
+      ]
+    }
+  ],
+  "meaningMnemonic": "I can <kanji>deal with</kanji> it, no matter what the <kanji>reason</kanji>. I can <vocabulary>take care of</vocabulary> this problem, <vocabulary>process</vocabulary> it, and <vocabulary>deal with</vocabulary> it on my own.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%87%A6%E7%90%86",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "処",
+      "id": 1354,
+      "reading": "しょ"
+    },
+    {
+      "type": "kanji",
+      "value": "理",
+      "id": 669,
+      "reading": "り"
+    }
+  ]
+}

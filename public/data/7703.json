@@ -1,0 +1,47 @@
+{
+  "id": 7703,
+  "type": "vocabulary",
+  "characters": "高等",
+  "primaryMeaning": "High Class",
+  "otherMeanings": [
+    "High Grade"
+  ],
+  "primaryReading": "こうとう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 666,
+      "character": "高",
+      "readings": [
+        "こう",
+        "たか"
+      ]
+    },
+    {
+      "id": 1037,
+      "character": "等",
+      "readings": [
+        "とう",
+        "ひと",
+        "など"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you are <kanji>high</kanji>er than <kanji>equal</kanji>, you are above the very top, you are above everyone. You are <vocabulary>high class</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%AB%98%E7%AD%89",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "高",
+      "id": 666,
+      "reading": "こう"
+    },
+    {
+      "type": "kanji",
+      "value": "等",
+      "id": 1037,
+      "reading": "とう"
+    }
+  ]
+}

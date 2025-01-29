@@ -1,0 +1,33 @@
+{
+  "id": 8382,
+  "type": "vocabulary",
+  "characters": "烏",
+  "primaryMeaning": "Crow",
+  "otherMeanings": [
+    "Raven"
+  ],
+  "primaryReading": "からす",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2357,
+      "character": "烏",
+      "readings": [
+        "からす",
+        "う",
+        "お"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%83%8F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "烏",
+      "id": 2357,
+      "reading": "からす"
+    }
+  ]
+}

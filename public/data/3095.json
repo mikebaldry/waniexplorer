@@ -1,0 +1,47 @@
+{
+  "id": 3095,
+  "type": "vocabulary",
+  "characters": "和室",
+  "primaryMeaning": "Japanese Style Room",
+  "otherMeanings": [],
+  "primaryReading": "わしつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 712,
+      "character": "和",
+      "readings": [
+        "わ",
+        "お",
+        "なご",
+        "やわ",
+        "かず",
+        "より"
+      ]
+    },
+    {
+      "id": 635,
+      "character": "室",
+      "readings": [
+        "しつ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>Japanese style</kanji> <kanji>room</kanji> tends to be pretty small. This mainly refers to the kind of room that's covered in tatami mats, though. If you're looking for places to stay in Japan, a 和室 will be something like that. You'll pull the futon out of the closet and sleep on the floor. So comfy, these <vocabulary>Japanese style room</vocabulary>s!",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%92%8C%E5%AE%A4",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "和",
+      "id": 712,
+      "reading": "わ"
+    },
+    {
+      "type": "kanji",
+      "value": "室",
+      "id": 635,
+      "reading": "しつ"
+    }
+  ]
+}

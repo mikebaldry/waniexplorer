@@ -1,0 +1,46 @@
+{
+  "id": 2521,
+  "type": "vocabulary",
+  "characters": "中々",
+  "primaryMeaning": "Rather",
+  "otherMeanings": [
+    "Fairly",
+    "Quite"
+  ],
+  "primaryReading": "なかなか",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 469,
+      "character": "中",
+      "readings": [
+        "ちゅう",
+        "なか"
+      ]
+    },
+    {
+      "id": 856,
+      "character": "々",
+      "readings": [
+        "のま"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The 々 symbol just repeats the kanji that comes before it. In other words, 中々 is the same as 中中. Easy! So with 中々, you have <kanji>middle</kanji> x2. When something is more middle than middle itself, it's <vocabulary>rather</vocabulary>, <vocabulary>fairly</vocabulary>, or <vocabulary>quite</vocabulary> something. Why? I guess because those are all good middle-level intensifiers.\n\n中々 can be used in positive or negative ways. In a positive way, it usually means something is better than expected, like 中々おいしい (quite delicious). But it's really versatile and could also mean \"a little,\" \"very,\" or \"completely\" depending on the situation. It might even sound condescending, so be careful how you use it! In a negative sense, you can use it when something is more difficult than expected, like in 中々できない (can't be done easily).",
+  "readingMnemonic": "The reading for this word is the kun'yomi reading, since it's like putting two single kanji together rather than a true jukugo word. To learn the kun'yomi reading, take a look at this mnemonic: \n\nFrom the middle of the middle comes a sound. It is a knocking sound. Knock. Knock. Knock. You open up the walls around this thing. Then you open up the second set of walls (middle of the middle). Inside is an old man, who identifies himself as \"the knocker.\" You go inside of him and find another knocker as well. That's why it's a <reading>knocker knocker</reading> (なかなか).",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%AD%E3%80%85",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "中",
+      "id": 469,
+      "reading": "なか"
+    },
+    {
+      "type": "kanji",
+      "value": "々",
+      "id": 469,
+      "reading": "なか"
+    }
+  ]
+}

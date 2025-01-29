@@ -1,0 +1,47 @@
+{
+  "id": 7690,
+  "type": "vocabulary",
+  "characters": "西洋",
+  "primaryMeaning": "The West",
+  "otherMeanings": [
+    "Western Countries",
+    "Western"
+  ],
+  "primaryReading": "せいよう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 581,
+      "character": "西",
+      "readings": [
+        "せい",
+        "さい",
+        "にし"
+      ]
+    },
+    {
+      "id": 798,
+      "character": "洋",
+      "readings": [
+        "よう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>Western style</kanji>d <kanji>West</kanji> is still known as <vocabulary>the West</vocabulary>. The one everyone refers to over in Asia when they talk about <vocabulary>Western countries</vocabulary> in Europe and North America. This is the place you'll hear people say you're from if you live in Canada or something.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A5%BF%E6%B4%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "西",
+      "id": 581,
+      "reading": "せい"
+    },
+    {
+      "type": "kanji",
+      "value": "洋",
+      "id": 798,
+      "reading": "よう"
+    }
+  ]
+}

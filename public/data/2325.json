@@ -1,0 +1,32 @@
+{
+  "id": 2325,
+  "type": "kanji",
+  "character": "凛",
+  "primaryMeaning": "Cold",
+  "otherMeanings": [],
+  "primaryReading": "りん",
+  "readings": [
+    {
+      "reading": "りん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "きびし",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Each time the jackhammer hits the freezing <kanji>cold</kanji> ice it makes a high pitched <reading>rin</reading>ging (りん) sound. It's actually really annoying to listen to but you really need to crack this ice open so you have to keep listening to it.",
+  "meaningMnemonic": "You're trying to open the <radical>lid</radical> of a manhole that's covered in <radical>ice</radical> by <radical>jackhammer</radical>ing it a bunch of <radical>times</radical> but it's not working because it's just too <kanji>cold</kanji>. It's so cold that your jackhammer is starting to ice up too. But you need to get this lid open so you try time after time after time!",
+  "vocabularyIds": [
+    8253
+  ],
+  "radicalIds": [
+    123,
+    8,
+    406,
+    207
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%87%9B"
+}

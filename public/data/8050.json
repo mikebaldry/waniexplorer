@@ -1,0 +1,47 @@
+{
+  "id": 8050,
+  "type": "vocabulary",
+  "characters": "随所",
+  "primaryMeaning": "Everywhere",
+  "otherMeanings": [
+    "At Every Turn"
+  ],
+  "primaryReading": "ずいしょ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2193,
+      "character": "随",
+      "readings": [
+        "ずい",
+        "したが",
+        "まにま"
+      ]
+    },
+    {
+      "id": 707,
+      "character": "所",
+      "readings": [
+        "しょ",
+        "ところ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>All</kanji> <kanji>place</kanji>s are <vocabulary>everywhere</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9A%8F%E6%89%80",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "随",
+      "id": 2193,
+      "reading": "ずい"
+    },
+    {
+      "type": "kanji",
+      "value": "所",
+      "id": 707,
+      "reading": "しょ"
+    }
+  ]
+}

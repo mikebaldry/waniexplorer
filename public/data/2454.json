@@ -1,0 +1,33 @@
+{
+  "id": 2454,
+  "type": "kanji",
+  "character": "婿",
+  "primaryMeaning": "Groom",
+  "otherMeanings": [],
+  "primaryReading": "むこ",
+  "readings": [
+    {
+      "reading": "むこ",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "せい",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "The best part of the story is that the only coat on the coat rack <kanji>groom</kanji> was a <reading>moo</reading>se <reading>co</reading>at (むこ). So the groom was a really skinny stick with a giant moose hair coat hanging down it. ",
+  "meaningMnemonic": "Have you heard the tale of the <radical>woman</radical> who fell in love with a <radical>coat rack</radical> during a full <radical>moon</radical> and made him her <kanji>groom</kanji>? It's a true story! She even had a wedding ceremony and had more coat racks sitting in the groom's side. The moon will make people do craaaazy things.",
+  "vocabularyIds": [
+    8608,
+    8609,
+    8610
+  ],
+  "radicalIds": [
+    19,
+    420,
+    43
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%A9%BF"
+}

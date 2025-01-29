@@ -1,0 +1,30 @@
+{
+  "id": 3634,
+  "type": "vocabulary",
+  "characters": "鏡",
+  "primaryMeaning": "Mirror",
+  "otherMeanings": [],
+  "primaryReading": "かがみ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 887,
+      "character": "鏡",
+      "readings": [
+        "かがみ",
+        "きょう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%8F%A1",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "鏡",
+      "id": 887,
+      "reading": "かがみ"
+    }
+  ]
+}

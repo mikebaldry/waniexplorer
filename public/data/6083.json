@@ -1,0 +1,45 @@
+{
+  "id": 6083,
+  "type": "vocabulary",
+  "characters": "抗体",
+  "primaryMeaning": "Antibody",
+  "otherMeanings": [],
+  "primaryReading": "こうたい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1654,
+      "character": "抗",
+      "readings": [
+        "こう",
+        "あらが"
+      ]
+    },
+    {
+      "id": 583,
+      "character": "体",
+      "readings": [
+        "たい",
+        "てい",
+        "からだ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Confront</kanji> your <kanji>body</kanji>? Sounds like it's something that's against bodies... perhaps, something that's <vocabulary>antibody</vocabulary>?",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8A%97%E4%BD%93",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "抗",
+      "id": 1654,
+      "reading": "こう"
+    },
+    {
+      "type": "kanji",
+      "value": "体",
+      "id": 583,
+      "reading": "たい"
+    }
+  ]
+}

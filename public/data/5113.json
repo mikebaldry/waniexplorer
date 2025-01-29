@@ -1,0 +1,46 @@
+{
+  "id": 5113,
+  "type": "vocabulary",
+  "characters": "研修",
+  "primaryMeaning": "Training",
+  "otherMeanings": [
+    "Give Training"
+  ],
+  "primaryReading": "けんしゅう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 691,
+      "character": "研",
+      "readings": [
+        "けん",
+        "と"
+      ]
+    },
+    {
+      "id": 1360,
+      "character": "修",
+      "readings": [
+        "しゅう",
+        "おさ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You <kanji>sharpen</kanji> your <kanji>mastering</kanji> of a specific skill. One could say that you're <vocabulary>training</vocabulary>. Additionally, when you sharpen someone else's mastering, you <vocabulary>give training</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A0%94%E4%BF%AE",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "研",
+      "id": 691,
+      "reading": "けん"
+    },
+    {
+      "type": "kanji",
+      "value": "修",
+      "id": 1360,
+      "reading": "しゅう"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": 5732,
+  "type": "vocabulary",
+  "characters": "書き込む",
+  "primaryMeaning": "To Write In",
+  "otherMeanings": [
+    "To Fill Out",
+    "To Jot Down"
+  ],
+  "primaryReading": "かきこむ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 962,
+      "character": "書",
+      "readings": [
+        "しょ",
+        "か"
+      ]
+    },
+    {
+      "id": 1504,
+      "character": "込",
+      "readings": [
+        "こ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You know that 書く is \"to write\" and the kanji 込 is into, so this means <vocabulary>to write in</vocabulary>, <vocabulary>to fill out</vocabulary>, or <vocabulary>to jot down</vocabulary>.\n\n書き込む focuses more on the physical action of writing than 書く on its own. This is because 込む stresses that you’re putting words INTO some space, either on paper or on computer.",
+  "readingMnemonic": "The reading comes from the word 書く and the kanji 込 combined into one.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%82%80",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "書",
+      "id": 962,
+      "reading": "か"
+    },
+    {
+      "type": "kana",
+      "value": "き"
+    },
+    {
+      "type": "kanji",
+      "value": "込",
+      "id": 1504,
+      "reading": "こ"
+    },
+    {
+      "type": "kana",
+      "value": "む"
+    }
+  ]
+}

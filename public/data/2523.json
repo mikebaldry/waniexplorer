@@ -1,0 +1,50 @@
+{
+  "id": 2523,
+  "type": "vocabulary",
+  "characters": "五日",
+  "primaryMeaning": "Fifth Day",
+  "otherMeanings": [
+    "Day Five",
+    "Five Days"
+  ],
+  "primaryReading": "いつか",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 470,
+      "character": "五",
+      "readings": [
+        "ご",
+        "いつ"
+      ]
+    },
+    {
+      "id": 476,
+      "character": "日",
+      "readings": [
+        "にち",
+        "じつ",
+        "ひ",
+        "か",
+        "び"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<vocabulary>Day five</vocabulary> or the <vocabulary>fifth day</vocabulary>. No matter how you look at this word, it makes a lot of sense.",
+  "readingMnemonic": "Words that count days use an exceptional reading. Even though this is a jukugo word, it uses kun'yomi readings for both the kanji. Think about this word this way:\n\nOn the <vocabulary>fifth day</vocabulary> I have to <reading>eat</reading> (いつ) five <reading>ca</reading>rs (か). Now imagine yourself eating five cars. How did you manage to get past the first one? I'm impressed.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BA%94%E6%97%A5",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "五",
+      "id": 470,
+      "reading": "いつ"
+    },
+    {
+      "type": "kanji",
+      "value": "日",
+      "id": 476,
+      "reading": "か"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 8369,
+  "type": "vocabulary",
+  "characters": "敢闘",
+  "primaryMeaning": "Fight Bravely",
+  "otherMeanings": [],
+  "primaryReading": "かんとう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2350,
+      "character": "敢",
+      "readings": [
+        "かん",
+        "あ"
+      ]
+    },
+    {
+      "id": 1663,
+      "character": "闘",
+      "readings": [
+        "とう",
+        "たたか"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you're involved in a <kanji>daring</kanji> <kanji>struggle</kanji> you need to be strong and <vocabulary>fight bravely</vocabulary>. Even if you might get hurt, you should do your best!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%95%A2%E9%97%98",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "敢",
+      "id": 2350,
+      "reading": "かん"
+    },
+    {
+      "type": "kanji",
+      "value": "闘",
+      "id": 1663,
+      "reading": "とう"
+    }
+  ]
+}

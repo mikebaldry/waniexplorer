@@ -1,0 +1,45 @@
+{
+  "id": 7843,
+  "type": "vocabulary",
+  "characters": "邸宅",
+  "primaryMeaning": "Mansion",
+  "otherMeanings": [
+    "Residence"
+  ],
+  "primaryReading": "ていたく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2138,
+      "character": "邸",
+      "readings": [
+        "てい",
+        "やしき"
+      ]
+    },
+    {
+      "id": 1207,
+      "character": "宅",
+      "readings": [
+        "たく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you have a <kanji>residence</kanji> that's also your <kanji>house</kanji>, it's still your <vocabulary>residence</vocabulary>. But you probably have a lot of money if you can own your own house, so it's probably a nice, big <vocabulary>mansion</vocabulary> too.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%82%B8%E5%AE%85",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "邸",
+      "id": 2138,
+      "reading": "てい"
+    },
+    {
+      "type": "kanji",
+      "value": "宅",
+      "id": 1207,
+      "reading": "たく"
+    }
+  ]
+}

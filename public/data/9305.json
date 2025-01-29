@@ -1,0 +1,48 @@
+{
+  "id": 9305,
+  "type": "vocabulary",
+  "characters": "統一",
+  "primaryMeaning": "Unity",
+  "otherMeanings": [
+    "Uniformity"
+  ],
+  "primaryReading": "とういつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1170,
+      "character": "統",
+      "readings": [
+        "とう",
+        "す"
+      ]
+    },
+    {
+      "id": 440,
+      "character": "一",
+      "readings": [
+        "いち",
+        "いつ",
+        "ひと",
+        "かず"
+      ]
+    }
+  ],
+  "meaningMnemonic": "To <kanji>unite</kanji> as <kanji>one</kanji> is to achieve total <vocabulary>unity</vocabulary> and <vocabulary>uniformity</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. However, it uses a reading for 一 that you haven't learned yet, so here's a mnemonic to help you:\n\nYou dream about <vocabulary>unity</vocabulary> so often that it <reading>eats</reading> (いつ) away at you. Thoughts of uniting your country occupy you day and night, but you can't let them consume you.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B5%B1%E4%B8%80",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "統",
+      "id": 1170,
+      "reading": "とう"
+    },
+    {
+      "type": "kanji",
+      "value": "一",
+      "id": 440,
+      "reading": "いつ"
+    }
+  ]
+}

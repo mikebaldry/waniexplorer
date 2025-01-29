@@ -1,0 +1,45 @@
+{
+  "id": 4790,
+  "type": "vocabulary",
+  "characters": "訴訟",
+  "primaryMeaning": "Lawsuit",
+  "otherMeanings": [
+    "Litigation"
+  ],
+  "primaryReading": "そしょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1258,
+      "character": "訴",
+      "readings": [
+        "そ",
+        "うった"
+      ]
+    },
+    {
+      "id": 1259,
+      "character": "訟",
+      "readings": [
+        "しょう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you <kanji>sue</kanji> and bring about a <kanji>lawsuit</kanji>, you are bringing about a <vocabulary>lawsuit</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A8%B4%E8%A8%9F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "訴",
+      "id": 1258,
+      "reading": "そ"
+    },
+    {
+      "type": "kanji",
+      "value": "訟",
+      "id": 1259,
+      "reading": "しょう"
+    }
+  ]
+}

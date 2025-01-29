@@ -1,0 +1,54 @@
+{
+  "id": 3983,
+  "type": "vocabulary",
+  "characters": "日常",
+  "primaryMeaning": "Everyday Life",
+  "otherMeanings": [
+    "Normal Life",
+    "Daily Life",
+    "Ordinary",
+    "Regular",
+    "Everyday",
+    "Usual"
+  ],
+  "primaryReading": "にちじょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 476,
+      "character": "日",
+      "readings": [
+        "にち",
+        "じつ",
+        "ひ",
+        "か",
+        "び"
+      ]
+    },
+    {
+      "id": 1011,
+      "character": "常",
+      "readings": [
+        "じょう",
+        "つね"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Normal</kanji> <kanji>day</kanji>s are what you have in your regular <vocabulary>everyday life</vocabulary>. This is your <vocabulary>normal life</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%97%A5%E5%B8%B8",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "日",
+      "id": 476,
+      "reading": "にち"
+    },
+    {
+      "type": "kanji",
+      "value": "常",
+      "id": 1011,
+      "reading": "じょう"
+    }
+  ]
+}

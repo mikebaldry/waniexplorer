@@ -1,0 +1,34 @@
+{
+  "id": 1539,
+  "type": "kanji",
+  "character": "蒸",
+  "primaryMeaning": "Steam",
+  "otherMeanings": [],
+  "primaryReading": "じょう",
+  "readings": [
+    {
+      "reading": "じょう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "む",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "As you watch the <kanji>steam</kanji> coming off the coral flowers, someone appears behind you. It’s <reading>Joe</reading> (じょう), the big farmhand. \"Are you steaming coral?\" he asks. \"Smelled it a mile away. I love steaming me some coral.”",
+  "meaningMnemonic": "If you take the <radical>flowers</radical> off some <radical>coral</radical> and <radical>boil</radical> them, <kanji>steam</kanji> comes out.",
+  "vocabularyIds": [
+    5681,
+    5682,
+    5856,
+    5857
+  ],
+  "radicalIds": [
+    90,
+    8794,
+    131
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%92%B8"
+}

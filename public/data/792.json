@@ -1,0 +1,38 @@
+{
+  "id": 792,
+  "type": "kanji",
+  "character": "昔",
+  "primaryMeaning": "Long Ago",
+  "otherMeanings": [
+    "Long Time Ago"
+  ],
+  "primaryReading": "むかし",
+  "readings": [
+    {
+      "reading": "むかし",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "せき",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "しゃく",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Once you finally finish the game, you walk the long walk back home, in the sun, barefoot, on a dirt road that hasn’t been maintained since <kanji>long ago</kanji>. Your feet are all sweaty from being out in the sun, and walking on this dirt road gives you <reading>muck ashi</reading> (むかし). Your ashi (feet) are all mucky and muddy from the combination of dirt and sweat. Your muck ashi are really gross, man.",
+  "meaningMnemonic": "You’ve been playing <radical>blackjack</radical> in the <radical>sun</radical> since <kanji>long ago</kanji>. This is the longest game of blackjack you’ve ever played and it feels like ages since you started. You’ve been sitting out in the sun playing blackjack since long, long ago.",
+  "vocabularyIds": [
+    3279,
+    7746
+  ],
+  "radicalIds": [
+    8775,
+    22
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%98%94"
+}

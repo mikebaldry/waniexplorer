@@ -1,0 +1,46 @@
+{
+  "id": 4286,
+  "type": "vocabulary",
+  "characters": "嫌疑",
+  "primaryMeaning": "Suspicion",
+  "otherMeanings": [],
+  "primaryReading": "けんぎ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1104,
+      "character": "嫌",
+      "readings": [
+        "けん",
+        "げん",
+        "いや",
+        "きら"
+      ]
+    },
+    {
+      "id": 894,
+      "character": "疑",
+      "readings": [
+        "ぎ",
+        "うたが"
+      ]
+    }
+  ],
+  "meaningMnemonic": "I <kanji>dislike</kanji> him and I have <kanji>doubt</kanji>s about him. I therefore have much <vocabulary>suspicion</vocabulary> against him as well.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AB%8C%E7%96%91",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "嫌",
+      "id": 1104,
+      "reading": "けん"
+    },
+    {
+      "type": "kanji",
+      "value": "疑",
+      "id": 894,
+      "reading": "ぎ"
+    }
+  ]
+}

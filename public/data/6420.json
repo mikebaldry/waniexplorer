@@ -1,0 +1,46 @@
+{
+  "id": 6420,
+  "type": "vocabulary",
+  "characters": "犠打",
+  "primaryMeaning": "Sacrifice Fly",
+  "otherMeanings": [
+    "Sacrifice Bunt"
+  ],
+  "primaryReading": "ぎだ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1761,
+      "character": "犠",
+      "readings": [
+        "ぎ"
+      ]
+    },
+    {
+      "id": 536,
+      "character": "打",
+      "readings": [
+        "だ",
+        "う",
+        "ぶ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>sacrifice</kanji> <kanji>hit</kanji> is one you do in baseball, when you hit the ball in the air, and then the person on third tags up and scores. In baseball, this can either be a <vocabulary>sacrifice bunt</vocabulary> or <vocabulary>sacrifice fly</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You've learned the readings for both of these kanji, so you should be able to read this word already! ",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%8A%A0%E6%89%93",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "犠",
+      "id": 1761,
+      "reading": "ぎ"
+    },
+    {
+      "type": "kanji",
+      "value": "打",
+      "id": 536,
+      "reading": "だ"
+    }
+  ]
+}

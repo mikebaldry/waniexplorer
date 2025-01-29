@@ -1,0 +1,36 @@
+{
+  "id": 6258,
+  "type": "vocabulary",
+  "characters": "狙う",
+  "primaryMeaning": "To Aim At",
+  "otherMeanings": [
+    "To Aim"
+  ],
+  "primaryReading": "ねらう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1673,
+      "character": "狙",
+      "readings": [
+        "そ",
+        "ねら"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Remember 狙い and how it means \"aim\"? Make that into a verb, and you have <vocabulary>to aim at</vocabulary>.",
+  "readingMnemonic": "The reading comes from 狙い, so if you know that you'll be able <vocabulary>to aim at</vocabulary> knowing this word's reading as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%8B%99%E3%81%86",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "狙",
+      "id": 1673,
+      "reading": "ねら"
+    },
+    {
+      "type": "kana",
+      "value": "う"
+    }
+  ]
+}

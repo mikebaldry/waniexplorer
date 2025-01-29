@@ -1,0 +1,31 @@
+{
+  "id": 1821,
+  "type": "kanji",
+  "character": "枢",
+  "primaryMeaning": "Hinge",
+  "otherMeanings": [],
+  "primaryReading": "すう",
+  "readings": [
+    {
+      "reading": "すう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "からくり",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You buy an awesome <kanji>hinge</kanji> and try it out. Instead of working properly, it just falls apart and the door falls on you, crushing your lower body. You yell out (and you have to yell) \"I'm GOING TO <reading>SUUUUEEE</reading> (すう) YOU!\"",
+  "meaningMnemonic": "In the <radical>tree</radical> <radical>district</radical> of town you can buy a lot of tree products, including doors. With those doors, though, you always need <kanji>hinge</kanji>s.",
+  "vocabularyIds": [
+    6606,
+    6607
+  ],
+  "radicalIds": [
+    23,
+    322
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%9E%A2"
+}

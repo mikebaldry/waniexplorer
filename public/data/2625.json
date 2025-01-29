@@ -1,0 +1,37 @@
+{
+  "id": 2625,
+  "type": "vocabulary",
+  "characters": "古い",
+  "primaryMeaning": "Old",
+  "otherMeanings": [
+    "Ancient",
+    "Out-Of-Date"
+  ],
+  "primaryReading": "ふるい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 519,
+      "character": "古",
+      "readings": [
+        "こ",
+        "ふる"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>old</kanji>? It's also <vocabulary>old</vocabulary>, <vocabulary>ancient</vocabulary>, or <vocabulary>out-of-date</vocabulary>.\n\nThis word is used for things like clothes, food and friendships, but not for people! So a 古い友人 (old friend) is someone you've been friends with for a long time, not an elderly friend.",
+  "readingMnemonic": "Since this word is made up of a single kanji with some hiragana attached, it's going to use the kun'yomi reading. You learned the on'yomi when learning the kanji portion, so let's use a mnemonic to help you with the reading of this word: \n\nIf you're <vocabulary>old</vocabulary>, you're also <reading>full</reading> (ふる) of memories. And you're probably full of old secrets. And you're full from old people food.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8F%A4%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "古",
+      "id": 519,
+      "reading": "ふる"
+    },
+    {
+      "type": "kana",
+      "value": "い"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": 9234,
+  "object": "kana_vocabulary",
+  "url": "https://api.wanikani.com/v2/subjects/9234",
+  "data_updated_at": "2024-10-15T22:19:14.647907Z",
+  "data": {
+    "created_at": "2023-04-25T01:24:53.229106Z",
+    "level": 36,
+    "slug": "レントゲン",
+    "hidden_at": null,
+    "document_url": "https://www.wanikani.com/vocabulary/%E3%83%AC%E3%83%B3%E3%83%88%E3%82%B2%E3%83%B3",
+    "characters": "レントゲン",
+    "meanings": [
+      {
+        "meaning": "X-ray",
+        "primary": true,
+        "accepted_answer": true
+      }
+    ],
+    "auxiliary_meanings": [
+      {
+        "meaning": "Roentgen",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Röntgen",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Roentgen Rays",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Röntgen Rays",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "X-rays",
+        "type": "whitelist"
+      }
+    ],
+    "parts_of_speech": [
+      "noun"
+    ],
+    "meaning_mnemonic": "レントゲン comes from the German word \"Röntgen\" meaning <vocabulary>X-ray</vocabulary>, named after their inventor Wilhelm Conrad Röntgen.\n\nIf that’s news to you, here’s a mnemonic to help you remember: \n\nYou’re planning to <reading>rent a Gen</reading>ji (レントゲン), but you ask Genji to get an <vocabulary>X-ray</vocabulary> first, just to make sure he’s in good health before signing the rental contract.",
+    "context_sentences": [
+      {
+        "en": "The X-rays showed no abnormalities.",
+        "ja": "レントゲン写真には、異常は認められませんでした。"
+      },
+      {
+        "en": "Let's take a chest X-ray just to be sure.",
+        "ja": "念の為、胸部のレントゲンを撮りましょう。"
+      },
+      {
+        "en": "Please wait in front of the X-ray room.",
+        "ja": "レントゲン室の前でお待ちください。"
+      }
+    ],
+    "pronunciation_audios": [
+      {
+        "url": "https://files.wanikani.com/w32d34j9vemah8pag1fxm07ww4sp",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44815,
+          "pronunciation": "レントゲン",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/7cfcx9w4gff8dqzvxwgcriodueho",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44815,
+          "pronunciation": "レントゲン",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      },
+      {
+        "url": "https://files.wanikani.com/x7ork4ld3mhdlk0nuqt9jxmxwe9z",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44747,
+          "pronunciation": "レントゲン",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/881irvi86hd1u54sp8rir18rkuz6",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44747,
+          "pronunciation": "レントゲン",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      }
+    ],
+    "lesson_position": 0,
+    "spaced_repetition_system_id": 1
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": 3987,
+  "type": "vocabulary",
+  "characters": "干渉",
+  "primaryMeaning": "Interference",
+  "otherMeanings": [
+    "Intervention"
+  ],
+  "primaryReading": "かんしょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1014,
+      "character": "干",
+      "readings": [
+        "かん",
+        "ほ",
+        "ひ"
+      ]
+    },
+    {
+      "id": 1016,
+      "character": "渉",
+      "readings": [
+        "しょう",
+        "わた"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you're <kanji>ford</kanji>ing a stream, and you suddenly feel <kanji>dry</kanji> feelings around you, that doesn't make any sense for something wet. This dryness is an <vocabulary>interference</vocabulary>. It's an <vocabulary>intervention</vocabulary> trying to stop you from fording.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B9%B2%E6%B8%89",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "干",
+      "id": 1014,
+      "reading": "かん"
+    },
+    {
+      "type": "kanji",
+      "value": "渉",
+      "id": 1016,
+      "reading": "しょう"
+    }
+  ]
+}

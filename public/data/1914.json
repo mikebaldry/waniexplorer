@@ -1,0 +1,47 @@
+{
+  "id": 1914,
+  "type": "kanji",
+  "character": "頃",
+  "primaryMeaning": "Approximate",
+  "otherMeanings": [],
+  "primaryReading": "ころ",
+  "readings": [
+    {
+      "reading": "ころ",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "ごろ",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "けい",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "きょう",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Maybe this is too much geoduck, even if we're going for an <kanji>approximate</kanji>. So, you take the <reading>core</reading> (ころ) of the geoduck and measure that instead. ",
+  "meaningMnemonic": "A <radical>spoon</radical> to measure a <radical>geoduck</radical> is a very <kanji>approximate</kanji> measurement. Geoducks are big, spoons are small. Still, we'll get the approximation going, right?",
+  "vocabularyIds": [
+    6871,
+    6872,
+    6873,
+    6874,
+    6875,
+    6876,
+    6877,
+    7726
+  ],
+  "radicalIds": [
+    57,
+    184
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%A0%83"
+}

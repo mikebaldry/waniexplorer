@@ -1,0 +1,47 @@
+{
+  "id": 8132,
+  "type": "vocabulary",
+  "characters": "兵糧",
+  "primaryMeaning": "Army Provisions",
+  "otherMeanings": [
+    "Provisions"
+  ],
+  "primaryReading": "ひょうろう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1000,
+      "character": "兵",
+      "readings": [
+        "へい",
+        "ひょう"
+      ]
+    },
+    {
+      "id": 2177,
+      "character": "糧",
+      "readings": [
+        "りょう",
+        "ろう",
+        "かて"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Provisions</kanji> that are only for <kanji>soldier</kanji>s are <vocabulary>army provisions</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You learned the reading for the second kanji but not the first one yet. Here's a mnemonic to help you:\n\nThe army said it would provide you with some <vocabulary>army provisions</vocabulary>. That's great! You go to the drop site where the provisions are, and you see the provisions. \"<reading>Heyo!</reading> It's <reading>roe</reading>!\" (ひょうろう) you say out loud. You're pretty happy that your provisions consist of tons and tons of roe!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%85%B5%E7%B3%A7",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "兵",
+      "id": 1000,
+      "reading": "ひょう"
+    },
+    {
+      "type": "kanji",
+      "value": "糧",
+      "id": 2177,
+      "reading": "ろう"
+    }
+  ]
+}

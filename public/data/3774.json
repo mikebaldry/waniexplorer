@@ -1,0 +1,44 @@
+{
+  "id": 3774,
+  "type": "vocabulary",
+  "characters": "文法",
+  "primaryMeaning": "Grammar",
+  "otherMeanings": [],
+  "primaryReading": "ぶんぽう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 475,
+      "character": "文",
+      "readings": [
+        "ぶん",
+        "もん",
+        "ふみ"
+      ]
+    },
+    {
+      "id": 949,
+      "character": "法",
+      "readings": [
+        "ほう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>method</kanji> of <kanji>writing</kanji> is how you write. You can have vocabulary words, but you have to be able to put them together using some kind of method. This method happens to be <vocabulary>grammar</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. The ほう changes to ぽう.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%96%87%E6%B3%95",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "文",
+      "id": 475,
+      "reading": "ぶん"
+    },
+    {
+      "type": "kanji",
+      "value": "法",
+      "id": 949,
+      "reading": "ぽう"
+    }
+  ]
+}

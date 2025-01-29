@@ -1,0 +1,42 @@
+{
+  "id": 5155,
+  "type": "vocabulary",
+  "characters": "憲法",
+  "primaryMeaning": "Constitution",
+  "otherMeanings": [],
+  "primaryReading": "けんぽう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1373,
+      "character": "憲",
+      "readings": [
+        "けん"
+      ]
+    },
+    {
+      "id": 949,
+      "character": "法",
+      "readings": [
+        "ほう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>constitution</kanji> <kanji>law</kanji>s are what makes up the <vocabulary>constitution</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%86%B2%E6%B3%95",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "憲",
+      "id": 1373,
+      "reading": "けん"
+    },
+    {
+      "type": "kanji",
+      "value": "法",
+      "id": 949,
+      "reading": "ぽう"
+    }
+  ]
+}

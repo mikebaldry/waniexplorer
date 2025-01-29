@@ -1,0 +1,62 @@
+{
+  "id": 3520,
+  "type": "vocabulary",
+  "characters": "心配事",
+  "primaryMeaning": "Cares",
+  "otherMeanings": [
+    "Worries",
+    "Troubles"
+  ],
+  "primaryReading": "しんぱいごと",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 508,
+      "character": "心",
+      "readings": [
+        "しん",
+        "こころ"
+      ]
+    },
+    {
+      "id": 742,
+      "character": "配",
+      "readings": [
+        "はい",
+        "くば"
+      ]
+    },
+    {
+      "id": 708,
+      "character": "事",
+      "readings": [
+        "じ",
+        "こと",
+        "つか"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Remember how 心配 means \"a worry\" and 事 can mean \"thing\"? Well, if you have a worry over some specific thing, then you probably have some <vocabulary>cares</vocabulary> and <vocabulary>worries</vocabulary>. What are your 心配事 these days?",
+  "readingMnemonic": "The reading is the reading of 心配 (which you've hopefully gotten down okay by now) and 事 using the (こと) reading. It is rendaku'd, as well, so beware of the ごと (just another 心配事, amiright?).",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BF%83%E9%85%8D%E4%BA%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "心",
+      "id": 508,
+      "reading": "しん"
+    },
+    {
+      "type": "kanji",
+      "value": "配",
+      "id": 742,
+      "reading": "ぱい"
+    },
+    {
+      "type": "kanji",
+      "value": "事",
+      "id": 708,
+      "reading": "ごと"
+    }
+  ]
+}

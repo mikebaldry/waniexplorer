@@ -1,0 +1,32 @@
+{
+  "id": 2143,
+  "type": "kanji",
+  "character": "媛",
+  "primaryMeaning": "Princess",
+  "otherMeanings": [
+    "Beautiful Woman"
+  ],
+  "primaryReading": "ひめ",
+  "readings": [
+    {
+      "reading": "ひめ",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "えん",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Remember the word 姫? It means <kanji>princess</kanji> too. If you remember the ひめ from 姫, you'll be able to remember this one too.",
+  "meaningMnemonic": "Everyone knows that when a <radical>woman</radical> plays <radical>football</radical> she becomes a <kanji>princess</kanji>. Thats how princesses are made.",
+  "vocabularyIds": [
+    7792
+  ],
+  "radicalIds": [
+    19,
+    286
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%AA%9B"
+}

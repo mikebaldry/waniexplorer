@@ -1,0 +1,31 @@
+{
+  "id": 6315,
+  "type": "vocabulary",
+  "characters": "稲",
+  "primaryMeaning": "Rice Plant",
+  "otherMeanings": [],
+  "primaryReading": "いね",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1735,
+      "character": "稲",
+      "readings": [
+        "いね",
+        "いな",
+        "とう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "The reading is the いね reading of this kanji. You can think of it like you're saying \"いいね!\" at the rice plant you're looking at (just shorten the い).",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A8%B2",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "稲",
+      "id": 1735,
+      "reading": "いね"
+    }
+  ]
+}

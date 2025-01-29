@@ -1,0 +1,62 @@
+{
+  "id": 8576,
+  "type": "vocabulary",
+  "characters": "大腸菌",
+  "primaryMeaning": "E. Coli",
+  "otherMeanings": [
+    "Escherichia Coli",
+    "E Coli"
+  ],
+  "primaryReading": "だいちょうきん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 453,
+      "character": "大",
+      "readings": [
+        "たい",
+        "だい",
+        "おお",
+        "ひろ"
+      ]
+    },
+    {
+      "id": 2333,
+      "character": "腸",
+      "readings": [
+        "ちょう",
+        "はらわた"
+      ]
+    },
+    {
+      "id": 1930,
+      "character": "菌",
+      "readings": [
+        "きん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Remember how you learned that 大腸 means \"large intestines?\" Well when you get <kanji>bacteria</kanji> in there you end up with <vocabulary>E. Coli</vocabulary>. Go to a doctor right away! You're gonna be stuck in the bathroom for a while. Sorry...",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A4%A7%E8%85%B8%E8%8F%8C",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "大",
+      "id": 453,
+      "reading": "だい"
+    },
+    {
+      "type": "kanji",
+      "value": "腸",
+      "id": 2333,
+      "reading": "ちょう"
+    },
+    {
+      "type": "kanji",
+      "value": "菌",
+      "id": 1930,
+      "reading": "きん"
+    }
+  ]
+}

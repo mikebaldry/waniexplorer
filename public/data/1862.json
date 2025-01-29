@@ -1,0 +1,30 @@
+{
+  "id": 1862,
+  "type": "kanji",
+  "character": "斉",
+  "primaryMeaning": "Simultaneous",
+  "otherMeanings": [],
+  "primaryReading": "せい",
+  "readings": [
+    {
+      "reading": "せい",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "さい",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "What <kanji>simultaneously</kanji> protects and kills? Your holy blue <reading>sa</reading>ber (せい).",
+  "meaningMnemonic": "The <radical>simultaneous</radical> radical and the <kanji>simultaneous</kanji> kanji are the same!",
+  "vocabularyIds": [
+    6723,
+    6851
+  ],
+  "radicalIds": [
+    277
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%96%89"
+}

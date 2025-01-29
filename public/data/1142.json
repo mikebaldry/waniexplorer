@@ -1,0 +1,37 @@
+{
+  "id": 1142,
+  "type": "kanji",
+  "character": "任",
+  "primaryMeaning": "Duty",
+  "otherMeanings": [],
+  "primaryReading": "にん",
+  "readings": [
+    {
+      "reading": "にん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "まか",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You’re the village <reading>nin</reading>compoop (にん), but the king and the leader still have a <kanji>duty</kanji> to protect you. Even a nincompoop is important to the kings and leaders of the world.",
+  "meaningMnemonic": "Both a <radical>leader</radical> and a <radical>king</radical> have a <kanji>duty</kanji> to protect their people. A good leader always protects his followers, and a good king always protects his subjects. This is their duty.",
+  "vocabularyIds": [
+    4420,
+    4449,
+    4455,
+    4583,
+    8241,
+    9045,
+    9072,
+    9073
+  ],
+  "radicalIds": [
+    75,
+    48
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E4%BB%BB"
+}

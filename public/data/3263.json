@@ -1,0 +1,38 @@
+{
+  "id": 3263,
+  "type": "vocabulary",
+  "characters": "別に",
+  "primaryMeaning": "Not Particularly",
+  "otherMeanings": [
+    "Not Really",
+    "Separately",
+    "In Addition To"
+  ],
+  "primaryReading": "べつに",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 785,
+      "character": "別",
+      "readings": [
+        "べつ",
+        "わか"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If someone asks if you want a <kanji>separate</kanji> knee (に), you'll say <vocabulary>not particularly</vocabulary>. I mean, you've never thought about it, but do you really need more knees? <vocabulary>Not really</vocabulary>...\n\nIn this first meaning, 別に is often used on its own, or with a negative verb or adjective, as in 別に長くない (not particularly long).\n\nHowever, when 別に is used with a positive verb, it often simply means <vocabulary>separately</vocabulary>, or <vocabulary>in addition to</vocabulary>. After all, when you have to do something separately, you have to do it in addition to something else. Like learning this meaning in addition to the first one. What a chore!",
+  "readingMnemonic": "The reading is just the reading you learned with the kanji. Well done!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%88%A5%E3%81%AB",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "別",
+      "id": 785,
+      "reading": "べつ"
+    },
+    {
+      "type": "kana",
+      "value": "に"
+    }
+  ]
+}

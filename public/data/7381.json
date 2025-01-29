@@ -1,0 +1,44 @@
+{
+  "id": 7381,
+  "type": "vocabulary",
+  "characters": "漫才",
+  "primaryMeaning": "Comic Dialogue",
+  "otherMeanings": [
+    "Comedy Double Act"
+  ],
+  "primaryReading": "まんざい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2095,
+      "character": "漫",
+      "readings": [
+        "まん"
+      ]
+    },
+    {
+      "id": 468,
+      "character": "才",
+      "readings": [
+        "さい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>comic</kanji> <kanji>talent</kanji>! And not just one, but two comic talents, because this means a <vocabulary>comic dialogue</vocabulary> or a <vocabulary>comedy double act</vocabulary>. \n\nMore specifically, 漫才 refers to a double act that features a \"funny man\" (ボケ) and \"straight man\" (ツッコミ) in a comic dialogue routine. 漫才 is one of the most popular forms of comedy in Japan.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Watch out for the rendaku.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%BC%AB%E6%89%8D",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "漫",
+      "id": 2095,
+      "reading": "まん"
+    },
+    {
+      "type": "kanji",
+      "value": "才",
+      "id": 468,
+      "reading": "ざい"
+    }
+  ]
+}

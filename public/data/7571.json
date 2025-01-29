@@ -1,0 +1,68 @@
+{
+  "id": 7571,
+  "type": "vocabulary",
+  "characters": "不自由",
+  "primaryMeaning": "Discomfort",
+  "otherMeanings": [
+    "Inconvenience",
+    "Disability",
+    "Impairment",
+    "Poverty",
+    "Destitution"
+  ],
+  "primaryReading": "ふじゆう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 563,
+      "character": "不",
+      "readings": [
+        "ふ",
+        "ぶ"
+      ]
+    },
+    {
+      "id": 578,
+      "character": "自",
+      "readings": [
+        "じ",
+        "し",
+        "みずか"
+      ]
+    },
+    {
+      "id": 648,
+      "character": "由",
+      "readings": [
+        "ゆう",
+        "ゆ",
+        "ゆい",
+        "よし",
+        "よ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Remember how 自由 means freedom? Well when you add <kanji>not</kanji> it causes you <vocabulary>discomfort</vocabulary> and really <vocabulary>inconveniences</vocabulary> you. That not is in the way of your freedom.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%8D%E8%87%AA%E7%94%B1",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "不",
+      "id": 563,
+      "reading": "ふ"
+    },
+    {
+      "type": "kanji",
+      "value": "自",
+      "id": 578,
+      "reading": "じ"
+    },
+    {
+      "type": "kanji",
+      "value": "由",
+      "id": 648,
+      "reading": "ゆう"
+    }
+  ]
+}

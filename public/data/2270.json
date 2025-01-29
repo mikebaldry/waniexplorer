@@ -1,0 +1,32 @@
+{
+  "id": 2270,
+  "type": "kanji",
+  "character": "赴",
+  "primaryMeaning": "Proceed",
+  "otherMeanings": [
+    "Move On"
+  ],
+  "primaryReading": "ふ",
+  "readings": [
+    {
+      "reading": "ふ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "おもむ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "If you find that you can't <kanji>proceed</kanji>, you're a <reading>foo</reading>l (ふ). Everyone can run on their toes. Don't you know that? No? Then you're an even bigger fool, now get outta here!",
+  "meaningMnemonic": "You need to <radical>run</radical> on your <radical>toe</radical>s if you want to <kanji>proceed</kanji> down this road. If you can't run on your toes, well then you're out of luck, and you won't be able to <kanji>move on</kanji> at all. I didn't make this rule, I just enforce it. Now run!",
+  "vocabularyIds": [
+    8241
+  ],
+  "radicalIds": [
+    124,
+    10
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%B5%B4"
+}

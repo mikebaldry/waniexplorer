@@ -1,0 +1,37 @@
+{
+  "id": 4496,
+  "type": "vocabulary",
+  "characters": "罰ゲーム",
+  "primaryMeaning": "Batsu Game",
+  "otherMeanings": [
+    "Penalty Game"
+  ],
+  "primaryReading": "ばつげーむ",
+  "otherReadings": [
+    "ばつゲーム"
+  ],
+  "kanji": [
+    {
+      "id": 1155,
+      "character": "罰",
+      "readings": [
+        "ばつ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>penalty</kanji> <kanji>game</kanji> (ゲーム) is a fun kind of game you see on Japanese television a lot. When you mess up, you are punished. Usually it hurts. You can call this a <vocabulary>batsu game</vocabulary> or a <vocabulary>penalty game</vocabulary>. Don't call it anything else, though, or you know what happens...",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%BD%B0%E3%82%B2%E3%83%BC%E3%83%A0",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "罰",
+      "id": 1155,
+      "reading": "ばつ"
+    },
+    {
+      "type": "kana",
+      "value": "ゲーム"
+    }
+  ]
+}

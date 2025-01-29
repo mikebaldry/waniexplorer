@@ -1,0 +1,45 @@
+{
+  "id": 4669,
+  "type": "vocabulary",
+  "characters": "担当",
+  "primaryMeaning": "In Charge",
+  "otherMeanings": [],
+  "primaryReading": "たんとう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1217,
+      "character": "担",
+      "readings": [
+        "たん",
+        "にな",
+        "かつ"
+      ]
+    },
+    {
+      "id": 571,
+      "character": "当",
+      "readings": [
+        "とう",
+        "あ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You <kanji>carry</kanji> everyone else and you are always <kanji>right</kanji>. With these traits, you are <vocabulary>in charge</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8B%85%E5%BD%93",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "担",
+      "id": 1217,
+      "reading": "たん"
+    },
+    {
+      "type": "kanji",
+      "value": "当",
+      "id": 571,
+      "reading": "とう"
+    }
+  ]
+}

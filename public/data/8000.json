@@ -1,0 +1,50 @@
+{
+  "id": 8000,
+  "type": "vocabulary",
+  "characters": "不浄",
+  "primaryMeaning": "Uncleanliness",
+  "otherMeanings": [
+    "Dirtiness",
+    "Impurity",
+    "Filthiness",
+    "Defilement"
+  ],
+  "primaryReading": "ふじょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 563,
+      "character": "不",
+      "readings": [
+        "ふ",
+        "ぶ"
+      ]
+    },
+    {
+      "id": 2192,
+      "character": "浄",
+      "readings": [
+        "じょう",
+        "せい",
+        "きよ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you have <kanji>not</kanji> <kanji>cleanse</kanji>d yourself you're going to be covered in <vocabulary>uncleanliness</vocabulary> and <vocabulary>dirtiness</vocabulary>. Eww. ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%8D%E6%B5%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "不",
+      "id": 563,
+      "reading": "ふ"
+    },
+    {
+      "type": "kanji",
+      "value": "浄",
+      "id": 2192,
+      "reading": "じょう"
+    }
+  ]
+}

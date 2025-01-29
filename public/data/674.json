@@ -1,0 +1,40 @@
+{
+  "id": 674,
+  "type": "kanji",
+  "character": "魚",
+  "primaryMeaning": "Fish",
+  "otherMeanings": [],
+  "primaryReading": "ぎょ",
+  "readings": [
+    {
+      "reading": "ぎょ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "さかな",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "うお",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You catch a <kanji>fish</kanji>. As you pull it out of the water, it starts yelling and pointing: \"<reading>GO</reading>!\" (ぎょ). \"GO GYO GYO GYO!\" There's a huge cruise ship coming right towards your little fishing boat. No wonder the fish was yelling GO at you.",
+  "meaningMnemonic": "The radical <radical>fish</radical> and the kanji <kanji>fish</kanji> are exactly the same!",
+  "vocabularyIds": [
+    2982,
+    2983,
+    2984,
+    3121,
+    4804,
+    6838,
+    9333
+  ],
+  "radicalIds": [
+    150
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%AD%9A"
+}

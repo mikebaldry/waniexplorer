@@ -1,0 +1,47 @@
+{
+  "id": 6737,
+  "type": "vocabulary",
+  "characters": "泥沼",
+  "primaryMeaning": "Quagmire",
+  "otherMeanings": [
+    "Bog",
+    "Morass"
+  ],
+  "primaryReading": "どろぬま",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1456,
+      "character": "泥",
+      "readings": [
+        "どろ",
+        "でい"
+      ]
+    },
+    {
+      "id": 1866,
+      "character": "沼",
+      "readings": [
+        "ぬま",
+        "しょう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>mud</kanji>dy <kanji>bog</kanji> is a way of describing a <vocabulary>quagmire</vocabulary>. It’s a bog with almost no water left, having become all muddy and sticky. Gross (and dangerous)!\n\nThis word is typically used figuratively to describe a situation where a conflict becomes messy and difficult to resolve, or a problem from which it is difficult to extricate oneself.",
+  "readingMnemonic": "The readings are the vocab readings of the two words, 泥 and 沼.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B3%A5%E6%B2%BC",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "泥",
+      "id": 1456,
+      "reading": "どろ"
+    },
+    {
+      "type": "kanji",
+      "value": "沼",
+      "id": 1866,
+      "reading": "ぬま"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": 7928,
+  "type": "vocabulary",
+  "characters": "貫通",
+  "primaryMeaning": "Pierce",
+  "otherMeanings": [
+    "Penetrate",
+    "Perforate"
+  ],
+  "primaryReading": "かんつう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2156,
+      "character": "貫",
+      "readings": [
+        "かん",
+        "つらぬ",
+        "ぬき",
+        "ぬ"
+      ]
+    },
+    {
+      "id": 665,
+      "character": "通",
+      "readings": [
+        "つう",
+        "とお",
+        "かよ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you <kanji>pierce</kanji> some fabric with a needle it needs to <kanji>pass through</kanji> to the other side to actually <vocabulary>pierce</vocabulary> and <vocabulary>penetrate</vocabulary> it. Make sure it goes all the way through if you want to sew properly.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%B2%AB%E9%80%9A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "貫",
+      "id": 2156,
+      "reading": "かん"
+    },
+    {
+      "type": "kanji",
+      "value": "通",
+      "id": 665,
+      "reading": "つう"
+    }
+  ]
+}

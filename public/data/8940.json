@@ -1,0 +1,37 @@
+{
+  "id": 8940,
+  "type": "vocabulary",
+  "characters": "従える",
+  "primaryMeaning": "To Be Accompanied By",
+  "otherMeanings": [
+    "To Have In Tow",
+    "To Take Along"
+  ],
+  "primaryReading": "したがえる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1293,
+      "character": "従",
+      "readings": [
+        "じゅう",
+        "したが"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb.\n\nThe kanji itself means <kanji>obey</kanji>, but the verb meaning is a bit different. In most contexts, it often just means <vocabulary>to be accompanied by</vocabulary> someone or <vocabulary>to have in tow</vocabulary>. To help you remember this, imagine that everyone you're accompanied by obeys you! You're sort of their leader, so you go everywhere with them following in tow.\n\n従える is a relatively formal word that's often used in literature.",
+  "readingMnemonic": "Since this word has okurigana (hiragana attached to the kanji) you know that it's probably going to be the kun'yomi reading. You already learned this reading with 従う. Remember it?\n",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BE%93%E3%81%88%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "従",
+      "id": 1293,
+      "reading": "したが"
+    },
+    {
+      "type": "kana",
+      "value": "える"
+    }
+  ]
+}

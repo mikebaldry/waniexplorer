@@ -1,0 +1,36 @@
+{
+  "id": 4291,
+  "type": "vocabulary",
+  "characters": "お尻",
+  "primaryMeaning": "Butt",
+  "otherMeanings": [
+    "Buttocks",
+    "Bottom"
+  ],
+  "primaryReading": "おしり",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1100,
+      "character": "尻",
+      "readings": [
+        "しり"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The お is just there to be nice to your butt. This word simply means <vocabulary>butt</vocabulary> (or any other word for it, like <vocabulary>buttocks</vocabulary> or <vocabulary>bottom</vocabulary>).",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E3%81%8A%E5%B0%BB",
+  "elements": [
+    {
+      "type": "kana",
+      "value": "お"
+    },
+    {
+      "type": "kanji",
+      "value": "尻",
+      "id": 1100,
+      "reading": "しり"
+    }
+  ]
+}

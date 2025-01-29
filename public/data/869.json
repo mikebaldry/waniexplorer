@@ -1,0 +1,33 @@
+{
+  "id": 869,
+  "type": "kanji",
+  "character": "練",
+  "primaryMeaning": "Practice",
+  "otherMeanings": [],
+  "primaryReading": "れん",
+  "readings": [
+    {
+      "reading": "れん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ね",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You do all of this <kanji>practice</kanji> to try and afford all of your <reading>ren</reading>tals (れん). One day, all of this practice will pay for all of your rentals.",
+  "meaningMnemonic": "Pointing a <radical>thread</radical> to the <radical>east</radical> is what you <kanji>practice</kanji> every day. You're incredibly passionate about eastward thread-pointing, so you make sure to practice every day.",
+  "vocabularyIds": [
+    3619,
+    3905,
+    4113,
+    4135
+  ],
+  "radicalIds": [
+    86,
+    224
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%B7%B4"
+}

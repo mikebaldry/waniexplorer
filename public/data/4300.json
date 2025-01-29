@@ -1,0 +1,47 @@
+{
+  "id": 4300,
+  "type": "vocabulary",
+  "characters": "火災",
+  "primaryMeaning": "Fire Disaster",
+  "otherMeanings": [
+    "Conflagration"
+  ],
+  "primaryReading": "かさい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 480,
+      "character": "火",
+      "readings": [
+        "か",
+        "ひ",
+        "ほ"
+      ]
+    },
+    {
+      "id": 1089,
+      "character": "災",
+      "readings": [
+        "さい",
+        "わざわ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>fire</kanji> <kanji>disaster</kanji> is a <vocabulary>fire disaster</vocabulary>, or a <vocabulary>conflagration</vocabulary>.\n\n火災 is a more formal version of 火事. It usually refers to a serious and significant fire that causes extensive damage or loss of life.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%81%AB%E7%81%BD",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "火",
+      "id": 480,
+      "reading": "か"
+    },
+    {
+      "type": "kanji",
+      "value": "災",
+      "id": 1089,
+      "reading": "さい"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 8278,
+  "type": "vocabulary",
+  "characters": "弦",
+  "primaryMeaning": "Bowstring",
+  "otherMeanings": [
+    "String"
+  ],
+  "primaryReading": "つる",
+  "otherReadings": [
+    "げん"
+  ],
+  "kanji": [
+    {
+      "id": 2312,
+      "character": "弦",
+      "readings": [
+        "げん",
+        "つる"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You did not learn this reading, so here's a mnemonic to help you: \n\nSnap all the <vocabulary>bowstring</vocabulary>s! Now none of the musicians can play their instruments. \"You're <reading>too ru</reading>de (つる)!\" they yell, as they cry over the snapped bowstrings. They aren't wrong, that was just too rude of you.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BC%A6",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "弦",
+      "id": 2312,
+      "reading": "つる"
+    }
+  ]
+}

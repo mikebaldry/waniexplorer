@@ -1,0 +1,30 @@
+{
+  "id": 8449,
+  "type": "vocabulary",
+  "characters": "帆",
+  "primaryMeaning": "Sail",
+  "otherMeanings": [],
+  "primaryReading": "ほ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2389,
+      "character": "帆",
+      "readings": [
+        "はん",
+        "ほ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You did not learn this reading, so here's a mnemonic to help you: \n\nWhen you <vocabulary>sail</vocabulary> in a ship you can't forget to bring a garden <reading>hoe</reading> (ほ). If you lose your sails or your paddles, you can always use a hoe to paddle your way back. Or if you wreck on an island you can use the hoe to garden so you won't die of starvation! Hoes are very handy!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B8%86",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "帆",
+      "id": 2389,
+      "reading": "ほ"
+    }
+  ]
+}

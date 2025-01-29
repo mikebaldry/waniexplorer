@@ -1,0 +1,45 @@
+{
+  "id": 6276,
+  "type": "vocabulary",
+  "characters": "片手",
+  "primaryMeaning": "One Handed",
+  "otherMeanings": [],
+  "primaryReading": "かたて",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1718,
+      "character": "片",
+      "readings": [
+        "かた",
+        "へん"
+      ]
+    },
+    {
+      "id": 474,
+      "character": "手",
+      "readings": [
+        "て",
+        "しゅ",
+        "ず"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>one sided</kanji> <kanji>hand</kanji> is one of your hands, that means you're doing something <vocabulary>one handed</vocabulary>.",
+  "readingMnemonic": "These readings are the ones you learned with both of these kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%89%87%E6%89%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "片",
+      "id": 1718,
+      "reading": "かた"
+    },
+    {
+      "type": "kanji",
+      "value": "手",
+      "id": 474,
+      "reading": "て"
+    }
+  ]
+}

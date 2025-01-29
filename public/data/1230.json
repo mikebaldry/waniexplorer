@@ -1,0 +1,39 @@
+{
+  "id": 1230,
+  "type": "kanji",
+  "character": "載",
+  "primaryMeaning": "Place On",
+  "otherMeanings": [
+    "Put On"
+  ],
+  "primaryReading": "さい",
+  "readings": [
+    {
+      "reading": "さい",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "の",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You have a lot of crosses to <kanji>place on</kanji> drunkard cars, so you get your <reading>cy</reading>borg (さい) to do it for you. The cyborg doesn't need sleep, so it can patrol the streets 24/7 for the sake of public safety. What a saintly cyborg.",
+  "meaningMnemonic": "You have a <radical>cross</radical> for a <radical>drunkard</radical>'s <radical>car</radical>, to <kanji>place on</kanji> its dashboard. Drunkards should not drive, and when you <kanji>put on</kanji> a cross, it prevents the car from starting!",
+  "vocabularyIds": [
+    4698,
+    4699,
+    4700,
+    4883,
+    6133,
+    7511,
+    7990
+  ],
+  "radicalIds": [
+    15,
+    194,
+    93
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%BC%89"
+}

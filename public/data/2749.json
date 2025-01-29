@@ -1,0 +1,33 @@
+{
+  "id": 2749,
+  "type": "vocabulary",
+  "characters": "〜回",
+  "primaryMeaning": "Times",
+  "otherMeanings": [
+    "Number Of Times",
+    "Time"
+  ],
+  "primaryReading": "かい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 569,
+      "character": "回",
+      "readings": [
+        "かい",
+        "まわ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "The reading is the on'yomi reading which you learned with the kanji. This is probably because this word gets attached to numbers usually, which makes it behave more like jukugo. So, you can have １回, ２回, ３回, or even １００回 if you're into that sort of thing.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E3%80%9C%E5%9B%9E",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "回",
+      "id": 569,
+      "reading": "かい"
+    }
+  ]
+}

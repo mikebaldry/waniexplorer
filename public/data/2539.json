@@ -1,0 +1,53 @@
+{
+  "id": 2539,
+  "type": "vocabulary",
+  "characters": "上手",
+  "primaryMeaning": "Good At",
+  "otherMeanings": [
+    "Skillful",
+    "Skilled At",
+    "Skilled"
+  ],
+  "primaryReading": "じょうず",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 450,
+      "character": "上",
+      "readings": [
+        "じょう",
+        "うえ",
+        "あ",
+        "のぼ",
+        "うわ",
+        "かみ"
+      ]
+    },
+    {
+      "id": 474,
+      "character": "手",
+      "readings": [
+        "て",
+        "しゅ",
+        "ず"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Think of someone holding out their hand. This is average. Things rated below the hand are things you're bad at. Things rated <kanji>above</kanji> the <kanji>hand</kanji> are things you're <vocabulary>good at</vocabulary>.",
+  "readingMnemonic": "Both of these kanji use on'yomi readings, though 手 uses an on'yomi reading you didn't learn with the kanji. It's a rare reading, so it wasn't included (and we just have to deal with exceptions like this as we go along). To remember the reading for this word, here's a mnemonic:\n\nWhat are you good at? You're really <vocabulary>good at</vocabulary> taking <reading>Joe</reading> (じょう) to the <reading>zoo</reading> (ず). No one else can take Joe to the zoo—he gets mad and throws them into the animal enclosures. But you? Joe trusts you.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%8A%E6%89%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "上",
+      "id": 450,
+      "reading": "じょう"
+    },
+    {
+      "type": "kanji",
+      "value": "手",
+      "id": 474,
+      "reading": "ず"
+    }
+  ]
+}

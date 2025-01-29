@@ -1,0 +1,51 @@
+{
+  "id": 8253,
+  "type": "vocabulary",
+  "characters": "凛々しい",
+  "primaryMeaning": "Gallant",
+  "otherMeanings": [
+    "Manly",
+    "Distinguished",
+    "Noble"
+  ],
+  "primaryReading": "りりしい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2325,
+      "character": "凛",
+      "readings": [
+        "りん",
+        "きびし"
+      ]
+    },
+    {
+      "id": 856,
+      "character": "々",
+      "readings": [
+        "のま"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>cold</kanji> <kanji>cold</kanji> person is so cold that they're super cool. They're sooo cool and <vocabulary>gallant</vocabulary> and <vocabulary>manly</vocabulary>. Touch a manly person and feel how cold their skin is. It's like that all the way down to their heart.",
+  "readingMnemonic": "Usually when you see 々 it means that the reading is two on'yomi readings repeating. Well this is a bit of an exception. Saying りんりん is kinda hard so just drop the んs and you'll have the reading りり!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%87%9B%E3%80%85%E3%81%97%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "凛",
+      "id": 2325,
+      "reading": "り"
+    },
+    {
+      "type": "kanji",
+      "value": "々",
+      "id": 2325,
+      "reading": "り"
+    },
+    {
+      "type": "kana",
+      "value": "しい"
+    }
+  ]
+}

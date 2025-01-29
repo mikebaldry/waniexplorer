@@ -1,0 +1,44 @@
+{
+  "id": 6571,
+  "type": "vocabulary",
+  "characters": "到着",
+  "primaryMeaning": "Arrival",
+  "otherMeanings": [],
+  "primaryReading": "とうちゃく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1805,
+      "character": "到",
+      "readings": [
+        "とう"
+      ]
+    },
+    {
+      "id": 846,
+      "character": "着",
+      "readings": [
+        "ちゃく",
+        "き",
+        "つ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "At the <kanji>arrival</kanji> time you will <kanji>arrive</kanji>. This is your <vocabulary>arrival</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%88%B0%E7%9D%80",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "到",
+      "id": 1805,
+      "reading": "とう"
+    },
+    {
+      "type": "kanji",
+      "value": "着",
+      "id": 846,
+      "reading": "ちゃく"
+    }
+  ]
+}

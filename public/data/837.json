@@ -1,0 +1,36 @@
+{
+  "id": 837,
+  "type": "kanji",
+  "character": "悲",
+  "primaryMeaning": "Sad",
+  "otherMeanings": [],
+  "primaryReading": "ひ",
+  "readings": [
+    {
+      "reading": "ひ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "かな",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "The <kanji>sad</kanji> feelings fill the criminal's body with <reading>he</reading>at (ひ). This heat spreads and radiates out. If you walk next to them on the street, you'll feel the sad heat floating by you.",
+  "meaningMnemonic": "A <radical>criminal</radical>'s <radical>heart</radical> will always be <kanji>sad</kanji>. No one chooses a life of crime if they're happy. And even if they seem like they're doing fine on the outside, deep down they're really sad.",
+  "vocabularyIds": [
+    3376,
+    3797,
+    5808,
+    7084,
+    7695,
+    7793,
+    7983
+  ],
+  "radicalIds": [
+    209,
+    65
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%82%B2"
+}

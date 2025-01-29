@@ -1,0 +1,34 @@
+{
+  "id": 597,
+  "type": "kanji",
+  "character": "里",
+  "primaryMeaning": "Hometown",
+  "otherMeanings": [
+    "Village"
+  ],
+  "primaryReading": "さと",
+  "readings": [
+    {
+      "reading": "さと",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "り",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Your <kanji>hometown</kanji> is where you <reading>sat</reading> (さと), nostalgia tugging at your heartstrings amid the endless rice fields and dirt.",
+  "meaningMnemonic": "The <radical>village</radical> you always think of first is your <kanji>hometown</kanji>. ",
+  "vocabularyIds": [
+    3647,
+    6549,
+    9042,
+    9043
+  ],
+  "radicalIds": [
+    125
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%87%8C"
+}

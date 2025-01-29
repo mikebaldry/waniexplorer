@@ -1,0 +1,59 @@
+{
+  "id": 9048,
+  "type": "vocabulary",
+  "characters": "乗車券",
+  "primaryMeaning": "Passenger Ticket",
+  "otherMeanings": [
+    "Ticket"
+  ],
+  "primaryReading": "じょうしゃけん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 722,
+      "character": "乗",
+      "readings": [
+        "の",
+        "じょう"
+      ]
+    },
+    {
+      "id": 562,
+      "character": "車",
+      "readings": [
+        "しゃ",
+        "くるま"
+      ]
+    },
+    {
+      "id": 1361,
+      "character": "券",
+      "readings": [
+        "けん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you want to <kanji>ride</kanji> in a <kanji>car</kanji>, the <kanji>ticket</kanji> you'll need is a <vocabulary>passenger ticket</vocabulary>.\n\n乗車券 is primarily a <vocabulary>ticket</vocaburaly> for a train ride, so think of \"car\" here as a train car. It can also refer to tickets for other rides, like Ferris wheels, cable cars, ropeways, or certain buses that require a prior ticket purchase.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B9%97%E8%BB%8A%E5%88%B8",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "乗",
+      "id": 722,
+      "reading": "じょう"
+    },
+    {
+      "type": "kanji",
+      "value": "車",
+      "id": 562,
+      "reading": "しゃ"
+    },
+    {
+      "type": "kanji",
+      "value": "券",
+      "id": 1361,
+      "reading": "けん"
+    }
+  ]
+}

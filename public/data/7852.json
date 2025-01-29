@@ -1,0 +1,33 @@
+{
+  "id": 7852,
+  "type": "vocabulary",
+  "characters": "隅",
+  "primaryMeaning": "Corner",
+  "otherMeanings": [
+    "Nook",
+    "Recess"
+  ],
+  "primaryReading": "すみ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2136,
+      "character": "隅",
+      "readings": [
+        "すみ",
+        "ぐう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9A%85",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "隅",
+      "id": 2136,
+      "reading": "すみ"
+    }
+  ]
+}

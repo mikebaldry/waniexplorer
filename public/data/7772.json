@@ -1,0 +1,38 @@
+{
+  "id": 7772,
+  "type": "vocabulary",
+  "characters": "怒らせる",
+  "primaryMeaning": "To Anger Someone",
+  "otherMeanings": [
+    "To Provoke",
+    "To Offend Someone"
+  ],
+  "primaryReading": "おこらせる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1330,
+      "character": "怒",
+      "readings": [
+        "ど",
+        "おこ",
+        "いか"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Remember how you learned that 怒る means \"to get angry?\" Well this is when someone else gets angry and it's because YOU made them angry. It means <vocabulary>to anger someone</vocabulary>.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You learned this reading when you learned 怒る, so you should know this one too!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%80%92%E3%82%89%E3%81%9B%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "怒",
+      "id": 1330,
+      "reading": "おこ"
+    },
+    {
+      "type": "kana",
+      "value": "らせる"
+    }
+  ]
+}

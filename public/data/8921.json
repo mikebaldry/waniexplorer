@@ -1,0 +1,55 @@
+{
+  "id": 8921,
+  "type": "vocabulary",
+  "characters": "一蹴する",
+  "primaryMeaning": "To Kick",
+  "otherMeanings": [
+    "To Reject",
+    "To Flatly Reject",
+    "To Brush Aside",
+    "To Easily Beat"
+  ],
+  "primaryReading": "いっしゅうする",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 440,
+      "character": "一",
+      "readings": [
+        "いち",
+        "いつ",
+        "ひと",
+        "かず"
+      ]
+    },
+    {
+      "id": 8913,
+      "character": "蹴",
+      "readings": [
+        "け",
+        "しゅう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Giving <kanji>one</kanji> <kanji>kick</kanji> is certainly an effective (if brutal) way <vocabulary>to flatly reject</vocabulary> or <vocabulary>to brush aside</vocabulary> something or someone. That one kick can also be used <vocabulary>to easily beat</vocabulary> anyone.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji.  First up, notice that <reading>いち</reading> changes to <reading>いっ</reading>. And since you haven't learned the on'yomi for the kanji <kanji>蹴</kanji> (kick) yet, here's a mnemonic to help you:\n\nWhen you're planning <vocabulary>to flatly reject</vocabulary> someone, one <kanji>kick</kanji> is all you need. Before you do that, be absolutely sure to put your <reading>shoe</reading> (しゅう) on first.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%80%E8%B9%B4%E3%81%99%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "一",
+      "id": 440,
+      "reading": "いっ"
+    },
+    {
+      "type": "kanji",
+      "value": "蹴",
+      "id": 8913,
+      "reading": "しゅう"
+    },
+    {
+      "type": "kana",
+      "value": "する"
+    }
+  ]
+}

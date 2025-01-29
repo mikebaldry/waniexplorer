@@ -1,0 +1,35 @@
+{
+  "id": 1242,
+  "type": "kanji",
+  "character": "質",
+  "primaryMeaning": "Quality",
+  "otherMeanings": [],
+  "primaryReading": "しつ",
+  "readings": [
+    {
+      "reading": "しつ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "しち",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "You finally get all of the shellfish open and you're admiring their <kanji>quality</kanji>, when your <reading>shih tzu</reading> (しつ) jumps up on the table and gobbles them down. NO! You try to chase after the little dog, but it's too late. They're gone.",
+  "meaningMnemonic": "You have to use two <radical>axe</radical>s to open these <radical>shellfish</radical>. That seems like overkill, but it is necessary. These particular shellfish are of very high <kanji>quality</kanji> meaning they won't open so easily.",
+  "vocabularyIds": [
+    4736,
+    4737,
+    4738,
+    4739,
+    4740,
+    7766
+  ],
+  "radicalIds": [
+    115,
+    94
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%B3%AA"
+}

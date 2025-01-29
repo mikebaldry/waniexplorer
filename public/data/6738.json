@@ -1,0 +1,46 @@
+{
+  "id": 6738,
+  "type": "vocabulary",
+  "characters": "沼沢",
+  "primaryMeaning": "Swamp",
+  "otherMeanings": [
+    "Marsh"
+  ],
+  "primaryReading": "しょうたく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1866,
+      "character": "沼",
+      "readings": [
+        "ぬま",
+        "しょう"
+      ]
+    },
+    {
+      "id": 1208,
+      "character": "沢",
+      "readings": [
+        "たく",
+        "さわ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>bog</kanji> <kanji>swamp</kanji> is a <vocabulary>swamp</vocabulary> or <vocabulary>marsh</vocabulary>.",
+  "readingMnemonic": "Oddly, this is the one word that uses the on'yomi reading, which you didn't learn with the kanji. To remember this particular <vocabulary>swamp</vocabulary>, note how there are two kanji in here that make this area particularly swampy. Because it's the swampiest, boggiest place in all of Japan, of course the <reading>Sho</reading>gun (しょう) wants it for himself. Even though it's useless land, he wants the best of everything, being the Shogun and all.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B2%BC%E6%B2%A2",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "沼",
+      "id": 1866,
+      "reading": "しょう"
+    },
+    {
+      "type": "kanji",
+      "value": "沢",
+      "id": 1208,
+      "reading": "たく"
+    }
+  ]
+}

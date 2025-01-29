@@ -1,0 +1,36 @@
+{
+  "id": 1505,
+  "type": "kanji",
+  "character": "密",
+  "primaryMeaning": "Secrecy",
+  "otherMeanings": [],
+  "primaryReading": "みつ",
+  "readings": [
+    {
+      "reading": "みつ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ひそ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "This <kanji>secrecy</kanji> is so secret that the people who know about it wear magical <reading>mitts</reading> (みつ) of secrecy that make it so we can't tell anyone, no matter what.",
+  "meaningMnemonic": "Standing on your <radical>roof</radical>, you're <radical>certain</radical> that the nearby <radical>mountain</radical> is shrouded in <kanji>secrecy</kanji>. But you can't do much about it, stuck on your roof as you are. So much secrecy, but so far away.\n\n",
+  "vocabularyIds": [
+    5577,
+    5578,
+    5579,
+    5580,
+    5581,
+    7908
+  ],
+  "radicalIds": [
+    78,
+    343,
+    20
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%AF%86"
+}

@@ -1,0 +1,42 @@
+{
+  "id": 5568,
+  "type": "vocabulary",
+  "characters": "党員",
+  "primaryMeaning": "Party Member",
+  "otherMeanings": [],
+  "primaryReading": "とういん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1500,
+      "character": "党",
+      "readings": [
+        "とう"
+      ]
+    },
+    {
+      "id": 821,
+      "character": "員",
+      "readings": [
+        "いん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>party</kanji> <kanji>member</kanji> is <vocabulary>party member</vocabulary> of a political party.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%85%9A%E5%93%A1",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "党",
+      "id": 1500,
+      "reading": "とう"
+    },
+    {
+      "type": "kanji",
+      "value": "員",
+      "id": 821,
+      "reading": "いん"
+    }
+  ]
+}

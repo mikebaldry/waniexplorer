@@ -1,0 +1,47 @@
+{
+  "id": 3531,
+  "type": "vocabulary",
+  "characters": "疑問",
+  "primaryMeaning": "Doubt",
+  "otherMeanings": [
+    "Question"
+  ],
+  "primaryReading": "ぎもん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 894,
+      "character": "疑",
+      "readings": [
+        "ぎ",
+        "うたが"
+      ]
+    },
+    {
+      "id": 859,
+      "character": "問",
+      "readings": [
+        "もん",
+        "と",
+        "とん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>doubt</kanji> <kanji>problem</kanji> is caused by having too much <vocabulary>doubt</vocabulary>. Just think about it. Don't doubt yourself, it's why you're getting those vocab words wrong! :P",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%96%91%E5%95%8F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "疑",
+      "id": 894,
+      "reading": "ぎ"
+    },
+    {
+      "type": "kanji",
+      "value": "問",
+      "id": 859,
+      "reading": "もん"
+    }
+  ]
+}

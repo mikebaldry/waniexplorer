@@ -1,0 +1,37 @@
+{
+  "id": 8720,
+  "type": "vocabulary",
+  "characters": "迷い",
+  "primaryMeaning": "Hesitation",
+  "otherMeanings": [
+    "Indecision",
+    "Doubt"
+  ],
+  "primaryReading": "まよい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1325,
+      "character": "迷",
+      "readings": [
+        "めい",
+        "まよ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Remember how you learned that 迷う means \"to go astray\" or \"to get lost?\" Well when you feel like you're about to go astray or get lost it causes <vocabulary>hesitation</vocabulary>. You end up with a lot of <vocabulary>doubt</vocabulary> about where to go or what to do. It's a natural progression.",
+  "readingMnemonic": "You learned this reading already when you learned 迷う! Just swap the う for an い.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%BF%B7%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "迷",
+      "id": 1325,
+      "reading": "まよ"
+    },
+    {
+      "type": "kana",
+      "value": "い"
+    }
+  ]
+}

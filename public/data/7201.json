@@ -1,0 +1,59 @@
+{
+  "id": 7201,
+  "type": "vocabulary",
+  "characters": "水彩画",
+  "primaryMeaning": "Watercolor Painting",
+  "otherMeanings": [],
+  "primaryReading": "すいさいが",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 479,
+      "character": "水",
+      "readings": [
+        "すい",
+        "みず"
+      ]
+    },
+    {
+      "id": 2028,
+      "character": "彩",
+      "readings": [
+        "さい",
+        "いろど",
+        "あや"
+      ]
+    },
+    {
+      "id": 629,
+      "character": "画",
+      "readings": [
+        "が",
+        "かく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>water</kanji> <kanji>coloring</kanji> <kanji>painting</kanji> is a <vocabulary>watercolor painting</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B0%B4%E5%BD%A9%E7%94%BB",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "水",
+      "id": 479,
+      "reading": "すい"
+    },
+    {
+      "type": "kanji",
+      "value": "彩",
+      "id": 2028,
+      "reading": "さい"
+    },
+    {
+      "type": "kanji",
+      "value": "画",
+      "id": 629,
+      "reading": "が"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 4907,
+  "type": "vocabulary",
+  "characters": "届ける",
+  "primaryMeaning": "To Deliver",
+  "otherMeanings": [],
+  "primaryReading": "とどける",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1224,
+      "character": "届",
+      "readings": [
+        "とど"
+      ]
+    }
+  ],
+  "meaningMnemonic": "届く is \"to be delivered.\" This word is when you're doing the actual delivering, making it <vocabulary>to deliver</vocabulary>. You can remember this because you <reading>care</reading> (ける) about the package so much that you deliver it yourself, thus doing the action of delivering it!",
+  "readingMnemonic": "The reading is the same as 届く and you can use that to deliver the memory to your brain.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B1%8A%E3%81%91%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "届",
+      "id": 1224,
+      "reading": "とど"
+    },
+    {
+      "type": "kana",
+      "value": "ける"
+    }
+  ]
+}

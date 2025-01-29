@@ -1,0 +1,34 @@
+{
+  "id": 2133,
+  "type": "kanji",
+  "character": "軒",
+  "primaryMeaning": "House Counter",
+  "otherMeanings": [
+    "Eaves"
+  ],
+  "primaryReading": "けん",
+  "readings": [
+    {
+      "reading": "けん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "のき",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "On top of the <kanji>eaves</kanji> of your house <reading>Ken</reading> (けん) the samurai is counting houses too.",
+  "meaningMnemonic": "Your <radical>car</radical> is <radical>dry</radical> because you kept it under the <kanji>eaves</kanji> of your house. \n\nThis kanji has a second meaning too: <kanji>house counter</kanji>. Imagine counting all the houses on your block by the number of eaves you see keeping cars dry.",
+  "vocabularyIds": [
+    7836,
+    7837,
+    8046
+  ],
+  "radicalIds": [
+    93,
+    61
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%BB%92"
+}

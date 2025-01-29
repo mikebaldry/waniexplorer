@@ -1,0 +1,46 @@
+{
+  "id": 5964,
+  "type": "vocabulary",
+  "characters": "連盟",
+  "primaryMeaning": "League",
+  "otherMeanings": [
+    "Federation"
+  ],
+  "primaryReading": "れんめい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1084,
+      "character": "連",
+      "readings": [
+        "れん",
+        "つ",
+        "つら"
+      ]
+    },
+    {
+      "id": 1615,
+      "character": "盟",
+      "readings": [
+        "めい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If we <kanji>take along</kanji> our <kanji>alliance</kanji> and move it forward to something better, we have a <vocabulary>league</vocabulary> or <vocabulary>federation</vocabulary>. It's like we're one group now!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%80%A3%E7%9B%9F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "連",
+      "id": 1084,
+      "reading": "れん"
+    },
+    {
+      "type": "kanji",
+      "value": "盟",
+      "id": 1615,
+      "reading": "めい"
+    }
+  ]
+}

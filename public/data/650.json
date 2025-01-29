@@ -1,0 +1,43 @@
+{
+  "id": 650,
+  "type": "kanji",
+  "character": "民",
+  "primaryMeaning": "Peoples",
+  "otherMeanings": [
+    "People",
+    "Nation"
+  ],
+  "primaryReading": "みん",
+  "readings": [
+    {
+      "reading": "みん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "たみ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "The mouth clan <kanji>peoples</kanji> are a <kanji>nation</kanji> of <kanji>people</kanji> who use their mouths to say <reading>mean</reading> (みん) things to other peoples.",
+  "meaningMnemonic": "The <radical>mouth</radical> <radical>clan</radical> are a group of <kanji>people</kanji>. They are the <kanji>people</kanji> of a <kanji>nation</kanji>.",
+  "vocabularyIds": [
+    2934,
+    2996,
+    3199,
+    3362,
+    5179,
+    5565,
+    7331,
+    8092,
+    8145,
+    8275,
+    8695
+  ],
+  "radicalIds": [
+    16,
+    147
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%B0%91"
+}

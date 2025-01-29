@@ -1,0 +1,31 @@
+{
+  "id": 1019,
+  "type": "kanji",
+  "character": "察",
+  "primaryMeaning": "Guess",
+  "otherMeanings": [],
+  "primaryReading": "さつ",
+  "readings": [
+    {
+      "reading": "さつ",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "To get a better <kanji>guess</kanji>, you ask <reading>Satsu</reading>ki (さつ) for help. She's that little girl you know from some earlier mnemonics, and she happens to be up on the roof with you. Picture her as you ask, \"What's your guess, Satsuki?\"",
+  "meaningMnemonic": "If you're on the <radical>roof</radical> of the <radical>festival</radical> you'll have to <kanji>guess</kanji> what's actually going on below you. You can kind of see that there are rides and maybe food? It smells like food. But you have to guess on the specifics because you're above it and not in it.",
+  "vocabularyIds": [
+    3976,
+    3977,
+    4044,
+    4349,
+    4383,
+    4708,
+    5281
+  ],
+  "radicalIds": [
+    78,
+    8825
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%AF%9F"
+}

@@ -1,0 +1,106 @@
+{
+  "id": 9218,
+  "object": "kana_vocabulary",
+  "url": "https://api.wanikani.com/v2/subjects/9218",
+  "data_updated_at": "2024-10-15T22:19:13.757893Z",
+  "data": {
+    "created_at": "2023-04-25T00:24:14.607432Z",
+    "level": 10,
+    "slug": "タバコ",
+    "hidden_at": null,
+    "document_url": "https://www.wanikani.com/vocabulary/%E3%82%BF%E3%83%90%E3%82%B3",
+    "characters": "タバコ",
+    "meanings": [
+      {
+        "meaning": "Tobacco",
+        "primary": true,
+        "accepted_answer": true
+      },
+      {
+        "meaning": "Cigarette",
+        "primary": false,
+        "accepted_answer": true
+      }
+    ],
+    "auxiliary_meanings": [
+      {
+        "meaning": "Smoking",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Smoke",
+        "type": "whitelist"
+      }
+    ],
+    "parts_of_speech": [
+      "noun"
+    ],
+    "meaning_mnemonic": "タバコ is the Japanese version of the Portuguese word \"tabaco.\" You probably won’t be shocked to learn that タバコ means <vocabulary>tobacco</vocabulary> or <vocabulary>cigarette</vocabulary> in English!\n\nWatch out for the first syllable, which is タ and not ト. タバコ can also be written in hiragana, and even in kanji, but katakana is the most common by far.",
+    "context_sentences": [
+      {
+        "en": "Oh, I can smell cigarette smoke.",
+        "ja": "あ、タバコのにおいがする。"
+      },
+      {
+        "en": "I've been struggling to quit smoking.",
+        "ja": "タバコが中々やめられないんだ。"
+      },
+      {
+        "en": "It's not good to smoke while walking.",
+        "ja": "歩きタバコはよくないよ。"
+      }
+    ],
+    "pronunciation_audios": [
+      {
+        "url": "https://files.wanikani.com/zymwv8kmky4w83xq1ka2jb1fh27h",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44801,
+          "pronunciation": "タバコ",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/qwfoudco3szmzk4gqalj534xi9y7",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44801,
+          "pronunciation": "タバコ",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      },
+      {
+        "url": "https://files.wanikani.com/cusag0hyj45az7lawtykqtihj9j4",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44733,
+          "pronunciation": "タバコ",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      },
+      {
+        "url": "https://files.wanikani.com/vp1eeqh9udhpaiv0omw45eh1w2hz",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44733,
+          "pronunciation": "タバコ",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      }
+    ],
+    "lesson_position": 60,
+    "spaced_repetition_system_id": 1
+  }
+}

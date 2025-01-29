@@ -1,0 +1,51 @@
+{
+  "id": 7929,
+  "type": "vocabulary",
+  "characters": "貫徹",
+  "primaryMeaning": "Persistence",
+  "otherMeanings": [
+    "Accomplishment",
+    "Carry Through",
+    "Perseverance",
+    "Realization",
+    "Realisation"
+  ],
+  "primaryReading": "かんてつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2156,
+      "character": "貫",
+      "readings": [
+        "かん",
+        "つらぬ",
+        "ぬき",
+        "ぬ"
+      ]
+    },
+    {
+      "id": 1776,
+      "character": "徹",
+      "readings": [
+        "てつ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You have to <kanji>pierce</kanji> this piece of information into your brain until it finally <kanji>penetrate</kanji>s, which takes a lot of <vocabulary>persistence</vocabulary>. Do that and it will be quite the <vocabulary>accomplishment</vocabulary>!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%B2%AB%E5%BE%B9",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "貫",
+      "id": 2156,
+      "reading": "かん"
+    },
+    {
+      "type": "kanji",
+      "value": "徹",
+      "id": 1776,
+      "reading": "てつ"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": 4633,
+  "type": "vocabulary",
+  "characters": "男優",
+  "primaryMeaning": "Actor",
+  "otherMeanings": [
+    "Male Actor"
+  ],
+  "primaryReading": "だんゆう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 555,
+      "character": "男",
+      "readings": [
+        "だん",
+        "なん",
+        "おとこ"
+      ]
+    },
+    {
+      "id": 1206,
+      "character": "優",
+      "readings": [
+        "ゆう",
+        "やさ",
+        "すぐ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>man</kanji> who is <kanji>superior</kanji> to us is an <vocabulary>actor</vocabulary>, or more specifically a <vocabulary>male actor</vocabulary>.\n\nJust a word of warning: over the years this word has taken on the connotation of \"adult film actor\" so most people would use 俳優 for \"actor\" now. You'll be learning that word very soon!",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%94%B7%E5%84%AA",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "男",
+      "id": 555,
+      "reading": "だん"
+    },
+    {
+      "type": "kanji",
+      "value": "優",
+      "id": 1206,
+      "reading": "ゆう"
+    }
+  ]
+}

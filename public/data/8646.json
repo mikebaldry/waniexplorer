@@ -1,0 +1,33 @@
+{
+  "id": 8646,
+  "type": "vocabulary",
+  "characters": "藻",
+  "primaryMeaning": "Seaweed",
+  "otherMeanings": [
+    "Duckweed",
+    "Algae"
+  ],
+  "primaryReading": "も",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2462,
+      "character": "藻",
+      "readings": [
+        "そう",
+        "も"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You did not learn this reading, so here's a mnemonic to help you: \n\nSwim into a floating group of <vocabulary>seaweed</vocabulary> and shivers will go up your spine. It feels so gross and slimy that you can't help but <reading>mo</reading>an (も) out in distress.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%97%BB",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "藻",
+      "id": 2462,
+      "reading": "も"
+    }
+  ]
+}

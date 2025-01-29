@@ -1,0 +1,44 @@
+{
+  "id": 4290,
+  "type": "vocabulary",
+  "characters": "無害",
+  "primaryMeaning": "Harmless",
+  "otherMeanings": [],
+  "primaryReading": "むがい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1008,
+      "character": "無",
+      "readings": [
+        "む",
+        "ぶ",
+        "な"
+      ]
+    },
+    {
+      "id": 1093,
+      "character": "害",
+      "readings": [
+        "がい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Psh, that guy's <kanji>damage</kanji> is <kanji>nothing</kanji>. He's what I'd call \"mostly <vocabulary>harmless</vocabulary>.\"",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%84%A1%E5%AE%B3",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "無",
+      "id": 1008,
+      "reading": "む"
+    },
+    {
+      "type": "kanji",
+      "value": "害",
+      "id": 1093,
+      "reading": "がい"
+    }
+  ]
+}

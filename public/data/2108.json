@@ -1,0 +1,32 @@
+{
+  "id": 2108,
+  "type": "kanji",
+  "character": "伯",
+  "primaryMeaning": "Chief",
+  "otherMeanings": [],
+  "primaryReading": "はく",
+  "readings": [
+    {
+      "reading": "はく",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "お",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "The reading is the same as 白, which is included in this kanji. The other reading is お, and it's like the honorific 御, in a way. You'd want to be polite to someone who is the chief ______, right? That's why it could be お, too.",
+  "meaningMnemonic": "The <radical>leader</radical> all in <radical>white</radical> is the <kanji>chief</kanji>. All the other leaders are wearing some other color, but that's how you tell the chief apart from the other leaders.",
+  "vocabularyIds": [
+    7408,
+    7409,
+    7613
+  ],
+  "radicalIds": [
+    75,
+    52
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E4%BC%AF"
+}

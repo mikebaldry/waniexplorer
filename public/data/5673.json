@@ -1,0 +1,47 @@
+{
+  "id": 5673,
+  "type": "vocabulary",
+  "characters": "収納",
+  "primaryMeaning": "Storage",
+  "otherMeanings": [
+    "Storing"
+  ],
+  "primaryReading": "しゅうのう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1186,
+      "character": "収",
+      "readings": [
+        "しゅう",
+        "おさ"
+      ]
+    },
+    {
+      "id": 1536,
+      "character": "納",
+      "readings": [
+        "のう",
+        "なっ",
+        "おさ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you <kanji>obtain</kanji> <kanji>supply</kanji>, you have to put it all together somewhere. You have to put it in <vocabulary>storage</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8F%8E%E7%B4%8D",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "収",
+      "id": 1186,
+      "reading": "しゅう"
+    },
+    {
+      "type": "kanji",
+      "value": "納",
+      "id": 1536,
+      "reading": "のう"
+    }
+  ]
+}

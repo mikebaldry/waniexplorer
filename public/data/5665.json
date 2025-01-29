@@ -1,0 +1,38 @@
+{
+  "id": 5665,
+  "type": "vocabulary",
+  "characters": "盛る",
+  "primaryMeaning": "To Heap Up",
+  "otherMeanings": [
+    "To Serve Food"
+  ],
+  "primaryReading": "もる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1532,
+      "character": "盛",
+      "readings": [
+        "せい",
+        "じょう",
+        "も",
+        "さか"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>heaps</kanji>, so the verb vocab version is <vocabulary>to heap up</vocabulary>. It can also mean <vocabulary>to serve food</vocabulary>, as in you're heaping on food onto someone's plate.",
+  "readingMnemonic": "Please keep heaping up the food. I want <reading>more</reading> (もる), more, more.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%9B%9B%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "盛",
+      "id": 1532,
+      "reading": "も"
+    },
+    {
+      "type": "kana",
+      "value": "る"
+    }
+  ]
+}

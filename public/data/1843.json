@@ -1,0 +1,28 @@
+{
+  "id": 1843,
+  "type": "kanji",
+  "character": "距",
+  "primaryMeaning": "Distance",
+  "otherMeanings": [],
+  "primaryReading": "きょ",
+  "readings": [
+    {
+      "reading": "きょ",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Going to Little <reading>Kyo</reading>to (きょ) is a short <kanji>distance</kanji> for a giant but a long <kanji>distance</kanji> for you.",
+  "meaningMnemonic": "A <radical>foot</radical> on a <radical>giant</radical> is a pretty long <kanji>distance</kanji> for a normal person to walk. Giants have big feet and can travel large <kanji>distance</kanji>s very quickly.",
+  "vocabularyIds": [
+    6669,
+    6847,
+    6848,
+    6849
+  ],
+  "radicalIds": [
+    95,
+    314
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%B7%9D"
+}

@@ -1,0 +1,48 @@
+{
+  "id": 7067,
+  "type": "vocabulary",
+  "characters": "詐称",
+  "primaryMeaning": "Misrepresentation",
+  "otherMeanings": [
+    "False Statement"
+  ],
+  "primaryReading": "さしょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1981,
+      "character": "詐",
+      "readings": [
+        "さ",
+        "いつわ"
+      ]
+    },
+    {
+      "id": 1698,
+      "character": "称",
+      "readings": [
+        "しょう",
+        "とな",
+        "たた",
+        "ほめ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you <kanji>lie</kanji> about your <kanji>title</kanji>, the title which represents who you are, then that is a <vocabulary>misrepresentation</vocabulary>. A <vocabulary>false statement</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A9%90%E7%A7%B0",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "詐",
+      "id": 1981,
+      "reading": "さ"
+    },
+    {
+      "type": "kanji",
+      "value": "称",
+      "id": 1698,
+      "reading": "しょう"
+    }
+  ]
+}

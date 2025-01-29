@@ -1,0 +1,38 @@
+{
+  "id": 882,
+  "type": "kanji",
+  "character": "熱",
+  "primaryMeaning": "Heat",
+  "otherMeanings": [
+    "Fever"
+  ],
+  "primaryReading": "ねつ",
+  "readings": [
+    {
+      "reading": "ねつ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "あつ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "The <kanji>heat</kanji> from your <kanji>fever</kanji> is making your insides and your head and your entire body spin and boil, until your doctor throws some <reading>nets</reading> (ねつ) around you. You were flailing around and they couldn't get you to stop, so they had to catch you in a series of nets.",
+  "meaningMnemonic": "Your <radical>womb</radical> spins in a <radical>circle</radical> and starts to <radical>boil</radical> with <kanji>heat</kanji>. Uh oh, I think you have a <kanji>fever</kanji>.",
+  "vocabularyIds": [
+    3611,
+    3612,
+    3613,
+    3614,
+    5253,
+    7210
+  ],
+  "radicalIds": [
+    222,
+    223,
+    131
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%86%B1"
+}

@@ -1,0 +1,48 @@
+{
+  "id": 8604,
+  "type": "vocabulary",
+  "characters": "囚人",
+  "primaryMeaning": "Prisoner",
+  "otherMeanings": [
+    "Inmate"
+  ],
+  "primaryReading": "しゅうじん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2459,
+      "character": "囚",
+      "readings": [
+        "しゅう",
+        "とら"
+      ]
+    },
+    {
+      "id": 444,
+      "character": "人",
+      "readings": [
+        "にん",
+        "じん",
+        "ひと",
+        "と"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>criminal</kanji> <kanji>person</kanji> will end up as a <vocabulary>prisoner</vocabulary> or an <vocabulary>inmate</vocabulary> if they get caught! ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%9B%9A%E4%BA%BA",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "囚",
+      "id": 2459,
+      "reading": "しゅう"
+    },
+    {
+      "type": "kanji",
+      "value": "人",
+      "id": 444,
+      "reading": "じん"
+    }
+  ]
+}

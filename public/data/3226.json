@@ -1,0 +1,48 @@
+{
+  "id": 3226,
+  "type": "vocabulary",
+  "characters": "親友",
+  "primaryMeaning": "Close Friend",
+  "otherMeanings": [
+    "Best Friend",
+    "Good Friend"
+  ],
+  "primaryReading": "しんゆう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 770,
+      "character": "親",
+      "readings": [
+        "しん",
+        "おや",
+        "した"
+      ]
+    },
+    {
+      "id": 504,
+      "character": "友",
+      "readings": [
+        "ゆう",
+        "とも"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>friend</kanji> who is like one of your <kanji>parent</kanji>s is someone who will look out for you. They are like family, in fact! That's why this word means <vocabulary>best friend</vocabulary> or <vocabulary>close friend</vocabulary>. Just imagine someone who watches over you like a parent would. This is the way to describe them.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A6%AA%E5%8F%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "親",
+      "id": 770,
+      "reading": "しん"
+    },
+    {
+      "type": "kanji",
+      "value": "友",
+      "id": 504,
+      "reading": "ゆう"
+    }
+  ]
+}

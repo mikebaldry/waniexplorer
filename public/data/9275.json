@@ -1,0 +1,48 @@
+{
+  "id": 9275,
+  "type": "vocabulary",
+  "characters": "炒飯",
+  "primaryMeaning": "Fried Rice",
+  "otherMeanings": [],
+  "primaryReading": "ちゃーはん",
+  "otherReadings": [
+    "チャーハン"
+  ],
+  "kanji": [
+    {
+      "id": 9265,
+      "character": "炒",
+      "readings": [
+        "いた",
+        "い",
+        "しょう",
+        "そう"
+      ]
+    },
+    {
+      "id": 955,
+      "character": "飯",
+      "readings": [
+        "はん",
+        "めし"
+      ]
+    }
+  ],
+  "meaningMnemonic": "What's your favorite <kanji>fry</kanji> <kanji>meal</kanji>? Surely it's <vocabulary>fried rice</vocabulary>, who doesn't love fried rice.\n\nNote that this word is also commonly written in katakana, so you may see it written that way on a menu!",
+  "readingMnemonic": "You know the reading for 飯, but 炒 uses an exceptional reading that you didn't learn. Here's a mnemonic to help you:\n\nDo you know what would bring your <vocabulary>fried rice</vocabulary> to the next level? Some <reading>char</reading>coal (ちゃー)! Next time, just add a little charcoal to your fried rice, and it'll taste so much better. Trust me on this one.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%82%92%E9%A3%AF",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "炒",
+      "id": 9265,
+      "reading": null
+    },
+    {
+      "type": "kanji",
+      "value": "飯",
+      "id": 955,
+      "reading": null
+    }
+  ]
+}

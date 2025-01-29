@@ -1,0 +1,44 @@
+{
+  "id": 4489,
+  "type": "vocabulary",
+  "characters": "昼寝",
+  "primaryMeaning": "Nap",
+  "otherMeanings": [],
+  "primaryReading": "ひるね",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 932,
+      "character": "昼",
+      "readings": [
+        "ひる",
+        "ちゅう"
+      ]
+    },
+    {
+      "id": 1160,
+      "character": "寝",
+      "readings": [
+        "ね",
+        "しん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>noon</kanji> <kanji>sleep</kanji> is sleep you do during the day, also known as a <vocabulary>nap</vocabulary>.",
+  "readingMnemonic": "The readings for this word are both kun'yomi readings. You learned them when you learned the kanji, so you should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%98%BC%E5%AF%9D",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "昼",
+      "id": 932,
+      "reading": "ひる"
+    },
+    {
+      "type": "kanji",
+      "value": "寝",
+      "id": 1160,
+      "reading": "ね"
+    }
+  ]
+}

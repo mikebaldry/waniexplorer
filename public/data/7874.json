@@ -1,0 +1,43 @@
+{
+  "id": 7874,
+  "type": "vocabulary",
+  "characters": "孤島",
+  "primaryMeaning": "Solitary Island",
+  "otherMeanings": [],
+  "primaryReading": "ことう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2161,
+      "character": "孤",
+      "readings": [
+        "こ"
+      ]
+    },
+    {
+      "id": 822,
+      "character": "島",
+      "readings": [
+        "しま",
+        "とう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "An <kanji>orphan</kanji> <kanji>island</kanji> is one that's all alone, without any other island friends or family. That's what makes it a <vocabulary>solitary island</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You didn't learn this reading for 島 yet, so here's a mnemonic to help you:\n\nThere are a few <vocabulary>solitary island</vocabulary>s off the coast of Japan that are actually considered to be a part of <reading>To</reading>kyo (とう). Usually people think Tokyo is just the big city on the mainland, but it includes these little, lonely islands too!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AD%A4%E5%B3%B6",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "孤",
+      "id": 2161,
+      "reading": "こ"
+    },
+    {
+      "type": "kanji",
+      "value": "島",
+      "id": 822,
+      "reading": "とう"
+    }
+  ]
+}

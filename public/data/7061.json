@@ -1,0 +1,45 @@
+{
+  "id": 7061,
+  "type": "vocabulary",
+  "characters": "粘土",
+  "primaryMeaning": "Clay",
+  "otherMeanings": [],
+  "primaryReading": "ねんど",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1978,
+      "character": "粘",
+      "readings": [
+        "ねん",
+        "ねば"
+      ]
+    },
+    {
+      "id": 459,
+      "character": "土",
+      "readings": [
+        "ど",
+        "と",
+        "つち"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Sticky</kanji> <kanji>earth</kanji> is <vocabulary>clay</vocabulary>. Just think about feeling the clay. It's sticky especially when fresh and kind of wet, right?",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B2%98%E5%9C%9F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "粘",
+      "id": 1978,
+      "reading": "ねん"
+    },
+    {
+      "type": "kanji",
+      "value": "土",
+      "id": 459,
+      "reading": "ど"
+    }
+  ]
+}

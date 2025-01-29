@@ -1,0 +1,34 @@
+{
+  "id": 1815,
+  "type": "kanji",
+  "character": "揚",
+  "primaryMeaning": "Hoist",
+  "otherMeanings": [],
+  "primaryReading": "あ",
+  "readings": [
+    {
+      "reading": "あ",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "よう",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Today, you have to <kanji>hoist</kanji> so much stuff. \"<reading>Ah</reading>!\" (あ) you say, \"So much hoisting to do.\" Better get to it!",
+  "meaningMnemonic": "If you have <radical>fingers</radical> it's <radical>easy</radical> to <kanji>hoist</kanji> things above your head. If you don't have fingers, well, it's not so easy.",
+  "vocabularyIds": [
+    6594,
+    6757,
+    6959,
+    8942,
+    9311
+  ],
+  "radicalIds": [
+    63,
+    172
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%8F%9A"
+}

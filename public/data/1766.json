@@ -1,0 +1,32 @@
+{
+  "id": 1766,
+  "type": "kanji",
+  "character": "殖",
+  "primaryMeaning": "Multiply",
+  "otherMeanings": [],
+  "primaryReading": "しょく",
+  "readings": [
+    {
+      "reading": "しょく",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ふ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Just like I said, your problems <kanji>multiply</kanji> before your eyes and give you quite a <reading>shock</reading> (しょく). You really shouldn't be shocked though, because I warned you this would happen.",
+  "meaningMnemonic": "When you go to the <radical>yakuza</radical> to <radical>fix</radical> your problems they'll just <kanji>multiply</kanji>.",
+  "vocabularyIds": [
+    6427,
+    6432,
+    6433
+  ],
+  "radicalIds": [
+    132,
+    8821
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%AE%96"
+}

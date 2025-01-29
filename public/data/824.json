@@ -1,0 +1,28 @@
+{
+  "id": 824,
+  "type": "kanji",
+  "character": "章",
+  "primaryMeaning": "Chapter",
+  "otherMeanings": [],
+  "primaryReading": "しょう",
+  "readings": [
+    {
+      "reading": "しょう",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "You're practicing this specific <kanji>chapter</kanji> because you've been asked to read it for the <reading>Shou</reading>gun (しょう). There will be a bunch of other authors reading chapters of their books to him too, and you want to make a good impression.",
+  "meaningMnemonic": "You <radical>stand</radical> at a podium <radical>early</radical> in the morning to practice reading the <kanji>chapter</kanji> from your latest book.",
+  "vocabularyIds": [
+    3346,
+    3347,
+    8071,
+    8136
+  ],
+  "radicalIds": [
+    55,
+    201
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%AB%A0"
+}

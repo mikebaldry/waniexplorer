@@ -1,0 +1,49 @@
+{
+  "id": 2790,
+  "type": "vocabulary",
+  "characters": "入学",
+  "primaryMeaning": "School Admission",
+  "otherMeanings": [
+    "University Admission",
+    "Entry Into School",
+    "Enrollment"
+  ],
+  "primaryReading": "にゅうがく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 445,
+      "character": "入",
+      "readings": [
+        "にゅう",
+        "はい",
+        "い"
+      ]
+    },
+    {
+      "id": 599,
+      "character": "学",
+      "readings": [
+        "がく",
+        "まな"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You <kanji>enter</kanji> into a <kanji>study</kanji> (place). When does this happen? It happens when you get accepted into a school, aka <vocabulary>school admission</vocabulary>, <vocabulary>university admission</vocabulary>, or <vocabulary>entry into school</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%85%A5%E5%AD%A6",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "入",
+      "id": 445,
+      "reading": "にゅう"
+    },
+    {
+      "type": "kanji",
+      "value": "学",
+      "id": 599,
+      "reading": "がく"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 6500,
+  "type": "vocabulary",
+  "characters": "廃棄",
+  "primaryMeaning": "Disposal",
+  "otherMeanings": [
+    "Disposing",
+    "Scrapping"
+  ],
+  "primaryReading": "はいき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1622,
+      "character": "廃",
+      "readings": [
+        "はい",
+        "すた"
+      ]
+    },
+    {
+      "id": 1783,
+      "character": "棄",
+      "readings": [
+        "き"
+      ]
+    }
+  ],
+  "meaningMnemonic": "It's <kanji>obsolete</kanji>, so you’re going to <kanji>abandon</kanji> it. This is the act of <vocabulary>disposal</vocabulary>. Whatever it is, you’re <vocabulary>disposing</vocabulary> of or <vocabulary>scrapping</vocabulary> it because it’s no longer needed.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BB%83%E6%A3%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "廃",
+      "id": 1622,
+      "reading": "はい"
+    },
+    {
+      "type": "kanji",
+      "value": "棄",
+      "id": 1783,
+      "reading": "き"
+    }
+  ]
+}

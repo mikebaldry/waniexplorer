@@ -1,0 +1,47 @@
+{
+  "id": 8648,
+  "type": "vocabulary",
+  "characters": "野蛮",
+  "primaryMeaning": "Savage",
+  "otherMeanings": [
+    "Uncivilized",
+    "Uncivilised"
+  ],
+  "primaryReading": "やばん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 848,
+      "character": "野",
+      "readings": [
+        "や",
+        "の"
+      ]
+    },
+    {
+      "id": 2464,
+      "character": "蛮",
+      "readings": [
+        "ばん",
+        "えびす"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Barbarian</kanji>s who live in <kanji>field</kanji>s, not even in huts or houses or anything, are called <vocabulary>savage</vocabulary> by people who DO live in huts and houses. They think if you live out in a field you're really <vocabulary>uncivilized</vocabulary>. But that's all a matter of opinion, I guess.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%87%8E%E8%9B%AE",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "野",
+      "id": 848,
+      "reading": "や"
+    },
+    {
+      "type": "kanji",
+      "value": "蛮",
+      "id": 2464,
+      "reading": "ばん"
+    }
+  ]
+}

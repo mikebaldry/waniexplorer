@@ -1,0 +1,56 @@
+{
+  "id": 5844,
+  "type": "vocabulary",
+  "characters": "三つ編み",
+  "primaryMeaning": "Braided Hair",
+  "otherMeanings": [
+    "Hair Braid",
+    "Plaited Hair",
+    "Plait"
+  ],
+  "primaryReading": "みつあみ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 449,
+      "character": "三",
+      "readings": [
+        "さん",
+        "み"
+      ]
+    },
+    {
+      "id": 1445,
+      "character": "編",
+      "readings": [
+        "へん",
+        "あ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "編む is \"to knit.\" When you knit in <kanji>three</kanji>s, you are knitting in a braid style. What do you braid? Hair. That makes this <vocabulary>braided hair</vocabulary>.",
+  "readingMnemonic": "The reading is the み from 三つ and つ and 編む combined into one (or should I say three?) braids. Just watch out because this isn't みっつあみ, it's just みつあみ. Listen to the audio a few times to make sure you remember how it's spelled and pronounced!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%89%E3%81%A4%E7%B7%A8%E3%81%BF",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "三",
+      "id": 449,
+      "reading": "み"
+    },
+    {
+      "type": "kana",
+      "value": "つ"
+    },
+    {
+      "type": "kanji",
+      "value": "編",
+      "id": 1445,
+      "reading": "あ"
+    },
+    {
+      "type": "kana",
+      "value": "み"
+    }
+  ]
+}

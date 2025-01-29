@@ -1,0 +1,35 @@
+{
+  "id": 697,
+  "type": "kanji",
+  "character": "答",
+  "primaryMeaning": "Answer",
+  "otherMeanings": [
+    "Response",
+    "Reply"
+  ],
+  "primaryReading": "こた",
+  "readings": [
+    {
+      "reading": "こた",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "とう",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "You pull out a <reading>quarter</reading> (こた) and offer it to whoever will give you an <kanji>answer</kanji>.",
+  "meaningMnemonic": "\"Does the <radical>bamboo</radical> shirt <radical>suit</radical> me?\" you ask... but nobody will <kanji>answer</kanji>.",
+  "vocabularyIds": [
+    3051,
+    3052,
+    9037
+  ],
+  "radicalIds": [
+    85,
+    216
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%AD%94"
+}

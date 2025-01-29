@@ -1,0 +1,44 @@
+{
+  "id": 4597,
+  "type": "vocabulary",
+  "characters": "職業",
+  "primaryMeaning": "Occupation",
+  "otherMeanings": [
+    "Profession"
+  ],
+  "primaryReading": "しょくぎょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1189,
+      "character": "職",
+      "readings": [
+        "しょく"
+      ]
+    },
+    {
+      "id": 756,
+      "character": "業",
+      "readings": [
+        "ぎょう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Your <kanji>employment</kanji> <kanji>business</kanji> is your <vocabulary>occupation</vocabulary> or <vocabulary>profession</vocabulary>. What is your employment business?",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%81%B7%E6%A5%AD",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "職",
+      "id": 1189,
+      "reading": "しょく"
+    },
+    {
+      "type": "kanji",
+      "value": "業",
+      "id": 756,
+      "reading": "ぎょう"
+    }
+  ]
+}

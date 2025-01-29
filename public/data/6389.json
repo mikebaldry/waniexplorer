@@ -1,0 +1,45 @@
+{
+  "id": 6389,
+  "type": "vocabulary",
+  "characters": "外堀",
+  "primaryMeaning": "Outer Moat",
+  "otherMeanings": [],
+  "primaryReading": "そとぼり",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 521,
+      "character": "外",
+      "readings": [
+        "がい",
+        "そと",
+        "はず"
+      ]
+    },
+    {
+      "id": 1752,
+      "character": "堀",
+      "readings": [
+        "ほり",
+        "くつ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>outside</kanji> <kanji>ditch</kanji> is the ditch around our town that's on the outside (not the inside ditch, which is the inner moat). This is the <vocabulary>outer moat</vocabulary>.",
+  "readingMnemonic": "This word uses the same readings from the previous vocabulary except that 堀 gets rendakued - don't forget!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A4%96%E5%A0%80",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "外",
+      "id": 521,
+      "reading": "そと"
+    },
+    {
+      "type": "kanji",
+      "value": "堀",
+      "id": 1752,
+      "reading": "ぼり"
+    }
+  ]
+}

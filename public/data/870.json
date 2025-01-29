@@ -1,0 +1,33 @@
+{
+  "id": 870,
+  "type": "kanji",
+  "character": "詩",
+  "primaryMeaning": "Poem",
+  "otherMeanings": [],
+  "primaryReading": "し",
+  "readings": [
+    {
+      "reading": "し",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "うた",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "As you recite a long <kanji>poem</kanji> at the temple you see a <reading>shee</reading>p (し) in the crowd. It's opening and closing its mouth like it wants to say the poem too.",
+  "meaningMnemonic": "What you <radical>say</radical> at a <radical>temple</radical> is a <kanji>poem</kanji>. It has to be a poem, because if you say anything else it's just plain disrespectful. All of the monks and priests at this temple have to read and recite poems all day, and if they can do it forever, you can while you're visiting.",
+  "vocabularyIds": [
+    3620,
+    3621,
+    3622,
+    8076
+  ],
+  "radicalIds": [
+    117,
+    192
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%A9%A9"
+}

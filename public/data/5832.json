@@ -1,0 +1,35 @@
+{
+  "id": 5832,
+  "type": "vocabulary",
+  "characters": "爪",
+  "primaryMeaning": "Claw",
+  "otherMeanings": [
+    "Nail",
+    "Talon",
+    "Hoof"
+  ],
+  "primaryReading": "つめ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1575,
+      "character": "爪",
+      "readings": [
+        "つめ",
+        "つま",
+        "そう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well, though it adds a few more meanings as well, like <vocabulary>nail</vocabulary> or <vocabulary>talon</vocabulary> or <vocabulary>hoof</vocabulary> or really any hard thing on the ends of fingers or feet.",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%88%AA",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "爪",
+      "id": 1575,
+      "reading": "つめ"
+    }
+  ]
+}

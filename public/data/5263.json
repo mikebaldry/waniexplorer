@@ -1,0 +1,36 @@
+{
+  "id": 5263,
+  "type": "vocabulary",
+  "characters": "眠る",
+  "primaryMeaning": "To Sleep",
+  "otherMeanings": [
+    "To Fall Asleep"
+  ],
+  "primaryReading": "ねむる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1332,
+      "character": "眠",
+      "readings": [
+        "みん",
+        "ねむ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "眠い is \"sleepy.\" The verb version of this is <vocabulary>to sleep</vocabulary>, or <vocabulary>to fall asleep</vocabulary>. <i>yawn</i>\n\nWhile 寝る can mean lying down or going to bed (not just sleeping), 眠る only refers to falling asleep or being in a state of sleep.",
+  "readingMnemonic": "The reading comes from 眠い.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%9C%A0%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "眠",
+      "id": 1332,
+      "reading": "ねむ"
+    },
+    {
+      "type": "kana",
+      "value": "る"
+    }
+  ]
+}

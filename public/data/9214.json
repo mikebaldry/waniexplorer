@@ -1,0 +1,102 @@
+{
+  "id": 9214,
+  "object": "kana_vocabulary",
+  "url": "https://api.wanikani.com/v2/subjects/9214",
+  "data_updated_at": "2024-10-15T22:19:13.513417Z",
+  "data": {
+    "created_at": "2023-04-25T00:04:54.596915Z",
+    "level": 9,
+    "slug": "ガラス",
+    "hidden_at": null,
+    "document_url": "https://www.wanikani.com/vocabulary/%E3%82%AC%E3%83%A9%E3%82%B9",
+    "characters": "ガラス",
+    "meanings": [
+      {
+        "meaning": "Glass",
+        "primary": true,
+        "accepted_answer": true
+      },
+      {
+        "meaning": "Pane of Glass",
+        "primary": false,
+        "accepted_answer": true
+      }
+    ],
+    "auxiliary_meanings": [
+      {
+        "meaning": "Grass",
+        "type": "blacklist"
+      }
+    ],
+    "parts_of_speech": [
+      "noun"
+    ],
+    "meaning_mnemonic": "This comes from the word <vocabulary>glass</vocabulary>, and it refers to the stuff used to make Cinderella's slippers, and windows, in which case it can also mean a <vocabulary>pane of glass</vocabulary>.\n\nWe'll learn how to say the other meanings of \"glass\" later!",
+    "context_sentences": [
+      {
+        "en": "Is this pen made of glass?",
+        "ja": "このペン、ガラスで出来てるの？"
+      },
+      {
+        "en": "Wow, it looks like Cinderella's glass slipper.",
+        "ja": "うわー、シンデレラのガラスのくつみたい。"
+      },
+      {
+        "en": "You have bird poop on your windshield.",
+        "ja": "フロントガラスに鳥のフンが付いてるよ。"
+      }
+    ],
+    "pronunciation_audios": [
+      {
+        "url": "https://files.wanikani.com/0jffmighyuti5n51x03f9ed581ih",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44795,
+          "pronunciation": "ガラス",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/u687rss7nwfrmcltrfxjnwzqif5f",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44795,
+          "pronunciation": "ガラス",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      },
+      {
+        "url": "https://files.wanikani.com/7jerejyiyboawyjp5oiakfzl1ogw",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44727,
+          "pronunciation": "ガラス",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/s0zkm6n62dd59y3d7ycjiagv3g9k",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44727,
+          "pronunciation": "ガラス",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      }
+    ],
+    "lesson_position": 71,
+    "spaced_repetition_system_id": 1
+  }
+}

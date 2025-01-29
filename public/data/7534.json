@@ -1,0 +1,45 @@
+{
+  "id": 7534,
+  "type": "vocabulary",
+  "characters": "千葉",
+  "primaryMeaning": "Chiba",
+  "otherMeanings": [],
+  "primaryReading": "ちば",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 460,
+      "character": "千",
+      "readings": [
+        "せん",
+        "ち"
+      ]
+    },
+    {
+      "id": 750,
+      "character": "葉",
+      "readings": [
+        "は",
+        "よう",
+        "ば"
+      ]
+    }
+  ],
+  "meaningMnemonic": "There is only one place in Japan that has a <kanji>thousand</kanji> <kanji>leaves</kanji> and that's <vocabulary>Chiba</vocabulary>. Picture all of those leaves swirling around you on your vacation to Chiba. Beautiful.",
+  "readingMnemonic": "This is a place name and it uses the kun'yomi. You haven't learned kun'yomi for 千 yet, so here's a mnemonic to help you remember it:\n\nWhile you're admiring all of the leaves in <vocabulary>Chiba</vocabulary>, you realize you're craving something. What goes well with watching leaves? Why, <reading>chee</reading>se (ち) of course. Delicious Chiba cheese.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8D%83%E8%91%89",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "千",
+      "id": 460,
+      "reading": "ち"
+    },
+    {
+      "type": "kanji",
+      "value": "葉",
+      "id": 750,
+      "reading": "ば"
+    }
+  ]
+}

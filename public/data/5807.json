@@ -1,0 +1,43 @@
+{
+  "id": 5807,
+  "type": "vocabulary",
+  "characters": "喜劇",
+  "primaryMeaning": "Comedy",
+  "otherMeanings": [],
+  "primaryReading": "きげき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 976,
+      "character": "喜",
+      "readings": [
+        "き",
+        "よろこ"
+      ]
+    },
+    {
+      "id": 1569,
+      "character": "劇",
+      "readings": [
+        "げき"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Rejoice</kanji> <kanji>drama</kanji> isn't so much drama as it is <vocabulary>comedy</vocabulary>, since it makes you rejoice.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%96%9C%E5%8A%87",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "喜",
+      "id": 976,
+      "reading": "き"
+    },
+    {
+      "type": "kanji",
+      "value": "劇",
+      "id": 1569,
+      "reading": "げき"
+    }
+  ]
+}

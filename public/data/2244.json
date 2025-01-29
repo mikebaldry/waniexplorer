@@ -1,0 +1,35 @@
+{
+  "id": 2244,
+  "type": "kanji",
+  "character": "疾",
+  "primaryMeaning": "Rapidly",
+  "otherMeanings": [
+    "Rapid"
+  ],
+  "primaryReading": "しつ",
+  "readings": [
+    {
+      "reading": "しつ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "はや",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "This <kanji>rapid</kanji> sickness makes your head pound like there's a <reading>shih tzu</reading> (しつ) yapping and barking nonstop. And it's making you sh*t a lot.",
+  "meaningMnemonic": "A <radical>sick</radical>ness that hits you like an <radical>arrow</radical> will do its gross work <kanji>rapidly</kanji>. It's not a good thing, you're gonna get really sick really fast.",
+  "vocabularyIds": [
+    8121,
+    8122,
+    8123,
+    8124
+  ],
+  "radicalIds": [
+    187,
+    72
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%96%BE"
+}

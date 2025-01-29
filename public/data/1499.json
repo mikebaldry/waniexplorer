@@ -1,0 +1,43 @@
+{
+  "id": 1499,
+  "type": "kanji",
+  "character": "傷",
+  "primaryMeaning": "Wound",
+  "otherMeanings": [],
+  "primaryReading": "しょう",
+  "readings": [
+    {
+      "reading": "しょう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "きず",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "いた",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Which leader wounded the Japanese people? The <reading>Shou</reading>gun (しょう). The Shougun is a military leader. The Shougun even has gun in the name. And they wounded hundreds of thousands of samurai and soldiers.",
+  "meaningMnemonic": "If a <radical>leader</radical> has a <radical>gun</radical> it's <radical>easy</radical> to <kanji>wound</kanji> people. When you have a gun and a lot of responsibility it's easy to get carried away and mess up, wounding the people you were supposed to be protecting. You can even wound yourself.",
+  "vocabularyIds": [
+    5561,
+    5562,
+    5563,
+    5564,
+    5725,
+    5726,
+    7484,
+    8725
+  ],
+  "radicalIds": [
+    75,
+    8762,
+    172
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%82%B7"
+}

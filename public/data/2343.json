@@ -1,0 +1,38 @@
+{
+  "id": 2343,
+  "type": "kanji",
+  "character": "弔",
+  "primaryMeaning": "Condolence",
+  "otherMeanings": [],
+  "primaryReading": "ちょう",
+  "readings": [
+    {
+      "reading": "ちょう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "とぶら",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "とむら",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "More than a <kanji>condolence</kanji>, you want to avenge your friend's death. He was killed by Mrs. <reading>Chou</reading> (ちょう), and she broke his stick and bow, which is why you got the family a new set.",
+  "meaningMnemonic": "You give a <radical>bow</radical> and a <radical>stick</radical> to your friend's family. This is because your friend died, and he loved bows and sticks. You give this to his family, to give our <kanji>condolence</kanji>s.",
+  "vocabularyIds": [
+    8357,
+    8358,
+    8359,
+    8538
+  ],
+  "radicalIds": [
+    36,
+    8761
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%BC%94"
+}

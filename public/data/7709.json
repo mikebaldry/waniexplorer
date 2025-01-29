@@ -1,0 +1,49 @@
+{
+  "id": 7709,
+  "type": "vocabulary",
+  "characters": "心得",
+  "primaryMeaning": "Knowledge",
+  "otherMeanings": [
+    "Tips",
+    "Rules",
+    "Understanding"
+  ],
+  "primaryReading": "こころえ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 508,
+      "character": "心",
+      "readings": [
+        "しん",
+        "こころ"
+      ]
+    },
+    {
+      "id": 1081,
+      "character": "得",
+      "readings": [
+        "とく",
+        "え",
+        "う"
+      ]
+    }
+  ],
+  "meaningMnemonic": "What does your <kanji>heart</kanji> want to <kanji>acquire</kanji> above all other things? <vocabulary>Knowledge</vocabulary>! That's why you're here, isn't it? \n\nDig deep and see that all your heart wants is more <vocabulary>tips</vocabulary> and <vocabulary>rules</vocabulary>, to gain a better <vocabulary>understanding</vocabulary> of… Japanese!\n\n心得 refers to practical skills or knowledge gained through learning, like expertise in tea ceremony or mastery of a foreign language. It can also mean things to keep in mind in certain situations, like phone etiquette or know-how for a job.",
+  "readingMnemonic": "The readings for this word are both kun'yomi readings. You've learned both of these readings by now so you should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BF%83%E5%BE%97",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "心",
+      "id": 508,
+      "reading": "こころ"
+    },
+    {
+      "type": "kanji",
+      "value": "得",
+      "id": 1081,
+      "reading": "え"
+    }
+  ]
+}

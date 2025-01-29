@@ -1,0 +1,51 @@
+{
+  "id": 5285,
+  "type": "vocabulary",
+  "characters": "請求",
+  "primaryMeaning": "Demand",
+  "otherMeanings": [
+    "Claim",
+    "Request",
+    "Charge"
+  ],
+  "primaryReading": "せいきゅう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1386,
+      "character": "請",
+      "readings": [
+        "せい",
+        "しん",
+        "しょう",
+        "う",
+        "こ"
+      ]
+    },
+    {
+      "id": 913,
+      "character": "求",
+      "readings": [
+        "きゅう",
+        "もと"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You <kanji>request</kanji> then you <kanji>request</kanji> again. This is starting to turn into more of a <vocabulary>demand</vocabulary> if you ask me. Also can refer to a <vocabulary>claim</vocabulary> or a <vocabulary>charge</vocabulary> as well.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%AB%8B%E6%B1%82",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "請",
+      "id": 1386,
+      "reading": "せい"
+    },
+    {
+      "type": "kanji",
+      "value": "求",
+      "id": 913,
+      "reading": "きゅう"
+    }
+  ]
+}

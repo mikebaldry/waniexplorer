@@ -1,0 +1,45 @@
+{
+  "id": 8737,
+  "type": "vocabulary",
+  "characters": "手首",
+  "primaryMeaning": "Wrist",
+  "otherMeanings": [],
+  "primaryReading": "てくび",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 474,
+      "character": "手",
+      "readings": [
+        "て",
+        "しゅ",
+        "ず"
+      ]
+    },
+    {
+      "id": 645,
+      "character": "首",
+      "readings": [
+        "くび",
+        "しゅ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Your <kanji>hand</kanji>'s <kanji>neck</kanji> is your <vocabulary>wrist</vocabulary>!",
+  "readingMnemonic": "This word uses the kun'yomi readings from both kanji, probably because it includes body parts. You know them both already, so now you know this too!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%89%8B%E9%A6%96",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "手",
+      "id": 474,
+      "reading": "て"
+    },
+    {
+      "type": "kanji",
+      "value": "首",
+      "id": 645,
+      "reading": "くび"
+    }
+  ]
+}

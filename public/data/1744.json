@@ -1,0 +1,33 @@
+{
+  "id": 1744,
+  "type": "kanji",
+  "character": "駆",
+  "primaryMeaning": "Gallop",
+  "otherMeanings": [],
+  "primaryReading": "か",
+  "readings": [
+    {
+      "reading": "か",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "く",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Then the horse <kanji>gallop</kanji>s into the road and gets hit by a <reading>ca</reading>r (か). Oh man, there’s blood everywhere. This horse is never going to gallop again. That car totally destroyed it.",
+  "meaningMnemonic": "A <radical>horse</radical> goes to his favorite <radical>district</radical> to <kanji>gallop</kanji> around. This district has lots of cool buildings and lights to look at, so this horse loves to gallop around there.",
+  "vocabularyIds": [
+    6366,
+    6560,
+    6561,
+    6562
+  ],
+  "radicalIds": [
+    165,
+    322
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%A7%86"
+}

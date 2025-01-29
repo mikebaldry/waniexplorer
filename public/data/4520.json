@@ -1,0 +1,48 @@
+{
+  "id": 4520,
+  "type": "vocabulary",
+  "characters": "物価",
+  "primaryMeaning": "Prices",
+  "otherMeanings": [
+    "Prices of Commodities",
+    "Cost Of Living"
+  ],
+  "primaryReading": "ぶっか",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 718,
+      "character": "物",
+      "readings": [
+        "ぶつ",
+        "もつ",
+        "もの"
+      ]
+    },
+    {
+      "id": 1166,
+      "character": "価",
+      "readings": [
+        "か",
+        "あたい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Thing</kanji>s with <kanji>value</kanji> have <vocabulary>prices</vocabulary>.\n\n物価 refers to the prices of goods and services in a place — the <vocabulary>prices of commodities</vocabulary>, a.k.a. the <vocabulary>cost of living</vocabulary>. It's used when discussing how expensive it is to live somewhere or when talking about inflation.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. The ぶつ changes to ぶっ, though, so hopefully that doesn't change the price you're willing to pay for this vocab? Right? Please give me your money.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%89%A9%E4%BE%A1",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "物",
+      "id": 718,
+      "reading": null
+    },
+    {
+      "type": "kanji",
+      "value": "価",
+      "id": 1166,
+      "reading": null
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 8200,
+  "type": "vocabulary",
+  "characters": "惜しむ",
+  "primaryMeaning": "To Be Frugal",
+  "otherMeanings": [
+    "To Be Sparing"
+  ],
+  "primaryReading": "おしむ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2266,
+      "character": "惜",
+      "readings": [
+        "せき",
+        "お"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>frugal</kanji>, so the verb version is <vocabulary>to be frugal</vocabulary> or <vocabulary>to be sparing</vocabulary>.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nYou should try <vocabulary>to be frugal</vocabulary> when you go to the <reading>ocea</reading>n (おし). There are lots of things to buy, like delicious food, sun hats, and tofugu dolls, but you really shouldn't spend all your money there. Try to plan on spending less when you head to the ocean next time, okay?",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%83%9C%E3%81%97%E3%82%80",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "惜",
+      "id": 2266,
+      "reading": "お"
+    },
+    {
+      "type": "kana",
+      "value": "しむ"
+    }
+  ]
+}

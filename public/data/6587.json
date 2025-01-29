@@ -1,0 +1,45 @@
+{
+  "id": 6587,
+  "type": "vocabulary",
+  "characters": "括弧",
+  "primaryMeaning": "Parentheses",
+  "otherMeanings": [
+    "Brackets"
+  ],
+  "primaryReading": "かっこ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1811,
+      "character": "括",
+      "readings": [
+        "かつ",
+        "くく"
+      ]
+    },
+    {
+      "id": 1812,
+      "character": "弧",
+      "readings": [
+        "こ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>fasten</kanji> <kanji>arc</kanji>s are arcs that go around something to fasten these things all together. What are these things? They are (<vocabulary>parentheses</vocabulary>) and [<vocabulary>brackets</vocabulary>].",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Also, watch out from the shortening.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8B%AC%E5%BC%A7",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "括",
+      "id": 1811,
+      "reading": null
+    },
+    {
+      "type": "kanji",
+      "value": "弧",
+      "id": 1812,
+      "reading": null
+    }
+  ]
+}

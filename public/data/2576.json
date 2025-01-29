@@ -1,0 +1,39 @@
+{
+  "id": 2576,
+  "type": "vocabulary",
+  "characters": "生まれる",
+  "primaryMeaning": "To Be Born",
+  "otherMeanings": [],
+  "primaryReading": "うまれる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 850,
+      "character": "生",
+      "readings": [
+        "せい",
+        "しょう",
+        "い",
+        "なま",
+        "う",
+        "は",
+        "き"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Since this is a kanji with hiragana attached that ends with an う sound, you know that this word is a verb. What's the ultimate verb version of the kanji 生? That would be <vocabulary>to be born</vocabulary>, the very beginning of <kanji>life</kanji> as we know it! ",
+  "readingMnemonic": "You have to remember the う part of this word to read it. To remember that, let's use a mnemonic: \n\nSomething is about to be born, and when you lean in for a closer look… it’s an <reading>u</reading>ni (う). Yes, a sea urchin. You weren’t expecting that. Close your eyes and imagine what the process of an uni being born might look like, to help you remember this reading.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%94%9F%E3%81%BE%E3%82%8C%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "生",
+      "id": 850,
+      "reading": "う"
+    },
+    {
+      "type": "kana",
+      "value": "まれる"
+    }
+  ]
+}

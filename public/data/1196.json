@@ -1,0 +1,35 @@
+{
+  "id": 1196,
+  "type": "kanji",
+  "character": "演",
+  "primaryMeaning": "Acting",
+  "otherMeanings": [
+    "Perform"
+  ],
+  "primaryReading": "えん",
+  "readings": [
+    {
+      "reading": "えん",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "As the <kanji>acting</kanji> <reading>en</reading>ds (えん), so do you all.",
+  "meaningMnemonic": "There's going to be a <radical>tsunami</radical>. So you get up on your <radical>roof</radical>. You see people across the <radical>street</radical>, in a <radical>rice paddy</radical>. They watch as you put on a pair of <radical>fins</radical>. And you begin <kanji>acting</kanji>. This is your last chance to <kanji>perform</kanji>!",
+  "vocabularyIds": [
+    5874,
+    6177,
+    7506,
+    7507,
+    7508,
+    7598
+  ],
+  "radicalIds": [
+    103,
+    78,
+    27,
+    51,
+    2
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%BC%94"
+}

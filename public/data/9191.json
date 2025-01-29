@@ -1,0 +1,92 @@
+{
+  "id": 9191,
+  "object": "kana_vocabulary",
+  "url": "https://api.wanikani.com/v2/subjects/9191",
+  "data_updated_at": "2024-10-15T22:19:11.936943Z",
+  "data": {
+    "created_at": "2023-04-24T22:46:02.407047Z",
+    "level": 4,
+    "slug": "こんばんは",
+    "hidden_at": null,
+    "document_url": "https://www.wanikani.com/vocabulary/%E3%81%93%E3%82%93%E3%81%B0%E3%82%93%E3%81%AF",
+    "characters": "こんばんは",
+    "meanings": [
+      {
+        "meaning": "Good Evening",
+        "primary": true,
+        "accepted_answer": true
+      }
+    ],
+    "auxiliary_meanings": [],
+    "parts_of_speech": [
+      "expression"
+    ],
+    "meaning_mnemonic": "<reading>Con ban, wah!</reading> (こんばんは) cries your friend, just as you say <vocabulary>good evening</vocabulary>. There's a report on the evening news about a con ban (yes, that's a ban on conning people). Wah! Exciting stuff.\n\nYou can use こんばんは as a greeting from around 5pm or 6pm, in both formal and informal situations.　Watch out for that は on the end, which is pronounced わ here too.",
+    "context_sentences": [
+      {
+        "en": "Oh, good evening.",
+        "ja": "あ、こんばんは。"
+      },
+      {
+        "en": "Good evening, everyone.",
+        "ja": "みなさん、こんばんは。"
+      },
+      {
+        "en": "Good evening. Nice work today!",
+        "ja": "こんばんは〜、おつかれさまです！"
+      }
+    ],
+    "pronunciation_audios": [
+      {
+        "url": "https://files.wanikani.com/u5bumunf9rmlp6j5hlmn8rjdf1g6",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44763,
+          "pronunciation": "こんばんは",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/qf3t4rcmmndnyjiife4ybw6gy2mr",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44763,
+          "pronunciation": "こんばんは",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      },
+      {
+        "url": "https://files.wanikani.com/1dkkjw7i65uhqxwd9fbf6an2jqv7",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44704,
+          "pronunciation": "こんばんは",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/0x9dfu2axy4b3jrnt2xirkm1nybs",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44704,
+          "pronunciation": "こんばんは",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      }
+    ],
+    "lesson_position": 3,
+    "spaced_repetition_system_id": 1
+  }
+}

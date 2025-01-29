@@ -1,0 +1,50 @@
+{
+  "id": 4232,
+  "type": "vocabulary",
+  "characters": "若々しい",
+  "primaryMeaning": "Youthful",
+  "otherMeanings": [
+    "Young Looking"
+  ],
+  "primaryReading": "わかわかしい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1065,
+      "character": "若",
+      "readings": [
+        "わか",
+        "も",
+        "じゃく"
+      ]
+    },
+    {
+      "id": 856,
+      "character": "々",
+      "readings": [
+        "のま"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>young</kanji> <kanji>young</kanji> thing has <vocabulary>youthful</vocabulary>ness on their side. Oh to be youthful and <vocabulary>young looking</vocabulary> again!",
+  "readingMnemonic": "The reading is the reading you learned with the kanji. Same goes for the repeater kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%8B%A5%E3%80%85%E3%81%97%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "若",
+      "id": 1065,
+      "reading": "わか"
+    },
+    {
+      "type": "kanji",
+      "value": "々",
+      "id": 1065,
+      "reading": "わか"
+    },
+    {
+      "type": "kana",
+      "value": "しい"
+    }
+  ]
+}

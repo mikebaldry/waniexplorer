@@ -1,0 +1,45 @@
+{
+  "id": 8162,
+  "type": "vocabulary",
+  "characters": "酷暑",
+  "primaryMeaning": "Intense Heat",
+  "otherMeanings": [],
+  "primaryReading": "こくしょ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2247,
+      "character": "酷",
+      "readings": [
+        "こく",
+        "ひど",
+        "むご"
+      ]
+    },
+    {
+      "id": 838,
+      "character": "暑",
+      "readings": [
+        "あつ",
+        "しょ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Cruel</kanji> <kanji>hot weather</kanji> is the kind that's too much for anyone to handle. It's <vocabulary>intense heat</vocabulary>. Stranded in the desert in summer, heat.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You didn't learn this reading for 暑 yet, so here's a mnemonic to help you:\n\n<vocabulary>Intense heat</vocabulary> will <reading>show</reading> (しょ) on your face. You'll turn red and get all sweaty. You really can't hide it.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%85%B7%E6%9A%91",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "酷",
+      "id": 2247,
+      "reading": "こく"
+    },
+    {
+      "type": "kanji",
+      "value": "暑",
+      "id": 838,
+      "reading": "しょ"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 4202,
+  "type": "vocabulary",
+  "characters": "忙しい",
+  "primaryMeaning": "Busy",
+  "otherMeanings": [],
+  "primaryReading": "いそがしい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1074,
+      "character": "忙",
+      "readings": [
+        "ぼう",
+        "いそが"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This is a single kanji with しい on the end, meaning it's an adjective. What's the adjective form of <kanji>busy</kanji>? It's also <vocabulary>busy</vocabulary>.",
+  "readingMnemonic": "You're <vocabulary>busy</vocabulary> because you have to take care of your friend's <reading>ice ogre</reading>s (いそが) this weekend. You don't know why you agreed to this, you were busy enough, but now you'll never get anything done running around taking care of these little ice ogres.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BF%99%E3%81%97%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "忙",
+      "id": 1074,
+      "reading": "いそが"
+    },
+    {
+      "type": "kana",
+      "value": "しい"
+    }
+  ]
+}

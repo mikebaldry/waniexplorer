@@ -1,0 +1,39 @@
+{
+  "id": 960,
+  "type": "kanji",
+  "character": "園",
+  "primaryMeaning": "Garden",
+  "otherMeanings": [
+    "Park"
+  ],
+  "primaryReading": "えん",
+  "readings": [
+    {
+      "reading": "えん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "その",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You look closer at the <kanji>garden</kanji> and suddenly everything <reading>en</reading>ds (えん).",
+  "meaningMnemonic": "You examine the <radical>mouth</radical> of a <radical>zombie</radical> and find a small <kanji>garden</kanji> in there. There are even benches... it looks like a <kanji>park</kanji>.",
+  "vocabularyIds": [
+    3824,
+    3825,
+    4980,
+    5347,
+    5377,
+    6919,
+    7040,
+    7586
+  ],
+  "radicalIds": [
+    16,
+    8784
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%9C%92"
+}

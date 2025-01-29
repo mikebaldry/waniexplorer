@@ -1,0 +1,49 @@
+{
+  "id": 8807,
+  "type": "vocabulary",
+  "characters": "品物",
+  "primaryMeaning": "Goods",
+  "otherMeanings": [
+    "Article",
+    "Item",
+    "Thing"
+  ],
+  "primaryReading": "しなもの",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 967,
+      "character": "品",
+      "readings": [
+        "ひん",
+        "しな"
+      ]
+    },
+    {
+      "id": 718,
+      "character": "物",
+      "readings": [
+        "ぶつ",
+        "もつ",
+        "もの"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>product</kanji> <kanji>thing</kanji> is any type of general <vocabulary>goods</vocabulary>. It's about as specific as you can get when you're talking about <vocabulary>thing</vocabulary>s like this.",
+  "readingMnemonic": "This is a jukugo word that uses the kun'yomi readings of the kanji. You should be able to read this on your own, but don't be fooled into using the on'yomis! This isn't ひんぶつ — no, it's しなもの!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%93%81%E7%89%A9",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "品",
+      "id": 967,
+      "reading": "しな"
+    },
+    {
+      "type": "kanji",
+      "value": "物",
+      "id": 718,
+      "reading": "もの"
+    }
+  ]
+}

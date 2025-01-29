@@ -1,0 +1,43 @@
+{
+  "id": 2980,
+  "type": "vocabulary",
+  "characters": "週末",
+  "primaryMeaning": "Weekend",
+  "otherMeanings": [],
+  "primaryReading": "しゅうまつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 672,
+      "character": "週",
+      "readings": [
+        "しゅう"
+      ]
+    },
+    {
+      "id": 657,
+      "character": "末",
+      "readings": [
+        "まつ",
+        "すえ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>end</kanji> of the <kanji>week</kanji> is the <vocabulary>weekend</vocabulary>... that is, unless you work on the weekend, but we can't cater to everyone here.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%80%B1%E6%9C%AB",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "週",
+      "id": 672,
+      "reading": "しゅう"
+    },
+    {
+      "type": "kanji",
+      "value": "末",
+      "id": 657,
+      "reading": "まつ"
+    }
+  ]
+}

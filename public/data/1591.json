@@ -1,0 +1,32 @@
+{
+  "id": 1591,
+  "type": "kanji",
+  "character": "互",
+  "primaryMeaning": "Mutual",
+  "otherMeanings": [],
+  "primaryReading": "ご",
+  "readings": [
+    {
+      "reading": "ご",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "たが",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Since you made the shuriken attack the ground, the <kanji>mutual</kanji> respect is out of balance. This summons <reading>Go</reading>dzilla (ご) up from the depths of the ocean once more. He always shows up when something is out of wack, to show humans the error of their ways. He picks up the shuriken and flings it into a city, which explodes, leaving a crater in the ground.",
+  "meaningMnemonic": "The <radical>ground</radical> and a <radical>shuriken</radical> have <kanji>mutual</kanji> respect for one another. The shuriken respects the ground because of how solid and stable it is, and the ground respects the shuriken for how pointy it is. They have great mutual respect here.",
+  "vocabularyIds": [
+    5886,
+    5887,
+    5888
+  ],
+  "radicalIds": [
+    1,
+    354
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E4%BA%92"
+}

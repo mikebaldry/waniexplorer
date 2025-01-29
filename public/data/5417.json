@@ -1,0 +1,46 @@
+{
+  "id": 5417,
+  "type": "vocabulary",
+  "characters": "既存",
+  "primaryMeaning": "Existing",
+  "otherMeanings": [],
+  "primaryReading": "きそん",
+  "otherReadings": [
+    "きぞん"
+  ],
+  "kanji": [
+    {
+      "id": 1447,
+      "character": "既",
+      "readings": [
+        "き",
+        "すで"
+      ]
+    },
+    {
+      "id": 990,
+      "character": "存",
+      "readings": [
+        "そん",
+        "ぞん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Something that <kanji>previously</kanji> <kanji>exist</kanji>ed is probably still <vocabulary>existing</vocabulary> now.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%97%A2%E5%AD%98",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "既",
+      "id": 1447,
+      "reading": "き"
+    },
+    {
+      "type": "kanji",
+      "value": "存",
+      "id": 990,
+      "reading": "そん"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": 795,
+  "type": "kanji",
+  "character": "育",
+  "primaryMeaning": "Nurture",
+  "otherMeanings": [
+    "Raise"
+  ],
+  "primaryReading": "いく",
+  "readings": [
+    {
+      "reading": "いく",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "そだ",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "はぐく",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "The moon <kanji>nurture</kanji>s the trash ball until one day, it speaks! \"<reading>行く</reading> (いく), 行く！\" it says. It wants to go live with mom moon!",
+  "meaningMnemonic": "Give <radical>trash</radical> to the <radical>moon</radical> and it will <kanji>nurture</kanji> and <kanji>raise</kanji> that trash like it's its own little moon baby.",
+  "vocabularyIds": [
+    3285,
+    3286,
+    3573,
+    3576,
+    8085
+  ],
+  "radicalIds": [
+    8776,
+    43
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%82%B2"
+}

@@ -1,0 +1,53 @@
+{
+  "id": 3131,
+  "type": "vocabulary",
+  "characters": "金持ち",
+  "primaryMeaning": "Rich Person",
+  "otherMeanings": [
+    "Rich",
+    "Wealthy"
+  ],
+  "primaryReading": "かねもち",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 602,
+      "character": "金",
+      "readings": [
+        "きん",
+        "こん",
+        "かね",
+        "かな"
+      ]
+    },
+    {
+      "id": 727,
+      "character": "持",
+      "readings": [
+        "じ",
+        "も"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you <kanji>hold</kanji> <kanji>gold</kanji> you are a <vocabulary>rich person</vocabulary>.",
+  "readingMnemonic": "Do you remember the word お金? This is the 金 in that word. The reading for 持ち is the も you learned with 持つ. So, combine the かね of お金 and the 持ち and you have the reading of this word. Note that just like お金, you'll often see this with the honorific prefix お in front of it as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%87%91%E6%8C%81%E3%81%A1",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "金",
+      "id": 602,
+      "reading": "かね"
+    },
+    {
+      "type": "kanji",
+      "value": "持",
+      "id": 727,
+      "reading": "も"
+    },
+    {
+      "type": "kana",
+      "value": "ち"
+    }
+  ]
+}

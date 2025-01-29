@@ -1,0 +1,50 @@
+{
+  "id": 7898,
+  "type": "vocabulary",
+  "characters": "沈没",
+  "primaryMeaning": "Sinking",
+  "otherMeanings": [
+    "Going Down",
+    "Submersion"
+  ],
+  "primaryReading": "ちんぼつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1865,
+      "character": "沈",
+      "readings": [
+        "ちん",
+        "しず"
+      ]
+    },
+    {
+      "id": 2180,
+      "character": "没",
+      "readings": [
+        "ぼつ",
+        "もつ",
+        "おぼ",
+        "しず",
+        "ない"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you <kanji>sink</kanji> and <kanji>die</kanji> it's because you were <vocabulary>sinking</vocabulary> in the ocean or a pool or something. It's important to notice you're <vocabulary>going down</vocabulary> so you don't die like that.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B2%88%E6%B2%A1",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "沈",
+      "id": 1865,
+      "reading": "ちん"
+    },
+    {
+      "type": "kanji",
+      "value": "没",
+      "id": 2180,
+      "reading": "ぼつ"
+    }
+  ]
+}

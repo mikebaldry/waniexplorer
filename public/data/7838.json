@@ -1,0 +1,47 @@
+{
+  "id": 7838,
+  "type": "vocabulary",
+  "characters": "柔軟",
+  "primaryMeaning": "Flexible",
+  "otherMeanings": [
+    "Pliable"
+  ],
+  "primaryReading": "じゅうなん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1864,
+      "character": "柔",
+      "readings": [
+        "じゅう",
+        "にゅう",
+        "やわ"
+      ]
+    },
+    {
+      "id": 2134,
+      "character": "軟",
+      "readings": [
+        "なん",
+        "やわ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>gentle</kanji> and <kanji>soft</kanji> thing will be really <vocabulary>flexible</vocabulary> and <vocabulary>pliable</vocabulary>. Soft things are really easy to bend, like towels and flower petals.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9F%94%E8%BB%9F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "柔",
+      "id": 1864,
+      "reading": "じゅう"
+    },
+    {
+      "type": "kanji",
+      "value": "軟",
+      "id": 2134,
+      "reading": "なん"
+    }
+  ]
+}

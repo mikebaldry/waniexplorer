@@ -1,0 +1,38 @@
+{
+  "id": 855,
+  "type": "kanji",
+  "character": "反",
+  "primaryMeaning": "Anti",
+  "otherMeanings": [],
+  "primaryReading": "はん",
+  "readings": [
+    {
+      "reading": "はん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "そ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Turns out, when you go to this guy and pull off his beard, he's <reading>Han</reading> (はん) Solo, the <kanji>anti</kanji>-hero from Star Wars! What is Han doing here, so hidden away? He's obviously hiding from Jabba because he doesn't want to get frozen in carbonite again.",
+  "meaningMnemonic": "The <radical>stool</radical> is in the <radical>cliff</radical>. If someone has a stool deep inside a cliff, they are most likely pretty <kanji>anti</kanji> society, hiding away like that.",
+  "vocabularyIds": [
+    3010,
+    4457,
+    4564,
+    4623,
+    5165,
+    5783,
+    6081,
+    7767,
+    8681
+  ],
+  "radicalIds": [
+    116,
+    30
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%8F%8D"
+}

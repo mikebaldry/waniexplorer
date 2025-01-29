@@ -1,0 +1,43 @@
+{
+  "id": 738,
+  "type": "kanji",
+  "character": "勝",
+  "primaryMeaning": "Win",
+  "otherMeanings": [
+    "Victory"
+  ],
+  "primaryReading": "しょう",
+  "readings": [
+    {
+      "reading": "しょう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "か",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "He <kanji>win</kanji>s over and over again, and soon the <reading>Shou</reading>gun (しょう) is even rooting for him. In fact, the Shougun claims him as his personal gladiator of choice.",
+  "meaningMnemonic": "The <radical>moon</radical> grants a <radical>gladiator</radical> its <radical>power</radical> so he will <kanji>win</kanji>! <kanji>Victory</kanji> will be his!",
+  "vocabularyIds": [
+    3143,
+    3144,
+    3145,
+    3146,
+    3147,
+    3504,
+    3567,
+    4007,
+    4635,
+    6794,
+    7894
+  ],
+  "radicalIds": [
+    43,
+    8819,
+    13
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%8B%9D"
+}

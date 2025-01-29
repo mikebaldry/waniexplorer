@@ -1,0 +1,35 @@
+{
+  "id": 1082,
+  "type": "kanji",
+  "character": "改",
+  "primaryMeaning": "Renew",
+  "otherMeanings": [],
+  "primaryReading": "かい",
+  "readings": [
+    {
+      "reading": "かい",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "あらた",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Winter ends and, <kanji>renew</kanji>ed, you come out ready to start a new hobby: <reading>kay</reading>aking (かい)! Nothing says renewal like a brand new kayak and sense of purpose in life.",
+  "meaningMnemonic": "It's important to focus <radical>oneself</radical> in <radical>winter</radical> so that one can emerge <kanji>renew</kanji>ed! You can't really go outside in winter without getting cold or sick, so spend winter focusing on YOU.",
+  "vocabularyIds": [
+    4177,
+    4204,
+    4205,
+    4981,
+    7383,
+    8944
+  ],
+  "radicalIds": [
+    228,
+    60
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%94%B9"
+}

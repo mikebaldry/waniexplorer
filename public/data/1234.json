@@ -1,0 +1,36 @@
+{
+  "id": 1234,
+  "type": "kanji",
+  "character": "視",
+  "primaryMeaning": "Look At",
+  "otherMeanings": [],
+  "primaryReading": "し",
+  "readings": [
+    {
+      "reading": "し",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "み",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You <kanji>look at</kanji> the spirit for as long as you can, until you hear a <reading>shee</reading>p (し) sound. You look away for a second, see the sheep look at you, and when you look back the spirit is gone. Damn!",
+  "meaningMnemonic": "When you <radical>see</radical> a <radical>spirit</radical> you have to <kanji>look at</kanji> it. Look at it directly, because if you look away then it could disappear. You just have to keep on looking at it deliberately. ",
+  "vocabularyIds": [
+    4707,
+    4710,
+    4711,
+    4712,
+    4713,
+    5430,
+    8189
+  ],
+  "radicalIds": [
+    80,
+    91
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%A6%96"
+}

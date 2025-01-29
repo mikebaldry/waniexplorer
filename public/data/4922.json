@@ -1,0 +1,34 @@
+{
+  "id": 4922,
+  "type": "vocabulary",
+  "characters": "我",
+  "primaryMeaning": "I",
+  "otherMeanings": [
+    "Me",
+    "Myself"
+  ],
+  "primaryReading": "われ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1294,
+      "character": "我",
+      "readings": [
+        "が",
+        "われ",
+        "わ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.\n\n我 is an old-fashioned pronoun and isn't commonly used outside of set phrases like 我を忘れる (to forget oneself or be utterly absorbed) or 我に返る (to come back to reality or return to one's senses).",
+  "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You did not learn this reading, so here's a mnemonic to help you remember: \n\nIt is <vocabulary>I</vocabulary>! Due to my ego, I love the Wii and no other gaming device. I love playing all the Wii-<reading>ware</reading> (われ) that's available, and everything else sucks.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%88%91",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "我",
+      "id": 1294,
+      "reading": "われ"
+    }
+  ]
+}

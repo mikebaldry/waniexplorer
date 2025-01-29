@@ -1,0 +1,32 @@
+{
+  "id": 7025,
+  "type": "vocabulary",
+  "characters": "穂",
+  "primaryMeaning": "Head Of Plant",
+  "otherMeanings": [
+    "Ear Of Plant"
+  ],
+  "primaryReading": "ほ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1966,
+      "character": "穂",
+      "readings": [
+        "ほ",
+        "すい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A9%82",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "穂",
+      "id": 1966,
+      "reading": "ほ"
+    }
+  ]
+}

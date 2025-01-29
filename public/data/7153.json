@@ -1,0 +1,73 @@
+{
+  "id": 7153,
+  "type": "vocabulary",
+  "characters": "帝国主義",
+  "primaryMeaning": "Imperialism",
+  "otherMeanings": [],
+  "primaryReading": "ていこくしゅぎ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1967,
+      "character": "帝",
+      "readings": [
+        "てい",
+        "みかど"
+      ]
+    },
+    {
+      "id": 621,
+      "character": "国",
+      "readings": [
+        "こく",
+        "くに"
+      ]
+    },
+    {
+      "id": 528,
+      "character": "主",
+      "readings": [
+        "しゅ",
+        "おも",
+        "ぬし",
+        "あるじ"
+      ]
+    },
+    {
+      "id": 1154,
+      "character": "義",
+      "readings": [
+        "ぎ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>Empire</kanji> (帝国) <kanji>ism</kanji> (主義) is when you are doing <vocabulary>imperialism</vocabulary>. Long live the emperor!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Will help to know the two words this word is made up of, 帝国 and 主義.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B8%9D%E5%9B%BD%E4%B8%BB%E7%BE%A9",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "帝",
+      "id": 1967,
+      "reading": "てい"
+    },
+    {
+      "type": "kanji",
+      "value": "国",
+      "id": 621,
+      "reading": "こく"
+    },
+    {
+      "type": "kanji",
+      "value": "主",
+      "id": 528,
+      "reading": "しゅ"
+    },
+    {
+      "type": "kanji",
+      "value": "義",
+      "id": 1154,
+      "reading": "ぎ"
+    }
+  ]
+}

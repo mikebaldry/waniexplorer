@@ -1,0 +1,31 @@
+{
+  "id": 4170,
+  "type": "vocabulary",
+  "characters": "〜冊",
+  "primaryMeaning": "Book Counter",
+  "otherMeanings": [
+    "Counter For Books"
+  ],
+  "primaryReading": "さつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1071,
+      "character": "冊",
+      "readings": [
+        "さつ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "The reading is the same as well. It's probably treated like on'yomi jukugo because it's attached to things (like numbers!).",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E3%80%9C%E5%86%8A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "冊",
+      "id": 1071,
+      "reading": "さつ"
+    }
+  ]
+}

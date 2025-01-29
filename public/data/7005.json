@@ -1,0 +1,46 @@
+{
+  "id": 7005,
+  "type": "vocabulary",
+  "characters": "零時",
+  "primaryMeaning": "Midnight",
+  "otherMeanings": [
+    "Twelve O'clock"
+  ],
+  "primaryReading": "れいじ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1958,
+      "character": "零",
+      "readings": [
+        "れい",
+        "こぼ"
+      ]
+    },
+    {
+      "id": 662,
+      "character": "時",
+      "readings": [
+        "じ",
+        "とき"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Zero</kanji> <kanji>o'clock</kanji> is 0:00. That's <vocabulary>midnight</vocabulary> or <vocabulary>twelve o'clock</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9B%B6%E6%99%82",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "零",
+      "id": 1958,
+      "reading": "れい"
+    },
+    {
+      "type": "kanji",
+      "value": "時",
+      "id": 662,
+      "reading": "じ"
+    }
+  ]
+}

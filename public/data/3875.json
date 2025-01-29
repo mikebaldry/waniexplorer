@@ -1,0 +1,51 @@
+{
+  "id": 3875,
+  "type": "vocabulary",
+  "characters": "外面",
+  "primaryMeaning": "External Appearance",
+  "otherMeanings": [
+    "Outward Appearance",
+    "Surface"
+  ],
+  "primaryReading": "がいめん",
+  "otherReadings": [
+    "そとづら"
+  ],
+  "kanji": [
+    {
+      "id": 521,
+      "character": "外",
+      "readings": [
+        "がい",
+        "そと",
+        "はず"
+      ]
+    },
+    {
+      "id": 974,
+      "character": "面",
+      "readings": [
+        "めん",
+        "おも",
+        "おもて"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>outside</kanji> <kanji>face</kanji> to something is the <vocabulary>external appearance</vocabulary> of that thing.\n\nWhile 外面 can refer to the outer surface of an object, it’s more commonly used to describe someone's <vocabulary>outward appearance</vocabulary>, behavior, or demeanor on the <vocabulary>surface</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji, so this is がいめん. But note that this can also use the kun’yomi readings, which makes it そとづら.\n\nWhile がいめん is neutral, そとづら is a bit negative, often implying that the person's outward appearance might be deceptive, hiding their true nature.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A4%96%E9%9D%A2",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "外",
+      "id": 521,
+      "reading": "がい"
+    },
+    {
+      "type": "kanji",
+      "value": "面",
+      "id": 974,
+      "reading": "めん"
+    }
+  ]
+}

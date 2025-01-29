@@ -1,0 +1,48 @@
+{
+  "id": 7810,
+  "type": "vocabulary",
+  "characters": "焦燥",
+  "primaryMeaning": "Impatience",
+  "otherMeanings": [
+    "Uneasy",
+    "Irritation"
+  ],
+  "primaryReading": "しょうそう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1827,
+      "character": "焦",
+      "readings": [
+        "しょう",
+        "こ",
+        "あせ"
+      ]
+    },
+    {
+      "id": 2127,
+      "character": "燥",
+      "readings": [
+        "そう",
+        "はしゃ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you want to <kanji>char</kanji> fish for dinner it will <kanji>dry up</kanji> because of your own <vocabulary>impatience</vocabulary>. Charring fish takes time and if you're too <vocabulary>uneasy</vocabulary> and shove it too far in the fire it will dry out, burn, and get gross.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%84%A6%E7%87%A5",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "焦",
+      "id": 1827,
+      "reading": "しょう"
+    },
+    {
+      "type": "kanji",
+      "value": "燥",
+      "id": 2127,
+      "reading": "そう"
+    }
+  ]
+}

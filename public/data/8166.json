@@ -1,0 +1,33 @@
+{
+  "id": 8166,
+  "type": "vocabulary",
+  "characters": "鎌",
+  "primaryMeaning": "Sickle",
+  "otherMeanings": [
+    "Scythe"
+  ],
+  "primaryReading": "かま",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2246,
+      "character": "鎌",
+      "readings": [
+        "かま",
+        "けん",
+        "れん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%8E%8C",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "鎌",
+      "id": 2246,
+      "reading": "かま"
+    }
+  ]
+}

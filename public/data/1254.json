@@ -1,0 +1,38 @@
+{
+  "id": 1254,
+  "type": "kanji",
+  "character": "響",
+  "primaryMeaning": "Echo",
+  "otherMeanings": [
+    "Reverberation",
+    "Resound"
+  ],
+  "primaryReading": "きょう",
+  "readings": [
+    {
+      "reading": "きょう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ひび",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "The <kanji>echo</kanji> doesn't stop there, this building's roots extend throughout the entire city of <reading>きょう</reading>と. The echo reverberates and soon everyone in きょうと is listening, horrified, to your poop.",
+  "meaningMnemonic": "If you <radical>poop</radical> on the <radical>root</radical>s of a <radical>building</radical>, the <radical>sound</radical> will <kanji>echo</kanji> all the way through the building, and each and every person in there will know what you did.",
+  "vocabularyIds": [
+    4779,
+    4780,
+    5102,
+    7767
+  ],
+  "radicalIds": [
+    87,
+    196,
+    176,
+    197
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%9F%BF"
+}

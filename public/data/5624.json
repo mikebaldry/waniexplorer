@@ -1,0 +1,35 @@
+{
+  "id": 5624,
+  "type": "vocabulary",
+  "characters": "否",
+  "primaryMeaning": "No",
+  "otherMeanings": [
+    "Not"
+  ],
+  "primaryReading": "いな",
+  "otherReadings": [
+    "いや"
+  ],
+  "kanji": [
+    {
+      "id": 1517,
+      "character": "否",
+      "readings": [
+        "ひ",
+        "いな",
+        "いや"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.\n\nNote that 否  ( いな ) is very formal and somewhat archaic. Today, it's most commonly used in the expression  〜か否か  (whether… or <vocabulary>not</vocabulary>).",
+  "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You did not learn this reading, so here's a mnemonic to help you: \n\nInstead of saying \"no\" you say \"na,\" and instead of saying \"na\" you say <reading>いな</reading>. \n\nNote that 否 can also be read いや, which is a common way to say “no” in modern Japanese, but that reading is almost always written in kana.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%90%A6",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "否",
+      "id": 1517,
+      "reading": "いな"
+    }
+  ]
+}

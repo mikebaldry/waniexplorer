@@ -1,0 +1,46 @@
+{
+  "id": 4164,
+  "type": "vocabulary",
+  "characters": "実験",
+  "primaryMeaning": "Experiment",
+  "otherMeanings": [],
+  "primaryReading": "じっけん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 715,
+      "character": "実",
+      "readings": [
+        "じつ",
+        "み",
+        "みの"
+      ]
+    },
+    {
+      "id": 1048,
+      "character": "験",
+      "readings": [
+        "けん",
+        "ため",
+        "ためし"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>test</kanji> that tries to find <kanji>truth</kanji> is an <vocabulary>experiment</vocabulary>. This is because you don't know the truth, so the only way to find it is to try things out and test them. Thus, experiment!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Take note that the つ in じつ is turned into a small っ, though.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AE%9F%E9%A8%93",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "実",
+      "id": 715,
+      "reading": null
+    },
+    {
+      "type": "kanji",
+      "value": "験",
+      "id": 1048,
+      "reading": null
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": 9050,
+  "type": "vocabulary",
+  "characters": "乗馬",
+  "primaryMeaning": "Horseback Riding",
+  "otherMeanings": [
+    "Horse Riding"
+  ],
+  "primaryReading": "じょうば",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 722,
+      "character": "乗",
+      "readings": [
+        "の",
+        "じょう"
+      ]
+    },
+    {
+      "id": 692,
+      "character": "馬",
+      "readings": [
+        "ば",
+        "め",
+        "うま",
+        "ま"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you <kanji>ride</kanji> a <kanji>horse</kanji>, that's <vocabulary>horseback riding</vocabulary> or, in some parts of the world, simply <vocabulary>horse riding</vocabulary>. ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You haven't learned this reading for 乗, so here's a mnemonic to help you:\n\nKnow who loves <vocabulary>horseback riding</vocabulary>? That's right, <reading>Joe</reading> (じょう) the farmhand. It makes sense, with him being a farmhand and all.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B9%97%E9%A6%AC",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "乗",
+      "id": 722,
+      "reading": "じょう"
+    },
+    {
+      "type": "kanji",
+      "value": "馬",
+      "id": 692,
+      "reading": "ば"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 1853,
+  "type": "kanji",
+  "character": "封",
+  "primaryMeaning": "Seal",
+  "otherMeanings": [
+    "Seal In",
+    "Closing"
+  ],
+  "primaryReading": "ふう",
+  "readings": [
+    {
+      "reading": "ふう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ほう",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "You can also <kanji>seal</kanji> <reading>foo</reading>d (ふう) in dirt to make it last longer. That's how jerky came about, you know. Seal some meat underground and in a few months you'll have some tasty dried meats to chew.\n\nBy the way, this has another reading you should probably know. It’s ほう. Most sealing is done in the <reading>ho</reading>me (ほう), you know? So just think about eating food in your own home!",
+  "meaningMnemonic": "You need to make a <radical>measurement</radical> of an area so you take two clumps of <radical>dirt</radical> to <kanji>seal in</kanji> each side of your measuring tape, so it stays on the ground. This is the way people used to seal things back in the day, back when we didn't have fancy things like tape and glue.",
+  "vocabularyIds": [
+    6702,
+    6703,
+    6704,
+    6705,
+    6706,
+    7943
+  ],
+  "radicalIds": [
+    17,
+    74
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%B0%81"
+}

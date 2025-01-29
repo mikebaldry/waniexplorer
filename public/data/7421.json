@@ -1,0 +1,45 @@
+{
+  "id": 7421,
+  "type": "vocabulary",
+  "characters": "運搬",
+  "primaryMeaning": "Transport",
+  "otherMeanings": [
+    "Carriage"
+  ],
+  "primaryReading": "うんぱん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 752,
+      "character": "運",
+      "readings": [
+        "うん",
+        "はこ"
+      ]
+    },
+    {
+      "id": 2114,
+      "character": "搬",
+      "readings": [
+        "はん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "To <kanji>carry</kanji> you and <kanji>transport</kanji> you. That's a form of <vocabulary>transport</vocabulary>. Could also be a <vocabulary>carriage</vocabulary>, which is also a form of transport.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Watch out for the rendaku.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%81%8B%E6%90%AC",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "運",
+      "id": 752,
+      "reading": "うん"
+    },
+    {
+      "type": "kanji",
+      "value": "搬",
+      "id": 2114,
+      "reading": "ぱん"
+    }
+  ]
+}

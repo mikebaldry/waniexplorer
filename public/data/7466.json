@@ -1,0 +1,60 @@
+{
+  "id": 7466,
+  "type": "vocabulary",
+  "characters": "発売中",
+  "primaryMeaning": "Now For Sale",
+  "otherMeanings": [
+    "In Stores Now",
+    "Now Available"
+  ],
+  "primaryReading": "はつばいちゅう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 729,
+      "character": "発",
+      "readings": [
+        "はつ"
+      ]
+    },
+    {
+      "id": 587,
+      "character": "売",
+      "readings": [
+        "ばい",
+        "う"
+      ]
+    },
+    {
+      "id": 469,
+      "character": "中",
+      "readings": [
+        "ちゅう",
+        "なか"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You have 発売, which means \"for sale,\" and then you have 中 which is <kanji>middle</kanji>. An item that is in the middle of being for sale is <vocabulary>now for sale</vocabulary>, <vocabulary>in stores now</vocabulary> or in other words <vocabulary>now available</vocabulary>. You'll see this for items which have recently been released or when a shopkeeper wants to let you know that they're selling something now, finally, or whatever.",
+  "readingMnemonic": "The reading comes from 発売 and 中 (kanji reading) put together.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%99%BA%E5%A3%B2%E4%B8%AD",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "発",
+      "id": 729,
+      "reading": "はつ"
+    },
+    {
+      "type": "kanji",
+      "value": "売",
+      "id": 587,
+      "reading": "ばい"
+    },
+    {
+      "type": "kanji",
+      "value": "中",
+      "id": 469,
+      "reading": "ちゅう"
+    }
+  ]
+}

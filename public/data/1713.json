@@ -1,0 +1,33 @@
+{
+  "id": 1713,
+  "type": "kanji",
+  "character": "雇",
+  "primaryMeaning": "Employ",
+  "otherMeanings": [],
+  "primaryReading": "こ",
+  "readings": [
+    {
+      "reading": "こ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "やと",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Although you <kanji>employ</kanji> turkeys, when a <reading>子</reading> (こ) walks through your door, you send them away.",
+  "meaningMnemonic": "Whenever a <radical>turkey</radical> comes in the <radical>door</radical>, you <kanji>employ</kanji> them.",
+  "vocabularyIds": [
+    6267,
+    6268,
+    6269,
+    6460
+  ],
+  "radicalIds": [
+    240,
+    73
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%9B%87"
+}

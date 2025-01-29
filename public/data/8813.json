@@ -1,0 +1,52 @@
+{
+  "id": 8813,
+  "type": "vocabulary",
+  "characters": "洗濯する",
+  "primaryMeaning": "To Wash",
+  "otherMeanings": [
+    "To Do Laundry"
+  ],
+  "primaryReading": "せんたくする",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1043,
+      "character": "洗",
+      "readings": [
+        "せん",
+        "あら"
+      ]
+    },
+    {
+      "id": 2126,
+      "character": "濯",
+      "readings": [
+        "たく",
+        "すす",
+        "ゆす",
+        "そそぐ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Wash</kanji> <kanji>wash</kanji> <vocabulary>to wash</vocabulary> your clothes. You wash wash your laundry. Hmm wash wash sounds like the sound my laundry machine makes when it's washing my underpants.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B4%97%E6%BF%AF%E3%81%99%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "洗",
+      "id": 1043,
+      "reading": "せん"
+    },
+    {
+      "type": "kanji",
+      "value": "濯",
+      "id": 2126,
+      "reading": "たく"
+    },
+    {
+      "type": "kana",
+      "value": "する"
+    }
+  ]
+}

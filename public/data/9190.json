@@ -1,0 +1,113 @@
+{
+  "id": 9190,
+  "object": "kana_vocabulary",
+  "url": "https://api.wanikani.com/v2/subjects/9190",
+  "data_updated_at": "2024-10-15T22:19:11.905712Z",
+  "data": {
+    "created_at": "2023-04-24T22:44:09.937711Z",
+    "level": 4,
+    "slug": "さようなら",
+    "hidden_at": null,
+    "document_url": "https://www.wanikani.com/vocabulary/%E3%81%95%E3%82%88%E3%81%86%E3%81%AA%E3%82%89",
+    "characters": "さようなら",
+    "meanings": [
+      {
+        "meaning": "Goodbye",
+        "primary": true,
+        "accepted_answer": true
+      }
+    ],
+    "auxiliary_meanings": [
+      {
+        "meaning": "Bye",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "So Long",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Adieu",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Good-Bye",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Farewell",
+        "type": "whitelist"
+      }
+    ],
+    "parts_of_speech": [
+      "expression"
+    ],
+    "meaning_mnemonic": "I <reading>saw your Nara</reading> (さようなら), but I then had to say <vocabulary>goodbye</vocabulary>. It was just a short trip, but at least I saw your Nara.\n\nさようなら is a formal way to say goodbye, so a good word to use with colleagues and teachers.\n\nA quick tip before I say goodbye: さようなら often drops its middle う, becoming さよなら.",
+    "context_sentences": [
+      {
+        "en": "Goodbye Sensei.",
+        "ja": "先生、さようなら。"
+      },
+      {
+        "en": "Goodbye January. Hello February.",
+        "ja": "さようなら、一月。こんにちは、二月。"
+      },
+      {
+        "en": "So long, and thanks for all the fish.",
+        "ja": "さようなら、今までサカナをありがとう。"
+      }
+    ],
+    "pronunciation_audios": [
+      {
+        "url": "https://files.wanikani.com/hcsh3at0vza8tpki4pirf26q13lb",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44705,
+          "pronunciation": "さようなら",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      },
+      {
+        "url": "https://files.wanikani.com/0we3i8b1i9jkbicayy7f6vfkmq3c",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44764,
+          "pronunciation": "さようなら",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/g0ebpiopdf9s5lsym9zw16xo2s1q",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44764,
+          "pronunciation": "さようなら",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      },
+      {
+        "url": "https://files.wanikani.com/3b97ekvit72j8os17ifkhy5s1drb",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44705,
+          "pronunciation": "さようなら",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      }
+    ],
+    "lesson_position": 2,
+    "spaced_repetition_system_id": 1
+  }
+}

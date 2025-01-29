@@ -1,0 +1,34 @@
+{
+  "id": 1997,
+  "type": "kanji",
+  "character": "憎",
+  "primaryMeaning": "Hate",
+  "otherMeanings": [],
+  "primaryReading": "ぞう",
+  "readings": [
+    {
+      "reading": "ぞう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "にく",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "It turns out you're not looking at normal people. You see so much <kanji>hate</kanji> because all the people you're looking at are actually just a group of <reading>zo</reading>mbies (ぞう).",
+  "meaningMnemonic": "The <radical>soul</radical> <radical>mask</radical> helps you to see the deepest part of anyone's soul. You look around and in all the people you only see <kanji>hate</kanji>.",
+  "vocabularyIds": [
+    7105,
+    7106,
+    7262,
+    7263,
+    7264
+  ],
+  "radicalIds": [
+    232,
+    259
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%86%8E"
+}

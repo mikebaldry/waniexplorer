@@ -1,0 +1,25 @@
+{
+  "id": 883,
+  "type": "kanji",
+  "character": "課",
+  "primaryMeaning": "Section",
+  "otherMeanings": [],
+  "primaryReading": "か",
+  "readings": [
+    {
+      "reading": "か",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "To get to the fruit <kanji>section</kanji>, you have to go to the store. To get to the store you have to drive a <reading>ca</reading>r (か). Driving a car is the fastest way to get to the fruit section at the store.",
+  "meaningMnemonic": "I always <radical>say</radical> the <radical>fruit</radical> <kanji>section</kanji> at the grocery should be at the front of the store. It’s the perfect place for the fruit section, I say.",
+  "vocabularyIds": [
+    3623
+  ],
+  "radicalIds": [
+    117,
+    235
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%AA%B2"
+}

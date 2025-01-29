@@ -1,0 +1,34 @@
+{
+  "id": 7112,
+  "type": "vocabulary",
+  "characters": "扉",
+  "primaryMeaning": "Front Door",
+  "otherMeanings": [
+    "Door",
+    "Gate",
+    "Front Page"
+  ],
+  "primaryReading": "とびら",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2000,
+      "character": "扉",
+      "readings": [
+        "ひ",
+        "とびら"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "Out of the <vocabulary>front door</vocabulary> <reading>jump</reading>s (飛び) <reading>Ra</reading> (ら). Every morning he can't wait to burst forth from the front door to soak in the Sun. He is the Egyptian sun god, after all.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%89%89",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "扉",
+      "id": 2000,
+      "reading": "とびら"
+    }
+  ]
+}

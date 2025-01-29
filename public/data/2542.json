@@ -1,0 +1,33 @@
+{
+  "id": 2542,
+  "type": "vocabulary",
+  "characters": "月",
+  "primaryMeaning": "Moon",
+  "otherMeanings": [
+    "Month"
+  ],
+  "primaryReading": "つき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 477,
+      "character": "月",
+      "readings": [
+        "げつ",
+        "がつ",
+        "つき"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "Since this word is made up of a single kanji, it should use the kun'yomi reading. When learning the kanji, you didn't learn that reading, so here's a mnemonic to help you with this word:\n\nLook up at that big, bright moon. You have to open it up and take what's inside. To do that, you are required to have <reading>two key</reading>s (つき), and they have to be turned at the same time. Imagine you and a friend both turning your keys on opposite sides of the moon to open up the center.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9C%88",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "月",
+      "id": 477,
+      "reading": "つき"
+    }
+  ]
+}

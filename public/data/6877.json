@@ -1,0 +1,53 @@
+{
+  "id": 6877,
+  "type": "vocabulary",
+  "characters": "若い頃",
+  "primaryMeaning": "One's Youth",
+  "otherMeanings": [
+    "Early Life"
+  ],
+  "primaryReading": "わかいころ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1065,
+      "character": "若",
+      "readings": [
+        "わか",
+        "も",
+        "じゃく"
+      ]
+    },
+    {
+      "id": 1914,
+      "character": "頃",
+      "readings": [
+        "ころ",
+        "ごろ",
+        "けい",
+        "きょう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>young</kanji> <kanji>approximate</kanji> is the approximate age of when you were young. This, approximately, is <vocabulary>one's youth</vocabulary> or <vocabulary>early life</vocabulary>.",
+  "readingMnemonic": "The reading is 若い and 頃 combined into one.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%8B%A5%E3%81%84%E9%A0%83",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "若",
+      "id": 1065,
+      "reading": "わか"
+    },
+    {
+      "type": "kana",
+      "value": "い"
+    },
+    {
+      "type": "kanji",
+      "value": "頃",
+      "id": 1914,
+      "reading": "ころ"
+    }
+  ]
+}

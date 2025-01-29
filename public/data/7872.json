@@ -1,0 +1,49 @@
+{
+  "id": 7872,
+  "type": "vocabulary",
+  "characters": "噴出",
+  "primaryMeaning": "Spewing",
+  "otherMeanings": [
+    "Gushing",
+    "Spouting",
+    "Eruption"
+  ],
+  "primaryReading": "ふんしゅつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2164,
+      "character": "噴",
+      "readings": [
+        "ふん",
+        "ふ"
+      ]
+    },
+    {
+      "id": 483,
+      "character": "出",
+      "readings": [
+        "しゅつ",
+        "で",
+        "だ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When something <kanji>erupt</kanji>s out an <kanji>exit</kanji> it usually had to fight pretty hard to get to that exit. That's why it ends up <vocabulary>spewing</vocabulary> and <vocabulary>gushing</vocabulary> all over the place.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%99%B4%E5%87%BA",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "噴",
+      "id": 2164,
+      "reading": "ふん"
+    },
+    {
+      "type": "kanji",
+      "value": "出",
+      "id": 483,
+      "reading": "しゅつ"
+    }
+  ]
+}

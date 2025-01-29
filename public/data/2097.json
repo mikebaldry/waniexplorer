@@ -1,0 +1,32 @@
+{
+  "id": 2097,
+  "type": "kanji",
+  "character": "諮",
+  "primaryMeaning": "Consult",
+  "otherMeanings": [],
+  "primaryReading": "し",
+  "readings": [
+    {
+      "reading": "し",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "はか",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You panic, and <kanji>consult</kanji> the man into buying a <reading>shee</reading>p (し).",
+  "meaningMnemonic": "Watch what you <radical>say</radical> to the <radical>next</radical> <radical>mouth</radical> over, because they hired you to <kanji>consult</kanji> them.",
+  "vocabularyIds": [
+    7384,
+    7385
+  ],
+  "radicalIds": [
+    117,
+    278,
+    16
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%AB%AE"
+}

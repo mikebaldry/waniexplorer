@@ -1,0 +1,30 @@
+{
+  "id": 5768,
+  "type": "vocabulary",
+  "characters": "縦",
+  "primaryMeaning": "Vertical",
+  "otherMeanings": [],
+  "primaryReading": "たて",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1556,
+      "character": "縦",
+      "readings": [
+        "たて",
+        "じゅう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B8%A6",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "縦",
+      "id": 1556,
+      "reading": "たて"
+    }
+  ]
+}

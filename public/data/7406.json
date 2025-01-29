@@ -1,0 +1,49 @@
+{
+  "id": 7406,
+  "type": "vocabulary",
+  "characters": "仰天",
+  "primaryMeaning": "Taken Aback",
+  "otherMeanings": [
+    "Amazed",
+    "Horrified",
+    "Flabbergasted"
+  ],
+  "primaryReading": "ぎょうてん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2107,
+      "character": "仰",
+      "readings": [
+        "ぎょう",
+        "こう",
+        "あお"
+      ]
+    },
+    {
+      "id": 473,
+      "character": "天",
+      "readings": [
+        "てん",
+        "あま"
+      ]
+    }
+  ],
+  "meaningMnemonic": "I <kanji>look up to</kanji> <kanji>heaven</kanji>, and I am <vocabulary>taken aback</vocabulary> and <vocabulary>amazed</vocabulary> by it. It's just so amazing.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BB%B0%E5%A4%A9",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "仰",
+      "id": 2107,
+      "reading": "ぎょう"
+    },
+    {
+      "type": "kanji",
+      "value": "天",
+      "id": 473,
+      "reading": "てん"
+    }
+  ]
+}

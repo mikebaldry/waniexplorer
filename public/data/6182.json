@@ -1,0 +1,36 @@
+{
+  "id": 6182,
+  "type": "vocabulary",
+  "characters": "傾く",
+  "primaryMeaning": "To Be Leaned",
+  "otherMeanings": [
+    "To Be Tilted"
+  ],
+  "primaryReading": "かたむく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1687,
+      "character": "傾",
+      "readings": [
+        "けい",
+        "かたむ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>lean</kanji>, and the verb vocab version means <vocabulary>to be leaned</vocabulary> or <vocabulary>to be tilted</vocabulary>. You aren't doing the leaning or the tilting, though, you're just watching, which is why you say \"cool\" (く) when you see it, because it's already done.",
+  "readingMnemonic": "You <reading>cut a moo</reading> (かたむ), that is, a cow, in half. Then you request it is leaned up against the fence so you can start harvesting its meat for sustenance. ",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%82%BE%E3%81%8F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "傾",
+      "id": 1687,
+      "reading": "かたむ"
+    },
+    {
+      "type": "kana",
+      "value": "く"
+    }
+  ]
+}

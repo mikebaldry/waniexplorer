@@ -1,0 +1,25 @@
+{
+  "id": 1479,
+  "type": "kanji",
+  "character": "綺",
+  "primaryMeaning": "Beautiful",
+  "otherMeanings": [],
+  "primaryReading": "き",
+  "readings": [
+    {
+      "reading": "き",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "You take this <kanji>beautiful</kanji> thread and lock it up with a <reading>key</reading> (き). You want to keep it all to yourself, you want its beauty to be for your eyes only!",
+  "meaningMnemonic": "This <radical>thread</radical> is <radical>odd</radical>, but that's what makes it <kanji>beautiful</kanji>. It's a little frayed, it's a little miscolored, but that's what makes it appealing to you.",
+  "vocabularyIds": [
+    5502
+  ],
+  "radicalIds": [
+    86,
+    326
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%B6%BA"
+}

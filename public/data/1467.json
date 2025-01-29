@@ -1,0 +1,40 @@
+{
+  "id": 1467,
+  "type": "kanji",
+  "character": "粉",
+  "primaryMeaning": "Powder",
+  "otherMeanings": [],
+  "primaryReading": "ふん",
+  "readings": [
+    {
+      "reading": "ふん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "こな",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "こ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Actually, grinding the rice down to a <kanji>powder</kanji> is super <reading>fun</reading> (ふん). It’s so fun you don’t want to stop! AH HAHAHAHA! RICE POWDER! SO FUN!",
+  "meaningMnemonic": "If you grind <radical>rice</radical>, every <radical>part</radical> of it, eventually it will become a fine <kanji>powder</kanji>. You can then use this rice powder as a part to create some other dish. Some kind of cake, perhaps.",
+  "vocabularyIds": [
+    5470,
+    5472,
+    5473,
+    5700,
+    7059,
+    7807
+  ],
+  "radicalIds": [
+    98,
+    247
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%B2%89"
+}

@@ -1,0 +1,40 @@
+{
+  "id": 8852,
+  "type": "vocabulary",
+  "characters": "叩く",
+  "primaryMeaning": "To Strike",
+  "otherMeanings": [
+    "To Tap",
+    "To Hit",
+    "To Knock",
+    "To Beat"
+  ],
+  "primaryReading": "たたく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 8839,
+      "character": "叩",
+      "readings": [
+        "こう",
+        "たた",
+        "はた"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>tap</kanji> or <kanji>strike</kanji>, and the verb version is <vocabulary>to strike</vocabulary>, <vocabulary>to tap</vocabulary>, <vocabulary>to hit</vocabulary>, <vocabulary>to knock</vocabulary>, or <vocabulary>to beat</vocabulary>.\n\nThis verb can be used for both things and people, and the English translation will change depending on what it is you're striking. You'll always have some kind of object, though, since this is a transitive verb. So you might tap someone on the shoulder, knock at a door, or beat a drum.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You haven't learned this reading yet, so here's a mnemonic to help you:\n\nWhen you're going <vocabulary>to strike</vocabulary> something over and over it makes a <reading>ta-ta</reading> (たた) sound. Imagine you're about <vocabulary>to beat</vocabulary> a steel drum, for example. Now listen... たた! There! Did you hear it?",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8F%A9%E3%81%8F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "叩",
+      "id": 8839,
+      "reading": "たた"
+    },
+    {
+      "type": "kana",
+      "value": "く"
+    }
+  ]
+}

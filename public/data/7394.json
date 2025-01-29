@@ -1,0 +1,45 @@
+{
+  "id": 7394,
+  "type": "vocabulary",
+  "characters": "漂着",
+  "primaryMeaning": "Drifting Ashore",
+  "otherMeanings": [],
+  "primaryReading": "ひょうちゃく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2101,
+      "character": "漂",
+      "readings": [
+        "ひょう",
+        "ただよ"
+      ]
+    },
+    {
+      "id": 846,
+      "character": "着",
+      "readings": [
+        "ちゃく",
+        "き",
+        "つ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Something has <kanji>drift</kanji>ed to the point where it has <kanji>arrive</kanji>d. Where do drifting things arrive? They arrive on shore (as they drift on top of water). That makes this word <vocabulary>drifting ashore</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%BC%82%E7%9D%80",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "漂",
+      "id": 2101,
+      "reading": "ひょう"
+    },
+    {
+      "type": "kanji",
+      "value": "着",
+      "id": 846,
+      "reading": "ちゃく"
+    }
+  ]
+}

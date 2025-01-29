@@ -1,0 +1,30 @@
+{
+  "id": 3064,
+  "type": "vocabulary",
+  "characters": "雲",
+  "primaryMeaning": "Cloud",
+  "otherMeanings": [],
+  "primaryReading": "くも",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 702,
+      "character": "雲",
+      "readings": [
+        "くも",
+        "うん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "This word uses the kun'yomi reading because it's a single kanji on its own. Luckily, that's the reading you learned with the kanji already, so you should be able to read this.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9B%B2",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "雲",
+      "id": 702,
+      "reading": "くも"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 5147,
+  "type": "vocabulary",
+  "characters": "幼い",
+  "primaryMeaning": "Very Young",
+  "otherMeanings": [
+    "Childish"
+  ],
+  "primaryReading": "おさない",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1352,
+      "character": "幼",
+      "readings": [
+        "よう",
+        "おさな"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji means <kanji>infancy</kanji>. The adjective version describes someone who is <vocabulary>very young</vocabulary>, like little kids in their early childhood or babyhood!\n\nDepending on the context, it can also describe behaviors or ideas that are <vocabulary>childish</vocabulary> or immature, often with a negative connotation.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you:\n\nWhen you were <vocabulary>very young</vocabulary> and <vocabulary>childish</vocabulary> you were sent off to do prayers to ask for forgiveness. One of the things you had to do was sing \"<reading>hosanna</reading> (おさな) in the highest.\"",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B9%BC%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "幼",
+      "id": 1352,
+      "reading": "おさな"
+    },
+    {
+      "type": "kana",
+      "value": "い"
+    }
+  ]
+}

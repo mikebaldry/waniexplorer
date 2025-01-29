@@ -1,0 +1,48 @@
+{
+  "id": 7962,
+  "type": "vocabulary",
+  "characters": "丹誠",
+  "primaryMeaning": "Working Earnestly",
+  "otherMeanings": [
+    "Sincerity",
+    "Diligence",
+    "Effort"
+  ],
+  "primaryReading": "たんせい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2195,
+      "character": "丹",
+      "readings": [
+        "たん",
+        "に"
+      ]
+    },
+    {
+      "id": 1800,
+      "character": "誠",
+      "readings": [
+        "せい",
+        "まこと"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A miner works with such <kanji>sincerity</kanji> that her arms and legs start turning <kanji>rust colored</kanji> from <vocabulary>working earnestly</vocabulary>. All the clay and rocks she's putting her <vocabulary>effort</vocabulary> into digging are turning her the same color. That color is how you know someone works with serious <vocabulary>diligence</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%B9%E8%AA%A0",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "丹",
+      "id": 2195,
+      "reading": "たん"
+    },
+    {
+      "type": "kanji",
+      "value": "誠",
+      "id": 1800,
+      "reading": "せい"
+    }
+  ]
+}

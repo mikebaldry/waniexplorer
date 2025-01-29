@@ -1,0 +1,47 @@
+{
+  "id": 4029,
+  "type": "vocabulary",
+  "characters": "薬学",
+  "primaryMeaning": "Study Of Pharmacy",
+  "otherMeanings": [
+    "Pharmacology",
+    "Pharmaceutics"
+  ],
+  "primaryReading": "やくがく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 997,
+      "character": "薬",
+      "readings": [
+        "やく",
+        "くすり"
+      ]
+    },
+    {
+      "id": 599,
+      "character": "学",
+      "readings": [
+        "がく",
+        "まな"
+      ]
+    }
+  ],
+  "meaningMnemonic": "People who <kanji>study</kanji> about <kanji>medicine</kanji> are studying the <vocabulary>study of pharmacy</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%96%AC%E5%AD%A6",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "薬",
+      "id": 997,
+      "reading": "やく"
+    },
+    {
+      "type": "kanji",
+      "value": "学",
+      "id": 599,
+      "reading": "がく"
+    }
+  ]
+}

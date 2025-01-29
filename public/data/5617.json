@@ -1,0 +1,44 @@
+{
+  "id": 5617,
+  "type": "vocabulary",
+  "characters": "墓場",
+  "primaryMeaning": "Graveyard",
+  "otherMeanings": [],
+  "primaryReading": "はかば",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1474,
+      "character": "墓",
+      "readings": [
+        "ぼ",
+        "はか"
+      ]
+    },
+    {
+      "id": 694,
+      "character": "場",
+      "readings": [
+        "じょう",
+        "ば"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>grave</kanji> <kanji>location</kanji> is a place where there are graves. It is a <vocabulary>graveyard</vocabulary>.\n\nThis word is more direct and informal than 墓地, so using 墓場 for an actual cemetery might come off as disrespectful. It's commonly used in phrases like ゆりかごから墓場まで (from the cradle to the grave) or 墓場まで持っていく (take a secret to the grave).",
+  "readingMnemonic": "This word uses the kun'yomi for both kanji, which is fairly unusual, but then graveyards are unusual and special places. You've learned both of these readings before, so you should be able to read this on your own, but here's a reminder for 墓 just in case:\n\nWhen you're finally dead and buried in a <vocabulary>graveyard</vocabulary>, your one wish is for the New Zealand All Blacks to do the <reading>Haka</reading> (はか) over your grave. If you don't know what the haka is, look it up, it's pretty neat.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A2%93%E5%A0%B4",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "墓",
+      "id": 1474,
+      "reading": "はか"
+    },
+    {
+      "type": "kanji",
+      "value": "場",
+      "id": 694,
+      "reading": "ば"
+    }
+  ]
+}

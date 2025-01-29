@@ -1,0 +1,34 @@
+{
+  "id": 8592,
+  "type": "vocabulary",
+  "characters": "雌",
+  "primaryMeaning": "Female",
+  "otherMeanings": [
+    "Female Animal"
+  ],
+  "primaryReading": "めす",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2405,
+      "character": "雌",
+      "readings": [
+        "めす",
+        "め",
+        "めん",
+        "し"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.\n\nNote that this is often written in katakana, as in メス.",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9B%8C",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "雌",
+      "id": 2405,
+      "reading": "めす"
+    }
+  ]
+}

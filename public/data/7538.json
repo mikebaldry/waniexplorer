@@ -1,0 +1,45 @@
+{
+  "id": 7538,
+  "type": "vocabulary",
+  "characters": "表情",
+  "primaryMeaning": "Facial Expression",
+  "otherMeanings": [],
+  "primaryReading": "ひょうじょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 720,
+      "character": "表",
+      "readings": [
+        "ひょう",
+        "あらわ",
+        "おもて"
+      ]
+    },
+    {
+      "id": 891,
+      "character": "情",
+      "readings": [
+        "じょう",
+        "なさ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you <kanji>express</kanji> a <kanji>feeling</kanji> it shows on your face. This is called a <vocabulary>facial expression</vocabulary>. ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A1%A8%E6%83%85",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "表",
+      "id": 720,
+      "reading": "ひょう"
+    },
+    {
+      "type": "kanji",
+      "value": "情",
+      "id": 891,
+      "reading": "じょう"
+    }
+  ]
+}

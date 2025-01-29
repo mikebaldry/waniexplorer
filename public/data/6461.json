@@ -1,0 +1,44 @@
+{
+  "id": 6461,
+  "type": "vocabulary",
+  "characters": "破片",
+  "primaryMeaning": "Fragment",
+  "otherMeanings": [],
+  "primaryReading": "はへん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1582,
+      "character": "破",
+      "readings": [
+        "は",
+        "やぶ"
+      ]
+    },
+    {
+      "id": 1718,
+      "character": "片",
+      "readings": [
+        "かた",
+        "へん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Tear</kanji> off a <kanji>one-sided</kanji> piece. It's only one part, not all the parts. It's a <vocabulary>fragment</vocabulary>.",
+  "readingMnemonic": "The 破 reading is the one you learned, the 片 reading isn't one you've learned. Just think about how you're tearing off pieces of a <reading>hen</reading> (へん), one fragment at a time. Here little chicken, I want another feather from you please. *CAW*",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A0%B4%E7%89%87",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "破",
+      "id": 1582,
+      "reading": "は"
+    },
+    {
+      "type": "kanji",
+      "value": "片",
+      "id": 1718,
+      "reading": "へん"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 6624,
+  "type": "vocabulary",
+  "characters": "範囲",
+  "primaryMeaning": "Extent",
+  "otherMeanings": [
+    "Scope"
+  ],
+  "primaryReading": "はんい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1828,
+      "character": "範",
+      "readings": [
+        "はん"
+      ]
+    },
+    {
+      "id": 901,
+      "character": "囲",
+      "readings": [
+        "い",
+        "かこ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Let's take a look at this <kanji>example</kanji> and <kanji>surround</kanji> it. This example shows the <vocabulary>extent</vocabulary> or <vocabulary>scope</vocabulary> of what we're doing, and the line that surrounds it shows how far that scope goes.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%AF%84%E5%9B%B2",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "範",
+      "id": 1828,
+      "reading": "はん"
+    },
+    {
+      "type": "kanji",
+      "value": "囲",
+      "id": 901,
+      "reading": "い"
+    }
+  ]
+}

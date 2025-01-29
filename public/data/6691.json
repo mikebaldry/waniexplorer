@@ -1,0 +1,46 @@
+{
+  "id": 6691,
+  "type": "vocabulary",
+  "characters": "即座",
+  "primaryMeaning": "Immediate",
+  "otherMeanings": [
+    "Instantaneous"
+  ],
+  "primaryReading": "そくざ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1850,
+      "character": "即",
+      "readings": [
+        "そく",
+        "すなわ"
+      ]
+    },
+    {
+      "id": 1041,
+      "character": "座",
+      "readings": [
+        "ざ",
+        "すわ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "An <kanji>instant</kanji> <kanji>sit</kanji> is <vocabulary>immediate</vocabulary>. It's also <vocabulary>instantaneous</vocabulary>. Just imagine yourself sitting instantly. No time passes between when you were standing and sitting. The instantaneous nature of your sit is definitely... troubling.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8D%B3%E5%BA%A7",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "即",
+      "id": 1850,
+      "reading": "そく"
+    },
+    {
+      "type": "kanji",
+      "value": "座",
+      "id": 1041,
+      "reading": "ざ"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+@import "~bootstrap/scss/bootstrap";
+
+#root {
+  width: 100vw;
+  height: 100vh;
+}
+
+.badge {
+  --bs-badge-border-radius: 2px;
+  --bs-badge-padding-x: 2px;
+  --bs-badge-padding-y: 2px;
+  vertical-align: text-bottom;
+}
+
+.badge.badge-kanji {
+  background-color: #f0a;
+}
+
+.badge.badge-radical {
+  background-color: #0af;
+}
+
+.badge.badge-vocabulary {
+  background-color: #a0f;
+}
+
+.badge.badge-reading-type {
+  vertical-align: top;
+  min-width: 40px;
+  margin-right: 3px;
+}
+
+.card.card-node {
+  width: 250px;
+  --bs-card-spacer-x: 20px;
+  --bs-card-spacer-y: 20px;
+
+  .card-header {
+    --bs-card-cap-padding-x: 5px;
+    --bs-card-cap-padding-y: 5px;
+    
+    .card-header-sub {
+      font-size: 15px;
+    }
+  }
+
+  .list-group {
+    --bs-list-group-item-padding-x: 5px;
+    --bs-list-group-item-padding-y: 5px;
+    font-size: 10px;
+  }
+
+  font-size: 10px;
+}
+
+.card.card-node.card-node-kanji {
+  --bs-card-border-color: #f0a;
+
+  width: 400px;
+
+  .card-header {
+    background-color: #f0a;
+    font-size: 25px;
+  }
+}
+
+.card.card-node.card-node-vocabulary {
+  --bs-card-border-color: #a0f;
+
+  .card-header {
+    background-color: #a0f;
+    font-size: 25px;
+  }
+}
+
+.card.card-node.card-node-radical {
+  --bs-card-border-color: #0af;
+
+  .card-header {
+    background-color: #0af;
+    font-size: 25px;
+
+    .radical-svg {
+      --color-text: #fff;
+      svg {
+        height: 30px;
+        width: auto;
+      }
+    }
+  }
+}

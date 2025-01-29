@@ -1,0 +1,46 @@
+{
+  "id": 7286,
+  "type": "vocabulary",
+  "characters": "基礎",
+  "primaryMeaning": "Foundation",
+  "otherMeanings": [
+    "Fundamentals"
+  ],
+  "primaryReading": "きそ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 917,
+      "character": "基",
+      "readings": [
+        "き",
+        "もと"
+      ]
+    },
+    {
+      "id": 2057,
+      "character": "礎",
+      "readings": [
+        "そ",
+        "いしずえ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>foundation</kanji> of <kanji>foundation</kanji>s is a <vocabulary>foundation</vocabulary>. It is the <vocabulary>fundamentals</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%9F%BA%E7%A4%8E",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "基",
+      "id": 917,
+      "reading": "き"
+    },
+    {
+      "type": "kanji",
+      "value": "礎",
+      "id": 2057,
+      "reading": "そ"
+    }
+  ]
+}

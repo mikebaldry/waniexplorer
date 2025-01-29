@@ -1,0 +1,46 @@
+{
+  "id": 6515,
+  "type": "vocabulary",
+  "characters": "原潜",
+  "primaryMeaning": "Nuclear Submarine",
+  "otherMeanings": [],
+  "primaryReading": "げんせん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 995,
+      "character": "原",
+      "readings": [
+        "げん",
+        "はら"
+      ]
+    },
+    {
+      "id": 1791,
+      "character": "潜",
+      "readings": [
+        "せん",
+        "くぐ",
+        "ひそ",
+        "もぐ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>original</kanji> (often associated with atoms and nuclear tech) <kanji>conceal</kanji>ing machine is the <vocabulary>nuclear submarine</vocabulary>. It is nuclear, and it conceals itself.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8E%9F%E6%BD%9C-6515",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "原",
+      "id": 995,
+      "reading": "げん"
+    },
+    {
+      "type": "kanji",
+      "value": "潜",
+      "id": 1791,
+      "reading": "せん"
+    }
+  ]
+}

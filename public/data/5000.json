@@ -1,0 +1,50 @@
+{
+  "id": 5000,
+  "type": "vocabulary",
+  "characters": "腰抜け",
+  "primaryMeaning": "Coward",
+  "otherMeanings": [],
+  "primaryReading": "こしぬけ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1228,
+      "character": "腰",
+      "readings": [
+        "こし",
+        "よう"
+      ]
+    },
+    {
+      "id": 1257,
+      "character": "抜",
+      "readings": [
+        "ぬ",
+        "ばつ",
+        "はつ",
+        "はい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You learned that 抜ける is \"to fall out.\" If your <kanji>waist</kanji> falls out, you can't remain standing. You have to curl up on the ground, like a <vocabulary>coward</vocabulary>.",
+  "readingMnemonic": "This word uses the kun'yomi readings for both kanji, which you've learned already. Go you!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%85%B0%E6%8A%9C%E3%81%91",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "腰",
+      "id": 1228,
+      "reading": "こし"
+    },
+    {
+      "type": "kanji",
+      "value": "抜",
+      "id": 1257,
+      "reading": "ぬ"
+    },
+    {
+      "type": "kana",
+      "value": "け"
+    }
+  ]
+}

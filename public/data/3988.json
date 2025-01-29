@@ -1,0 +1,33 @@
+{
+  "id": 3988,
+  "type": "vocabulary",
+  "characters": "幻",
+  "primaryMeaning": "Illusion",
+  "otherMeanings": [
+    "Phantom",
+    "Apparition"
+  ],
+  "primaryReading": "まぼろし",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1027,
+      "character": "幻",
+      "readings": [
+        "げん",
+        "まぼろし"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well. You can add <vocabulary>phantom</vocabulary> to the meanings as well, because phantoms are kind of like <vocabulary>illusion</vocabulary>s.",
+  "readingMnemonic": "Since this word is made up of a single kanji, it should use the kun'yomi reading. When learning the kanji, you didn't learn that reading, so here's a mnemonic to help you with this word: You look up to see a crazy <vocabulary>illusion</vocabulary>. You can't believe it's real. Master Roshi, from Dragonball, is standing in front of you (you thought he was a cartoon!). Then, he splits into a million versions of himself, creating a <reading>mob of Roshi</reading>s (まぼろし). This mob goes on to train many people to fight.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B9%BB",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "幻",
+      "id": 1027,
+      "reading": "まぼろし"
+    }
+  ]
+}

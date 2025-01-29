@@ -1,0 +1,35 @@
+{
+  "id": 7526,
+  "type": "vocabulary",
+  "characters": "姉",
+  "primaryMeaning": "Older Sister",
+  "otherMeanings": [
+    "Big Sister",
+    "Elder Sister"
+  ],
+  "primaryReading": "あね",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 624,
+      "character": "姉",
+      "readings": [
+        "し",
+        "お",
+        "あね",
+        "ねえ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well. This is your older sister, by the way. Not somebody else's.",
+  "readingMnemonic": "Since this word is made up of a single kanji, it should use the kun'yomi reading. You haven't learned this reading yet,  so here's a mnemonic to help you remember:\n\nPicture your <vocabulary>older sister</vocabulary> (even if you don't have one), her birthday is coming up and there's only one thing she wants from you. <reading>A ne</reading>cklace (あね). She's wanted a necklace for years and you're finally going to give her one. She'll be so happy.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A7%89",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "姉",
+      "id": 624,
+      "reading": "あね"
+    }
+  ]
+}

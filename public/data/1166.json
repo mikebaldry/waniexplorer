@@ -1,0 +1,38 @@
+{
+  "id": 1166,
+  "type": "kanji",
+  "character": "価",
+  "primaryMeaning": "Value",
+  "otherMeanings": [],
+  "primaryReading": "か",
+  "readings": [
+    {
+      "reading": "か",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "あたい",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "To further increase the helicopter's <kanji>value</kanji>, the leader bought himself a <reading>ca</reading>r (か) and then tied them together. Now it has the value of a helicopter AND a car! Wow!",
+  "meaningMnemonic": "The <radical>helicopter</radical> the <radical>leader</radical> is in has the most <kanji>value</kanji>! He would only choose to fly the very best one, after all. That's why it's worth way more than the others. Actually, any helicopter he flies goes up in value. That's the amazing effect of a good leader.",
+  "vocabularyIds": [
+    4445,
+    4519,
+    4520,
+    4521,
+    4550,
+    4664,
+    7257,
+    7650,
+    8615
+  ],
+  "radicalIds": [
+    75,
+    424
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E4%BE%A1"
+}

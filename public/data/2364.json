@@ -1,0 +1,41 @@
+{
+  "id": 2364,
+  "type": "kanji",
+  "character": "萌",
+  "primaryMeaning": "Sprout",
+  "otherMeanings": [],
+  "primaryReading": "ほう",
+  "readings": [
+    {
+      "reading": "ほう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "きざ",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "めばえ",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "も",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You want to grow these <kanji>sprout</kanji>s in your <reading>ho</reading>me (ほう), not outside. So you need to find the windows in your house that are the brightest.",
+  "meaningMnemonic": "You have to put <radical>flowers</radical> in a <radical>bright</radical> place if you want them to <kanji>sprout</kanji>. If they're left in the shade they'll just rot.",
+  "vocabularyIds": [
+    8405,
+    8577
+  ],
+  "radicalIds": [
+    90,
+    357
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%90%8C"
+}

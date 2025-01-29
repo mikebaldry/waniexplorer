@@ -1,0 +1,46 @@
+{
+  "id": 4318,
+  "type": "vocabulary",
+  "characters": "経験",
+  "primaryMeaning": "Experience",
+  "otherMeanings": [],
+  "primaryReading": "けいけん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1120,
+      "character": "経",
+      "readings": [
+        "けい",
+        "た",
+        "へ"
+      ]
+    },
+    {
+      "id": 1048,
+      "character": "験",
+      "readings": [
+        "けん",
+        "ため",
+        "ためし"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Through various <kanji>test</kanji>s over the <kanji>passage of time</kanji>, you have gained much <vocabulary>experience</vocabulary>. Time and testing is all it takes.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B5%8C%E9%A8%93",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "経",
+      "id": 1120,
+      "reading": "けい"
+    },
+    {
+      "type": "kanji",
+      "value": "験",
+      "id": 1048,
+      "reading": "けん"
+    }
+  ]
+}

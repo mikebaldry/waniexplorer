@@ -1,0 +1,38 @@
+{
+  "id": 645,
+  "type": "kanji",
+  "character": "首",
+  "primaryMeaning": "Neck",
+  "otherMeanings": [],
+  "primaryReading": "くび",
+  "readings": [
+    {
+      "reading": "くび",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "しゅ",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "The only thing you do with your <kanji>neck</kanji> is use it to swallow lots of <reading>coo</reading>l <reading>bea</reading>ns (くび). Mm mm. Feel those cool, cool beans sliding down your neck. You don't really taste them, but you know they're there.",
+  "meaningMnemonic": "The radical <radical>neck</radical> and the kanji <kanji>neck</kanji> are exactly the same!",
+  "vocabularyIds": [
+    2924,
+    2925,
+    2926,
+    3257,
+    4647,
+    7242,
+    8488,
+    8737,
+    8741,
+    9302
+  ],
+  "radicalIds": [
+    156
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%A6%96"
+}

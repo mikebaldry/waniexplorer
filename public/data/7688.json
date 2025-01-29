@@ -1,0 +1,48 @@
+{
+  "id": 7688,
+  "type": "vocabulary",
+  "characters": "待合",
+  "primaryMeaning": "Waiting Room",
+  "otherMeanings": [
+    "Meeting Place"
+  ],
+  "primaryReading": "まちあい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 726,
+      "character": "待",
+      "readings": [
+        "たい",
+        "ま"
+      ]
+    },
+    {
+      "id": 852,
+      "character": "合",
+      "readings": [
+        "ごう",
+        "がっ",
+        "あ",
+        "あい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The place you <kanji>wait</kanji> to <kanji>join</kanji> other people is a <vocabulary>waiting room</vocabulary> or a <vocabulary>meeting place</vocabulary>.",
+  "readingMnemonic": "The readings for this word are both kun'yomi readings, but it's like the hiragana that normally sticks out is stuffed in. 待ち → 待, 合い → 合 and is pronounced the same too. I know it's confusing, but once you get it down you'll never forget!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BE%85%E5%90%88",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "待",
+      "id": 726,
+      "reading": "ま"
+    },
+    {
+      "type": "kanji",
+      "value": "合",
+      "id": 852,
+      "reading": null
+    }
+  ]
+}

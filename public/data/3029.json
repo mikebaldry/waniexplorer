@@ -1,0 +1,32 @@
+{
+  "id": 3029,
+  "type": "vocabulary",
+  "characters": "森",
+  "primaryMeaning": "Woods",
+  "otherMeanings": [
+    "Forest"
+  ],
+  "primaryReading": "もり",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 693,
+      "character": "森",
+      "readings": [
+        "もり",
+        "しん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "The reading is the kun'yomi reading, but that's the reading you learned with the kanji so you should be able to read this one too.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%A3%AE",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "森",
+      "id": 693,
+      "reading": "もり"
+    }
+  ]
+}

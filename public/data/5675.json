@@ -1,0 +1,29 @@
+{
+  "id": 5675,
+  "type": "vocabulary",
+  "characters": "肺",
+  "primaryMeaning": "Lung",
+  "otherMeanings": [],
+  "primaryReading": "はい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1537,
+      "character": "肺",
+      "readings": [
+        "はい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji. OH <reading>HAI</reading> THERE LUNG. OH HAI THERE YOU.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%82%BA",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "肺",
+      "id": 1537,
+      "reading": "はい"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 4162,
+  "type": "vocabulary",
+  "characters": "体験",
+  "primaryMeaning": "Experience",
+  "otherMeanings": [],
+  "primaryReading": "たいけん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 583,
+      "character": "体",
+      "readings": [
+        "たい",
+        "てい",
+        "からだ"
+      ]
+    },
+    {
+      "id": 1048,
+      "character": "験",
+      "readings": [
+        "けん",
+        "ため",
+        "ためし"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Your <kanji>body</kanji> goes through <kanji>test</kanji>s and each time it does, it gains a little more <vocabulary>experience</vocabulary>. What has your body experienced? What tests has your body been through?",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BD%93%E9%A8%93",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "体",
+      "id": 583,
+      "reading": "たい"
+    },
+    {
+      "type": "kanji",
+      "value": "験",
+      "id": 1048,
+      "reading": "けん"
+    }
+  ]
+}

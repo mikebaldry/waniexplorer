@@ -1,0 +1,60 @@
+{
+  "id": 2933,
+  "type": "vocabulary",
+  "characters": "千円札",
+  "primaryMeaning": "Thousand Yen Bill",
+  "otherMeanings": [
+    "Thousand Yen Note"
+  ],
+  "primaryReading": "せんえんさつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 460,
+      "character": "千",
+      "readings": [
+        "せん",
+        "ち"
+      ]
+    },
+    {
+      "id": 472,
+      "character": "円",
+      "readings": [
+        "えん",
+        "まる"
+      ]
+    },
+    {
+      "id": 649,
+      "character": "札",
+      "readings": [
+        "さつ",
+        "ふだ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You know what 千円 is (1000 yen). So if you add a <kanji>bill</kanji> to that you get a <vocabulary>thousand yen bill</vocabulary>. That's just the little rectangular piece of money that is worth 1000 yen.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8D%83%E5%86%86%E6%9C%AD",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "千",
+      "id": 460,
+      "reading": "せん"
+    },
+    {
+      "type": "kanji",
+      "value": "円",
+      "id": 472,
+      "reading": "えん"
+    },
+    {
+      "type": "kanji",
+      "value": "札",
+      "id": 649,
+      "reading": "さつ"
+    }
+  ]
+}

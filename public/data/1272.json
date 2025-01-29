@@ -1,0 +1,36 @@
+{
+  "id": 1272,
+  "type": "kanji",
+  "character": "肥",
+  "primaryMeaning": "Obese",
+  "otherMeanings": [],
+  "primaryReading": "ひ",
+  "readings": [
+    {
+      "reading": "ひ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "こ",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "こえ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Since the <kanji>obese</kanji> moon is in bed all day, and since the moon stays pretty cold, she needs some extra <reading>he</reading>at (ひ) to stay warm. A heated blanket should do the trick.",
+  "meaningMnemonic": "A <radical>moon</radical> who stays in <radical>bed</radical> all day every day will soon become <kanji>obese</kanji>. A healthy moon needs movement and exercise to stay fit and not become obese. If a moon stays in bed all day, they’ll be sure to grow obese over time.",
+  "vocabularyIds": [
+    4820,
+    4821
+  ],
+  "radicalIds": [
+    43,
+    100
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%82%A5"
+}

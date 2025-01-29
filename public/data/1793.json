@@ -1,0 +1,34 @@
+{
+  "id": 1793,
+  "type": "kanji",
+  "character": "炭",
+  "primaryMeaning": "Charcoal",
+  "otherMeanings": [],
+  "primaryReading": "たん",
+  "readings": [
+    {
+      "reading": "たん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "すみ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "After crushing the <kanji>charcoal</kanji>, you decide to take advantage of your current location and lie out in the sun for a while to get a <reading>tan</reading> (たん). Instead of getting a tan though, you catch on fire. Oops.",
+  "meaningMnemonic": "You climb up a <radical>mountain</radical> and a <radical>cliff</radical> in search of <radical>fire</radical>, but all you find is <kanji>charcoal</kanji>. You can make fire with the charcoal, but you were hoping to find fire itself. All that climbing for nothing.",
+  "vocabularyIds": [
+    6520,
+    6521,
+    6522,
+    6537
+  ],
+  "radicalIds": [
+    20,
+    116,
+    46
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%82%AD"
+}

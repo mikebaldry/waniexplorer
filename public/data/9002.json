@@ -1,0 +1,47 @@
+{
+  "id": 9002,
+  "type": "vocabulary",
+  "characters": "親戚",
+  "primaryMeaning": "Relatives",
+  "otherMeanings": [
+    "Family Members",
+    "Kin"
+  ],
+  "primaryReading": "しんせき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 770,
+      "character": "親",
+      "readings": [
+        "しん",
+        "おや",
+        "した"
+      ]
+    },
+    {
+      "id": 8992,
+      "character": "戚",
+      "readings": [
+        "せき"
+      ]
+    }
+  ],
+  "meaningMnemonic": "What exactly are your <kanji>parent</kanji> <kanji>relatives</kanji>? Your own <vocabulary>relatives</vocabulary>! You're all <vocabulary>kin</vocabulary>, after all.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A6%AA%E6%88%9A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "親",
+      "id": 770,
+      "reading": "しん"
+    },
+    {
+      "type": "kanji",
+      "value": "戚",
+      "id": 8992,
+      "reading": "せき"
+    }
+  ]
+}

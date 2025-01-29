@@ -1,0 +1,44 @@
+{
+  "id": 7652,
+  "type": "vocabulary",
+  "characters": "左腕",
+  "primaryMeaning": "Left Arm",
+  "otherMeanings": [],
+  "primaryReading": "ひだりうで",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 486,
+      "character": "左",
+      "readings": [
+        "さ",
+        "ひだり"
+      ]
+    },
+    {
+      "id": 1227,
+      "character": "腕",
+      "readings": [
+        "うで",
+        "わん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Your <kanji>left</kanji> <kanji>arm</kanji> is your <vocabulary>left arm</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, but it uses kun'yomi instead of on'yomi, so watch out for that!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B7%A6%E8%85%95",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "左",
+      "id": 486,
+      "reading": "ひだり"
+    },
+    {
+      "type": "kanji",
+      "value": "腕",
+      "id": 1227,
+      "reading": "うで"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 673,
+  "type": "kanji",
+  "character": "雪",
+  "primaryMeaning": "Snow",
+  "otherMeanings": [],
+  "primaryReading": "ゆき",
+  "readings": [
+    {
+      "reading": "ゆき",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "せつ",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "You ask the wolverine, \"Why do you want this <kanji>snow</kanji> so bad?\" He replies quickly: \"Because the rain is <reading>yucky</reading>\" (ゆき).",
+  "meaningMnemonic": "The <radical>rain</radical> is hated so much by <radical>wolverine</radical>s, so they always want to live in the <kanji>snow</kanji>.",
+  "vocabularyIds": [
+    2981
+  ],
+  "radicalIds": [
+    119,
+    105
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%9B%AA"
+}

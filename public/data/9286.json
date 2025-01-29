@@ -1,0 +1,51 @@
+{
+  "id": 9286,
+  "type": "vocabulary",
+  "characters": "一ヶ月",
+  "primaryMeaning": "One Month",
+  "otherMeanings": [],
+  "primaryReading": "いっかげつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 440,
+      "character": "一",
+      "readings": [
+        "いち",
+        "いつ",
+        "ひと",
+        "かず"
+      ]
+    },
+    {
+      "id": 477,
+      "character": "月",
+      "readings": [
+        "げつ",
+        "がつ",
+        "つき"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Remember the 〜ヶ月 counter? Replace the 〜 with a <kanji>one</kanji> and this becomes <vocabulary>one month</vocabulary>. ",
+  "readingMnemonic": "一 uses the on'yomi you learned with it, but gets shortened, so watch out for that. The rest is as you learned it!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%80%E3%83%B6%E6%9C%88",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "一",
+      "id": 440,
+      "reading": "いっ"
+    },
+    {
+      "type": "kana",
+      "value": "ヶ"
+    },
+    {
+      "type": "kanji",
+      "value": "月",
+      "id": 477,
+      "reading": "げつ"
+    }
+  ]
+}

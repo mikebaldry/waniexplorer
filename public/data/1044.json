@@ -1,0 +1,34 @@
+{
+  "id": 1044,
+  "type": "kanji",
+  "character": "胸",
+  "primaryMeaning": "Chest",
+  "otherMeanings": [
+    "Breast"
+  ],
+  "primaryReading": "むね",
+  "readings": [
+    {
+      "reading": "むね",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "きょう",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Where is this <kanji>chest</kanji> armor from? It’s from the moon. Now how would you say that if you were Canadian? It’s from the <reading>moon, eh</reading> (むね). Right, this here chest armor is from the moon, eh.",
+  "meaningMnemonic": "In a <radical>prison</radical> on the <radical>moon</radical> lies a <radical>treasure chest</radical> containing a golden <kanji>chest</kanji> piece. This mighty chest armor will grant you protection from nearly any attack, for it is imbued with moon magic.",
+  "vocabularyIds": [
+    4136,
+    4356
+  ],
+  "radicalIds": [
+    43,
+    14,
+    262
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%83%B8"
+}

@@ -1,0 +1,45 @@
+{
+  "id": 8245,
+  "type": "vocabulary",
+  "characters": "鎮魂",
+  "primaryMeaning": "Repose Of Souls",
+  "otherMeanings": [],
+  "primaryReading": "ちんこん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2261,
+      "character": "鎮",
+      "readings": [
+        "ちん",
+        "おさえ",
+        "しず"
+      ]
+    },
+    {
+      "id": 1915,
+      "character": "魂",
+      "readings": [
+        "こん",
+        "たましい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "To <kanji>tranquilize</kanji> <kanji>soul</kanji>s you have to a have a mass <vocabulary>repose of souls</vocabulary>. Then their souls will move on to the next life and stop hanging around here, haunting umbrellas.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%8E%AE%E9%AD%82",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "鎮",
+      "id": 2261,
+      "reading": "ちん"
+    },
+    {
+      "type": "kanji",
+      "value": "魂",
+      "id": 1915,
+      "reading": "こん"
+    }
+  ]
+}

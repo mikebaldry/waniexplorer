@@ -1,0 +1,49 @@
+{
+  "id": 7767,
+  "type": "vocabulary",
+  "characters": "反響",
+  "primaryMeaning": "Echo",
+  "otherMeanings": [
+    "Reverberation",
+    "Influence",
+    "Repercussion",
+    "Reaction"
+  ],
+  "primaryReading": "はんきょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 855,
+      "character": "反",
+      "readings": [
+        "はん",
+        "そ"
+      ]
+    },
+    {
+      "id": 1254,
+      "character": "響",
+      "readings": [
+        "きょう",
+        "ひび"
+      ]
+    }
+  ],
+  "meaningMnemonic": "An <kanji>anti</kanji> <kanji>echo</kanji> is still an <vocabulary>echo</vocabulary>! It's just going back and forth with a normal echo. Together they get a weird <vocabulary>reverberation</vocabulary> going.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8F%8D%E9%9F%BF",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "反",
+      "id": 855,
+      "reading": "はん"
+    },
+    {
+      "type": "kanji",
+      "value": "響",
+      "id": 1254,
+      "reading": "きょう"
+    }
+  ]
+}

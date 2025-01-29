@@ -1,0 +1,46 @@
+{
+  "id": 6881,
+  "type": "vocabulary",
+  "characters": "脚本",
+  "primaryMeaning": "Script",
+  "otherMeanings": [
+    "Screenplay"
+  ],
+  "primaryReading": "きゃくほん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1916,
+      "character": "脚",
+      "readings": [
+        "きゃく",
+        "あし"
+      ]
+    },
+    {
+      "id": 487,
+      "character": "本",
+      "readings": [
+        "ほん",
+        "もと"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>leg</kanji> <kanji>book</kanji> is just the legs of a book. Not a whole book. It only contains the parts that walk around and move, not so much the descriptions (things that don't move). This kind of book is a <vocabulary>script</vocabulary> or <vocabulary>screenplay</vocabulary>. These \"books\" are focused on actions and things people say, which is why it's just the legs.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%84%9A%E6%9C%AC",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "脚",
+      "id": 1916,
+      "reading": "きゃく"
+    },
+    {
+      "type": "kanji",
+      "value": "本",
+      "id": 487,
+      "reading": "ほん"
+    }
+  ]
+}

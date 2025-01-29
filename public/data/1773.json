@@ -1,0 +1,32 @@
+{
+  "id": 1773,
+  "type": "kanji",
+  "character": "雅",
+  "primaryMeaning": "Elegant",
+  "otherMeanings": [],
+  "primaryReading": "が",
+  "readings": [
+    {
+      "reading": "が",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "みや",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "This <kanji>elegant</kanji> fang makes the turkey look more like a <reading>ga</reading>rgoyle (が) than a turkey. In fact, you haven't seen it move at all. Maybe it is just an elegant gargoyle!",
+  "meaningMnemonic": "A <radical>fang</radical> on a <radical>turkey</radical> is <kanji>elegant</kanji>. Most turkeys do not have fangs, so this turkey with a fang is quite elegant and dignified. This turkey is special.",
+  "vocabularyIds": [
+    6451,
+    6452,
+    6453
+  ],
+  "radicalIds": [
+    333,
+    240
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%9B%85"
+}

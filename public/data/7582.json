@@ -1,0 +1,47 @@
+{
+  "id": 7582,
+  "type": "vocabulary",
+  "characters": "都会",
+  "primaryMeaning": "Urban Area",
+  "otherMeanings": [
+    "City"
+  ],
+  "primaryReading": "とかい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 826,
+      "character": "都",
+      "readings": [
+        "と",
+        "つ",
+        "みやこ"
+      ]
+    },
+    {
+      "id": 566,
+      "character": "会",
+      "readings": [
+        "かい",
+        "あ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When <kanji>metropolis</kanji>es <kanji>meet</kanji> they become an <vocabulary>urban area</vocabulary>. This word is often used to mean <vocabulary>city</vocabulary> as opposed to the country or rural areas.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%83%BD%E4%BC%9A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "都",
+      "id": 826,
+      "reading": "と"
+    },
+    {
+      "type": "kanji",
+      "value": "会",
+      "id": 566,
+      "reading": "かい"
+    }
+  ]
+}

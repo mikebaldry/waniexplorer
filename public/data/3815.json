@@ -1,0 +1,51 @@
+{
+  "id": 3815,
+  "type": "vocabulary",
+  "characters": "危険",
+  "primaryMeaning": "Risky",
+  "otherMeanings": [
+    "Unsafe",
+    "Dangerous",
+    "Danger",
+    "Peril",
+    "Hazard"
+  ],
+  "primaryReading": "きけん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 989,
+      "character": "危",
+      "readings": [
+        "き",
+        "あぶ",
+        "あや"
+      ]
+    },
+    {
+      "id": 988,
+      "character": "険",
+      "readings": [
+        "けん",
+        "けわ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Something that is <kanji>dangerous</kanji> and <kanji>risky</kanji> is probably pretty <vocabulary>risky</vocabulary>, <vocabulary>dangerous</vocabulary>, and <vocabulary>unsafe</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8D%B1%E9%99%BA",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "危",
+      "id": 989,
+      "reading": "き"
+    },
+    {
+      "type": "kanji",
+      "value": "険",
+      "id": 988,
+      "reading": "けん"
+    }
+  ]
+}

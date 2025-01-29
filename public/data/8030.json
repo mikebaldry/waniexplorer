@@ -1,0 +1,46 @@
+{
+  "id": 8030,
+  "type": "vocabulary",
+  "characters": "舗装",
+  "primaryMeaning": "Pavement",
+  "otherMeanings": [
+    "Road Surface"
+  ],
+  "primaryReading": "ほそう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2197,
+      "character": "舗",
+      "readings": [
+        "ほ"
+      ]
+    },
+    {
+      "id": 1541,
+      "character": "装",
+      "readings": [
+        "そう",
+        "しょう",
+        "よそお"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you <kanji>pave</kanji> and <kanji>attire</kanji> something, you’ll end up with a <vocabulary>pavement</vocabulary>. Imagine the asphalt used in the paving of a street as its attire and this’ll make sense!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%88%97%E8%A3%85",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "舗",
+      "id": 2197,
+      "reading": "ほ"
+    },
+    {
+      "type": "kanji",
+      "value": "装",
+      "id": 1541,
+      "reading": "そう"
+    }
+  ]
+}

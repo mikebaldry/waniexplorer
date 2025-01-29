@@ -1,0 +1,114 @@
+{
+  "id": 9208,
+  "object": "kana_vocabulary",
+  "url": "https://api.wanikani.com/v2/subjects/9208",
+  "data_updated_at": "2024-10-15T22:19:13.175682Z",
+  "data": {
+    "created_at": "2023-04-24T23:45:52.233059Z",
+    "level": 8,
+    "slug": "まだ",
+    "hidden_at": null,
+    "document_url": "https://www.wanikani.com/vocabulary/%E3%81%BE%E3%81%A0",
+    "characters": "まだ",
+    "meanings": [
+      {
+        "meaning": "Still",
+        "primary": true,
+        "accepted_answer": true
+      },
+      {
+        "meaning": "Not Yet",
+        "primary": false,
+        "accepted_answer": true
+      }
+    ],
+    "auxiliary_meanings": [
+      {
+        "meaning": "Yet",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "As Yet",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "So Far",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Still Not",
+        "type": "whitelist"
+      }
+    ],
+    "parts_of_speech": [
+      "adverb"
+    ],
+    "meaning_mnemonic": "You've been getting <reading>madder</reading> (まだ) and madder, and you’re <vocabulary>still</vocabulary> mad. You’re <vocabulary>not yet</vocabulary> as mad as you could be, though.\n\nYou can use まだ to talk about a situation that started in the past and continues into the present. Wait! Where are you going? I'm still explaining this! I'm not done yet!",
+    "context_sentences": [
+      {
+        "en": "I don't know that yet.",
+        "ja": "それはまだ分からないよ。"
+      },
+      {
+        "en": "What, are you still in the bathroom?",
+        "ja": "え、まだトイレにいるの？"
+      },
+      {
+        "en": "If you're looking for Ken, he's still taking a shower.",
+        "ja": "ケンなら、まだシャワーしてるよ。"
+      }
+    ],
+    "pronunciation_audios": [
+      {
+        "url": "https://files.wanikani.com/tmq436fyv9q7784qa2hx61vjch3j",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44782,
+          "pronunciation": "まだ",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/f217mb682qu6uwuzxl8u5tdy7eil",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44782,
+          "pronunciation": "まだ",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      },
+      {
+        "url": "https://files.wanikani.com/0iblksq2dvjf4nv3juv75w5uwbhn",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44723,
+          "pronunciation": "まだ",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/e10vreepqnjmqcwulkhkqiy2uvca",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44723,
+          "pronunciation": "まだ",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      }
+    ],
+    "lesson_position": 0,
+    "spaced_repetition_system_id": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2043,
+  "type": "kanji",
+  "character": "班",
+  "primaryMeaning": "Squad",
+  "otherMeanings": [],
+  "primaryReading": "はん",
+  "readings": [
+    {
+      "reading": "はん",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "This <kanji>squad</kanji> is led by <reading>Han</reading> (はん) Solo, so it's basically a 50/50 shot that the king is gonna die.",
+  "meaningMnemonic": "If the <radical>king</radical> gives you a <radical>knife</radical> you become part of his <kanji>squad</kanji>. Every king has a knife squad or two protecting him and making sure his subjects keep in line.",
+  "vocabularyIds": [
+    7241,
+    7242,
+    7243
+  ],
+  "radicalIds": [
+    48,
+    128
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%8F%AD"
+}

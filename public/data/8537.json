@@ -1,0 +1,47 @@
+{
+  "id": 8537,
+  "type": "vocabulary",
+  "characters": "慶祝",
+  "primaryMeaning": "Congratulation",
+  "otherMeanings": [
+    "Celebration"
+  ],
+  "primaryReading": "けいしゅく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2430,
+      "character": "慶",
+      "readings": [
+        "けい",
+        "よろこ"
+      ]
+    },
+    {
+      "id": 1223,
+      "character": "祝",
+      "readings": [
+        "しゅく",
+        "しゅう",
+        "いわ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You <kanji>congratulate</kanji> someone and <kanji>celebrate</kanji> by saying <vocabulary>congratulation</vocabulary>s and having a <vocabulary>celebration</vocabulary>!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%85%B6%E7%A5%9D",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "慶",
+      "id": 2430,
+      "reading": "けい"
+    },
+    {
+      "type": "kanji",
+      "value": "祝",
+      "id": 1223,
+      "reading": "しゅく"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 3311,
+  "type": "vocabulary",
+  "characters": "良い",
+  "primaryMeaning": "Good",
+  "otherMeanings": [],
+  "primaryReading": "よい",
+  "otherReadings": [
+    "いい"
+  ],
+  "kanji": [
+    {
+      "id": 805,
+      "character": "良",
+      "readings": [
+        "りょう",
+        "よ",
+        "い"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>good</kanji>? It's also <vocabulary>good</vocabulary>.",
+  "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You did not learn this reading, so here's a mnemonic to help you to remember:\n\nA <vocabulary>good</vocabulary> way to pass the time is with a <reading>yo</reading>-yo (よ). But it better be a good yo-yo. A bad one will just fall apart.\n\nNote that よい is a more formal or literary way of saying \"good,\" the more common one being いい. To distinguish the different readings, the latter version is usually written in just kana too!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%89%AF%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "良",
+      "id": 805,
+      "reading": "よ"
+    },
+    {
+      "type": "kana",
+      "value": "い"
+    }
+  ]
+}

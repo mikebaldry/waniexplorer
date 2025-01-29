@@ -1,0 +1,44 @@
+{
+  "id": 3043,
+  "type": "vocabulary",
+  "characters": "住所",
+  "primaryMeaning": "Address",
+  "otherMeanings": [],
+  "primaryReading": "じゅうしょ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 679,
+      "character": "住",
+      "readings": [
+        "じゅう",
+        "す"
+      ]
+    },
+    {
+      "id": 707,
+      "character": "所",
+      "readings": [
+        "しょ",
+        "ところ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you <kanji>dwell</kanji> in a <kanji>place</kanji>, that place is your <vocabulary>address</vocabulary>.",
+  "readingMnemonic": "This word is made up of the on'yomi readings that you've already learned with the kanji. Have at it!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BD%8F%E6%89%80",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "住",
+      "id": 679,
+      "reading": "じゅう"
+    },
+    {
+      "type": "kanji",
+      "value": "所",
+      "id": 707,
+      "reading": "しょ"
+    }
+  ]
+}

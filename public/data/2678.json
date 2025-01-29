@@ -1,0 +1,51 @@
+{
+  "id": 2678,
+  "type": "vocabulary",
+  "characters": "平気",
+  "primaryMeaning": "Calm",
+  "otherMeanings": [
+    "Cool",
+    "All Right",
+    "Okay"
+  ],
+  "primaryReading": "へいき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 535,
+      "character": "平",
+      "readings": [
+        "へい",
+        "ひょう",
+        "びょう",
+        "たい",
+        "ひら"
+      ]
+    },
+    {
+      "id": 548,
+      "character": "気",
+      "readings": [
+        "き",
+        "け"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You have a <kanji>flat</kanji> <kanji>energy</kanji>. What kind of energy would be a flat one? Probably a <vocabulary>cool</vocabulary> or <vocabulary>calm</vocabulary> one. You'd also tell people about this flat energy by saying you are <vocabulary>all right</vocabulary> or just <vocabulary>okay</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B9%B3%E6%B0%97",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "平",
+      "id": 535,
+      "reading": "へい"
+    },
+    {
+      "type": "kanji",
+      "value": "気",
+      "id": 548,
+      "reading": "き"
+    }
+  ]
+}

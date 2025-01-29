@@ -1,0 +1,46 @@
+{
+  "id": 5552,
+  "type": "vocabulary",
+  "characters": "複写",
+  "primaryMeaning": "Copying",
+  "otherMeanings": [
+    "Photocopy",
+    "Carbon Copy"
+  ],
+  "primaryReading": "ふくしゃ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1493,
+      "character": "複",
+      "readings": [
+        "ふく"
+      ]
+    },
+    {
+      "id": 531,
+      "character": "写",
+      "readings": [
+        "しゃ",
+        "うつ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you make a <kanji>duplicate</kanji> <kanji>copy</kanji> you are <vocabulary>copying</vocabulary> things. Especially if you're making a <vocabulary>photocopy</vocabulary> or a <vocabulary>carbon copy</vocabulary>. It's like a copy of a copy! \n\n複写 is a pretty formal word for copying documents, text, or images. It's still often used to talk about carbon copies. But for photocopies, most people just say コピー(する) these days.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A4%87%E5%86%99",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "複",
+      "id": 1493,
+      "reading": "ふく"
+    },
+    {
+      "type": "kanji",
+      "value": "写",
+      "id": 531,
+      "reading": "しゃ"
+    }
+  ]
+}

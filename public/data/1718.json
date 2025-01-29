@@ -1,0 +1,37 @@
+{
+  "id": 1718,
+  "type": "kanji",
+  "character": "片",
+  "primaryMeaning": "One Sided",
+  "otherMeanings": [
+    "Fragment"
+  ],
+  "primaryReading": "かた",
+  "readings": [
+    {
+      "reading": "かた",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "へん",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Think of anything that is <kanji>one sided</kanji>. A battle. A sports game. A relationship. What makes them so one sided? One side always has a <reading>cata</reading>pult (かた).",
+  "meaningMnemonic": "The <radical>one sided</radical> radical and the <kanji>one sided</kanji> kanji are the same!",
+  "vocabularyIds": [
+    6275,
+    6276,
+    6277,
+    6278,
+    6279,
+    6461,
+    7853
+  ],
+  "radicalIds": [
+    162
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%89%87"
+}

@@ -1,0 +1,102 @@
+{
+  "id": 9189,
+  "object": "kana_vocabulary",
+  "url": "https://api.wanikani.com/v2/subjects/9189",
+  "data_updated_at": "2024-10-15T22:19:11.852545Z",
+  "data": {
+    "created_at": "2023-04-24T22:41:46.359820Z",
+    "level": 4,
+    "slug": "ノート",
+    "hidden_at": null,
+    "document_url": "https://www.wanikani.com/vocabulary/%E3%83%8E%E3%83%BC%E3%83%88",
+    "characters": "ノート",
+    "meanings": [
+      {
+        "meaning": "Notebook",
+        "primary": true,
+        "accepted_answer": true
+      },
+      {
+        "meaning": "Notes",
+        "primary": false,
+        "accepted_answer": true
+      }
+    ],
+    "auxiliary_meanings": [
+      {
+        "meaning": "Notepad",
+        "type": "whitelist"
+      }
+    ],
+    "parts_of_speech": [
+      "noun"
+    ],
+    "meaning_mnemonic": "ノート is a shortened form of <vocabulary>notebook</vocabulary>, with an extra \"o\" on the end since you can’t end a word with \"t\" in Japanese.\n\nYou can also use this to mean <vocabulary>notes</vocabulary>, in the context of taking down notes in a class.",
+    "context_sentences": [
+      {
+        "en": "If it's that notebook you mean, it's on my desk.",
+        "ja": "そのノートなら、デスクの上だよ。"
+      },
+      {
+        "en": "Did you take good notes on the lesson?",
+        "ja": "レッスン、ちゃんとノートにまとめた？"
+      },
+      {
+        "en": "I need an A4 size notebook, you know.",
+        "ja": "A4サイズのノートがいるんだよね。"
+      }
+    ],
+    "pronunciation_audios": [
+      {
+        "url": "https://files.wanikani.com/vbawpw93tou74wnpd4fj6mf3wbbh",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44806,
+          "pronunciation": "ノート",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/mwlbnw5vsb2blwk30a7gf1ga18kn",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44806,
+          "pronunciation": "ノート",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      },
+      {
+        "url": "https://files.wanikani.com/3bya4ths1chs7ifsilzsdn3imivo",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44738,
+          "pronunciation": "ノート",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/ns47eg3jlrs2z38m6okwsve6w60o",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44738,
+          "pronunciation": "ノート",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      }
+    ],
+    "lesson_position": 1,
+    "spaced_repetition_system_id": 1
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 1135,
+  "type": "kanji",
+  "character": "件",
+  "primaryMeaning": "Matter",
+  "otherMeanings": [
+    "Affair"
+  ],
+  "primaryReading": "けん",
+  "readings": [
+    {
+      "reading": "けん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "くだり",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "くだん",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "All of his <kanji>affair</kanji>s are taken care of by <reading>Ken</reading> (けん) the samurai, who he hired as his underling.",
+  "meaningMnemonic": "The <radical>leader</radical> of the <radical>cow</radical> tribe is too important to deal with small <kanji>matter</kanji>s and trivial <kanji>affair</kanji>s.",
+  "vocabularyIds": [
+    4436,
+    4437,
+    4920,
+    8169
+  ],
+  "radicalIds": [
+    75,
+    126
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E4%BB%B6"
+}

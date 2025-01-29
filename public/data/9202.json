@@ -1,0 +1,166 @@
+{
+  "id": 9202,
+  "object": "kana_vocabulary",
+  "url": "https://api.wanikani.com/v2/subjects/9202",
+  "data_updated_at": "2024-10-15T22:19:12.853439Z",
+  "data": {
+    "created_at": "2023-04-24T23:28:19.045752Z",
+    "level": 6,
+    "slug": "ない",
+    "hidden_at": null,
+    "document_url": "https://www.wanikani.com/vocabulary/%E3%81%AA%E3%81%84",
+    "characters": "ない",
+    "meanings": [
+      {
+        "meaning": "Not There",
+        "primary": true,
+        "accepted_answer": true
+      },
+      {
+        "meaning": "Not Exist",
+        "primary": false,
+        "accepted_answer": true
+      }
+    ],
+    "auxiliary_meanings": [
+      {
+        "meaning": "Not To Be",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "There Is Not",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "There Are Not",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Not To Have",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Not To Own",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Not To Do",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Not To Exist",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Not Be",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "There's Not",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "There Isn't",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "There Aren't",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Not Have",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Not Own",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Not Do",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Do You Have",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Isn't There",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Doesn't Exist",
+        "type": "whitelist"
+      }
+    ],
+    "parts_of_speech": [
+      "い adjective"
+    ],
+    "meaning_mnemonic": "The <reading>kni</reading>fe (ない) is <vocabulary>not there</vocabulary>. It's not here and it's not there. It’s missing. It's nowhere to be found, so don't bother looking for it!",
+    "context_sentences": [
+      {
+        "en": "I don't have any money at all.",
+        "ja": "お金がぜんぜんない。"
+      },
+      {
+        "en": "Do you have scissors?",
+        "ja": "ハサミ、ない？"
+      },
+      {
+        "en": "I don't have scissors, but I do have a cutter.",
+        "ja": "ハサミはないけど、カッターならあるよ。"
+      }
+    ],
+    "pronunciation_audios": [
+      {
+        "url": "https://files.wanikani.com/jogvh7ez8qhkh9a20vx4oalabjjp",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44777,
+          "pronunciation": "ない",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/ey4yzq9mkpl7guw49anmss6eqi87",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44777,
+          "pronunciation": "ない",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      },
+      {
+        "url": "https://files.wanikani.com/dthimlgei8ez2iys5x832r4mbedf",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44718,
+          "pronunciation": "ない",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/s6ebcxcdioyta1znjwtnuvqo0l68",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44718,
+          "pronunciation": "ない",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      }
+    ],
+    "lesson_position": 0,
+    "spaced_repetition_system_id": 1
+  }
+}

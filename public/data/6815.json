@@ -1,0 +1,34 @@
+{
+  "id": 6815,
+  "type": "vocabulary",
+  "characters": "釣る",
+  "primaryMeaning": "To Fish",
+  "otherMeanings": [],
+  "primaryReading": "つる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1893,
+      "character": "釣",
+      "readings": [
+        "つ",
+        "ちょう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>fishing</kanji> so the verb vocab version is <vocabulary>to fish</vocabulary>.",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%87%A3%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "釣",
+      "id": 1893,
+      "reading": "つ"
+    },
+    {
+      "type": "kana",
+      "value": "る"
+    }
+  ]
+}

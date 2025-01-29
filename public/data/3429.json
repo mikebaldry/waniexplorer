@@ -1,0 +1,38 @@
+{
+  "id": 3429,
+  "type": "vocabulary",
+  "characters": "曲がる",
+  "primaryMeaning": "To Be Bent",
+  "otherMeanings": [
+    "To Bend",
+    "To Curve",
+    "To Turn"
+  ],
+  "primaryReading": "まがる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 614,
+      "character": "曲",
+      "readings": [
+        "きょく",
+        "ま"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an <ja>う</ja> sound, you know this word is a verb. The kanji itself means both <kanji>music</kanji> and <kanji>bend</kanji>. For this word, we're looking at \"bend.\" So the verb <ja>曲がる</ja> is <vocabulary>to be bent</vocabulary>. \n\nIt's intransitive, so don't give it a direct object. Use it to say something gets bent or bends: a knee is bent, the road bends — that sort of thing. \n\nVerbs ending in okurigana that rhyme with <ja>ある</ja> tend to be intransitive like this. You can remember this because if something is <ja>ある</ja>, it's just there, existing, not acting <em>on</em> anything else. That's why verbs that sound like it are often intransitive too!",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You already learned this reading with 曲げる, so you should be good to go!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9B%B2%E3%81%8C%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "曲",
+      "id": 614,
+      "reading": "ま"
+    },
+    {
+      "type": "kana",
+      "value": "がる"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 4345,
+  "type": "vocabulary",
+  "characters": "飛ぶ",
+  "primaryMeaning": "To Fly",
+  "otherMeanings": [
+    "To Jump"
+  ],
+  "primaryReading": "とぶ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1092,
+      "character": "飛",
+      "readings": [
+        "ひ",
+        "と"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>fly</kanji>, and the verb vocab version is also <vocabulary>to fly</vocabulary>. In addition to flying, the verb also means <vocabulary>to jump</vocabulary>. Just think of jumping as being some sort of... smaller version of flying, and this'll make sense.",
+  "readingMnemonic": "When you try <vocabulary>to fly</vocabulary>, the main thing holding you back is your <reading>toe</reading> (と). It's like forty pounds and holds you down.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%A3%9B%E3%81%B6",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "飛",
+      "id": 1092,
+      "reading": "と"
+    },
+    {
+      "type": "kana",
+      "value": "ぶ"
+    }
+  ]
+}

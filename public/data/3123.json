@@ -1,0 +1,47 @@
+{
+  "id": 3123,
+  "type": "vocabulary",
+  "characters": "今度",
+  "primaryMeaning": "This Time",
+  "otherMeanings": [
+    "Next Time"
+  ],
+  "primaryReading": "こんど",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 497,
+      "character": "今",
+      "readings": [
+        "こん",
+        "いま"
+      ]
+    },
+    {
+      "id": 725,
+      "character": "度",
+      "readings": [
+        "ど",
+        "たく",
+        "たび"
+      ]
+    }
+  ],
+  "meaningMnemonic": "In the <kanji>now</kanji> <kanji>occurrence</kanji> you'll learn your kanji, no? This word means <vocabulary>this time</vocabulary>. Despite being \"this time\" it has the feeling of <vocabulary>next time</vocabulary>, though. It's like saying \"okay, this time we'll get it\" where \"this time\" really means \"next time,\" making it a little bit different from 今回.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BB%8A%E5%BA%A6",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "今",
+      "id": 497,
+      "reading": "こん"
+    },
+    {
+      "type": "kanji",
+      "value": "度",
+      "id": 725,
+      "reading": "ど"
+    }
+  ]
+}

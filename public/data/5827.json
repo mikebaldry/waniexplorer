@@ -1,0 +1,48 @@
+{
+  "id": 5827,
+  "type": "vocabulary",
+  "characters": "小豆",
+  "primaryMeaning": "Azuki Beans",
+  "otherMeanings": [
+    "Adzuki Beans"
+  ],
+  "primaryReading": "あずき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 463,
+      "character": "小",
+      "readings": [
+        "しょう",
+        "ちい",
+        "こ",
+        "お"
+      ]
+    },
+    {
+      "id": 1576,
+      "character": "豆",
+      "readings": [
+        "とう",
+        "まめ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Small</kanji> <kanji>bean</kanji>s refer to a type of bean known as <vocabulary>azuki bean</vocabulary>s. It will help if you've heard of this delicious popular bean, because there's not really anything effective we can do with the meaning mnemonic from this point on. Just know that small beans are azuki beans.",
+  "readingMnemonic": "The reading doesn't make sense either. If you know that small beans are <vocabulary>azuki beans</vocabulary>, then you know that this is referring to a thing known as <reading>azuki</reading> (あずき). Other than that, there's not much else to do.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B0%8F%E8%B1%86",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "小",
+      "id": 463,
+      "reading": null
+    },
+    {
+      "type": "kanji",
+      "value": "豆",
+      "id": 1576,
+      "reading": null
+    }
+  ]
+}

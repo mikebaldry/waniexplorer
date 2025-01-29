@@ -1,0 +1,47 @@
+{
+  "id": 3765,
+  "type": "vocabulary",
+  "characters": "今晩は",
+  "primaryMeaning": "Good Evening",
+  "otherMeanings": [],
+  "primaryReading": "こんばんは",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 497,
+      "character": "今",
+      "readings": [
+        "こん",
+        "いま"
+      ]
+    },
+    {
+      "id": 958,
+      "character": "晩",
+      "readings": [
+        "ばん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word is made of <kanji>now</kanji> and <kanji>night</kanji> with the hiragana は at the end. The は here is pronounced as わ (the old pronunciation). When you say \"now night!\" you're really saying <vocabulary>good evening</vocabulary>.\n\nJust keep in mind that writing 今晩は is pretty old school. These days it's almost always written as こんばんは.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Just be aware that the は at the end is actually the particle は so it's pronounced like わ.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BB%8A%E6%99%A9%E3%81%AF",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "今",
+      "id": 497,
+      "reading": "こん"
+    },
+    {
+      "type": "kanji",
+      "value": "晩",
+      "id": 958,
+      "reading": "ばん"
+    },
+    {
+      "type": "kana",
+      "value": "は"
+    }
+  ]
+}

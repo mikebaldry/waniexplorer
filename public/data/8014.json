@@ -1,0 +1,47 @@
+{
+  "id": 8014,
+  "type": "vocabulary",
+  "characters": "北緯",
+  "primaryMeaning": "Northern Latitude",
+  "otherMeanings": [
+    "North Latitude"
+  ],
+  "primaryReading": "ほくい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 517,
+      "character": "北",
+      "readings": [
+        "ほく",
+        "きた"
+      ]
+    },
+    {
+      "id": 2199,
+      "character": "緯",
+      "readings": [
+        "い",
+        "ぬき",
+        "よこいと"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>North</kanji> <kanji>latitude</kanji> is <vocabulary>north latitude</vocabulary> or <vocabulary>northern latitude</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8C%97%E7%B7%AF",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "北",
+      "id": 517,
+      "reading": "ほく"
+    },
+    {
+      "type": "kanji",
+      "value": "緯",
+      "id": 2199,
+      "reading": "い"
+    }
+  ]
+}

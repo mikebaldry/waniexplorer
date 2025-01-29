@@ -1,0 +1,38 @@
+{
+  "id": 5610,
+  "type": "vocabulary",
+  "characters": "浮かれる",
+  "primaryMeaning": "To Be Happy",
+  "otherMeanings": [
+    "To Be In High Spirits",
+    "To Be Elated"
+  ],
+  "primaryReading": "うかれる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1433,
+      "character": "浮",
+      "readings": [
+        "う",
+        "うわ",
+        "ふ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "浮く means \"to float,\" and 浮かれる draws on that metaphor of \"floating\" to mean <vocabulary>to be happy</vocabulary>, <vocabulary>to be in high spirits</vocabulary>, or <vocabulary>to be elated</vocabulary>. We have the same metaphor in English — think of being \"on cloud nine.\" ",
+  "readingMnemonic": "The reading comes from 浮く, so if you know that you' are going <vocabulary>to be happy</vocabulary> and you won't have a <reading>care</reading> (かれる) in the world!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B5%AE%E3%81%8B%E3%82%8C%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "浮",
+      "id": 1433,
+      "reading": "う"
+    },
+    {
+      "type": "kana",
+      "value": "かれる"
+    }
+  ]
+}

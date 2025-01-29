@@ -1,0 +1,41 @@
+{
+  "id": 8577,
+  "type": "vocabulary",
+  "characters": "萌え",
+  "primaryMeaning": "Sprouting",
+  "otherMeanings": [
+    "Budding",
+    "Crush",
+    "Infatuation",
+    "Moe"
+  ],
+  "primaryReading": "もえ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2364,
+      "character": "萌",
+      "readings": [
+        "ほう",
+        "きざ",
+        "めばえ",
+        "も"
+      ]
+    }
+  ],
+  "meaningMnemonic": "What is a <kanji>sprout</kanji> doing? It's <vocabulary>sprouting</vocabulary> and <vocabulary>budding</vocabulary>. A <vocabulary>crush</vocabulary> you have on someone can sprout too.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nThink about that newly <vocabulary>sprouting</vocabulary> <reading>moe</reading> (もえ) character you have a crush on. Yes, this is the same moe. Congrats, you already know it!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%90%8C%E3%81%88",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "萌",
+      "id": 2364,
+      "reading": "も"
+    },
+    {
+      "type": "kana",
+      "value": "え"
+    }
+  ]
+}

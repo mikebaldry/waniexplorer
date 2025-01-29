@@ -1,0 +1,40 @@
+{
+  "id": 727,
+  "type": "kanji",
+  "character": "持",
+  "primaryMeaning": "Hold",
+  "otherMeanings": [],
+  "primaryReading": "じ",
+  "readings": [
+    {
+      "reading": "じ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "も",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "As you <kanji>hold</kanji> the temple you hear a voice. You look down through your fingers and see a tiny <reading>Je</reading>sus (じ). He's smiling and gives you a thumbs up. Aww, thanks Jesus!",
+  "meaningMnemonic": "You need to get your <radical>fingers</radical> around a <radical>temple</radical> if you want to <kanji>hold</kanji> it. Is the temple too big? Hold smaller temples you can buy in the temple's souvenir shop.",
+  "vocabularyIds": [
+    3130,
+    3131,
+    3132,
+    3803,
+    3882,
+    3949,
+    6003,
+    6146,
+    7497,
+    7745,
+    9044
+  ],
+  "radicalIds": [
+    63,
+    192
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%8C%81"
+}

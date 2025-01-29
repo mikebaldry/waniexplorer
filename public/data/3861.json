@@ -1,0 +1,32 @@
+{
+  "id": 3861,
+  "type": "vocabulary",
+  "characters": "証",
+  "primaryMeaning": "Evidence",
+  "otherMeanings": [
+    "Proof"
+  ],
+  "primaryReading": "あかし",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 987,
+      "character": "証",
+      "readings": [
+        "しょう",
+        "あかし"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "Since this word is made up of a single kanji, it should use the kun'yomi reading. When learning the kanji, you didn't learn that reading, so here's a mnemonic to help you with this word: \nYour relentless search for <vocabulary>evidence</vocabulary> has finally uncovered the existence of <reading>a</reading> <reading>car</reading> <reading>shee</reading>p (あかし)! It's a bizarre hybrid, having a car's body but a sheep's head and legs. \"Ah, car sheep! I've finally found the evidence proving you're real!\"",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A8%BC",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "証",
+      "id": 987,
+      "reading": "あかし"
+    }
+  ]
+}

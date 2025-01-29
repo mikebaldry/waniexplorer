@@ -1,0 +1,44 @@
+{
+  "id": 8309,
+  "type": "vocabulary",
+  "characters": "窒素",
+  "primaryMeaning": "Nitrogen",
+  "otherMeanings": [],
+  "primaryReading": "ちっそ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2313,
+      "character": "窒",
+      "readings": [
+        "ちつ"
+      ]
+    },
+    {
+      "id": 1138,
+      "character": "素",
+      "readings": [
+        "そ",
+        "す",
+        "もと"
+      ]
+    }
+  ],
+  "meaningMnemonic": "An <kanji>element</kanji> that can cause a person to <kanji>suffocate</kanji> is <vocabulary>nitrogen</vocabulary>. Too much or too little will cause it.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%AA%92%E7%B4%A0",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "窒",
+      "id": 2313,
+      "reading": "ちっ"
+    },
+    {
+      "type": "kanji",
+      "value": "素",
+      "id": 1138,
+      "reading": "そ"
+    }
+  ]
+}

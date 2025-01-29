@@ -1,0 +1,39 @@
+{
+  "id": 631,
+  "type": "kanji",
+  "character": "知",
+  "primaryMeaning": "Know",
+  "otherMeanings": [],
+  "primaryReading": "ち",
+  "readings": [
+    {
+      "reading": "ち",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "し",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "To remember the reading ち we use the word \"cheese.\"\n\nOne of the things you <kanji>know</kanji> is actually very strange but very important. The president's <reading>chee</reading>se (ち) has been poisoned and only you know. If you could just say something then maybe you could save her... but... you have an arrow in your mouth.",
+  "meaningMnemonic": "Just before saying something important, you take an <radical>arrow</radical> to the <radical>mouth</radical> which seals your lips together, making it so you can't talk. Someone doesn't want you to share what you <kanji>know</kanji> with someone else.",
+  "vocabularyIds": [
+    3459,
+    3497,
+    3977,
+    4004,
+    4022,
+    4042,
+    5817,
+    6031,
+    6129,
+    8697
+  ],
+  "radicalIds": [
+    72,
+    16
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%9F%A5"
+}

@@ -1,0 +1,46 @@
+{
+  "id": 4516,
+  "type": "vocabulary",
+  "characters": "費用",
+  "primaryMeaning": "Expense",
+  "otherMeanings": [
+    "Cost"
+  ],
+  "primaryReading": "ひよう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1165,
+      "character": "費",
+      "readings": [
+        "ひ",
+        "つい"
+      ]
+    },
+    {
+      "id": 525,
+      "character": "用",
+      "readings": [
+        "よう",
+        "もち"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>expense</kanji> of <kanji>use</kanji> is the <vocabulary>expense</vocabulary> and <vocabulary>cost</vocabulary> we have to pay, I'm afraid. If you use something, there'll be expense.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%B2%BB%E7%94%A8",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "費",
+      "id": 1165,
+      "reading": "ひ"
+    },
+    {
+      "type": "kanji",
+      "value": "用",
+      "id": 525,
+      "reading": "よう"
+    }
+  ]
+}

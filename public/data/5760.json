@@ -1,0 +1,29 @@
+{
+  "id": 5760,
+  "type": "vocabulary",
+  "characters": "芋",
+  "primaryMeaning": "Potato",
+  "otherMeanings": [],
+  "primaryReading": "いも",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1553,
+      "character": "芋",
+      "readings": [
+        "いも"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%8A%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "芋",
+      "id": 1553,
+      "reading": "いも"
+    }
+  ]
+}

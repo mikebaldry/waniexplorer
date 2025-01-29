@@ -1,0 +1,44 @@
+{
+  "id": 6850,
+  "type": "vocabulary",
+  "characters": "入籍",
+  "primaryMeaning": "Entry In Family Register",
+  "otherMeanings": [],
+  "primaryReading": "にゅうせき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 445,
+      "character": "入",
+      "readings": [
+        "にゅう",
+        "はい",
+        "い"
+      ]
+    },
+    {
+      "id": 1844,
+      "character": "籍",
+      "readings": [
+        "せき"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Remember how 戸籍 is the family register? This is referring to that, and that makes this word mean <vocabulary>entry in family register</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%85%A5%E7%B1%8D",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "入",
+      "id": 445,
+      "reading": "にゅう"
+    },
+    {
+      "type": "kanji",
+      "value": "籍",
+      "id": 1844,
+      "reading": "せき"
+    }
+  ]
+}

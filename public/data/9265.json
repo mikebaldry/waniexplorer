@@ -1,0 +1,42 @@
+{
+  "id": 9265,
+  "type": "kanji",
+  "character": "炒",
+  "primaryMeaning": "Fry",
+  "otherMeanings": [],
+  "primaryReading": "いた",
+  "readings": [
+    {
+      "reading": "いた",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "い",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "しょう",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "そう",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "You love to <kanji>fry</kanji> things and are also an adventurous <reading>eater</reading> (いた). This means you'll fry and eat just about anything. Fried ostrich, fried alligator, fried chocolate, you name it! ",
+  "meaningMnemonic": "<radical>Fire</radical> is one of a <radical>few</radical> things you'll need to <kanji>fry</kanji> things.",
+  "vocabularyIds": [
+    9266,
+    9272,
+    9275
+  ],
+  "radicalIds": [
+    46,
+    198
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%82%92"
+}

@@ -1,0 +1,54 @@
+{
+  "id": 6348,
+  "type": "vocabulary",
+  "characters": "取り扱う",
+  "primaryMeaning": "To Manage",
+  "otherMeanings": [
+    "To Handle"
+  ],
+  "primaryReading": "とりあつかう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 966,
+      "character": "取",
+      "readings": [
+        "と",
+        "しゅ"
+      ]
+    },
+    {
+      "id": 1693,
+      "character": "扱",
+      "readings": [
+        "あつか",
+        "きゅう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "To <kanji>take</kanji> and then <kanji>handle</kanji> means you're taking it and handling it, causing you <vocabulary>to manage</vocabulary> or <vocabulary>to handle</vocabulary> something. You got it because you took it.",
+  "readingMnemonic": "The readings come from 取る and 扱う.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8F%96%E3%82%8A%E6%89%B1%E3%81%86",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "取",
+      "id": 966,
+      "reading": "と"
+    },
+    {
+      "type": "kana",
+      "value": "り"
+    },
+    {
+      "type": "kanji",
+      "value": "扱",
+      "id": 1693,
+      "reading": "あつか"
+    },
+    {
+      "type": "kana",
+      "value": "う"
+    }
+  ]
+}

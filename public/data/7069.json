@@ -1,0 +1,51 @@
+{
+  "id": 7069,
+  "type": "vocabulary",
+  "characters": "黒い霧",
+  "primaryMeaning": "Thick Fog",
+  "otherMeanings": [
+    "Black Veil",
+    "Covered Up"
+  ],
+  "primaryReading": "くろいきり",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 677,
+      "character": "黒",
+      "readings": [
+        "こく",
+        "くろ"
+      ]
+    },
+    {
+      "id": 1982,
+      "character": "霧",
+      "readings": [
+        "きり",
+        "む"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>black</kanji> <kanji>fog</kanji> is going to be a really <vocabulary>thick fog</vocabulary> or <vocabulary>black veil</vocabulary> that covers suspicious acts or crimes. It's not a literal cloud of fog or a physical veil, it's what you hide your bad deeds in, metaphorically speaking.",
+  "readingMnemonic": "The reading comes from 黒い and 霧.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%BB%92%E3%81%84%E9%9C%A7",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "黒",
+      "id": 677,
+      "reading": "くろ"
+    },
+    {
+      "type": "kana",
+      "value": "い"
+    },
+    {
+      "type": "kanji",
+      "value": "霧",
+      "id": 1982,
+      "reading": "きり"
+    }
+  ]
+}

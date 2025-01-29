@@ -1,0 +1,45 @@
+{
+  "id": 4450,
+  "type": "vocabulary",
+  "characters": "検査",
+  "primaryMeaning": "Checkup",
+  "otherMeanings": [
+    "Inspection",
+    "Examination"
+  ],
+  "primaryReading": "けんさ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1143,
+      "character": "検",
+      "readings": [
+        "けん"
+      ]
+    },
+    {
+      "id": 1130,
+      "character": "査",
+      "readings": [
+        "さ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "We're going to need to <kanji>examine</kanji> and <kanji>inspect</kanji> you for our annual <vocabulary>checkup</vocabulary>, mmk? Now drop your pants and cough, please.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%A4%9C%E6%9F%BB",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "検",
+      "id": 1143,
+      "reading": "けん"
+    },
+    {
+      "type": "kanji",
+      "value": "査",
+      "id": 1130,
+      "reading": "さ"
+    }
+  ]
+}

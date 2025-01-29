@@ -1,0 +1,27 @@
+{
+  "id": 2059,
+  "type": "kanji",
+  "character": "刈",
+  "primaryMeaning": "Prune",
+  "otherMeanings": [],
+  "primaryReading": "か",
+  "readings": [
+    {
+      "reading": "か",
+      "primary": true,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Currently, you want to <kanji>prune</kanji> your greatest treasure: your <reading>ca</reading>r (か). Your car is made of wood, and it keeps trying to grow new buds and branches, so you have to prune them off.",
+  "meaningMnemonic": "Take your greatest <radical>treasure</radical>, hold a <radical>knife</radical> nice and close to it, and <kanji>prune</kanji> away all the weak and dead bits.",
+  "vocabularyIds": [
+    7288,
+    7289,
+    7290
+  ],
+  "radicalIds": [
+    31,
+    128
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%88%88"
+}

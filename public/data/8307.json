@@ -1,0 +1,44 @@
+{
+  "id": 8307,
+  "type": "vocabulary",
+  "characters": "米穀",
+  "primaryMeaning": "Rice",
+  "otherMeanings": [],
+  "primaryReading": "べいこく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 574,
+      "character": "米",
+      "readings": [
+        "べい",
+        "まい",
+        "こめ"
+      ]
+    },
+    {
+      "id": 2304,
+      "character": "穀",
+      "readings": [
+        "こく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Rice</kanji> <kanji>grain</kanji>s make up the <vocabulary>rice</vocabulary> we eat everyday. ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B1%B3%E7%A9%80",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "米",
+      "id": 574,
+      "reading": "べい"
+    },
+    {
+      "type": "kanji",
+      "value": "穀",
+      "id": 2304,
+      "reading": "こく"
+    }
+  ]
+}

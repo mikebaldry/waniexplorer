@@ -1,0 +1,37 @@
+{
+  "id": 804,
+  "type": "kanji",
+  "character": "競",
+  "primaryMeaning": "Compete",
+  "otherMeanings": [],
+  "primaryReading": "きょう",
+  "readings": [
+    {
+      "reading": "きょう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "けい",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "きそ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You <kanji>compete</kanji> with your older brother because only one of you may go to <reading>きょう</reading>と. Whoever stands on top the most gets to go to きょうと, so you must compete for a spot.",
+  "meaningMnemonic": "<radical>Stand</radical> on your <radical>older brother</radical>. Now <radical>stand</radical> on your <radical>older brother</radical> again. You wish to stand on, and above, your older brother. You <kanji>compete</kanji> over and over again, to stand atop your older brother.",
+  "vocabularyIds": [
+    3240,
+    3310,
+    8033
+  ],
+  "radicalIds": [
+    55,
+    191
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%AB%B6"
+}

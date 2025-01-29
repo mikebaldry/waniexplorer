@@ -1,0 +1,37 @@
+{
+  "id": 4700,
+  "type": "vocabulary",
+  "characters": "載る",
+  "primaryMeaning": "To Be Placed On",
+  "otherMeanings": [
+    "To Be Recorded",
+    "To Be Loaded On"
+  ],
+  "primaryReading": "のる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1230,
+      "character": "載",
+      "readings": [
+        "さい",
+        "の"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. It's also an intransitive verb, meaning the action happens on its own, you don't do it. The kanji itself means <kanji>place on</kanji>, and this means <vocabulary>to be placed on</vocabulary>.\n\n載る is also often used to refer to something being included in a written document or publication and so can also mean <vocabulary>to be recorded</vocabulary>, as in 新聞に載る (to be recorded in a newspaper) or 教科書に載る (to be recorded in a textbook).",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nA reporter asks for your conversation <vocabulary>to be placed on</vocabulary> record, to which you respond \"<reading>NO</reading> (の)!\" Koichi doesn't want everyone to know that he didn’t notice a cactus had been placed on his seat until…",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%BC%89%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "載",
+      "id": 1230,
+      "reading": "の"
+    },
+    {
+      "type": "kana",
+      "value": "る"
+    }
+  ]
+}

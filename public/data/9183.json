@@ -1,0 +1,97 @@
+{
+  "id": 9183,
+  "object": "kana_vocabulary",
+  "url": "https://api.wanikani.com/v2/subjects/9183",
+  "data_updated_at": "2024-10-15T22:19:11.553869Z",
+  "data": {
+    "created_at": "2023-04-24T21:53:13.498824Z",
+    "level": 3,
+    "slug": "こんにちは",
+    "hidden_at": null,
+    "document_url": "https://www.wanikani.com/vocabulary/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF",
+    "characters": "こんにちは",
+    "meanings": [
+      {
+        "meaning": "Hello",
+        "primary": true,
+        "accepted_answer": true
+      },
+      {
+        "meaning": "Good afternoon",
+        "primary": false,
+        "accepted_answer": true
+      }
+    ],
+    "auxiliary_meanings": [],
+    "parts_of_speech": [
+      "expression"
+    ],
+    "meaning_mnemonic": "<reading>Connie Chihua</reading>hua (こんにちは) says <vocabulary>hello</vocabulary>. Connie Chihuahua is an amazing talking chihuahua. She can only say \"hello\", but that alone is pretty impressive.\n\nこんにちは is a formal way to say \"hello\". It’s generally used during the daytime, from late morning to early evening. Watch out for the は on the end, which is always pronounced わ.",
+    "context_sentences": [
+      {
+        "en": "Hello Sensei.",
+        "ja": "先生、こんにちは。"
+      },
+      {
+        "en": "Hello Aya.",
+        "ja": "アヤちゃん、こんにちは。"
+      },
+      {
+        "en": "Hello, I'm Jenny.",
+        "ja": "こんにちは、ジェニーです。"
+      }
+    ],
+    "pronunciation_audios": [
+      {
+        "url": "https://files.wanikani.com/lmokl51sra79u9sslcye4dgoh619",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44762,
+          "pronunciation": "こんにちは",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/5i84nrltyg6ccb8dsceacqppss2u",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44762,
+          "pronunciation": "こんにちは",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      },
+      {
+        "url": "https://files.wanikani.com/clt8vcf8qknqt3ghxctcdu1ahhp0",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44703,
+          "pronunciation": "こんにちは",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      },
+      {
+        "url": "https://files.wanikani.com/puhfa6iaabgntk9d2b5iy2y3mvmx",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44703,
+          "pronunciation": "こんにちは",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      }
+    ],
+    "lesson_position": 61,
+    "spaced_repetition_system_id": 1
+  }
+}

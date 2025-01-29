@@ -1,0 +1,33 @@
+{
+  "id": 1808,
+  "type": "kanji",
+  "character": "喪",
+  "primaryMeaning": "Mourning",
+  "otherMeanings": [],
+  "primaryReading": "そう",
+  "readings": [
+    {
+      "reading": "そう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "も",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "As the <kanji>mourning</kanji> continues, the <reading>sou</reading>l (そう) of the dead person rises out of the cross. The soul looks around at all of the mourners and nods. Yes, your mourning has pleased it.",
+  "meaningMnemonic": "Under the <radical>cross</radical> is a <radical>mouth</radical> and another <radical>mouth</radical> wearing special <radical>clothes</radical> because they're in <kanji>mourning</kanji>.",
+  "vocabularyIds": [
+    6576,
+    6577,
+    6755
+  ],
+  "radicalIds": [
+    15,
+    16,
+    320
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%96%AA"
+}

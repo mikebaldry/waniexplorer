@@ -1,0 +1,29 @@
+{
+  "id": 7131,
+  "type": "vocabulary",
+  "characters": "箸",
+  "primaryMeaning": "Chopsticks",
+  "otherMeanings": [],
+  "primaryReading": "はし",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2008,
+      "character": "箸",
+      "readings": [
+        "はし"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%AE%B8",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "箸",
+      "id": 2008,
+      "reading": "はし"
+    }
+  ]
+}

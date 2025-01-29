@@ -1,0 +1,47 @@
+{
+  "id": 5215,
+  "type": "vocabulary",
+  "characters": "乾杯",
+  "primaryMeaning": "Kanpai",
+  "otherMeanings": [
+    "Cheers",
+    "Toast"
+  ],
+  "primaryReading": "かんぱい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1381,
+      "character": "乾",
+      "readings": [
+        "かん",
+        "かわ",
+        "ほ"
+      ]
+    },
+    {
+      "id": 1380,
+      "character": "杯",
+      "readings": [
+        "はい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You <kanji>dry</kanji> out your <kanji>cup of liquid</kanji> after saying <vocabulary>Kanpai</vocabulary>, or <vocabulary>cheers</vocabulary>!\n\n乾杯 means <vocabulary>toast</vocabulary>ing with your drink and is how you say \"Cheers!\" in Japanese. It literally means \"dry your cup\" (drink up), so traditionally, people would finish their drink after saying it. But it's much more relaxed nowadays—most people just take a sip for 乾杯.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Just watch out for the はい turning into ぱい!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B9%BE%E6%9D%AF",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "乾",
+      "id": 1381,
+      "reading": "かん"
+    },
+    {
+      "type": "kanji",
+      "value": "杯",
+      "id": 1380,
+      "reading": "ぱい"
+    }
+  ]
+}

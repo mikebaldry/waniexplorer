@@ -1,0 +1,47 @@
+{
+  "id": 6404,
+  "type": "vocabulary",
+  "characters": "携帯",
+  "primaryMeaning": "Portable",
+  "otherMeanings": [
+    "Cell Phone",
+    "Mobile Phone"
+  ],
+  "primaryReading": "けいたい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1756,
+      "character": "携",
+      "readings": [
+        "けい",
+        "たずさ"
+      ]
+    },
+    {
+      "id": 1463,
+      "character": "帯",
+      "readings": [
+        "たい",
+        "おび"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>portable</kanji> <kanji>belt</kanji> is something so portable you can put it on your belt. It is <vocabulary>portable</vocabulary>. Note, this is also a very common term for a <vocabulary>cell phone</vocabulary> or <vocabulary>mobile phone</vocabulary>. You'll learn more about that in the coming levels.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%90%BA%E5%B8%AF",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "携",
+      "id": 1756,
+      "reading": "けい"
+    },
+    {
+      "type": "kanji",
+      "value": "帯",
+      "id": 1463,
+      "reading": "たい"
+    }
+  ]
+}

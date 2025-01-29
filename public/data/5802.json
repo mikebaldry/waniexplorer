@@ -1,0 +1,33 @@
+{
+  "id": 5802,
+  "type": "vocabulary",
+  "characters": "源",
+  "primaryMeaning": "Origin",
+  "otherMeanings": [
+    "Source",
+    "Ground Spring"
+  ],
+  "primaryReading": "みなもと",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1568,
+      "character": "源",
+      "readings": [
+        "げん",
+        "みなもと"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>origin</kanji> is the <vocabulary>origin</vocabulary>, but it also refers to the <vocabulary>ground spring</vocabulary>s, where the origin of water comes from.",
+  "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You did not learn this reading, so here's a mnemonic to help you to remember: Think of how this <vocabulary>ground spring</vocabulary> is everyone's (皆) origin (元). Everyone can use it, it's the 皆元!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%BA%90",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "源",
+      "id": 1568,
+      "reading": "みなもと"
+    }
+  ]
+}

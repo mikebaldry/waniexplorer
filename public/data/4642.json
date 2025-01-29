@@ -1,0 +1,36 @@
+{
+  "id": 4642,
+  "type": "vocabulary",
+  "characters": "現れる",
+  "primaryMeaning": "To Appear",
+  "otherMeanings": [
+    "To Emerge"
+  ],
+  "primaryReading": "あらわれる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1211,
+      "character": "現",
+      "readings": [
+        "げん",
+        "あらわ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji means <kanji>appear</kanji>, so this word means <vocabulary>to appear</vocabulary> or <vocabulary>to emerge</vocabulary>.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: It looks like something is going <vocabulary>to appear</vocabulary> in front of you. You are so scared and surprised you can't even speak properly: \"<reading>Are wha</reading>t??\" (あらわ) you ask, trying to figure out what's appearing in front of you.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%8F%BE%E3%82%8C%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "現",
+      "id": 1211,
+      "reading": "あらわ"
+    },
+    {
+      "type": "kana",
+      "value": "れる"
+    }
+  ]
+}

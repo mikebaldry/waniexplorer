@@ -1,0 +1,60 @@
+{
+  "id": 3480,
+  "type": "vocabulary",
+  "characters": "目医者",
+  "primaryMeaning": "Eye Doctor",
+  "otherMeanings": [
+    "Oculist",
+    "Ophthalmologist"
+  ],
+  "primaryReading": "めいしゃ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 492,
+      "character": "目",
+      "readings": [
+        "め",
+        "もく"
+      ]
+    },
+    {
+      "id": 681,
+      "character": "医",
+      "readings": [
+        "い"
+      ]
+    },
+    {
+      "id": 690,
+      "character": "者",
+      "readings": [
+        "しゃ",
+        "もの"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Do you remember 医者 (doctor)? What happens when you add <kanji>eye</kanji> on there? You have yourself an <vocabulary>eye doctor</vocabulary>.",
+  "readingMnemonic": "The reading is just the vocab word 医者 (いしゃ) plus the reading 目 (め), the same as the reading you learned with the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%9B%AE%E5%8C%BB%E8%80%85",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "目",
+      "id": 492,
+      "reading": "め"
+    },
+    {
+      "type": "kanji",
+      "value": "医",
+      "id": 681,
+      "reading": "い"
+    },
+    {
+      "type": "kanji",
+      "value": "者",
+      "id": 690,
+      "reading": "しゃ"
+    }
+  ]
+}

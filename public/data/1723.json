@@ -1,0 +1,33 @@
+{
+  "id": 1723,
+  "type": "kanji",
+  "character": "勧",
+  "primaryMeaning": "Recommend",
+  "otherMeanings": [],
+  "primaryReading": "かん",
+  "readings": [
+    {
+      "reading": "かん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "すす",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You <kanji>recommend</kanji> the Genghis <reading>Khan</reading> (かん) special instead of this arrow-tainted turkey! When it comes out, your heart sinks. Genghis Khan apparently ate a cow with an arrow broken off in it.",
+  "meaningMnemonic": "There’s an <radical>arrow</radical> in that <radical>turkey</radical> and you do everything in your <radical>power</radical> to <kanji>recommend</kanji> that we don’t eat the turkey. There’s an arrow in this turkey. The arrow looks a little broken, so there’s probably splinters all up inside that turkey. I know you’re all hungry but I can’t recommend eating this bird.",
+  "vocabularyIds": [
+    6295,
+    6296,
+    6297
+  ],
+  "radicalIds": [
+    72,
+    240,
+    13
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%8B%A7"
+}

@@ -1,0 +1,32 @@
+{
+  "id": 2348,
+  "type": "kanji",
+  "character": "閲",
+  "primaryMeaning": "Inspection",
+  "otherMeanings": [],
+  "primaryReading": "えつ",
+  "readings": [
+    {
+      "reading": "えつ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "けみ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "His <kanji>inspection</kanji> is complete, but it looks like he's used an <reading>etch</reading> (えつ) a sketch to record all the results. That's not really helpful. If you shake it all the inspection results will disappear!",
+  "meaningMnemonic": "Put a <radical>guard</radical> at your <radical>gate</radical> to get a good <kanji>inspection</kanji> of your neighborhood going. The guard will stand there all day inspecting everything and then report it all back to you. You won't have to do any of the inspection yourself!",
+  "vocabularyIds": [
+    8426,
+    8427,
+    8428
+  ],
+  "radicalIds": [
+    214,
+    422
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%96%B2"
+}

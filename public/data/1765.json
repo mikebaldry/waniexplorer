@@ -1,0 +1,33 @@
+{
+  "id": 1765,
+  "type": "kanji",
+  "character": "頻",
+  "primaryMeaning": "Frequent",
+  "otherMeanings": [],
+  "primaryReading": "ひん",
+  "readings": [
+    {
+      "reading": "ひん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "しき",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Apparently Hindu people also love geoducks because <reading>Hin</reading>du (ひん) people <kanji>frequent</kanji> this area quite often as well. You always see the geoduck here, but also a lot of Hindu people.",
+  "meaningMnemonic": "You <radical>walk</radical> by a <radical>geoduck</radical> a <kanji>frequent</kanji> amount. This geoduck really intrigues you, so you can’t help but frequent the area the geoduck is in and walk around.",
+  "vocabularyIds": [
+    6426,
+    6429,
+    6430,
+    6431
+  ],
+  "radicalIds": [
+    245,
+    184
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%A0%BB"
+}

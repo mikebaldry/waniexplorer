@@ -1,0 +1,52 @@
+{
+  "id": 5728,
+  "type": "vocabulary",
+  "characters": "投げ捨てる",
+  "primaryMeaning": "To Throw Away",
+  "otherMeanings": [],
+  "primaryReading": "なげすてる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 686,
+      "character": "投",
+      "readings": [
+        "とう",
+        "な"
+      ]
+    },
+    {
+      "id": 1503,
+      "character": "捨",
+      "readings": [
+        "す",
+        "しゃ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You <kanji>throw</kanji> and <kanji>throw away</kanji> something. That's why this means <vocabulary>to throw away</vocabulary>.",
+  "readingMnemonic": "The reading comes from 投げる and 捨てる, combined into one garbage inducing dump of a word.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8A%95%E3%81%92%E6%8D%A8%E3%81%A6%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "投",
+      "id": 686,
+      "reading": "な"
+    },
+    {
+      "type": "kana",
+      "value": "げ"
+    },
+    {
+      "type": "kanji",
+      "value": "捨",
+      "id": 1503,
+      "reading": "す"
+    },
+    {
+      "type": "kana",
+      "value": "てる"
+    }
+  ]
+}

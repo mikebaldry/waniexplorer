@@ -1,0 +1,46 @@
+{
+  "id": 2217,
+  "type": "kanji",
+  "character": "胡",
+  "primaryMeaning": "Barbarian",
+  "otherMeanings": [],
+  "primaryReading": "こ",
+  "readings": [
+    {
+      "reading": "こ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "う",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ご",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "なんぞ",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "きゅう",
+      "primary": false,
+      "type": "nanori"
+    }
+  ],
+  "readingMnemonic": "At least, this is the kind of story you told your <reading>子</reading> (こ) when they asked you where the moon came from.",
+  "meaningMnemonic": "The <radical>old</radical> <radical>moon</radical> (the moon we had before the current moon) was actually just a huge <kanji>barbarian</kanji> floating in the sky.",
+  "vocabularyIds": [
+    8025,
+    8026
+  ],
+  "radicalIds": [
+    69,
+    43
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%83%A1"
+}

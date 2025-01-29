@@ -1,0 +1,32 @@
+{
+  "id": 1949,
+  "type": "kanji",
+  "character": "吾",
+  "primaryMeaning": "I",
+  "otherMeanings": [
+    "Me"
+  ],
+  "primaryReading": "わが",
+  "readings": [
+    {
+      "reading": "わが",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "ご",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "<kanji>Me</kanji>, personally, <kanji>I</kanji> am quite thirsty so I ask for some “<reading>waga</reading>” (わが). I have five things in my mouth, so it is hard for me to pronounce the word “water”. So it sounds like “waga” when I ask for it. “Coulg I pweash hab sum waga?! I deed waga!!”",
+  "meaningMnemonic": "I have <radical>five</radical> things in my <radical>mouth</radical> and <kanji>I</kanji> need them all for <kanji>me</kanji>. I own these five things, and I keep them in my mouth so people like you cannot take them from me.",
+  "vocabularyIds": [
+    6985
+  ],
+  "radicalIds": [
+    39,
+    16
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%90%BE"
+}

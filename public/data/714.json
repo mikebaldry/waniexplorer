@@ -1,0 +1,57 @@
+{
+  "id": 714,
+  "type": "kanji",
+  "character": "定",
+  "primaryMeaning": "Determine",
+  "otherMeanings": [],
+  "primaryReading": "てい",
+  "readings": [
+    {
+      "reading": "てい",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "じょう",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "さだ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You <kanji>determine</kanji>d it, but you still have to test this determination. You go to the top and roll a <reading>ta</reading>ter (てい) tot down the roof. Tater tots will only roll down a perfectly correct roof.",
+  "meaningMnemonic": "A <radical>roof</radical> is <radical>correct</radical> only if you <kanji>determine</kanji> that it is.",
+  "vocabularyIds": [
+    3100,
+    3101,
+    3158,
+    3207,
+    3291,
+    3505,
+    4426,
+    4479,
+    4675,
+    4728,
+    4745,
+    4973,
+    5432,
+    5625,
+    5791,
+    5849,
+    5850,
+    6603,
+    7694,
+    7786,
+    7824,
+    8378,
+    8484
+  ],
+  "radicalIds": [
+    78,
+    229
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%AE%9A"
+}

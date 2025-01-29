@@ -1,0 +1,45 @@
+{
+  "id": 5563,
+  "type": "vocabulary",
+  "characters": "傷心",
+  "primaryMeaning": "Heartbreak",
+  "otherMeanings": [],
+  "primaryReading": "しょうしん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1499,
+      "character": "傷",
+      "readings": [
+        "しょう",
+        "きず",
+        "いた"
+      ]
+    },
+    {
+      "id": 508,
+      "character": "心",
+      "readings": [
+        "しん",
+        "こころ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>wound</kanji> of your <kanji>heart</kanji>. That could be many things, but in this case it's <vocabulary>heartbreak</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%82%B7%E5%BF%83",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "傷",
+      "id": 1499,
+      "reading": "しょう"
+    },
+    {
+      "type": "kanji",
+      "value": "心",
+      "id": 508,
+      "reading": "しん"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 6598,
+  "type": "vocabulary",
+  "characters": "揺る",
+  "primaryMeaning": "To Shake",
+  "otherMeanings": [
+    "To Jolt"
+  ],
+  "primaryReading": "ゆる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1817,
+      "character": "揺",
+      "readings": [
+        "よう",
+        "ゆ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>shake</kanji> and the verb vocab is <vocabulary>to shake</vocabulary>.",
+  "readingMnemonic": "If everything starts <vocabulary>to shake</vocabulary> what else will shake along with it? <reading>You</reading> (ゆ), of course.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8F%BA%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "揺",
+      "id": 1817,
+      "reading": "ゆ"
+    },
+    {
+      "type": "kana",
+      "value": "る"
+    }
+  ]
+}

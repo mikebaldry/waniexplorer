@@ -1,0 +1,34 @@
+{
+  "id": 7531,
+  "type": "vocabulary",
+  "characters": "お前",
+  "primaryMeaning": "You",
+  "otherMeanings": [],
+  "primaryReading": "おまえ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 633,
+      "character": "前",
+      "readings": [
+        "ぜん",
+        "まえ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The お is added to elevate someone in <kanji>front</kanji> of you. What do you call someone in front of you? That's right, <vocabulary>you</vocabulary>. Over time, this word has lost its sense of politeness, and nowadays it sounds very rough and often rude. This \"you\" is a good way to show anger, and some people also use it in very casual situations to show affection.",
+  "readingMnemonic": "The reading for 前 is the kun'yomi, like the reading for the vocabulary word 前. So long as you know that word, you'll be able to read this one too. ",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E3%81%8A%E5%89%8D",
+  "elements": [
+    {
+      "type": "kana",
+      "value": "お"
+    },
+    {
+      "type": "kanji",
+      "value": "前",
+      "id": 633,
+      "reading": "まえ"
+    }
+  ]
+}

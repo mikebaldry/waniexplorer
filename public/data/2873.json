@@ -1,0 +1,48 @@
+{
+  "id": 2873,
+  "type": "vocabulary",
+  "characters": "年次",
+  "primaryMeaning": "Annual",
+  "otherMeanings": [
+    "Yearly"
+  ],
+  "primaryReading": "ねんじ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 546,
+      "character": "年",
+      "readings": [
+        "ねん",
+        "とし"
+      ]
+    },
+    {
+      "id": 616,
+      "character": "次",
+      "readings": [
+        "じ",
+        "し",
+        "つぎ",
+        "つ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>year</kanji> that is <kanji>next</kanji> is coming up. What will you do in the year that is next that you did this year too? What do you do that is <vocabulary>annual</vocabulary>?\n\n年次 is a formal term typically used in business settings, such as in 年次報告書 (annual report) or 年次休暇 (annual leave).",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B9%B4%E6%AC%A1",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "年",
+      "id": 546,
+      "reading": "ねん"
+    },
+    {
+      "type": "kanji",
+      "value": "次",
+      "id": 616,
+      "reading": "じ"
+    }
+  ]
+}

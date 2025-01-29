@@ -1,0 +1,43 @@
+{
+  "id": 9043,
+  "type": "vocabulary",
+  "characters": "里芋",
+  "primaryMeaning": "Taro",
+  "otherMeanings": [],
+  "primaryReading": "さといも",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 597,
+      "character": "里",
+      "readings": [
+        "さと",
+        "り"
+      ]
+    },
+    {
+      "id": 1553,
+      "character": "芋",
+      "readings": [
+        "いも"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>hometown</kanji> <kanji>potato</kanji> is a <vocabulary>taro</vocabulary>. In Japan, taro is the kind of potato that everyone has in their hometown, because it's been around for such a long time and it'll grow anywhere.",
+  "readingMnemonic": "This is a jukugo word that uses the kun'yomi readings of the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%87%8C%E8%8A%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "里",
+      "id": 597,
+      "reading": "さと"
+    },
+    {
+      "type": "kanji",
+      "value": "芋",
+      "id": 1553,
+      "reading": "いも"
+    }
+  ]
+}

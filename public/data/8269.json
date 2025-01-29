@@ -1,0 +1,49 @@
+{
+  "id": 8269,
+  "type": "vocabulary",
+  "characters": "静寂",
+  "primaryMeaning": "Silence",
+  "otherMeanings": [
+    "Still",
+    "Quiet"
+  ],
+  "primaryReading": "せいじゃく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1052,
+      "character": "静",
+      "readings": [
+        "せい",
+        "しず"
+      ]
+    },
+    {
+      "id": 2298,
+      "character": "寂",
+      "readings": [
+        "じゃく",
+        "せき",
+        "さび",
+        "さみ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you're <kanji>lonely</kanji> and <kanji>quiet</kanji> you'll be surrounded in <vocabulary>silence</vocabulary>.\n\n静寂 is pretty advanced, so you'll mostly only see it used in literature to suggest a sense of profound silence.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9D%99%E5%AF%82",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "静",
+      "id": 1052,
+      "reading": "せい"
+    },
+    {
+      "type": "kanji",
+      "value": "寂",
+      "id": 2298,
+      "reading": "じゃく"
+    }
+  ]
+}

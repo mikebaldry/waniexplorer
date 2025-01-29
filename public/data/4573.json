@@ -1,0 +1,48 @@
+{
+  "id": 4573,
+  "type": "vocabulary",
+  "characters": "態度",
+  "primaryMeaning": "Attitude",
+  "otherMeanings": [
+    "Manner",
+    "Behavior"
+  ],
+  "primaryReading": "たいど",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1184,
+      "character": "態",
+      "readings": [
+        "たい",
+        "わざ"
+      ]
+    },
+    {
+      "id": 725,
+      "character": "度",
+      "readings": [
+        "ど",
+        "たく",
+        "たび"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Your <kanji>appearance</kanji> has many <kanji>degree</kanji>s. You turn it up a dial, and you show off one <vocabulary>attitude</vocabulary>. Then you turn it down a degree and you have another <vocabulary>behavior</vocabulary>. So many <vocabulary>manner</vocabulary>s to show off.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%85%8B%E5%BA%A6",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "態",
+      "id": 1184,
+      "reading": "たい"
+    },
+    {
+      "type": "kanji",
+      "value": "度",
+      "id": 725,
+      "reading": "ど"
+    }
+  ]
+}

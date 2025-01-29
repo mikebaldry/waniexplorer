@@ -1,0 +1,45 @@
+{
+  "id": 3526,
+  "type": "vocabulary",
+  "characters": "画像",
+  "primaryMeaning": "Image",
+  "otherMeanings": [
+    "Picture"
+  ],
+  "primaryReading": "がぞう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 629,
+      "character": "画",
+      "readings": [
+        "が",
+        "かく"
+      ]
+    },
+    {
+      "id": 890,
+      "character": "像",
+      "readings": [
+        "ぞう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "An <kanji>image</kanji> of an <kanji>image</kanji> is still an <vocabulary>image</vocabulary>. This can also be a <vocabulary>picture</vocabulary>.\n\n画像 can refer to all sorts of images and pictures, but these days it's mostly used for the digital kind.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%94%BB%E5%83%8F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "画",
+      "id": 629,
+      "reading": "が"
+    },
+    {
+      "type": "kanji",
+      "value": "像",
+      "id": 890,
+      "reading": "ぞう"
+    }
+  ]
+}

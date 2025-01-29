@@ -1,0 +1,35 @@
+{
+  "id": 5531,
+  "type": "vocabulary",
+  "characters": "桜んぼ",
+  "primaryMeaning": "Cherry",
+  "otherMeanings": [],
+  "primaryReading": "さくらんぼ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1485,
+      "character": "桜",
+      "readings": [
+        "さくら",
+        "おう",
+        "よう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>cherry tree</kanji> can create a <vocabulary>cherry</vocabulary>. This is what this word is.",
+  "readingMnemonic": "The reading comes from the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%A1%9C%E3%82%93%E3%81%BC",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "桜",
+      "id": 1485,
+      "reading": "さくら"
+    },
+    {
+      "type": "kana",
+      "value": "んぼ"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "id": 9215,
+  "object": "kana_vocabulary",
+  "url": "https://api.wanikani.com/v2/subjects/9215",
+  "data_updated_at": "2024-10-15T22:19:13.558055Z",
+  "data": {
+    "created_at": "2023-04-25T00:07:31.489584Z",
+    "level": 9,
+    "slug": "そこ",
+    "hidden_at": null,
+    "document_url": "https://www.wanikani.com/vocabulary/%E3%81%9D%E3%81%93",
+    "characters": "そこ",
+    "meanings": [
+      {
+        "meaning": "There",
+        "primary": true,
+        "accepted_answer": true
+      }
+    ],
+    "auxiliary_meanings": [
+      {
+        "meaning": "That Place",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Where",
+        "type": "blacklist"
+      },
+      {
+        "meaning": "Here",
+        "type": "blacklist"
+      }
+    ],
+    "parts_of_speech": [
+      "noun",
+      "pronoun",
+      "こそあど word"
+    ],
+    "meaning_mnemonic": "Remember how words beginning with そ are either close to the person you're talking to, or fairly close to both of you? And how words ending in こ refer to places? This one's no exception. そこ means <vocabulary>there</vocabulary>.",
+    "context_sentences": [
+      {
+        "en": "I met my teacher there.",
+        "ja": "そこで先生に会ったよ。"
+      },
+      {
+        "en": "If you're looking for snacks, they're there.",
+        "ja": "おやつなら、そこにあるよ。"
+      },
+      {
+        "en": "You don't have to say so much!",
+        "ja": "そこまで言わなくてもいいじゃない！"
+      }
+    ],
+    "pronunciation_audios": [
+      {
+        "url": "https://files.wanikani.com/8kaz2pwl47fyaq3v11flh3zo638s",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44709,
+          "pronunciation": "そこ",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      },
+      {
+        "url": "https://files.wanikani.com/udzx1m6fy86gm3br8kej5crnezj0",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44709,
+          "pronunciation": "そこ",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/3a1b87hpuwm49a2m79skyt8zw2gm",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44768,
+          "pronunciation": "そこ",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/vyyu3mowkghlhsl79z81xfx23365",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44768,
+          "pronunciation": "そこ",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      }
+    ],
+    "lesson_position": 72,
+    "spaced_repetition_system_id": 1
+  }
+}

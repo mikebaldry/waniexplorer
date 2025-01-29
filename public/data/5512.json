@@ -1,0 +1,50 @@
+{
+  "id": 5512,
+  "type": "vocabulary",
+  "characters": "結婚する",
+  "primaryMeaning": "To Marry",
+  "otherMeanings": [
+    "To Get Married"
+  ],
+  "primaryReading": "けっこんする",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1009,
+      "character": "結",
+      "readings": [
+        "けつ",
+        "むす",
+        "ゆ"
+      ]
+    },
+    {
+      "id": 1416,
+      "character": "婚",
+      "readings": [
+        "こん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "結婚 is <kanji>marriage</kanji>, so the verb version of that would be <vocabulary>to marry</vocabulary> or <vocabulary>to get married</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. It will help to know 結婚 first, though.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B5%90%E5%A9%9A%E3%81%99%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "結",
+      "id": 1009,
+      "reading": null
+    },
+    {
+      "type": "kanji",
+      "value": "婚",
+      "id": 1416,
+      "reading": null
+    },
+    {
+      "type": "kana",
+      "value": "する"
+    }
+  ]
+}

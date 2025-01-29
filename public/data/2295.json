@@ -1,0 +1,33 @@
+{
+  "id": 2295,
+  "type": "kanji",
+  "character": "拍",
+  "primaryMeaning": "Beat",
+  "otherMeanings": [],
+  "primaryReading": "はく",
+  "readings": [
+    {
+      "reading": "はく",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ひょう",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "This <kanji>beat</kanji> is sick, but as you tap you realize you're <reading>hack</reading>ing (はく) up the wall! Slowly but surely, your fingers are hacking out little bits of the wall. And the beats don't sound as good until you move to a new, clean white area.",
+  "meaningMnemonic": "You're tapping your <radical>fingers</radical> against a <radical>white</radical> wall when you realize the sound you're making is actually a sick <kanji>beat</kanji>. You keep going and start singing along. Boo boo boop. Boo do do do doop! Finger beats!",
+  "vocabularyIds": [
+    8285,
+    8286,
+    8287,
+    8466
+  ],
+  "radicalIds": [
+    63,
+    52
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%8B%8D"
+}

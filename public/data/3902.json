@@ -1,0 +1,51 @@
+{
+  "id": 3902,
+  "type": "vocabulary",
+  "characters": "整理する",
+  "primaryMeaning": "To Arrange",
+  "otherMeanings": [
+    "To Organize",
+    "To Sort"
+  ],
+  "primaryReading": "せいりする",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 863,
+      "character": "整",
+      "readings": [
+        "せい",
+        "ととの"
+      ]
+    },
+    {
+      "id": 669,
+      "character": "理",
+      "readings": [
+        "り",
+        "ことわり"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you <kanji>arrange</kanji> something with <kanji>reason</kanji> you're arranging it. That's why this is <vocabulary>to arrange</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%95%B4%E7%90%86%E3%81%99%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "整",
+      "id": 863,
+      "reading": "せい"
+    },
+    {
+      "type": "kanji",
+      "value": "理",
+      "id": 669,
+      "reading": "り"
+    },
+    {
+      "type": "kana",
+      "value": "する"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": 6038,
+  "type": "vocabulary",
+  "characters": "盛り上がる",
+  "primaryMeaning": "To Swell",
+  "otherMeanings": [
+    "To Get Excited"
+  ],
+  "primaryReading": "もりあがる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1532,
+      "character": "盛",
+      "readings": [
+        "せい",
+        "じょう",
+        "も",
+        "さか"
+      ]
+    },
+    {
+      "id": 450,
+      "character": "上",
+      "readings": [
+        "じょう",
+        "うえ",
+        "あ",
+        "のぼ",
+        "うわ",
+        "かみ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "盛り上げる is \"to heap up\" - this has a similar idea, except now this is more like an excitement or swelling. As excitement heaps up in you, you are going <vocabulary>to get excited</vocabulary>. Note how 上がる is in here. This means something is happening to you (or something else), but you're not doing the action. When you get all sorts of excitement building up in you, you aren't really doing it, it's just happening on its own in reaction to something else.",
+  "readingMnemonic": "The reading comes from 盛り and 上がる. Let the excitement build as you realize you know the reading already.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%9B%9B%E3%82%8A%E4%B8%8A%E3%81%8C%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "盛",
+      "id": 1532,
+      "reading": "も"
+    },
+    {
+      "type": "kana",
+      "value": "り"
+    },
+    {
+      "type": "kanji",
+      "value": "上",
+      "id": 450,
+      "reading": "あ"
+    },
+    {
+      "type": "kana",
+      "value": "がる"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 3183,
+  "type": "vocabulary",
+  "characters": "運ぶ",
+  "primaryMeaning": "To Carry",
+  "otherMeanings": [
+    "To Transport",
+    "To Move"
+  ],
+  "primaryReading": "はこぶ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 752,
+      "character": "運",
+      "readings": [
+        "うん",
+        "はこ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>carry</kanji> so the verb version is <vocabulary>to carry</vocabulary>.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nImagine you have <vocabulary>to carry</vocabulary> a <reading>har</reading>d<reading>co</reading>re (はこ) music fan home after a concert. They spent all night moshing to hardcore sounds, and now they’re too tired to walk. But you? You’re a hardcore friend, so you’re happy to carry them. ",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%81%8B%E3%81%B6",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "運",
+      "id": 752,
+      "reading": "はこ"
+    },
+    {
+      "type": "kana",
+      "value": "ぶ"
+    }
+  ]
+}

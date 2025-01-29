@@ -1,0 +1,30 @@
+{
+  "id": 4736,
+  "type": "vocabulary",
+  "characters": "質",
+  "primaryMeaning": "Quality",
+  "otherMeanings": [],
+  "primaryReading": "しつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1242,
+      "character": "質",
+      "readings": [
+        "しつ",
+        "しち"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "Reading is the same as the one you learned with the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%B3%AA",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "質",
+      "id": 1242,
+      "reading": "しつ"
+    }
+  ]
+}

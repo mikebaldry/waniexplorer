@@ -1,0 +1,33 @@
+{
+  "id": 6556,
+  "type": "vocabulary",
+  "characters": "偽",
+  "primaryMeaning": "Fake",
+  "otherMeanings": [
+    "Imitation"
+  ],
+  "primaryReading": "にせ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1803,
+      "character": "偽",
+      "readings": [
+        "ぎ",
+        "にせ",
+        "いつわ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You did not learn this reading, so here's a mnemonic to help you: \n\nIt turns out she is a <vocabulary>fake</vocabulary>. Your <reading>niece</reading> (にせ) was a robot this whole time, just pretending to be your niece. What is wrong with this world, where your niece can be an <vocabulary>imitation</vocabulary> niece. A 偽niece, if you will.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%81%BD",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "偽",
+      "id": 1803,
+      "reading": "にせ"
+    }
+  ]
+}

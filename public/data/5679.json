@@ -1,0 +1,45 @@
+{
+  "id": 5679,
+  "type": "vocabulary",
+  "characters": "著者",
+  "primaryMeaning": "Author",
+  "otherMeanings": [],
+  "primaryReading": "ちょしゃ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1538,
+      "character": "著",
+      "readings": [
+        "ちょ",
+        "いちじる",
+        "あらわ"
+      ]
+    },
+    {
+      "id": 690,
+      "character": "者",
+      "readings": [
+        "しゃ",
+        "もの"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Someone</kanji> who is an <kanji>author</kanji> is an <vocabulary>author</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%91%97%E8%80%85",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "著",
+      "id": 1538,
+      "reading": "ちょ"
+    },
+    {
+      "type": "kanji",
+      "value": "者",
+      "id": 690,
+      "reading": "しゃ"
+    }
+  ]
+}

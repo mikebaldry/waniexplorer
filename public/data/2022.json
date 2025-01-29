@@ -1,0 +1,31 @@
+{
+  "id": 2022,
+  "type": "kanji",
+  "character": "餓",
+  "primaryMeaning": "Starve",
+  "otherMeanings": [],
+  "primaryReading": "が",
+  "readings": [
+    {
+      "reading": "が",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "う",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You <kanji>starve</kanji> (thanks ego) and turn into a <reading>ga</reading>rgoyle (が). As your stomach aches, your skin turns gray and you slowly harden into a crouched position.",
+  "meaningMnemonic": "If you have nothing to <radical>eat</radical> but your <radical>ego</radical>, you'll <kanji>starve</kanji>. You can't eat it, and your ego is keeping you from accepting actual food or help from other people.",
+  "vocabularyIds": [
+    7184,
+    7186
+  ],
+  "radicalIds": [
+    139,
+    272
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%A4%93"
+}

@@ -1,0 +1,45 @@
+{
+  "id": 3736,
+  "type": "vocabulary",
+  "characters": "信用",
+  "primaryMeaning": "Trust",
+  "otherMeanings": [
+    "Credibility"
+  ],
+  "primaryReading": "しんよう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 940,
+      "character": "信",
+      "readings": [
+        "しん"
+      ]
+    },
+    {
+      "id": 525,
+      "character": "用",
+      "readings": [
+        "よう",
+        "もち"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When someone <kanji>believes</kanji> in your <kanji>task</kanji>, it means they have a lot of <vocabulary>trust</vocabulary> in what you do. You've clearly gained a great deal of <vocabulary>credibility</vocabulary> through your previous tasks.\n\n信用 refers to the trust one party places in another's integrity and ability to fulfill obligations. It's often used to describe reliability in actions, faithfulness in relationships, or creditworthiness in financial transactions.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BF%A1%E7%94%A8",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "信",
+      "id": 940,
+      "reading": "しん"
+    },
+    {
+      "type": "kanji",
+      "value": "用",
+      "id": 525,
+      "reading": "よう"
+    }
+  ]
+}

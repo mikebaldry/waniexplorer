@@ -1,0 +1,33 @@
+{
+  "id": 1799,
+  "type": "kanji",
+  "character": "至",
+  "primaryMeaning": "Attain",
+  "otherMeanings": [],
+  "primaryReading": "し",
+  "readings": [
+    {
+      "reading": "し",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "いた",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Mole isn't enough, you want to <kanji>attain</kanji> <reading>shee</reading>p (し) status next. Everyone knows it goes human &gt; mole&gt; sheep. Now you need to stand in the field with the mole and get a sheep to come over.",
+  "meaningMnemonic": "Dig up a <radical>mole</radical> and you <kanji>attain</kanji> a mole status. You're always trying to attain a new level for yourself and now you get to be on the mole level!",
+  "vocabularyIds": [
+    6540,
+    6541,
+    6542,
+    6543,
+    6544
+  ],
+  "radicalIds": [
+    274
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%87%B3"
+}

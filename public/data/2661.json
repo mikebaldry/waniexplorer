@@ -1,0 +1,63 @@
+{
+  "id": 2661,
+  "type": "vocabulary",
+  "characters": "大文字",
+  "primaryMeaning": "Uppercase Letters",
+  "otherMeanings": [
+    "Capital Letters",
+    "Uppercase"
+  ],
+  "primaryReading": "おおもじ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 453,
+      "character": "大",
+      "readings": [
+        "たい",
+        "だい",
+        "おお",
+        "ひろ"
+      ]
+    },
+    {
+      "id": 475,
+      "character": "文",
+      "readings": [
+        "ぶん",
+        "もん",
+        "ふみ"
+      ]
+    },
+    {
+      "id": 545,
+      "character": "字",
+      "readings": [
+        "じ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You have <kanji>big</kanji> <kanji>writing</kanji> <kanji>letters</kanji>. What do you think these are? THAT WOULD HAVE TO BE <vocabulary>UPPERCASE LETTERS</vocabulary>, RIGHT? Whoops, sorry, caps lock was on for a moment, there.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. However, 大 uses the kun'yomi reading and 文 is an exception here, so here's a mnemonic to help you remember this:\n\nWhenever you see an <vocabulary>uppercase letter</vocabulary>, you shout \"<reading>おお</reading>, <reading>Moe</reading>!\" (おおも). Your buddy Moe taught you the letters in the first place, so when you get stuck, you yell for him to come help you. And he always does. What a good guy.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A4%A7%E6%96%87%E5%AD%97",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "大",
+      "id": 453,
+      "reading": "おお"
+    },
+    {
+      "type": "kanji",
+      "value": "文",
+      "id": 475,
+      "reading": "も"
+    },
+    {
+      "type": "kanji",
+      "value": "字",
+      "id": 545,
+      "reading": "じ"
+    }
+  ]
+}

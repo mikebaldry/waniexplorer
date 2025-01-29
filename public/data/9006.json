@@ -1,0 +1,45 @@
+{
+  "id": 9006,
+  "type": "vocabulary",
+  "characters": "完璧",
+  "primaryMeaning": "Perfect",
+  "otherMeanings": [
+    "Flawless",
+    "Complete"
+  ],
+  "primaryReading": "かんぺき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 904,
+      "character": "完",
+      "readings": [
+        "かん"
+      ]
+    },
+    {
+      "id": 8995,
+      "character": "璧",
+      "readings": [
+        "へき"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>perfect</kanji> <kanji>disc</kanji> is <vocabulary>flawless</vocabulary>. It's just <vocabulary>perfect</vocabulary>. \n\nAs you may already know, in Japan the symbol ⭕ is used to mark correct answers. See how it looks like a perfect disc?",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Just remember that rendaku turns へき into ぺき.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AE%8C%E7%92%A7",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "完",
+      "id": 904,
+      "reading": "かん"
+    },
+    {
+      "type": "kanji",
+      "value": "璧",
+      "id": 8995,
+      "reading": "ぺき"
+    }
+  ]
+}

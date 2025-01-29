@@ -1,0 +1,122 @@
+{
+  "id": 9176,
+  "object": "kana_vocabulary",
+  "url": "https://api.wanikani.com/v2/subjects/9176",
+  "data_updated_at": "2024-10-15T22:19:11.286457Z",
+  "data": {
+    "created_at": "2022-09-14T11:39:10.684981Z",
+    "level": 10,
+    "slug": "ちょっと",
+    "hidden_at": null,
+    "document_url": "https://www.wanikani.com/vocabulary/%E3%81%A1%E3%82%87%E3%81%A3%E3%81%A8",
+    "characters": "ちょっと",
+    "meanings": [
+      {
+        "meaning": "A Little",
+        "primary": true,
+        "accepted_answer": true
+      },
+      {
+        "meaning": "A Moment",
+        "primary": false,
+        "accepted_answer": true
+      }
+    ],
+    "auxiliary_meanings": [
+      {
+        "meaning": "A Bit",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "A Few",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "For A Moment",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "A Minute",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "For A Minute",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Some",
+        "type": "whitelist"
+      }
+    ],
+    "parts_of_speech": [
+      "adverb"
+    ],
+    "meaning_mnemonic": "You <reading>chort</reading>le (ちょっと) <vocabulary>a little</vocabulary> at a silly joke. You can’t help chortling <vocabulary>for a moment</vocabulary>. Go ahead, chortle just a little, for just a moment, to help you remember this word.",
+    "context_sentences": [
+      {
+        "en": "Oh, wait a moment!",
+        "ja": "あ、ちょっとまって！"
+      },
+      {
+        "en": "I think it's a little different.",
+        "ja": "ちょっとちがう気がする。"
+      },
+      {
+        "en": "I'll think about it a little.",
+        "ja": "ちょっと考えてみるよ。"
+      }
+    ],
+    "pronunciation_audios": [
+      {
+        "url": "https://files.wanikani.com/aytkvvszkbef6bs6fcn1jvgtjlpl",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44712,
+          "pronunciation": "ちょっと",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/a9b6kvgfl1atmoh0i35ywuekhx2g",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44712,
+          "pronunciation": "ちょっと",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      },
+      {
+        "url": "https://files.wanikani.com/zq6et3w71q6esjg9eh4lvhchpp7f",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44771,
+          "pronunciation": "ちょっと",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/7bgju0uuqgehil54q583xqaeeqwe",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44771,
+          "pronunciation": "ちょっと",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      }
+    ],
+    "lesson_position": 59,
+    "spaced_repetition_system_id": 1
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": 3601,
+  "type": "vocabulary",
+  "characters": "様々",
+  "primaryMeaning": "Various",
+  "otherMeanings": [],
+  "primaryReading": "さまざま",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 865,
+      "character": "様",
+      "readings": [
+        "さま",
+        "よう"
+      ]
+    },
+    {
+      "id": 856,
+      "character": "々",
+      "readings": [
+        "のま"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This one's kinda tricky. You learned 様 is a \"formal name ender,\" but it can also mean \"manner,\" as in the manner you do something in. So if you've got multiple manners, you've got lots of <vocabulary>various</vocabulary> ways of doing things!",
+  "readingMnemonic": "The reading is just the reading you learned with the kanji. The second one is ざま however, which plays right into the \"various\" meaning of the word. There's even various ways to read さま in this word!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%A7%98%E3%80%85",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "様",
+      "id": 865,
+      "reading": "さま"
+    },
+    {
+      "type": "kanji",
+      "value": "々",
+      "id": 865,
+      "reading": "ざま"
+    }
+  ]
+}

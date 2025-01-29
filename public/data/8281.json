@@ -1,0 +1,49 @@
+{
+  "id": 8281,
+  "type": "vocabulary",
+  "characters": "怠け者",
+  "primaryMeaning": "Lazy Person",
+  "otherMeanings": [],
+  "primaryReading": "なまけもの",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2181,
+      "character": "怠",
+      "readings": [
+        "たい",
+        "おこた",
+        "なま"
+      ]
+    },
+    {
+      "id": 690,
+      "character": "者",
+      "readings": [
+        "しゃ",
+        "もの"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>lazy</kanji> <kanji>someone</kanji> is a <vocabulary>lazy person</vocabulary>.",
+  "readingMnemonic": "The readings for this word are both kun'yomi readings. You've learned both of these readings by now so you should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%80%A0%E3%81%91%E8%80%85",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "怠",
+      "id": 2181,
+      "reading": "なま"
+    },
+    {
+      "type": "kana",
+      "value": "け"
+    },
+    {
+      "type": "kanji",
+      "value": "者",
+      "id": 690,
+      "reading": "もの"
+    }
+  ]
+}

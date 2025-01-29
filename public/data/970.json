@@ -1,0 +1,43 @@
+{
+  "id": 970,
+  "type": "kanji",
+  "character": "急",
+  "primaryMeaning": "Hurry",
+  "otherMeanings": [
+    "Sudden"
+  ],
+  "primaryReading": "きゅう",
+  "readings": [
+    {
+      "reading": "きゅう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "いそ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You're trying to <kanji>hurry</kanji> as fast as you can to save the wolverine. But you're losing strength, so you grab a <reading>cu</reading>cumber (きゅう) from your bag and munch on it to get some of your hurrying power back.",
+  "meaningMnemonic": "A <radical>wolverine</radical>'s <radical>heart</radical> is in <radical>prison</radical>, so you need to <kanji>hurry</kanji> to set it free. But don't be too <kanji>sudden</kanji>, or its heart won't survive. And the wolverine's death will be on you.",
+  "vocabularyIds": [
+    3838,
+    3839,
+    3840,
+    3841,
+    3851,
+    4460,
+    5271,
+    5465,
+    6077,
+    7545,
+    8058
+  ],
+  "radicalIds": [
+    14,
+    105,
+    65
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%80%A5"
+}

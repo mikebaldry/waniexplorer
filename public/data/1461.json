@@ -1,0 +1,31 @@
+{
+  "id": 1461,
+  "type": "kanji",
+  "character": "孫",
+  "primaryMeaning": "Grandchild",
+  "otherMeanings": [],
+  "primaryReading": "そん",
+  "readings": [
+    {
+      "reading": "そん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "まご",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "The <reading>son</reading> (そん) of a son is a <kanji>grandchild</kanji>. In this case, a grandson. Easy.",
+  "meaningMnemonic": "A <radical>child</radical> shares his <radical>lineage</radical> with a <kanji>grandchild</kanji>. The child passes his lineage down to his child and then that child’s child is the grandchild and between them all a lineage is shared.",
+  "vocabularyIds": [
+    5454,
+    5455
+  ],
+  "radicalIds": [
+    34,
+    329
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%AD%AB"
+}

@@ -1,0 +1,44 @@
+{
+  "id": 5049,
+  "type": "vocabulary",
+  "characters": "段階",
+  "primaryMeaning": "Stage",
+  "otherMeanings": [
+    "Phase"
+  ],
+  "primaryReading": "だんかい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1315,
+      "character": "段",
+      "readings": [
+        "だん"
+      ]
+    },
+    {
+      "id": 835,
+      "character": "階",
+      "readings": [
+        "かい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The current <kanji>step</kanji> of the <kanji>floor</kanji> is at the second <vocabulary>stage</vocabulary>. Now it's at the third stage. Now it's in the final <vocabulary>phase</vocabulary>! Nice!",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%AE%B5%E9%9A%8E",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "段",
+      "id": 1315,
+      "reading": "だん"
+    },
+    {
+      "type": "kanji",
+      "value": "階",
+      "id": 835,
+      "reading": "かい"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 7019,
+  "type": "vocabulary",
+  "characters": "幽閉",
+  "primaryMeaning": "Confinement",
+  "otherMeanings": [
+    "Imprisonment"
+  ],
+  "primaryReading": "ゆうへい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1961,
+      "character": "幽",
+      "readings": [
+        "ゆう"
+      ]
+    },
+    {
+      "id": 1514,
+      "character": "閉",
+      "readings": [
+        "へい",
+        "し",
+        "と"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Secluded</kanji> and <kanji>closed</kanji> off, putting you in <vocabulary>confinement</vocabulary> and <vocabulary>imprisonment</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B9%BD%E9%96%89",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "幽",
+      "id": 1961,
+      "reading": "ゆう"
+    },
+    {
+      "type": "kanji",
+      "value": "閉",
+      "id": 1514,
+      "reading": "へい"
+    }
+  ]
+}

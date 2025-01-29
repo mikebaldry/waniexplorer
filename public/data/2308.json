@@ -1,0 +1,40 @@
+{
+  "id": 2308,
+  "type": "kanji",
+  "character": "窮",
+  "primaryMeaning": "Destitute",
+  "otherMeanings": [],
+  "primaryReading": "きゅう",
+  "readings": [
+    {
+      "reading": "きゅう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "きょう",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "きわ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You see this <kanji>destitute</kanji> person and decide to give them a <reading>cu</reading>cumber (きゅう). They don't even remember that they're supposed to eat those, so they shove it in the hole you made with your bow.",
+  "meaningMnemonic": "Put a <radical>hole</radical> in someone's <radical>body</radical> with a <radical>bow</radical> and they'll become <kanji>destitute</kanji>. You put a hole in them. They can't work. They can't take care of their house or their kids. They've lost it all.",
+  "vocabularyIds": [
+    8310,
+    8311,
+    8312,
+    8313,
+    8314
+  ],
+  "radicalIds": [
+    170,
+    234,
+    36
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%AA%AE"
+}

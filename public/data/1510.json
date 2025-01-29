@@ -1,0 +1,32 @@
+{
+  "id": 1510,
+  "type": "kanji",
+  "character": "秘",
+  "primaryMeaning": "Secret",
+  "otherMeanings": [],
+  "primaryReading": "ひ",
+  "readings": [
+    {
+      "reading": "ひ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ひ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "If someone finds out your <kanji>secret</kanji> (not from the grain though, it will certainly keep it) then your entire face will fill with <reading>hea</reading>t (ひ).",
+  "meaningMnemonic": "A <radical>grain</radical> is <radical>certain</radical> to keep a <kanji>secret</kanji>.",
+  "vocabularyIds": [
+    5580,
+    5596,
+    5597
+  ],
+  "radicalIds": [
+    135,
+    343
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%A7%98"
+}

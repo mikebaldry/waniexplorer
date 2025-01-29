@@ -1,0 +1,48 @@
+{
+  "id": 3100,
+  "type": "vocabulary",
+  "characters": "予定",
+  "primaryMeaning": "Plan",
+  "otherMeanings": [
+    "Schedule",
+    "Estimate"
+  ],
+  "primaryReading": "よてい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 854,
+      "character": "予",
+      "readings": [
+        "よ",
+        "あらかじ"
+      ]
+    },
+    {
+      "id": 714,
+      "character": "定",
+      "readings": [
+        "てい",
+        "じょう",
+        "さだ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Something has been <kanji>determine</kanji>d <kanji>beforehand</kanji>. What is this thing? This action? It is a <vocabulary>plan</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BA%88%E5%AE%9A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "予",
+      "id": 854,
+      "reading": "よ"
+    },
+    {
+      "type": "kanji",
+      "value": "定",
+      "id": 714,
+      "reading": "てい"
+    }
+  ]
+}

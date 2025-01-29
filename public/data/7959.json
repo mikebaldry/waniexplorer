@@ -1,0 +1,59 @@
+{
+  "id": 7959,
+  "type": "vocabulary",
+  "characters": "皮膚病",
+  "primaryMeaning": "Skin Disease",
+  "otherMeanings": [],
+  "primaryReading": "ひふびょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 539,
+      "character": "皮",
+      "readings": [
+        "ひ",
+        "かわ"
+      ]
+    },
+    {
+      "id": 2132,
+      "character": "膚",
+      "readings": [
+        "ふ",
+        "はだ"
+      ]
+    },
+    {
+      "id": 773,
+      "character": "病",
+      "readings": [
+        "びょう",
+        "や",
+        "やまい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Remember how you learned that 皮膚 is \"skin?\" Well when your skin is <kanji>sick</kanji>, you have a <vocabulary>skin disease</vocabulary>. You should probably go to a dermatologist right away.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%9A%AE%E8%86%9A%E7%97%85",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "皮",
+      "id": 539,
+      "reading": "ひ"
+    },
+    {
+      "type": "kanji",
+      "value": "膚",
+      "id": 2132,
+      "reading": "ふ"
+    },
+    {
+      "type": "kanji",
+      "value": "病",
+      "id": 773,
+      "reading": "びょう"
+    }
+  ]
+}

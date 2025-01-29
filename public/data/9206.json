@@ -1,0 +1,123 @@
+{
+  "id": 9206,
+  "object": "kana_vocabulary",
+  "url": "https://api.wanikani.com/v2/subjects/9206",
+  "data_updated_at": "2024-10-15T22:19:13.066418Z",
+  "data": {
+    "created_at": "2023-04-24T23:42:33.596913Z",
+    "level": 7,
+    "slug": "あの",
+    "hidden_at": null,
+    "document_url": "https://www.wanikani.com/vocabulary/%E3%81%82%E3%81%AE",
+    "characters": "あの",
+    "meanings": [
+      {
+        "meaning": "That Over There",
+        "primary": true,
+        "accepted_answer": true
+      },
+      {
+        "meaning": "Those Over There",
+        "primary": false,
+        "accepted_answer": true
+      }
+    ],
+    "auxiliary_meanings": [
+      {
+        "meaning": "That",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Those",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "The",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "These Over Here",
+        "type": "blacklist"
+      },
+      {
+        "meaning": "This Over Here",
+        "type": "blacklist"
+      },
+      {
+        "meaning": "These",
+        "type": "blacklist"
+      }
+    ],
+    "parts_of_speech": [
+      "adjective",
+      "こそあど word"
+    ],
+    "meaning_mnemonic": "Remember how あれ means \"that one over there\"? Well, あの means <vocabulary>that</vocabulary>, and goes before a noun to point out something that is far away from both you and the person you're talking to, such as あの本 (that book over there) or あの子犬 (that puppy over there).\n\nNotice how these words starting with あ are far away from you? We'll be learning a few more of these, and they all follow the same pattern! What's more, you’ll notice that words ending in の tend to go before a noun.",
+    "context_sentences": [
+      {
+        "en": "I think I've seen that person over there somewhere before.",
+        "ja": "あの人、どこかで見たことある気がする。"
+      },
+      {
+        "en": "Do you remember that day?",
+        "ja": "あの日のこと、おぼえてる？"
+      },
+      {
+        "en": "I should have said \"thank you\" at the time.",
+        "ja": "あのとき、「ありがとう」って言えばよかった。"
+      }
+    ],
+    "pronunciation_audios": [
+      {
+        "url": "https://files.wanikani.com/f6rmcnh2thxo3msndbvals0c57qp",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44751,
+          "pronunciation": "あの",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/71l1wis2te1s8kimc7atvmxm7323",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44751,
+          "pronunciation": "あの",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      },
+      {
+        "url": "https://files.wanikani.com/dc483ox44c6d51wrna7cyb56np7a",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44692,
+          "pronunciation": "あの",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/urdqbekqfem8exq6atcr7e4tuyl1",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44692,
+          "pronunciation": "あの",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      }
+    ],
+    "lesson_position": 53,
+    "spaced_repetition_system_id": 1
+  }
+}

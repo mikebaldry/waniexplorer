@@ -1,0 +1,46 @@
+{
+  "id": 4958,
+  "type": "vocabulary",
+  "characters": "獣類",
+  "primaryMeaning": "Beasts",
+  "otherMeanings": [
+    "Animals"
+  ],
+  "primaryReading": "じゅうるい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1303,
+      "character": "獣",
+      "readings": [
+        "じゅう",
+        "けもの"
+      ]
+    },
+    {
+      "id": 1034,
+      "character": "類",
+      "readings": [
+        "るい",
+        "たぐ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Things that are of the <kanji>beast</kanji> <kanji>type</kanji> or <kanji>animal</kanji> <kanji>type</kanji> are within the <vocabulary>beasts</vocabulary> and <vocabulary>animals</vocabulary> category.\n\n獣類 refers to four-footed mammals with fur. It’s a technical term generally used in the fields of biology and zoology to categorize animals.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%8D%A3%E9%A1%9E",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "獣",
+      "id": 1303,
+      "reading": "じゅう"
+    },
+    {
+      "type": "kanji",
+      "value": "類",
+      "id": 1034,
+      "reading": "るい"
+    }
+  ]
+}

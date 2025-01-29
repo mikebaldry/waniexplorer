@@ -1,0 +1,36 @@
+{
+  "id": 5298,
+  "type": "vocabulary",
+  "characters": "乏しい",
+  "primaryMeaning": "Scarce",
+  "otherMeanings": [
+    "Meager"
+  ],
+  "primaryReading": "とぼしい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1423,
+      "character": "乏",
+      "readings": [
+        "ぼう",
+        "とぼ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>scarce</kanji>? It's also <vocabulary>scarce</vocabulary>.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: When things are <vocabulary>scarce</vocabulary>, you have <reading>to bo</reading>at (とぼ) all the way across the lake to find any resources or food, as your side of the lake is picked dry.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B9%8F%E3%81%97%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "乏",
+      "id": 1423,
+      "reading": "とぼ"
+    },
+    {
+      "type": "kana",
+      "value": "しい"
+    }
+  ]
+}

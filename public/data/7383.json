@@ -1,0 +1,56 @@
+{
+  "id": 7383,
+  "type": "vocabulary",
+  "characters": "改訂版",
+  "primaryMeaning": "Revised Edition",
+  "otherMeanings": [],
+  "primaryReading": "かいていばん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1082,
+      "character": "改",
+      "readings": [
+        "かい",
+        "あらた"
+      ]
+    },
+    {
+      "id": 2096,
+      "character": "訂",
+      "readings": [
+        "てい"
+      ]
+    },
+    {
+      "id": 1421,
+      "character": "版",
+      "readings": [
+        "はん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>renew</kanji>ed and <kanji>revise</kanji>d <kanji>edition</kanji> of something is the <vocabulary>revised edition</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Watch out for the rendaku.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%94%B9%E8%A8%82%E7%89%88",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "改",
+      "id": 1082,
+      "reading": "かい"
+    },
+    {
+      "type": "kanji",
+      "value": "訂",
+      "id": 2096,
+      "reading": "てい"
+    },
+    {
+      "type": "kanji",
+      "value": "版",
+      "id": 1421,
+      "reading": "ばん"
+    }
+  ]
+}

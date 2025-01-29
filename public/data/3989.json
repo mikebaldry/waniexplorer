@@ -1,0 +1,45 @@
+{
+  "id": 3989,
+  "type": "vocabulary",
+  "characters": "幻覚",
+  "primaryMeaning": "Hallucination",
+  "otherMeanings": [],
+  "primaryReading": "げんかく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1027,
+      "character": "幻",
+      "readings": [
+        "げん",
+        "まぼろし"
+      ]
+    },
+    {
+      "id": 1025,
+      "character": "覚",
+      "readings": [
+        "かく",
+        "おぼ",
+        "さ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "An <kanji>illusion</kanji> you have when you're <kanji>awake</kanji> is a <vocabulary>hallucination</vocabulary>. ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B9%BB%E8%A6%9A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "幻",
+      "id": 1027,
+      "reading": "げん"
+    },
+    {
+      "type": "kanji",
+      "value": "覚",
+      "id": 1025,
+      "reading": "かく"
+    }
+  ]
+}

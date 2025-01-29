@@ -1,0 +1,28 @@
+{
+  "id": 2114,
+  "type": "kanji",
+  "character": "搬",
+  "primaryMeaning": "Transport",
+  "otherMeanings": [],
+  "primaryReading": "はん",
+  "readings": [
+    {
+      "reading": "はん",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Hey! You're <kanji>transport</kanji>ing weapons just like <reading>Han</reading> (はん) Solo! I mean, it was a spaceship, not technically a boat, but he definitely used the Millennium Falcon as a transport.",
+  "meaningMnemonic": "With your <radical>fingers</radical> you put some <radical>weapon</radical>s in a <radical>boat</radical> for <kanji>transport</kanji>. This is a transport boat and its your job to get these weapons from one place to another.",
+  "vocabularyIds": [
+    7421,
+    7422,
+    7423
+  ],
+  "radicalIds": [
+    63,
+    149,
+    160
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%90%AC"
+}

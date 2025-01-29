@@ -1,0 +1,45 @@
+{
+  "id": 9010,
+  "type": "vocabulary",
+  "characters": "火星",
+  "primaryMeaning": "Mars",
+  "otherMeanings": [],
+  "primaryReading": "かせい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 480,
+      "character": "火",
+      "readings": [
+        "か",
+        "ひ",
+        "ほ"
+      ]
+    },
+    {
+      "id": 638,
+      "character": "星",
+      "readings": [
+        "せい",
+        "ほし"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>fire</kanji> <kanji>star</kanji> is <vocabulary>Mars</vocabulary>. This should be easy to remember, because Mars is the only planet in our solar system that's the color of fire.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%81%AB%E6%98%9F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "火",
+      "id": 480,
+      "reading": "か"
+    },
+    {
+      "type": "kanji",
+      "value": "星",
+      "id": 638,
+      "reading": "せい"
+    }
+  ]
+}

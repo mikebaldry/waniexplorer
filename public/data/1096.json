@@ -1,0 +1,33 @@
+{
+  "id": 1096,
+  "type": "kanji",
+  "character": "妨",
+  "primaryMeaning": "Obstruct",
+  "otherMeanings": [
+    "Impede"
+  ],
+  "primaryReading": "ぼう",
+  "readings": [
+    {
+      "reading": "ぼう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "さまた",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "This woman is truly magnificent. Some compare her to a <reading>bow</reading>ling (ぼう) ball, because of how she knocks down the obstructions in her path like bowling pins.",
+  "meaningMnemonic": "A <radical>woman</radical> with <radical>direction</radical> will have things <kanji>obstruct</kanji> her path. It's a sad fact that it's still a man's world out there!",
+  "vocabularyIds": [
+    4276,
+    4277
+  ],
+  "radicalIds": [
+    19,
+    66
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%A6%A8"
+}

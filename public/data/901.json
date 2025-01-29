@@ -1,0 +1,35 @@
+{
+  "id": 901,
+  "type": "kanji",
+  "character": "囲",
+  "primaryMeaning": "Surround",
+  "otherMeanings": [],
+  "primaryReading": "い",
+  "readings": [
+    {
+      "reading": "い",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "かこ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "The well walls <kanji>surround</kanji> you as you look up to the mouth once again. This time you see an <reading>ea</reading>gle (い) flying overhead. You call out to the eagle to save you and the eagle comes swooping down into the well and flies you out to safety. What a nice eagle!",
+  "meaningMnemonic": "The <radical>mouth</radical> of a <radical>well</radical> will <kanji>surround</kanji> you if you fall into it. The mouth of a well is the opening of the well, and if you fall into that well, the mouth as well as the rest of the well will surround you.",
+  "vocabularyIds": [
+    3664,
+    3666,
+    3667,
+    6528,
+    6624,
+    7009
+  ],
+  "radicalIds": [
+    16,
+    246
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%9B%B2"
+}

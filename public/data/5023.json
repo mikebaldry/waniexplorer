@@ -1,0 +1,48 @@
+{
+  "id": 5023,
+  "type": "vocabulary",
+  "characters": "迷惑",
+  "primaryMeaning": "Trouble",
+  "otherMeanings": [
+    "Troublesome",
+    "Inconvenience",
+    "Nuisance"
+  ],
+  "primaryReading": "めいわく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1325,
+      "character": "迷",
+      "readings": [
+        "めい",
+        "まよ"
+      ]
+    },
+    {
+      "id": 1326,
+      "character": "惑",
+      "readings": [
+        "わく",
+        "まど"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You've been led <kanji>astray</kanji> and you've been <kanji>misguided</kanji>. What a <vocabulary>trouble</vocabulary>, and indeed a <vocabulary>troublesome</vocabulary> <vocabulary>inconvenience</vocabulary> all this is.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%BF%B7%E6%83%91",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "迷",
+      "id": 1325,
+      "reading": "めい"
+    },
+    {
+      "type": "kanji",
+      "value": "惑",
+      "id": 1326,
+      "reading": "わく"
+    }
+  ]
+}

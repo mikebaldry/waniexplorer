@@ -1,0 +1,53 @@
+{
+  "id": 593,
+  "type": "kanji",
+  "character": "言",
+  "primaryMeaning": "Say",
+  "otherMeanings": [],
+  "primaryReading": "げん",
+  "readings": [
+    {
+      "reading": "げん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ごん",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "い",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "こと",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "If you aren't sure what to <kanji>say</kanji>, just think about <reading>Gen</reading>ji (げん) and ask yourself, \"What would Genji say?\"",
+  "meaningMnemonic": "The <radical>say</radical> radical and the <kanji>say</kanji> kanji are the same!",
+  "vocabularyIds": [
+    2838,
+    3000,
+    3419,
+    3437,
+    3863,
+    5173,
+    5635,
+    5737,
+    5840,
+    6248,
+    6277,
+    7458,
+    7492,
+    7644,
+    7696
+  ],
+  "radicalIds": [
+    117
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%A8%80"
+}

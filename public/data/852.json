@@ -1,0 +1,67 @@
+{
+  "id": 852,
+  "type": "kanji",
+  "character": "合",
+  "primaryMeaning": "Suit",
+  "otherMeanings": [
+    "Fit",
+    "Join"
+  ],
+  "primaryReading": "ごう",
+  "readings": [
+    {
+      "reading": "ごう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "がっ",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "あ",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "あい",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You need someone who will <kanji>suit</kanji> you. Someone who can <kanji>join</kanji> you on your life journey. So you call Grandpa <reading>ごう</reading>いち.\n\nNote: For the ごう reading mnemonics, we use Grandpa ごういち because こういち is used for the こう reading. So just remember that ごう comes from Koichi's grandpa ごういち.",
+  "meaningMnemonic": "The radical <radical>suit</radical> and the kanji <kanji>suit</kanji> are exactly the same! This kanji can also mean <kanji>join</kanji> which makes sense. When something suits you well, like a hat or something, it joins together with you quite well too. Join me, my hat! You suit my head well. It just <kanji>fit</kanji>s, you know?",
+  "vocabularyIds": [
+    3034,
+    3424,
+    3489,
+    3497,
+    3584,
+    3649,
+    3700,
+    3790,
+    3928,
+    4149,
+    4422,
+    4538,
+    4616,
+    5408,
+    5708,
+    5992,
+    6181,
+    6374,
+    6457,
+    6946,
+    7441,
+    7688,
+    7739,
+    8019,
+    8700,
+    9262
+  ],
+  "radicalIds": [
+    216
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%90%88"
+}

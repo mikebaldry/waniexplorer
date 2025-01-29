@@ -1,0 +1,52 @@
+{
+  "id": 3515,
+  "type": "vocabulary",
+  "characters": "酒好き",
+  "primaryMeaning": "Drinker",
+  "otherMeanings": [
+    "Alcoholic"
+  ],
+  "primaryReading": "さけずき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 743,
+      "character": "酒",
+      "readings": [
+        "しゅ",
+        "さけ",
+        "さか"
+      ]
+    },
+    {
+      "id": 779,
+      "character": "好",
+      "readings": [
+        "こう",
+        "す",
+        "この"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you <kanji>like</kanji> <kanji>alcohol</kanji> a lot, you're probably a heavy <vocabulary>drinker</vocabulary>.",
+  "readingMnemonic": "The reading is all kun'yomi vocab reading here as you can probably guess from the hiragana sticking out on the end. You should know the readings of these as separate words already (酒 and 好き) which means all you need to pay attention to is the rendaku of すき to ずき.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%85%92%E5%A5%BD%E3%81%8D",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "酒",
+      "id": 743,
+      "reading": "さけ"
+    },
+    {
+      "type": "kanji",
+      "value": "好",
+      "id": 779,
+      "reading": "ず"
+    },
+    {
+      "type": "kana",
+      "value": "き"
+    }
+  ]
+}

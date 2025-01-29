@@ -1,0 +1,31 @@
+{
+  "id": 2800,
+  "type": "vocabulary",
+  "characters": "雨",
+  "primaryMeaning": "Rain",
+  "otherMeanings": [],
+  "primaryReading": "あめ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 603,
+      "character": "雨",
+      "readings": [
+        "あめ",
+        "あま",
+        "う"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "Since this word is made up of a single kanji it uses the kun'yomi reading. Lucky for you, you learned this reading with the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9B%A8",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "雨",
+      "id": 603,
+      "reading": "あめ"
+    }
+  ]
+}

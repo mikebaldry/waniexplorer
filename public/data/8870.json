@@ -1,0 +1,47 @@
+{
+  "id": 8870,
+  "type": "vocabulary",
+  "characters": "膝頭",
+  "primaryMeaning": "Kneecap",
+  "otherMeanings": [
+    "Patella"
+  ],
+  "primaryReading": "ひざがしら",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 8861,
+      "character": "膝",
+      "readings": [
+        "ひざ"
+      ]
+    },
+    {
+      "id": 771,
+      "character": "頭",
+      "readings": [
+        "あたま",
+        "かしら",
+        "ず",
+        "とう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Your <kanji>knee</kanji>'s <kanji>head</kanji> is the <vocabulary>kneecap</vocabulary>. It's also called the <vocabulary>patella</vocabulary>, if you want to get fancy and talk about bone names.",
+  "readingMnemonic": "This word uses the kun'yomi readings for both kanji. You haven't learned this reading for 頭 yet, so here's a mnemonic to help you:\n\nYou're walking around in your mom's house, minding your own business, when you slam your <vocabulary>kneecap</vocabulary> right into that <reading>ga</reading>rgoyle <reading>she love</reading>s (がしら). It hurts so bad, you can't even think out that phrase and instead you shout out, \"GA SHE RA\" and fall to the floor, clutching your searing kneecap (which has probably broken in half).",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%86%9D%E9%A0%AD",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "膝",
+      "id": 8861,
+      "reading": "ひざ"
+    },
+    {
+      "type": "kanji",
+      "value": "頭",
+      "id": 771,
+      "reading": "がしら"
+    }
+  ]
+}

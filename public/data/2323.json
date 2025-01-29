@@ -1,0 +1,35 @@
+{
+  "id": 2323,
+  "type": "kanji",
+  "character": "碑",
+  "primaryMeaning": "Tombstone",
+  "otherMeanings": [],
+  "primaryReading": "ひ",
+  "readings": [
+    {
+      "reading": "ひ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "いしぶみ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Now you're curious about what's under there but when you try to touch the <kanji>tombstone</kanji> it's radiating with intense <reading>he</reading>at (ひ)! It must have come from outer space and this heat is from when it entered our atmosphere!",
+  "meaningMnemonic": "A <radical>stone</radical> <radical>drop</radical>s from the sky into a <radical>rice paddy</radical> and then a <radical>cross</radical> <radical>drop</radical>s on top of it. They've combined to form a <kanji>tombstone</kanji>! Wait, does that mean a body fell from the sky first and you just didn't see it?",
+  "vocabularyIds": [
+    8301,
+    8302,
+    8303,
+    8304
+  ],
+  "radicalIds": [
+    54,
+    3,
+    51,
+    15
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%A2%91"
+}

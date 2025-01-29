@@ -1,0 +1,62 @@
+{
+  "id": 7155,
+  "type": "vocabulary",
+  "characters": "土俵際",
+  "primaryMeaning": "Edge Of A Sumo Ring",
+  "otherMeanings": [
+    "Last Moment",
+    "Critical Moment"
+  ],
+  "primaryReading": "どひょうぎわ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 459,
+      "character": "土",
+      "readings": [
+        "ど",
+        "と",
+        "つち"
+      ]
+    },
+    {
+      "id": 1974,
+      "character": "俵",
+      "readings": [
+        "ひょう",
+        "たわら"
+      ]
+    },
+    {
+      "id": 1151,
+      "character": "際",
+      "readings": [
+        "さい",
+        "きわ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>soil</kanji> <kanji>sack</kanji> on the <kanji>edge</kanji>. Pretend the sacks are lined up around in a circle. It's the <vocabulary>edge of a sumo ring</vocabulary>. It can also refer to a <vocabulary>last moment</vocabulary> or <vocabulary>critical moment</vocabulary> in time, like the moment before getting pushed out of the ring. ",
+  "readingMnemonic": "The first two kanji (土俵) use the on'yomi reading you learned. The last kanji 際 uses the kun'yomi reading, which you should know via the vocabulary. Just think of these two parts as somewhat separate bits of the word, which is why one part is on'yomi and another (the addition) is kun'yomi.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%9C%9F%E4%BF%B5%E9%9A%9B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "土",
+      "id": 459,
+      "reading": "ど"
+    },
+    {
+      "type": "kanji",
+      "value": "俵",
+      "id": 1974,
+      "reading": "ひょう"
+    },
+    {
+      "type": "kanji",
+      "value": "際",
+      "id": 1151,
+      "reading": "ぎわ"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 1012,
+  "type": "kanji",
+  "character": "識",
+  "primaryMeaning": "Discerning",
+  "otherMeanings": [
+    "Discriminating",
+    "Know"
+  ],
+  "primaryReading": "しき",
+  "readings": [
+    {
+      "reading": "しき",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "So, we've figured out that your drunken utterances are not very <kanji>discerning</kanji>. But let's think about someone who is discerning. You're sitting next to an extremely  <reading>chic</reading> (しき) individual, and boy do they sound like they know what they are talking about. Maybe it's because they’re not drunk like you. They are so chic and have such discerning taste!",
+  "meaningMnemonic": "If you <radical>sound</radical> like a <radical>drunkard</radical> when you <radical>say</radical> things, people will not think of you as a <kanji>discerning</kanji> person. \"AWh yeah, that game is greatttt,\" you say in your drunken slurs. But, really, it sounds like you think all games are great, which isn't all that <kanji>discriminating</kanji> of you at all.",
+  "vocabularyIds": [
+    3984,
+    4042,
+    4043,
+    4239,
+    6517
+  ],
+  "radicalIds": [
+    117,
+    197,
+    194
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%AD%98"
+}

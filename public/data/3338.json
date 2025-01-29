@@ -1,0 +1,31 @@
+{
+  "id": 3338,
+  "type": "vocabulary",
+  "characters": "〜倍",
+  "primaryMeaning": "Times",
+  "otherMeanings": [
+    "Fold"
+  ],
+  "primaryReading": "ばい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 820,
+      "character": "倍",
+      "readings": [
+        "ばい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Throw this onto a number and you have yourself the number of <vocabulary>times</vocabulary> something has increased. For example, ３倍 means something increased \"three fold.\"",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji. Omit the 〜 when writing out the answer, though. That just represents that there should be something before the kanji in this word when being used.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E3%80%9C%E5%80%8D",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "倍",
+      "id": 820,
+      "reading": "ばい"
+    }
+  ]
+}

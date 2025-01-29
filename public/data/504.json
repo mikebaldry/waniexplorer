@@ -1,0 +1,33 @@
+{
+  "id": 504,
+  "type": "kanji",
+  "character": "友",
+  "primaryMeaning": "Friend",
+  "otherMeanings": [],
+  "primaryReading": "ゆう",
+  "readings": [
+    {
+      "reading": "ゆう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "とも",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "\"Hi <kanji>friend</kanji>,\" says the narwhal. \"I must warn you about all the <reading>you</reading>ths.\" (ゆう)",
+  "meaningMnemonic": "A <radical>narwhal</radical> sitting on a <radical>stool</radical> is your <kanji>friend</kanji>.",
+  "vocabularyIds": [
+    2604,
+    3226,
+    3251,
+    4151
+  ],
+  "radicalIds": [
+    26,
+    30
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%8F%8B"
+}

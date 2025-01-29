@@ -1,0 +1,48 @@
+{
+  "id": 4152,
+  "type": "vocabulary",
+  "characters": "配達する",
+  "primaryMeaning": "To Deliver",
+  "otherMeanings": [],
+  "primaryReading": "はいたつする",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 742,
+      "character": "配",
+      "readings": [
+        "はい",
+        "くば"
+      ]
+    },
+    {
+      "id": 1033,
+      "character": "達",
+      "readings": [
+        "たつ",
+        "たち"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You <kanji>distribute</kanji> the goods, they <kanji>attain</kanji> the goods. You are going <vocabulary>to deliver</vocabulary> to everyone.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%85%8D%E9%81%94%E3%81%99%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "配",
+      "id": 742,
+      "reading": "はい"
+    },
+    {
+      "type": "kanji",
+      "value": "達",
+      "id": 1033,
+      "reading": "たつ"
+    },
+    {
+      "type": "kana",
+      "value": "する"
+    }
+  ]
+}

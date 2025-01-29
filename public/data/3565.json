@@ -1,0 +1,34 @@
+{
+  "id": 3565,
+  "type": "vocabulary",
+  "characters": "鳴る",
+  "primaryMeaning": "To Ring",
+  "otherMeanings": [],
+  "primaryReading": "なる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 766,
+      "character": "鳴",
+      "readings": [
+        "な",
+        "めい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This is a lot like 鳴く, which means \"to chirp\" (or some other animal noise). This has to do with noises too, but not so much animal and more like bells (including telephones). This word means <vocabulary>to ring</vocabulary>. If it helps, think of the る as a hint, kind of like the first sound of the word \"ring\" (る). So, る = \"ring\" and it's a verb, so <vocabulary>to ring</vocabulary>.",
+  "readingMnemonic": "The reading can come from 鳴く. So long as you know the reading for that word you can know the reading for this word as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%B3%B4%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "鳴",
+      "id": 766,
+      "reading": "な"
+    },
+    {
+      "type": "kana",
+      "value": "る"
+    }
+  ]
+}

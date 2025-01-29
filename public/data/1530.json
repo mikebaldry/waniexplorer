@@ -1,0 +1,35 @@
+{
+  "id": 1530,
+  "type": "kanji",
+  "character": "異",
+  "primaryMeaning": "Differ",
+  "otherMeanings": [],
+  "primaryReading": "い",
+  "readings": [
+    {
+      "reading": "い",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "こと",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "To see how rice paddies <kanji>differ</kanji>, you need an <reading>ea</reading>gle's (い) eye view. It can be hard to see from the ground, so soar up into the sky like an eagle and look down at the rice paddies together.",
+  "meaningMnemonic": "Put a <radical>rice paddy</radical> <radical>together</radical> with other paddies and you'll see how much they <kanji>differ</kanji>. When you're driving or taking a train through the countryside it may seem like all of those rice paddies blurring together are all the same, but they can differ quite a bit!",
+  "vocabularyIds": [
+    5657,
+    5658,
+    5659,
+    5660,
+    5854,
+    8724
+  ],
+  "radicalIds": [
+    51,
+    269
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%95%B0"
+}

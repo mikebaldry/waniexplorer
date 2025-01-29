@@ -1,0 +1,47 @@
+{
+  "id": 5864,
+  "type": "vocabulary",
+  "characters": "推測",
+  "primaryMeaning": "Conjecture",
+  "otherMeanings": [
+    "Speculation",
+    "Guess"
+  ],
+  "primaryReading": "すいそく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1565,
+      "character": "推",
+      "readings": [
+        "すい",
+        "お"
+      ]
+    },
+    {
+      "id": 1581,
+      "character": "測",
+      "readings": [
+        "そく",
+        "はか"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you <kanji>infer</kanji> and <kanji>measure</kanji>, it’ll lead to some sort of <vocabulary>conjecture</vocabulary>, <vocabulary>speculation</vocabulary>, or <vocabulary>guess</vocabulary> about something.\n\n推測 means guessing based on known facts or information, while using reasoning to fill in the gaps.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8E%A8%E6%B8%AC",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "推",
+      "id": 1565,
+      "reading": "すい"
+    },
+    {
+      "type": "kanji",
+      "value": "測",
+      "id": 1581,
+      "reading": "そく"
+    }
+  ]
+}

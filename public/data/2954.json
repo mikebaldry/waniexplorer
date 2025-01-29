@@ -1,0 +1,37 @@
+{
+  "id": 2954,
+  "type": "vocabulary",
+  "characters": "家",
+  "primaryMeaning": "House",
+  "otherMeanings": [
+    "Home"
+  ],
+  "primaryReading": "いえ",
+  "otherReadings": [
+    "うち"
+  ],
+  "kanji": [
+    {
+      "id": 660,
+      "character": "家",
+      "readings": [
+        "いえ",
+        "や",
+        "うち",
+        "か",
+        "け"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You learned this reading with the kanji. But there's a second reading you haven't learned yet, so here's a mnemonic for both:\n\nWhat do you do in your <vocabulary>house</vocabulary>? You <reading>ea</reading>t <reading>e</reading>ggs (いえ). You love to eat eggs at <vocabulary>home</vocabulary>. But it has to be on the 内 (うち), a.k.a. the inside, of your house. For some reason you can only eat eggs in the 内 of your house.\n\nBoth readings relate to house and home, but いえ is a bit more for the physical building (the house) while うち is more for your personal sense of home, including your family and household.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AE%B6",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "家",
+      "id": 660,
+      "reading": "いえ"
+    }
+  ]
+}

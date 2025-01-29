@@ -1,0 +1,48 @@
+{
+  "id": 4411,
+  "type": "vocabulary",
+  "characters": "判子",
+  "primaryMeaning": "One's Seal",
+  "otherMeanings": [
+    "Seal",
+    "Personal Seal"
+  ],
+  "primaryReading": "はんこ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1127,
+      "character": "判",
+      "readings": [
+        "はん",
+        "ばん"
+      ]
+    },
+    {
+      "id": 462,
+      "character": "子",
+      "readings": [
+        "し",
+        "す",
+        "こ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>child</kanji> of a <kanji>judge</kanji> is the thing he puts on his judgements. What does he put on his judgments? His <vocabulary>seal</vocabulary>, you know, to make it all official and stuff.",
+  "readingMnemonic": "判 is the reading you learned. 子 is the kun'yomi vocab reading, which I bet you know pretty well by now as well. You just have to remember to use it here.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%88%A4%E5%AD%90",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "判",
+      "id": 1127,
+      "reading": "はん"
+    },
+    {
+      "type": "kanji",
+      "value": "子",
+      "id": 462,
+      "reading": "こ"
+    }
+  ]
+}

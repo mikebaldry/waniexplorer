@@ -1,0 +1,43 @@
+{
+  "id": 4328,
+  "type": "vocabulary",
+  "characters": "理論",
+  "primaryMeaning": "Theory",
+  "otherMeanings": [],
+  "primaryReading": "りろん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 669,
+      "character": "理",
+      "readings": [
+        "り",
+        "ことわり"
+      ]
+    },
+    {
+      "id": 1119,
+      "character": "論",
+      "readings": [
+        "ろん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You have <kanji>reason</kanji> behind your <kanji>theory</kanji>, making it a real <vocabulary>theory</vocabulary> (unlike those that don't have reason, I guess?).",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%90%86%E8%AB%96",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "理",
+      "id": 669,
+      "reading": "り"
+    },
+    {
+      "type": "kanji",
+      "value": "論",
+      "id": 1119,
+      "reading": "ろん"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 9099,
+  "type": "vocabulary",
+  "characters": "遼太",
+  "primaryMeaning": "Ryota",
+  "otherMeanings": [],
+  "primaryReading": "りょうた",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2292,
+      "character": "遼",
+      "readings": [
+        "りょう"
+      ]
+    },
+    {
+      "id": 505,
+      "character": "太",
+      "readings": [
+        "たい",
+        "た",
+        "ふと",
+        "おお"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Distant</kanji> <kanji>fat</kanji> makes up the Japanese given name <vocabulary>Ryota</vocabulary>. Imagine soccer player Noguchi Ryota (野口 遼太) kicking a fat soccer ball into the distance while voice actor Asari Ryota (浅利 遼太) commentates.",
+  "readingMnemonic": "This name uses the on'yomi for both kanji. You haven't learned this particular on'yomi for 太 yet though, so here's a mnemonic to help you:\n\n<vocabulary>Ryota</vocabulary>'s diet consists only of <reading>ta</reading>cos (た). Tacos, tacos, tacos for breakfast, lunch and dinner. Yum!\n\n",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%81%BC%E5%A4%AA",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "遼",
+      "id": 2292,
+      "reading": "りょう"
+    },
+    {
+      "type": "kanji",
+      "value": "太",
+      "id": 505,
+      "reading": "た"
+    }
+  ]
+}

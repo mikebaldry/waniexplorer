@@ -1,0 +1,32 @@
+{
+  "id": 8991,
+  "type": "kanji",
+  "character": "煎",
+  "primaryMeaning": "Roast",
+  "otherMeanings": [],
+  "primaryReading": "せん",
+  "readings": [
+    {
+      "reading": "せん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "い",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Now you <kanji>roast</kanji> yourself some <reading>cen</reading>taur (せん). Roasted centaur goes well with tea.",
+  "meaningMnemonic": "<radical>Before</radical> you <radical>boil</radical> something, make sure that you <kanji>roast</kanji> it.",
+  "vocabularyIds": [
+    8999,
+    9000,
+    9001
+  ],
+  "radicalIds": [
+    8908,
+    131
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%85%8E"
+}

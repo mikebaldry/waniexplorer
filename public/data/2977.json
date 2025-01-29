@@ -1,0 +1,45 @@
+{
+  "id": 2977,
+  "type": "vocabulary",
+  "characters": "風船",
+  "primaryMeaning": "Balloon",
+  "otherMeanings": [],
+  "primaryReading": "ふうせん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 853,
+      "character": "風",
+      "readings": [
+        "ふう",
+        "ふ",
+        "かぜ"
+      ]
+    },
+    {
+      "id": 671,
+      "character": "船",
+      "readings": [
+        "せん",
+        "ふね"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>wind</kanji> <kanji>boat</kanji>. This is a strange one for sure. You may assume this is like one of those giant balloons you can go ride around in, and you'd be partly right. Really, this word covers the general word <vocabulary>balloon</vocabulary>, though it especially has to do with the toy-style balloons (or smaller balloons). It's a little round wind ship!",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%A2%A8%E8%88%B9",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "風",
+      "id": 853,
+      "reading": "ふう"
+    },
+    {
+      "type": "kanji",
+      "value": "船",
+      "id": 671,
+      "reading": "せん"
+    }
+  ]
+}

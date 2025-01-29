@@ -1,0 +1,26 @@
+{
+  "id": 2135,
+  "type": "kanji",
+  "character": "郊",
+  "primaryMeaning": "Suburbs",
+  "otherMeanings": [],
+  "primaryReading": "こう",
+  "readings": [
+    {
+      "reading": "こう",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "\"<kanji>Suburb</kanji>s are what we need!\" says Emperor <reading>こう</reading>いち. ",
+  "meaningMnemonic": "If you <radical>mix</radical> a bunch of <radical>building</radical>s together, you have yourself a <kanji>suburb</kanji>.",
+  "vocabularyIds": [
+    7845,
+    7846
+  ],
+  "radicalIds": [
+    302,
+    176
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%83%8A"
+}

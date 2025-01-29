@@ -1,0 +1,32 @@
+{
+  "id": 910,
+  "type": "kanji",
+  "character": "束",
+  "primaryMeaning": "Bundle",
+  "otherMeanings": [],
+  "primaryReading": "そく",
+  "readings": [
+    {
+      "reading": "そく",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "たば",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You should always <kanji>bundle</kanji> your <reading>sock</reading>s (そく). If you don't, there is a 100% chance you'll lose all of the left ones.",
+  "meaningMnemonic": "The <radical>bundle</radical> radical and the <kanji>bundle</kanji> kanji are the same!",
+  "vocabularyIds": [
+    3695,
+    3696,
+    3720,
+    8317
+  ],
+  "radicalIds": [
+    219
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%9D%9F"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 7241,
+  "type": "vocabulary",
+  "characters": "班",
+  "primaryMeaning": "Squad",
+  "otherMeanings": [
+    "Group",
+    "Party",
+    "Team"
+  ],
+  "primaryReading": "はん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2043,
+      "character": "班",
+      "readings": [
+        "はん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%8F%AD",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "班",
+      "id": 2043,
+      "reading": "はん"
+    }
+  ]
+}

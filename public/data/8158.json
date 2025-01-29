@@ -1,0 +1,50 @@
+{
+  "id": 8158,
+  "type": "vocabulary",
+  "characters": "過酷",
+  "primaryMeaning": "Severity",
+  "otherMeanings": [
+    "Rigor",
+    "Cruelty",
+    "Harsh"
+  ],
+  "primaryReading": "かこく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1158,
+      "character": "過",
+      "readings": [
+        "か",
+        "す",
+        "あやま"
+      ]
+    },
+    {
+      "id": 2247,
+      "character": "酷",
+      "readings": [
+        "こく",
+        "ひど",
+        "むご"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Your boss <kanji>surpass</kanji>es his normal <kanji>cruel</kanji>ty and rains <vocabulary>severity</vocabulary> down on your head. You had other things to do this weekend and now you have to work through it? <vocabulary>Harsh</vocabulary>...",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%81%8E%E9%85%B7",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "過",
+      "id": 1158,
+      "reading": "か"
+    },
+    {
+      "type": "kanji",
+      "value": "酷",
+      "id": 2247,
+      "reading": "こく"
+    }
+  ]
+}

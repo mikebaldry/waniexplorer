@@ -1,0 +1,46 @@
+{
+  "id": 5580,
+  "type": "vocabulary",
+  "characters": "秘密",
+  "primaryMeaning": "Secret",
+  "otherMeanings": [
+    "A Secret"
+  ],
+  "primaryReading": "ひみつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1510,
+      "character": "秘",
+      "readings": [
+        "ひ",
+        "ひ"
+      ]
+    },
+    {
+      "id": 1505,
+      "character": "密",
+      "readings": [
+        "みつ",
+        "ひそ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Secret</kanji> and <kanji>secrecy</kanji>. Combine the two and you have quite the <vocabulary>secret</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A7%98%E5%AF%86",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "秘",
+      "id": 1510,
+      "reading": "ひ"
+    },
+    {
+      "type": "kanji",
+      "value": "密",
+      "id": 1505,
+      "reading": "みつ"
+    }
+  ]
+}

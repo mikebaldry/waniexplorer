@@ -1,0 +1,31 @@
+{
+  "id": 1465,
+  "type": "kanji",
+  "character": "救",
+  "primaryMeaning": "Rescue",
+  "otherMeanings": [],
+  "primaryReading": "きゅう",
+  "readings": [
+    {
+      "reading": "きゅう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "すく",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You get a note in the mail from winter! This is it, you're going to be rescued! You open the note and it says, \"I have <kanji>rescue</kanji>d you with this <reading>cu</reading>cumber (きゅう).\" A cucumber falls out of the note.",
+  "meaningMnemonic": "You <radical>request</radical> that <radical>winter</radical> <kanji>rescue</kanji> you from the warmth of the other seasons.",
+  "vocabularyIds": [
+    5465,
+    5466
+  ],
+  "radicalIds": [
+    399,
+    60
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%95%91"
+}

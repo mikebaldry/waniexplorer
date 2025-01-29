@@ -1,0 +1,37 @@
+{
+  "id": 2040,
+  "type": "kanji",
+  "character": "悔",
+  "primaryMeaning": "Regret",
+  "otherMeanings": [],
+  "primaryReading": "かい",
+  "readings": [
+    {
+      "reading": "かい",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "くや",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "く",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "The <kanji>regret</kanji> is too strong for you to ignore, so you decide to drop everything but <reading>kay</reading>aking (かい). If there's one thing you refuse to regret, it's your bright orange kayak and all the friends you made at kayaking club.",
+  "meaningMnemonic": "If you try to put your <radical>soul</radical> into <radical>every</radical>thing, you'll <kanji>regret</kanji> it. It's not so much that putting your soul into things is bad, but every single thing? You'll burn out immediately. You won't be able to be good at any of those things. And you'll regret all the time you wasted trying to be the best at everything.",
+  "vocabularyIds": [
+    7234,
+    7235,
+    7440
+  ],
+  "radicalIds": [
+    232,
+    379
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%82%94"
+}

@@ -1,0 +1,45 @@
+{
+  "id": 8018,
+  "type": "vocabulary",
+  "characters": "繊維",
+  "primaryMeaning": "Fiber",
+  "otherMeanings": [
+    "Fibre",
+    "Textile"
+  ],
+  "primaryReading": "せんい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2205,
+      "character": "繊",
+      "readings": [
+        "せん"
+      ]
+    },
+    {
+      "id": 1633,
+      "character": "維",
+      "readings": [
+        "い"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>fiber</kanji> you use to <kanji>maintain</kanji> your own health is the <vocabulary>fiber</vocabulary> you eat!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B9%8A%E7%B6%AD",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "繊",
+      "id": 2205,
+      "reading": "せん"
+    },
+    {
+      "type": "kanji",
+      "value": "維",
+      "id": 1633,
+      "reading": "い"
+    }
+  ]
+}

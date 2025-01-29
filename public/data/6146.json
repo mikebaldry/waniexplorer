@@ -1,0 +1,47 @@
+{
+  "id": 6146,
+  "type": "vocabulary",
+  "characters": "維持する",
+  "primaryMeaning": "To Maintain",
+  "otherMeanings": [],
+  "primaryReading": "いじする",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1633,
+      "character": "維",
+      "readings": [
+        "い"
+      ]
+    },
+    {
+      "id": 727,
+      "character": "持",
+      "readings": [
+        "じ",
+        "も"
+      ]
+    }
+  ],
+  "meaningMnemonic": "To \"do maintenance (維持)\" is keeping something in that maintained position, which is <vocabulary>to maintain</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the reading from the vocabulary you learned earlier. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B6%AD%E6%8C%81%E3%81%99%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "維",
+      "id": 1633,
+      "reading": "い"
+    },
+    {
+      "type": "kanji",
+      "value": "持",
+      "id": 727,
+      "reading": "じ"
+    },
+    {
+      "type": "kana",
+      "value": "する"
+    }
+  ]
+}

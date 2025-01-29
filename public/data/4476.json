@@ -1,0 +1,47 @@
+{
+  "id": 4476,
+  "type": "vocabulary",
+  "characters": "正義",
+  "primaryMeaning": "Justice",
+  "otherMeanings": [
+    "Righteousness"
+  ],
+  "primaryReading": "せいぎ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 488,
+      "character": "正",
+      "readings": [
+        "せい",
+        "しょう",
+        "ただ",
+        "まさ"
+      ]
+    },
+    {
+      "id": 1154,
+      "character": "義",
+      "readings": [
+        "ぎ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>correct</kanji> <kanji>righteousness</kanji> is always your <vocabulary>righteousness</vocabulary>. It is your form of <vocabulary>justice</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%AD%A3%E7%BE%A9",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "正",
+      "id": 488,
+      "reading": "せい"
+    },
+    {
+      "type": "kanji",
+      "value": "義",
+      "id": 1154,
+      "reading": "ぎ"
+    }
+  ]
+}

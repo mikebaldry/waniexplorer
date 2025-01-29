@@ -1,0 +1,48 @@
+{
+  "id": 5197,
+  "type": "vocabulary",
+  "characters": "比較する",
+  "primaryMeaning": "To Compare",
+  "otherMeanings": [],
+  "primaryReading": "ひかくする",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1088,
+      "character": "比",
+      "readings": [
+        "ひ",
+        "くら"
+      ]
+    },
+    {
+      "id": 1287,
+      "character": "較",
+      "readings": [
+        "かく",
+        "こう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "比較 is <vocabulary>comparison</vocabulary>. So, verb version of that? It's <vocabulary>to compare</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Will help a lot to know the word 比較 as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%AF%94%E8%BC%83%E3%81%99%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "比",
+      "id": 1088,
+      "reading": "ひ"
+    },
+    {
+      "type": "kanji",
+      "value": "較",
+      "id": 1287,
+      "reading": "かく"
+    },
+    {
+      "type": "kana",
+      "value": "する"
+    }
+  ]
+}

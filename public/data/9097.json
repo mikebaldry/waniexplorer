@@ -1,0 +1,51 @@
+{
+  "id": 9097,
+  "type": "vocabulary",
+  "characters": "勿体ない",
+  "primaryMeaning": "Wasteful",
+  "otherMeanings": [
+    "A Waste",
+    "Too Good"
+  ],
+  "primaryReading": "もったいない",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 9095,
+      "character": "勿",
+      "readings": [
+        "もち"
+      ]
+    },
+    {
+      "id": 583,
+      "character": "体",
+      "readings": [
+        "たい",
+        "てい",
+        "からだ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You <kanji>must not</kanji> use your <kanji>body</kanji> for anything <vocabulary>wasteful</vocabulary>, because that would be <vocabulary>a waste</vocabulary>. You're <vocabulary>too good</vocabulary> for that!\n\nThis word is used in all kinds of situations where there's a feeling that something is going to waste, including food, money, time, talent, and opportunities. You can also use it to say that someone is too good for a job, or even for another person. While it's usually written in kana, you'll see it in kanji too.",
+  "readingMnemonic": "This word uses the readings you learned with the kanji, except that もち becomes もっ.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8B%BF%E4%BD%93%E3%81%AA%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "勿",
+      "id": 9095,
+      "reading": "もっ"
+    },
+    {
+      "type": "kanji",
+      "value": "体",
+      "id": 583,
+      "reading": "たい"
+    },
+    {
+      "type": "kana",
+      "value": "ない"
+    }
+  ]
+}

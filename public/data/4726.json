@@ -1,0 +1,32 @@
+{
+  "id": 4726,
+  "type": "vocabulary",
+  "characters": "量",
+  "primaryMeaning": "Quantity",
+  "otherMeanings": [
+    "Amount"
+  ],
+  "primaryReading": "りょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1238,
+      "character": "量",
+      "readings": [
+        "りょう",
+        "はか"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%87%8F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "量",
+      "id": 1238,
+      "reading": "りょう"
+    }
+  ]
+}

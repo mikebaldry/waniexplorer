@@ -1,0 +1,44 @@
+{
+  "id": 3330,
+  "type": "vocabulary",
+  "characters": "屋根",
+  "primaryMeaning": "Roof",
+  "otherMeanings": [],
+  "primaryReading": "やね",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 724,
+      "character": "屋",
+      "readings": [
+        "や",
+        "おく"
+      ]
+    },
+    {
+      "id": 817,
+      "character": "根",
+      "readings": [
+        "こん",
+        "ね"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>root</kanji> of your <kanji>roof</kanji> is still your <vocabulary>roof</vocabulary>. If it helps, imagine roots growing out of your roof. They protect you from the rain.",
+  "readingMnemonic": "This word uses the kun'yomi readings. The kun'yomi for 根 is ね. For a mnemonic, we'll use the sound a horse makes, <reading>neigh</reading> (ね). Why is the horse neigh-ing? It's stuck on the <vocabulary>roof</vocabulary>.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B1%8B%E6%A0%B9",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "屋",
+      "id": 724,
+      "reading": "や"
+    },
+    {
+      "type": "kanji",
+      "value": "根",
+      "id": 817,
+      "reading": "ね"
+    }
+  ]
+}

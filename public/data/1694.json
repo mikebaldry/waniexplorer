@@ -1,0 +1,32 @@
+{
+  "id": 1694,
+  "type": "kanji",
+  "character": "抑",
+  "primaryMeaning": "Suppress",
+  "otherMeanings": [],
+  "primaryReading": "よく",
+  "readings": [
+    {
+      "reading": "よく",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "おさ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "He forgot, but you know you had to <kanji>suppress</kanji> the cat pirate because he was trying to steal your egg <reading>yolk</reading> (よく). You were making breakfast on your ship and the cat pirate boarded you out of nowhere, and tried to take it by force.",
+  "meaningMnemonic": "Use your <radical>fingers</radical> on the <radical>cat pirate</radical> to <kanji>suppress</kanji> him. The cat pirate was attacking you, so you took your fingers and pet his head and scratched his chin. Now he's calm and suppressed. He doesn't even remember why he was attacking you.",
+  "vocabularyIds": [
+    6197,
+    6198,
+    6199
+  ],
+  "radicalIds": [
+    63,
+    340
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%8A%91"
+}

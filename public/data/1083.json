@@ -1,0 +1,34 @@
+{
+  "id": 1083,
+  "type": "kanji",
+  "character": "続",
+  "primaryMeaning": "Continue",
+  "otherMeanings": [],
+  "primaryReading": "ぞく",
+  "readings": [
+    {
+      "reading": "ぞく",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "つづ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You have to <kanji>continue</kanji> to sell that thread because a Boso<reading>zoku</reading> (ぞく) bike gang is forcing you to do it. You see? If you want to continue to live, you have to appease this Bosozoku gang. You better keep selling!",
+  "meaningMnemonic": "You have to <radical>sell</radical> <radical>thread</radical> if you want to <kanji>continue</kanji> to live. You want to make a living don’t you? Make sure you continue to sell that thread every single day!",
+  "vocabularyIds": [
+    4226,
+    4227,
+    4242,
+    4393,
+    4402
+  ],
+  "radicalIds": [
+    86,
+    439
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%B6%9A"
+}

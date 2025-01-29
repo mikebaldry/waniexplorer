@@ -1,0 +1,34 @@
+{
+  "id": 2914,
+  "type": "vocabulary",
+  "characters": "思う",
+  "primaryMeaning": "To Think",
+  "otherMeanings": [],
+  "primaryReading": "おもう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 637,
+      "character": "思",
+      "readings": [
+        "おも",
+        "し"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>think</kanji> so the verb version is <vocabulary>to think</vocabulary>.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You learned that reading with this kanji, but here's a reminder of the mnemonic just in case: \n\nYou have to remember the おも part to read this word. To do this, though, you'll have <vocabulary>to think</vocabulary> about that guy... hmm... what was his name? He's on The Simpsons... he's the bartender? I think? <reading>Oh! Moe</reading> (おも) is his name! Thank you. Now I remember.\n\nIf you don't know Moe from the Simpsons use a different Moe, perhaps the one from the Three Stooges? You should be able to come up with one.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%80%9D%E3%81%86",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "思",
+      "id": 637,
+      "reading": "おも"
+    },
+    {
+      "type": "kana",
+      "value": "う"
+    }
+  ]
+}

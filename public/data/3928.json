@@ -1,0 +1,62 @@
+{
+  "id": 3928,
+  "type": "vocabulary",
+  "characters": "不合格",
+  "primaryMeaning": "Fail A Test",
+  "otherMeanings": [
+    "Failure",
+    "Rejection"
+  ],
+  "primaryReading": "ふごうかく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 563,
+      "character": "不",
+      "readings": [
+        "ふ",
+        "ぶ"
+      ]
+    },
+    {
+      "id": 852,
+      "character": "合",
+      "readings": [
+        "ごう",
+        "がっ",
+        "あ",
+        "あい"
+      ]
+    },
+    {
+      "id": 920,
+      "character": "格",
+      "readings": [
+        "かく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You know that 合格する is \"to pass a test,\" so what's the opposite of that? <vocabulary>Fail a test</vocabulary> or <vocabulary>failure</vocabulary>.",
+  "readingMnemonic": "If you know the reading for 合格, all you have to do is add 不 to it! You've learned all these readings, yay!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%8D%E5%90%88%E6%A0%BC",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "不",
+      "id": 563,
+      "reading": "ふ"
+    },
+    {
+      "type": "kanji",
+      "value": "合",
+      "id": 852,
+      "reading": "ごう"
+    },
+    {
+      "type": "kanji",
+      "value": "格",
+      "id": 920,
+      "reading": "かく"
+    }
+  ]
+}

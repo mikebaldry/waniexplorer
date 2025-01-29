@@ -1,0 +1,46 @@
+{
+  "id": 4244,
+  "type": "vocabulary",
+  "characters": "財閥",
+  "primaryMeaning": "Plutocrats",
+  "otherMeanings": [
+    "Financial Clique",
+    "Zaibatsu"
+  ],
+  "primaryReading": "ざいばつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1064,
+      "character": "財",
+      "readings": [
+        "さい",
+        "ざい"
+      ]
+    },
+    {
+      "id": 1068,
+      "character": "閥",
+      "readings": [
+        "ばつ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>wealth</kanji> <kanji>clan</kanji> is a group of people who do whatever they can to get their money. These are the <vocabulary>plutocrats</vocabulary> of the world, but you can also call them <vocabulary>financial clique</vocabulary> or even the <vocabulary>Zaibatsu</vocabulary> (sometimes brought up in English language history / economic books regarding Japan).",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%B2%A1%E9%96%A5",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "財",
+      "id": 1064,
+      "reading": "ざい"
+    },
+    {
+      "type": "kanji",
+      "value": "閥",
+      "id": 1068,
+      "reading": "ばつ"
+    }
+  ]
+}

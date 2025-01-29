@@ -1,0 +1,30 @@
+{
+  "id": 8955,
+  "type": "kanji",
+  "character": "麺",
+  "primaryMeaning": "Noodles",
+  "otherMeanings": [],
+  "primaryReading": "めん",
+  "readings": [
+    {
+      "reading": "めん",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Once you're done stuffing noodles in your face, you can use your leftover noodles to make <kanji>noodle</kanji><reading>men</reading> (めん).",
+  "meaningMnemonic": "One way to put <radical>wheat</radical> in your <radical>face</radical> is with <kanji>noodles</kanji>.\n",
+  "vocabularyIds": [
+    8970,
+    8971,
+    8972,
+    8973,
+    8974,
+    8988
+  ],
+  "radicalIds": [
+    8907,
+    250
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%BA%BA"
+}

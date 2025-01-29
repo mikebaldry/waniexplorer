@@ -1,0 +1,30 @@
+{
+  "id": 3950,
+  "type": "vocabulary",
+  "characters": "運",
+  "primaryMeaning": "Luck",
+  "otherMeanings": [],
+  "primaryReading": "うん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 752,
+      "character": "運",
+      "readings": [
+        "うん",
+        "はこ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This takes the <kanji>luck</kanji> meaning from the kanji. Think of it this way: If you're \"carrying\" you're going to create your own luck. Now nobody will mess with you, kanji gangstah. You carry guns and have a ton of <vocabulary>luck</vocabulary> because of it.",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji! How... shall I say... <vocabulary>luck</vocabulary>-filled?",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%81%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "運",
+      "id": 752,
+      "reading": "うん"
+    }
+  ]
+}

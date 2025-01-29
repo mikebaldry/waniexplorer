@@ -1,0 +1,44 @@
+{
+  "id": 7193,
+  "type": "vocabulary",
+  "characters": "騎手",
+  "primaryMeaning": "Jockey",
+  "otherMeanings": [],
+  "primaryReading": "きしゅ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2025,
+      "character": "騎",
+      "readings": [
+        "き"
+      ]
+    },
+    {
+      "id": 474,
+      "character": "手",
+      "readings": [
+        "て",
+        "しゅ",
+        "ず"
+      ]
+    }
+  ],
+  "meaningMnemonic": "手 takes its alternative meaning \"doer\" here, so that gives us <kanji>horse riding</kanji> <kanji>doer</kanji>. Who does horse riding? It’s a <vocabulary>jockey</vocabulary>.\n\nThis word usually refers to a professional or skilled rider in horse racing or equestrian sports.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%A8%8E%E6%89%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "騎",
+      "id": 2025,
+      "reading": "き"
+    },
+    {
+      "type": "kanji",
+      "value": "手",
+      "id": 474,
+      "reading": "しゅ"
+    }
+  ]
+}

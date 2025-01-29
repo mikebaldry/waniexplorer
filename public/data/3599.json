@@ -1,0 +1,47 @@
+{
+  "id": 3599,
+  "type": "vocabulary",
+  "characters": "暗記",
+  "primaryMeaning": "Memorization",
+  "otherMeanings": [
+    "Memorize"
+  ],
+  "primaryReading": "あんき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 864,
+      "character": "暗",
+      "readings": [
+        "あん",
+        "くら",
+        "くれ"
+      ]
+    },
+    {
+      "id": 664,
+      "character": "記",
+      "readings": [
+        "き",
+        "しる"
+      ]
+    }
+  ],
+  "meaningMnemonic": "In the <kanji>dark</kanji> if you try to <kanji>write down</kanji> something it won't work very well. You can't see. So, how can you \"write something down\" in the dark? You write it down in your mind. This is <vocabulary>memorization</vocabulary>! Recognize this word? The SRS application \"Anki\" comes from this word, I'm guessing!",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9A%97%E8%A8%98",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "暗",
+      "id": 864,
+      "reading": "あん"
+    },
+    {
+      "type": "kanji",
+      "value": "記",
+      "id": 664,
+      "reading": "き"
+    }
+  ]
+}

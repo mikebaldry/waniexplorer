@@ -1,0 +1,51 @@
+{
+  "id": 7982,
+  "type": "vocabulary",
+  "characters": "惨事",
+  "primaryMeaning": "Disaster",
+  "otherMeanings": [
+    "Tragedy",
+    "Gruesome Event"
+  ],
+  "primaryReading": "さんじ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2207,
+      "character": "惨",
+      "readings": [
+        "さん",
+        "ざん",
+        "みじ",
+        "いた",
+        "むご"
+      ]
+    },
+    {
+      "id": 708,
+      "character": "事",
+      "readings": [
+        "じ",
+        "こと",
+        "つか"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>disaster</kanji> <kanji>occurrence</kanji> is just a <vocabulary>disaster</vocabulary> or a <vocabulary>tragedy</vocabulary>. Look away!\n\n惨事 is a formal word for a tragic or <vocabulary>gruesome event</vocabulary> — the kind that's so distressing it makes you want to avert your eyes. It emphasizes the horror and emotional pain of the event.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%83%A8%E4%BA%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "惨",
+      "id": 2207,
+      "reading": "さん"
+    },
+    {
+      "type": "kanji",
+      "value": "事",
+      "id": 708,
+      "reading": "じ"
+    }
+  ]
+}

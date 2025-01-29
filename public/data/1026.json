@@ -1,0 +1,39 @@
+{
+  "id": 1026,
+  "type": "kanji",
+  "character": "説",
+  "primaryMeaning": "Theory",
+  "otherMeanings": [],
+  "primaryReading": "せつ",
+  "readings": [
+    {
+      "reading": "せつ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "と",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "The guard listens to your <kanji>theory</kanji> but then he says his OWN! He thinks there are two <reading>sets</reading> (せつ) of guarded items, and he's only guarding one. According to his theory, either one could be real! His theory is more plausible, don't you think?",
+  "meaningMnemonic": "What do you <radical>say</radical> to a <radical>guard</radical>? Your <kanji>theory</kanji> about how the thing he's guarding isn't even real. Yeah, you have this whole thing figured out. You have for a while. At this point, it's only fair that you tell your theory to the guard who's wasting his time.",
+  "vocabularyIds": [
+    4037,
+    4038,
+    4039,
+    4040,
+    4041,
+    4201,
+    4350,
+    4388,
+    5201,
+    7486
+  ],
+  "radicalIds": [
+    117,
+    422
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%AA%AC"
+}

@@ -1,0 +1,40 @@
+{
+  "id": 2189,
+  "type": "kanji",
+  "character": "輔",
+  "primaryMeaning": "Help",
+  "otherMeanings": [],
+  "primaryReading": "すけ",
+  "readings": [
+    {
+      "reading": "すけ",
+      "primary": true,
+      "type": "nanori"
+    },
+    {
+      "reading": "ふ",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ほ",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "たす",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You can't just ask for <kanji>help</kanji> on the day of the wedding, either. You have to <reading>sche</reading>dule (すけ) getting your friends' help ahead of time. They might have pretty tight schedules too, so make sure you plan early!",
+  "meaningMnemonic": "If you want to have your <radical>wedding</radical> in a <radical>car</radical> you're going to need a lot of <kanji>help</kanji>. Cars are pretty small compared to weddings, so if you don't get help from everyone you know you won't be able to pull it off.",
+  "vocabularyIds": [
+    9102
+  ],
+  "radicalIds": [
+    93,
+    300
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%BC%94"
+}

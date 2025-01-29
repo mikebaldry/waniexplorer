@@ -1,0 +1,61 @@
+{
+  "id": 9005,
+  "type": "vocabulary",
+  "characters": "屁理屈",
+  "primaryMeaning": "Illogical Argument",
+  "otherMeanings": [
+    "Far-Fetched Argument",
+    "Lame Excuse"
+  ],
+  "primaryReading": "へりくつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 8994,
+      "character": "屁",
+      "readings": [
+        "へ",
+        "ひ"
+      ]
+    },
+    {
+      "id": 669,
+      "character": "理",
+      "readings": [
+        "り",
+        "ことわり"
+      ]
+    },
+    {
+      "id": 1320,
+      "character": "屈",
+      "readings": [
+        "くつ",
+        "かが"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You already know that 理屈 means \"theory\". So what's <kanji>flatulence</kanji> theory? It's an <vocabulary>illogical argument</vocabulary>, a <vocabulary>far-fetched argument</vocabulary>, or sometimes a <vocabulary>lame excuse</vocabulary>. It's all just hot air!",
+  "readingMnemonic": "You've already learned all these readings. You should be able to read this on your own. And no, that's not a far-fetched argument, or a lame excuse for not writing a mnemonic.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B1%81%E7%90%86%E5%B1%88",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "屁",
+      "id": 8994,
+      "reading": "へ"
+    },
+    {
+      "type": "kanji",
+      "value": "理",
+      "id": 669,
+      "reading": "り"
+    },
+    {
+      "type": "kanji",
+      "value": "屈",
+      "id": 1320,
+      "reading": "くつ"
+    }
+  ]
+}

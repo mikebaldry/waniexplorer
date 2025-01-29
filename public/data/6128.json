@@ -1,0 +1,39 @@
+{
+  "id": 6128,
+  "type": "vocabulary",
+  "characters": "恵む",
+  "primaryMeaning": "To Do A Favor",
+  "otherMeanings": [
+    "To Bless",
+    "To Give Out Of Pity",
+    "To Donate Out Of Charity"
+  ],
+  "primaryReading": "めぐむ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1670,
+      "character": "恵",
+      "readings": [
+        "え",
+        "けい",
+        "めぐ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>favor</kanji> and the verb vocab version is <vocabulary>to do a favor</vocabulary> for.",
+  "readingMnemonic": "If you are going <vocabulary>to do a favor</vocabulary> for anyone, it's going to be for your good buddy <reading>meg</reading> (めぐ). Imagine a Meg you know (or know of) and imagine yourself doing a favor for her. Meg Ryan is so happy you're in her life.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%81%B5%E3%82%80",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "恵",
+      "id": 1670,
+      "reading": "めぐ"
+    },
+    {
+      "type": "kana",
+      "value": "む"
+    }
+  ]
+}

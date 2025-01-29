@@ -1,0 +1,32 @@
+{
+  "id": 2408,
+  "type": "kanji",
+  "character": "甚",
+  "primaryMeaning": "Very",
+  "otherMeanings": [
+    "Great"
+  ],
+  "primaryReading": "じん",
+  "readings": [
+    {
+      "reading": "じん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "はなは",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You know what else is <kanji>very</kanji> something? <reading>Jean</reading>s (じん). Jeans are very expensive. Jeans are very tight. Jeans are very popular. Jeans are very a lot of things.",
+  "meaningMnemonic": "Making a mnemonic for a <radical>crab trap</radical> is <kanji>VERY</kanji> hard. So hard that I couldn't come up with one. But it's very possible that one of you will!",
+  "vocabularyIds": [
+    8559,
+    8560
+  ],
+  "radicalIds": [
+    407
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%94%9A"
+}

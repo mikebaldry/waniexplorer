@@ -1,0 +1,44 @@
+{
+  "id": 8277,
+  "type": "vocabulary",
+  "characters": "弊害",
+  "primaryMeaning": "Evil Effect",
+  "otherMeanings": [
+    "Harmful Influence"
+  ],
+  "primaryReading": "へいがい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2306,
+      "character": "弊",
+      "readings": [
+        "へい"
+      ]
+    },
+    {
+      "id": 1093,
+      "character": "害",
+      "readings": [
+        "がい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>evil</kanji> <kanji>damage</kanji> you do has an <vocabulary>evil effect</vocabulary> on people. All that negativity can have a really <vocabulary>harmful influence</vocabulary> on them. You should think before you do things.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BC%8A%E5%AE%B3",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "弊",
+      "id": 2306,
+      "reading": "へい"
+    },
+    {
+      "type": "kanji",
+      "value": "害",
+      "id": 1093,
+      "reading": "がい"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 840,
+  "type": "kanji",
+  "character": "植",
+  "primaryMeaning": "Plant",
+  "otherMeanings": [],
+  "primaryReading": "しょく",
+  "readings": [
+    {
+      "reading": "しょく",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "う",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "If you don't <kanji>plant</kanji> a tree it goes into <reading>shock</reading> (しょく). Which, honestly, shouldn't be very shocking to you, since it's a tree.",
+  "meaningMnemonic": "If you want to <radical>fix</radical> a <radical>tree</radical> you have to <kanji>plant</kanji> it. It's pretty obvious that digging up the tree broke it. So fix it by planting it again. That is how plants work.",
+  "vocabularyIds": [
+    3381,
+    6498,
+    7748
+  ],
+  "radicalIds": [
+    23,
+    8821
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%A4%8D"
+}

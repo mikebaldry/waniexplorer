@@ -1,0 +1,45 @@
+{
+  "id": 5071,
+  "type": "vocabulary",
+  "characters": "組織",
+  "primaryMeaning": "Organization",
+  "otherMeanings": [],
+  "primaryReading": "そしき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 670,
+      "character": "組",
+      "readings": [
+        "くみ",
+        "そ"
+      ]
+    },
+    {
+      "id": 1323,
+      "character": "織",
+      "readings": [
+        "しき",
+        "しょく",
+        "お"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>group</kanji> that's <kanji>weave</kanji>d together so tightly with hierarchy and everything else is a little more complicated than a group. It's an <vocabulary>organization</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. You didn't learn that reading for 組, so here's a mnemonic to help: \n\nYou start an <vocabulary>organization</vocabulary> for <reading>so</reading>ap (そ). You're all about soap and making it more effective through your organization. So you call it the Soap Organization for Antiseptic Progress, or S.O.A.P. for short.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B5%84%E7%B9%94",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "組",
+      "id": 670,
+      "reading": "そ"
+    },
+    {
+      "type": "kanji",
+      "value": "織",
+      "id": 1323,
+      "reading": "しき"
+    }
+  ]
+}

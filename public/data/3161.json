@@ -1,0 +1,45 @@
+{
+  "id": 3161,
+  "type": "vocabulary",
+  "characters": "速度",
+  "primaryMeaning": "Speed",
+  "otherMeanings": [],
+  "primaryReading": "そくど",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 741,
+      "character": "速",
+      "readings": [
+        "そく",
+        "はや"
+      ]
+    },
+    {
+      "id": 725,
+      "character": "度",
+      "readings": [
+        "ど",
+        "たく",
+        "たび"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Your <kanji>fast</kanji>ness <kanji>degree</kanji> is your <vocabulary>speed</vocabulary>. \n\nYou use 速度 to talk about a specific speed of something like a car or a train. If you want to talk about speed more casually, you can just say スピード or 速さ.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%80%9F%E5%BA%A6",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "速",
+      "id": 741,
+      "reading": "そく"
+    },
+    {
+      "type": "kanji",
+      "value": "度",
+      "id": 725,
+      "reading": "ど"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": 3677,
+  "type": "vocabulary",
+  "characters": "人性",
+  "primaryMeaning": "Human Nature",
+  "otherMeanings": [
+    "Instinct"
+  ],
+  "primaryReading": "じんせい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 444,
+      "character": "人",
+      "readings": [
+        "にん",
+        "じん",
+        "ひと",
+        "と"
+      ]
+    },
+    {
+      "id": 918,
+      "character": "性",
+      "readings": [
+        "せい",
+        "しょう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>person</kanji>'s <kanji>nature</kanji> is just <vocabulary>human nature</vocabulary>! Everyone has their own human <vocabulary>instinct</vocabulary>s.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BA%BA%E6%80%A7-3677",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "人",
+      "id": 444,
+      "reading": "じん"
+    },
+    {
+      "type": "kanji",
+      "value": "性",
+      "id": 918,
+      "reading": "せい"
+    }
+  ]
+}

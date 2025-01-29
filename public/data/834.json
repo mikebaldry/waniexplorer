@@ -1,0 +1,39 @@
+{
+  "id": 834,
+  "type": "kanji",
+  "character": "陽",
+  "primaryMeaning": "Sunshine",
+  "otherMeanings": [
+    "Sunlight"
+  ],
+  "primaryReading": "よう",
+  "readings": [
+    {
+      "reading": "よう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ひ",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "はる",
+      "primary": false,
+      "type": "nanori"
+    }
+  ],
+  "readingMnemonic": "Standing in <kanji>sunshine</kanji> for this long has worked up your appetite, so you take a <reading>yo</reading>gurt (よう) cup out of your bag and eat it.",
+  "meaningMnemonic": "A <radical>building</radical> has <radical>easy</radical> access to <kanji>sunshine</kanji>. It's big and tall, so the <kanji>sunlight</kanji> shines right onto its roof.",
+  "vocabularyIds": [
+    3371,
+    5354,
+    7636
+  ],
+  "radicalIds": [
+    176,
+    172
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%99%BD"
+}

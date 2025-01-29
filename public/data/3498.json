@@ -1,0 +1,52 @@
+{
+  "id": 3498,
+  "type": "vocabulary",
+  "characters": "乗り場",
+  "primaryMeaning": "Bus Stop",
+  "otherMeanings": [
+    "Taxi Stand",
+    "Train Platform",
+    "Boarding Area"
+  ],
+  "primaryReading": "のりば",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 722,
+      "character": "乗",
+      "readings": [
+        "の",
+        "じょう"
+      ]
+    },
+    {
+      "id": 694,
+      "character": "場",
+      "readings": [
+        "じょう",
+        "ば"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You've seen the word 乗る by now, hopefully, and know it means \"to ride.\" So this word has to do with a \"riding location.\" Where do you go to get a ride somewhere? Most likely, it's a <vocabulary>bus stop</vocabulary> or <vocabulary>taxi stand</vocabulary>.",
+  "readingMnemonic": "This word uses the kun'yomi readings, which you've learned already. Also, use 乗る to help you to remember the reading for 乗り.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B9%97%E3%82%8A%E5%A0%B4",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "乗",
+      "id": 722,
+      "reading": "の"
+    },
+    {
+      "type": "kana",
+      "value": "り"
+    },
+    {
+      "type": "kanji",
+      "value": "場",
+      "id": 694,
+      "reading": "ば"
+    }
+  ]
+}

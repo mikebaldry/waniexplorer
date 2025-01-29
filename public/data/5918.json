@@ -1,0 +1,46 @@
+{
+  "id": 5918,
+  "type": "vocabulary",
+  "characters": "泥酔",
+  "primaryMeaning": "Dead Drunk",
+  "otherMeanings": [
+    "Completely Drunk"
+  ],
+  "primaryReading": "でいすい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1456,
+      "character": "泥",
+      "readings": [
+        "どろ",
+        "でい"
+      ]
+    },
+    {
+      "id": 1603,
+      "character": "酔",
+      "readings": [
+        "すい",
+        "よ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you're <kanji>mud</kanji> <kanji>drunk</kanji>, you're so drunk you're rolling around on the ground. You are <vocabulary>dead drunk</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You haven't seen the on'yomi reading for 泥 yet (でい), so here's a mnemonic to help you out: \n\nYou'll probably get <vocabulary>dead drunk</vocabulary> if you start drinking in the middle of the <reading>day</reading> (でい). Just try to wait until the day is over, like maybe after work, you know?",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B3%A5%E9%85%94",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "泥",
+      "id": 1456,
+      "reading": "でい"
+    },
+    {
+      "type": "kanji",
+      "value": "酔",
+      "id": 1603,
+      "reading": "すい"
+    }
+  ]
+}

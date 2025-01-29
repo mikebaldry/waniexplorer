@@ -1,0 +1,41 @@
+{
+  "id": 2171,
+  "type": "kanji",
+  "character": "恒",
+  "primaryMeaning": "Constant",
+  "otherMeanings": [
+    "Always"
+  ],
+  "primaryReading": "こう",
+  "readings": [
+    {
+      "reading": "こう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "つね",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "つねに",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Also <kanji>constant</kanji> is the Emperor <reading>こう</reading>いち, who will surely rule for a thousand more years!",
+  "meaningMnemonic": "Your <radical>soul</radical> is like the <radical>ground</radical> or the <radical>dawn</radical>. It is <kanji>constant</kanji>, never changing.",
+  "vocabularyIds": [
+    7879,
+    7880,
+    7881,
+    7882
+  ],
+  "radicalIds": [
+    232,
+    1,
+    293
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%81%92"
+}

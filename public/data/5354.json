@@ -1,0 +1,60 @@
+{
+  "id": 5354,
+  "type": "vocabulary",
+  "characters": "太陽系",
+  "primaryMeaning": "Solar System",
+  "otherMeanings": [],
+  "primaryReading": "たいようけい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 505,
+      "character": "太",
+      "readings": [
+        "たい",
+        "た",
+        "ふと",
+        "おお"
+      ]
+    },
+    {
+      "id": 834,
+      "character": "陽",
+      "readings": [
+        "よう",
+        "ひ",
+        "はる"
+      ]
+    },
+    {
+      "id": 1415,
+      "character": "系",
+      "readings": [
+        "けい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You know 太陽 means \"sun,\" so hopefully you can guess what a sun <kanji>system</kanji> is. That's right — it's the <vocabulary>solar system</vocabulary>!",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Will help to know 太陽.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A4%AA%E9%99%BD%E7%B3%BB",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "太",
+      "id": 505,
+      "reading": "たい"
+    },
+    {
+      "type": "kanji",
+      "value": "陽",
+      "id": 834,
+      "reading": "よう"
+    },
+    {
+      "type": "kanji",
+      "value": "系",
+      "id": 1415,
+      "reading": "けい"
+    }
+  ]
+}

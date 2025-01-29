@@ -1,0 +1,36 @@
+{
+  "id": 4627,
+  "type": "vocabulary",
+  "characters": "導く",
+  "primaryMeaning": "To Lead",
+  "otherMeanings": [
+    "To Guide"
+  ],
+  "primaryReading": "みちびく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1203,
+      "character": "導",
+      "readings": [
+        "どう",
+        "みちび"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>lead</kanji> so the verb vocab version is <vocabulary>to lead</vocabulary>.",
+  "readingMnemonic": "The reading for this one is a bit difficult, but there's a hint in the kanji. See the 道 in there on the top? What's the reading for the vocab version of that kanji? It's みち. That's the first part. Now, who are you leading? Let's say you're leading a bee back to its nest, via the road. It's a <reading>道 Bee</reading> (みちび)!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B0%8E%E3%81%8F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "導",
+      "id": 1203,
+      "reading": "みちび"
+    },
+    {
+      "type": "kana",
+      "value": "く"
+    }
+  ]
+}

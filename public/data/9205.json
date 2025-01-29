@@ -1,0 +1,107 @@
+{
+  "id": 9205,
+  "object": "kana_vocabulary",
+  "url": "https://api.wanikani.com/v2/subjects/9205",
+  "data_updated_at": "2024-10-15T22:19:12.996756Z",
+  "data": {
+    "created_at": "2023-04-24T23:40:53.959896Z",
+    "level": 7,
+    "slug": "その",
+    "hidden_at": null,
+    "document_url": "https://www.wanikani.com/vocabulary/%E3%81%9D%E3%81%AE",
+    "characters": "その",
+    "meanings": [
+      {
+        "meaning": "That",
+        "primary": true,
+        "accepted_answer": true
+      },
+      {
+        "meaning": "Those",
+        "primary": false,
+        "accepted_answer": true
+      }
+    ],
+    "auxiliary_meanings": [
+      {
+        "meaning": "The",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "These",
+        "type": "blacklist"
+      }
+    ],
+    "parts_of_speech": [
+      "adjective",
+      "こそあど word"
+    ],
+    "meaning_mnemonic": "Remember how それ means \"that one\"? その has a very similar meaning: <vocabulary>that</vocabulary>. It's used before a noun that's either close to the person you're talking to, or fairly close to both of you. For example, その本 is \"that book\", and the book in question might be in the hand of the person you're talking to, or it might be on a shelf not far from you both.",
+    "context_sentences": [
+      {
+        "en": "That person is famous.",
+        "ja": "その人、有名人だよ。"
+      },
+      {
+        "en": "I'm busy that day.",
+        "ja": "その日は、いそがしいんだ。"
+      },
+      {
+        "en": "At that moment, there was a loud boom.",
+        "ja": "そのとき、ドーンと大きな音がした。"
+      }
+    ],
+    "pronunciation_audios": [
+      {
+        "url": "https://files.wanikani.com/r7te3vzz42eym162anabqfa2sfww",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44769,
+          "pronunciation": "その",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/nn2zi3wgnb3qfjzrlbp5a1dyvopq",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44769,
+          "pronunciation": "その",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      },
+      {
+        "url": "https://files.wanikani.com/j57j51sj5fyapuackeecxbhu52r0",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44710,
+          "pronunciation": "その",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/b6h3565dnjk4yc9yudtoxwc5662n",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44710,
+          "pronunciation": "その",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      }
+    ],
+    "lesson_position": 52,
+    "spaced_repetition_system_id": 1
+  }
+}

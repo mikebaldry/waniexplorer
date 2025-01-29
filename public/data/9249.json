@@ -1,0 +1,43 @@
+{
+  "id": 9249,
+  "type": "vocabulary",
+  "characters": "下りる",
+  "primaryMeaning": "To Go Down",
+  "otherMeanings": [
+    "To Descend",
+    "To Be Issued"
+  ],
+  "primaryReading": "おりる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 451,
+      "character": "下",
+      "readings": [
+        "か",
+        "げ",
+        "した",
+        "さ",
+        "くだ",
+        "お",
+        "しも",
+        "もと"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji means <kanji>below</kanji>, which is a clue to the direction this movement verb takes: this is <vocabulary>to go down</vocabulary> or <vocabulary>to descend</vocabulary>. In some cases, this can also mean <vocabulary>to be issued</vocabulary>, mostly in situations where some sort of grant or allowance is issued by an authority.\n\nYou might notice that this is similar to 下る (くだる), and you can use either to describe going down a mountain. The difference is that 下る implies a gradual sloping motion, like floating down a stream, whereas you'd say 下りる if you’re jumping out of trees!",
+  "readingMnemonic": "Since this word has okurigana (hiragana attached to the kanji), you know that it's probably going to be the kun'yomi reading, which you didn't learn with the kanji. Here's a mnemonic to help you:\n\nYou're stuck on a huge mountain, and the only way <vocabulary>to go down</vocabulary> is by using your <reading>o</reading>bi (お). So you'll have <vocabulary>to descend</vocabulary> this entire mountain with nothing but your obi, acting as a rope. Good luck!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%8B%E3%82%8A%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "下",
+      "id": 451,
+      "reading": "お"
+    },
+    {
+      "type": "kana",
+      "value": "りる"
+    }
+  ]
+}

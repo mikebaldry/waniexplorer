@@ -1,0 +1,37 @@
+{
+  "id": 8618,
+  "type": "vocabulary",
+  "characters": "慕う",
+  "primaryMeaning": "To Adore",
+  "otherMeanings": [
+    "To Miss",
+    "To Yearn For"
+  ],
+  "primaryReading": "したう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2455,
+      "character": "慕",
+      "readings": [
+        "ぼ",
+        "した"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>yearn for</kanji>, so the verb version is <vocabulary>to yearn for</vocabulary>. But that sounds kinda old fashioned, so you can just use <vocabulary>to adore</vocabulary> too.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nYou realize you're starting <vocabulary>to yearn for</vocabulary> someone way more than you used to. \"<reading>Sh*t</reading> (した)... \" you say to yourself. This wasn't supposed to happen. Anytime you start to adore someone like that you always know you're getting into a bunch of sh*t you don't want to deal with. Damn these emotions!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%85%95%E3%81%86",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "慕",
+      "id": 2455,
+      "reading": "した"
+    },
+    {
+      "type": "kana",
+      "value": "う"
+    }
+  ]
+}

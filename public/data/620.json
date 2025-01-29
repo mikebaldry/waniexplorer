@@ -1,0 +1,34 @@
+{
+  "id": 620,
+  "type": "kanji",
+  "character": "京",
+  "primaryMeaning": "Capital",
+  "otherMeanings": [],
+  "primaryReading": "きょう",
+  "readings": [
+    {
+      "reading": "きょう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "みやこ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "To remember the reading きょう we use the Japanese city, Kyoto, which is spelled <reading>きょう</reading>と. It was once the capital of Japan! It was soooo full of mouths that came together that it was the capital for a long, long time.",
+  "meaningMnemonic": "There is a <radical>lid</radical> covering all the <radical>mouth</radical>s that are too <radical>small</radical> to feed themselves, forming the <kanji>capital</kanji>. All of the small mouths come together and create a place where everyone can support each other.",
+  "vocabularyIds": [
+    3350,
+    3351,
+    3423,
+    3836
+  ],
+  "radicalIds": [
+    8,
+    16,
+    35
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E4%BA%AC"
+}

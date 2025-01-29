@@ -1,0 +1,45 @@
+{
+  "id": 4740,
+  "type": "vocabulary",
+  "characters": "特質",
+  "primaryMeaning": "Characteristic",
+  "otherMeanings": [
+    "Trait"
+  ],
+  "primaryReading": "とくしつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 807,
+      "character": "特",
+      "readings": [
+        "とく"
+      ]
+    },
+    {
+      "id": 1242,
+      "character": "質",
+      "readings": [
+        "しつ",
+        "しち"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Your <kanji>special</kanji> <kanji>quality</kanji> is your <vocabulary>characteristic</vocabulary>s or your <vocabulary>trait</vocabulary>s.\n\nThis is a formal word that refers to special properties that only a certain thing possesses, like the properties of steel as a material, or a certain person’s nature.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%89%B9%E8%B3%AA",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "特",
+      "id": 807,
+      "reading": "とく"
+    },
+    {
+      "type": "kanji",
+      "value": "質",
+      "id": 1242,
+      "reading": "しつ"
+    }
+  ]
+}

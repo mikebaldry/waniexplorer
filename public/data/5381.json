@@ -1,0 +1,37 @@
+{
+  "id": 5381,
+  "type": "vocabulary",
+  "characters": "預ける",
+  "primaryMeaning": "To Deposit",
+  "otherMeanings": [
+    "To Entrust",
+    "To Leave Something With Someone"
+  ],
+  "primaryReading": "あずける",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1425,
+      "character": "預",
+      "readings": [
+        "よ",
+        "あず"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an <ja>う</ja> sound, you know this word is a verb. The kanji itself means <kanji>deposit</kanji> so the verb vocab version is <vocabulary>to deposit</vocabulary> or <vocabulary>to entrust</vocabulary>. \n\nYou use 預ける when you leave something in someone else's care for a while, expecting to get it back. For example, you can use 預ける when you deposit money in a bank, leave your coat in a cloakroom, or even when you park your bicycle in a parking area. You can also use it when you leave your child with grandparents or leave your dog at a pet hotel.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nIn terms of places where you want <vocabulary>to deposit</vocabulary> your money, the last place on your list should be <reading>a zoo</reading> (あず). I mean seriously, you know the animals are just gonna munch up all your dolla bills. ",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%A0%90%E3%81%91%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "預",
+      "id": 1425,
+      "reading": "あず"
+    },
+    {
+      "type": "kana",
+      "value": "ける"
+    }
+  ]
+}

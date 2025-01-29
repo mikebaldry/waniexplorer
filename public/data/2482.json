@@ -1,0 +1,31 @@
+{
+  "id": 2482,
+  "type": "vocabulary",
+  "characters": "八",
+  "primaryMeaning": "Eight",
+  "otherMeanings": [],
+  "primaryReading": "はち",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 446,
+      "character": "八",
+      "readings": [
+        "はち",
+        "や",
+        "よう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When a vocab is a single kanji it usually steals its meaning from its kanji as well. Same goes for this vocab word. It means <vocabulary>eight</vocabulary>.",
+  "readingMnemonic": "When a vocab is a single kanji and all alone like this, it's usually going to use the kun'yomi. But, because this is a number (exception) it uses the on'yomi instead, meaning you already know the reading from when you learned the kanji!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%85%AB",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "八",
+      "id": 446,
+      "reading": "はち"
+    }
+  ]
+}

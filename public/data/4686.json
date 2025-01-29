@@ -1,0 +1,56 @@
+{
+  "id": 4686,
+  "type": "vocabulary",
+  "characters": "不燃ゴミ",
+  "primaryMeaning": "Nonburnable Garbage",
+  "otherMeanings": [
+    "Unburnable Garbage",
+    "Nonburnable Trash",
+    "Unburnable Trash",
+    "Nonburnable Rubbish",
+    "Unburnable Rubbish"
+  ],
+  "primaryReading": "ふねんごみ",
+  "otherReadings": [
+    "ふねんゴミ"
+  ],
+  "kanji": [
+    {
+      "id": 563,
+      "character": "不",
+      "readings": [
+        "ふ",
+        "ぶ"
+      ]
+    },
+    {
+      "id": 1222,
+      "character": "燃",
+      "readings": [
+        "ねん",
+        "も"
+      ]
+    }
+  ],
+  "meaningMnemonic": "These are <kanji>not</kanji> <kanji>burn</kanji>able garbages (ごみ). Pay attention to this on signs when you throw things away. You want to put the right things into <vocabulary>nonburnable garbage</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%8D%E7%87%83%E3%82%B4%E3%83%9F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "不",
+      "id": 563,
+      "reading": "ふ"
+    },
+    {
+      "type": "kanji",
+      "value": "燃",
+      "id": 1222,
+      "reading": "ねん"
+    },
+    {
+      "type": "kana",
+      "value": "ゴミ"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 7555,
+  "type": "vocabulary",
+  "characters": "剣",
+  "primaryMeaning": "Sword",
+  "otherMeanings": [
+    "Sabre",
+    "Double-Edged Sword"
+  ],
+  "primaryReading": "けん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1592,
+      "character": "剣",
+      "readings": [
+        "けん",
+        "つるぎ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are the same. That means they share meanings as well. This word covers all types of <vocabulary>sword</vocabulary>s and <vocabulary>sabre</vocabulary>s, though it was originally used mostly for <vocabulary>double-edged sword</vocabulary>s. ",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!\n\nThis word can also be read つるぎ, but in that case its meaning is limited to Western-style swords only. Because of the meaning difference, we only accept the けん reading (but you'll get another try if you enter つるぎ).",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%89%A3",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "剣",
+      "id": 1592,
+      "reading": "けん"
+    }
+  ]
+}

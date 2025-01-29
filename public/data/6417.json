@@ -1,0 +1,34 @@
+{
+  "id": 6417,
+  "type": "vocabulary",
+  "characters": "〜殿",
+  "primaryMeaning": "Mr.",
+  "otherMeanings": [
+    "Ms.",
+    "Lord"
+  ],
+  "primaryReading": "どの",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1760,
+      "character": "殿",
+      "readings": [
+        "でん",
+        "との",
+        "どの"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji means <kanji>Milord</kanji>, and this word used to be a name ender similar to the English title <vocabulary>Lord</vocabulary>, but nowadays it's closer to <vocabulary>Mr.</vocabulary> or <vocabulary>Ms.</vocabulary>. It's rarely used in speaking or even written correspondence these days, but is still used in official documents, and you'll probably see it most on certificates. If in doubt, you're better off choosing the name ender 様 because it's much more widely used, and also more polite than 殿.\n",
+  "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You did not learn this reading, so here's a mnemonic to help you to remember:\n\nDo you know a <vocabulary>Lord</vocabulary>? Imagine it being someone named <vocabulary>Mr.</vocabulary> or <vocabulary>Ms.</vocabulary> <reading>Don</reading> (どの). If you know a Don, that's great, imagine that person. If you don't, think of a famous Don that's out there.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E3%80%9C%E6%AE%BF",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "殿",
+      "id": 1760,
+      "reading": "どの"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 1508,
+  "type": "kanji",
+  "character": "暖",
+  "primaryMeaning": "Warm",
+  "otherMeanings": [],
+  "primaryReading": "だん",
+  "readings": [
+    {
+      "reading": "だん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "あたた",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "It's <kanji>warm</kanji> like this because it's <reading>dawn</reading> (だん). That's when the sun comes up.",
+  "meaningMnemonic": "You're in the <radical>sun</radical> playing <radical>football</radical> and you get very <kanji>warm</kanji>.",
+  "vocabularyIds": [
+    5593,
+    5594,
+    6195,
+    6748
+  ],
+  "radicalIds": [
+    22,
+    286
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%9A%96"
+}

@@ -1,0 +1,32 @@
+{
+  "id": 1036,
+  "type": "kanji",
+  "character": "祈",
+  "primaryMeaning": "Pray",
+  "otherMeanings": [],
+  "primaryReading": "き",
+  "readings": [
+    {
+      "reading": "き",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "いの",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You <kanji>pray</kanji> and pray and pray and nothing happens. You stop praying and dare to open your eyes. There is a <reading>key</reading> (き) in front of you. Grab the key and hold it before you and pray for the spirit to take it. Moments later, both the key and the spirit are gone.",
+  "meaningMnemonic": "If you see a <radical>spirit</radical> with an <radical>axe</radical>, you better <kanji>pray</kanji> for your life. Spirits only hold axes if they're thinking about murder, so pray as hard as you can to try and get it to spare you.",
+  "vocabularyIds": [
+    4122,
+    4123,
+    4124
+  ],
+  "radicalIds": [
+    80,
+    115
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%A5%88"
+}

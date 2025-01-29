@@ -1,0 +1,33 @@
+{
+  "id": 7629,
+  "type": "vocabulary",
+  "characters": "葉",
+  "primaryMeaning": "Leaf",
+  "otherMeanings": [
+    "Leaves"
+  ],
+  "primaryReading": "は",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 750,
+      "character": "葉",
+      "readings": [
+        "は",
+        "よう",
+        "ば"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%91%89",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "葉",
+      "id": 750,
+      "reading": "は"
+    }
+  ]
+}

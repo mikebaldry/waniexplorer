@@ -1,0 +1,36 @@
+{
+  "id": 5735,
+  "type": "vocabulary",
+  "characters": "染まる",
+  "primaryMeaning": "To Be Dyed",
+  "otherMeanings": [],
+  "primaryReading": "そまる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1512,
+      "character": "染",
+      "readings": [
+        "せん",
+        "しみ",
+        "そ",
+        "し"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If 染める is \"to dye,\" then this is <vocabulary>to be dyed</vocabulary>. You aren't doing the dying, because you know that if you did it you would have done things right, unlike the other person who dyed your hair. This person <reading>marr</reading>ed (まる) it up really bad.",
+  "readingMnemonic": "The reading is the same as 染める.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9F%93%E3%81%BE%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "染",
+      "id": 1512,
+      "reading": "そ"
+    },
+    {
+      "type": "kana",
+      "value": "まる"
+    }
+  ]
+}

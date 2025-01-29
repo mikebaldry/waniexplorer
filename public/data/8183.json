@@ -1,0 +1,44 @@
+{
+  "id": 8183,
+  "type": "vocabulary",
+  "characters": "伏兵",
+  "primaryMeaning": "Ambush",
+  "otherMeanings": [],
+  "primaryReading": "ふくへい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2260,
+      "character": "伏",
+      "readings": [
+        "ふく",
+        "ふ"
+      ]
+    },
+    {
+      "id": 1000,
+      "character": "兵",
+      "readings": [
+        "へい",
+        "ひょう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>soldier</kanji> only <kanji>lay</kanji>s herself down when she's about to <vocabulary>ambush</vocabulary> the enemy! If you see some soldiers laying around, it's not that they're lazy, it's because they're getting ready to pounce! ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BC%8F%E5%85%B5",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "伏",
+      "id": 2260,
+      "reading": "ふく"
+    },
+    {
+      "type": "kanji",
+      "value": "兵",
+      "id": 1000,
+      "reading": "へい"
+    }
+  ]
+}

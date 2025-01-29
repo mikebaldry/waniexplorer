@@ -1,0 +1,46 @@
+{
+  "id": 7254,
+  "type": "vocabulary",
+  "characters": "矛盾",
+  "primaryMeaning": "Contradiction",
+  "otherMeanings": [
+    "Inconsistency"
+  ],
+  "primaryReading": "むじゅん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1907,
+      "character": "矛",
+      "readings": [
+        "む",
+        "ほこ"
+      ]
+    },
+    {
+      "id": 2047,
+      "character": "盾",
+      "readings": [
+        "じゅん",
+        "たて"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>spear</kanji> and a <kanji>shield</kanji>. Totally different things. Not at all like each other. A complete <vocabulary>contradiction</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%9F%9B%E7%9B%BE",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "矛",
+      "id": 1907,
+      "reading": "む"
+    },
+    {
+      "type": "kanji",
+      "value": "盾",
+      "id": 2047,
+      "reading": "じゅん"
+    }
+  ]
+}

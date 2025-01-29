@@ -1,0 +1,41 @@
+{
+  "id": 2720,
+  "type": "vocabulary",
+  "characters": "代わる",
+  "primaryMeaning": "To Substitute For",
+  "otherMeanings": [
+    "To Take Over For",
+    "To Replace"
+  ],
+  "primaryReading": "かわる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 530,
+      "character": "代",
+      "readings": [
+        "だい",
+        "たい",
+        "か",
+        "かわ",
+        "よ",
+        "しろ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an <ja>う</ja> sound, you know this word is a verb. The kanji itself means <kanji>substitute</kanji>, and the verb 代わる means <vocabulary>to substitute for</vocabulary> or <vocabulary>to take over for</vocabulary>. Use it when one player substitutes for another in sports, for example, or when someone takes over for you at work. \n\n代わる is usually intransitive, but sometimes it can be transitive and take a direct object. Kind of like \"to take over\" in English — someone can take over your shift (transitive), or just take over for you (intransitive).",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you to remember the <ja>か</ja> part:\n\nYou need something <vocabulary>to substitute for</vocabulary> your <reading>car</reading> (<ja>か</ja>). It's getting repaired, so you can't use it now. I guess you can substitute your bike for your car? ",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BB%A3%E3%82%8F%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "代",
+      "id": 530,
+      "reading": "かわ"
+    },
+    {
+      "type": "kana",
+      "value": "わる"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 7223,
+  "type": "vocabulary",
+  "characters": "麻",
+  "primaryMeaning": "Cannabis",
+  "otherMeanings": [
+    "Hemp"
+  ],
+  "primaryReading": "あさ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2036,
+      "character": "麻",
+      "readings": [
+        "ま",
+        "あさ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well, but it also means <vocabulary>cannabis</vocabulary> as well.",
+  "readingMnemonic": "You always smoke your <vocabulary>cannabis</vocabulary> in the <reading>朝</reading> (あさ). No other time. Just the 朝.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%BA%BB",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "麻",
+      "id": 2036,
+      "reading": "あさ"
+    }
+  ]
+}

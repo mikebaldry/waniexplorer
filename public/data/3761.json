@@ -1,0 +1,46 @@
+{
+  "id": 3761,
+  "type": "vocabulary",
+  "characters": "昨今",
+  "primaryMeaning": "These Days",
+  "otherMeanings": [
+    "Nowadays",
+    "Recently"
+  ],
+  "primaryReading": "さっこん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 947,
+      "character": "昨",
+      "readings": [
+        "さく"
+      ]
+    },
+    {
+      "id": 497,
+      "character": "今",
+      "readings": [
+        "こん",
+        "いま"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Previous</kanji> from <kanji>now</kanji> are the times around now. They're <vocabulary>these days</vocabulary>, <vocabulary>nowadays</vocabulary>, or <vocabulary>recently</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Just note that さく changes to さっ as many K-column sounds do in situations like this.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%98%A8%E4%BB%8A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "昨",
+      "id": 947,
+      "reading": "さっ"
+    },
+    {
+      "type": "kanji",
+      "value": "今",
+      "id": 497,
+      "reading": "こん"
+    }
+  ]
+}

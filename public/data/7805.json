@@ -1,0 +1,38 @@
+{
+  "id": 7805,
+  "type": "vocabulary",
+  "characters": "潤い",
+  "primaryMeaning": "Moisture",
+  "otherMeanings": [
+    "Richness",
+    "Wetness"
+  ],
+  "primaryReading": "うるおい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2076,
+      "character": "潤",
+      "readings": [
+        "じゅん",
+        "うるお",
+        "うる"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This may look like an adjective, but it's actually the noun version of the kanji <kanji>watered</kanji>. Watered things, like plants, hold a lot of <vocabulary>moisture</vocabulary> in them.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You already learned this reading when you learned 潤う, so you should know this one too.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%BD%A4%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "潤",
+      "id": 2076,
+      "reading": "うるお"
+    },
+    {
+      "type": "kana",
+      "value": "い"
+    }
+  ]
+}

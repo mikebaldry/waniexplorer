@@ -1,0 +1,31 @@
+{
+  "id": 3345,
+  "type": "vocabulary",
+  "characters": "祭",
+  "primaryMeaning": "Festival",
+  "otherMeanings": [],
+  "primaryReading": "まつり",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 823,
+      "character": "祭",
+      "readings": [
+        "さい",
+        "まつり",
+        "まつ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "While at a <vocabulary>festival</vocabulary>, a guy named Matt has to go to the bathroom. <reading>Matt’s uri</reading>ne (まつり) has been filling up his bladder ever since he began drinking that 64oz cup of soda. Matt’s urine is ready to bust out at any moment. He really has to go to the bathroom.\n\nThis word can also be written 祭り, and the pronunciation stays the same.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A5%AD",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "祭",
+      "id": 823,
+      "reading": "まつり"
+    }
+  ]
+}

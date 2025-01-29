@@ -1,0 +1,77 @@
+{
+  "id": 8300,
+  "type": "vocabulary",
+  "characters": "方向音痴",
+  "primaryMeaning": "No Sense Of Direction",
+  "otherMeanings": [
+    "Bad Sense Of Direction"
+  ],
+  "primaryReading": "ほうこうおんち",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 510,
+      "character": "方",
+      "readings": [
+        "ほう",
+        "かた"
+      ]
+    },
+    {
+      "id": 611,
+      "character": "向",
+      "readings": [
+        "こう",
+        "む",
+        "なた"
+      ]
+    },
+    {
+      "id": 606,
+      "character": "音",
+      "readings": [
+        "おん",
+        "おと",
+        "ね"
+      ]
+    },
+    {
+      "id": 2250,
+      "character": "痴",
+      "readings": [
+        "ち",
+        "おろか",
+        "し"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This is a combination of the words 方向 and 音痴. When your sense of direction is tone-deaf, it means you have <vocabulary>no sense of direction</vocabulary>. You get lost no matter how hard you try.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%96%B9%E5%90%91%E9%9F%B3%E7%97%B4",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "方",
+      "id": 510,
+      "reading": "ほう"
+    },
+    {
+      "type": "kanji",
+      "value": "向",
+      "id": 611,
+      "reading": "こう"
+    },
+    {
+      "type": "kanji",
+      "value": "音",
+      "id": 606,
+      "reading": "おん"
+    },
+    {
+      "type": "kanji",
+      "value": "痴",
+      "id": 2250,
+      "reading": "ち"
+    }
+  ]
+}

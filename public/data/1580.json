@@ -1,0 +1,31 @@
+{
+  "id": 1580,
+  "type": "kanji",
+  "character": "彫",
+  "primaryMeaning": "Carve",
+  "otherMeanings": [],
+  "primaryReading": "ちょう",
+  "readings": [
+    {
+      "reading": "ちょう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ほ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "When you think of all the people who could have done this... all the people who could have <kanji>carve</kanji>d out someone's hair, only one person comes to mind, and that is Mrs. <reading>Chou</reading> (ちょう). She's the only person evil enough to do something like this.",
+  "meaningMnemonic": "There is a <radical>circumference</radical> around someone's <radical>hair</radical>, as in, you can see a circle drawn around the top of their head. As you examine it closer, and pull at it a bit, you realize that someone has <kanji>carve</kanji>d the hair off someone's head!",
+  "vocabularyIds": [
+    5862,
+    9060
+  ],
+  "radicalIds": [
+    169,
+    38
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%BD%AB"
+}

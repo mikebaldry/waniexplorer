@@ -1,0 +1,34 @@
+{
+  "id": 1520,
+  "type": "kanji",
+  "character": "宝",
+  "primaryMeaning": "Treasure",
+  "otherMeanings": [],
+  "primaryReading": "ほう",
+  "readings": [
+    {
+      "reading": "ほう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "たから",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "All of this <kanji>treasure</kanji> is kept in the king's <reading>ho</reading>me (ほう). He can't let other people see how much treasure he has, or they'll get mad. Or worse, ask him to share some with his people. Yuck. The treasure stays at home.",
+  "meaningMnemonic": "Under his <radical>roof</radical>, the <radical>king</radical> stares into a <radical>drop</radical> of water containing his greatest <kanji>treasure</kanji>. Just kidding, the king has way more treasure than that. The drop of water is just reflecting what's around him: mounds and mounds of treasure, stacked all the way up to the roof.",
+  "vocabularyIds": [
+    5631,
+    5632,
+    5633,
+    5846
+  ],
+  "radicalIds": [
+    78,
+    48,
+    3
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%AE%9D"
+}

@@ -1,0 +1,45 @@
+{
+  "id": 8524,
+  "type": "vocabulary",
+  "characters": "叔父",
+  "primaryMeaning": "Uncle",
+  "otherMeanings": [],
+  "primaryReading": "おじ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2404,
+      "character": "叔",
+      "readings": [
+        "お",
+        "しゅく"
+      ]
+    },
+    {
+      "id": 512,
+      "character": "父",
+      "readings": [
+        "ちち",
+        "とう",
+        "ふ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "An <kanji>uncle</kanji> feels like a <kanji>father</kanji> sometimes, but he's still an <vocabulary>uncle</vocabulary> after all.\n",
+  "readingMnemonic": "You already know the お reading for 叔, but じ for 父 is new, so here's a mnemonic to help you:\n\nOne thing nobody knows is that your <vocabulary>uncle</vocabulary> is none other than <reading>Je</reading>sus (じ)! That technically makes God your grandfather. Don't tell anybody about this, though.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8F%94%E7%88%B6",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "叔",
+      "id": 2404,
+      "reading": "お"
+    },
+    {
+      "type": "kanji",
+      "value": "父",
+      "id": 512,
+      "reading": null
+    }
+  ]
+}

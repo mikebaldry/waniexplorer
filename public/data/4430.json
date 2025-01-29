@@ -1,0 +1,45 @@
+{
+  "id": 4430,
+  "type": "vocabulary",
+  "characters": "資金",
+  "primaryMeaning": "Funds",
+  "otherMeanings": [],
+  "primaryReading": "しきん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1133,
+      "character": "資",
+      "readings": [
+        "し"
+      ]
+    },
+    {
+      "id": 602,
+      "character": "金",
+      "readings": [
+        "きん",
+        "こん",
+        "かね",
+        "かな"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>resources</kanji> of <kanji>gold</kanji> that we have are our current <vocabulary>funds</vocabulary>. \n\n資金 is specifically for monetary funds, not other types of assets. That 金 kanji can mean money, so it should be easy to remember.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%B3%87%E9%87%91",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "資",
+      "id": 1133,
+      "reading": "し"
+    },
+    {
+      "type": "kanji",
+      "value": "金",
+      "id": 602,
+      "reading": "きん"
+    }
+  ]
+}

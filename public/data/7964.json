@@ -1,0 +1,44 @@
+{
+  "id": 7964,
+  "type": "vocabulary",
+  "characters": "批准",
+  "primaryMeaning": "Ratification",
+  "otherMeanings": [
+    "Ratify"
+  ],
+  "primaryReading": "ひじゅん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1141,
+      "character": "批",
+      "readings": [
+        "ひ"
+      ]
+    },
+    {
+      "id": 2203,
+      "character": "准",
+      "readings": [
+        "じゅん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If there is only <kanji>semi</kanji> <kanji>criticism</kanji> on a law <vocabulary>ratification</vocabulary> is still possible. It's only if everyone criticizes it that it won't be ratified.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%89%B9%E5%87%86",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "批",
+      "id": 1141,
+      "reading": "ひ"
+    },
+    {
+      "type": "kanji",
+      "value": "准",
+      "id": 2203,
+      "reading": "じゅん"
+    }
+  ]
+}

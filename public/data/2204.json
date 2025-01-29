@@ -1,0 +1,38 @@
+{
+  "id": 2204,
+  "type": "kanji",
+  "character": "剰",
+  "primaryMeaning": "Surplus",
+  "otherMeanings": [],
+  "primaryReading": "じょう",
+  "readings": [
+    {
+      "reading": "じょう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "あまつさえ",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "あま",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "The <kanji>surplus</kanji> is thanks to the hard work of folks like <reading>Joe</reading> (じょう), the big farmhand. He worked hard to make sure there was a surplus of grain this year.",
+  "meaningMnemonic": "There's so much <radical>grain</radical> in your <radical>mouth</radical> you need to use a <radical>knife</radical> to remove it. Only when there is a <kanji>surplus</kanji> can you put that much grain in your mouth.",
+  "vocabularyIds": [
+    7965,
+    7966,
+    7967
+  ],
+  "radicalIds": [
+    135,
+    16,
+    128
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%89%B0"
+}

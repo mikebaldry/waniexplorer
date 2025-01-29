@@ -1,0 +1,110 @@
+{
+  "id": 9197,
+  "object": "kana_vocabulary",
+  "url": "https://api.wanikani.com/v2/subjects/9197",
+  "data_updated_at": "2024-10-15T22:19:12.323226Z",
+  "data": {
+    "created_at": "2023-04-24T23:13:12.429906Z",
+    "level": 5,
+    "slug": "あなた",
+    "hidden_at": null,
+    "document_url": "https://www.wanikani.com/vocabulary/%E3%81%82%E3%81%AA%E3%81%9F",
+    "characters": "あなた",
+    "meanings": [
+      {
+        "meaning": "You",
+        "primary": true,
+        "accepted_answer": true
+      },
+      {
+        "meaning": "Darling",
+        "primary": false,
+        "accepted_answer": true
+      }
+    ],
+    "auxiliary_meanings": [
+      {
+        "meaning": "Dear",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Honey",
+        "type": "whitelist"
+      },
+      {
+        "meaning": "Yourself",
+        "type": "whitelist"
+      }
+    ],
+    "parts_of_speech": [
+      "pronoun"
+    ],
+    "meaning_mnemonic": "\"<reading>A gnat, ah!</reading> (あなた). I’m going to get <vocabulary>you</vocabulary>! Yes YOU,\" you shout as you swat at that pesky gnat buzzing around your head.\n\nあなた is a lot less common than “you” in English, but you’ll come across it in adverts, online forums, and textbooks, where it’s used to address a general, anonymous audience. Some people also use it with their significant other, in which case it sounds intimate, like \"darling\". In casual conversations, though, it can come off as standoffish, so it's better to use someone's name or social title (like \"teacher\") instead.",
+    "context_sentences": [
+      {
+        "en": "Is this your blog?",
+        "ja": "これ、あなたのブログですか？"
+      },
+      {
+        "en": "What would you do in that kind of situation?",
+        "ja": "こんなとき、あなたならどうしますか？"
+      },
+      {
+        "en": "I miss you darling.",
+        "ja": "あなたがいなくてさみしいです。"
+      }
+    ],
+    "pronunciation_audios": [
+      {
+        "url": "https://files.wanikani.com/pp8vwmbnm0yv29s7leok35mj25n6",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44750,
+          "pronunciation": "あなた",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/y8yjirab9c1dh9lk15iqiikipwkk",
+        "metadata": {
+          "gender": "male",
+          "source_id": 44750,
+          "pronunciation": "あなた",
+          "voice_actor_id": 2,
+          "voice_actor_name": "Kenichi",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      },
+      {
+        "url": "https://files.wanikani.com/bjgaulp70e2mj4br8oxnn3lez70q",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44691,
+          "pronunciation": "あなた",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/webm"
+      },
+      {
+        "url": "https://files.wanikani.com/c2mspi2fo54am5ieg8hcj5v580zd",
+        "metadata": {
+          "gender": "female",
+          "source_id": 44691,
+          "pronunciation": "あなた",
+          "voice_actor_id": 1,
+          "voice_actor_name": "Kyoko",
+          "voice_description": "Tokyo accent"
+        },
+        "content_type": "audio/mpeg"
+      }
+    ],
+    "lesson_position": 76,
+    "spaced_repetition_system_id": 1
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": 9237,
+  "type": "vocabulary",
+  "characters": "立場",
+  "primaryMeaning": "Standpoint",
+  "otherMeanings": [
+    "Position"
+  ],
+  "primaryReading": "たちば",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 494,
+      "character": "立",
+      "readings": [
+        "りつ",
+        "りゅう",
+        "た"
+      ]
+    },
+    {
+      "id": 694,
+      "character": "場",
+      "readings": [
+        "じょう",
+        "ば"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Your <kanji>stand</kanji> <kanji>location</kanji> is your <vocabulary>standpoint</vocabulary> or your <vocabulary>position</vocabulary>. \n\nNote that 立場 usually refers to the position somebody takes in a particular situation, but can also refer to somebody's position in society.",
+  "readingMnemonic": "This is a bit of a weird one, since it uses kun'yomi and not on'yomi. What's more, how you read 立 is slightly different from what you'd expect. So here's a mnemonic to help you remember how to read 立 this time:\n\nTalking about your <vocabulary>standpoint</vocabulary> can be a <reading>touchy</reading> (たち) subject. You should watch out since people can get touchy when you give your standpoint on things!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%AB%8B%E5%A0%B4",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "立",
+      "id": 494,
+      "reading": "た"
+    },
+    {
+      "type": "kanji",
+      "value": "場",
+      "id": 694,
+      "reading": null
+    }
+  ]
+}

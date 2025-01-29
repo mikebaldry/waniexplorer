@@ -1,0 +1,35 @@
+{
+  "id": 1940,
+  "type": "kanji",
+  "character": "翔",
+  "primaryMeaning": "Fly",
+  "otherMeanings": [],
+  "primaryReading": "かけ",
+  "readings": [
+    {
+      "reading": "かけ",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "と",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "しょう",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Watching that sheep with feathers and wings flying around made you thirsty. You remember that you have a <reading>ca</reading>r <reading>ke</reading>ttle (かけ), so you reach into your car and grab your car kettle to make a special car-kettle brew.",
+  "meaningMnemonic": "A <radical>sheep</radical> with <radical>feathers</radical> (and presumably wings, too) is able to <kanji>fly</kanji>.",
+  "vocabularyIds": [
+    6933
+  ],
+  "radicalIds": [
+    136,
+    213
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%BF%94"
+}

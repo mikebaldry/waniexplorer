@@ -1,0 +1,33 @@
+{
+  "id": 8872,
+  "type": "vocabulary",
+  "characters": "眉",
+  "primaryMeaning": "Eyebrows",
+  "otherMeanings": [
+    "Brow"
+  ],
+  "primaryReading": "まゆ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 8862,
+      "character": "眉",
+      "readings": [
+        "み",
+        "び",
+        "まゆ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. This also includes the place where your <vocabulary>eyebrows</vocabulary> live: your <vocabulary>brow</vocabulary>.",
+  "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You haven't learned this reading yet, so here's a mnemonic to help you:\n\nYou're staring lovingly at your own <kanji>eyebrows</kanji> in the mirror when your mom walks in and you gasp, \"<reading>Ma! You</reading>... (まゆ)\" but you're in so much shock you can't finish the sentence, \"Ma, you shaved off your eyebrows?!\"",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%9C%89",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "眉",
+      "id": 8862,
+      "reading": "まゆ"
+    }
+  ]
+}

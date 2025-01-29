@@ -1,0 +1,49 @@
+{
+  "id": 4727,
+  "type": "vocabulary",
+  "characters": "大量",
+  "primaryMeaning": "Large Quantity",
+  "otherMeanings": [
+    "Large Number",
+    "Huge Amount"
+  ],
+  "primaryReading": "たいりょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 453,
+      "character": "大",
+      "readings": [
+        "たい",
+        "だい",
+        "おお",
+        "ひろ"
+      ]
+    },
+    {
+      "id": 1238,
+      "character": "量",
+      "readings": [
+        "りょう",
+        "はか"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>large</kanji> <kanji>quantity</kanji> is a <vocabulary>large quantity</vocabulary>. Kind of like the <vocabulary>large number</vocabulary> of words you're learning here now. A <vocabulary>huge amount</vocabulary>. Well done you.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A4%A7%E9%87%8F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "大",
+      "id": 453,
+      "reading": "たい"
+    },
+    {
+      "type": "kanji",
+      "value": "量",
+      "id": 1238,
+      "reading": "りょう"
+    }
+  ]
+}

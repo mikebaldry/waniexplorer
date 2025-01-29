@@ -1,0 +1,44 @@
+{
+  "id": 8373,
+  "type": "vocabulary",
+  "characters": "旋律",
+  "primaryMeaning": "Melody",
+  "otherMeanings": [
+    "Tune"
+  ],
+  "primaryReading": "せんりつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2332,
+      "character": "旋",
+      "readings": [
+        "せん"
+      ]
+    },
+    {
+      "id": 1197,
+      "character": "律",
+      "readings": [
+        "りつ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you follow the <kanji>law</kanji> of <kanji>rotation</kanji> while you play music you'll end up with a lovely <vocabulary>melody</vocabulary>. If you don't, you'll miss all the cues on beat that rotation gives you and it will sound like crap.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%97%8B%E5%BE%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "旋",
+      "id": 2332,
+      "reading": "せん"
+    },
+    {
+      "type": "kanji",
+      "value": "律",
+      "id": 1197,
+      "reading": "りつ"
+    }
+  ]
+}

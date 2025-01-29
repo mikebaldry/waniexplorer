@@ -1,0 +1,47 @@
+{
+  "id": 2716,
+  "type": "vocabulary",
+  "characters": "仕方",
+  "primaryMeaning": "Method",
+  "otherMeanings": [
+    "Way",
+    "Way Of Doing"
+  ],
+  "primaryReading": "しかた",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 564,
+      "character": "仕",
+      "readings": [
+        "し",
+        "つか"
+      ]
+    },
+    {
+      "id": 510,
+      "character": "方",
+      "readings": [
+        "ほう",
+        "かた"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>doing</kanji> <kanji>way</kanji> is basically a \"way of doing\" something. More simply put, this is the <vocabulary>method</vocabulary>. \"What's your way of doing this?\" No no no. \"What's your METHOD.\" There we go.",
+  "readingMnemonic": "This word uses the on'yomi reading for the first kanji 仕, and the kun'yomi reading for the second kanji 方, so watch out for that! You've learned both of these readings already, so you should be able to read this!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BB%95%E6%96%B9",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "仕",
+      "id": 564,
+      "reading": "し"
+    },
+    {
+      "type": "kanji",
+      "value": "方",
+      "id": 510,
+      "reading": "かた"
+    }
+  ]
+}

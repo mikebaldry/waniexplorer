@@ -1,0 +1,44 @@
+{
+  "id": 8445,
+  "type": "vocabulary",
+  "characters": "媒介",
+  "primaryMeaning": "Intermediary",
+  "otherMeanings": [],
+  "primaryReading": "ばいかい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2379,
+      "character": "媒",
+      "readings": [
+        "ばい",
+        "なこうど"
+      ]
+    },
+    {
+      "id": 1587,
+      "character": "介",
+      "readings": [
+        "かい",
+        "すけ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>mediator</kanji> <kanji>jammed in</kanji> the middle of a group of angry people ends up becoming the <vocabulary>intermediary</vocabulary> between them. The mediator can't just ignore what's happening around them, and they have the tools to fix this.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AA%92%E4%BB%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "媒",
+      "id": 2379,
+      "reading": "ばい"
+    },
+    {
+      "type": "kanji",
+      "value": "介",
+      "id": 1587,
+      "reading": "かい"
+    }
+  ]
+}

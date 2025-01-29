@@ -1,0 +1,45 @@
+{
+  "id": 4604,
+  "type": "vocabulary",
+  "characters": "規律",
+  "primaryMeaning": "Rule",
+  "otherMeanings": [
+    "Law",
+    "Discipline"
+  ],
+  "primaryReading": "きりつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1191,
+      "character": "規",
+      "readings": [
+        "き"
+      ]
+    },
+    {
+      "id": 1197,
+      "character": "律",
+      "readings": [
+        "りつ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>standard</kanji> <kanji>law</kanji> is the <vocabulary>rule</vocabulary> or <vocabulary>law</vocabulary> you have to follow. With these standard laws comes <vocabulary>discipline</vocabulary>. If you don't have these it will be chaos!",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A6%8F%E5%BE%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "規",
+      "id": 1191,
+      "reading": "き"
+    },
+    {
+      "type": "kanji",
+      "value": "律",
+      "id": 1197,
+      "reading": "りつ"
+    }
+  ]
+}

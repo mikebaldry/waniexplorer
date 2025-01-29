@@ -1,0 +1,34 @@
+{
+  "id": 1430,
+  "type": "kanji",
+  "character": "押",
+  "primaryMeaning": "Push",
+  "otherMeanings": [],
+  "primaryReading": "お",
+  "readings": [
+    {
+      "reading": "お",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "おう",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "You're trying to <kanji>push</kanji> this turtle out so you can use the shell for your new <reading>o</reading>bi (お). You keep seeing other people wearing turtle shell patterns on their obi, but you're going to go a step further. You're going to MAKE your obi out of actual turtle shells! You just have to push this darn turtle out first.",
+  "meaningMnemonic": "Take your <radical>fingers</radical>, put them on this <radical>turtle shell</radical>, and <kanji>push</kanji> push push! Push the turtle right on out of there.",
+  "vocabularyIds": [
+    5316,
+    5506,
+    5507,
+    7773,
+    9080
+  ],
+  "radicalIds": [
+    63,
+    330
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%8A%BC"
+}

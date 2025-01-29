@@ -1,0 +1,59 @@
+{
+  "id": 4536,
+  "type": "vocabulary",
+  "characters": "大統領",
+  "primaryMeaning": "President",
+  "otherMeanings": [],
+  "primaryReading": "だいとうりょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 453,
+      "character": "大",
+      "readings": [
+        "たい",
+        "だい",
+        "おお",
+        "ひろ"
+      ]
+    },
+    {
+      "id": 1170,
+      "character": "統",
+      "readings": [
+        "とう",
+        "す"
+      ]
+    },
+    {
+      "id": 1171,
+      "character": "領",
+      "readings": [
+        "りょう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you <kanji>big</kanji> <kanji>rule</kanji> over a <kanji>territory</kanji>, you're probably a pretty great leader. A <vocabulary>president</vocabulary>, perhaps?",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A4%A7%E7%B5%B1%E9%A0%98",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "大",
+      "id": 453,
+      "reading": "だい"
+    },
+    {
+      "type": "kanji",
+      "value": "統",
+      "id": 1170,
+      "reading": "とう"
+    },
+    {
+      "type": "kanji",
+      "value": "領",
+      "id": 1171,
+      "reading": "りょう"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 6719,
+  "type": "vocabulary",
+  "characters": "懲罰",
+  "primaryMeaning": "Discipline",
+  "otherMeanings": [
+    "Punishment"
+  ],
+  "primaryReading": "ちょうばつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1858,
+      "character": "懲",
+      "readings": [
+        "ちょう",
+        "こ"
+      ]
+    },
+    {
+      "id": 1155,
+      "character": "罰",
+      "readings": [
+        "ばつ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "I will <kanji>chastise</kanji> you and give you <kanji>penalty</kanji>. I do this as a <vocabulary>discipline</vocabulary>. A <vocabulary>punishment</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%87%B2%E7%BD%B0",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "懲",
+      "id": 1858,
+      "reading": "ちょう"
+    },
+    {
+      "type": "kanji",
+      "value": "罰",
+      "id": 1155,
+      "reading": "ばつ"
+    }
+  ]
+}

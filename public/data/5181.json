@@ -1,0 +1,61 @@
+{
+  "id": 5181,
+  "type": "vocabulary",
+  "characters": "移住者",
+  "primaryMeaning": "Emigrant",
+  "otherMeanings": [
+    "Immigrant",
+    "Migrant"
+  ],
+  "primaryReading": "いじゅうしゃ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1368,
+      "character": "移",
+      "readings": [
+        "い",
+        "うつ"
+      ]
+    },
+    {
+      "id": 679,
+      "character": "住",
+      "readings": [
+        "じゅう",
+        "す"
+      ]
+    },
+    {
+      "id": 690,
+      "character": "者",
+      "readings": [
+        "しゃ",
+        "もの"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you <kanji>shift</kanji> the place you <kanji>dwell</kanji>, you’re <kanji>someone</kanji> that we call an <vocabulary>emigrant</vocabulary>, an <vocabulary>immigrant</vocabulary>, or a <vocabulary>migrant</vocabulary>. Welcome, friend!\n\nYou can use this word both for people who migrate between countries and those who migrate within the same country.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A7%BB%E4%BD%8F%E8%80%85",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "移",
+      "id": 1368,
+      "reading": "い"
+    },
+    {
+      "type": "kanji",
+      "value": "住",
+      "id": 679,
+      "reading": "じゅう"
+    },
+    {
+      "type": "kanji",
+      "value": "者",
+      "id": 690,
+      "reading": "しゃ"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": 669,
+  "type": "kanji",
+  "character": "理",
+  "primaryMeaning": "Reason",
+  "otherMeanings": [],
+  "primaryReading": "り",
+  "readings": [
+    {
+      "reading": "り",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ことわり",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You can't have <kanji>reason</kanji> without <reading>re</reading> (り).",
+  "meaningMnemonic": "The <radical>king</radical>'s <radical>village</radical> is the <kanji>reason</kanji> he's king. Without the village there would be no reason to have a king in the first place.",
+  "vocabularyIds": [
+    2931,
+    2973,
+    2974,
+    3709,
+    3710,
+    3902,
+    3903,
+    3907,
+    4328,
+    4329,
+    4423,
+    4466,
+    4478,
+    4719,
+    4854,
+    4860,
+    4964,
+    5112,
+    5127,
+    5425,
+    5792,
+    7196,
+    7547,
+    7639,
+    7862,
+    8064,
+    8065,
+    8292,
+    8682,
+    9005
+  ],
+  "radicalIds": [
+    48,
+    125
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%90%86"
+}

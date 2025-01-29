@@ -1,0 +1,44 @@
+{
+  "id": 6727,
+  "type": "vocabulary",
+  "characters": "論旨",
+  "primaryMeaning": "Point Of An Argument",
+  "otherMeanings": [],
+  "primaryReading": "ろんし",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1119,
+      "character": "論",
+      "readings": [
+        "ろん"
+      ]
+    },
+    {
+      "id": 1863,
+      "character": "旨",
+      "readings": [
+        "し",
+        "うま",
+        "むね"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>point</kanji> to my <kanji>theory</kanji> is the <vocabulary>point of an argument</vocabulary>. That's what I'm trying to say in my theory / argument, man!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%AB%96%E6%97%A8",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "論",
+      "id": 1119,
+      "reading": "ろん"
+    },
+    {
+      "type": "kanji",
+      "value": "旨",
+      "id": 1863,
+      "reading": "し"
+    }
+  ]
+}

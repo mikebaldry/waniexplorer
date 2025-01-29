@@ -1,0 +1,50 @@
+{
+  "id": 3408,
+  "type": "vocabulary",
+  "characters": "男の子",
+  "primaryMeaning": "Boy",
+  "otherMeanings": [],
+  "primaryReading": "おとこのこ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 555,
+      "character": "男",
+      "readings": [
+        "だん",
+        "なん",
+        "おとこ"
+      ]
+    },
+    {
+      "id": 462,
+      "character": "子",
+      "readings": [
+        "し",
+        "す",
+        "こ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>man</kanji> <kanji>child</kanji> is a <vocabulary>boy</vocabulary>.\n\nThere's a の particle stuck in the middle of this word. Here it just means the noun before の is modifying the noun after. \n\nBut for now, all you really have to remember is that 男の子 means \"boy.\"",
+  "readingMnemonic": "If you know the kun'yomi readings of both of these kanji you should be okay. You have two separate single-kanji words put together by a の. That's why it's the kun'yomi reading - they're separate. ",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%94%B7%E3%81%AE%E5%AD%90",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "男",
+      "id": 555,
+      "reading": "おとこ"
+    },
+    {
+      "type": "kana",
+      "value": "の"
+    },
+    {
+      "type": "kanji",
+      "value": "子",
+      "id": 462,
+      "reading": "こ"
+    }
+  ]
+}

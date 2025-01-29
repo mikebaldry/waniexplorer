@@ -1,0 +1,46 @@
+{
+  "id": 6802,
+  "type": "vocabulary",
+  "characters": "娯楽",
+  "primaryMeaning": "Pleasure",
+  "otherMeanings": [
+    "Amusement"
+  ],
+  "primaryReading": "ごらく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1885,
+      "character": "娯",
+      "readings": [
+        "ご"
+      ]
+    },
+    {
+      "id": 704,
+      "character": "楽",
+      "readings": [
+        "らく",
+        "がく",
+        "たの"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Recreation</kanji> and <kanji>comfort</kanji> are things you do for <vocabulary>pleasure</vocabulary> and <vocabulary>amusement</vocabulary>. So nice!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A8%AF%E6%A5%BD",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "娯",
+      "id": 1885,
+      "reading": "ご"
+    },
+    {
+      "type": "kanji",
+      "value": "楽",
+      "id": 704,
+      "reading": "らく"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 1667,
+  "type": "kanji",
+  "character": "臨",
+  "primaryMeaning": "Look To",
+  "otherMeanings": [],
+  "primaryReading": "りん",
+  "readings": [
+    {
+      "reading": "りん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "のぞ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "After your servant is done with your gun and other products you want him to <kanji>look to</kanji> your car’s o-<reading>rin</reading>g (りん). There’s something wrong with the o-ring so you want your servant to look to that as well.",
+  "meaningMnemonic": "You give your <radical>servant</radical> a <radical>gun</radical> along with some other <radical>products</radical> to <kanji>look to</kanji>. You can’t look to them yourself since you are very busy. You allow your servant to look to your gun and the other products.",
+  "vocabularyIds": [
+    6120,
+    6121,
+    6122
+  ],
+  "radicalIds": [
+    323,
+    8762,
+    227
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%87%A8"
+}

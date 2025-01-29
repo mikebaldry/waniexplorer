@@ -1,0 +1,50 @@
+{
+  "id": 4877,
+  "type": "vocabulary",
+  "characters": "本当に",
+  "primaryMeaning": "Really",
+  "otherMeanings": [
+    "Truly"
+  ],
+  "primaryReading": "ほんとうに",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 487,
+      "character": "本",
+      "readings": [
+        "ほん",
+        "もと"
+      ]
+    },
+    {
+      "id": 571,
+      "character": "当",
+      "readings": [
+        "とう",
+        "あ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "本当 is <kanji>reality</kanji> or <kanji>truth</kanji> (level 5 vocab). If you add on に, this changes the word to an adverb, and we get <vocabulary>really</vocabulary> or <vocabulary>truly</vocabulary>. 本当に!",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. It shares the reading with the level 5 本当 as well, but just has a particle on the end. Really!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9C%AC%E5%BD%93%E3%81%AB",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "本",
+      "id": 487,
+      "reading": "ほん"
+    },
+    {
+      "type": "kanji",
+      "value": "当",
+      "id": 571,
+      "reading": "とう"
+    },
+    {
+      "type": "kana",
+      "value": "に"
+    }
+  ]
+}

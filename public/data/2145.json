@@ -1,0 +1,31 @@
+{
+  "id": 2145,
+  "type": "kanji",
+  "character": "玄",
+  "primaryMeaning": "Mysterious",
+  "otherMeanings": [],
+  "primaryReading": "げん",
+  "readings": [
+    {
+      "reading": "げん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "くろ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "There is no one more <kanji>mysterious</kanji> than <reading>Gen</reading>ji (げん). He's tall, dark, handsome, and most of all... 〜mysterious〜!",
+  "meaningMnemonic": "The <radical>mysterious</radical> radical and the <kanji>mysterious</kanji> kanji are the same!",
+  "vocabularyIds": [
+    7811,
+    7812,
+    8005
+  ],
+  "radicalIds": [
+    403
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%8E%84"
+}

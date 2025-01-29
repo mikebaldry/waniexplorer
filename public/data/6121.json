@@ -1,0 +1,46 @@
+{
+  "id": 6121,
+  "type": "vocabulary",
+  "characters": "臨海",
+  "primaryMeaning": "Seaside",
+  "otherMeanings": [
+    "Coastal"
+  ],
+  "primaryReading": "りんかい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1667,
+      "character": "臨",
+      "readings": [
+        "りん",
+        "のぞ"
+      ]
+    },
+    {
+      "id": 640,
+      "character": "海",
+      "readings": [
+        "かい",
+        "うみ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you <kanji>look to</kanji> the <kanji>sea</kanji>, you are <vocabulary>seaside</vocabulary> or <vocabulary>coastal</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%87%A8%E6%B5%B7",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "臨",
+      "id": 1667,
+      "reading": "りん"
+    },
+    {
+      "type": "kanji",
+      "value": "海",
+      "id": 640,
+      "reading": "かい"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 586,
+  "type": "kanji",
+  "character": "声",
+  "primaryMeaning": "Voice",
+  "otherMeanings": [],
+  "primaryReading": "こえ",
+  "readings": [
+    {
+      "reading": "こえ",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "せい",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "You decide to join the samurai’s protest for more <vocabulary>voice</vocabulary> but immediately notice… they’re all <reading>子, eh</reading> (こえ)?!",
+  "meaningMnemonic": "You have a <radical>samurai</radical> with a <radical>flag</radical> on a <radical>stick</radical>. On his flag is the symbol 声, the kanji for <kanji>voice</kanji>. Why does he have that there? He feels like his Shogun isn't giving him and his fellow Samurai a voice, so he's brought a flag with the word \"voice\" written on it to protest.",
+  "vocabularyIds": [
+    2814,
+    2815,
+    3517,
+    3938,
+    6961,
+    7735
+  ],
+  "radicalIds": [
+    97,
+    37,
+    8761
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%A3%B0"
+}

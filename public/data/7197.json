@@ -1,0 +1,47 @@
+{
+  "id": 7197,
+  "type": "vocabulary",
+  "characters": "尽力",
+  "primaryMeaning": "Efforts",
+  "otherMeanings": [
+    "Assistance"
+  ],
+  "primaryReading": "じんりょく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2027,
+      "character": "尽",
+      "readings": [
+        "じん",
+        "つ"
+      ]
+    },
+    {
+      "id": 447,
+      "character": "力",
+      "readings": [
+        "りょく",
+        "りき",
+        "ちから"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you <kanji>exhaust</kanji> <kanji>power</kanji> you are putting out <vocabulary>efforts</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B0%BD%E5%8A%9B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "尽",
+      "id": 2027,
+      "reading": "じん"
+    },
+    {
+      "type": "kanji",
+      "value": "力",
+      "id": 447,
+      "reading": "りょく"
+    }
+  ]
+}

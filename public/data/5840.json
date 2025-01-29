@@ -1,0 +1,50 @@
+{
+  "id": 5840,
+  "type": "vocabulary",
+  "characters": "宣言する",
+  "primaryMeaning": "To Proclaim",
+  "otherMeanings": [],
+  "primaryReading": "せんげんする",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1521,
+      "character": "宣",
+      "readings": [
+        "せん",
+        "のたま"
+      ]
+    },
+    {
+      "id": 593,
+      "character": "言",
+      "readings": [
+        "げん",
+        "ごん",
+        "い",
+        "こと"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If 宣言 is a \"proclamation,\" then the verb version will be <vocabulary>to proclaim</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AE%A3%E8%A8%80%E3%81%99%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "宣",
+      "id": 1521,
+      "reading": "せん"
+    },
+    {
+      "type": "kanji",
+      "value": "言",
+      "id": 593,
+      "reading": "げん"
+    },
+    {
+      "type": "kana",
+      "value": "する"
+    }
+  ]
+}

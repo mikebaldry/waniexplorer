@@ -1,0 +1,33 @@
+{
+  "id": 1121,
+  "type": "kanji",
+  "character": "笛",
+  "primaryMeaning": "Flute",
+  "otherMeanings": [],
+  "primaryReading": "てき",
+  "readings": [
+    {
+      "reading": "てき",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ふえ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You cut down the bamboo and whittle a <kanji>flute</kanji>. You start playing a song. You know the reason why. An alien spacecraft comes flying down and drops a box full of alien <reading>tech</reading> (てき) in front of you. ",
+  "meaningMnemonic": "Is there a <radical>reason</radical> you're in the <radical>bamboo</radical> grove? Why yes there is. It's so you can get yourself some bamboo and make a <kanji>flute</kanji> out of it.",
+  "vocabularyIds": [
+    4358,
+    4359,
+    4360,
+    6938
+  ],
+  "radicalIds": [
+    85,
+    268
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%AC%9B"
+}

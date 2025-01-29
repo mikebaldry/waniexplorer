@@ -1,0 +1,47 @@
+{
+  "id": 2656,
+  "type": "vocabulary",
+  "characters": "名字",
+  "primaryMeaning": "Surname",
+  "otherMeanings": [
+    "Last Name",
+    "Family Name"
+  ],
+  "primaryReading": "みょうじ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 544,
+      "character": "名",
+      "readings": [
+        "めい",
+        "みょう",
+        "な"
+      ]
+    },
+    {
+      "id": 545,
+      "character": "字",
+      "readings": [
+        "じ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>name</kanji> written in <kanji>letter</kanji>s is the <vocabulary>surname</vocabulary>. Back in the day your surname was the important name (it's your family name after all, and family was king back in the day). This is the name you'd write out in kanji... aka in letters. So, that's why this combination of kanji means \"surname.\"",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. \n\nNote that the 名 portion is the alternate reading, so adjust your thinking accordingly so you can get to みょう. Just imagine someone saying \"more\" with a funny accent. They say \"myou\" instead of \"more\". Imagine them saying they have myou people in their family than yours. Their surname is spread amongst myou people than yours.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%90%8D%E5%AD%97",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "名",
+      "id": 544,
+      "reading": "みょう"
+    },
+    {
+      "type": "kanji",
+      "value": "字",
+      "id": 545,
+      "reading": "じ"
+    }
+  ]
+}
