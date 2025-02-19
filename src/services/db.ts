@@ -1,29 +1,23 @@
-import kanji from "../kanji.json"
-import MiniSearch, { SearchResult } from 'minisearch'
+// @ts-ignore: Including type support for ?arraybuffer breaks other things
+import searchData from "../assets/search.avsc?arraybuffer";
+import { avroType, SearchResult } from "../gen/search_result";
+export type { SearchResult } from "../gen/search_result";
+import { Buffer } from "buffer/";
+import MiniSearch from "minisearch";
 
-let miniSearch = new MiniSearch<Document>({
-  fields: ['character', 'primaryMeaning', 'otherMeanings', 'primaryReading', 'otherReadings'], // fields to index for full-text search
-  storeFields: ['id', 'character', 'primaryReading', 'primaryMeaning', 'vocabularyIds'], // fields to return with search results
+// @ts-ignore: Buffer polyfill doesn't match exactly, but works enough!
+const documents = avroType.fromBuffer(Buffer.from(searchData)) as SearchResult[];
+
+let miniSearch = new MiniSearch<SearchResult>({
+  fields: ['primarySearch', 'secondarySearch'],
+  storeFields: ['id', 'type', 'level', 'characters', 'description'], // fields to return with search results
   searchOptions: {
-    boost: { primaryMeaning: 2, primaryReading: 2 }
+    boost: { primarySearch: 2 }
   }
 })
 
-/*
-index only kanji (fields?)
-return [kanji, vocab with kanji]
-*/
 
-type Document = {
-  id: number
-  character: string,
-  primaryMeaning: string
-  otherMeanings: string[]
-  primaryReading: string
-  otherReadings: string[]
-};
-
-miniSearch.addAll(kanji)
+miniSearch.addAll(documents)
 
 export type KanjiResult = SearchResult & {
   character: string
@@ -127,8 +121,18 @@ export type KanaVocabularyElement = BaseVocabularyElement & {
 export type VocabularyElement = KanjiVocabularyElement | KanaVocabularyElement;
 
 class Db {
-  public search(query: string): KanjiResult[] {
-    return miniSearch.search(query, { prefix: true }) as KanjiResult[];
+  public search(query: string): SearchResult[] {
+    const results = miniSearch.search(query, { prefix: true, combineWith: "AND" }).slice(0, 15);
+
+    return results.map((result) => {
+      return {
+        id: result.id,
+        type: result.type,
+        level: result.level,
+        characters: result.characters,
+        description: result.description
+      } as SearchResult;
+    })
   }
 
   public async kanji(id: number): Promise<KanjiSubject> {

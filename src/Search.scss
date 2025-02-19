@@ -1,0 +1,133 @@
+.search-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+
+  z-index: 100;
+  pointer-events: none;
+
+  .search-handle {
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+    width: 75px;
+    height: 75px;
+    border: 0;
+    padding: 0;
+    margin: 0;
+
+    svg {
+      pointer-events: visiblePainted;
+      fill: #fff;
+
+      .search-handle__border {
+        stroke: var(--bs-secondary-bg);
+        stroke-width: 1.35px;
+      }
+
+      .search-handle__magnify {
+        stroke: var(--bs-secondary-bg);
+        stroke-width: 2px;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .search-handle__kanji {
+        fill: red;
+        visibility: hidden;
+      }
+
+      &:hover, &:active {
+        .search-handle__kanji {
+          visibility: visible;
+        }
+      }
+    }
+
+
+  }
+
+  .search {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+
+    padding: 2rem;
+    
+    pointer-events: auto;
+
+    background: rgba(0, 0, 0, 0.7);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+
+    display: flex;
+    flex-direction: column;
+    min-height: 0;
+    gap: 2rem;
+
+    .search__results {
+      flex-grow: 1;
+      overflow-y: auto;
+    }
+  }
+
+  .search-item {
+    background-color: var(--search-item-color);
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    --font-size: 15px; // 25 for desktop
+    font-size: var(--font-size);
+
+    &.search-item--active, &:hover, &:active {
+      --color-text: var(--bs-list-group-action-hover-color);
+      color: var(--color-text);
+
+      .radical-svg {
+        --color-text: var(--bs-list-group-action-hover-color);
+      }
+    }
+
+    .radical-svg {
+      --radical-svg-height: calc(var(--font-size) * 1.1);
+      --color-text: var(--bs-list-group-color);
+    }
+
+    .search-item__level {
+      min-width: 1.5rem;
+      text-align: right;
+    }
+
+    .search-item__description {
+      flex-grow: 1;
+    }
+  }
+
+  .search-item--kanji {
+    --search-item-color: #f0a;
+
+    &.search-item--active, &:hover, &:active {
+      --search-item-color: #ff1ab2;
+    }
+  }
+  
+  .search-item--radical {
+    --search-item-color: #0af;
+
+    &.search-item--active, &:hover, &:active {
+      --search-item-color: #1ab2ff;
+    }
+  }
+  
+  .search-item--vocabulary {
+    --search-item-color: #a0f;
+
+    &.search-item--active, &:hover, &:active {
+      --search-item-color: #b31aff;
+    }
+  }
+}

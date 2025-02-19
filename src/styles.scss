@@ -79,13 +79,14 @@
   .card-header {
     background-color: #0af;
     font-size: 25px;
+    --radical-svg-height: 30px;
+  }
+}
 
-    .radical-svg {
-      --color-text: #fff;
-      svg {
-        height: 30px;
-        width: auto;
-      }
-    }
+.radical-svg {
+  --color-text: #fff;
+  svg {
+    height: var(--radical-svg-height);
+    width: auto;
   }
 }
