@@ -1,6 +1,6 @@
 import {useEffect } from 'react'
 import { Outlet, useParams } from 'react-router'
-import Search from './Search.tsx';
+import SearchOverlay from './components/SearchOverlay.tsx';
 
 function App() {
   let { id } = useParams();
@@ -17,7 +17,7 @@ function App() {
 
   return (
     <>
-      <Search />
+      <SearchOverlay />
       
       <div className="position-absolute vw-100 vh-100 top-0 start-0 z-0">
         <Outlet />

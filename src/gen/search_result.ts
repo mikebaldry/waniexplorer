@@ -7,6 +7,11 @@ export type SearchResult = {
 
   characters: SearchResultTextCharacters | SearchResultSvgCharacters,
   description: string
+  related: {
+    radical: number[],
+    kanji: number[],
+    vocabulary: number[]
+  }
 };
 
 export type SearchDocument = SearchResult & {
@@ -58,7 +63,19 @@ export const avroType = avro.Type.forSchema(
             ]
           }
         },
-        { name: "description", type: "string" }
+        { name: "description", type: "string" },
+        { 
+          name: "related", 
+          type: {
+            type: "record",
+            name: "SearchResultRelated",
+            fields: [
+              { name: "radical", type: { type: "array", "items": "int" } },
+              { name: "kanji", type: { type: "array", "items": "int" } },
+              { name: "vocabulary", type: { type: "array", "items": "int" } },
+            ]
+          }
+        },
       ]
     }
   }

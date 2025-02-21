@@ -1,0 +1,43 @@
+.container {
+  display: none;
+}
+
+@media (min-width: 576px) {
+  .container {
+    display: unset;
+  }
+}
+
+.legends {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  white-space: nowrap;
+
+  kbd {
+    background-color: var(--bs-body-color);
+    color: var(--bs-body-bg);
+  
+    border-radius: 0.25rem;
+  
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 0 1px #ccc;
+  
+    cursor: default;
+  
+    font-family: var(--bs-font-sans-serif);
+    font-size: 0.8em;
+  
+    line-height: 1;
+  
+    min-width: 0.8rem;
+    display: inline-block;
+    text-align: center;
+    padding: 2px 5px;
+    position: relative;
+    top: -1px;
+
+    margin-right: 0.5rem;
+    user-select: none;
+  }
+}

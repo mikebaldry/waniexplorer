@@ -1,26 +1,32 @@
+import uniq from "lodash-es/uniq";
 import { avroType, SearchDocument, SearchResultCharactersType, SearchResultType } from "./search_result";
-import { KanjiSubject, loadSubjects, RadicalSubject, SubjectType, VocabularySubject } from "./subjects";
+import { KanjiSubject, loadSubjects, RadicalSubject, Subject, SubjectType, VocabularySubject } from "./subjects";
 import { writeFileSync } from "fs";
 import compact from "lodash-es/compact";
 
 export default async function generate(force: boolean) {
   const subjects = await loadSubjects(force);
 
+  const subjctsById = subjects.reduce((acc, subject: Subject) => {
+    acc[subject.id] = subject; // Use the key's value as the new key
+    return acc;
+  }, {} as Record<number, Subject>);
+
   const searchResults = compact(await Promise.all(subjects.map(async (subject) => {
     switch (subject.object) {
       case SubjectType.RADICAL:
-        return await handleRadical(subject);
+        return await handleRadical(subject, subjctsById);
       case SubjectType.KANJI:
-        return await handleKanji(subject);
+        return await handleKanji(subject, subjctsById);
       case SubjectType.VOCABULARY:
-        return await handleVocabulary(subject);
+        return await handleVocabulary(subject, subjctsById);
     }
   })));
 
   writeFileSync("src/assets/search.avsc", avroType.toBuffer(searchResults));
 }
 
-async function handleRadical(subject: RadicalSubject): Promise<SearchDocument> {
+async function handleRadical(subject: RadicalSubject, subjectsById: Record<number, Subject>): Promise<SearchDocument> {
   const primaryMeaning = subject.data.meanings.find((m) => m.primary);
 
   if (!primaryMeaning) {
@@ -39,6 +45,9 @@ async function handleRadical(subject: RadicalSubject): Promise<SearchDocument> {
     characters = { type: SearchResultCharactersType.SVG, value: svgData }
   }
 
+  const relatedKanjiIds = subject.data.amalgamation_subject_ids;
+  const relatedVocabularyIds = uniq(relatedKanjiIds.flatMap((kanjiId) => (subjectsById[kanjiId] as KanjiSubject).data.amalgamation_subject_ids));
+
   return {
     id: subject.id,
     type: SearchResultType.RADICAL,
@@ -46,11 +55,16 @@ async function handleRadical(subject: RadicalSubject): Promise<SearchDocument> {
     primarySearch: [primaryMeaning.meaning],
     secondarySearch: [],
     characters: characters,
-    description: `${primaryMeaning.meaning} (found in ${subject.data.amalgamation_subject_ids.length} kanji)`,
+    description: `${primaryMeaning.meaning} (found in ${relatedKanjiIds.length} kanji)`,
+    related: {
+      radical: [],
+      kanji: relatedKanjiIds,
+      vocabulary: relatedVocabularyIds
+    }
   };
 }
 
-async function handleKanji(subject: KanjiSubject): Promise<SearchDocument> {
+async function handleKanji(subject: KanjiSubject, subjectsById: Record<number, Subject>): Promise<SearchDocument> {
   const primaryMeaning = subject.data.meanings.find((m) => m.primary);
   const primaryReading = subject.data.readings.find((r) => r.primary);
 
@@ -66,6 +80,9 @@ async function handleKanji(subject: KanjiSubject): Promise<SearchDocument> {
   otherMeanings = [...otherMeanings, ...subject.data.auxiliary_meanings.filter((am) => am.type == "whitelist").map((am) => am.meaning)];
 
   let otherReadings = subject.data.readings.filter((r) => !r.primary).map((r) => r.reading);
+
+  const relatedRadicalIds = subject.data.component_subject_ids;
+  const relatedVocabularyIds = subject.data.amalgamation_subject_ids;
 
   return {
     id: subject.id,
@@ -75,10 +92,15 @@ async function handleKanji(subject: KanjiSubject): Promise<SearchDocument> {
     secondarySearch: [...otherMeanings, ...otherReadings],
     characters: { type: SearchResultCharactersType.TEXT, value: subject.data.characters },
     description: `${primaryMeaning.meaning} (found in ${subject.data.amalgamation_subject_ids.length} vocabulary)`,
+    related: {
+      radical: relatedRadicalIds,
+      kanji: [],
+      vocabulary: relatedVocabularyIds
+    }
   };
 }
 
-async function handleVocabulary(subject: VocabularySubject): Promise<SearchDocument> {
+async function handleVocabulary(subject: VocabularySubject, subjectsById: Record<number, Subject>): Promise<SearchDocument> {
   const primaryMeaning = subject.data.meanings.find((m) => m.primary);
   const primaryReading = subject.data.readings.find((r) => r.primary);
 
@@ -95,6 +117,9 @@ async function handleVocabulary(subject: VocabularySubject): Promise<SearchDocum
 
   let otherReadings = subject.data.readings.filter((r) => !r.primary).map((r) => r.reading);
 
+  const relatedKanjiIds = subject.data.component_subject_ids;
+  const relatedRadicalIds = uniq(relatedKanjiIds.flatMap((kanjiId) => (subjectsById[kanjiId] as KanjiSubject).data.component_subject_ids));
+
   return {
     id: subject.id,
     type: SearchResultType.VOCABULARY,
@@ -103,6 +128,11 @@ async function handleVocabulary(subject: VocabularySubject): Promise<SearchDocum
     secondarySearch: [...otherMeanings, ...otherReadings],
     characters: { type: SearchResultCharactersType.TEXT, value: subject.data.characters },
     description: primaryMeaning.meaning,
+    related: {
+      radical: relatedRadicalIds,
+      kanji: relatedKanjiIds,
+      vocabulary: []
+    }
   };
 }
 

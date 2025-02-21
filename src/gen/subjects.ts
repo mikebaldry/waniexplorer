@@ -42,6 +42,7 @@ export type KanjiSubject = {
     level: number,
     characters: string,
     amalgamation_subject_ids: number[],
+    component_subject_ids: number[],
     meanings: BasicMeaning[],
     auxiliary_meanings: AuxilaryMeaning[],
     readings: Reading[]
@@ -61,7 +62,8 @@ export type VocabularySubject = {
     characters: string,
     meanings: BasicMeaning[],
     auxiliary_meanings: AuxilaryMeaning[],
-    readings: Reading[]
+    readings: Reading[],
+    component_subject_ids: number[]
   }
 }
 

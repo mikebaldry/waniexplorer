@@ -1,0 +1,70 @@
+
+.button {
+  --bs-list-group-action-hover-bg: var(--search-item-color);
+  background-color: var(--search-item-color);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  --font-size: 15px; // 25 for desktop
+  font-size: var(--font-size);
+
+  &.selected, &:active {
+    color: var(--bs-list-group-action-hover-color);
+    filter: brightness(125%);
+  }
+}
+
+.kanji {
+  --search-item-color: #f0a;
+}
+
+.radical {
+  --search-item-color: #0af;
+}
+
+.vocabulary {
+  --search-item-color: #a0f;
+}
+
+//   &.search-item--active, &:active {
+//     --color-text: var(--bs-list-group-action-hover-color);
+//     color: var(--color-text);
+//     filter: brightness(125%);
+
+//     .radical-svg {
+//       --color-text: var(--bs-list-group-action-hover-color);
+//     }
+//   }
+
+// .search-item {
+//   background-color: var(--search-item-color);
+//   display: flex;
+//   align-items: center;
+//   gap: 0.5rem;
+//   --font-size: 15px; // 25 for desktop
+//   font-size: var(--font-size);
+
+//   &.search-item--active, &:active {
+//     --color-text: var(--bs-list-group-action-hover-color);
+//     color: var(--color-text);
+//     filter: brightness(125%);
+
+//     .radical-svg {
+//       --color-text: var(--bs-list-group-action-hover-color);
+//     }
+//   }
+
+//   .radical-svg {
+//     --radical-svg-height: calc(var(--font-size) * 1.1);
+//     --color-text: var(--bs-list-group-color);
+//   }
+
+//   .search-item__level {
+//     min-width: 1.5rem;
+//     text-align: right;
+//   }
+
+//   .search-item__description {
+//     flex-grow: 1;
+//   }
+// }

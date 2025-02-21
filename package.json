@@ -15,6 +15,7 @@
     "@xyflow/react": "^12.4.1",
     "bootstrap": "^5.3.3",
     "buffer": "^6.0.3",
+    "clsx": "^2.1.1",
     "html-react-parser": "^5.2.2",
     "lodash-es": "^4.17.21",
     "minisearch": "^7.1.1",

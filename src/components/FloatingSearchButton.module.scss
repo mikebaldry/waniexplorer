@@ -1,0 +1,38 @@
+.button {
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+  width: 75px;
+  height: 75px;
+  border: 0;
+  padding: 0;
+  margin: 0;
+
+  svg {
+    pointer-events: visiblePainted;
+    fill: #fff;
+
+    &:hover, &:active {
+      .kanji {
+        visibility: visible;
+      }
+    }
+  }
+}
+
+.kanji {
+  fill: red;
+  visibility: hidden;
+}
+
+.border {
+  stroke: var(--bs-secondary-bg);
+  stroke-width: 1.35px;
+}
+
+.magnify {
+  stroke: var(--bs-secondary-bg);
+  stroke-width: 2px;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
