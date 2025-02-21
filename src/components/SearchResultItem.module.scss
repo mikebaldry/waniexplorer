@@ -26,6 +26,40 @@
   --search-item-color: #a0f;
 }
 
+.characters {
+  font-size: 1.2rem;
+  word-break: keep-all;
+}
+
+.information {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  text-align: left;
+}
+
+.description {
+  font-weight: bold;
+}
+
+.radicalSvg {
+  svg {
+    width: auto;
+    height: 1.2rem;
+    --color-text: var(--bs-list-group-color);
+  }
+}
+
+@media (min-width: 576px) {
+  .characters {
+    font-size: 2rem;
+  }
+
+  .radicalSvg svg {
+    height: 2rem;
+  }
+}
+
 //   &.search-item--active, &:active {
 //     --color-text: var(--bs-list-group-action-hover-color);
 //     color: var(--color-text);

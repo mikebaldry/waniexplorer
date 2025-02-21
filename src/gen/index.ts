@@ -55,7 +55,7 @@ async function handleRadical(subject: RadicalSubject, subjectsById: Record<numbe
     primarySearch: [primaryMeaning.meaning],
     secondarySearch: [],
     characters: characters,
-    description: `${primaryMeaning.meaning} (found in ${relatedKanjiIds.length} kanji)`,
+    description: primaryMeaning.meaning,
     related: {
       radical: [],
       kanji: relatedKanjiIds,
@@ -91,7 +91,7 @@ async function handleKanji(subject: KanjiSubject, subjectsById: Record<number, S
     primarySearch: [primaryMeaning.meaning, primaryReading.reading, subject.data.characters],
     secondarySearch: [...otherMeanings, ...otherReadings],
     characters: { type: SearchResultCharactersType.TEXT, value: subject.data.characters },
-    description: `${primaryMeaning.meaning} (found in ${subject.data.amalgamation_subject_ids.length} vocabulary)`,
+    description: primaryMeaning.meaning,
     related: {
       radical: relatedRadicalIds,
       kanji: [],

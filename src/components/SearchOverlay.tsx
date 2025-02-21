@@ -1,4 +1,4 @@
-import { ChangeEventHandler, KeyboardEventHandler, MouseEventHandler, useCallback, useRef, useState } from 'react'
+import { ChangeEventHandler, KeyboardEventHandler, MouseEventHandler, RefObject, useCallback, useRef, useState } from 'react'
 import { useNavigate } from 'react-router'
 import { useKey } from 'react-use';
 
@@ -22,9 +22,7 @@ function SearchOverlay() {
   const handleOpen = useCallback(() => {
     if (!open) {
       setOpen(true);
-      if (searchRef.current) {
-        searchRef.current.focus();
-      }
+      searchRef.current?.focus();
     }
   }, [open, setOpen, searchRef]);
 
@@ -53,6 +51,8 @@ function SearchOverlay() {
   const handleClickBackdrop : MouseEventHandler = useCallback((e) => {
     if (e.currentTarget === e.target) {
       handleClose();
+    } else {
+      searchRef.current?.focus();
     }
   }, [handleClose]);
 
