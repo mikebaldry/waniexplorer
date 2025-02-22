@@ -1,0 +1,43 @@
+{
+  "id": 5621,
+  "type": "vocabulary",
+  "characters": "雑誌",
+  "primaryMeaning": "Magazine",
+  "otherMeanings": [],
+  "primaryReading": "ざっし",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1494,
+      "character": "雑",
+      "readings": [
+        "ざつ",
+        "ぞう"
+      ]
+    },
+    {
+      "id": 1515,
+      "character": "誌",
+      "readings": [
+        "し"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Random</kanji> <kanji>magazine</kanji> is pretty much all magazines. Just a bunch of random stuff inside, making it a <vocabulary>magazine</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9B%91%E8%AA%8C",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "雑",
+      "id": 1494,
+      "reading": null
+    },
+    {
+      "type": "kanji",
+      "value": "誌",
+      "id": 1515,
+      "reading": null
+    }
+  ]
+}

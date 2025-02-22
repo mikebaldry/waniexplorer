@@ -1,0 +1,46 @@
+{
+  "id": 4802,
+  "type": "vocabulary",
+  "characters": "新鮮",
+  "primaryMeaning": "Fresh",
+  "otherMeanings": [],
+  "primaryReading": "しんせん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 857,
+      "character": "新",
+      "readings": [
+        "しん",
+        "あたら",
+        "あら",
+        "にい"
+      ]
+    },
+    {
+      "id": 1266,
+      "character": "鮮",
+      "readings": [
+        "せん",
+        "あざ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>New</kanji> and <kanji>fresh</kanji> is <vocabulary>fresh</vocabulary> (has to be new if you want it to be fresh, after all).\n\nThis word is used to describe fresh vegetables, fish, air, and new ideas or experiences, but is not commonly used to describe freshly made food or drinks. This is because the word emphasizes the inherent freshness of the thing being described, rather than its recent production.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%96%B0%E9%AE%AE",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "新",
+      "id": 857,
+      "reading": "しん"
+    },
+    {
+      "type": "kanji",
+      "value": "鮮",
+      "id": 1266,
+      "reading": "せん"
+    }
+  ]
+}

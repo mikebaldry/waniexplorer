@@ -1,0 +1,47 @@
+{
+  "id": 6741,
+  "type": "vocabulary",
+  "characters": "滅亡",
+  "primaryMeaning": "Downfall",
+  "otherMeanings": [
+    "Ruin",
+    "Destruction"
+  ],
+  "primaryReading": "めつぼう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1868,
+      "character": "滅",
+      "readings": [
+        "めつ",
+        "ほろ"
+      ]
+    },
+    {
+      "id": 851,
+      "character": "亡",
+      "readings": [
+        "ぼう",
+        "な"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Destroy</kanji> to <kanji>death</kanji>. If you are destroyed to this point, this will be your <vocabulary>downfall</vocabulary> and <vocabulary>ruin</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%BB%85%E4%BA%A1",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "滅",
+      "id": 1868,
+      "reading": "めつ"
+    },
+    {
+      "type": "kanji",
+      "value": "亡",
+      "id": 851,
+      "reading": "ぼう"
+    }
+  ]
+}

@@ -1,33 +1,41 @@
 {
   "id": 2127,
   "type": "kanji",
-  "character": "燥",
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "燥"
+  },
+  "primaryReading": "そう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "そう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "はしゃ",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Dry Up",
   "otherMeanings": [
     "Parch"
   ],
-  "primaryReading": "そう",
-  "readings": [
-    {
-      "reading": "そう",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "はしゃ",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "If you <kanji>dry up</kanji> syrup like this, you're removing its <reading>sou</reading>l (そう). Have you ever seen dry syrup before? No soul in that. In fact, you probably have no soul if you can dry out syrup like this without feeling bad about it.",
   "meaningMnemonic": "There's a <radical>fire</radical> next to which you left some <radical>syrup</radical>, and it has all <kanji>dried up</kanji>! Put any liquid substance near fire and it will dry up actually, but syrup especially. It goes from being sticky and gooey and yummy to a pile of hard, dry sugar. Not so yummy.",
-  "vocabularyIds": [
-    7809,
-    7810
-  ],
-  "radicalIds": [
-    46,
-    8830
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%87%A5"
+  "readingMnemonic": "If you <kanji>dry up</kanji> syrup like this, you're removing its <reading>sou</reading>l (そう). Have you ever seen dry syrup before? No soul in that. In fact, you probably have no soul if you can dry out syrup like this without feeling bad about it.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%87%A5"
+  },
+  "related": {
+    "radicals": [
+      46,
+      8830
+    ],
+    "vocabularies": [
+      7809,
+      7810
+    ]
+  }
 }

@@ -1,33 +1,41 @@
 {
   "id": 1042,
   "type": "kanji",
-  "character": "忘",
-  "primaryMeaning": "Forget",
-  "otherMeanings": [],
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "忘"
+  },
   "primaryReading": "ぼう",
   "readings": [
     {
-      "reading": "ぼう",
       "primary": true,
+      "reading": "ぼう",
       "type": "onyomi"
     },
     {
-      "reading": "わす",
       "primary": false,
+      "reading": "わす",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "When someone <kanji>forget</kanji>s everything they're left with only one thing to do: go <reading>bow</reading>ling (ぼう). Bowling is easy, and there's nothing to forget. You pick up a ball. You drop it. Everything else is automatically taken care of.",
+  "primaryMeaning": "Forget",
+  "otherMeanings": [],
   "meaningMnemonic": "The <radical>death</radical> of your <radical>heart</radical> will cause you to <kanji>forget</kanji> all of the most important things. People think memories are kept in your brain, but that's not true. Your heart is where all of your most precious memories are kept, and when it dies, you forget them all.",
-  "vocabularyIds": [
-    4102,
-    4103,
-    4294,
-    5007
-  ],
-  "radicalIds": [
-    212,
-    65
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%BF%98"
+  "readingMnemonic": "When someone <kanji>forget</kanji>s everything they're left with only one thing to do: go <reading>bow</reading>ling (ぼう). Bowling is easy, and there's nothing to forget. You pick up a ball. You drop it. Everything else is automatically taken care of.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%BF%98"
+  },
+  "related": {
+    "radicals": [
+      212,
+      65
+    ],
+    "vocabularies": [
+      4102,
+      4103,
+      4294,
+      5007
+    ]
+  }
 }

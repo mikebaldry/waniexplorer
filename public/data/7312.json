@@ -1,46 +1,20 @@
 {
   "id": 7312,
   "type": "vocabulary",
-  "characters": "雑煮",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "雑煮"
+  },
   "primaryMeaning": "New Year's Dish",
+  "meaningMnemonic": "A <kanji>random</kanji> <kanji>boil</kanji> isn't all that random. It's specifically the <vocabulary>new year's dish</vocabulary> or <vocabulary>mochi soup</vocabulary>, eaten on new years. Old people and children tend to die every year from this (choking on the mochi), so be  careful if you eat it! Maybe the reason it's called \"random boil\" is because someone decided to boil a bunch of random things (like mochi) and then it became a new years dish later on. Who knows. That information isn't even known by the ancients.",
+  "primaryReading": "ぞうに",
+  "readingMnemonic": "You learned the reading for 煮 on the kanji page, but the reading for 雑 is an exceptional one. You did learn this reading with 雑巾, though. Just imagine yourself with a dust cloth in your new year's dish.",
   "otherMeanings": [
     "Mochi Soup"
   ],
-  "primaryReading": "ぞうに",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1494,
-      "character": "雑",
-      "readings": [
-        "ざつ",
-        "ぞう"
-      ]
-    },
-    {
-      "id": 2067,
-      "character": "煮",
-      "readings": [
-        "に",
-        "しゃ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>random</kanji> <kanji>boil</kanji> isn't all that random. It's specifically the <vocabulary>new year's dish</vocabulary> or <vocabulary>mochi soup</vocabulary>, eaten on new years. Old people and children tend to die every year from this (choking on the mochi), so be  careful if you eat it! Maybe the reason it's called \"random boil\" is because someone decided to boil a bunch of random things (like mochi) and then it became a new years dish later on. Who knows. That information isn't even known by the ancients.",
-  "readingMnemonic": "You learned the reading for 煮 on the kanji page, but the reading for 雑 is an exceptional one. You did learn this reading with 雑巾, though. Just imagine yourself with a dust cloth in your new year's dish.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9B%91%E7%85%AE",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "雑",
-      "id": 1494,
-      "reading": "ぞう"
-    },
-    {
-      "type": "kanji",
-      "value": "煮",
-      "id": 2067,
-      "reading": "に"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%9B%91%E7%85%AE"
+  }
 }

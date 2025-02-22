@@ -1,0 +1,47 @@
+{
+  "id": 4463,
+  "type": "vocabulary",
+  "characters": "無税",
+  "primaryMeaning": "Tax Free",
+  "otherMeanings": [
+    "No Tax",
+    "Duty Free"
+  ],
+  "primaryReading": "むぜい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1008,
+      "character": "無",
+      "readings": [
+        "む",
+        "ぶ",
+        "な"
+      ]
+    },
+    {
+      "id": 1149,
+      "character": "税",
+      "readings": [
+        "ぜい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When the <kanji>tax</kanji> is <kanji>nothing</kanji> things are <vocabulary>tax free</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%84%A1%E7%A8%8E",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "無",
+      "id": 1008,
+      "reading": "む"
+    },
+    {
+      "type": "kanji",
+      "value": "税",
+      "id": 1149,
+      "reading": "ぜい"
+    }
+  ]
+}

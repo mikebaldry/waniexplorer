@@ -1,0 +1,44 @@
+{
+  "id": 4233,
+  "type": "vocabulary",
+  "characters": "名詞",
+  "primaryMeaning": "Noun",
+  "otherMeanings": [],
+  "primaryReading": "めいし",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 544,
+      "character": "名",
+      "readings": [
+        "めい",
+        "みょう",
+        "な"
+      ]
+    },
+    {
+      "id": 1066,
+      "character": "詞",
+      "readings": [
+        "し"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>name</kanji> <kanji>part of speech</kanji> is when you are naming something. What part of speech has names in it? That would be the <vocabulary>noun</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%90%8D%E8%A9%9E",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "名",
+      "id": 544,
+      "reading": "めい"
+    },
+    {
+      "type": "kanji",
+      "value": "詞",
+      "id": 1066,
+      "reading": "し"
+    }
+  ]
+}

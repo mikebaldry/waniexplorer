@@ -1,32 +1,40 @@
 {
   "id": 1776,
   "type": "kanji",
-  "character": "徹",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "徹"
+  },
+  "primaryReading": "てつ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "てつ",
+      "type": "onyomi"
+    }
+  ],
   "primaryMeaning": "Penetrate",
   "otherMeanings": [
     "Clear"
   ],
-  "primaryReading": "てつ",
-  "readings": [
-    {
-      "reading": "てつ",
-      "primary": true,
-      "type": "onyomi"
-    }
-  ],
-  "readingMnemonic": "You want the light to <kanji>penetrate</kanji> you, so you put your face in the way of the beam and it shoots <kanji>clear</kanji> through you. Your mouth fills with the taste of <reading>鉄</reading> (てつ).",
   "meaningMnemonic": "You decide to <radical>loiter</radical> next to the <radical>trash</radical> under the <radical>moon</radical> in <radical>winter</radical> so the moon's light will <kanji>penetrate</kanji> you. The sky is <kanji>clear</kanji>est in winter, and this spot next to the trash happens to get the most of it.",
-  "vocabularyIds": [
-    6476,
-    6477,
-    6478,
-    7929
-  ],
-  "radicalIds": [
-    99,
-    8776,
-    43,
-    60
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%BE%B9"
+  "readingMnemonic": "You want the light to <kanji>penetrate</kanji> you, so you put your face in the way of the beam and it shoots <kanji>clear</kanji> through you. Your mouth fills with the taste of <reading>鉄</reading> (てつ).",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%BE%B9"
+  },
+  "related": {
+    "radicals": [
+      99,
+      8776,
+      43,
+      60
+    ],
+    "vocabularies": [
+      6476,
+      6477,
+      6478,
+      7929
+    ]
+  }
 }

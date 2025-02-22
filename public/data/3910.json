@@ -1,59 +1,18 @@
 {
   "id": 3910,
   "type": "vocabulary",
-  "characters": "自動的",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "自動的"
+  },
   "primaryMeaning": "Automatic",
-  "otherMeanings": [],
-  "primaryReading": "じどうてき",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 578,
-      "character": "自",
-      "readings": [
-        "じ",
-        "し",
-        "みずか"
-      ]
-    },
-    {
-      "id": 827,
-      "character": "動",
-      "readings": [
-        "どう",
-        "うご"
-      ]
-    },
-    {
-      "id": 914,
-      "character": "的",
-      "readings": [
-        "てき",
-        "まと"
-      ]
-    }
-  ],
   "meaningMnemonic": "An <kanji>automatic</kanji><kanji>al</kanji> (自動 + 的) thing of course isn't \"automatical.\" A better way to say it is to cut off the -al and call it <vocabulary>automatic</vocabulary>.",
+  "primaryReading": "じどうてき",
   "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. It will help to know the reading of 自動 as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%87%AA%E5%8B%95%E7%9A%84",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "自",
-      "id": 578,
-      "reading": "じ"
-    },
-    {
-      "type": "kanji",
-      "value": "動",
-      "id": 827,
-      "reading": "どう"
-    },
-    {
-      "type": "kanji",
-      "value": "的",
-      "id": 914,
-      "reading": "てき"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%87%AA%E5%8B%95%E7%9A%84"
+  }
 }

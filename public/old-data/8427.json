@@ -1,0 +1,45 @@
+{
+  "id": 8427,
+  "type": "vocabulary",
+  "characters": "検閲",
+  "primaryMeaning": "Censor",
+  "otherMeanings": [
+    "Inspect"
+  ],
+  "primaryReading": "けんえつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1143,
+      "character": "検",
+      "readings": [
+        "けん"
+      ]
+    },
+    {
+      "id": 2348,
+      "character": "閲",
+      "readings": [
+        "えつ",
+        "けみ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you <kanji>examine</kanji> something too closely during your <kanji>inspection</kanji> you'll probably find a flaw and want to <vocabulary>censor</vocabulary> it. Put little black bars over all the flaws you find as you stare.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%A4%9C%E9%96%B2",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "検",
+      "id": 1143,
+      "reading": "けん"
+    },
+    {
+      "type": "kanji",
+      "value": "閲",
+      "id": 2348,
+      "reading": "えつ"
+    }
+  ]
+}

@@ -1,45 +1,53 @@
 {
   "id": 1698,
   "type": "kanji",
-  "character": "称",
-  "primaryMeaning": "Title",
-  "otherMeanings": [],
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "称"
+  },
   "primaryReading": "しょう",
   "readings": [
     {
-      "reading": "しょう",
       "primary": true,
+      "reading": "しょう",
       "type": "onyomi"
     },
     {
+      "primary": false,
       "reading": "とな",
-      "primary": false,
       "type": "kunyomi"
     },
     {
+      "primary": false,
       "reading": "たた",
-      "primary": false,
       "type": "kunyomi"
     },
     {
-      "reading": "ほめ",
       "primary": false,
+      "reading": "ほめ",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "Word of your SAD <kanji>title</kanji> makes it all the way to the <reading>Shou</reading>gun (しょう) and he travels out to see you. When he arrives at your door, with all of his fancy escorts, he hands you a plaque with your title on it.",
+  "primaryMeaning": "Title",
+  "otherMeanings": [],
   "meaningMnemonic": "You take a <radical>grain</radical> and fashion it into a <radical>gun</radical> that is <radical>small</radical>, earning you the <kanji>title</kanji> of Small Arms Dealer (or SAD). Congratulations!",
-  "vocabularyIds": [
-    6207,
-    6208,
-    6209,
-    6350,
-    7067
-  ],
-  "radicalIds": [
-    135,
-    8762,
-    35
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%A7%B0"
+  "readingMnemonic": "Word of your SAD <kanji>title</kanji> makes it all the way to the <reading>Shou</reading>gun (しょう) and he travels out to see you. When he arrives at your door, with all of his fancy escorts, he hands you a plaque with your title on it.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%A7%B0"
+  },
+  "related": {
+    "radicals": [
+      135,
+      8762,
+      35
+    ],
+    "vocabularies": [
+      6207,
+      6208,
+      6209,
+      6350,
+      7067
+    ]
+  }
 }

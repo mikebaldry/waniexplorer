@@ -1,49 +1,22 @@
 {
   "id": 7605,
   "type": "vocabulary",
-  "characters": "幾度",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "幾度"
+  },
   "primaryMeaning": "How Many Times",
+  "meaningMnemonic": "<kanji>How many</kanji> <kanji>occurence</kanji>s is just another way of asking <vocabulary>how many times</vocabulary>.\n\nThis word is more literary and formal than 何回 or 何度.",
+  "primaryReading": "いくど",
+  "readingMnemonic": "The reading is a combination of kun'yomi and on'yomi readings. That being said, both readings for both kanji are the readings you learned with the kanji so you should be able to read this.",
   "otherMeanings": [
     "How Often"
   ],
-  "primaryReading": "いくど",
   "otherReadings": [
     "いくたび"
   ],
-  "kanji": [
-    {
-      "id": 1453,
-      "character": "幾",
-      "readings": [
-        "いく",
-        "き"
-      ]
-    },
-    {
-      "id": 725,
-      "character": "度",
-      "readings": [
-        "ど",
-        "たく",
-        "たび"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>How many</kanji> <kanji>occurence</kanji>s is just another way of asking <vocabulary>how many times</vocabulary>.\n\nThis word is more literary and formal than 何回 or 何度.",
-  "readingMnemonic": "The reading is a combination of kun'yomi and on'yomi readings. That being said, both readings for both kanji are the readings you learned with the kanji so you should be able to read this.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B9%BE%E5%BA%A6",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "幾",
-      "id": 1453,
-      "reading": "いく"
-    },
-    {
-      "type": "kanji",
-      "value": "度",
-      "id": 725,
-      "reading": "ど"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%B9%BE%E5%BA%A6"
+  }
 }

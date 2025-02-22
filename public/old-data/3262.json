@@ -1,0 +1,40 @@
+{
+  "id": 3262,
+  "type": "vocabulary",
+  "characters": "別の",
+  "primaryMeaning": "Separate",
+  "otherMeanings": [
+    "Different",
+    "Another",
+    "Separate Thing",
+    "Different Thing",
+    "Another Thing"
+  ],
+  "primaryReading": "べつの",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 785,
+      "character": "別",
+      "readings": [
+        "べつ",
+        "わか"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The の is there to indicate that it is the difference of something. For example this is like saying \"the <vocabulary>separate</vocabulary> ______\" or \"the <vocabulary>different</vocabulary> _____\" or \"<vocabulary>another</vocabulary> ______\". 別 by itself just means separate, different, or another.",
+  "readingMnemonic": "The reading is the same as the one you learned. Move on to a 別の漢字, ok?",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%88%A5%E3%81%AE",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "別",
+      "id": 785,
+      "reading": "べつ"
+    },
+    {
+      "type": "kana",
+      "value": "の"
+    }
+  ]
+}

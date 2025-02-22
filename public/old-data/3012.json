@@ -1,0 +1,43 @@
+{
+  "id": 3012,
+  "type": "vocabulary",
+  "characters": "支局",
+  "primaryMeaning": "Branch Office",
+  "otherMeanings": [],
+  "primaryReading": "しきょく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 678,
+      "character": "支",
+      "readings": [
+        "し",
+        "ささ"
+      ]
+    },
+    {
+      "id": 684,
+      "character": "局",
+      "readings": [
+        "きょく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>support</kanji> <kanji>bureau</kanji> is the group that supports a business. It is the <vocabulary>branch office</vocabulary>. \n\nIf it helps, this word has the same meaning as <vocabulary>支店</vocabulary> which you will also be learning in this level.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%94%AF%E5%B1%80",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "支",
+      "id": 678,
+      "reading": "し"
+    },
+    {
+      "type": "kanji",
+      "value": "局",
+      "id": 684,
+      "reading": "きょく"
+    }
+  ]
+}

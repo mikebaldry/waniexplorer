@@ -1,0 +1,34 @@
+{
+  "id": 1376,
+  "type": "kanji",
+  "character": "浜",
+  "primaryMeaning": "Beach",
+  "otherMeanings": [],
+  "primaryReading": "はま",
+  "readings": [
+    {
+      "reading": "はま",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "ひん",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Walking down the <kanji>beach</kanji> a bit more, you also find a <reading>hammer</reading> (はま). Gosh, looks like the tsunami hit a workshop or a hardware store or something. First the axe, now a hammer.",
+  "meaningMnemonic": "After a <radical>tsunami</radical>, you find an <radical>axe</radical> on the <radical>ground</radical> next to some <radical>fins</radical> on the <kanji>beach</kanji>. The tsunami was pretty violent, and it looks like this axe got blown into some fish and cut off their fins and now those things are just on the ground by the beach.",
+  "vocabularyIds": [
+    5167,
+    5168,
+    8683
+  ],
+  "radicalIds": [
+    103,
+    115,
+    1,
+    2
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%B5%9C"
+}

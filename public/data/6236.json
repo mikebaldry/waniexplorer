@@ -1,52 +1,22 @@
 {
   "id": 6236,
   "type": "vocabulary",
-  "characters": "縄張り",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "縄張り"
+  },
   "primaryMeaning": "Rope Off",
+  "meaningMnemonic": "Take your <kanji>rope</kanji> and <kanji>stretch</kanji> it out to show where the cutoff is. This is when you <vocabulary>rope off</vocabulary> something. It shows your <vocabulary>territory</vocabulary> and <vocabulary>turf</vocabulary>. Don't cross this rope I've stretched out, it's my <vocabulary>domain</vocabulary>.",
+  "primaryReading": "なわばり",
+  "readingMnemonic": "The reading is 縄 and 張る put together into one word.",
   "otherMeanings": [
     "Turf",
     "Territory",
     "Domain"
   ],
-  "primaryReading": "なわばり",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1628,
-      "character": "縄",
-      "readings": [
-        "じょう",
-        "なわ"
-      ]
-    },
-    {
-      "id": 1205,
-      "character": "張",
-      "readings": [
-        "ちょう",
-        "は"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Take your <kanji>rope</kanji> and <kanji>stretch</kanji> it out to show where the cutoff is. This is when you <vocabulary>rope off</vocabulary> something. It shows your <vocabulary>territory</vocabulary> and <vocabulary>turf</vocabulary>. Don't cross this rope I've stretched out, it's my <vocabulary>domain</vocabulary>.",
-  "readingMnemonic": "The reading is 縄 and 張る put together into one word.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B8%84%E5%BC%B5%E3%82%8A",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "縄",
-      "id": 1628,
-      "reading": "なわ"
-    },
-    {
-      "type": "kanji",
-      "value": "張",
-      "id": 1205,
-      "reading": "ば"
-    },
-    {
-      "type": "kana",
-      "value": "り"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%B8%84%E5%BC%B5%E3%82%8A"
+  }
 }

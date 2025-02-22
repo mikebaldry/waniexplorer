@@ -1,37 +1,45 @@
 {
   "id": 1450,
   "type": "kanji",
-  "character": "鑑",
-  "primaryMeaning": "Model",
-  "otherMeanings": [],
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "鑑"
+  },
   "primaryReading": "かん",
   "readings": [
     {
-      "reading": "かん",
       "primary": true,
+      "reading": "かん",
       "type": "onyomi"
     },
     {
-      "reading": "かんが",
       "primary": false,
+      "reading": "かんが",
       "type": "kunyomi"
     },
     {
-      "reading": "かがみ",
       "primary": false,
+      "reading": "かがみ",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "As the <kanji>model</kanji> nears completion, you realize it's taking the shape of Genghis <reading>Khan</reading> (かん). Was that what this was supposed to look like? You were so busy overseeing the gold in your pocket, you forgot!",
+  "primaryMeaning": "Model",
+  "otherMeanings": [],
   "meaningMnemonic": "You are given some <radical>gold</radical> to <radical>oversee</radical> a <kanji>model</kanji>. You are a famous architect, so you get a lot of gold for overseeing the construction of models like this one.",
-  "vocabularyIds": [
-    5413,
-    5432,
-    9059
-  ],
-  "radicalIds": [
-    118,
-    328
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%91%91"
+  "readingMnemonic": "As the <kanji>model</kanji> nears completion, you realize it's taking the shape of Genghis <reading>Khan</reading> (かん). Was that what this was supposed to look like? You were so busy overseeing the gold in your pocket, you forgot!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%91%91"
+  },
+  "related": {
+    "radicals": [
+      118,
+      328
+    ],
+    "vocabularies": [
+      5413,
+      5432,
+      9059
+    ]
+  }
 }

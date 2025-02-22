@@ -1,0 +1,39 @@
+{
+  "id": 9088,
+  "type": "vocabulary",
+  "characters": "その他",
+  "primaryMeaning": "The Others",
+  "otherMeanings": [
+    "Other",
+    "Other Than That"
+  ],
+  "primaryReading": "そのほか",
+  "otherReadings": [
+    "そのた"
+  ],
+  "kanji": [
+    {
+      "id": 529,
+      "character": "他",
+      "readings": [
+        "た",
+        "ほか"
+      ]
+    }
+  ],
+  "meaningMnemonic": "その means \"that\" or \"the\", and その plus <kanji>other</kanji> means things like <vocabulary>the others</vocabulary>, <vocabulary>other</vocabulary>, and <vocabulary>other than that</vocabulary>, depending on the context. ",
+  "readingMnemonic": "This has two readings, but luckily you learned one of them when you learned the kanji, and the other one when you learned the word 他. The two readings are usually interchangeable, too.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E3%81%9D%E3%81%AE%E4%BB%96",
+  "elements": [
+    {
+      "type": "kana",
+      "value": "その"
+    },
+    {
+      "type": "kanji",
+      "value": "他",
+      "id": 529,
+      "reading": "ほか"
+    }
+  ]
+}

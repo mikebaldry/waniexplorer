@@ -1,36 +1,20 @@
 {
   "id": 4298,
   "type": "vocabulary",
-  "characters": "災い",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "災い"
+  },
   "primaryMeaning": "Disaster",
+  "meaningMnemonic": "This is the noun form of <kanji>disaster</kanji>, so it means <vocabulary>disaster</vocabulary> or <vocabulary>misfortune</vocabulary>.",
+  "primaryReading": "わざわい",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nThink about how, the last time <vocabulary>disaster</vocabulary> struck, it <reading>was a wh</reading>ile (わざわ) before things got back to normal.\n\nBe careful of the い on the end, it can be tricky and make you think it's an adjective when it's a noun.",
   "otherMeanings": [
     "Misfortune"
   ],
-  "primaryReading": "わざわい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1089,
-      "character": "災",
-      "readings": [
-        "さい",
-        "わざわ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This is the noun form of <kanji>disaster</kanji>, so it means <vocabulary>disaster</vocabulary> or <vocabulary>misfortune</vocabulary>.",
-  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nThink about how, the last time <vocabulary>disaster</vocabulary> struck, it <reading>was a wh</reading>ile (わざわ) before things got back to normal.\n\nBe careful of the い on the end, it can be tricky and make you think it's an adjective when it's a noun.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%81%BD%E3%81%84",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "災",
-      "id": 1089,
-      "reading": "わざわ"
-    },
-    {
-      "type": "kana",
-      "value": "い"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%81%BD%E3%81%84"
+  }
 }

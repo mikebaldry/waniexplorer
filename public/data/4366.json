@@ -1,45 +1,20 @@
 {
   "id": 4366,
   "type": "vocabulary",
-  "characters": "静々",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "静々"
+  },
   "primaryMeaning": "Quietly",
+  "meaningMnemonic": "<kanji>Quiet</kanji> <kanji>quiet</kanji>! Do it <vocabulary>quietly</vocabulary>, please.",
+  "primaryReading": "しずしず",
+  "readingMnemonic": "You know how 静か is しずか? Well, this is the same reading as that. Say it in a whisper with me: \"<reading>しずしず</reading>.\" Shhh!",
   "otherMeanings": [
     "Calmly"
   ],
-  "primaryReading": "しずしず",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1052,
-      "character": "静",
-      "readings": [
-        "せい",
-        "しず"
-      ]
-    },
-    {
-      "id": 856,
-      "character": "々",
-      "readings": [
-        "のま"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Quiet</kanji> <kanji>quiet</kanji>! Do it <vocabulary>quietly</vocabulary>, please.",
-  "readingMnemonic": "You know how 静か is しずか? Well, this is the same reading as that. Say it in a whisper with me: \"<reading>しずしず</reading>.\" Shhh!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9D%99%E3%80%85",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "静",
-      "id": 1052,
-      "reading": "しず"
-    },
-    {
-      "type": "kanji",
-      "value": "々",
-      "id": 1052,
-      "reading": "しず"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%9D%99%E3%80%85"
+  }
 }

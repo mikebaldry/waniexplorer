@@ -1,48 +1,20 @@
 {
   "id": 8746,
   "type": "vocabulary",
-  "characters": "指先",
+  "level": 13,
+  "characters": {
+    "type": "text",
+    "value": "指先"
+  },
   "primaryMeaning": "Fingertip",
+  "meaningMnemonic": "You know that <kanji>previous</kanji> part of your <kanji>finger</kanji>? The part I just chopped off? Well that was your <vocabulary>fingertip</vocabulary>! I only had time to get the tip. It used to be on your finger and now it's right here, in my hand. Sorry, I guess. Oh, but don't worry, I'll even things out and get the tip of your toe real quick too.",
+  "primaryReading": "ゆびさき",
+  "readingMnemonic": "This word uses the kun'yomi readings from both kanji, probably because it includes body parts. You know them both already, so now you know this too!",
   "otherMeanings": [
     "Tip Of The Toe"
   ],
-  "primaryReading": "ゆびさき",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 797,
-      "character": "指",
-      "readings": [
-        "し",
-        "ゆび",
-        "さ"
-      ]
-    },
-    {
-      "id": 543,
-      "character": "先",
-      "readings": [
-        "せん",
-        "さき",
-        "ま"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You know that <kanji>previous</kanji> part of your <kanji>finger</kanji>? The part I just chopped off? Well that was your <vocabulary>fingertip</vocabulary>! I only had time to get the tip. It used to be on your finger and now it's right here, in my hand. Sorry, I guess. Oh, but don't worry, I'll even things out and get the tip of your toe real quick too.",
-  "readingMnemonic": "This word uses the kun'yomi readings from both kanji, probably because it includes body parts. You know them both already, so now you know this too!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8C%87%E5%85%88",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "指",
-      "id": 797,
-      "reading": "ゆび"
-    },
-    {
-      "type": "kanji",
-      "value": "先",
-      "id": 543,
-      "reading": "さき"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%8C%87%E5%85%88"
+  }
 }

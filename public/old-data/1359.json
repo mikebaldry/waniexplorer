@@ -1,0 +1,30 @@
+{
+  "id": 1359,
+  "type": "kanji",
+  "character": "隊",
+  "primaryMeaning": "Squad",
+  "otherMeanings": [],
+  "primaryReading": "たい",
+  "readings": [
+    {
+      "reading": "たい",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Our <kanji>squad</kanji> also wears special <reading>tie</reading>s (たい) with our horned pig on it. And we don't care if you think that's lame, because we're A FAMILY.",
+  "meaningMnemonic": "This <radical>building</radical> has a <radical>pig</radical> with <radical>horns</radical> on it because it's our <kanji>squad</kanji>'s place.",
+  "vocabularyIds": [
+    5209,
+    5210,
+    5211,
+    5212,
+    6510
+  ],
+  "radicalIds": [
+    176,
+    8767,
+    233
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%9A%8A"
+}

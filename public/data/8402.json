@@ -1,31 +1,20 @@
 {
   "id": 8402,
   "type": "vocabulary",
-  "characters": "膜",
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "膜"
+  },
   "primaryMeaning": "Membrane",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "まく",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
   "otherMeanings": [
     "Film"
   ],
-  "primaryReading": "まく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2351,
-      "character": "膜",
-      "readings": [
-        "まく"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
-  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%86%9C",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "膜",
-      "id": 2351,
-      "reading": "まく"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%86%9C"
+  }
 }

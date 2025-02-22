@@ -1,0 +1,46 @@
+{
+  "id": 5479,
+  "type": "vocabulary",
+  "characters": "貨物",
+  "primaryMeaning": "Freight",
+  "otherMeanings": [
+    "Cargo"
+  ],
+  "primaryReading": "かもつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1470,
+      "character": "貨",
+      "readings": [
+        "か"
+      ]
+    },
+    {
+      "id": 718,
+      "character": "物",
+      "readings": [
+        "ぶつ",
+        "もつ",
+        "もの"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Freight</kanji> <kanji>thing</kanji>s is <vocabulary>freight</vocabulary> or <vocabulary>cargo</vocabulary>.",
+  "readingMnemonic": "The reading is the 物 reading that's もつ. You can know this because you have to carry the freight and cargo (持つ it!).",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%B2%A8%E7%89%A9",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "貨",
+      "id": 1470,
+      "reading": "か"
+    },
+    {
+      "type": "kanji",
+      "value": "物",
+      "id": 718,
+      "reading": "もつ"
+    }
+  ]
+}

@@ -1,48 +1,18 @@
 {
   "id": 9082,
   "type": "vocabulary",
-  "characters": "空手",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "空手"
+  },
   "primaryMeaning": "Karate",
-  "otherMeanings": [],
-  "primaryReading": "からて",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 601,
-      "character": "空",
-      "readings": [
-        "くう",
-        "そら",
-        "あ",
-        "から",
-        "す"
-      ]
-    },
-    {
-      "id": 474,
-      "character": "手",
-      "readings": [
-        "て",
-        "しゅ",
-        "ず"
-      ]
-    }
-  ],
   "meaningMnemonic": "What can you do with <kanji>empty</kanji> <kanji>hand</kanji>s? <vocabulary>Karate</vocabulary>, that's what. Karate is practiced without weapons, so with empty hands!",
+  "primaryReading": "からて",
   "readingMnemonic": "This word uses the kun'yomi of both kanji, and you haven't learned this kun'yomi for 空 yet. As long as you know the meaning, the reading should be easy, but here's a mnemonic to help you just in case:\n\n<vocabulary>Karate</vocabulary> comes from (<reading>から</reading>) Japan!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A9%BA%E6%89%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "空",
-      "id": 601,
-      "reading": "から"
-    },
-    {
-      "type": "kanji",
-      "value": "手",
-      "id": 474,
-      "reading": "て"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%A9%BA%E6%89%8B"
+  }
 }

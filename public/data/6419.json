@@ -1,47 +1,21 @@
 {
   "id": 6419,
   "type": "vocabulary",
-  "characters": "殿堂",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "殿堂"
+  },
   "primaryMeaning": "Palace",
+  "meaningMnemonic": "<kanji>Milord</kanji>'s <kanji>hall</kanji> is a nice place. It's where a lord would live. A <vocabulary>palace</vocabulary>. By extension, this can also mean a <vocabulary>sanctuary</vocabulary>, and even a <vocabulary>hall of fame</vocabulary>.",
+  "primaryReading": "でんどう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Sanctuary",
     "Hall Of Fame"
   ],
-  "primaryReading": "でんどう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1760,
-      "character": "殿",
-      "readings": [
-        "でん",
-        "との",
-        "どの"
-      ]
-    },
-    {
-      "id": 1001,
-      "character": "堂",
-      "readings": [
-        "どう"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Milord</kanji>'s <kanji>hall</kanji> is a nice place. It's where a lord would live. A <vocabulary>palace</vocabulary>. By extension, this can also mean a <vocabulary>sanctuary</vocabulary>, and even a <vocabulary>hall of fame</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%AE%BF%E5%A0%82",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "殿",
-      "id": 1760,
-      "reading": "でん"
-    },
-    {
-      "type": "kanji",
-      "value": "堂",
-      "id": 1001,
-      "reading": "どう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%AE%BF%E5%A0%82"
+  }
 }

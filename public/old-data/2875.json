@@ -1,0 +1,48 @@
+{
+  "id": 2875,
+  "type": "vocabulary",
+  "characters": "死体",
+  "primaryMeaning": "Dead Body",
+  "otherMeanings": [
+    "Corpse",
+    "Cadaver"
+  ],
+  "primaryReading": "したい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 617,
+      "character": "死",
+      "readings": [
+        "し",
+        "し"
+      ]
+    },
+    {
+      "id": 583,
+      "character": "体",
+      "readings": [
+        "たい",
+        "てい",
+        "からだ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji for <kanji>death</kanji> and <kanji>body</kanji> put together make for a <vocabulary>dead body</vocabulary>. Hopefully you don't have to use or see this vocab too much.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%AD%BB%E4%BD%93",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "死",
+      "id": 617,
+      "reading": "し"
+    },
+    {
+      "type": "kanji",
+      "value": "体",
+      "id": 583,
+      "reading": "たい"
+    }
+  ]
+}

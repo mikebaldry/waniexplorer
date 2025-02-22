@@ -1,0 +1,32 @@
+{
+  "id": 934,
+  "type": "kanji",
+  "character": "秋",
+  "primaryMeaning": "Autumn",
+  "otherMeanings": [
+    "Fall"
+  ],
+  "primaryReading": "あき",
+  "readings": [
+    {
+      "reading": "あき",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "しゅう",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "As the grains burn, and the season changes to autumn, imagine them yelling out in pain: \"<reading>ACK</reading> (あき)!\"",
+  "meaningMnemonic": "<radical>Grain</radical>s look like they're on <radical>fire</radical> in <kanji>autumn</kanji>. They all turn red and orange and brown, the colors of fire. It's also fun to set grains on fire in Autumn, since it's getting colder.",
+  "vocabularyIds": [
+    3780
+  ],
+  "radicalIds": [
+    135,
+    46
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%A7%8B"
+}

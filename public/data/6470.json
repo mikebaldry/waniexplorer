@@ -1,61 +1,20 @@
 {
   "id": 6470,
   "type": "vocabulary",
-  "characters": "甲斐性",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "甲斐性"
+  },
   "primaryMeaning": "Resourcefulness",
+  "meaningMnemonic": "The result (甲斐) of being your own <kanji>gender</kanji> shows your <vocabulary>resourcefulness</vocabulary>. Depending on your gender, certain things are harder than others, so your resourcefulness and <vocabulary>competence</vocabulary> will help you to overcome those hurdles.",
+  "primaryReading": "かいしょう",
+  "readingMnemonic": "This word combines the word 甲斐 (that you already learned) with the on'yomi reading for 性. You know them both, just put them together!",
   "otherMeanings": [
     "Competence"
   ],
-  "primaryReading": "かいしょう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1732,
-      "character": "甲",
-      "readings": [
-        "こう",
-        "かん",
-        "か"
-      ]
-    },
-    {
-      "id": 1733,
-      "character": "斐",
-      "readings": [
-        "い",
-        "ひ"
-      ]
-    },
-    {
-      "id": 918,
-      "character": "性",
-      "readings": [
-        "せい",
-        "しょう"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The result (甲斐) of being your own <kanji>gender</kanji> shows your <vocabulary>resourcefulness</vocabulary>. Depending on your gender, certain things are harder than others, so your resourcefulness and <vocabulary>competence</vocabulary> will help you to overcome those hurdles.",
-  "readingMnemonic": "This word combines the word 甲斐 (that you already learned) with the on'yomi reading for 性. You know them both, just put them together!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%94%B2%E6%96%90%E6%80%A7",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "甲",
-      "id": 1732,
-      "reading": "か"
-    },
-    {
-      "type": "kanji",
-      "value": "斐",
-      "id": 1733,
-      "reading": "い"
-    },
-    {
-      "type": "kanji",
-      "value": "性",
-      "id": 918,
-      "reading": "しょう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%94%B2%E6%96%90%E6%80%A7"
+  }
 }

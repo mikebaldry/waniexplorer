@@ -1,0 +1,44 @@
+{
+  "id": 6436,
+  "type": "vocabulary",
+  "characters": "薄情",
+  "primaryMeaning": "Cold Hearted",
+  "otherMeanings": [],
+  "primaryReading": "はくじょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1767,
+      "character": "薄",
+      "readings": [
+        "はく",
+        "うす"
+      ]
+    },
+    {
+      "id": 891,
+      "character": "情",
+      "readings": [
+        "じょう",
+        "なさ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you <kanji>dilute</kanji> <kanji>feeling</kanji> from someone, they have no feelings. They become <vocabulary>cold hearted</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%96%84%E6%83%85",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "薄",
+      "id": 1767,
+      "reading": "はく"
+    },
+    {
+      "type": "kanji",
+      "value": "情",
+      "id": 891,
+      "reading": "じょう"
+    }
+  ]
+}

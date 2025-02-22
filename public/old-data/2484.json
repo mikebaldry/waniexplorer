@@ -1,0 +1,34 @@
+{
+  "id": 2484,
+  "type": "vocabulary",
+  "characters": "力",
+  "primaryMeaning": "Power",
+  "otherMeanings": [
+    "Strength",
+    "Ability"
+  ],
+  "primaryReading": "ちから",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 447,
+      "character": "力",
+      "readings": [
+        "りょく",
+        "りき",
+        "ちから"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When a vocab word is made up of a single kanji and that's it, it almost always takes the meaning from its parent kanji. So, this vocab word also means <vocabulary>power</vocabulary>.",
+  "readingMnemonic": "When a vocab word is a single kanji all alone with no okurigana (hiragana attached to the kanji), it usually uses the kun'yomi reading. You didn't learn the kun'yomi reading with the kanji, so for this vocab word, we'll use a mnemonic.\n\nThe most powerful man in the world. All his <vocabulary>power</vocabulary> came from his <reading>cheek</reading> (ちから). Imagine him blowing up his cheek like a giant balloon, then unleashing his power on you. Thwap thwap thwap thwap.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8A%9B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "力",
+      "id": 447,
+      "reading": "ちから"
+    }
+  ]
+}

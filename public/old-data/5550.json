@@ -1,0 +1,43 @@
+{
+  "id": 5550,
+  "type": "vocabulary",
+  "characters": "衛星",
+  "primaryMeaning": "Satellite",
+  "otherMeanings": [],
+  "primaryReading": "えいせい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1492,
+      "character": "衛",
+      "readings": [
+        "えい"
+      ]
+    },
+    {
+      "id": 638,
+      "character": "星",
+      "readings": [
+        "せい",
+        "ほし"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>defense</kanji> <kanji>star</kanji> isn't really a star, but it is something shiny in the sky that can look like a star if it's bright enough. This is a <vocabulary>satellite</vocabulary>, and while it's not always defensive, satellites can have defensive properties. Think ion canons and video and things like that.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You know them both already, so you should be able to read this word!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A1%9B%E6%98%9F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "衛",
+      "id": 1492,
+      "reading": "えい"
+    },
+    {
+      "type": "kanji",
+      "value": "星",
+      "id": 638,
+      "reading": "せい"
+    }
+  ]
+}

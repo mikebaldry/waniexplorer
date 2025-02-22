@@ -1,99 +1,107 @@
 {
   "id": 850,
   "type": "kanji",
-  "character": "生",
-  "primaryMeaning": "Life",
-  "otherMeanings": [],
+  "level": 3,
+  "characters": {
+    "type": "text",
+    "value": "生"
+  },
   "primaryReading": "せい",
   "readings": [
     {
-      "reading": "せい",
       "primary": true,
+      "reading": "せい",
       "type": "onyomi"
     },
     {
+      "primary": false,
       "reading": "しょう",
-      "primary": false,
       "type": "onyomi"
     },
     {
+      "primary": false,
       "reading": "い",
-      "primary": false,
       "type": "kunyomi"
     },
     {
+      "primary": false,
       "reading": "なま",
-      "primary": false,
       "type": "kunyomi"
     },
     {
+      "primary": false,
       "reading": "う",
-      "primary": false,
       "type": "kunyomi"
     },
     {
+      "primary": false,
       "reading": "は",
-      "primary": false,
       "type": "kunyomi"
     },
     {
-      "reading": "き",
       "primary": false,
+      "reading": "き",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "You can save <kanji>life</kanji> or take it away with your new <reading>sa</reading>ber (せい). This is the saber you got from doing the correct thing (remember?), and now you need to figure out how to use it with this life. So what do you do?",
+  "primaryMeaning": "Life",
+  "otherMeanings": [],
   "meaningMnemonic": "The <radical>life</radical> radical and the <kanji>life</kanji> kanji are the same, so hopefully you now just know them both.",
-  "vocabularyIds": [
-    2576,
-    2577,
-    2578,
-    2579,
-    2653,
-    2665,
-    2788,
-    2916,
-    3407,
-    3436,
-    3449,
-    3451,
-    3473,
-    3715,
-    3806,
-    3827,
-    4059,
-    4195,
-    4498,
-    4659,
-    4969,
-    5154,
-    5326,
-    5548,
-    5571,
-    6225,
-    6346,
-    6432,
-    6471,
-    6640,
-    6903,
-    6980,
-    7189,
-    7429,
-    7500,
-    7617,
-    7671,
-    7731,
-    7738,
-    8196,
-    8668,
-    8701,
-    8745,
-    9141,
-    9276,
-    9315
-  ],
-  "radicalIds": [
-    210
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%94%9F"
+  "readingMnemonic": "You can save <kanji>life</kanji> or take it away with your new <reading>sa</reading>ber (せい). This is the saber you got from doing the correct thing (remember?), and now you need to figure out how to use it with this life. So what do you do?",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%94%9F"
+  },
+  "related": {
+    "radicals": [
+      210
+    ],
+    "vocabularies": [
+      2576,
+      2577,
+      2578,
+      2579,
+      2653,
+      2665,
+      2788,
+      2916,
+      3407,
+      3436,
+      3449,
+      3451,
+      3473,
+      3715,
+      3806,
+      3827,
+      4059,
+      4195,
+      4498,
+      4659,
+      4969,
+      5154,
+      5326,
+      5548,
+      5571,
+      6225,
+      6346,
+      6432,
+      6471,
+      6640,
+      6903,
+      6980,
+      7189,
+      7429,
+      7500,
+      7617,
+      7671,
+      7731,
+      7738,
+      8196,
+      8668,
+      8701,
+      8745,
+      9141,
+      9276,
+      9315
+    ]
+  }
 }

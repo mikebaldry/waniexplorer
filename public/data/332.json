@@ -1,12 +1,15 @@
 {
   "id": 332,
   "type": "radical",
-  "primaryMeaning": "Exit",
-  "otherMeanings": [],
-  "character": {
+  "level": 27,
+  "characters": {
     "type": "text",
     "value": "出"
   },
+  "primaryMeaning": "Exit",
+  "otherMeanings": [],
   "meaningMnemonic": "This radical is the same as the kanji. It means <radical>exit</radical>.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/exit"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/exit"
+  }
 }

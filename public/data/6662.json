@@ -1,46 +1,20 @@
 {
   "id": 6662,
   "type": "vocabulary",
-  "characters": "襲撃",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "襲撃"
+  },
   "primaryMeaning": "Attack",
+  "meaningMnemonic": "An <kanji>attack</kanji> <kanji>attack</kanji> is an <vocabulary>attack</vocabulary> or <vocabulary>assault</vocabulary>.",
+  "primaryReading": "しゅうげき",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Assault"
   ],
-  "primaryReading": "しゅうげき",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1840,
-      "character": "襲",
-      "readings": [
-        "しゅう",
-        "おそ"
-      ]
-    },
-    {
-      "id": 1377,
-      "character": "撃",
-      "readings": [
-        "げき",
-        "う"
-      ]
-    }
-  ],
-  "meaningMnemonic": "An <kanji>attack</kanji> <kanji>attack</kanji> is an <vocabulary>attack</vocabulary> or <vocabulary>assault</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A5%B2%E6%92%83",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "襲",
-      "id": 1840,
-      "reading": "しゅう"
-    },
-    {
-      "type": "kanji",
-      "value": "撃",
-      "id": 1377,
-      "reading": "げき"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%A5%B2%E6%92%83"
+  }
 }

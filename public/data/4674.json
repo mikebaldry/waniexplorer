@@ -1,45 +1,18 @@
 {
   "id": 4674,
   "type": "vocabulary",
-  "characters": "月額",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "月額"
+  },
   "primaryMeaning": "Monthly Amount",
-  "otherMeanings": [],
-  "primaryReading": "げつがく",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 477,
-      "character": "月",
-      "readings": [
-        "げつ",
-        "がつ",
-        "つき"
-      ]
-    },
-    {
-      "id": 1218,
-      "character": "額",
-      "readings": [
-        "がく",
-        "ひたい"
-      ]
-    }
-  ],
   "meaningMnemonic": "A <kanji>month</kanji>'s <kanji>amount</kanji> is the <vocabulary>monthly amount</vocabulary>.",
+  "primaryReading": "げつがく",
   "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9C%88%E9%A1%8D",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "月",
-      "id": 477,
-      "reading": "げつ"
-    },
-    {
-      "type": "kanji",
-      "value": "額",
-      "id": 1218,
-      "reading": "がく"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%9C%88%E9%A1%8D"
+  }
 }

@@ -1,12 +1,15 @@
 {
   "id": 253,
   "type": "radical",
-  "primaryMeaning": "Good Luck",
-  "otherMeanings": [],
-  "character": {
+  "level": 17,
+  "characters": {
     "type": "text",
     "value": "吉"
   },
+  "primaryMeaning": "Good Luck",
+  "otherMeanings": [],
   "meaningMnemonic": "This is the samurai radical on top of the mouth radical. If you get to hear what a samurai says, you'll have really <radical>good luck</radical>. Samurai are pretty hard to find nowadays, which is probably why my luck has been so bad...",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/good-luck"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/good-luck"
+  }
 }

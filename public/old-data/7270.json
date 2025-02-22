@@ -1,0 +1,58 @@
+{
+  "id": 7270,
+  "type": "vocabulary",
+  "characters": "紫外線",
+  "primaryMeaning": "Ultraviolet Rays",
+  "otherMeanings": [],
+  "primaryReading": "しがいせん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2051,
+      "character": "紫",
+      "readings": [
+        "し",
+        "むらさき"
+      ]
+    },
+    {
+      "id": 521,
+      "character": "外",
+      "readings": [
+        "がい",
+        "そと",
+        "はず"
+      ]
+    },
+    {
+      "id": 767,
+      "character": "線",
+      "readings": [
+        "せん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>purple</kanji> <kanji>outside</kanji> <kanji>line</kanji> is the color spectrum that's outside purple. Those are <vocabulary>ultraviolet rays</vocabulary> (the lines are the rays).",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B4%AB%E5%A4%96%E7%B7%9A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "紫",
+      "id": 2051,
+      "reading": "し"
+    },
+    {
+      "type": "kanji",
+      "value": "外",
+      "id": 521,
+      "reading": "がい"
+    },
+    {
+      "type": "kanji",
+      "value": "線",
+      "id": 767,
+      "reading": "せん"
+    }
+  ]
+}

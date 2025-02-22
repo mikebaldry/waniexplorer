@@ -1,52 +1,20 @@
 {
   "id": 8487,
   "type": "vocabulary",
-  "characters": "金縛り",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "金縛り"
+  },
   "primaryMeaning": "Sleep Paralysis",
+  "meaningMnemonic": "Remember how you learned that 縛る means \"to bind?\" Well, in Japanese being bound by <kanji>gold</kanji> means you're experiencing <vocabulary>sleep paralysis</vocabulary>, or <vocabulary>temporary paralysis</vocabulary>. Just imagine that you're waking from a dream where you're bound up in gold thread, and it's stopping you from moving.",
+  "primaryReading": "かなしばり",
+  "readingMnemonic": "This is a combination of the words 金 and 縛る. Both use the kun'yomi readings, but 金 becomes かな instead of かね. If you can remember that exception, this should be easy!",
   "otherMeanings": [
     "Temporary Paralysis"
   ],
-  "primaryReading": "かなしばり",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 602,
-      "character": "金",
-      "readings": [
-        "きん",
-        "こん",
-        "かね",
-        "かな"
-      ]
-    },
-    {
-      "id": 2310,
-      "character": "縛",
-      "readings": [
-        "ばく",
-        "しば"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Remember how you learned that 縛る means \"to bind?\" Well, in Japanese being bound by <kanji>gold</kanji> means you're experiencing <vocabulary>sleep paralysis</vocabulary>, or <vocabulary>temporary paralysis</vocabulary>. Just imagine that you're waking from a dream where you're bound up in gold thread, and it's stopping you from moving.",
-  "readingMnemonic": "This is a combination of the words 金 and 縛る. Both use the kun'yomi readings, but 金 becomes かな instead of かね. If you can remember that exception, this should be easy!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%87%91%E7%B8%9B%E3%82%8A",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "金",
-      "id": 602,
-      "reading": "かな"
-    },
-    {
-      "type": "kanji",
-      "value": "縛",
-      "id": 2310,
-      "reading": "しば"
-    },
-    {
-      "type": "kana",
-      "value": "り"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%87%91%E7%B8%9B%E3%82%8A"
+  }
 }

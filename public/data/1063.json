@@ -1,38 +1,46 @@
 {
   "id": 1063,
   "type": "kanji",
-  "character": "易",
-  "primaryMeaning": "Easy",
-  "otherMeanings": [],
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "易"
+  },
   "primaryReading": "い",
   "readings": [
     {
-      "reading": "い",
       "primary": true,
+      "reading": "い",
       "type": "onyomi"
     },
     {
+      "primary": false,
       "reading": "えき",
-      "primary": false,
       "type": "onyomi"
     },
     {
-      "reading": "やさ",
       "primary": false,
+      "reading": "やさ",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "What would be an <kanji>easy</kanji> reading for this kanji? <reading>い</reading>! The sound easy starts with!",
+  "primaryMeaning": "Easy",
+  "otherMeanings": [],
   "meaningMnemonic": "The <radical>easy</radical> radical and the <kanji>easy</kanji> kanji are the same!",
-  "vocabularyIds": [
-    4208,
-    4209,
-    5598,
-    5955,
-    6139
-  ],
-  "radicalIds": [
-    172
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%98%93"
+  "readingMnemonic": "What would be an <kanji>easy</kanji> reading for this kanji? <reading>い</reading>! The sound easy starts with!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%98%93"
+  },
+  "related": {
+    "radicals": [
+      172
+    ],
+    "vocabularies": [
+      4208,
+      4209,
+      5598,
+      5955,
+      6139
+    ]
+  }
 }

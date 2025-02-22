@@ -1,0 +1,37 @@
+{
+  "id": 8926,
+  "type": "vocabulary",
+  "characters": "裂ける",
+  "primaryMeaning": "To Be Split",
+  "otherMeanings": [
+    "To Be Torn",
+    "To Burst Apart"
+  ],
+  "primaryReading": "さける",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1839,
+      "character": "裂",
+      "readings": [
+        "れつ",
+        "さ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji means <kanji>split</kanji>, so this verb has to do with something splitting. \n\nThis is an intransitive verb, so this verb means <vocabulary>to be split</vocabulary>, <vocabulary>to be torn</vocabulary>, or <vocabulary>to burst apart</vocabulary>.",
+  "readingMnemonic": "Since this word has okurigana (hiragana attached to the kanji) you know that it's probably going to be the kun'yomi reading.\n\nLucky for you, the kanji readings for transitive and intransitive verbs are almost always the same. Once you learn one, you know them both! This reading is the same as 裂く.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A3%82%E3%81%91%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "裂",
+      "id": 1839,
+      "reading": "さ"
+    },
+    {
+      "type": "kana",
+      "value": "ける"
+    }
+  ]
+}

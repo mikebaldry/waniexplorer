@@ -1,0 +1,47 @@
+{
+  "id": 7936,
+  "type": "vocabulary",
+  "characters": "優遇",
+  "primaryMeaning": "Preferential Treatment",
+  "otherMeanings": [
+    "Favorable Treatment"
+  ],
+  "primaryReading": "ゆうぐう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1206,
+      "character": "優",
+      "readings": [
+        "ゆう",
+        "やさ",
+        "すぐ"
+      ]
+    },
+    {
+      "id": 2176,
+      "character": "遇",
+      "readings": [
+        "ぐう",
+        "あ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you are given <kanji>superior</kanji> <kanji>treatment</kanji> it's called <vocabulary>preferential treatment</vocabulary>. This is the best way to be treated.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%84%AA%E9%81%87",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "優",
+      "id": 1206,
+      "reading": "ゆう"
+    },
+    {
+      "type": "kanji",
+      "value": "遇",
+      "id": 2176,
+      "reading": "ぐう"
+    }
+  ]
+}

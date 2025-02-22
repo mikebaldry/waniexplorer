@@ -1,12 +1,15 @@
 {
   "id": 38,
   "type": "radical",
-  "primaryMeaning": "Hair",
-  "otherMeanings": [],
-  "character": {
+  "level": 2,
+  "characters": {
     "type": "text",
     "value": "彡"
   },
-  "meaningMnemonic": "These three streaks flowing off to the side are three strands of hair. Pretty easy to see and remember, right?",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/hair"
+  "primaryMeaning": "Hair",
+  "otherMeanings": [],
+  "meaningMnemonic": "These three streaks look like the flowing locks of someone's <radical>hair</radical>. Pretty easy to see and remember that this is the hair radical, right?",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/hair"
+  }
 }

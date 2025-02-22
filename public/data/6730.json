@@ -1,52 +1,21 @@
 {
   "id": 6730,
   "type": "vocabulary",
-  "characters": "柔和",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "柔和"
+  },
   "primaryMeaning": "Gentle",
+  "meaningMnemonic": "A <kanji>gentle</kanji> and <kanji>peace</kanji>ful person is <vocabulary>gentle</vocabulary> and <vocabulary>tender</vocabulary>.\n\n柔和 is commonly used in literature to describe someone whose nature or features express <vocabulary>gentleness</vocabulary>.",
+  "primaryReading": "にゅうわ",
+  "readingMnemonic": "You didn't learn this reading of 柔 with the kanji, so let's remember it a different way. You have to be <vocabulary>gentle</vocabulary> and <vocabulary>tender</vocabulary> if you want to touch something that's <reading>new</reading> (にゅう) to this world... a puppy, a kitty, a baby, etc. Anything new needs that <vocabulary>gentleness</vocabulary>.",
   "otherMeanings": [
     "Tender",
     "Gentleness"
   ],
-  "primaryReading": "にゅうわ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1864,
-      "character": "柔",
-      "readings": [
-        "じゅう",
-        "にゅう",
-        "やわ"
-      ]
-    },
-    {
-      "id": 712,
-      "character": "和",
-      "readings": [
-        "わ",
-        "お",
-        "なご",
-        "やわ",
-        "かず",
-        "より"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>gentle</kanji> and <kanji>peace</kanji>ful person is <vocabulary>gentle</vocabulary> and <vocabulary>tender</vocabulary>.\n\n柔和 is commonly used in literature to describe someone whose nature or features express <vocabulary>gentleness</vocabulary>.",
-  "readingMnemonic": "You didn't learn this reading of 柔 with the kanji, so let's remember it a different way. You have to be <vocabulary>gentle</vocabulary> and <vocabulary>tender</vocabulary> if you want to touch something that's <reading>new</reading> (にゅう) to this world... a puppy, a kitty, a baby, etc. Anything new needs that <vocabulary>gentleness</vocabulary>.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9F%94%E5%92%8C",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "柔",
-      "id": 1864,
-      "reading": "にゅう"
-    },
-    {
-      "type": "kanji",
-      "value": "和",
-      "id": 712,
-      "reading": "わ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%9F%94%E5%92%8C"
+  }
 }

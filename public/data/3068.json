@@ -1,48 +1,21 @@
 {
   "id": 3068,
   "type": "vocabulary",
-  "characters": "数学",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "数学"
+  },
   "primaryMeaning": "Mathematics",
+  "meaningMnemonic": "The <kanji>study</kanji> of <kanji>number</kanji>s is <vocabulary>mathematics</vocabulary> (or <vocabulary>math</vocabulary>).",
+  "primaryReading": "すうがく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Math",
     "Maths"
   ],
-  "primaryReading": "すうがく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 703,
-      "character": "数",
-      "readings": [
-        "すう",
-        "かぞ",
-        "かず"
-      ]
-    },
-    {
-      "id": 599,
-      "character": "学",
-      "readings": [
-        "がく",
-        "まな"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The <kanji>study</kanji> of <kanji>number</kanji>s is <vocabulary>mathematics</vocabulary> (or <vocabulary>math</vocabulary>).",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%95%B0%E5%AD%A6",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "数",
-      "id": 703,
-      "reading": "すう"
-    },
-    {
-      "type": "kanji",
-      "value": "学",
-      "id": 599,
-      "reading": "がく"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%95%B0%E5%AD%A6"
+  }
 }

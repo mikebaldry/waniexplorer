@@ -1,0 +1,33 @@
+{
+  "id": 1908,
+  "type": "kanji",
+  "character": "肌",
+  "primaryMeaning": "Skin",
+  "otherMeanings": [],
+  "primaryReading": "はだ",
+  "readings": [
+    {
+      "reading": "はだ",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "き",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "But, when you go to touch this \"moon table\" made of <kanji>skin</kanji>, you realize that it's <reading>harder</reading> (はだ) than you expected. ",
+  "meaningMnemonic": "The <radical>moon</radical> <radical>table</radical> is a table that's made entirely of <kanji>skin</kanji>. You thought the table was made of moon, with all those pores and such, but when you look more closely, you realize it's skin. Disgusting, porous, skin.",
+  "vocabularyIds": [
+    6858,
+    6859,
+    6860,
+    6861
+  ],
+  "radicalIds": [
+    43,
+    177
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%82%8C"
+}

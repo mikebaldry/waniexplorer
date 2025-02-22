@@ -1,36 +1,20 @@
 {
   "id": 8932,
   "type": "vocabulary",
-  "characters": "転がす",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "転がす"
+  },
   "primaryMeaning": "To Roll Something",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>revolve</kanji>, and the verb version is when you make something revolve. You roll it. That's why this verb is <vocabulary>to roll something</vocabulary>.\n\nThis is a transitive verb. That means you roll something else, like a ball. Or, if you're a dung beetle, poop. 💩 Not to be confused with 転がる, which is intransitive, like so many verbs ending in がる.",
+  "primaryReading": "ころがす",
+  "readingMnemonic": "You learned this reading when you learned 転がる, but here's a mnemonic anyway just in case:\n\nWhen you try <vocabulary>to roll something</vocabulary>, the outside bits may be moving, but its <reading>core</reading> (ころ) stays still. Picture yourself making the earth roll across the floor. The outside parts where the people live are spinning round and round, but the earth's core is in exactly the same place.",
   "otherMeanings": [
     "To Turn Something Over"
   ],
-  "primaryReading": "ころがす",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 747,
-      "character": "転",
-      "readings": [
-        "てん",
-        "ころ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>revolve</kanji>, and the verb version is when you make something revolve. You roll it. That's why this verb is <vocabulary>to roll something</vocabulary>.\n\nThis is a transitive verb. That means you roll something else, like a ball. Or, if you're a dung beetle, poop. 💩 Not to be confused with 転がる, which is intransitive, like so many verbs ending in がる.",
-  "readingMnemonic": "You learned this reading when you learned 転がる, but here's a mnemonic anyway just in case:\n\nWhen you try <vocabulary>to roll something</vocabulary>, the outside bits may be moving, but its <reading>core</reading> (ころ) stays still. Picture yourself making the earth roll across the floor. The outside parts where the people live are spinning round and round, but the earth's core is in exactly the same place.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%BB%A2%E3%81%8C%E3%81%99",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "転",
-      "id": 747,
-      "reading": "ころ"
-    },
-    {
-      "type": "kana",
-      "value": "がす"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%BB%A2%E3%81%8C%E3%81%99"
+  }
 }

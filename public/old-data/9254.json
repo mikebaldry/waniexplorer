@@ -1,0 +1,47 @@
+{
+  "id": 9254,
+  "type": "vocabulary",
+  "characters": "雨戸",
+  "primaryMeaning": "Shutter",
+  "otherMeanings": [
+    "Sliding Storm Shutter"
+  ],
+  "primaryReading": "あまど",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 603,
+      "character": "雨",
+      "readings": [
+        "あめ",
+        "あま",
+        "う"
+      ]
+    },
+    {
+      "id": 509,
+      "character": "戸",
+      "readings": [
+        "と",
+        "こ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>rain</kanji> <kanji>door</kanji> is really just a <vocabulary>shutter</vocabulary>. In Japan, having shutters for rain protection is very common. When there were no glass windows, the shutters were simply like exterior doors in Japan, so \"rain door\" kind of makes sense as \"shutter\"! \n\nThis word is usually for <vocabulary>sliding storm shutter</vocabulary>s. For other types of shutters, you can just say シャッター.",
+  "readingMnemonic": "This is a jukugo word, but it actually uses kun'yomi for both 雨 and 戸. Additionally, the reading for 雨 is actually slightly different from what you've learned, so here's a mnemonic to help you remember it:\n\nHave you ever thought a <vocabulary>shutter</vocabulary> is like an <reading>armor</reading> (あま) for a window? They're both protections, and are usually made from metal. Kind of makes sense, right?",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9B%A8%E6%88%B8",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "雨",
+      "id": 603,
+      "reading": "あま"
+    },
+    {
+      "type": "kanji",
+      "value": "戸",
+      "id": 509,
+      "reading": "ど"
+    }
+  ]
+}

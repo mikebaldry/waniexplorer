@@ -1,0 +1,50 @@
+{
+  "id": 7182,
+  "type": "vocabulary",
+  "characters": "隙間",
+  "primaryMeaning": "Crevice",
+  "otherMeanings": [
+    "Crack",
+    "Gap",
+    "Opening"
+  ],
+  "primaryReading": "すきま",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2019,
+      "character": "隙",
+      "readings": [
+        "すき",
+        "げき"
+      ]
+    },
+    {
+      "id": 701,
+      "character": "間",
+      "readings": [
+        "かん",
+        "けん",
+        "あいだ",
+        "ま"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>crevice</kanji> <kanji>interval</kanji> is an area with a <vocabulary>crevice</vocabulary> or <vocabulary>crack</vocabulary>.",
+  "readingMnemonic": "The reading for 隙 is the one you learned with the kanji and the 間 is the 間に合う reading.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9A%99%E9%96%93",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "隙",
+      "id": 2019,
+      "reading": "すき"
+    },
+    {
+      "type": "kanji",
+      "value": "間",
+      "id": 701,
+      "reading": "ま"
+    }
+  ]
+}

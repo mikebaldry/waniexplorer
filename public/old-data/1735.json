@@ -1,0 +1,39 @@
+{
+  "id": 1735,
+  "type": "kanji",
+  "character": "稲",
+  "primaryMeaning": "Rice Plant",
+  "otherMeanings": [],
+  "primaryReading": "いね",
+  "readings": [
+    {
+      "reading": "いね",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "いな",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "とう",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "The grain of rice, as it thinks about its <kanji>rice plant</kanji> life too, mutters, \"<reading>いな</reading>、<reading>いね</reading>.\" Yes little grain, it was a really nice life. I'm sorry.",
+  "meaningMnemonic": "The <radical>grain</radical> stuck in your <radical>cleat</radical> had a <radical>former</radical> life. In that life it was a <kanji>rice plant</kanji>. It was a happy little rice plant, minding its own business, when it was yanked up and cleaned up and put in a bag for people to buy and cook and eat. That was so long ago. Now it's just a sad grain in the bottom of your shoe.",
+  "vocabularyIds": [
+    6315,
+    6316,
+    6317,
+    7026
+  ],
+  "radicalIds": [
+    135,
+    8772,
+    374
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%A8%B2"
+}

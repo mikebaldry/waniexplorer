@@ -1,46 +1,54 @@
 {
   "id": 1411,
   "type": "kanji",
-  "character": "詰",
-  "primaryMeaning": "Stuffed",
-  "otherMeanings": [],
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "詰"
+  },
   "primaryReading": "つ",
   "readings": [
     {
-      "reading": "つ",
       "primary": true,
+      "reading": "つ",
       "type": "kunyomi"
     },
     {
+      "primary": false,
       "reading": "きつ",
-      "primary": false,
       "type": "onyomi"
     },
     {
+      "primary": false,
       "reading": "きち",
-      "primary": false,
       "type": "onyomi"
     },
     {
-      "reading": "づ",
       "primary": false,
+      "reading": "づ",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "You <kanji>stuffed</kanji> them by saying good luck <reading>two</reading> (つ) whole times!",
+  "primaryMeaning": "Stuffed",
+  "otherMeanings": [],
   "meaningMnemonic": "<radical>Say</radical> <radical>good luck</radical> to one person enough and they'll be <kanji>stuffed</kanji> full of that luck.",
-  "vocabularyIds": [
-    5282,
-    5283,
-    5402,
-    5403,
-    5404,
-    5738,
-    7817
-  ],
-  "radicalIds": [
-    117,
-    253
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%A9%B0"
+  "readingMnemonic": "You <kanji>stuffed</kanji> them by saying good luck <reading>two</reading> (つ) whole times!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%A9%B0"
+  },
+  "related": {
+    "radicals": [
+      117,
+      253
+    ],
+    "vocabularies": [
+      5282,
+      5283,
+      5402,
+      5403,
+      5404,
+      5738,
+      7817
+    ]
+  }
 }

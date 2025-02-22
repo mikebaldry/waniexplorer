@@ -1,0 +1,47 @@
+{
+  "id": 2898,
+  "type": "vocabulary",
+  "characters": "東北",
+  "primaryMeaning": "Tohoku",
+  "otherMeanings": [
+    "Tohoku Region",
+    "Northeast Region"
+  ],
+  "primaryReading": "とうほく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 627,
+      "character": "東",
+      "readings": [
+        "とう",
+        "ひがし"
+      ]
+    },
+    {
+      "id": 517,
+      "character": "北",
+      "readings": [
+        "ほく",
+        "きた"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>East</kanji> <kanji>North</kanji> area of Japan is called <vocabulary>Tohoku</vocabulary> or the <vocabulary>Tohoku region</vocabulary>. It was the region hit by the 2011 Tohoku Earthquake. This can also mean <vocabulary>northeast region</vocabulary> when talking about China or Japan, but for other countries (and for the direction) we'd use 北東.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9D%B1%E5%8C%97",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "東",
+      "id": 627,
+      "reading": "とう"
+    },
+    {
+      "type": "kanji",
+      "value": "北",
+      "id": 517,
+      "reading": "ほく"
+    }
+  ]
+}

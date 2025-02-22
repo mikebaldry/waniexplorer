@@ -1,46 +1,20 @@
 {
   "id": 7923,
   "type": "vocabulary",
-  "characters": "覇権",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "覇権"
+  },
   "primaryMeaning": "Hegemony",
+  "meaningMnemonic": "Those with the <kanji>rights</kanji> to <kanji>leadership</kanji> have complete <vocabulary>hegemony</vocabulary> over the country. And they will reign until the end of time.",
+  "primaryReading": "はけん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Supremacy"
   ],
-  "primaryReading": "はけん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2157,
-      "character": "覇",
-      "readings": [
-        "は",
-        "はく",
-        "はたがしら"
-      ]
-    },
-    {
-      "id": 1134,
-      "character": "権",
-      "readings": [
-        "けん"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Those with the <kanji>rights</kanji> to <kanji>leadership</kanji> have complete <vocabulary>hegemony</vocabulary> over the country. And they will reign until the end of time.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A6%87%E6%A8%A9",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "覇",
-      "id": 2157,
-      "reading": "は"
-    },
-    {
-      "type": "kanji",
-      "value": "権",
-      "id": 1134,
-      "reading": "けん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%A6%87%E6%A8%A9"
+  }
 }

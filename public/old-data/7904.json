@@ -1,0 +1,51 @@
+{
+  "id": 7904,
+  "type": "vocabulary",
+  "characters": "没収",
+  "primaryMeaning": "Forfeiture",
+  "otherMeanings": [
+    "Seizure",
+    "Confiscation",
+    "Impounding"
+  ],
+  "primaryReading": "ぼっしゅう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2180,
+      "character": "没",
+      "readings": [
+        "ぼつ",
+        "もつ",
+        "おぼ",
+        "しず",
+        "ない"
+      ]
+    },
+    {
+      "id": 1186,
+      "character": "収",
+      "readings": [
+        "しゅう",
+        "おさ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you <kanji>obtain</kanji> something acting like that person had <kanji>die</kanji>d, it's called <vocabulary>confiscation</vocabulary> or <vocabulary>forfeiture</vocabulary>. Maybe if they were alive, you think, they wouldn't have let me take it. Well they are still alive so it's theirs and you can't keep it forever.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B2%A1%E5%8F%8E",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "没",
+      "id": 2180,
+      "reading": null
+    },
+    {
+      "type": "kanji",
+      "value": "収",
+      "id": 1186,
+      "reading": null
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 905,
+  "type": "kanji",
+  "character": "希",
+  "primaryMeaning": "Wish",
+  "otherMeanings": [],
+  "primaryReading": "き",
+  "readings": [
+    {
+      "reading": "き",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "まれ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "In order to open the treasure and get your <kanji>wish</kanji>, you need the <reading>key</reading> (き). The narwhal knows where it's hidden, so you'll have to convince it to tell you where the key is.",
+  "meaningMnemonic": "There is a <radical>treasure</radical> on top of a <radical>narwhal</radical> who wears a <radical>towel</radical> that will grant your greatest <kanji>wish</kanji>.",
+  "vocabularyIds": [
+    3919,
+    3920
+  ],
+  "radicalIds": [
+    31,
+    26,
+    102
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%B8%8C"
+}

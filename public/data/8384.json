@@ -1,46 +1,18 @@
 {
   "id": 8384,
   "type": "vocabulary",
-  "characters": "盲人",
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "盲人"
+  },
   "primaryMeaning": "Blind Person",
-  "otherMeanings": [],
-  "primaryReading": "もうじん",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2352,
-      "character": "盲",
-      "readings": [
-        "もう",
-        "めくら"
-      ]
-    },
-    {
-      "id": 444,
-      "character": "人",
-      "readings": [
-        "にん",
-        "じん",
-        "ひと",
-        "と"
-      ]
-    }
-  ],
   "meaningMnemonic": "A <kanji>blind</kanji> <kanji>person</kanji> is a <vocabulary>blind person</vocabulary>.",
+  "primaryReading": "もうじん",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%9B%B2%E4%BA%BA",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "盲",
-      "id": 2352,
-      "reading": "もう"
-    },
-    {
-      "type": "kanji",
-      "value": "人",
-      "id": 444,
-      "reading": "じん"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%9B%B2%E4%BA%BA"
+  }
 }

@@ -1,0 +1,46 @@
+{
+  "id": 502,
+  "type": "kanji",
+  "character": "切",
+  "primaryMeaning": "Cut",
+  "otherMeanings": [],
+  "primaryReading": "せつ",
+  "readings": [
+    {
+      "reading": "せつ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "き",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Because having seven swords for yourself is too much, you decide to take the swords and divide them up amongst pairs of people. You <kanji>cut</kanji> them into pairs, and give <reading>sets</reading> (せつ) to everyone who needs them in the village.",
+  "meaningMnemonic": "If you have <radical>seven</radical> <radical>swords</radical>, there's only so much you can do with them. The main thing? Probably using them to <kanji>cut</kanji> something.",
+  "vocabularyIds": [
+    2601,
+    2602,
+    2603,
+    2818,
+    3225,
+    3404,
+    4070,
+    5077,
+    5078,
+    5083,
+    5087,
+    5272,
+    5348,
+    5691,
+    5692,
+    5833,
+    5842
+  ],
+  "radicalIds": [
+    4,
+    24
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%88%87"
+}

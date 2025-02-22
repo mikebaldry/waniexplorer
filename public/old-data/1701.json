@@ -1,0 +1,35 @@
+{
+  "id": 1701,
+  "type": "kanji",
+  "character": "託",
+  "primaryMeaning": "Consign",
+  "otherMeanings": [],
+  "primaryReading": "たく",
+  "readings": [
+    {
+      "reading": "たく",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "かこ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "One of the seven things you <kanji>consign</kanji> over to this guy is a <reading>tack</reading> (たく). It’s the sharpest tack you’ve ever seen. You slide the tack down the slide. Good thing no one is on the slide now, sitting on that tack would hurt.",
+  "meaningMnemonic": "They <radical>say</radical> if you put things on a <radical>slide</radical>, <radical>seven</radical> things to be exact, that’s the best way to <kanji>consign</kanji> goods to someone. They say if you consign seven things to someone, you should send them over on a slide. Slide ‘em on down. All seven of ‘em.",
+  "vocabularyIds": [
+    6215,
+    6216,
+    6217,
+    6218,
+    8442
+  ],
+  "radicalIds": [
+    117,
+    5,
+    4
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%A8%97"
+}

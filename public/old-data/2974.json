@@ -1,0 +1,44 @@
+{
+  "id": 2974,
+  "type": "vocabulary",
+  "characters": "地理",
+  "primaryMeaning": "Geography",
+  "otherMeanings": [],
+  "primaryReading": "ちり",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 608,
+      "character": "地",
+      "readings": [
+        "ち",
+        "じ"
+      ]
+    },
+    {
+      "id": 669,
+      "character": "理",
+      "readings": [
+        "り",
+        "ことわり"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>reason</kanji> the <kanji>earth</kanji> is the way it is is because of the <vocabulary>geography</vocabulary> of it. Though it may seem kind of strange that geography is bringing reason to the earth, if you think of geography as a study, then you can think about how you try to get reason through that, as well.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%9C%B0%E7%90%86",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "地",
+      "id": 608,
+      "reading": "ち"
+    },
+    {
+      "type": "kanji",
+      "value": "理",
+      "id": 669,
+      "reading": "り"
+    }
+  ]
+}

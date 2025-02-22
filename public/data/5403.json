@@ -1,57 +1,21 @@
 {
   "id": 5403,
   "type": "vocabulary",
-  "characters": "思い詰める",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "思い詰める"
+  },
   "primaryMeaning": "To Brood",
+  "meaningMnemonic": "詰める is \"to stuff in.\" If you're really stuffing in your thoughts (<kanji>think</kanji>), you're thinking very deeply and seriously. So this is <vocabulary>to brood</vocabulary>, <vocabulary>to dwell on</vocabulary>, or <vocabulary>to take something to heart</vocabulary>.\n\n思い詰める suggests you're pondering deeply over something serious or distressing, bordering on overthinking.",
+  "primaryReading": "おもいつめる",
+  "readingMnemonic": "The reading is 思い and 詰める put together into one reading.",
   "otherMeanings": [
     "To Dwell On",
     "To Take Something To Heart"
   ],
-  "primaryReading": "おもいつめる",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 637,
-      "character": "思",
-      "readings": [
-        "おも",
-        "し"
-      ]
-    },
-    {
-      "id": 1411,
-      "character": "詰",
-      "readings": [
-        "つ",
-        "きつ",
-        "きち",
-        "づ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "詰める is \"to stuff in.\" If you're really stuffing in your thoughts (<kanji>think</kanji>), you're thinking very deeply and seriously. So this is <vocabulary>to brood</vocabulary>, <vocabulary>to dwell on</vocabulary>, or <vocabulary>to take something to heart</vocabulary>.\n\n思い詰める suggests you're pondering deeply over something serious or distressing, bordering on overthinking.",
-  "readingMnemonic": "The reading is 思い and 詰める put together into one reading.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%80%9D%E3%81%84%E8%A9%B0%E3%82%81%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "思",
-      "id": 637,
-      "reading": "おも"
-    },
-    {
-      "type": "kana",
-      "value": "い"
-    },
-    {
-      "type": "kanji",
-      "value": "詰",
-      "id": 1411,
-      "reading": "つ"
-    },
-    {
-      "type": "kana",
-      "value": "める"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%80%9D%E3%81%84%E8%A9%B0%E3%82%81%E3%82%8B"
+  }
 }

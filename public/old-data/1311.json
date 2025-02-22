@@ -1,0 +1,35 @@
+{
+  "id": 1311,
+  "type": "kanji",
+  "character": "接",
+  "primaryMeaning": "Adjoin",
+  "otherMeanings": [],
+  "primaryReading": "せつ",
+  "readings": [
+    {
+      "reading": "せつ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "つ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "All of the women who are now <kanji>adjoin</kanji>ing together are in <reading>sets</reading> (せつ). Sets of two, of course. One woman with another woman, standing in unison.",
+  "meaningMnemonic": "You <radical>stand</radical> with another <radical>woman</radical> and, with your <radical>fingers</radical>, <kanji>adjoin</kanji> yourselves together. You are united, you are one.",
+  "vocabularyIds": [
+    4930,
+    4931,
+    4932,
+    5160,
+    5392
+  ],
+  "radicalIds": [
+    63,
+    55,
+    19
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%8E%A5"
+}

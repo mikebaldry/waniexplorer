@@ -1,0 +1,40 @@
+{
+  "id": 2912,
+  "type": "vocabulary",
+  "characters": "後で",
+  "primaryMeaning": "After",
+  "otherMeanings": [
+    "Afterwards",
+    "Later"
+  ],
+  "primaryReading": "あとで",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 636,
+      "character": "後",
+      "readings": [
+        "ご",
+        "こう",
+        "うし",
+        "あと",
+        "のち"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This shares one of the meanings you learned for the kanji: <vocabulary>after</vocabulary>. You can differentiate this one from 後ろ (which you may or may not have seen yet) thanks to the で on the end. Some people believe that after something's dead (で), it goes to an afterlife.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\n<vocabulary>After</vocabulary>. Everything happens after. It's a cause and effect chain. One thing happens, and then another thing happens after. This is life. This is the universe. Everything is after. It's an <reading>auto</reading>matic (あと) cycle that just keeps going and going and going.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BE%8C%E3%81%A7",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "後",
+      "id": 636,
+      "reading": "あと"
+    },
+    {
+      "type": "kana",
+      "value": "で"
+    }
+  ]
+}

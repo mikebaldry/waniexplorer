@@ -1,46 +1,20 @@
 {
   "id": 3560,
   "type": "vocabulary",
-  "characters": "終電",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "終電"
+  },
   "primaryMeaning": "Last Train",
+  "meaningMnemonic": "We've seen a few times where 電 refers to a train. They're big deals, after all, and use a ton of electricity. So, the <kanji>end</kanji> train for this word would refer to the <vocabulary>last train</vocabulary>.",
+  "primaryReading": "しゅうでん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "The Last Train"
   ],
-  "primaryReading": "しゅうでん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 745,
-      "character": "終",
-      "readings": [
-        "しゅう",
-        "おわ",
-        "お"
-      ]
-    },
-    {
-      "id": 706,
-      "character": "電",
-      "readings": [
-        "でん"
-      ]
-    }
-  ],
-  "meaningMnemonic": "We've seen a few times where 電 refers to a train. They're big deals, after all, and use a ton of electricity. So, the <kanji>end</kanji> train for this word would refer to the <vocabulary>last train</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B5%82%E9%9B%BB",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "終",
-      "id": 745,
-      "reading": "しゅう"
-    },
-    {
-      "type": "kanji",
-      "value": "電",
-      "id": 706,
-      "reading": "でん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%B5%82%E9%9B%BB"
+  }
 }

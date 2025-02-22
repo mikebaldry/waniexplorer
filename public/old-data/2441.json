@@ -1,0 +1,40 @@
+{
+  "id": 2441,
+  "type": "kanji",
+  "character": "畔",
+  "primaryMeaning": "Shore",
+  "otherMeanings": [],
+  "primaryReading": "はん",
+  "readings": [
+    {
+      "reading": "はん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "あぜ",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "くろ",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "ほとり",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You decide to walk along this <kanji>shore</kanji> when you see <reading>Han</reading> (はん) Solo lounging in the sand. He's waving for you to join him! You get to lie on the shore with Han!!",
+  "meaningMnemonic": "<radical>Half</radical> of a <radical>rice paddy</radical> is always on the <kanji>shore</kanji>. Japan is surrounded by water, after all. So it only makes sense that half of every rice paddy is right next to the ocean shore, right?",
+  "vocabularyIds": [
+    8639
+  ],
+  "radicalIds": [
+    51,
+    305
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%95%94"
+}

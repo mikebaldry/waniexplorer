@@ -1,32 +1,40 @@
 {
   "id": 1428,
   "type": "kanji",
-  "character": "覧",
-  "primaryMeaning": "Look At",
-  "otherMeanings": [],
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "覧"
+  },
   "primaryReading": "らん",
   "readings": [
     {
-      "reading": "らん",
       "primary": true,
+      "reading": "らん",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "You start backing away, but then you realize that you are Macho Man <reading>Ran</reading>dy (らん) Savage. Randy Savage backs away from no fight! I mean, <kanji>look at</kanji> this guy – this servant guy. Take away the gun and he’s not much to look at. You can take him.",
+  "primaryMeaning": "Look At",
+  "otherMeanings": [],
   "meaningMnemonic": "A <radical>servant</radical> holding a <radical>gun</radical> sits on the <radical>ground</radical> to <radical>see</radical> if he can find something to <kanji>look at</kanji>. The servant is on watch duty and has the gun to protect the perimeter. He patrols the grounds to look at the distance to see if there are any trespassers.",
-  "vocabularyIds": [
-    5138,
-    5362,
-    5363,
-    5364,
-    6305,
-    8426
-  ],
-  "radicalIds": [
-    323,
-    8762,
-    1,
-    91
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%A6%A7"
+  "readingMnemonic": "You start backing away, but then you realize that you are Macho Man <reading>Ran</reading>dy (らん) Savage. Randy Savage backs away from no fight! I mean, <kanji>look at</kanji> this guy – this servant guy. Take away the gun and he’s not much to look at. You can take him.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%A6%A7"
+  },
+  "related": {
+    "radicals": [
+      323,
+      8762,
+      1,
+      91
+    ],
+    "vocabularies": [
+      5138,
+      5362,
+      5363,
+      5364,
+      6305,
+      8426
+    ]
+  }
 }

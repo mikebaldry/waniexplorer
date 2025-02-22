@@ -1,0 +1,30 @@
+{
+  "id": 1174,
+  "type": "kanji",
+  "character": "副",
+  "primaryMeaning": "Vice",
+  "otherMeanings": [
+    "Side"
+  ],
+  "primaryReading": "ふく",
+  "readings": [
+    {
+      "reading": "ふく",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "It's the <kanji>vice</kanji> president's turn to speak at the podium and he just clears his throat and yells, \"<reading>F**k</reading> (ふく) you!\" to the crowd, holding up his knife. They cheer.",
+  "meaningMnemonic": "That <radical>scarecrow</radical> with the <radical>knife</radical> is the <kanji>vice</kanji> president. Yeah, I know how he looks, and I'm pretty sure he does some murdering on the <kanji>side</kanji>, but you didn't hear that from me.",
+  "vocabularyIds": [
+    4545,
+    4546,
+    4547,
+    4868
+  ],
+  "radicalIds": [
+    8824,
+    128
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%89%AF"
+}

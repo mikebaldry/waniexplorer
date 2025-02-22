@@ -1,0 +1,52 @@
+{
+  "id": 8998,
+  "type": "vocabulary",
+  "characters": "苛々する",
+  "primaryMeaning": "To Get Irritated",
+  "otherMeanings": [
+    "To Get Annoyed",
+    "To Grow Impatient"
+  ],
+  "primaryReading": "いらいらする",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 8990,
+      "character": "苛",
+      "readings": [
+        "いじ",
+        "いら",
+        "さいな",
+        "か"
+      ]
+    },
+    {
+      "id": 856,
+      "character": "々",
+      "readings": [
+        "のま"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Double <kanji>frustration</kanji> would cause anyone <vocabulary>to get irritated</vocabulary>, <vocabulary>to get annoyed</vocabulary>, or <vocabulary>to grow impatient</vocabulary>.",
+  "readingMnemonic": "This isn’t the reading you learned with the kanji, so here's a mnemonic to help you:\n\nYou don’t just get irritated, you get <reading>ira-ira</reading>-tated (いらいら). That's the next level up from irritated.\n\nThis word is often written in katakana or hiragana, but you'll sometimes see it in kanji too, so it's worth knowing!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%8B%9B%E3%80%85%E3%81%99%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "苛",
+      "id": 8990,
+      "reading": "いら"
+    },
+    {
+      "type": "kanji",
+      "value": "々",
+      "id": 8990,
+      "reading": "いら"
+    },
+    {
+      "type": "kana",
+      "value": "する"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": 575,
+  "type": "kanji",
+  "character": "羽",
+  "primaryMeaning": "Feather",
+  "otherMeanings": [
+    "Feathers",
+    "Wing",
+    "Wings"
+  ],
+  "primaryReading": "はね",
+  "readings": [
+    {
+      "reading": "はね",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "は",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "わ",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "う",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "All these <kanji>feather</kanji>s. You're a bird man / woman, and you're getting ready to fly. Just as you're about to take off, someone dumps you with <reading>honey</reading> はね and you're all goopy, unable to go anywhere.",
+  "meaningMnemonic": "The <radical>feather</radical> radical and <kanji>feather</kanji> are the same in looks as well as in meaning.",
+  "vocabularyIds": [
+    2763
+  ],
+  "radicalIds": [
+    213
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%BE%BD"
+}

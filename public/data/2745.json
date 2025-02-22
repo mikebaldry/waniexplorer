@@ -1,48 +1,20 @@
 {
   "id": 2745,
   "type": "vocabulary",
-  "characters": "月光",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "月光"
+  },
   "primaryMeaning": "Moonlight",
+  "meaningMnemonic": "The <kanji>moon</kanji> <kanji>light</kanji> (not sunlight!) can be bright sometimes. This is night when you're stumbling home from a nomikai after work. What is this light from the moon called? It's <vocabulary>moon light</vocabulary>. This word can also mean a <vocabulary>moonbeam</vocabulary> as well. ",
+  "primaryReading": "げっこう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 月 has two on'yomi readings, here's a mnemonic to help you remember which one to use:\n\nThe <vocabulary>moonlight</vocabulary> brings out a strange creature known as a <reading>Geck</reading>-<reading>こう</reading>いち (げっこう), which are geckos with the head of こういち. Imagine a swarm of them all crawling out of their crevices once the moon comes out.",
   "otherMeanings": [
     "Moonbeam"
   ],
-  "primaryReading": "げっこう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 477,
-      "character": "月",
-      "readings": [
-        "げつ",
-        "がつ",
-        "つき"
-      ]
-    },
-    {
-      "id": 567,
-      "character": "光",
-      "readings": [
-        "こう",
-        "ひかり",
-        "ひか"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The <kanji>moon</kanji> <kanji>light</kanji> (not sunlight!) can be bright sometimes. This is night when you're stumbling home from a nomikai after work. What is this light from the moon called? It's <vocabulary>moon light</vocabulary>. This word can also mean a <vocabulary>moonbeam</vocabulary> as well. ",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 月 has two on'yomi readings, here's a mnemonic to help you remember which one to use:\n\nThe <vocabulary>moonlight</vocabulary> brings out a strange creature known as a <reading>Geck</reading>-<reading>こう</reading>いち (げっこう), which are geckos with the head of こういち. Imagine a swarm of them all crawling out of their crevices once the moon comes out.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9C%88%E5%85%89",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "月",
-      "id": 477,
-      "reading": null
-    },
-    {
-      "type": "kanji",
-      "value": "光",
-      "id": 567,
-      "reading": null
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%9C%88%E5%85%89"
+  }
 }

@@ -1,47 +1,21 @@
 {
   "id": 5649,
   "type": "vocabulary",
-  "characters": "野暮",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "野暮"
+  },
   "primaryMeaning": "Unrefined",
+  "meaningMnemonic": "A <kanji>field</kanji> of <kanji>livelihood</kanji> is so lively! Look at everything jumping around. It is so fresh and new and awesome! That being said, being so lively and fresh and new, it's pretty <vocabulary>unrefined</vocabulary> and <vocabulary>rustic</vocabulary>.",
+  "primaryReading": "やぼ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Rustic",
     "Stupid"
   ],
-  "primaryReading": "やぼ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 848,
-      "character": "野",
-      "readings": [
-        "や",
-        "の"
-      ]
-    },
-    {
-      "id": 1527,
-      "character": "暮",
-      "readings": [
-        "ぼ",
-        "く"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>field</kanji> of <kanji>livelihood</kanji> is so lively! Look at everything jumping around. It is so fresh and new and awesome! That being said, being so lively and fresh and new, it's pretty <vocabulary>unrefined</vocabulary> and <vocabulary>rustic</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%87%8E%E6%9A%AE",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "野",
-      "id": 848,
-      "reading": "や"
-    },
-    {
-      "type": "kanji",
-      "value": "暮",
-      "id": 1527,
-      "reading": "ぼ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%87%8E%E6%9A%AE"
+  }
 }

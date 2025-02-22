@@ -1,32 +1,20 @@
 {
   "id": 4519,
   "type": "vocabulary",
-  "characters": "価",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "価"
+  },
   "primaryMeaning": "Value",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.\n\n価 refers to the monetary value or the price of goods in a transaction. Although it's somewhat old-fashioned and less common these days, you may still see it used in advanced phrases like 価をつける (to set a price) or 一文の価もない (not even worth a penny).\n\nNote that あたい can also refer to a numerical value in mathematics, such as the value a variable or function takes, but it's more commonly written with the kanji 値 in this use.",
+  "primaryReading": "あたい",
+  "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You did not learn this reading, so here's a mnemonic to help you to remember: Okay, this is a great <vocabulary>value</vocabulary> and <vocabulary>price</vocabulary>. Wait, what is? <reading>A tie</reading> (あたい). Get a tie, and it will make you more professional which will help you to get a better job. Great value, right there, just for a tie.",
   "otherMeanings": [
     "Price"
   ],
-  "primaryReading": "あたい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1166,
-      "character": "価",
-      "readings": [
-        "か",
-        "あたい"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.\n\n価 refers to the monetary value or the price of goods in a transaction. Although it's somewhat old-fashioned and less common these days, you may still see it used in advanced phrases like 価をつける (to set a price) or 一文の価もない (not even worth a penny).\n\nNote that あたい can also refer to a numerical value in mathematics, such as the value a variable or function takes, but it's more commonly written with the kanji 値 in this use.",
-  "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You did not learn this reading, so here's a mnemonic to help you to remember: Okay, this is a great <vocabulary>value</vocabulary> and <vocabulary>price</vocabulary>. Wait, what is? <reading>A tie</reading> (あたい). Get a tie, and it will make you more professional which will help you to get a better job. Great value, right there, just for a tie.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BE%A1",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "価",
-      "id": 1166,
-      "reading": "あたい"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BE%A1"
+  }
 }

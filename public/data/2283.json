@@ -1,40 +1,48 @@
 {
   "id": 2283,
   "type": "kanji",
-  "character": "凝",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "凝"
+  },
+  "primaryReading": "ぎょう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ぎょう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "こ",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "こご",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Congeal",
   "otherMeanings": [
     "Freeze",
     "Absorbed In"
   ],
-  "primaryReading": "ぎょう",
-  "readings": [
-    {
-      "reading": "ぎょう",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "こ",
-      "primary": false,
-      "type": "kunyomi"
-    },
-    {
-      "reading": "こご",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "You always end up <kanji>congeal</kanji>ing your <reading>gyo</reading>za (ぎょう) this way. You want to <kanji>freeze</kanji> your leftover gyoza so you can enjoy it later, but you doubt it will turn out all right and it always congeals in a gross, half-frozen gyoza block. Yuck!",
   "meaningMnemonic": "If you try to turn something into <radical>ice</radical> while having <radical>doubt</radical>s, it will just <kanji>congeal</kanji> instead. It will <kanji>freeze</kanji>, but it will get kinda yucky too. Your doubts will affect the ice-making process, so try not to be so worried and unsure next time you want normal ice.",
-  "vocabularyIds": [
-    8188,
-    8189,
-    8190
-  ],
-  "radicalIds": [
-    123,
-    8832
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%87%9D"
+  "readingMnemonic": "You always end up <kanji>congeal</kanji>ing your <reading>gyo</reading>za (ぎょう) this way. You want to <kanji>freeze</kanji> your leftover gyoza so you can enjoy it later, but you doubt it will turn out all right and it always congeals in a gross, half-frozen gyoza block. Yuck!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%87%9D"
+  },
+  "related": {
+    "radicals": [
+      123,
+      8832
+    ],
+    "vocabularies": [
+      8188,
+      8189,
+      8190
+    ]
+  }
 }

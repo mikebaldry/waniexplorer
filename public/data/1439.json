@@ -1,33 +1,41 @@
 {
   "id": 1439,
   "type": "kanji",
-  "character": "騒",
-  "primaryMeaning": "Boisterous",
-  "otherMeanings": [],
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "騒"
+  },
   "primaryReading": "そう",
   "readings": [
     {
-      "reading": "そう",
       "primary": true,
+      "reading": "そう",
       "type": "onyomi"
     },
     {
-      "reading": "さわ",
       "primary": false,
+      "reading": "さわ",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "At the height of their <kanji>boisterous</kanji> sounds, there's a sudden, awful CRONCH(!) and you see the <reading>sou</reading>l (そう) of the insect slowly rising out of the room, through the ceiling.",
+  "primaryMeaning": "Boisterous",
+  "otherMeanings": [],
   "meaningMnemonic": "A <radical>horse</radical> gets trapped in a small room with a <radical>stool</radical> and an <radical>insect</radical>, and together they create a very <kanji>boisterous</kanji> situation. The horse and the insect are both scrambling frantically to get out of the small room, knocking the stool around all over the place.",
-  "vocabularyIds": [
-    5386,
-    5387,
-    5518
-  ],
-  "radicalIds": [
-    165,
-    30,
-    89
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%A8%92"
+  "readingMnemonic": "At the height of their <kanji>boisterous</kanji> sounds, there's a sudden, awful CRONCH(!) and you see the <reading>sou</reading>l (そう) of the insect slowly rising out of the room, through the ceiling.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%A8%92"
+  },
+  "related": {
+    "radicals": [
+      165,
+      30,
+      89
+    ],
+    "vocabularies": [
+      5386,
+      5387,
+      5518
+    ]
+  }
 }

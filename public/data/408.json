@@ -1,12 +1,15 @@
 {
   "id": 408,
   "type": "radical",
-  "primaryMeaning": "Height",
-  "otherMeanings": [],
-  "character": {
+  "level": 15,
+  "characters": {
     "type": "text",
     "value": "丈"
   },
+  "primaryMeaning": "Height",
+  "otherMeanings": [],
   "meaningMnemonic": "There is a narwhal at the top of this slide. What's it doing? The narwhal is trying to increase its <radical>height</radical>. Picture a narwhal propping itself up on a slide. It's self-conscious of its height. It's trying to prove to all the other narwhals that it should be allowed to play in their narwhal games, even though it's not the same height as them.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/height"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/height"
+  }
 }

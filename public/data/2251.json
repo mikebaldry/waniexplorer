@@ -1,51 +1,59 @@
 {
   "id": 2251,
   "type": "kanji",
-  "character": "呆",
-  "primaryMeaning": "Shock",
-  "otherMeanings": [],
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "呆"
+  },
   "primaryReading": "ほう",
   "readings": [
     {
-      "reading": "ほう",
       "primary": true,
+      "reading": "ほう",
       "type": "onyomi"
     },
     {
+      "primary": false,
       "reading": "あき",
-      "primary": false,
       "type": "kunyomi"
     },
     {
+      "primary": false,
       "reading": "おろか",
-      "primary": false,
       "type": "kunyomi"
     },
     {
+      "primary": false,
       "reading": "ほけ",
-      "primary": false,
       "type": "kunyomi"
     },
     {
-      "reading": "ぼ",
       "primary": false,
+      "reading": "ぼ",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "The <kanji>shock</kanji> you've suffered results in you needing to stay <reading>ho</reading>me (ほう) from now on. You don't get to travel, explore, or even get groceries. You're homebound from now on, buddy.",
+  "primaryMeaning": "Shock",
+  "otherMeanings": [],
   "meaningMnemonic": "You see a <radical>mouth</radical> coming out of the top of a <radical>tree</radical> so you go into <kanji>shock</kanji>. Your brain just can't comprehend what's in front of you.",
-  "vocabularyIds": [
-    8080,
-    8081,
-    8126,
-    8262,
-    8439,
-    8440,
-    8441
-  ],
-  "radicalIds": [
-    16,
-    23
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%91%86"
+  "readingMnemonic": "The <kanji>shock</kanji> you've suffered results in you needing to stay <reading>ho</reading>me (ほう) from now on. You don't get to travel, explore, or even get groceries. You're homebound from now on, buddy.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%91%86"
+  },
+  "related": {
+    "radicals": [
+      16,
+      23
+    ],
+    "vocabularies": [
+      8080,
+      8081,
+      8126,
+      8262,
+      8439,
+      8440,
+      8441
+    ]
+  }
 }

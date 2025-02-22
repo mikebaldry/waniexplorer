@@ -1,45 +1,20 @@
 {
   "id": 7642,
   "type": "vocabulary",
-  "characters": "辞典",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "辞典"
+  },
   "primaryMeaning": "Dictionary",
+  "meaningMnemonic": "You need to know the <kanji>word</kanji> <kanji>rule</kanji>s of the language you're learning, don't you? Then you need a good <vocabulary>dictionary</vocabulary> that can explain its <vocabulary>lexicon</vocabulary>!",
+  "primaryReading": "じてん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Lexicon"
   ],
-  "primaryReading": "じてん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 981,
-      "character": "辞",
-      "readings": [
-        "じ",
-        "や"
-      ]
-    },
-    {
-      "id": 975,
-      "character": "典",
-      "readings": [
-        "てん"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You need to know the <kanji>word</kanji> <kanji>rule</kanji>s of the language you're learning, don't you? Then you need a good <vocabulary>dictionary</vocabulary> that can explain its <vocabulary>lexicon</vocabulary>!",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%BE%9E%E5%85%B8",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "辞",
-      "id": 981,
-      "reading": "じ"
-    },
-    {
-      "type": "kanji",
-      "value": "典",
-      "id": 975,
-      "reading": "てん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%BE%9E%E5%85%B8"
+  }
 }

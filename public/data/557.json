@@ -1,46 +1,54 @@
 {
   "id": 557,
   "type": "kanji",
-  "character": "花",
-  "primaryMeaning": "Flower",
-  "otherMeanings": [],
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "花"
+  },
   "primaryReading": "はな",
   "readings": [
     {
-      "reading": "はな",
       "primary": true,
+      "reading": "はな",
       "type": "kunyomi"
     },
     {
-      "reading": "か",
       "primary": false,
+      "reading": "か",
       "type": "onyomi"
     },
     {
-      "reading": "け",
       "primary": false,
+      "reading": "け",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "But for some reason, the leader just can't stop planting <kanji>flower</kanji>s... He's going crazy. Maybe it's the pollen? Now there’s only one person that can save him: <reading>Hannah</reading> (はな). ",
+  "primaryMeaning": "Flower",
+  "otherMeanings": [],
   "meaningMnemonic": "All these <radical>flowers</radical> were planted by your <radical>leader</radical> with nothing but a <radical>spoon</radical>. Now the whole place is absolutely full with beautiful <kanji>flower</kanji>s. Flowers everywhere.",
-  "vocabularyIds": [
-    2694,
-    2695,
-    2696,
-    5472,
-    7072,
-    7296,
-    7446,
-    7814,
-    7831,
-    8593,
-    8609
-  ],
-  "radicalIds": [
-    90,
-    75,
-    57
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%8A%B1"
+  "readingMnemonic": "But for some reason, the leader just can't stop planting <kanji>flower</kanji>s... He's going crazy. Maybe it's the pollen? Now there’s only one person that can save him: <reading>Hannah</reading> (はな). ",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%8A%B1"
+  },
+  "related": {
+    "radicals": [
+      90,
+      75,
+      57
+    ],
+    "vocabularies": [
+      2694,
+      2695,
+      2696,
+      5472,
+      7072,
+      7296,
+      7446,
+      7814,
+      7831,
+      8593,
+      8609
+    ]
+  }
 }

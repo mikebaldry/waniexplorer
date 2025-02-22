@@ -1,40 +1,22 @@
 {
   "id": 7471,
   "type": "vocabulary",
-  "characters": "汚い",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "汚い"
+  },
   "primaryMeaning": "Dirty",
+  "meaningMnemonic": "This is the adjective form of 汚, which is <kanji>dirty</kanji>. This word is the adjective <vocabulary>dirty</vocabulary>, but you can also use it to say things like <vocabulary>filthy</vocabulary>, <vocabulary>foul</vocabulary>, or <vocabulary>unclean</vocabulary>.",
+  "primaryReading": "きたない",
+  "readingMnemonic": "The reading is different from the other kun'yomi readings you've learned so far with this word. It is きたない. Think of it like you're saying \"<reading>来た、な</reading>\", as in \"it came, huh?\" What came? A really dirty looking monster, and it's coming for you.",
   "otherMeanings": [
     "Filthy",
     "Foul",
     "Unclean"
   ],
-  "primaryReading": "きたない",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1506,
-      "character": "汚",
-      "readings": [
-        "お",
-        "よご",
-        "きたな",
-        "けが"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This is the adjective form of 汚, which is <kanji>dirty</kanji>. This word is the adjective <vocabulary>dirty</vocabulary>, but you can also use it to say things like <vocabulary>filthy</vocabulary>, <vocabulary>foul</vocabulary>, or <vocabulary>unclean</vocabulary>.",
-  "readingMnemonic": "The reading is different from the other kun'yomi readings you've learned so far with this word. It is きたない. Think of it like you're saying \"<reading>来た、な</reading>\", as in \"it came, huh?\" What came? A really dirty looking monster, and it's coming for you.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B1%9A%E3%81%84",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "汚",
-      "id": 1506,
-      "reading": "きたな"
-    },
-    {
-      "type": "kana",
-      "value": "い"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B1%9A%E3%81%84"
+  }
 }

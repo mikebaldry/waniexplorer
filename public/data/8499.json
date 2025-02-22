@@ -1,44 +1,20 @@
 {
   "id": 8499,
   "type": "vocabulary",
-  "characters": "恩赦",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "恩赦"
+  },
   "primaryMeaning": "Amnesty",
+  "meaningMnemonic": "<kanji>Pardon</kanji> someone out of the <kanji>kindness</kanji> in your heart and you'll have granted them <vocabulary>amnesty</vocabulary>. How kind of you.",
+  "primaryReading": "おんしゃ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Pardon"
   ],
-  "primaryReading": "おんしゃ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1483,
-      "character": "恩",
-      "readings": [
-        "おん"
-      ]
-    },
-    {
-      "id": 2366,
-      "character": "赦",
-      "readings": [
-        "しゃ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Pardon</kanji> someone out of the <kanji>kindness</kanji> in your heart and you'll have granted them <vocabulary>amnesty</vocabulary>. How kind of you.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%81%A9%E8%B5%A6",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "恩",
-      "id": 1483,
-      "reading": "おん"
-    },
-    {
-      "type": "kanji",
-      "value": "赦",
-      "id": 2366,
-      "reading": "しゃ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%81%A9%E8%B5%A6"
+  }
 }

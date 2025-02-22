@@ -1,42 +1,50 @@
 {
   "id": 536,
   "type": "kanji",
-  "character": "打",
-  "primaryMeaning": "Hit",
-  "otherMeanings": [],
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "打"
+  },
   "primaryReading": "だ",
   "readings": [
     {
-      "reading": "だ",
       "primary": true,
+      "reading": "だ",
       "type": "onyomi"
     },
     {
-      "reading": "う",
       "primary": false,
+      "reading": "う",
       "type": "kunyomi"
     },
     {
-      "reading": "ぶ",
       "primary": false,
+      "reading": "ぶ",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "As you <kanji>hit</kanji> one chump after another, suddenly your <reading>da</reading>d (だ) comes marching out of your house. Uh oh. Dad caught you hitting, which, honestly, isn't a very nice thing to do, so he has every right to stop you.",
+  "primaryMeaning": "Hit",
+  "otherMeanings": [],
   "meaningMnemonic": "Take your <radical>fingers</radical> to the <radical>street</radical> to <kanji>hit</kanji> some people! Street fingers are for curling into a fist. And that street fist wants to do some hitting!",
-  "vocabularyIds": [
-    2688,
-    2729,
-    2730,
-    5139,
-    6071,
-    6244,
-    6420,
-    7252
-  ],
-  "radicalIds": [
-    63,
-    27
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%89%93"
+  "readingMnemonic": "As you <kanji>hit</kanji> one chump after another, suddenly your <reading>da</reading>d (だ) comes marching out of your house. Uh oh. Dad caught you hitting, which, honestly, isn't a very nice thing to do, so he has every right to stop you.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%89%93"
+  },
+  "related": {
+    "radicals": [
+      63,
+      27
+    ],
+    "vocabularies": [
+      2688,
+      2729,
+      2730,
+      5139,
+      6071,
+      6244,
+      6420,
+      7252
+    ]
+  }
 }

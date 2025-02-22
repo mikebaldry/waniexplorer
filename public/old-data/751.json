@@ -1,0 +1,40 @@
+{
+  "id": 751,
+  "type": "kanji",
+  "character": "軽",
+  "primaryMeaning": "Lightweight",
+  "otherMeanings": [
+    "Light",
+    "Light Weight"
+  ],
+  "primaryReading": "かる",
+  "readings": [
+    {
+      "reading": "かる",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "かろ",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "けい",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "What do you wish you had to transport this tombstone? Oh, that’s right, a car. So you need some kind of <reading>car</reading> <reading>loo</reading>phole (かる). If you had a car, this tombstone moving business would be no problem. To cars, tombstones are naught but <kanji>lightweight</kanji> pebbles! But the rules say you can't use cars to carry tombstones, so you need to find a car loophole.",
+  "meaningMnemonic": "For a <radical>car</radical>, a <radical>tombstone</radical> is <kanji>lightweight</kanji>. Cars are very strong, you see, so something heavy like a tombstone is no match for them. All cars find tombstones to be <kanji>light</kanji> and easy to transport.",
+  "vocabularyIds": [
+    3182,
+    8578,
+    9270
+  ],
+  "radicalIds": [
+    93,
+    179
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%BB%BD"
+}

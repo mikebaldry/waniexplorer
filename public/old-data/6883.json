@@ -1,0 +1,45 @@
+{
+  "id": 6883,
+  "type": "vocabulary",
+  "characters": "井戸",
+  "primaryMeaning": "Well",
+  "otherMeanings": [],
+  "primaryReading": "いど",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1918,
+      "character": "井",
+      "readings": [
+        "い",
+        "しょう",
+        "せい"
+      ]
+    },
+    {
+      "id": 509,
+      "character": "戸",
+      "readings": [
+        "と",
+        "こ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>well</kanji> <kanji>door</kanji> is just a <vocabulary>well</vocabulary>. It's the door that goes into the well hole, making it a well.",
+  "readingMnemonic": "This kanji uses the kun'yomi readings for each kanji, for some reason. You learned the kun'yomi reading for both of these kanji as their primary readings already, just watch out for 戸 getting rendaku'd so it becomes ど instead of と. ",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BA%95%E6%88%B8",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "井",
+      "id": 1918,
+      "reading": "い"
+    },
+    {
+      "type": "kanji",
+      "value": "戸",
+      "id": 509,
+      "reading": "ど"
+    }
+  ]
+}

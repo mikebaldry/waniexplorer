@@ -1,0 +1,46 @@
+{
+  "id": 812,
+  "type": "kanji",
+  "character": "味",
+  "primaryMeaning": "Flavor",
+  "otherMeanings": [
+    "Taste"
+  ],
+  "primaryReading": "み",
+  "readings": [
+    {
+      "reading": "み",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "あじ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "And what has more <kanji>flavor</kanji> than a big slab of <reading>me</reading>at (み)? You love meat and its flavor nearly as much as you love the flavor of its juice. So many good things to put in your mouth! ",
+  "meaningMnemonic": "What is the <radical>jet</radical> of your <radical>mouth</radical>? It's <kanji>flavor</kanji>. It's what shoots your mouth off, which explains why it hurts so much when you eat something awesome.",
+  "vocabularyIds": [
+    3318,
+    3319,
+    3973,
+    4483,
+    5501,
+    5546,
+    5741,
+    5904,
+    6046,
+    6656,
+    6668,
+    6951,
+    7150,
+    7463,
+    8526
+  ],
+  "radicalIds": [
+    16,
+    134
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%91%B3"
+}

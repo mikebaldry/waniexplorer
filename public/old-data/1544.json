@@ -1,0 +1,27 @@
+{
+  "id": 1544,
+  "type": "kanji",
+  "character": "賃",
+  "primaryMeaning": "Rent",
+  "otherMeanings": [],
+  "primaryReading": "ちん",
+  "readings": [
+    {
+      "reading": "ちん",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "If you don't have enough shellfish to pay your <kanji>rent</kanji>, King Shellfish will punch you in the <reading>chin</reading> (ちん).",
+  "meaningMnemonic": "The <radical>leader</radical> who is <radical>king</radical> of every <radical>shellfish</radical> sets the <kanji>rent</kanji> for everyone. If you rent a home in King Shellfish's kingdom, the rent will be set by the great shellfish leader himself.",
+  "vocabularyIds": [
+    5697,
+    5698
+  ],
+  "radicalIds": [
+    75,
+    48,
+    94
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%B3%83"
+}

@@ -1,34 +1,42 @@
 {
   "id": 1811,
   "type": "kanji",
-  "character": "括",
-  "primaryMeaning": "Fasten",
-  "otherMeanings": [],
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "括"
+  },
   "primaryReading": "かつ",
   "readings": [
     {
-      "reading": "かつ",
       "primary": true,
+      "reading": "かつ",
       "type": "onyomi"
     },
     {
-      "reading": "くく",
       "primary": false,
+      "reading": "くく",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "Only one creature could use its fingers to <kanji>fasten</kanji> your tongue like this: <reading>cats</reading> (かつ). Cats are notorious for fastening tongues so that people can't speak. Haven't you ever heard the phrase, \"Cat got your tongue?\"",
+  "primaryMeaning": "Fasten",
+  "otherMeanings": [],
   "meaningMnemonic": "Someone's <radical>fingers</radical> touch your <radical>tongue</radical> and <kanji>fasten</kanji> it together. You can't talk. All you can do is make sad tongue-less sounds as you try to figure out who would fasten your tongue like this.",
-  "vocabularyIds": [
-    6583,
-    6584,
-    6585,
-    6586,
-    6587
-  ],
-  "radicalIds": [
-    63,
-    174
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%8B%AC"
+  "readingMnemonic": "Only one creature could use its fingers to <kanji>fasten</kanji> your tongue like this: <reading>cats</reading> (かつ). Cats are notorious for fastening tongues so that people can't speak. Haven't you ever heard the phrase, \"Cat got your tongue?\"",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%8B%AC"
+  },
+  "related": {
+    "radicals": [
+      63,
+      174
+    ],
+    "vocabularies": [
+      6583,
+      6584,
+      6585,
+      6586,
+      6587
+    ]
+  }
 }

@@ -1,0 +1,47 @@
+{
+  "id": 3023,
+  "type": "vocabulary",
+  "characters": "研究",
+  "primaryMeaning": "Research",
+  "otherMeanings": [
+    "Investigation",
+    "Study"
+  ],
+  "primaryReading": "けんきゅう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 691,
+      "character": "研",
+      "readings": [
+        "けん",
+        "と"
+      ]
+    },
+    {
+      "id": 688,
+      "character": "究",
+      "readings": [
+        "きゅう",
+        "きわ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you <kanji>sharpen</kanji> <kanji>research</kanji> you're just doing a <vocabulary>study</vocabulary> or <vocabulary>investigation</vocabulary>. Or in other words, you're doing <vocabulary>research</vocabulary>!",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A0%94%E7%A9%B6",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "研",
+      "id": 691,
+      "reading": "けん"
+    },
+    {
+      "type": "kanji",
+      "value": "究",
+      "id": 688,
+      "reading": "きゅう"
+    }
+  ]
+}

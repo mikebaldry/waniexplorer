@@ -1,43 +1,18 @@
 {
   "id": 5475,
   "type": "vocabulary",
-  "characters": "山脈",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "山脈"
+  },
   "primaryMeaning": "Mountain Range",
-  "otherMeanings": [],
-  "primaryReading": "さんみゃく",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 455,
-      "character": "山",
-      "readings": [
-        "さん",
-        "やま"
-      ]
-    },
-    {
-      "id": 1468,
-      "character": "脈",
-      "readings": [
-        "みゃく"
-      ]
-    }
-  ],
   "meaningMnemonic": "A <kanji>mountain</kanji> <kanji>vein</kanji> is a vein that extends across the land, and is covered in mountains. This refers to a <vocabulary>mountain range</vocabulary>.",
+  "primaryReading": "さんみゃく",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B1%B1%E8%84%88",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "山",
-      "id": 455,
-      "reading": "さん"
-    },
-    {
-      "type": "kanji",
-      "value": "脈",
-      "id": 1468,
-      "reading": "みゃく"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%B1%B1%E8%84%88"
+  }
 }

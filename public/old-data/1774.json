@@ -1,0 +1,31 @@
+{
+  "id": 1774,
+  "type": "kanji",
+  "character": "遜",
+  "primaryMeaning": "Humble",
+  "otherMeanings": [],
+  "primaryReading": "そん",
+  "readings": [
+    {
+      "reading": "そん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "したが",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "This <kanji>humble</kanji> child is your <reading>son</reading> (そん). You don't want any child of yours flaunting his wealth and good standing in the faces of other people. You've taught them to be humble.",
+  "meaningMnemonic": "On this <radical>scooter</radical> is a <radical>child</radical> who's trying to show that his <radical>lineage</radical> is <kanji>humble</kanji>. All of the other children are going around in fancy cars or helicopters, but this one child wants to be a humble child of the people, so he scoots on a plebeian scooter.",
+  "vocabularyIds": [
+    6464
+  ],
+  "radicalIds": [
+    114,
+    34,
+    329
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%81%9C"
+}

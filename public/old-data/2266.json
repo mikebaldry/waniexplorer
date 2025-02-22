@@ -1,0 +1,33 @@
+{
+  "id": 2266,
+  "type": "kanji",
+  "character": "惜",
+  "primaryMeaning": "Frugal",
+  "otherMeanings": [],
+  "primaryReading": "せき",
+  "readings": [
+    {
+      "reading": "せき",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "お",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You know what being <kanji>frugal</kanji> is? <reading>Sexy</reading> (せき). You save money, you use less resources, that's the sexiest thing I can think of.",
+  "meaningMnemonic": "Your <radical>soul</radical> <radical>long ago</radical> was very <kanji>frugal</kanji>, which is why you get to have too much in this life!",
+  "vocabularyIds": [
+    8200,
+    8201,
+    8362,
+    8534
+  ],
+  "radicalIds": [
+    232,
+    256
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%83%9C"
+}

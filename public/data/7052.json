@@ -1,46 +1,20 @@
 {
   "id": 7052,
   "type": "vocabulary",
-  "characters": "書架",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "書架"
+  },
   "primaryMeaning": "Bookshelf",
+  "meaningMnemonic": "A <kanji>write</kanji> <kanji>shelf</kanji> is a shelf with writing on it. That's a <vocabulary>bookshelf</vocabulary> or <vocabulary>bookcase</vocabulary>.",
+  "primaryReading": "しょか",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Bookcase"
   ],
-  "primaryReading": "しょか",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 962,
-      "character": "書",
-      "readings": [
-        "しょ",
-        "か"
-      ]
-    },
-    {
-      "id": 1976,
-      "character": "架",
-      "readings": [
-        "か",
-        "か"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>write</kanji> <kanji>shelf</kanji> is a shelf with writing on it. That's a <vocabulary>bookshelf</vocabulary> or <vocabulary>bookcase</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9B%B8%E6%9E%B6",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "書",
-      "id": 962,
-      "reading": "しょ"
-    },
-    {
-      "type": "kanji",
-      "value": "架",
-      "id": 1976,
-      "reading": "か"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%9B%B8%E6%9E%B6"
+  }
 }

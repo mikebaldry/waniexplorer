@@ -1,0 +1,39 @@
+{
+  "id": 740,
+  "type": "kanji",
+  "character": "起",
+  "primaryMeaning": "Wake Up",
+  "otherMeanings": [],
+  "primaryReading": "お",
+  "readings": [
+    {
+      "reading": "お",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "き",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "If one runs into oneself and you don't <kanji>wake up</kanji>, just look down at your waist. If you're wearing an <reading>o</reading>bi (お) you know it's a dream and you'll eventually wake up. If you aren't wearing an obi then it isn't a dream and you don't have anything to wake up from.",
+  "meaningMnemonic": "<radical>Run</radical> into <radical>oneself</radical> in a dream and you'll definitely <kanji>wake up</kanji>.",
+  "vocabularyIds": [
+    3159,
+    3562,
+    3889,
+    6266,
+    6580,
+    6775,
+    7402,
+    7788,
+    8178,
+    8479
+  ],
+  "radicalIds": [
+    124,
+    228
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%B5%B7"
+}

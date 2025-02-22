@@ -1,36 +1,20 @@
 {
   "id": 4562,
   "type": "vocabulary",
-  "characters": "応じる",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "応じる"
+  },
   "primaryMeaning": "To Respond",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>respond</kanji> so the verb vocab version is <vocabulary>to respond</vocabulary>.\n\n応じる is a formal word that describes acting favorably in response to a call, request, or demand. For example, 注文に応じる goes beyond just taking orders; it means adapting appropriately and fulfilling them.",
+  "primaryReading": "おうじる",
+  "readingMnemonic": "The reading is actually the same as the one you learned with the kanji! Not too shabby.",
   "otherMeanings": [
     "To Comply"
   ],
-  "primaryReading": "おうじる",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1180,
-      "character": "応",
-      "readings": [
-        "おう",
-        "こた"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>respond</kanji> so the verb vocab version is <vocabulary>to respond</vocabulary>.\n\n応じる is a formal word that describes acting favorably in response to a call, request, or demand. For example, 注文に応じる goes beyond just taking orders; it means adapting appropriately and fulfilling them.",
-  "readingMnemonic": "The reading is actually the same as the one you learned with the kanji! Not too shabby.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BF%9C%E3%81%98%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "応",
-      "id": 1180,
-      "reading": "おう"
-    },
-    {
-      "type": "kana",
-      "value": "じる"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%BF%9C%E3%81%98%E3%82%8B"
+  }
 }

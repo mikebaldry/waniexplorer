@@ -1,0 +1,39 @@
+{
+  "id": 1699,
+  "type": "kanji",
+  "character": "緒",
+  "primaryMeaning": "Together",
+  "otherMeanings": [],
+  "primaryReading": "しょ",
+  "readings": [
+    {
+      "reading": "しょ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ちょ",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "お",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You’re threading this someone back <kanji>together</kanji> as part of a <reading>show</reading> (しょ). The show is a demonstration to show med students how to thread someone’s skin together after they have an accident. You’re the most experienced, so you’re leading the show.",
+  "meaningMnemonic": "You <radical>thread</radical> <radical>someone</radical> <kanji>together</kanji> with thread. Someone is falling apart so you use thread to put them back together.",
+  "vocabularyIds": [
+    6210,
+    6211,
+    6351,
+    9068,
+    9069
+  ],
+  "radicalIds": [
+    86,
+    203
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%B7%92"
+}

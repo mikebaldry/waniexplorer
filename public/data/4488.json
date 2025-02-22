@@ -1,37 +1,21 @@
 {
   "id": 4488,
   "type": "vocabulary",
-  "characters": "寝る",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "寝る"
+  },
   "primaryMeaning": "To Sleep",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>sleep</kanji> or <kanji>lie down</kanji>, so the verb vocab version is <vocabulary>to sleep</vocabulary> or <vocabulary>to lie down</vocabulary>—just like what you do when you decide <vocabulary>to go to bed</vocabulary>.",
+  "primaryReading": "ねる",
+  "readingMnemonic": "The reading is the same as the reading you learned with the kanji. So, you can go ahead and lie down for a moment before moving on to the next item.",
   "otherMeanings": [
     "To Lie Down",
     "To Go To Bed"
   ],
-  "primaryReading": "ねる",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1160,
-      "character": "寝",
-      "readings": [
-        "ね",
-        "しん"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>sleep</kanji> or <kanji>lie down</kanji>, so the verb vocab version is <vocabulary>to sleep</vocabulary> or <vocabulary>to lie down</vocabulary>—just like what you do when you decide <vocabulary>to go to bed</vocabulary>.",
-  "readingMnemonic": "The reading is the same as the reading you learned with the kanji. So, you can go ahead and lie down for a moment before moving on to the next item.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AF%9D%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "寝",
-      "id": 1160,
-      "reading": "ね"
-    },
-    {
-      "type": "kana",
-      "value": "る"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%AF%9D%E3%82%8B"
+  }
 }

@@ -1,62 +1,20 @@
 {
   "id": 5946,
   "type": "vocabulary",
-  "characters": "放射能",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "放射能"
+  },
   "primaryMeaning": "Radioactivity",
+  "meaningMnemonic": "放射 is \"radiation.\" Add the <kanji>ability</kanji> of radiation and you have <vocabulary>radioactivity</vocabulary>, for some reason. I guess things don't have radioactivity until you have given them the ability of radiation, right?",
+  "primaryReading": "ほうしゃのう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Radiation"
   ],
-  "primaryReading": "ほうしゃのう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 791,
-      "character": "放",
-      "readings": [
-        "ほう",
-        "はな",
-        "ほう"
-      ]
-    },
-    {
-      "id": 1561,
-      "character": "射",
-      "readings": [
-        "しゃ",
-        "い",
-        "さ",
-        "う"
-      ]
-    },
-    {
-      "id": 921,
-      "character": "能",
-      "readings": [
-        "のう"
-      ]
-    }
-  ],
-  "meaningMnemonic": "放射 is \"radiation.\" Add the <kanji>ability</kanji> of radiation and you have <vocabulary>radioactivity</vocabulary>, for some reason. I guess things don't have radioactivity until you have given them the ability of radiation, right?",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%94%BE%E5%B0%84%E8%83%BD",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "放",
-      "id": 791,
-      "reading": "ほう"
-    },
-    {
-      "type": "kanji",
-      "value": "射",
-      "id": 1561,
-      "reading": "しゃ"
-    },
-    {
-      "type": "kanji",
-      "value": "能",
-      "id": 921,
-      "reading": "のう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%94%BE%E5%B0%84%E8%83%BD"
+  }
 }

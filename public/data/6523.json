@@ -1,32 +1,20 @@
 {
   "id": 6523,
   "type": "vocabulary",
-  "characters": "畑",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "畑"
+  },
   "primaryMeaning": "Field",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well. \n\nYou can also stick this after the name of a crop and get a ____ <vocabulary>field</vocabulary>.",
+  "primaryReading": "はたけ",
+  "readingMnemonic": "The reading is the one you learned with the kanji.\n\nNote when you stick this onto a type of crop to mean a ____ <vocabulary>field</vocabulary>, this gets rendaku'd to ばたけ.",
   "otherMeanings": [
     "Farmland"
   ],
-  "primaryReading": "はたけ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1794,
-      "character": "畑",
-      "readings": [
-        "はたけ",
-        "はた"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well. \n\nYou can also stick this after the name of a crop and get a ____ <vocabulary>field</vocabulary>.",
-  "readingMnemonic": "The reading is the one you learned with the kanji.\n\nNote when you stick this onto a type of crop to mean a ____ <vocabulary>field</vocabulary>, this gets rendaku'd to ばたけ.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%95%91",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "畑",
-      "id": 1794,
-      "reading": "はたけ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%95%91"
+  }
 }

@@ -1,61 +1,20 @@
 {
   "id": 3237,
   "type": "vocabulary",
-  "characters": "四十二",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "四十二"
+  },
   "primaryMeaning": "Forty Two",
+  "meaningMnemonic": "Four tens plus two. That equals <vocabulary>forty two</vocabulary>. \n\nP.S. Please don't panic. \"<vocabulary>The Answer</vocabulary>\" is NOT a correct answer for this. It is just a reference to the greatest book of all time. Sorry for the confusion and so long and thanks for all the fish.",
+  "primaryReading": "よんじゅうに",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. But! Don't forget, 四 uses the kun'yomi reading, since the on'yomi reading sounds too much like the word for \"death.\"",
   "otherMeanings": [
     "The Answer"
   ],
-  "primaryReading": "よんじゅうに",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 485,
-      "character": "四",
-      "readings": [
-        "し",
-        "よん",
-        "よ"
-      ]
-    },
-    {
-      "id": 448,
-      "character": "十",
-      "readings": [
-        "じゅう",
-        "とお"
-      ]
-    },
-    {
-      "id": 441,
-      "character": "二",
-      "readings": [
-        "に",
-        "ふた"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Four tens plus two. That equals <vocabulary>forty two</vocabulary>. \n\nP.S. Please don't panic. \"<vocabulary>The Answer</vocabulary>\" is NOT a correct answer for this. It is just a reference to the greatest book of all time. Sorry for the confusion and so long and thanks for all the fish.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. But! Don't forget, 四 uses the kun'yomi reading, since the on'yomi reading sounds too much like the word for \"death.\"",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%9B%9B%E5%8D%81%E4%BA%8C",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "四",
-      "id": 485,
-      "reading": "よん"
-    },
-    {
-      "type": "kanji",
-      "value": "十",
-      "id": 448,
-      "reading": "じゅう"
-    },
-    {
-      "type": "kanji",
-      "value": "二",
-      "id": 441,
-      "reading": "に"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%9B%9B%E5%8D%81%E4%BA%8C"
+  }
 }

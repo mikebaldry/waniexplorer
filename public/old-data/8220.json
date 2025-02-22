@@ -1,0 +1,51 @@
+{
+  "id": 8220,
+  "type": "vocabulary",
+  "characters": "栓抜き",
+  "primaryMeaning": "Bottle Opener",
+  "otherMeanings": [
+    "Corkscrew"
+  ],
+  "primaryReading": "せんぬき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2289,
+      "character": "栓",
+      "readings": [
+        "せん"
+      ]
+    },
+    {
+      "id": 1257,
+      "character": "抜",
+      "readings": [
+        "ぬ",
+        "ばつ",
+        "はつ",
+        "はい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "What do you use to <kanji>pull out</kanji> a <kanji>cork</kanji>? A <vocabulary>bottle opener</vocabulary>! Or a <vocabulary>corkscrew</vocabulary> if you're feeling adventurous.",
+  "readingMnemonic": "This word consists of the on'yomi reading for 栓 and the kun'yomi reading for 抜, which you learned with 抜く. If you can remember that, you'll be able to remember this too!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%A0%93%E6%8A%9C%E3%81%8D",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "栓",
+      "id": 2289,
+      "reading": "せん"
+    },
+    {
+      "type": "kanji",
+      "value": "抜",
+      "id": 1257,
+      "reading": "ぬ"
+    },
+    {
+      "type": "kana",
+      "value": "き"
+    }
+  ]
+}

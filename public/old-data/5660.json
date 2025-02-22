@@ -1,0 +1,43 @@
+{
+  "id": 5660,
+  "type": "vocabulary",
+  "characters": "異義",
+  "primaryMeaning": "Different Meaning",
+  "otherMeanings": [],
+  "primaryReading": "いぎ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1530,
+      "character": "異",
+      "readings": [
+        "い",
+        "こと"
+      ]
+    },
+    {
+      "id": 1154,
+      "character": "義",
+      "readings": [
+        "ぎ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "My idea of <kanji>righteousness</kanji> is <kanji>different</kanji> from yours. Really, it's just a <vocabulary>different meaning</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%95%B0%E7%BE%A9",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "異",
+      "id": 1530,
+      "reading": "い"
+    },
+    {
+      "type": "kanji",
+      "value": "義",
+      "id": 1154,
+      "reading": "ぎ"
+    }
+  ]
+}

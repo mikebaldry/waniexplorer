@@ -1,0 +1,46 @@
+{
+  "id": 5715,
+  "type": "vocabulary",
+  "characters": "了解",
+  "primaryMeaning": "Understanding",
+  "otherMeanings": [
+    "Got It",
+    "Understood"
+  ],
+  "primaryReading": "りょうかい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 465,
+      "character": "了",
+      "readings": [
+        "りょう"
+      ]
+    },
+    {
+      "id": 1150,
+      "character": "解",
+      "readings": [
+        "かい",
+        "と"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you've <kanji>finish</kanji>ed <kanji>solv</kanji>ing something, you've come to a point of <vocabulary>understanding</vocabulary>. \n\n了解 is less about deep comprehension and more about understanding something on a practical level. It's used to acknowledge receipt of information or instructions, similar to \"<vocabulary>Got it</vocabulary>\" or \"<vocabulary>Understood</vocabulary>.\"",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BA%86%E8%A7%A3",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "了",
+      "id": 465,
+      "reading": "りょう"
+    },
+    {
+      "type": "kanji",
+      "value": "解",
+      "id": 1150,
+      "reading": "かい"
+    }
+  ]
+}

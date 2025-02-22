@@ -1,0 +1,46 @@
+{
+  "id": 8290,
+  "type": "vocabulary",
+  "characters": "搾乳",
+  "primaryMeaning": "Milking",
+  "otherMeanings": [
+    "Breast Pumping"
+  ],
+  "primaryReading": "さくにゅう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2321,
+      "character": "搾",
+      "readings": [
+        "さく",
+        "しぼ"
+      ]
+    },
+    {
+      "id": 1212,
+      "character": "乳",
+      "readings": [
+        "にゅう",
+        "ちち"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Squeeze</kanji> an udder to get <kanji>milk</kanji>. Look at that, you're <vocabulary>milking</vocabulary> a cow! ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%90%BE%E4%B9%B3",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "搾",
+      "id": 2321,
+      "reading": "さく"
+    },
+    {
+      "type": "kanji",
+      "value": "乳",
+      "id": 1212,
+      "reading": "にゅう"
+    }
+  ]
+}

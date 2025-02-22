@@ -1,0 +1,49 @@
+{
+  "id": 2995,
+  "type": "vocabulary",
+  "characters": "住人",
+  "primaryMeaning": "Resident",
+  "otherMeanings": [
+    "Inhabitant",
+    "Dweller"
+  ],
+  "primaryReading": "じゅうにん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 679,
+      "character": "住",
+      "readings": [
+        "じゅう",
+        "す"
+      ]
+    },
+    {
+      "id": 444,
+      "character": "人",
+      "readings": [
+        "にん",
+        "じん",
+        "ひと",
+        "と"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you <kanji>dwell</kanji> somewhere and you’re a <kanji>person</kanji>, that makes you a <vocabulary>resident</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 人 has two on'yomi readings, here's a mnemonic to help you remember which one to use:\n\nAll the <vocabulary>resident</vocabulary>s in my area care about is <reading>jew</reading>els and <reading>Nin</reading>tendo (じゅうにん). Their houses are crammed full of jewels and Nintendo stuff. How about the residents of your town? I bet they all love jewels and Nintendo too.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BD%8F%E4%BA%BA",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "住",
+      "id": 679,
+      "reading": "じゅう"
+    },
+    {
+      "type": "kanji",
+      "value": "人",
+      "id": 444,
+      "reading": "にん"
+    }
+  ]
+}

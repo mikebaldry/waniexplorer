@@ -1,0 +1,31 @@
+{
+  "id": 6906,
+  "type": "vocabulary",
+  "characters": "卓",
+  "primaryMeaning": "Table",
+  "otherMeanings": [
+    "Desk"
+  ],
+  "primaryReading": "たく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1928,
+      "character": "卓",
+      "readings": [
+        "たく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "The reading is the same as the reading you learned with the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8D%93",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "卓",
+      "id": 1928,
+      "reading": "たく"
+    }
+  ]
+}

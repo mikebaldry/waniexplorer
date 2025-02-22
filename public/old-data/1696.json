@@ -1,0 +1,38 @@
+{
+  "id": 1696,
+  "type": "kanji",
+  "character": "描",
+  "primaryMeaning": "Draw",
+  "otherMeanings": [],
+  "primaryReading": "びょう",
+  "readings": [
+    {
+      "reading": "びょう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "か",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "えが",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Even though you tried to <kanji>draw</kanji> the flowers as best you could, whenever someone looks at it they smell <reading>B.O.</reading> (びょう). Maybe it's because you were drawing for a really long time and kept sweating. Maybe it's because you are just a stinky person. But no one wants to look at your drawing for long because all they can smell is B.O.",
+  "meaningMnemonic": "When you see <radical>flowers</radical> in a <radical>rice paddy</radical> you can't help but use your <radical>fingers</radical> to <kanji>draw</kanji> them. Have you ever seen rice paddy flowers? They're beautiful. And if you can draw them you can capture that beauty and show it to everyone.",
+  "vocabularyIds": [
+    6201,
+    6202,
+    6203
+  ],
+  "radicalIds": [
+    63,
+    90,
+    51
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%8F%8F"
+}

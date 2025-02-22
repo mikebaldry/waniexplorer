@@ -1,12 +1,15 @@
 {
   "id": 172,
   "type": "radical",
-  "primaryMeaning": "Easy",
-  "otherMeanings": [],
-  "character": {
+  "level": 8,
+  "characters": {
     "type": "text",
     "value": "易"
   },
+  "primaryMeaning": "Easy",
+  "otherMeanings": [],
   "meaningMnemonic": "Flying to the sun with wings is <radical>easy</radical>! Or so Icarus thinks. Someone should probably tell him…",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/easy"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/easy"
+  }
 }

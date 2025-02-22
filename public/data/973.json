@@ -1,33 +1,41 @@
 {
   "id": 973,
   "type": "kanji",
-  "character": "荷",
-  "primaryMeaning": "Luggage",
-  "otherMeanings": [],
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "荷"
+  },
   "primaryReading": "に",
   "readings": [
     {
-      "reading": "に",
       "primary": true,
+      "reading": "に",
       "type": "kunyomi"
     },
     {
-      "reading": "か",
       "primary": false,
+      "reading": "か",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "Unconvinced by your flattery, the leader refuses to carry your <kanji>luggage</kanji>, so you get on your <reading>knee</reading>s (に) and beg them to carry it.",
+  "primaryMeaning": "Luggage",
+  "otherMeanings": [],
   "meaningMnemonic": "You offer <radical>flowers</radical> to your <radical>leader</radical> and compliment them on their <radical>lip ring</radical>. You think that by doing this they might carry your <kanji>luggage</kanji>.",
-  "vocabularyIds": [
-    3860,
-    4061,
-    8806
-  ],
-  "radicalIds": [
-    90,
-    75,
-    113
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%8D%B7"
+  "readingMnemonic": "Unconvinced by your flattery, the leader refuses to carry your <kanji>luggage</kanji>, so you get on your <reading>knee</reading>s (に) and beg them to carry it.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%8D%B7"
+  },
+  "related": {
+    "radicals": [
+      90,
+      75,
+      113
+    ],
+    "vocabularies": [
+      3860,
+      4061,
+      8806
+    ]
+  }
 }

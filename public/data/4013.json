@@ -1,47 +1,20 @@
 {
   "id": 4013,
   "type": "vocabulary",
-  "characters": "光栄",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "光栄"
+  },
   "primaryMeaning": "Honor",
+  "meaningMnemonic": "When a <kanji>light</kanji> shines on how much you've <kanji>prosper</kanji>ed, it's a great <vocabulary>honor</vocabulary>. You don't feel like you did anything so special, but it's really a privilege for the light to come down on you like this.",
+  "primaryReading": "こうえい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Privilege"
   ],
-  "primaryReading": "こうえい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 567,
-      "character": "光",
-      "readings": [
-        "こう",
-        "ひかり",
-        "ひか"
-      ]
-    },
-    {
-      "id": 1006,
-      "character": "栄",
-      "readings": [
-        "えい",
-        "さか"
-      ]
-    }
-  ],
-  "meaningMnemonic": "When a <kanji>light</kanji> shines on how much you've <kanji>prosper</kanji>ed, it's a great <vocabulary>honor</vocabulary>. You don't feel like you did anything so special, but it's really a privilege for the light to come down on you like this.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%85%89%E6%A0%84",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "光",
-      "id": 567,
-      "reading": "こう"
-    },
-    {
-      "type": "kanji",
-      "value": "栄",
-      "id": 1006,
-      "reading": "えい"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%85%89%E6%A0%84"
+  }
 }

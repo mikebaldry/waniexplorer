@@ -1,30 +1,18 @@
 {
   "id": 2643,
   "type": "vocabulary",
-  "characters": "矢",
+  "level": 3,
+  "characters": {
+    "type": "text",
+    "value": "矢"
+  },
   "primaryMeaning": "Arrow",
-  "otherMeanings": [],
-  "primaryReading": "や",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 526,
-      "character": "矢",
-      "readings": [
-        "や",
-        "し"
-      ]
-    }
-  ],
   "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "や",
   "readingMnemonic": "The reading for this word is the same as the one you learned when learning the kanji.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%9F%A2",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "矢",
-      "id": 526,
-      "reading": "や"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%9F%A2"
+  }
 }

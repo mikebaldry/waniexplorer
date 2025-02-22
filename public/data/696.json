@@ -1,49 +1,57 @@
 {
   "id": 696,
   "type": "kanji",
-  "character": "番",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "番"
+  },
+  "primaryReading": "ばん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ばん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "つが",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "つがい",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Number In A Series",
   "otherMeanings": [
     "Turn",
     "Ordinal Number"
   ],
-  "primaryReading": "ばん",
-  "readings": [
-    {
-      "reading": "ばん",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "つが",
-      "primary": false,
-      "type": "kunyomi"
-    },
-    {
-      "reading": "つがい",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "This <kanji>turn</kanji>-based rice sickle system is a contest as well! But, you are disappointed to find out that you have been <reading>ban</reading>ned(ばん) from the game because of the performance enhancing steroids you've been taking.",
   "meaningMnemonic": "You have to <radical>sickle</radical> the <radical>rice paddy</radical> today because it's your <kanji>turn</kanji>. This kanji also means <kanji>number in a series</kanji>, which is a lot like a turn. For example, you're number 3, so your turn will be number 3.",
-  "vocabularyIds": [
-    3047,
-    3048,
-    3049,
-    3050,
-    3481,
-    3553,
-    4094,
-    4248,
-    4287,
-    5204,
-    8664,
-    8803
-  ],
-  "radicalIds": [
-    164,
-    51
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%95%AA"
+  "readingMnemonic": "This <kanji>turn</kanji>-based rice sickle system is a contest as well! But, you are disappointed to find out that you have been <reading>ban</reading>ned(ばん) from the game because of the performance enhancing steroids you've been taking.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%95%AA"
+  },
+  "related": {
+    "radicals": [
+      164,
+      51
+    ],
+    "vocabularies": [
+      3047,
+      3048,
+      3049,
+      3050,
+      3481,
+      3553,
+      4094,
+      4248,
+      4287,
+      5204,
+      8664,
+      8803
+    ]
+  }
 }

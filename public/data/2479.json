@@ -1,40 +1,22 @@
 {
   "id": 2479,
   "type": "vocabulary",
-  "characters": "フランス人",
+  "level": 3,
+  "characters": {
+    "type": "text",
+    "value": "フランス人"
+  },
   "primaryMeaning": "French Person",
+  "meaningMnemonic": "フランス is \"France.\" So what is a \"France person?\" That would be a <vocabulary>French Person</vocabulary>.",
+  "primaryReading": "ふらんすじん",
+  "readingMnemonic": "Often times, when two kanji come together to form a kanji compound (or jukugo), you use the on'yomi readings. This is similar to that, though instead of another kanji it's a foreign word. This pattern works with almost any country as well. Just add 人 to a country name and you've described the people who live there. You'll see more of these before you're finished here.\n\nAnd since 人 has two on'yomi readings, here's a mnemonic to help you remember which one to use: \n\nAs with all words for nationalities, the 人 here is pronounced じん. Like people of all other nationalities, a <vocabulary>French person</vocabulary> loves their <reading>jean</reading>s (じん) too!",
   "otherMeanings": [
     "Frenchman"
   ],
-  "primaryReading": "ふらんすじん",
   "otherReadings": [
     "フランスじん"
   ],
-  "kanji": [
-    {
-      "id": 444,
-      "character": "人",
-      "readings": [
-        "にん",
-        "じん",
-        "ひと",
-        "と"
-      ]
-    }
-  ],
-  "meaningMnemonic": "フランス is \"France.\" So what is a \"France person?\" That would be a <vocabulary>French Person</vocabulary>.",
-  "readingMnemonic": "Often times, when two kanji come together to form a kanji compound (or jukugo), you use the on'yomi readings. This is similar to that, though instead of another kanji it's a foreign word. This pattern works with almost any country as well. Just add 人 to a country name and you've described the people who live there. You'll see more of these before you're finished here.\n\nAnd since 人 has two on'yomi readings, here's a mnemonic to help you remember which one to use: \n\nAs with all words for nationalities, the 人 here is pronounced じん. Like people of all other nationalities, a <vocabulary>French person</vocabulary> loves their <reading>jean</reading>s (じん) too!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E4%BA%BA",
-  "elements": [
-    {
-      "type": "kana",
-      "value": "フランス"
-    },
-    {
-      "type": "kanji",
-      "value": "人",
-      "id": 444,
-      "reading": "じん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E4%BA%BA"
+  }
 }

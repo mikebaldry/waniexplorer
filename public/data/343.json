@@ -1,12 +1,15 @@
 {
   "id": 343,
   "type": "radical",
-  "primaryMeaning": "Certain",
-  "otherMeanings": [],
-  "character": {
+  "level": 32,
+  "characters": {
     "type": "text",
     "value": "必"
   },
+  "primaryMeaning": "Certain",
+  "otherMeanings": [],
   "meaningMnemonic": "This radical is the same as the kanji. It means <radical>certain</radical>.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/certain"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/certain"
+  }
 }

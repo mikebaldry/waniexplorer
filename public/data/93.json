@@ -1,12 +1,15 @@
 {
   "id": 93,
   "type": "radical",
-  "primaryMeaning": "Car",
-  "otherMeanings": [],
-  "character": {
+  "level": 4,
+  "characters": {
     "type": "text",
     "value": "車"
   },
+  "primaryMeaning": "Car",
+  "otherMeanings": [],
   "meaningMnemonic": "Doesn't this look like a top-down view of the frame of a <radical>car</radical>? There are the rods that make up the base of the car and things for the wheels to go on. That's why this radical is the car radical.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/car"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/car"
+  }
 }

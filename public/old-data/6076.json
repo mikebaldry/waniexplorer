@@ -1,0 +1,47 @@
+{
+  "id": 6076,
+  "type": "vocabulary",
+  "characters": "患者",
+  "primaryMeaning": "A Patient",
+  "otherMeanings": [
+    "Patient",
+    "Medical Patient"
+  ],
+  "primaryReading": "かんじゃ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1652,
+      "character": "患",
+      "readings": [
+        "かん",
+        "わずら"
+      ]
+    },
+    {
+      "id": 690,
+      "character": "者",
+      "readings": [
+        "しゃ",
+        "もの"
+      ]
+    }
+  ],
+  "meaningMnemonic": "An <kanji>afflicted</kanji> <kanji>someone</kanji> is someone who is <vocabulary>a patient</vocabulary> / <vocabulary>medical patient</vocabulary>. They are afflicted with some disease which is why they need medical attention.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji and you should be able to read this on your own. Just remember there's rendaku on the second kanji so it turns to じゃ.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%82%A3%E8%80%85",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "患",
+      "id": 1652,
+      "reading": "かん"
+    },
+    {
+      "type": "kanji",
+      "value": "者",
+      "id": 690,
+      "reading": "じゃ"
+    }
+  ]
+}

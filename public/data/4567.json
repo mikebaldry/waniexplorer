@@ -1,46 +1,20 @@
 {
   "id": 4567,
   "type": "vocabulary",
-  "characters": "援助",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "援助"
+  },
   "primaryMeaning": "Assistance",
+  "meaningMnemonic": "If you <kanji>aid</kanji> and <kanji>help</kanji> someone you are giving them <vocabulary>assistance</vocabulary>. How kind!",
+  "primaryReading": "えんじょ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Aid"
   ],
-  "primaryReading": "えんじょ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1182,
-      "character": "援",
-      "readings": [
-        "えん"
-      ]
-    },
-    {
-      "id": 680,
-      "character": "助",
-      "readings": [
-        "じょ",
-        "たす",
-        "すけ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "If you <kanji>aid</kanji> and <kanji>help</kanji> someone you are giving them <vocabulary>assistance</vocabulary>. How kind!",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8F%B4%E5%8A%A9",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "援",
-      "id": 1182,
-      "reading": "えん"
-    },
-    {
-      "type": "kanji",
-      "value": "助",
-      "id": 680,
-      "reading": "じょ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%8F%B4%E5%8A%A9"
+  }
 }

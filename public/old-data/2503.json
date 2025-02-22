@@ -1,0 +1,35 @@
+{
+  "id": 2503,
+  "type": "vocabulary",
+  "characters": "女",
+  "primaryMeaning": "Woman",
+  "otherMeanings": [
+    "Female"
+  ],
+  "primaryReading": "おんな",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 454,
+      "character": "女",
+      "readings": [
+        "じょ",
+        "にょ",
+        "にょう",
+        "おんな",
+        "め"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When a kanji is alone and doesn't have any okurigana (hiragana attached to the kanji) it's usually going to take the same meaning as the kanji it comes from. So in this case, you know that this word means <vocabulary>woman</vocabulary>.\n\nBut watch out! Using 女 on its own can often come off as blunt and disrespectful, especially in casual chats. We’ll introduce you to neutral equivalents soon!",
+  "readingMnemonic": "When a word is a single kanji with no okurigana (hiragana attached to the kanji) it tends to use a kun'yomi reading. You didn't learn the kun'yomi reading when you learned the kanji itself, so let's use a mnemonic to remember it:\n\nThink about how this <vocabulary>woman</vocabulary> is <reading>onna</reading> (おんな) roll. She's winning left, right and center. She's unstoppable. Yep, she's truly onna roll!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A5%B3",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "女",
+      "id": 454,
+      "reading": "おんな"
+    }
+  ]
+}

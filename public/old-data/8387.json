@@ -1,0 +1,45 @@
+{
+  "id": 8387,
+  "type": "vocabulary",
+  "characters": "色盲",
+  "primaryMeaning": "Color Blindness",
+  "otherMeanings": [],
+  "primaryReading": "しきもう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 579,
+      "character": "色",
+      "readings": [
+        "いろ",
+        "しき",
+        "しょく"
+      ]
+    },
+    {
+      "id": 2352,
+      "character": "盲",
+      "readings": [
+        "もう",
+        "めくら"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you're only <kanji>blind</kanji> to <kanji>color</kanji> then you have <vocabulary>color blindness</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%89%B2%E7%9B%B2",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "色",
+      "id": 579,
+      "reading": "しき"
+    },
+    {
+      "type": "kanji",
+      "value": "盲",
+      "id": 2352,
+      "reading": "もう"
+    }
+  ]
+}

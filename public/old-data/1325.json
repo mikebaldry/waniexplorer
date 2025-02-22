@@ -1,0 +1,41 @@
+{
+  "id": 1325,
+  "type": "kanji",
+  "character": "迷",
+  "primaryMeaning": "Astray",
+  "otherMeanings": [
+    "Lost"
+  ],
+  "primaryReading": "めい",
+  "readings": [
+    {
+      "reading": "めい",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "まよ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You got so <kanji>lost</kanji> and went so <kanji>astray</kanji> you ended up on the <reading>May</reading>flower  (めい), a ship that eventually took you across the Atlantic Ocean. Now you've really, really gone astray.",
+  "meaningMnemonic": "If you're riding your <radical>scooter</radical> through some <radical>rice</radical>, it's likely you've gone <kanji>astray</kanji>. Also you might be <kanji>lost</kanji>.",
+  "vocabularyIds": [
+    5023,
+    5088,
+    5089,
+    5090,
+    5091,
+    5290,
+    5703,
+    7200,
+    7501,
+    8720
+  ],
+  "radicalIds": [
+    114,
+    98
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%BF%B7"
+}

@@ -1,0 +1,45 @@
+{
+  "id": 2779,
+  "type": "vocabulary",
+  "characters": "北西",
+  "primaryMeaning": "Northwest",
+  "otherMeanings": [],
+  "primaryReading": "ほくせい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 517,
+      "character": "北",
+      "readings": [
+        "ほく",
+        "きた"
+      ]
+    },
+    {
+      "id": 581,
+      "character": "西",
+      "readings": [
+        "せい",
+        "さい",
+        "にし"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word is so simple. <kanji>North</kanji> + <kanji>West</kanji> = <vocabulary>Northwest</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8C%97%E8%A5%BF",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "北",
+      "id": 517,
+      "reading": "ほく"
+    },
+    {
+      "type": "kanji",
+      "value": "西",
+      "id": 581,
+      "reading": "せい"
+    }
+  ]
+}

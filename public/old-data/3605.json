@@ -1,0 +1,35 @@
+{
+  "id": 3605,
+  "type": "vocabulary",
+  "characters": "殺す",
+  "primaryMeaning": "To Kill",
+  "otherMeanings": [],
+  "primaryReading": "ころす",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 880,
+      "character": "殺",
+      "readings": [
+        "さつ",
+        "さい",
+        "ころ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>kill</kanji> so the verb vocab version is <vocabulary>to kill</vocabulary>.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: You <vocabulary>kill</vocabulary> someone! Oh no, what are you going to do? Where will you put the body? You decide to stuff it into the <reading>core</reading> (ころ) of a nuclear silo. It will melt and disappear in there, right? At least, that's what you think. Imagine opening up the core of the nuclear silo and feel the burn of the radiation. You throw the body in and close the core, then run away. Unfortunately, this nuclear core will kill you too, eventually. Then, it will kill everyone in the area, because the body you threw in will overheat the core, causing a giant explosion.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%AE%BA%E3%81%99",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "殺",
+      "id": 880,
+      "reading": "ころ"
+    },
+    {
+      "type": "kana",
+      "value": "す"
+    }
+  ]
+}

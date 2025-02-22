@@ -1,38 +1,46 @@
 {
   "id": 646,
   "type": "kanji",
-  "character": "欠",
-  "primaryMeaning": "Lack",
-  "otherMeanings": [],
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "欠"
+  },
   "primaryReading": "けつ",
   "readings": [
     {
-      "reading": "けつ",
       "primary": true,
+      "reading": "けつ",
       "type": "onyomi"
     },
     {
-      "reading": "か",
       "primary": false,
+      "reading": "か",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "To remember けつ, we use the word \"ketsup.\" It's the perfect blend of ketchup and catsup!\n\nYou're <kanji>lack</kanji>ing something in your fridge. You look around, trying to find the <reading>ketsu</reading>p (けつ) you lack. You can't find it, because you lack it.",
+  "primaryMeaning": "Lack",
+  "otherMeanings": [],
   "meaningMnemonic": "This kanji is the same as the radical it comes from. <radical>Lack</radical> becomes <kanji>Lack</kanji>!",
-  "vocabularyIds": [
-    2927,
-    3479,
-    3979,
-    4080,
-    5299,
-    7092,
-    7626,
-    7664,
-    7949,
-    8951
-  ],
-  "radicalIds": [
-    142
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%AC%A0"
+  "readingMnemonic": "To remember けつ, we use the word \"ketsup.\" It's the perfect blend of ketchup and catsup!\n\nYou're <kanji>lack</kanji>ing something in your fridge. You look around, trying to find the <reading>ketsu</reading>p (けつ) you lack. You can't find it, because you lack it.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%AC%A0"
+  },
+  "related": {
+    "radicals": [
+      142
+    ],
+    "vocabularies": [
+      2927,
+      3479,
+      3979,
+      4080,
+      5299,
+      7092,
+      7626,
+      7664,
+      7949,
+      8951
+    ]
+  }
 }

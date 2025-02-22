@@ -1,33 +1,41 @@
 {
   "id": 1794,
   "type": "kanji",
-  "character": "畑",
-  "primaryMeaning": "Field",
-  "otherMeanings": [],
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "畑"
+  },
   "primaryReading": "はたけ",
   "readings": [
     {
-      "reading": "はたけ",
       "primary": true,
+      "reading": "はたけ",
       "type": "kunyomi"
     },
     {
-      "reading": "はた",
       "primary": false,
+      "reading": "はた",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "Your rice paddy farm and <kanji>field</kanji> are on a cay. A cay is a small, sandy island, and since your farm is on fire, this cay has turned into a hot cay. Or as Mario would say, that’s one-a <reading>hot-a cay</reading>! (はたけ) Mama mia!",
+  "primaryMeaning": "Field",
+  "otherMeanings": [],
   "meaningMnemonic": "A <radical>fire</radical> in the <radical>rice paddy</radical> burns down the <kanji>field</kanji>. The rice paddy fire spreads out from the paddy and consumes the field next to it. This rice paddy fire has ravaged your entire farm!",
-  "vocabularyIds": [
-    6523,
-    6524,
-    6525,
-    7335
-  ],
-  "radicalIds": [
-    46,
-    51
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%95%91"
+  "readingMnemonic": "Your rice paddy farm and <kanji>field</kanji> are on a cay. A cay is a small, sandy island, and since your farm is on fire, this cay has turned into a hot cay. Or as Mario would say, that’s one-a <reading>hot-a cay</reading>! (はたけ) Mama mia!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%95%91"
+  },
+  "related": {
+    "radicals": [
+      46,
+      51
+    ],
+    "vocabularies": [
+      6523,
+      6524,
+      6525,
+      7335
+    ]
+  }
 }

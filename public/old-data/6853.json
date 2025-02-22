@@ -1,0 +1,37 @@
+{
+  "id": 6853,
+  "type": "vocabulary",
+  "characters": "硬い",
+  "primaryMeaning": "Stiff",
+  "otherMeanings": [
+    "Hard",
+    "Firm"
+  ],
+  "primaryReading": "かたい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1934,
+      "character": "硬",
+      "readings": [
+        "こう",
+        "かた"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>stiff</kanji>? It's <vocabulary>stiff</vocabulary>, <vocabulary>hard</vocabulary>, or <vocabulary>firm</vocabulary>.",
+  "readingMnemonic": "The reading is the same as a very similar word, 固い. So, if you can use that word to help you to remember, you'll remember the reading of this word in no time as well!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A1%AC%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "硬",
+      "id": 1934,
+      "reading": "かた"
+    },
+    {
+      "type": "kana",
+      "value": "い"
+    }
+  ]
+}

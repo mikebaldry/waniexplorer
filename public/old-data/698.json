@@ -1,0 +1,32 @@
+{
+  "id": 698,
+  "type": "kanji",
+  "character": "絵",
+  "primaryMeaning": "Picture",
+  "otherMeanings": [
+    "Painting"
+  ],
+  "primaryReading": "え",
+  "readings": [
+    {
+      "reading": "え",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "You tell someone you painted this masterpiece of a <kanji>picture</kanji>. Their response? \"<reading>EH</reading>?!\" (え)",
+  "meaningMnemonic": "When a bunch of <radical>thread</radical>s are <radical>meeting</radical> on paper (after you've dipped them in paint, say) they can create a masterpiece of a <kanji>picture</kanji> (or <kanji>painting</kanji>). ",
+  "vocabularyIds": [
+    3053,
+    5331,
+    6036,
+    6965,
+    7114,
+    8740
+  ],
+  "radicalIds": [
+    86,
+    155
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%B5%B5"
+}

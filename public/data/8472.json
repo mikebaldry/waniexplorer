@@ -1,35 +1,20 @@
 {
   "id": 8472,
   "type": "vocabulary",
-  "characters": "殻",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "殻"
+  },
   "primaryMeaning": "Shell",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well. This word isn't limited to animal shells though! It covers seed shells, or husks, too.",
+  "primaryReading": "から",
+  "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You did not learn this reading, so here's a mnemonic to help you:\n\n<vocabulary>Shell</vocabulary>s are a good defense against <reading>から</reading>て chops. You can't get hurt if you have a nice strong shell to protect you from that からて-chopping weirdo who just showed up out of nowhere. ",
   "otherMeanings": [
     "Husk"
   ],
-  "primaryReading": "から",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2376,
-      "character": "殻",
-      "readings": [
-        "かく",
-        "こく",
-        "ばい",
-        "から",
-        "がら"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well. This word isn't limited to animal shells though! It covers seed shells, or husks, too.",
-  "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You did not learn this reading, so here's a mnemonic to help you:\n\n<vocabulary>Shell</vocabulary>s are a good defense against <reading>から</reading>て chops. You can't get hurt if you have a nice strong shell to protect you from that からて-chopping weirdo who just showed up out of nowhere. ",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%AE%BB",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "殻",
-      "id": 2376,
-      "reading": "から"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%AE%BB"
+  }
 }

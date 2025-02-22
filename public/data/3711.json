@@ -1,33 +1,21 @@
 {
   "id": 3711,
   "type": "vocabulary",
-  "characters": "〜的",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "〜的"
+  },
   "primaryMeaning": "-al",
+  "meaningMnemonic": "This is a strange word, I'm afraid. You'll have to bear with it. This, when added onto a word, is like adding an <vocabulary>-al</vocabulary> or a <vocabulary>-like</vocabulary> to the end of it—or when something is <vocabulary>typical of</vocabulary> something else. For example, add it onto 日本 (Japan) and you have \"Japanese-like\", or \"typically Japanese\". It's a weird sort of modifying word that really depends on each situation it's in. For now, just know this word means these things. We'll start applying it to various words in the future, slowly but surely.",
+  "primaryReading": "てき",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji, probably because this is usually added onto other words, making it behave like a jukugo.",
   "otherMeanings": [
     "-Like",
     "Typical Of"
   ],
-  "primaryReading": "てき",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 914,
-      "character": "的",
-      "readings": [
-        "てき",
-        "まと"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This is a strange word, I'm afraid. You'll have to bear with it. This, when added onto a word, is like adding an <vocabulary>-al</vocabulary> or a <vocabulary>-like</vocabulary> to the end of it—or when something is <vocabulary>typical of</vocabulary> something else. For example, add it onto 日本 (Japan) and you have \"Japanese-like\", or \"typically Japanese\". It's a weird sort of modifying word that really depends on each situation it's in. For now, just know this word means these things. We'll start applying it to various words in the future, slowly but surely.",
-  "readingMnemonic": "The reading is the same as the one you learned with the kanji, probably because this is usually added onto other words, making it behave like a jukugo.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E3%80%9C%E7%9A%84",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "的",
-      "id": 914,
-      "reading": "てき"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E3%80%9C%E7%9A%84"
+  }
 }

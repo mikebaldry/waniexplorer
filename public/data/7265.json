@@ -1,31 +1,18 @@
 {
   "id": 7265,
   "type": "vocabulary",
-  "characters": "扇",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "扇"
+  },
   "primaryMeaning": "Folding Fan",
-  "otherMeanings": [],
-  "primaryReading": "おうぎ",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1999,
-      "character": "扇",
-      "readings": [
-        "せん",
-        "おうぎ",
-        "あお"
-      ]
-    }
-  ],
   "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
-  "readingMnemonic": "The reading is different from the one you learned with the kanji. Someone waves a folding fan at you, but it just blows hot air at you. \"<reading>ohh gee</reading>\" (おうぎ), you say. \"Thanks for nothing.\"",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%89%87",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "扇",
-      "id": 1999,
-      "reading": "おうぎ"
-    }
-  ]
+  "primaryReading": "おうぎ",
+  "readingMnemonic": "The reading is different from the one you learned with the kanji, so here's a mnemonic for you: \n\nYou're most likely to need a <vocabulary>folding fan</vocabulary> in <reading>Auggie</reading> (おうぎ), AKA August, since that's usually when it's hottest in a lot of places. Just keep in mind that a folding fan = Auggie accessory, and hopefully the おうぎ reading will stick to you (just like the August humidity… unless you have an 扇 on hand.)",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%89%87"
+  }
 }

@@ -1,46 +1,20 @@
 {
   "id": 7445,
   "type": "vocabulary",
-  "characters": "麻布",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "麻布"
+  },
   "primaryMeaning": "Hemp Cloth",
+  "meaningMnemonic": "A <kanji>hemp</kanji> <kanji>cloth</kanji> is a <vocabulary>hemp cloth</vocabulary>.",
+  "primaryReading": "あさぬの",
+  "readingMnemonic": "The reading is the individual vocab readings of 麻 and 布 combined together.",
   "otherMeanings": [
     "Linen"
   ],
-  "primaryReading": "あさぬの",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2036,
-      "character": "麻",
-      "readings": [
-        "ま",
-        "あさ"
-      ]
-    },
-    {
-      "id": 1062,
-      "character": "布",
-      "readings": [
-        "ふ",
-        "ぬの"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>hemp</kanji> <kanji>cloth</kanji> is a <vocabulary>hemp cloth</vocabulary>.",
-  "readingMnemonic": "The reading is the individual vocab readings of 麻 and 布 combined together.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%BA%BB%E5%B8%83",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "麻",
-      "id": 2036,
-      "reading": "あさ"
-    },
-    {
-      "type": "kanji",
-      "value": "布",
-      "id": 1062,
-      "reading": "ぬの"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%BA%BB%E5%B8%83"
+  }
 }

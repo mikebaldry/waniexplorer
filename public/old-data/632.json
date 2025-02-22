@@ -1,0 +1,51 @@
+{
+  "id": 632,
+  "type": "kanji",
+  "character": "長",
+  "primaryMeaning": "Long",
+  "otherMeanings": [
+    "Leader"
+  ],
+  "primaryReading": "ちょう",
+  "readings": [
+    {
+      "reading": "ちょう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "なが",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "は",
+      "primary": false,
+      "type": "nanori"
+    }
+  ],
+  "readingMnemonic": "You see a very <kanji>long</kanji> person. It's Mrs. <reading>Chou</reading> (ちょう), who has made herself long, like her street. \"I made myself long so I can watch more of the street, my domain. I'm the <kanji>leader</kanji> of these streets. Watch yourself not-long person,\" says Mrs. Chou.",
+  "meaningMnemonic": "The <radical>long</radical> radical and the <kanji>long</kanji> kanji are the same! \n\nThis kanji also means <kanji>leader</kanji>, because the longer a person is, the better a leader they'll be. Or maybe it was... the longer they've been somewhere? Whatever, longness = leaderness, you know?",
+  "vocabularyIds": [
+    2906,
+    2907,
+    3455,
+    3623,
+    3646,
+    4621,
+    4875,
+    5101,
+    5309,
+    5606,
+    5893,
+    7243,
+    8097,
+    8603,
+    8675,
+    8900
+  ],
+  "radicalIds": [
+    138
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%95%B7"
+}

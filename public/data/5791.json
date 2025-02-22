@@ -1,47 +1,20 @@
 {
   "id": 5791,
   "type": "vocabulary",
-  "characters": "推定",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "推定"
+  },
   "primaryMeaning": "Estimation",
+  "meaningMnemonic": "You’re doing a bit of <kanji>infer</kanji>ring while you <kanji>determine</kanji> something, which means you’re not 100% sure, making this an <vocabulary>estimation</vocabulary>.\n\n推定 refers to an estimation that’s generally based on some evidence or reasoning. You’ll often find this used in statistical or scientific contexts, where it refers to an educated guess or estimation based on available data.",
+  "primaryReading": "すいてい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Estimate"
   ],
-  "primaryReading": "すいてい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1565,
-      "character": "推",
-      "readings": [
-        "すい",
-        "お"
-      ]
-    },
-    {
-      "id": 714,
-      "character": "定",
-      "readings": [
-        "てい",
-        "じょう",
-        "さだ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You’re doing a bit of <kanji>infer</kanji>ring while you <kanji>determine</kanji> something, which means you’re not 100% sure, making this an <vocabulary>estimation</vocabulary>.\n\n推定 refers to an estimation that’s generally based on some evidence or reasoning. You’ll often find this used in statistical or scientific contexts, where it refers to an educated guess or estimation based on available data.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8E%A8%E5%AE%9A",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "推",
-      "id": 1565,
-      "reading": "すい"
-    },
-    {
-      "type": "kanji",
-      "value": "定",
-      "id": 714,
-      "reading": "てい"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%8E%A8%E5%AE%9A"
+  }
 }

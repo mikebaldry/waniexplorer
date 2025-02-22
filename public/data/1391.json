@@ -1,28 +1,36 @@
 {
   "id": 1391,
   "type": "kanji",
-  "character": "閣",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "閣"
+  },
+  "primaryReading": "かく",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "かく",
+      "type": "onyomi"
+    }
+  ],
   "primaryMeaning": "The Cabinet",
   "otherMeanings": [
     "Cabinet"
   ],
-  "primaryReading": "かく",
-  "readings": [
-    {
-      "reading": "かく",
-      "primary": true,
-      "type": "onyomi"
-    }
-  ],
-  "readingMnemonic": "You need to kiss each member of <kanji>the cabinet</kanji> to gain access to their building. And you need to get into the building to recover your <reading>cock</reading> (かく). Your prize winning cock has been captured by a member of the cabinet and you need to infiltrate their headquarters and recover your rooster!",
   "meaningMnemonic": "At the <radical>gate</radical>, you <radical>kiss</radical> <kanji>the cabinet</kanji> members, one by one. In order to gain access to this government building, you have to kiss all the members of the cabinet at the gate. What a strange ritual.",
-  "vocabularyIds": [
-    5291,
-    5292
-  ],
-  "radicalIds": [
-    214,
-    180
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%96%A3"
+  "readingMnemonic": "You need to kiss each member of <kanji>the cabinet</kanji> to gain access to their building. And you need to get into the building to recover your <reading>cock</reading> (かく). Your prize winning cock has been captured by a member of the cabinet and you need to infiltrate their headquarters and recover your rooster!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%96%A3"
+  },
+  "related": {
+    "radicals": [
+      214,
+      180
+    ],
+    "vocabularies": [
+      5291,
+      5292
+    ]
+  }
 }

@@ -1,36 +1,20 @@
 {
   "id": 2574,
   "type": "vocabulary",
-  "characters": "ビー玉",
+  "level": 3,
+  "characters": {
+    "type": "text",
+    "value": "ビー玉"
+  },
   "primaryMeaning": "Marble",
-  "otherMeanings": [],
+  "meaningMnemonic": "When you see a katakana word, it's a safe bet that it is a foreign loan word from somewhere else. This one's interesting, because it combines katakana and kanji! The first <vocabulary>marble</vocabulary> came to Japan from Portugal, so the ビー part of the word is short for \"vidro,\" which means \"glass\" in Portuguese. Anyway, don't get thrown off by that ビー. Maybe just imagine that your favorite marble is black and yellow like a bee.",
   "primaryReading": "びーだま",
+  "readingMnemonic": "If you know katakana as well as the reading that you learned when you learned the kanji <kanji>玉</kanji>, you should be able to read this. Just watch out for the rendaku.",
+  "otherMeanings": [],
   "otherReadings": [
     "ビーだま"
   ],
-  "kanji": [
-    {
-      "id": 489,
-      "character": "玉",
-      "readings": [
-        "たま",
-        "ぎょく"
-      ]
-    }
-  ],
-  "meaningMnemonic": "When you see a katakana word, it's a safe bet that it is a foreign loan word from somewhere else. This one's interesting, because it combines katakana and kanji! The first <vocabulary>marble</vocabulary> came to Japan from Portugal, so the ビー part of the word is short for \"vidro,\" which means \"glass\" in Portuguese. Anyway, don't get thrown off by that ビー. Maybe just imagine that your favorite marble is black and yellow like a bee.",
-  "readingMnemonic": "If you know katakana as well as the reading that you learned when you learned the kanji <kanji>玉</kanji>, you should be able to read this. Just watch out for the rendaku.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E3%83%93%E3%83%BC%E7%8E%89",
-  "elements": [
-    {
-      "type": "kana",
-      "value": "ビー"
-    },
-    {
-      "type": "kanji",
-      "value": "玉",
-      "id": 489,
-      "reading": "だま"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E3%83%93%E3%83%BC%E7%8E%89"
+  }
 }

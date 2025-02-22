@@ -1,33 +1,41 @@
 {
   "id": 2046,
   "type": "kanji",
-  "character": "殴",
-  "primaryMeaning": "Assault",
-  "otherMeanings": [],
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "殴"
+  },
   "primaryReading": "おう",
   "readings": [
     {
-      "reading": "おう",
       "primary": true,
+      "reading": "おう",
       "type": "onyomi"
     },
     {
-      "reading": "なぐ",
       "primary": false,
+      "reading": "なぐ",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "This <kanji>assault</kanji> is all the <reading>王</reading>'s (おう) fault. The 王 gave the weapons to each of the districts on purpose so this would happen.",
+  "primaryMeaning": "Assault",
+  "otherMeanings": [],
   "meaningMnemonic": "Give a <radical>district</radical> <radical>weapon</radical>s and it will <kanji>assault</kanji> other districts.",
-  "vocabularyIds": [
-    7251,
-    7252,
-    7441,
-    7442
-  ],
-  "radicalIds": [
-    322,
-    160
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%AE%B4"
+  "readingMnemonic": "This <kanji>assault</kanji> is all the <reading>王</reading>'s (おう) fault. The 王 gave the weapons to each of the districts on purpose so this would happen.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%AE%B4"
+  },
+  "related": {
+    "radicals": [
+      322,
+      160
+    ],
+    "vocabularies": [
+      7251,
+      7252,
+      7441,
+      7442
+    ]
+  }
 }

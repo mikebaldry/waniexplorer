@@ -1,45 +1,18 @@
 {
   "id": 5366,
   "type": "vocabulary",
-  "characters": "詳細",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "詳細"
+  },
   "primaryMeaning": "Details",
-  "otherMeanings": [],
-  "primaryReading": "しょうさい",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1412,
-      "character": "詳",
-      "readings": [
-        "しょう",
-        "くわ"
-      ]
-    },
-    {
-      "id": 996,
-      "character": "細",
-      "readings": [
-        "さい",
-        "ほそ",
-        "こま"
-      ]
-    }
-  ],
   "meaningMnemonic": "Things that are <kanji>detailed</kanji> and... <kanji>detailed</kanji> are, well, the <vocabulary>details</vocabulary>.",
+  "primaryReading": "しょうさい",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A9%B3%E7%B4%B0",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "詳",
-      "id": 1412,
-      "reading": "しょう"
-    },
-    {
-      "type": "kanji",
-      "value": "細",
-      "id": 996,
-      "reading": "さい"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%A9%B3%E7%B4%B0"
+  }
 }

@@ -1,33 +1,41 @@
 {
   "id": 1385,
   "type": "kanji",
-  "character": "江",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "江"
+  },
+  "primaryReading": "え",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "え",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "こう",
+      "type": "onyomi"
+    }
+  ],
   "primaryMeaning": "Inlet",
   "otherMeanings": [
     "Bay"
   ],
-  "primaryReading": "え",
-  "readings": [
-    {
-      "reading": "え",
-      "primary": true,
-      "type": "kunyomi"
-    },
-    {
-      "reading": "こう",
-      "primary": false,
-      "type": "onyomi"
-    }
-  ],
-  "readingMnemonic": "Imagine the Japanese people standing on the <kanji>bay</kanji> and the <kanji>inlet</kanji> as the tsunami approaches. “<reading>Eh</reading> (え)? What is that, Akiko?” “Eh? Where? Oh gawd, it’s a tsunami!!”",
   "meaningMnemonic": "A <radical>tsunami</radical> rolls in and destroys all the <radical>construction</radical> that was being done on the <kanji>inlet</kanji> and the <kanji>bay</kanji>. Both the inlet and the bay were having a lot of construction done on them to repair the damage from the last tsunami, and then another tsunami rolled in and destroyed all that too. Bummer.",
-  "vocabularyIds": [
-    5247,
-    5248
-  ],
-  "radicalIds": [
-    103,
-    25
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%B1%9F"
+  "readingMnemonic": "Imagine the Japanese people standing on the <kanji>bay</kanji> and the <kanji>inlet</kanji> as the tsunami approaches. “<reading>Eh</reading> (え)? What is that, Akiko?” “Eh? Where? Oh gawd, it’s a tsunami!!”",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%B1%9F"
+  },
+  "related": {
+    "radicals": [
+      103,
+      25
+    ],
+    "vocabularies": [
+      5247,
+      5248
+    ]
+  }
 }

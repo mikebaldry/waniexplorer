@@ -1,43 +1,18 @@
 {
   "id": 4447,
   "type": "vocabulary",
-  "characters": "書評",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "書評"
+  },
   "primaryMeaning": "Book Review",
-  "otherMeanings": [],
-  "primaryReading": "しょひょう",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 962,
-      "character": "書",
-      "readings": [
-        "しょ",
-        "か"
-      ]
-    },
-    {
-      "id": 1140,
-      "character": "評",
-      "readings": [
-        "ひょう"
-      ]
-    }
-  ],
   "meaningMnemonic": "A <kanji>writing</kanji> that has been <kanji>evaluate</kanji>d has gotten a <vocabulary>book review</vocabulary>.",
+  "primaryReading": "しょひょう",
   "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9B%B8%E8%A9%95",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "書",
-      "id": 962,
-      "reading": "しょ"
-    },
-    {
-      "type": "kanji",
-      "value": "評",
-      "id": 1140,
-      "reading": "ひょう"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%9B%B8%E8%A9%95"
+  }
 }

@@ -1,0 +1,39 @@
+{
+  "id": 2249,
+  "type": "kanji",
+  "character": "且",
+  "primaryMeaning": "Also",
+  "otherMeanings": [],
+  "primaryReading": "か",
+  "readings": [
+    {
+      "reading": "か",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "しょ",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "しょう",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "そ",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "You have a top hat and all the clothes that go with it but you <kanji>also</kanji> need a nice <reading>ca</reading>r (か) too! You can't just get all dressed up and then have no way to get anywhere to show it off.",
+  "meaningMnemonic": "If you want to wear a <radical>top hat</radical> you <kanji>also</kanji> have to wear a suit to go with it. You can't just wear a top hat, that just doesn't look right. When you think top hat, think about what you also need with it.",
+  "vocabularyIds": [
+    8274
+  ],
+  "radicalIds": [
+    419
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E4%B8%94"
+}

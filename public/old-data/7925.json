@@ -1,0 +1,49 @@
+{
+  "id": 7925,
+  "type": "vocabulary",
+  "characters": "連覇",
+  "primaryMeaning": "Winning Streak",
+  "otherMeanings": [
+    "Consecutive Championships",
+    "Successive Victories"
+  ],
+  "primaryReading": "れんぱ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1084,
+      "character": "連",
+      "readings": [
+        "れん",
+        "つ",
+        "つら"
+      ]
+    },
+    {
+      "id": 2157,
+      "character": "覇",
+      "readings": [
+        "は",
+        "はく",
+        "はたがしら"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you <kanji>take along</kanji> your <kanji>leadership</kanji> over and over, you're on a <vocabulary>winning streak</vocabulary>! You can expect <vocabulary>successive victories </vocabulary> in <vocabulary>consecutive championships</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Just watch out for は becoming ぱ.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%80%A3%E8%A6%87",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "連",
+      "id": 1084,
+      "reading": "れん"
+    },
+    {
+      "type": "kanji",
+      "value": "覇",
+      "id": 2157,
+      "reading": "ぱ"
+    }
+  ]
+}

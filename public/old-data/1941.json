@@ -1,0 +1,29 @@
+{
+  "id": 1941,
+  "type": "kanji",
+  "character": "墨",
+  "primaryMeaning": "Black Ink",
+  "otherMeanings": [
+    "Ink"
+  ],
+  "primaryReading": "すみ",
+  "readings": [
+    {
+      "reading": "すみ",
+      "primary": true,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Be careful that you don't spill <kanji>black ink</kanji> on anyone or anything. If you do, you have to own it. Imagine spilling black ink on someone, and when they confront you, you yell, \"Yeah I got black ink on you, so <reading>sue me</reading> (すみ)!\"",
+  "meaningMnemonic": "You use <radical>black</radical> <radical>dirt</radical> to make <kanji>black ink</kanji>. That's what you use to write in black!",
+  "vocabularyIds": [
+    6964,
+    6965,
+    6966
+  ],
+  "radicalIds": [
+    153,
+    17
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%A2%A8"
+}

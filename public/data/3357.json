@@ -1,38 +1,21 @@
 {
   "id": 3357,
   "type": "vocabulary",
-  "characters": "悪い",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "悪い"
+  },
   "primaryMeaning": "Bad",
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>bad</kanji>? It's also <vocabulary>bad</vocabulary>.",
+  "primaryReading": "わるい",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nDo you know how in the Mario universe all the <vocabulary>bad</vocabulary> versions are called \"<reading>WARU</reading>\" (わる)? For example: \"WARUIJI\" and \"WARIO.\" That's because they are bad. They come from this kanji. So, if you ever need to remember this reading, just think back to Wario and Waruigi.",
   "otherMeanings": [
     "Poor",
     "Wrong"
   ],
-  "primaryReading": "わるい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 829,
-      "character": "悪",
-      "readings": [
-        "あく",
-        "お",
-        "わる"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>bad</kanji>? It's also <vocabulary>bad</vocabulary>.",
-  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nDo you know how in the Mario universe all the <vocabulary>bad</vocabulary> versions are called \"<reading>WARU</reading>\" (わる)? For example: \"WARUIJI\" and \"WARIO.\" That's because they are bad. They come from this kanji. So, if you ever need to remember this reading, just think back to Wario and Waruigi.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%82%AA%E3%81%84",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "悪",
-      "id": 829,
-      "reading": "わる"
-    },
-    {
-      "type": "kana",
-      "value": "い"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%82%AA%E3%81%84"
+  }
 }

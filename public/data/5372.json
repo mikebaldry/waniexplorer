@@ -1,47 +1,20 @@
 {
   "id": 5372,
   "type": "vocabulary",
-  "characters": "購読",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "購読"
+  },
   "primaryMeaning": "Subscription",
+  "meaningMnemonic": "This is a <kanji>purchase</kanji>d <kanji>read</kanji> — especially one that comes regularly. In other words, a <vocabulary>subscription</vocabulary>.\n\n購読 specifically refers to paying for a subscription to some kind of reading material, like a newspaper or magazine, so be sure not to use it for free subscriptions!",
+  "primaryReading": "こうどく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. The on'yomi for 読 (どく) is the same as the reading in 読者. In case you forgot, think about how you just got a subscription to <reading>dock</reading> (どく) magazine. It's all about docks and dock related things. How exciting.",
   "otherMeanings": [
     "Subscribing"
   ],
-  "primaryReading": "こうどく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1436,
-      "character": "購",
-      "readings": [
-        "こう"
-      ]
-    },
-    {
-      "id": 765,
-      "character": "読",
-      "readings": [
-        "よ",
-        "とう",
-        "どく",
-        "とく"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This is a <kanji>purchase</kanji>d <kanji>read</kanji> — especially one that comes regularly. In other words, a <vocabulary>subscription</vocabulary>.\n\n購読 specifically refers to paying for a subscription to some kind of reading material, like a newspaper or magazine, so be sure not to use it for free subscriptions!",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. The on'yomi for 読 (どく) is the same as the reading in 読者. In case you forgot, think about how you just got a subscription to <reading>dock</reading> (どく) magazine. It's all about docks and dock related things. How exciting.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%B3%BC%E8%AA%AD",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "購",
-      "id": 1436,
-      "reading": "こう"
-    },
-    {
-      "type": "kanji",
-      "value": "読",
-      "id": 765,
-      "reading": "どく"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%B3%BC%E8%AA%AD"
+  }
 }

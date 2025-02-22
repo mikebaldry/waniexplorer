@@ -1,33 +1,21 @@
 {
   "id": 6034,
   "type": "vocabulary",
-  "characters": "〜鍋",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "〜鍋"
+  },
   "primaryMeaning": "Pot",
+  "meaningMnemonic": "A ____<kanji>pot</kanji> is any kind of food that's made inside the pot, put together, and cooked. This refers to a type of <vocabulary>pot</vocabulary>, <vocabulary>stew</vocabulary> or <vocabulary>hotpot</vocabulary>, and is attached onto the names of said pots, stews, and hotpots.",
+  "primaryReading": "なべ",
+  "readingMnemonic": "This is a jukugo word that uses the readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Stew",
     "Hotpot"
   ],
-  "primaryReading": "なべ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1605,
-      "character": "鍋",
-      "readings": [
-        "なべ",
-        "か"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A ____<kanji>pot</kanji> is any kind of food that's made inside the pot, put together, and cooked. This refers to a type of <vocabulary>pot</vocabulary>, <vocabulary>stew</vocabulary> or <vocabulary>hotpot</vocabulary>, and is attached onto the names of said pots, stews, and hotpots.",
-  "readingMnemonic": "This is a jukugo word that uses the readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E3%80%9C%E9%8D%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "鍋",
-      "id": 1605,
-      "reading": "なべ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E3%80%9C%E9%8D%8B"
+  }
 }

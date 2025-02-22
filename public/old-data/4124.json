@@ -1,0 +1,47 @@
+{
+  "id": 4124,
+  "type": "vocabulary",
+  "characters": "祈願",
+  "primaryMeaning": "Prayer",
+  "otherMeanings": [
+    "A Prayer"
+  ],
+  "primaryReading": "きがん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1036,
+      "character": "祈",
+      "readings": [
+        "き",
+        "いの"
+      ]
+    },
+    {
+      "id": 888,
+      "character": "願",
+      "readings": [
+        "がん",
+        "ねが",
+        "ねがい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You <kanji>pray</kanji> and make a <kanji>request</kanji>, as a <vocabulary>prayer</vocabulary> to some deity at a shrine or temple. \n\nThis usually refers to making a wish or asking for a favor from a deity, like prosperity, good health, or winning an important sports game.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A5%88%E9%A1%98",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "祈",
+      "id": 1036,
+      "reading": "き"
+    },
+    {
+      "type": "kanji",
+      "value": "願",
+      "id": 888,
+      "reading": "がん"
+    }
+  ]
+}

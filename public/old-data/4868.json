@@ -1,0 +1,72 @@
+{
+  "id": 4868,
+  "type": "vocabulary",
+  "characters": "副大統領",
+  "primaryMeaning": "Vice President",
+  "otherMeanings": [],
+  "primaryReading": "ふくだいとうりょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1174,
+      "character": "副",
+      "readings": [
+        "ふく"
+      ]
+    },
+    {
+      "id": 453,
+      "character": "大",
+      "readings": [
+        "たい",
+        "だい",
+        "おお",
+        "ひろ"
+      ]
+    },
+    {
+      "id": 1170,
+      "character": "統",
+      "readings": [
+        "とう",
+        "す"
+      ]
+    },
+    {
+      "id": 1171,
+      "character": "領",
+      "readings": [
+        "りょう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You know about 大統領 (<kanji>president</kanji>), right? Well, this is the <kanji>vice</kanji> version of the president, aka the <vocabulary>vice president</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. It will help if you know the word 大統領 first, though.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%89%AF%E5%A4%A7%E7%B5%B1%E9%A0%98",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "副",
+      "id": 1174,
+      "reading": "ふく"
+    },
+    {
+      "type": "kanji",
+      "value": "大",
+      "id": 453,
+      "reading": "だい"
+    },
+    {
+      "type": "kanji",
+      "value": "統",
+      "id": 1170,
+      "reading": "とう"
+    },
+    {
+      "type": "kanji",
+      "value": "領",
+      "id": 1171,
+      "reading": "りょう"
+    }
+  ]
+}

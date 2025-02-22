@@ -1,0 +1,35 @@
+{
+  "id": 8381,
+  "type": "vocabulary",
+  "characters": "漬ける",
+  "primaryMeaning": "To Pickle Something",
+  "otherMeanings": [
+    "To Marinate Something"
+  ],
+  "primaryReading": "つける",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2336,
+      "character": "漬",
+      "readings": [
+        "つ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>pickle</kanji>, so the verb version is <vocabulary>to pickle something</vocabulary> or <vocabulary>to marinate something</vocabulary>.\n\n漬ける is specifically used to describe the process of pickling or marinating foods, such as vegetables, fish, or meat.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading.  You learned this reading with the kanji. Good for you!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%BC%AC%E3%81%91%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "漬",
+      "id": 2336,
+      "reading": "つ"
+    },
+    {
+      "type": "kana",
+      "value": "ける"
+    }
+  ]
+}

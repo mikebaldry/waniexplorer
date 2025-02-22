@@ -1,48 +1,56 @@
 {
   "id": 2226,
   "type": "kanji",
-  "character": "荘",
-  "primaryMeaning": "Villa",
-  "otherMeanings": [],
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "荘"
+  },
   "primaryReading": "そう",
   "readings": [
     {
-      "reading": "そう",
       "primary": true,
+      "reading": "そう",
       "type": "onyomi"
     },
     {
+      "primary": false,
       "reading": "しょう",
-      "primary": false,
       "type": "onyomi"
     },
     {
+      "primary": false,
       "reading": "ちゃん",
-      "primary": false,
       "type": "onyomi"
     },
     {
-      "reading": "あごそ",
       "primary": false,
+      "reading": "あごそ",
       "type": "kunyomi"
     },
     {
-      "reading": "ほうき",
       "primary": false,
+      "reading": "ほうき",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "Once the samurai enters the <kanji>villa</kanji>, he lets his <reading>soul</reading> (そう) go. He's been fighting for long enough and this villa was always where he wanted to go.",
+  "primaryMeaning": "Villa",
+  "otherMeanings": [],
   "meaningMnemonic": "Clearing his <radical>flowers</radical> of <radical>icicle</radical>s, the <radical>samurai</radical> returns home to his <kanji>villa</kanji>.",
-  "vocabularyIds": [
-    8140,
-    8141,
-    8142
-  ],
-  "radicalIds": [
-    90,
-    8826,
-    97
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%8D%98"
+  "readingMnemonic": "Once the samurai enters the <kanji>villa</kanji>, he lets his <reading>soul</reading> (そう) go. He's been fighting for long enough and this villa was always where he wanted to go.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%8D%98"
+  },
+  "related": {
+    "radicals": [
+      90,
+      8826,
+      97
+    ],
+    "vocabularies": [
+      8140,
+      8141,
+      8142
+    ]
+  }
 }

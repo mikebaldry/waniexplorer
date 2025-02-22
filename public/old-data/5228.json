@@ -1,0 +1,46 @@
+{
+  "id": 5228,
+  "type": "vocabulary",
+  "characters": "宴会",
+  "primaryMeaning": "Banquet",
+  "otherMeanings": [
+    "Dinner Party"
+  ],
+  "primaryReading": "えんかい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1404,
+      "character": "宴",
+      "readings": [
+        "えん",
+        "うたげ"
+      ]
+    },
+    {
+      "id": 566,
+      "character": "会",
+      "readings": [
+        "かい",
+        "あ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>banquet</kanji> <kanji>meet</kanji>ing is when you meet together for a <vocabulary>banquet</vocabulary> (or <vocabulary>dinner party</vocabulary>).",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AE%B4%E4%BC%9A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "宴",
+      "id": 1404,
+      "reading": "えん"
+    },
+    {
+      "type": "kanji",
+      "value": "会",
+      "id": 566,
+      "reading": "かい"
+    }
+  ]
+}

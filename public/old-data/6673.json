@@ -1,0 +1,47 @@
+{
+  "id": 6673,
+  "type": "vocabulary",
+  "characters": "露骨",
+  "primaryMeaning": "Frank",
+  "otherMeanings": [
+    "Blunt"
+  ],
+  "primaryReading": "ろこつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1845,
+      "character": "露",
+      "readings": [
+        "ろ",
+        "ろう",
+        "つゆ"
+      ]
+    },
+    {
+      "id": 924,
+      "character": "骨",
+      "readings": [
+        "こつ",
+        "ほね"
+      ]
+    }
+  ],
+  "meaningMnemonic": "I'm going to <kanji>expose</kanji> my <kanji>bone</kanji>s for a second here and be <vocabulary>blunt</vocabulary> with you... this makes sense, because if you're exposing your bones at someone, you're not hiding anything. You're being frank and blunt.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9C%B2%E9%AA%A8",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "露",
+      "id": 1845,
+      "reading": "ろ"
+    },
+    {
+      "type": "kanji",
+      "value": "骨",
+      "id": 924,
+      "reading": "こつ"
+    }
+  ]
+}

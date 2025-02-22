@@ -1,0 +1,43 @@
+{
+  "id": 9058,
+  "type": "vocabulary",
+  "characters": "硬貨",
+  "primaryMeaning": "Coin",
+  "otherMeanings": [],
+  "primaryReading": "こうか",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1934,
+      "character": "硬",
+      "readings": [
+        "こう",
+        "かた"
+      ]
+    },
+    {
+      "id": 1470,
+      "character": "貨",
+      "readings": [
+        "か"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Stiff</kanji> <kanji>freight</kanji> always has to be paid for in <vocabulary>coin</vocabulary>s, because coins are also stiff. You can't go paying for something stiff with something not stiff, that would make no sense at all.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A1%AC%E8%B2%A8",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "硬",
+      "id": 1934,
+      "reading": "こう"
+    },
+    {
+      "type": "kanji",
+      "value": "貨",
+      "id": 1470,
+      "reading": "か"
+    }
+  ]
+}

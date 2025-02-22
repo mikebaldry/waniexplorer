@@ -1,0 +1,48 @@
+{
+  "id": 8189,
+  "type": "vocabulary",
+  "characters": "凝視",
+  "primaryMeaning": "Stare",
+  "otherMeanings": [
+    "Gaze",
+    "Fixation"
+  ],
+  "primaryReading": "ぎょうし",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2283,
+      "character": "凝",
+      "readings": [
+        "ぎょう",
+        "こ",
+        "こご"
+      ]
+    },
+    {
+      "id": 1234,
+      "character": "視",
+      "readings": [
+        "し",
+        "み"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Freeze</kanji> and <kanji>look at</kanji> me. Your <vocabulary>stare</vocabulary> is giving me the creeps! You can move now. Hey. You can move now. Stop I said!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%87%9D%E8%A6%96",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "凝",
+      "id": 2283,
+      "reading": "ぎょう"
+    },
+    {
+      "type": "kanji",
+      "value": "視",
+      "id": 1234,
+      "reading": "し"
+    }
+  ]
+}

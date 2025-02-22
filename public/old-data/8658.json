@@ -1,0 +1,30 @@
+{
+  "id": 8658,
+  "type": "vocabulary",
+  "characters": "狐",
+  "primaryMeaning": "Fox",
+  "otherMeanings": [],
+  "primaryReading": "きつね",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2466,
+      "character": "狐",
+      "readings": [
+        "きつね",
+        "こ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%8B%90",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "狐",
+      "id": 2466,
+      "reading": "きつね"
+    }
+  ]
+}

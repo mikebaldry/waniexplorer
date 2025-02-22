@@ -1,0 +1,49 @@
+{
+  "id": 9308,
+  "type": "vocabulary",
+  "characters": "申請",
+  "primaryMeaning": "Application",
+  "otherMeanings": [
+    "Applying"
+  ],
+  "primaryReading": "しんせい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 538,
+      "character": "申",
+      "readings": [
+        "もう",
+        "しん"
+      ]
+    },
+    {
+      "id": 1386,
+      "character": "請",
+      "readings": [
+        "せい",
+        "しん",
+        "しょう",
+        "う",
+        "こ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you <kanji>say humbly</kanji> that you're <kanji>request</kanji>ing something, you're putting forward an <vocabulary>application</vocabulary>.\n\n申請 refers to the <em>process</em> of officially <vocabulary>applying</vocabulary> for approval or permission, like ビザの申請 (application for a visa), ライセンスの申請 (application for a license), or 休暇の申請 (application for leave/vacation).",
+  "readingMnemonic": "This is a jukugo word, which means on'yomi readings from the kanji. You already know this reading for 請, but not for 申, so here's a mnemonic to help you:\n\nToday you finally submitted your <vocabulary>application</vocabulary> for a new <reading>shin</reading> (しん). Your old one had to be painstakingly removed after you banged it against a table. Anyway, congrats on the application for your new shin!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%94%B3%E8%AB%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "申",
+      "id": 538,
+      "reading": "しん"
+    },
+    {
+      "type": "kanji",
+      "value": "請",
+      "id": 1386,
+      "reading": "せい"
+    }
+  ]
+}

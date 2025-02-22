@@ -1,31 +1,20 @@
 {
   "id": 7856,
   "type": "vocabulary",
-  "characters": "〜隻",
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "〜隻"
+  },
   "primaryMeaning": "Ship Counter",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.\n\nNote that 隻 is generally used to count relatively large vessels, like ships or even whole fleets.",
+  "primaryReading": "せき",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
   "otherMeanings": [
     "Counter For Ships"
   ],
-  "primaryReading": "せき",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2137,
-      "character": "隻",
-      "readings": [
-        "せき"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.\n\nNote that 隻 is generally used to count relatively large vessels, like ships or even whole fleets.",
-  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E3%80%9C%E9%9A%BB",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "隻",
-      "id": 2137,
-      "reading": "せき"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E3%80%9C%E9%9A%BB"
+  }
 }

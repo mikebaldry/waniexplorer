@@ -1,0 +1,60 @@
+{
+  "id": 3592,
+  "type": "vocabulary",
+  "characters": "入館料",
+  "primaryMeaning": "Admission Fee",
+  "otherMeanings": [
+    "Entrance Fee",
+    "Entry Fee"
+  ],
+  "primaryReading": "にゅうかんりょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 445,
+      "character": "入",
+      "readings": [
+        "にゅう",
+        "はい",
+        "い"
+      ]
+    },
+    {
+      "id": 873,
+      "character": "館",
+      "readings": [
+        "かん"
+      ]
+    },
+    {
+      "id": 878,
+      "character": "料",
+      "readings": [
+        "りょう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>fee</kanji> for <kanji>enter</kanji>ing a <kanji>public building</kanji> is the <vocabulary>admission fee</vocabulary>. Gotta pay it if you want to get inside.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%85%A5%E9%A4%A8%E6%96%99",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "入",
+      "id": 445,
+      "reading": "にゅう"
+    },
+    {
+      "type": "kanji",
+      "value": "館",
+      "id": 873,
+      "reading": "かん"
+    },
+    {
+      "type": "kanji",
+      "value": "料",
+      "id": 878,
+      "reading": "りょう"
+    }
+  ]
+}

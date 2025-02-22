@@ -1,32 +1,40 @@
 {
   "id": 2100,
   "type": "kanji",
-  "character": "堤",
-  "primaryMeaning": "Embankment",
-  "otherMeanings": [],
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "堤"
+  },
   "primaryReading": "てい",
   "readings": [
     {
-      "reading": "てい",
       "primary": true,
+      "reading": "てい",
       "type": "onyomi"
     },
     {
-      "reading": "つつみ",
       "primary": false,
+      "reading": "つつみ",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "Unfortunately, building a correct <kanji>embankment</kanji> doesn't just take dirt, but <reading>ta</reading>ter (てい) tots too. You pile up the dirt and the tater tots so the embankment can be nice and high.",
+  "primaryMeaning": "Embankment",
+  "otherMeanings": [],
   "meaningMnemonic": "The <radical>correct</radical> way to block the <radical>sun</radical> with <radical>dirt</radical> is with an <kanji>embankment</kanji>. Build a huge, sloping embankment correctly and the sun won't be able to bother you ever again!",
-  "vocabularyIds": [
-    7390,
-    7391
-  ],
-  "radicalIds": [
-    17,
-    22,
-    229
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%A0%A4"
+  "readingMnemonic": "Unfortunately, building a correct <kanji>embankment</kanji> doesn't just take dirt, but <reading>ta</reading>ter (てい) tots too. You pile up the dirt and the tater tots so the embankment can be nice and high.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%A0%A4"
+  },
+  "related": {
+    "radicals": [
+      17,
+      22,
+      229
+    ],
+    "vocabularies": [
+      7390,
+      7391
+    ]
+  }
 }

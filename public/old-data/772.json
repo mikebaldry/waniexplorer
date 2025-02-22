@@ -1,0 +1,37 @@
+{
+  "id": 772,
+  "type": "kanji",
+  "character": "顔",
+  "primaryMeaning": "Face",
+  "otherMeanings": [],
+  "primaryReading": "かお",
+  "readings": [
+    {
+      "reading": "かお",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "がん",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "But where did that geoduck come from anyway? As you turn around from the cliff edge, wiping the goop from your <kanji>face</kanji> and out of your eyes, you see an angry <reading>cow</reading> (かお). This cow is the one who hit you in the face with this geoduck. I know not the reason, but this cow is most definitely not happy with you.",
+  "meaningMnemonic": "Here you <radical>stand</radical>, a <radical>hair</radical>’s breadth away from the edge of a <radical>cliff</radical>, when out of nowhere a <radical>geoduck</radical> slaps you right in the <kanji>face</kanji>. Geoducks are gross, and you back away from the edge of the cliff you were standing but a hair’s breadth away from just before. Your face is all gooey from the geoduck’s slimy residue.",
+  "vocabularyIds": [
+    3228,
+    3229,
+    3857,
+    7491,
+    7750,
+    8223
+  ],
+  "radicalIds": [
+    55,
+    116,
+    38,
+    184
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%A1%94"
+}

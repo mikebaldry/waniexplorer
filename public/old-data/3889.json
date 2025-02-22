@@ -1,0 +1,36 @@
+{
+  "id": 3889,
+  "type": "vocabulary",
+  "characters": "起こす",
+  "primaryMeaning": "To Wake Someone Up",
+  "otherMeanings": [
+    "To Cause Something"
+  ],
+  "primaryReading": "おこす",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 740,
+      "character": "起",
+      "readings": [
+        "お",
+        "き"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You've seen 起きる which is \"to wake up.\" This is similar, except you are waking someone else up, which makes the meaning of this word <vocabulary>to wake someone up</vocabulary>. How do you differentiate between this and 起きる? Because of the す on the end. You wake someone up violently, wrenching their neck. They turn around and <reading>sue</reading> (す) you, making you wish you never woke them up.\n\nThis can also mean <vocabulary>to cause something</vocabulary>. I guess if you wake someone up and they're not a morning person, you could cause something... like trouble.",
+  "readingMnemonic": "The reading is the same as 起きる, so as long as you know that word you should be able to read this one. Of course, you can also imagine them yelling \"OH!\" when you shake them awake too, if that helps.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%B5%B7%E3%81%93%E3%81%99",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "起",
+      "id": 740,
+      "reading": "お"
+    },
+    {
+      "type": "kana",
+      "value": "こす"
+    }
+  ]
+}

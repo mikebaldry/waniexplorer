@@ -1,0 +1,54 @@
+{
+  "id": 5721,
+  "type": "vocabulary",
+  "characters": "引っ越す",
+  "primaryMeaning": "To Move",
+  "otherMeanings": [
+    "To Move Homes"
+  ],
+  "primaryReading": "ひっこす",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 507,
+      "character": "引",
+      "readings": [
+        "ひ",
+        "いん"
+      ]
+    },
+    {
+      "id": 1437,
+      "character": "越",
+      "readings": [
+        "えつ",
+        "こ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "越す is \"to go beyond.\" Now you're going beyond your home and <kanji>pull</kanji>ing everything with you to go to another home. You are trying <vocabulary>to move</vocabulary> / <vocabulary>to move homes</vocabulary>.",
+  "readingMnemonic": "The readings come from 引く and 越す put together. Careful of that っ.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BC%95%E3%81%A3%E8%B6%8A%E3%81%99",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "引",
+      "id": 507,
+      "reading": "ひ"
+    },
+    {
+      "type": "kana",
+      "value": "っ"
+    },
+    {
+      "type": "kanji",
+      "value": "越",
+      "id": 1437,
+      "reading": "こ"
+    },
+    {
+      "type": "kana",
+      "value": "す"
+    }
+  ]
+}

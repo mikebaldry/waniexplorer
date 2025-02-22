@@ -1,63 +1,20 @@
 {
   "id": 2887,
   "type": "vocabulary",
-  "characters": "外国人",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "外国人"
+  },
   "primaryMeaning": "Foreign Person",
+  "meaningMnemonic": "You know 外人 the word that means \"foreigner,\" but that word is a bit informal and can come off as rude. The nicer, more politically correct version of the word is the one above. An <kanji>outside</kanji> <kanji>country</kanji> <kanji>person</kanji>. To differentiate this from \"foreigner\" we're going to use the more polite English version of this word as well (just like in Japanese): <vocabulary>Foreign Person</vocabulary>.",
+  "primaryReading": "がいこくじん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 人 has two on'yomi readings, here's a mnemonic to help you remember which one to use:\n\nRemember how to spot a <vocabulary>foreigner</vocabulary>? That's right, they'll be in <reading>jean</reading>s (じん)!",
   "otherMeanings": [
     "Foreigner"
   ],
-  "primaryReading": "がいこくじん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 521,
-      "character": "外",
-      "readings": [
-        "がい",
-        "そと",
-        "はず"
-      ]
-    },
-    {
-      "id": 621,
-      "character": "国",
-      "readings": [
-        "こく",
-        "くに"
-      ]
-    },
-    {
-      "id": 444,
-      "character": "人",
-      "readings": [
-        "にん",
-        "じん",
-        "ひと",
-        "と"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You know 外人 the word that means \"foreigner,\" but that word is a bit informal and can come off as rude. The nicer, more politically correct version of the word is the one above. An <kanji>outside</kanji> <kanji>country</kanji> <kanji>person</kanji>. To differentiate this from \"foreigner\" we're going to use the more polite English version of this word as well (just like in Japanese): <vocabulary>Foreign Person</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 人 has two on'yomi readings, here's a mnemonic to help you remember which one to use:\n\nRemember how to spot a <vocabulary>foreigner</vocabulary>? That's right, they'll be in <reading>jean</reading>s (じん)!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A4%96%E5%9B%BD%E4%BA%BA",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "外",
-      "id": 521,
-      "reading": "がい"
-    },
-    {
-      "type": "kanji",
-      "value": "国",
-      "id": 621,
-      "reading": "こく"
-    },
-    {
-      "type": "kanji",
-      "value": "人",
-      "id": 444,
-      "reading": "じん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A4%96%E5%9B%BD%E4%BA%BA"
+  }
 }

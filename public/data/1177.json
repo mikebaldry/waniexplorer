@@ -1,36 +1,44 @@
 {
   "id": 1177,
   "type": "kanji",
-  "character": "吸",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "吸"
+  },
+  "primaryReading": "きゅう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "きゅう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "す",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Suck",
   "otherMeanings": [
     "Inhale"
   ],
-  "primaryReading": "きゅう",
-  "readings": [
-    {
-      "reading": "きゅう",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "す",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "Use this mouth ability to <kanji>suck</kanji> <reading>cu</reading>cumbers (きゅう) into your mouth. Cucumbers are shaped like cylinders so you can suck them into your mouth like this. Just as nature intended.",
   "meaningMnemonic": "Your <radical>mouth</radical> is like an <radical>escalator</radical> you use to <kanji>suck</kanji> and <kanji>inhale</kanji> things into your body.",
-  "vocabularyIds": [
-    4561,
-    4587,
-    4588,
-    4763,
-    8627
-  ],
-  "radicalIds": [
-    16,
-    193
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%90%B8"
+  "readingMnemonic": "Use this mouth ability to <kanji>suck</kanji> <reading>cu</reading>cumbers (きゅう) into your mouth. Cucumbers are shaped like cylinders so you can suck them into your mouth like this. Just as nature intended.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%90%B8"
+  },
+  "related": {
+    "radicals": [
+      16,
+      193
+    ],
+    "vocabularies": [
+      4561,
+      4587,
+      4588,
+      4763,
+      8627
+    ]
+  }
 }

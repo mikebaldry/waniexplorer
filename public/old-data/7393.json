@@ -1,0 +1,47 @@
+{
+  "id": 7393,
+  "type": "vocabulary",
+  "characters": "漂流",
+  "primaryMeaning": "Drifting",
+  "otherMeanings": [
+    "Drift"
+  ],
+  "primaryReading": "ひょうりゅう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2101,
+      "character": "漂",
+      "readings": [
+        "ひょう",
+        "ただよ"
+      ]
+    },
+    {
+      "id": 818,
+      "character": "流",
+      "readings": [
+        "りゅう",
+        "る",
+        "なが"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Drifting</kanji> down the <kanji>stream</kanji>. Something that is doing this is <vocabulary>drifting</vocabulary>. It could also be the <vocabulary>drift</vocabulary> of something.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%BC%82%E6%B5%81",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "漂",
+      "id": 2101,
+      "reading": "ひょう"
+    },
+    {
+      "type": "kanji",
+      "value": "流",
+      "id": 818,
+      "reading": "りゅう"
+    }
+  ]
+}

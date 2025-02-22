@@ -1,37 +1,21 @@
 {
   "id": 4464,
   "type": "vocabulary",
-  "characters": "解ける",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "解ける"
+  },
   "primaryMeaning": "To Be Solved",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>solve</kanji> and the verb vocab version is <vocabulary>to be solved</vocabulary>. By extension, it can also mean <vocabulary>to come undone</vocabulary>, like with shoelaces, or <vocabulary>to be cleared</vocabulary>, like with misunderstandings or tension in a room. \n\n解けるis an intransitive verb, so it doesn't take a direct object. In other words, you use it to say something is solved or gets solved. You can remember this because you don't <reading>care</reading> (ける) enough to solve things yourself, you just let things get solved on their own.",
+  "primaryReading": "とける",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nWhile you're sitting there with no cares, waiting for things <vocabulary>to be solved</vocabulary>, you stare down at your <reading>toe</reading> (と). Really imagine looking at your toe while things around you are getting solved.",
   "otherMeanings": [
     "To Come Undone",
     "To Be Cleared"
   ],
-  "primaryReading": "とける",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1150,
-      "character": "解",
-      "readings": [
-        "かい",
-        "と"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>solve</kanji> and the verb vocab version is <vocabulary>to be solved</vocabulary>. By extension, it can also mean <vocabulary>to come undone</vocabulary>, like with shoelaces, or <vocabulary>to be cleared</vocabulary>, like with misunderstandings or tension in a room. \n\n解けるis an intransitive verb, so it doesn't take a direct object. In other words, you use it to say something is solved or gets solved. You can remember this because you don't <reading>care</reading> (ける) enough to solve things yourself, you just let things get solved on their own.",
-  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nWhile you're sitting there with no cares, waiting for things <vocabulary>to be solved</vocabulary>, you stare down at your <reading>toe</reading> (と). Really imagine looking at your toe while things around you are getting solved.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A7%A3%E3%81%91%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "解",
-      "id": 1150,
-      "reading": "と"
-    },
-    {
-      "type": "kana",
-      "value": "ける"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%A7%A3%E3%81%91%E3%82%8B"
+  }
 }

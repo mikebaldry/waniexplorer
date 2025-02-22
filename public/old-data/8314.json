@@ -1,0 +1,46 @@
+{
+  "id": 8314,
+  "type": "vocabulary",
+  "characters": "窮状",
+  "primaryMeaning": "Distress",
+  "otherMeanings": [
+    "Wretched Condition"
+  ],
+  "primaryReading": "きゅうじょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2308,
+      "character": "窮",
+      "readings": [
+        "きゅう",
+        "きょう",
+        "きわ"
+      ]
+    },
+    {
+      "id": 1183,
+      "character": "状",
+      "readings": [
+        "じょう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Destitute</kanji> <kanji>condition</kanji>s lead to <vocabulary>distress</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%AA%AE%E7%8A%B6",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "窮",
+      "id": 2308,
+      "reading": "きゅう"
+    },
+    {
+      "type": "kanji",
+      "value": "状",
+      "id": 1183,
+      "reading": "じょう"
+    }
+  ]
+}

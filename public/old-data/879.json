@@ -1,0 +1,31 @@
+{
+  "id": 879,
+  "type": "kanji",
+  "character": "標",
+  "primaryMeaning": "Signpost",
+  "otherMeanings": [],
+  "primaryReading": "ひょう",
+  "readings": [
+    {
+      "reading": "ひょう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "しるし",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "As you look at this weird <kanji>signpost</kanji> you notice a button. You press it because it will supposedly tell you more about these dangerous helicopters and jackhammers. Instead, it just yells out in a loud obnoxious voice: <reading>HEYO</reading> (ひょう)!!",
+  "meaningMnemonic": "You see a <radical>tree</radical> with a <radical>helicopter</radical> and a <radical>jackhammer</radical> tied to it. You look closer, because this is an odd sight, and realize that there is a sign here too. It's telling you to beware of helicopters and jackhammers in these woods. It's a poorly made <kanji>signpost</kanji>!",
+  "vocabularyIds": [
+    3603
+  ],
+  "radicalIds": [
+    23,
+    424,
+    207
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%A8%99"
+}

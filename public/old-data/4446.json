@@ -1,0 +1,44 @@
+{
+  "id": 4446,
+  "type": "vocabulary",
+  "characters": "評論",
+  "primaryMeaning": "Critique",
+  "otherMeanings": [
+    "Criticism"
+  ],
+  "primaryReading": "ひょうろん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1140,
+      "character": "評",
+      "readings": [
+        "ひょう"
+      ]
+    },
+    {
+      "id": 1119,
+      "character": "論",
+      "readings": [
+        "ろん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Evaluate</kanji> my <kanji>theory</kanji>. Then, when you evaluate, please give me <vocabulary>critique</vocabulary> and <vocabulary>criticism</vocabulary> to help me get better?",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A9%95%E8%AB%96",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "評",
+      "id": 1140,
+      "reading": "ひょう"
+    },
+    {
+      "type": "kanji",
+      "value": "論",
+      "id": 1119,
+      "reading": "ろん"
+    }
+  ]
+}

@@ -1,31 +1,20 @@
 {
   "id": 6070,
   "type": "vocabulary",
-  "characters": "塁",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "塁"
+  },
   "primaryMeaning": "Baseball Base",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "るい",
+  "readingMnemonic": "The reading is the same as what you learned with the kanji.",
   "otherMeanings": [
     "Base"
   ],
-  "primaryReading": "るい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1650,
-      "character": "塁",
-      "readings": [
-        "るい"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
-  "readingMnemonic": "The reading is the same as what you learned with the kanji.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A1%81",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "塁",
-      "id": 1650,
-      "reading": "るい"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A1%81"
+  }
 }

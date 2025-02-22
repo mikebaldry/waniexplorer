@@ -1,61 +1,18 @@
 {
   "id": 7807,
   "type": "vocabulary",
-  "characters": "洗濯粉",
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "洗濯粉"
+  },
   "primaryMeaning": "Detergent",
-  "otherMeanings": [],
-  "primaryReading": "せんたくこ",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1043,
-      "character": "洗",
-      "readings": [
-        "せん",
-        "あら"
-      ]
-    },
-    {
-      "id": 2126,
-      "character": "濯",
-      "readings": [
-        "たく",
-        "すす",
-        "ゆす",
-        "そそぐ"
-      ]
-    },
-    {
-      "id": 1467,
-      "character": "粉",
-      "readings": [
-        "ふん",
-        "こな",
-        "こ"
-      ]
-    }
-  ],
   "meaningMnemonic": "<kanji>Wash</kanji> <kanji>wash</kanji> <kanji>powder</kanji> is the <vocabulary>detergent</vocabulary> you put in the wash you make sure your clothes are washed well. Detergent used to only be available in powder form back in the old days, and it still can be, so this is for that good powdery stuff.\n\nNote that this word sounds a bit old-fashioned. To talk about laundry detergent in general, 洗濯洗剤 is more common nowadays.",
+  "primaryReading": "せんたくこ",
   "readingMnemonic": "This is a mix of the on'yomi readings for 洗濯 and the kun'yomi reading for 粉. You already learned this reading for 粉 when you learned the word 小麦粉. If you can remember that, you should know the readings for this one too!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B4%97%E6%BF%AF%E7%B2%89",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "洗",
-      "id": 1043,
-      "reading": "せん"
-    },
-    {
-      "type": "kanji",
-      "value": "濯",
-      "id": 2126,
-      "reading": "たく"
-    },
-    {
-      "type": "kanji",
-      "value": "粉",
-      "id": 1467,
-      "reading": "こ"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B4%97%E6%BF%AF%E7%B2%89"
+  }
 }

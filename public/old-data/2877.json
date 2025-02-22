@@ -1,0 +1,30 @@
+{
+  "id": 2877,
+  "type": "vocabulary",
+  "characters": "羊",
+  "primaryMeaning": "Sheep",
+  "otherMeanings": [],
+  "primaryReading": "ひつじ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 618,
+      "character": "羊",
+      "readings": [
+        "よう",
+        "ひつじ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "Since this word is made up of a single kanji, it should use the kun'yomi reading. When learning the kanji, you didn't learn that reading, so here's a mnemonic to help you with this word: \n\nImagine a <vocabulary>sheep</vocabulary> fighting with Jesus. The first thing it does is <reading>hits Je</reading>sus (ひつじ) in the stomach with its fists, then hits Jesus again with its horns. Try to imagine this playing out, with an announcer calling the shots as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%BE%8A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "羊",
+      "id": 618,
+      "reading": "ひつじ"
+    }
+  ]
+}

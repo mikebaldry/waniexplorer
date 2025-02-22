@@ -1,0 +1,36 @@
+{
+  "id": 5020,
+  "type": "vocabulary",
+  "characters": "悩み",
+  "primaryMeaning": "A Worry",
+  "otherMeanings": [
+    "A Trouble"
+  ],
+  "primaryReading": "なやみ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1321,
+      "character": "悩",
+      "readings": [
+        "なや",
+        "のう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This is the noun version of <kanji>worry</kanji>, making it <vocabulary>a worry</vocabulary>, or <vocabulary>a trouble</vocabulary>.",
+  "readingMnemonic": "The reading is the one you learned with the kanji. Nicely done, no need to have <vocabulary>a worry</vocabulary> about it.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%82%A9%E3%81%BF",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "悩",
+      "id": 1321,
+      "reading": "なや"
+    },
+    {
+      "type": "kana",
+      "value": "み"
+    }
+  ]
+}

@@ -1,33 +1,21 @@
 {
   "id": 3006,
   "type": "vocabulary",
-  "characters": "〜君",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "〜君"
+  },
   "primaryMeaning": "Boy Name Ender",
+  "meaningMnemonic": "Add this to the end of someone's name, it's like saying ______<kanji>buddy</kanji>. It's generally used as a name ender (like さん) for boys and young men. Don't use this on people who are higher ranked than you (socially or literally). As in, you wouldn't use it on your boss. Use it on your younger male subordinates as well as boys who aren't adults yet.",
+  "primaryReading": "くん",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji (on'yomi), probably because it usually is attached to other words (aka names, like こういち君) making it act more like jukugo words do.",
   "otherMeanings": [
     "Male Name Ender",
     "Kun"
   ],
-  "primaryReading": "くん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 682,
-      "character": "君",
-      "readings": [
-        "くん",
-        "きみ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Add this to the end of someone's name, it's like saying ______<kanji>buddy</kanji>. It's generally used as a name ender (like さん) for boys and young men. Don't use this on people who are higher ranked than you (socially or literally). As in, you wouldn't use it on your boss. Use it on your younger male subordinates as well as boys who aren't adults yet.",
-  "readingMnemonic": "The reading is the same as the one you learned with the kanji (on'yomi), probably because it usually is attached to other words (aka names, like こういち君) making it act more like jukugo words do.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E3%80%9C%E5%90%9B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "君",
-      "id": 682,
-      "reading": "くん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E3%80%9C%E5%90%9B"
+  }
 }

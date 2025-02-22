@@ -1,0 +1,26 @@
+{
+  "id": 2008,
+  "type": "kanji",
+  "character": "箸",
+  "primaryMeaning": "Chopsticks",
+  "otherMeanings": [],
+  "primaryReading": "はし",
+  "readings": [
+    {
+      "reading": "はし",
+      "primary": true,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Now use those <kanji>chopsticks</kanji> to eat some delicious <reading>hash</reading> (はし) browns! That's what chopsticks were made for. That's what they're always made for.",
+  "meaningMnemonic": "You give <radical>bamboo</radical> to <radical>someone</radical> and they make them into <kanji>chopsticks</kanji>. They are very talented at turning bamboo into bamboo chopsticks. This someone is an expert at their profession.",
+  "vocabularyIds": [
+    7131,
+    7132
+  ],
+  "radicalIds": [
+    85,
+    203
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%AE%B8"
+}

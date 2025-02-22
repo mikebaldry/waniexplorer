@@ -1,0 +1,48 @@
+{
+  "id": 5611,
+  "type": "vocabulary",
+  "characters": "編集する",
+  "primaryMeaning": "To Edit",
+  "otherMeanings": [],
+  "primaryReading": "へんしゅうする",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1445,
+      "character": "編",
+      "readings": [
+        "へん",
+        "あ"
+      ]
+    },
+    {
+      "id": 754,
+      "character": "集",
+      "readings": [
+        "しゅう",
+        "あつ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "編集 is <kanji>edit</kanji>, so the verb version is <vocabulary>to edit</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B7%A8%E9%9B%86%E3%81%99%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "編",
+      "id": 1445,
+      "reading": "へん"
+    },
+    {
+      "type": "kanji",
+      "value": "集",
+      "id": 754,
+      "reading": "しゅう"
+    },
+    {
+      "type": "kana",
+      "value": "する"
+    }
+  ]
+}

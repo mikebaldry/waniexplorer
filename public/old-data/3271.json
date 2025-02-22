@@ -1,0 +1,47 @@
+{
+  "id": 3271,
+  "type": "vocabulary",
+  "characters": "苦労",
+  "primaryMeaning": "Hardship",
+  "otherMeanings": [
+    "Troubles"
+  ],
+  "primaryReading": "くろう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 719,
+      "character": "苦",
+      "readings": [
+        "く",
+        "くる",
+        "にが"
+      ]
+    },
+    {
+      "id": 788,
+      "character": "労",
+      "readings": [
+        "ろう",
+        "いたわ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Suffering</kanji> and <kanji>labor</kanji>. Sounds like the kind of thing these soft hands wouldn't want to deal with. These are <vocabulary>hardships</vocabulary> and <vocabulary>troubles</vocabulary>. Hopefully you don't have too much of this with kanji anymore!",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%8B%A6%E5%8A%B4",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "苦",
+      "id": 719,
+      "reading": "く"
+    },
+    {
+      "type": "kanji",
+      "value": "労",
+      "id": 788,
+      "reading": "ろう"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": 3395,
+  "type": "vocabulary",
+  "characters": "着物",
+  "primaryMeaning": "Kimono",
+  "otherMeanings": [
+    "Clothes"
+  ],
+  "primaryReading": "きもの",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 846,
+      "character": "着",
+      "readings": [
+        "ちゃく",
+        "き",
+        "つ"
+      ]
+    },
+    {
+      "id": 718,
+      "character": "物",
+      "readings": [
+        "ぶつ",
+        "もつ",
+        "もの"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>thing</kanji>s you <kanji>wear</kanji> are your <vocabulary>clothes</vocabulary>. Oh, and Japanese clothes count too. We're talking <vocabulary>kimono</vocabulary>s. Way back when, these could just be called <vocabulary>clothes</vocabulary> because it's all people really wore, but nowadays we know they're specific to the stereotypical kimono you think of when you think \"Japan.\"",
+  "readingMnemonic": "The reading is a bit strange using kun'yomi readings. Luckily, we taught you these already, so go put on that kimono of yours and relax at the 温泉 for a bit.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%9D%80%E7%89%A9",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "着",
+      "id": 846,
+      "reading": "き"
+    },
+    {
+      "type": "kanji",
+      "value": "物",
+      "id": 718,
+      "reading": "もの"
+    }
+  ]
+}

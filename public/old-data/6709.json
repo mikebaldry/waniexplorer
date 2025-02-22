@@ -1,0 +1,32 @@
+{
+  "id": 6709,
+  "type": "vocabulary",
+  "characters": "岳",
+  "primaryMeaning": "Peak",
+  "otherMeanings": [
+    "Mountain"
+  ],
+  "primaryReading": "たけ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1855,
+      "character": "岳",
+      "readings": [
+        "がく",
+        "たけ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>peak</kanji> of the mountain is a <vocabulary>peak</vocabulary> or <vocabulary>mountain</vocabulary>.",
+  "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You did not learn this reading, so here's a mnemonic to help you: \n\nWhen you climb to the top of the <vocabulary>peak</vocabulary>, you're so amazed to find vegetation at this altitude. The only thing that grows here, and in thick amounts, is <reading>竹</reading> (たけ). It is impeding your progress to the very top of the peak, in fact, which is a bother. It's as if it's guarding something...",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B2%B3",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "岳",
+      "id": 1855,
+      "reading": "たけ"
+    }
+  ]
+}

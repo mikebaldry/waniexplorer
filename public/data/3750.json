@@ -1,46 +1,20 @@
 {
   "id": 3750,
   "type": "vocabulary",
-  "characters": "変死",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "変死"
+  },
   "primaryMeaning": "Unnatural Death",
+  "meaningMnemonic": "A <kanji>strange</kanji> <kanji>death</kanji> is one that doesn't seem right. It's an <vocabulary>unnatural death</vocabulary>, and probably an <vocabulary>accidental death</vocabulary> (ie wasn't caused by natural causes).",
+  "primaryReading": "へんし",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Accidental Death"
   ],
-  "primaryReading": "へんし",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 944,
-      "character": "変",
-      "readings": [
-        "へん",
-        "か"
-      ]
-    },
-    {
-      "id": 617,
-      "character": "死",
-      "readings": [
-        "し",
-        "し"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>strange</kanji> <kanji>death</kanji> is one that doesn't seem right. It's an <vocabulary>unnatural death</vocabulary>, and probably an <vocabulary>accidental death</vocabulary> (ie wasn't caused by natural causes).",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A4%89%E6%AD%BB",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "変",
-      "id": 944,
-      "reading": "へん"
-    },
-    {
-      "type": "kanji",
-      "value": "死",
-      "id": 617,
-      "reading": "し"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A4%89%E6%AD%BB"
+  }
 }

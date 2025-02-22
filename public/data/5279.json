@@ -1,47 +1,20 @@
 {
   "id": 5279,
   "type": "vocabulary",
-  "characters": "街道",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "街道"
+  },
   "primaryMeaning": "Main Road",
+  "meaningMnemonic": "A <kanji>street</kanji> <kanji>road</kanji> is as wide as a street and a road combined together. So cool! So wide! It must be a <vocabulary>main road</vocabulary> or a <vocabulary>highroad</vocabulary>!\n\nKeep in mind 街道 isn't a generic term for main roads. It usually refers to important routes that connect different regions of Japan, especially those from the Edo period, like 日光街道 (Nikkōkaidō) and 中山道 (Nakasendō). But it can also refer to main roads with historical significance in other countries, like アッピア街道 (the Appian Way) in Italy or オックスフォード街道 (Oxford Street) in the UK.",
+  "primaryReading": "かいどう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. One thing to note though:\n\nThis word uses the かい reading for 街 (not がい). And even when 街道 is a suffix, it never gets rendaku'd! Remember this by imagining every <vocabulary>main road</vocabulary> being full of <reading>kay</reading>aks (かい) for some reason. Just a traffic jam of kayaks up and down the 街道.",
   "otherMeanings": [
     "Highroad"
   ],
-  "primaryReading": "かいどう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1400,
-      "character": "街",
-      "readings": [
-        "がい",
-        "かい",
-        "まち"
-      ]
-    },
-    {
-      "id": 700,
-      "character": "道",
-      "readings": [
-        "どう",
-        "みち"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>street</kanji> <kanji>road</kanji> is as wide as a street and a road combined together. So cool! So wide! It must be a <vocabulary>main road</vocabulary> or a <vocabulary>highroad</vocabulary>!\n\nKeep in mind 街道 isn't a generic term for main roads. It usually refers to important routes that connect different regions of Japan, especially those from the Edo period, like 日光街道 (Nikkōkaidō) and 中山道 (Nakasendō). But it can also refer to main roads with historical significance in other countries, like アッピア街道 (the Appian Way) in Italy or オックスフォード街道 (Oxford Street) in the UK.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. One thing to note though:\n\nThis word uses the かい reading for 街 (not がい). And even when 街道 is a suffix, it never gets rendaku'd! Remember this by imagining every <vocabulary>main road</vocabulary> being full of <reading>kay</reading>aks (かい) for some reason. Just a traffic jam of kayaks up and down the 街道.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A1%97%E9%81%93",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "街",
-      "id": 1400,
-      "reading": "かい"
-    },
-    {
-      "type": "kanji",
-      "value": "道",
-      "id": 700,
-      "reading": "どう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%A1%97%E9%81%93"
+  }
 }

@@ -1,0 +1,62 @@
+{
+  "id": 7808,
+  "type": "vocabulary",
+  "characters": "洗濯屋",
+  "primaryMeaning": "Dry Cleaners",
+  "otherMeanings": [
+    "Laundromat"
+  ],
+  "primaryReading": "せんたくや",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1043,
+      "character": "洗",
+      "readings": [
+        "せん",
+        "あら"
+      ]
+    },
+    {
+      "id": 2126,
+      "character": "濯",
+      "readings": [
+        "たく",
+        "すす",
+        "ゆす",
+        "そそぐ"
+      ]
+    },
+    {
+      "id": 724,
+      "character": "屋",
+      "readings": [
+        "や",
+        "おく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>wash</kanji> <kanji>wash</kanji> <kanji>shop</kanji> is where you go to get your clothes washed extra well. It's the <vocabulary>dry cleaners</vocabulary>! They wash your clothes way better than you can because they wash them twice.",
+  "readingMnemonic": "This is a mix of the on'yomi readings for 洗濯 and the kun'yomi reading for 屋. You've learned all of these readings by now, so you should be able to read this word too!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B4%97%E6%BF%AF%E5%B1%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "洗",
+      "id": 1043,
+      "reading": "せん"
+    },
+    {
+      "type": "kanji",
+      "value": "濯",
+      "id": 2126,
+      "reading": "たく"
+    },
+    {
+      "type": "kanji",
+      "value": "屋",
+      "id": 724,
+      "reading": "や"
+    }
+  ]
+}

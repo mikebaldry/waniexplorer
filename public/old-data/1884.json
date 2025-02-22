@@ -1,0 +1,30 @@
+{
+  "id": 1884,
+  "type": "kanji",
+  "character": "叱",
+  "primaryMeaning": "Scold",
+  "otherMeanings": [],
+  "primaryReading": "しか",
+  "readings": [
+    {
+      "reading": "しか",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "しつ",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "What were you doing wrong that caused me to <kanji>scold</kanji> you? You were feeding the <reading>鹿</reading> (しか). If you feed them they'll never be able to feed themselves!",
+  "meaningMnemonic": "From my <radical>mouth</radical> I have told you <radical>seven</radical> times not to do that. Now I have to <kanji>scold</kanji> you.",
+  "vocabularyIds": [
+    6801
+  ],
+  "radicalIds": [
+    16,
+    4
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%8F%B1"
+}

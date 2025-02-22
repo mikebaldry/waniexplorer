@@ -1,0 +1,46 @@
+{
+  "id": 9126,
+  "type": "vocabulary",
+  "characters": "沙羅",
+  "primaryMeaning": "Sara",
+  "otherMeanings": [],
+  "primaryReading": "さら",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2434,
+      "character": "沙",
+      "readings": [
+        "さ",
+        "しゃ",
+        "すな",
+        "よなげる"
+      ]
+    },
+    {
+      "id": 2339,
+      "character": "羅",
+      "readings": [
+        "ら",
+        "うすもの"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If <kanji>sand</kanji> is <kanji>spread out</kanji> you get the given name <vocabulary>Sara</vocabulary>. You've written your name in sand, right? Now imagine a Sara you know spreading out sand so that it spells her name. Or imagine a pro athlete, like wrestler Doshō Sara (土性 沙羅), judoka Asahina Sara (朝比奈 沙羅), or ski jumper Takanashi Sara (髙梨 沙羅) spreading out the sand. I bet they'd find some skillful ways to do it.",
+  "readingMnemonic": "This name uses the on'yomi for both kanji, and you learned those readings with the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B2%99%E7%BE%85",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "沙",
+      "id": 2434,
+      "reading": "さ"
+    },
+    {
+      "type": "kanji",
+      "value": "羅",
+      "id": 2339,
+      "reading": "ら"
+    }
+  ]
+}

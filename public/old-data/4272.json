@@ -1,0 +1,46 @@
+{
+  "id": 4272,
+  "type": "vocabulary",
+  "characters": "在外",
+  "primaryMeaning": "Overseas",
+  "otherMeanings": [
+    "Abroad"
+  ],
+  "primaryReading": "ざいがい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1107,
+      "character": "在",
+      "readings": [
+        "ざい"
+      ]
+    },
+    {
+      "id": 521,
+      "character": "外",
+      "readings": [
+        "がい",
+        "そと",
+        "はず"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you <kanji>exist</kanji> <kanji>outside</kanji> (outside of what? Japan, of course), you are <vocabulary>overseas</vocabulary> or <vocabulary>abroad</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%9C%A8%E5%A4%96",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "在",
+      "id": 1107,
+      "reading": "ざい"
+    },
+    {
+      "type": "kanji",
+      "value": "外",
+      "id": 521,
+      "reading": "がい"
+    }
+  ]
+}

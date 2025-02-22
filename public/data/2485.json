@@ -1,30 +1,18 @@
 {
   "id": 2485,
   "type": "vocabulary",
-  "characters": "十",
+  "level": 1,
+  "characters": {
+    "type": "text",
+    "value": "十"
+  },
   "primaryMeaning": "Ten",
-  "otherMeanings": [],
-  "primaryReading": "じゅう",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 448,
-      "character": "十",
-      "readings": [
-        "じゅう",
-        "とお"
-      ]
-    }
-  ],
   "meaningMnemonic": "When a vocab is alone like this with no okurigana (hiragana attached to the kanji) it tends to steal its meaning from the kanji it came from. That means this vocab word also means <vocabulary>ten</vocabulary>.",
+  "primaryReading": "じゅう",
   "readingMnemonic": "When a vocab is alone and consists of a single kanji like this, usually it uses the kun'yomi reading for the kanji. But, numbers are an exception and they use the on'yomi reading (which you learned when you learned the kanji). That means you know that this word's reading is <reading>じゅう</reading> already.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8D%81",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "十",
-      "id": 448,
-      "reading": "じゅう"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%8D%81"
+  }
 }

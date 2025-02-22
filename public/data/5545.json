@@ -1,45 +1,20 @@
 {
   "id": 5545,
   "type": "vocabulary",
-  "characters": "成績",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "成績"
+  },
   "primaryMeaning": "Grades",
+  "meaningMnemonic": "You <kanji>become</kanji> <kanji>exploits</kanji>... as in, your exploits become a thing you can actually see, and you can see them in the form of <vocabulary>grades</vocabulary>. Ouch, some of your exploits weren't all that amazing...",
+  "primaryReading": "せいせき",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Ranking"
   ],
-  "primaryReading": "せいせき",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 780,
-      "character": "成",
-      "readings": [
-        "せい",
-        "な"
-      ]
-    },
-    {
-      "id": 1490,
-      "character": "績",
-      "readings": [
-        "せき"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You <kanji>become</kanji> <kanji>exploits</kanji>... as in, your exploits become a thing you can actually see, and you can see them in the form of <vocabulary>grades</vocabulary>. Ouch, some of your exploits weren't all that amazing...",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%88%90%E7%B8%BE",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "成",
-      "id": 780,
-      "reading": "せい"
-    },
-    {
-      "type": "kanji",
-      "value": "績",
-      "id": 1490,
-      "reading": "せき"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%88%90%E7%B8%BE"
+  }
 }

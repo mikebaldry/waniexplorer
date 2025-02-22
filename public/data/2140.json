@@ -1,48 +1,56 @@
 {
   "id": 2140,
   "type": "kanji",
-  "character": "釈",
-  "primaryMeaning": "Explanation",
-  "otherMeanings": [],
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "釈"
+  },
   "primaryReading": "しゃく",
   "readings": [
     {
-      "reading": "しゃく",
       "primary": true,
+      "reading": "しゃく",
       "type": "onyomi"
     },
     {
+      "primary": false,
       "reading": "せき",
-      "primary": false,
       "type": "onyomi"
     },
     {
+      "primary": false,
       "reading": "す",
-      "primary": false,
       "type": "kunyomi"
     },
     {
+      "primary": false,
       "reading": "とく",
-      "primary": false,
       "type": "kunyomi"
     },
     {
-      "reading": "ゆる",
       "primary": false,
+      "reading": "ゆる",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "In your <kanji>explanation</kanji> you blame everything on <reading>Shaq</reading> (しゃく). He told you to do it! It's all Shaq's fault, you explain. ",
+  "primaryMeaning": "Explanation",
+  "otherMeanings": [],
   "meaningMnemonic": "If you use a <radical>sickle</radical> to kill a <radical>shrimp</radical> you'll need a really good <kanji>explanation</kanji> for yourself. What did that shrimp do to you? Why use a sickle? Well? What's your explanation?",
-  "vocabularyIds": [
-    7848,
-    7849,
-    7850,
-    7851
-  ],
-  "radicalIds": [
-    164,
-    215
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%87%88"
+  "readingMnemonic": "In your <kanji>explanation</kanji> you blame everything on <reading>Shaq</reading> (しゃく). He told you to do it! It's all Shaq's fault, you explain. ",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%87%88"
+  },
+  "related": {
+    "radicals": [
+      164,
+      215
+    ],
+    "vocabularies": [
+      7848,
+      7849,
+      7850,
+      7851
+    ]
+  }
 }

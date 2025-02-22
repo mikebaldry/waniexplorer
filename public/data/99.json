@@ -1,12 +1,15 @@
 {
   "id": 99,
   "type": "radical",
-  "primaryMeaning": "Loiter",
-  "otherMeanings": [],
-  "character": {
+  "level": 4,
+  "characters": {
     "type": "text",
     "value": "彳"
   },
+  "primaryMeaning": "Loiter",
+  "otherMeanings": [],
   "meaningMnemonic": "The leader (ｲ) radical has a little something extra on top of him, holding him down, holding him back. It's causing him to wait... it's causing him to <radical>loiter</radical>.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/loiter"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/loiter"
+  }
 }

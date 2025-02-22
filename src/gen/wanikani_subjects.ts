@@ -16,7 +16,9 @@ export type RadicalSubject = {
     characters: string | null,
     character_images: CharacterImage[],
     meanings: BasicMeaning[],
-    amalgamation_subject_ids: number[]
+    meaning_mnemonic: string,
+    amalgamation_subject_ids: number[],
+    document_url: string
   }
 }
 
@@ -45,7 +47,10 @@ export type KanjiSubject = {
     component_subject_ids: number[],
     meanings: BasicMeaning[],
     auxiliary_meanings: AuxilaryMeaning[],
-    readings: Reading[]
+    readings: KanjiReading[],
+    meaning_mnemonic: string,
+    reading_mnemonic: string,
+    document_url: string
   }
 }
 
@@ -53,6 +58,8 @@ export type Reading = {
   reading: string,
   primary: boolean
 }
+
+export type KanjiReading = Reading & { type: "onyomi" | "kunyomi" | "nanori" }
 
 export type VocabularySubject = {
   id: number,
@@ -62,8 +69,11 @@ export type VocabularySubject = {
     characters: string,
     meanings: BasicMeaning[],
     auxiliary_meanings: AuxilaryMeaning[],
+    meaning_mnemonic: string,
     readings: Reading[],
-    component_subject_ids: number[]
+    reading_mnemonic: string,
+    component_subject_ids: number[],
+    document_url: string
   }
 }
 

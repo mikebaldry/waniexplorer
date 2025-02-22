@@ -1,50 +1,22 @@
 {
   "id": 3020,
   "type": "vocabulary",
-  "characters": "未決",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "未決"
+  },
   "primaryMeaning": "Pending",
+  "meaningMnemonic": "Something that is <kanji>not yet</kanji> <kanji>decide</kanji>d... it is <vocabulary>pending</vocabulary>... it is <vocabulary>unsettled</vocabulary>.",
+  "primaryReading": "みけつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Unsettled",
     "Undecided",
     "Not Yet Decided"
   ],
-  "primaryReading": "みけつ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 656,
-      "character": "未",
-      "readings": [
-        "み",
-        "ま",
-        "いま",
-        "ひつじ"
-      ]
-    },
-    {
-      "id": 687,
-      "character": "決",
-      "readings": [
-        "けつ",
-        "き"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Something that is <kanji>not yet</kanji> <kanji>decide</kanji>d... it is <vocabulary>pending</vocabulary>... it is <vocabulary>unsettled</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9C%AA%E6%B1%BA",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "未",
-      "id": 656,
-      "reading": "み"
-    },
-    {
-      "type": "kanji",
-      "value": "決",
-      "id": 687,
-      "reading": "けつ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%9C%AA%E6%B1%BA"
+  }
 }

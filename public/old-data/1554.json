@@ -1,0 +1,38 @@
+{
+  "id": 1554,
+  "type": "kanji",
+  "character": "縮",
+  "primaryMeaning": "Shrink",
+  "otherMeanings": [],
+  "primaryReading": "しゅく",
+  "readings": [
+    {
+      "reading": "しゅく",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ちぢ",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "ちじ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "As the leader <kanji>shrink</kanji>s, the hundred people start screaming and running around the entire place. As a result, everything is <reading>shook</reading> (しゅく) up. Especially the poor, shrunken leader, who gets knocked around the most.",
+  "meaningMnemonic": "A magic <radical>thread</radical> fell from the <radical>roof</radical> onto the <radical>leader</radical> of a <radical>hundred</radical> people, causing him to <kanji>shrink</kanji>!",
+  "vocabularyIds": [
+    5763,
+    5764
+  ],
+  "radicalIds": [
+    86,
+    78,
+    75,
+    239
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%B8%AE"
+}

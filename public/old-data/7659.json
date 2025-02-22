@@ -1,0 +1,47 @@
+{
+  "id": 7659,
+  "type": "vocabulary",
+  "characters": "快楽",
+  "primaryMeaning": "Pleasure",
+  "otherMeanings": [
+    "Enjoyment"
+  ],
+  "primaryReading": "かいらく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1420,
+      "character": "快",
+      "readings": [
+        "かい",
+        "こころよ"
+      ]
+    },
+    {
+      "id": 704,
+      "character": "楽",
+      "readings": [
+        "らく",
+        "がく",
+        "たの"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Pleasant</kanji> <kanji>comfort</kanji> brings you a lot of <vocabulary>pleasure</vocabulary> and you get a lot of <vocabulary>enjoyment</vocabulary> out of it.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BF%AB%E6%A5%BD",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "快",
+      "id": 1420,
+      "reading": "かい"
+    },
+    {
+      "type": "kanji",
+      "value": "楽",
+      "id": 704,
+      "reading": "らく"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 831,
+  "type": "kanji",
+  "character": "深",
+  "primaryMeaning": "Deep",
+  "otherMeanings": [],
+  "primaryReading": "しん",
+  "readings": [
+    {
+      "reading": "しん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ふか",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You wait until the tsunami is only as <kanji>deep</kanji> as your <reading>shin</reading> (しん). Then you climb down the tree and wade home in the shin-deep water.",
+  "meaningMnemonic": "If a <radical>tsunami</radical> is higher than your <radical>forehead</radical> you better move those <radical>legs</radical> and find a <radical>tree</radical> to climb, because that thing is <kanji>deep</kanji>!",
+  "vocabularyIds": [
+    3364,
+    3365,
+    3366,
+    3367,
+    5836,
+    7585,
+    7610,
+    8620
+  ],
+  "radicalIds": [
+    103,
+    76,
+    28,
+    23
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%B7%B1"
+}

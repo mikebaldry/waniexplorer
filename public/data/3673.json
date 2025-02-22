@@ -1,48 +1,22 @@
 {
   "id": 3673,
   "type": "vocabulary",
-  "characters": "完全",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "完全"
+  },
   "primaryMeaning": "Complete",
+  "meaningMnemonic": "When something is <kanji>all</kanji> <kanji>perfect</kanji> it is <vocabulary>complete</vocabulary>. Not only that, but it's <vocabulary>perfect</vocabulary> (because it's ALL perfect, not just partially so).",
+  "primaryReading": "かんぜん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Perfect",
     "Perfection",
     "Completeness"
   ],
-  "primaryReading": "かんぜん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 904,
-      "character": "完",
-      "readings": [
-        "かん"
-      ]
-    },
-    {
-      "id": 610,
-      "character": "全",
-      "readings": [
-        "ぜん",
-        "すべ",
-        "まった"
-      ]
-    }
-  ],
-  "meaningMnemonic": "When something is <kanji>all</kanji> <kanji>perfect</kanji> it is <vocabulary>complete</vocabulary>. Not only that, but it's <vocabulary>perfect</vocabulary> (because it's ALL perfect, not just partially so).",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AE%8C%E5%85%A8",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "完",
-      "id": 904,
-      "reading": "かん"
-    },
-    {
-      "type": "kanji",
-      "value": "全",
-      "id": 610,
-      "reading": "ぜん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%AE%8C%E5%85%A8"
+  }
 }

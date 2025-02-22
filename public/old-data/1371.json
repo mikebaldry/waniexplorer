@@ -1,0 +1,41 @@
+{
+  "id": 1371,
+  "type": "kanji",
+  "character": "絶",
+  "primaryMeaning": "Extinction",
+  "otherMeanings": [
+    "Die Out"
+  ],
+  "primaryReading": "ぜつ",
+  "readings": [
+    {
+      "reading": "ぜつ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "た",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "The <kanji>extinction</kanji> of thread was brought on by a very strange thing. Deadly <reading>zits</reading> (ぜつ). These zits killed off all the producers of thread, and eventually the thread went extinct. Dang zits.",
+  "meaningMnemonic": "Sometime in the future, <radical>thread</radical> of every <radical>color</radical> will be faced with <kanji>extinction</kanji>. Eventually there will be nothing else to make thread out of, and thread of every kind and color will reach extinction.",
+  "vocabularyIds": [
+    5106,
+    5189,
+    5190,
+    5191,
+    5356,
+    5406,
+    5982,
+    6743,
+    6813,
+    8904
+  ],
+  "radicalIds": [
+    86,
+    110
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%B5%B6"
+}

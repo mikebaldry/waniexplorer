@@ -1,32 +1,40 @@
 {
   "id": 1984,
   "type": "kanji",
-  "character": "伊",
-  "primaryMeaning": "Italy",
-  "otherMeanings": [],
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "伊"
+  },
   "primaryReading": "い",
   "readings": [
     {
-      "reading": "い",
       "primary": true,
+      "reading": "い",
       "type": "onyomi"
     },
     {
-      "reading": "だ",
       "primary": false,
+      "reading": "だ",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "Before Professor X can get off the slide into <kanji>Italy</kanji>, a large <reading>ea</reading>gle (い) swoops down and plucks him right out of his wheelchair. That eagle is very strong. Goodbye, Professor X!",
+  "primaryMeaning": "Italy",
+  "otherMeanings": [],
   "meaningMnemonic": "A <radical>leader</radical> and <radical>Wolverine</radical> take a <radical>slide</radical> to <kanji>Italy</kanji>. Wolverine’s leader is Professor X, and they are both sliding down a big slide to Italy. How fun!",
-  "vocabularyIds": [
-    7074,
-    7075
-  ],
-  "radicalIds": [
-    75,
-    105,
-    5
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E4%BC%8A"
+  "readingMnemonic": "Before Professor X can get off the slide into <kanji>Italy</kanji>, a large <reading>ea</reading>gle (い) swoops down and plucks him right out of his wheelchair. That eagle is very strong. Goodbye, Professor X!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E4%BC%8A"
+  },
+  "related": {
+    "radicals": [
+      75,
+      105,
+      5
+    ],
+    "vocabularies": [
+      7074,
+      7075
+    ]
+  }
 }

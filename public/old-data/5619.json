@@ -1,0 +1,49 @@
+{
+  "id": 5619,
+  "type": "vocabulary",
+  "characters": "閉店",
+  "primaryMeaning": "Store Closed",
+  "otherMeanings": [
+    "Closed Store",
+    "Closing A Store",
+    "Closing Down A Store"
+  ],
+  "primaryReading": "へいてん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1514,
+      "character": "閉",
+      "readings": [
+        "へい",
+        "し",
+        "と"
+      ]
+    },
+    {
+      "id": 625,
+      "character": "店",
+      "readings": [
+        "てん",
+        "みせ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>closed</kanji> <kanji>shop</kanji> is when a store's status is <vocabulary>store closed</vocabulary> or <vocabulary>closed store</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%96%89%E5%BA%97",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "閉",
+      "id": 1514,
+      "reading": "へい"
+    },
+    {
+      "type": "kanji",
+      "value": "店",
+      "id": 625,
+      "reading": "てん"
+    }
+  ]
+}

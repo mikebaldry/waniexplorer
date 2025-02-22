@@ -1,41 +1,49 @@
 {
   "id": 2237,
   "type": "kanji",
-  "character": "顕",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "顕"
+  },
+  "primaryReading": "けん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "けん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "あきらか",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "あらわ",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Appear",
   "otherMeanings": [
     "Exist"
   ],
-  "primaryReading": "けん",
-  "readings": [
-    {
-      "reading": "けん",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "あきらか",
-      "primary": false,
-      "type": "kunyomi"
-    },
-    {
-      "reading": "あらわ",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "You watch these spikes <kanji>appear</kanji> and suddenly <reading>Ken</reading> (けん)the samurai also appears next to you. \"I DID IT!\" he shouts, \"I've learned how to appear out of thin air!\"",
   "meaningMnemonic": "When the <radical>sun</radical> comes up the <radical>spikes</radical> of <radical>geoduck</radical>s <kanji>appear</kanji>.",
-  "vocabularyIds": [
-    8170,
-    8171,
-    8172,
-    8173
-  ],
-  "radicalIds": [
-    22,
-    8768,
-    184
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%A1%95"
+  "readingMnemonic": "You watch these spikes <kanji>appear</kanji> and suddenly <reading>Ken</reading> (けん)the samurai also appears next to you. \"I DID IT!\" he shouts, \"I've learned how to appear out of thin air!\"",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%A1%95"
+  },
+  "related": {
+    "radicals": [
+      22,
+      8768,
+      184
+    ],
+    "vocabularies": [
+      8170,
+      8171,
+      8172,
+      8173
+    ]
+  }
 }

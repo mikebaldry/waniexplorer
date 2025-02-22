@@ -1,72 +1,18 @@
 {
   "id": 7762,
   "type": "vocabulary",
-  "characters": "天気予報",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "天気予報"
+  },
   "primaryMeaning": "Weather Forecast",
-  "otherMeanings": [],
-  "primaryReading": "てんきよほう",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 473,
-      "character": "天",
-      "readings": [
-        "てん",
-        "あま"
-      ]
-    },
-    {
-      "id": 548,
-      "character": "気",
-      "readings": [
-        "き",
-        "け"
-      ]
-    },
-    {
-      "id": 854,
-      "character": "予",
-      "readings": [
-        "よ",
-        "あらかじ"
-      ]
-    },
-    {
-      "id": 1035,
-      "character": "報",
-      "readings": [
-        "ほう",
-        "むく"
-      ]
-    }
-  ],
   "meaningMnemonic": "This is a combination of the words 天気, meaning \"weather,\" and 予報 meaning \"forecast.\" Put them together and you get the <vocabulary>weather forecast</vocabulary>!",
+  "primaryReading": "てんきよほう",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A4%A9%E6%B0%97%E4%BA%88%E5%A0%B1",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "天",
-      "id": 473,
-      "reading": "てん"
-    },
-    {
-      "type": "kanji",
-      "value": "気",
-      "id": 548,
-      "reading": "き"
-    },
-    {
-      "type": "kanji",
-      "value": "予",
-      "id": 854,
-      "reading": "よ"
-    },
-    {
-      "type": "kanji",
-      "value": "報",
-      "id": 1035,
-      "reading": "ほう"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A4%A9%E6%B0%97%E4%BA%88%E5%A0%B1"
+  }
 }

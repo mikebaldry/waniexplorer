@@ -1,38 +1,21 @@
 {
   "id": 7575,
   "type": "vocabulary",
-  "characters": "病む",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "病む"
+  },
   "primaryMeaning": "To Get Sick",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an <ja>う</ja> sound, you know this word is a verb. The kanji itself means <kanji>sick</kanji>, so the verb version is <vocabulary>to get sick</vocabulary>. \n\n病む means to fall ill in more formal or literary contexts. In casual conversation, especially among younger people, 病む is used to describe someone feeling down, so this can also mean to get depressed.\n\nNote that this word can be transitive and take a direct object, like 心を病む (to be mentally unwell), but can also be used intransitively without a direct object.",
+  "primaryReading": "やむ",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you:\n\nThere is only one time you allow yourself <vocabulary>to get sick</vocabulary>, and that's when the <reading>Ya</reading>nkees (や) are playing. You can't miss any games so you just happen <vocabulary>to fall ill</vocabulary> whenever they're playing so you can stay home and watch. That's pretty convenient, isn't it?",
   "otherMeanings": [
     "To Fall Ill",
     "To Get Depressed"
   ],
-  "primaryReading": "やむ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 773,
-      "character": "病",
-      "readings": [
-        "びょう",
-        "や",
-        "やまい"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an <ja>う</ja> sound, you know this word is a verb. The kanji itself means <kanji>sick</kanji>, so the verb version is <vocabulary>to get sick</vocabulary>. \n\n病む means to fall ill in more formal or literary contexts. In casual conversation, especially among younger people, 病む is used to describe someone feeling down, so this can also mean to get depressed.\n\nNote that this word can be transitive and take a direct object, like 心を病む (to be mentally unwell), but can also be used intransitively without a direct object.",
-  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you:\n\nThere is only one time you allow yourself <vocabulary>to get sick</vocabulary>, and that's when the <reading>Ya</reading>nkees (や) are playing. You can't miss any games so you just happen <vocabulary>to fall ill</vocabulary> whenever they're playing so you can stay home and watch. That's pretty convenient, isn't it?",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%97%85%E3%82%80",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "病",
-      "id": 773,
-      "reading": "や"
-    },
-    {
-      "type": "kana",
-      "value": "む"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%97%85%E3%82%80"
+  }
 }

@@ -1,0 +1,47 @@
+{
+  "id": 606,
+  "type": "kanji",
+  "character": "音",
+  "primaryMeaning": "Sound",
+  "otherMeanings": [],
+  "primaryReading": "おん",
+  "readings": [
+    {
+      "reading": "おん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "おと",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "ね",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "This <kanji>sound</kanji> isn't just loud, it's familiar. Finally you place it: <reading>on</reading>ions (おん)!",
+  "meaningMnemonic": "For some reason, you are <radical>stand</radical>ing on the <radical>sun</radical>. It's obviously very hot, but the thing you notice most is the <kanji>sound</kanji> of you burning up.",
+  "vocabularyIds": [
+    2804,
+    3072,
+    3135,
+    3521,
+    4253,
+    4364,
+    5206,
+    5387,
+    5553,
+    5854,
+    6014,
+    8125,
+    8300
+  ],
+  "radicalIds": [
+    55,
+    22
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%9F%B3"
+}

@@ -1,35 +1,20 @@
 {
   "id": 2738,
   "type": "vocabulary",
-  "characters": "お礼",
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "お礼"
+  },
   "primaryMeaning": "Thanks",
+  "meaningMnemonic": "The meaning of this word is the same as the kanji, except it has an お before it, which just makes the thing you're saying elevate the other person more. Basically, it's more polite and awesome.",
+  "primaryReading": "おれい",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
   "otherMeanings": [
     "Gratitude"
   ],
-  "primaryReading": "おれい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 541,
-      "character": "礼",
-      "readings": [
-        "れい"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The meaning of this word is the same as the kanji, except it has an お before it, which just makes the thing you're saying elevate the other person more. Basically, it's more polite and awesome.",
-  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E3%81%8A%E7%A4%BC",
-  "elements": [
-    {
-      "type": "kana",
-      "value": "お"
-    },
-    {
-      "type": "kanji",
-      "value": "礼",
-      "id": 541,
-      "reading": "れい"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E3%81%8A%E7%A4%BC"
+  }
 }

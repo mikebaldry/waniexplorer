@@ -1,0 +1,60 @@
+{
+  "id": 4704,
+  "type": "vocabulary",
+  "characters": "典型的",
+  "primaryMeaning": "Typical",
+  "otherMeanings": [
+    "Stereotypical",
+    "Prototypical"
+  ],
+  "primaryReading": "てんけいてき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 975,
+      "character": "典",
+      "readings": [
+        "てん"
+      ]
+    },
+    {
+      "id": 1232,
+      "character": "型",
+      "readings": [
+        "けい",
+        "かた"
+      ]
+    },
+    {
+      "id": 914,
+      "character": "的",
+      "readings": [
+        "てき",
+        "まと"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You learned that 的 on the end of a word means “-al” or “-like”. So what is <kanji>rule</kanji> <kanji>model</kanji> <kanji>-like</kanji>? It’s a model that follows all the rules. It's the normal model. It’s <vocabulary>typical</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%85%B8%E5%9E%8B%E7%9A%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "典",
+      "id": 975,
+      "reading": "てん"
+    },
+    {
+      "type": "kanji",
+      "value": "型",
+      "id": 1232,
+      "reading": "けい"
+    },
+    {
+      "type": "kanji",
+      "value": "的",
+      "id": 914,
+      "reading": "てき"
+    }
+  ]
+}

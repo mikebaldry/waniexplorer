@@ -1,37 +1,20 @@
 {
   "id": 6767,
   "type": "vocabulary",
-  "characters": "紛れる",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "紛れる"
+  },
   "primaryMeaning": "To Be Diverted",
+  "meaningMnemonic": "You know that 紛らす means \"to divert\" or \"to distract.\" This is when you're not doing the action, now, making this word <vocabulary>to be diverted</vocabulary> or <vocabulary>to be distracted</vocabulary>.",
+  "primaryReading": "まぎれる",
+  "readingMnemonic": "The reading comes from 紛らす.",
   "otherMeanings": [
     "To Be Distracted"
   ],
-  "primaryReading": "まぎれる",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1829,
-      "character": "紛",
-      "readings": [
-        "ふん",
-        "まぎ",
-        "まぐ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You know that 紛らす means \"to divert\" or \"to distract.\" This is when you're not doing the action, now, making this word <vocabulary>to be diverted</vocabulary> or <vocabulary>to be distracted</vocabulary>.",
-  "readingMnemonic": "The reading comes from 紛らす.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B4%9B%E3%82%8C%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "紛",
-      "id": 1829,
-      "reading": "まぎ"
-    },
-    {
-      "type": "kana",
-      "value": "れる"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%B4%9B%E3%82%8C%E3%82%8B"
+  }
 }

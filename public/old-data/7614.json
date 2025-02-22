@@ -1,0 +1,51 @@
+{
+  "id": 7614,
+  "type": "vocabulary",
+  "characters": "九日",
+  "primaryMeaning": "Ninth Day",
+  "otherMeanings": [
+    "Nine Days",
+    "Day Nine"
+  ],
+  "primaryReading": "ここのか",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 442,
+      "character": "九",
+      "readings": [
+        "く",
+        "きゅう",
+        "ここの"
+      ]
+    },
+    {
+      "id": 476,
+      "character": "日",
+      "readings": [
+        "にち",
+        "じつ",
+        "ひ",
+        "か",
+        "び"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<vocabulary>Ninth day</vocabulary> or <vocabulary>day nine</vocabulary>. No matter how you look at this word, it makes a lot of sense.",
+  "readingMnemonic": "Words that count days use an exceptional reading. Even though this is a jukugo word, it uses kun'yomi readings for both of the kanji. You learned this reading for 九 when you learned 九つ, so you should be able to read this one too!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B9%9D%E6%97%A5",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "九",
+      "id": 442,
+      "reading": "ここの"
+    },
+    {
+      "type": "kanji",
+      "value": "日",
+      "id": 476,
+      "reading": "か"
+    }
+  ]
+}

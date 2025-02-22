@@ -1,35 +1,43 @@
 {
   "id": 1798,
   "type": "kanji",
-  "character": "鉱",
-  "primaryMeaning": "Mineral",
-  "otherMeanings": [],
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "鉱"
+  },
   "primaryReading": "こう",
   "readings": [
     {
-      "reading": "こう",
       "primary": true,
+      "reading": "こう",
       "type": "onyomi"
     },
     {
-      "reading": "あらがね",
       "primary": false,
+      "reading": "あらがね",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "One person is trying to control all the <kanji>minerals</kanji> of the world. That person is Emperor <reading>こう</reading>いち.",
+  "primaryMeaning": "Mineral",
+  "otherMeanings": [],
   "meaningMnemonic": "Aside from <radical>gold</radical> there are a <radical>wide</radical> variety of other <kanji>mineral</kanji>s as well.",
-  "vocabularyIds": [
-    6534,
-    6535,
-    6536,
-    6537,
-    6538,
-    6539
-  ],
-  "radicalIds": [
-    118,
-    382
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%89%B1"
+  "readingMnemonic": "One person is trying to control all the <kanji>minerals</kanji> of the world. That person is Emperor <reading>こう</reading>いち.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%89%B1"
+  },
+  "related": {
+    "radicals": [
+      118,
+      382
+    ],
+    "vocabularies": [
+      6534,
+      6535,
+      6536,
+      6537,
+      6538,
+      6539
+    ]
+  }
 }

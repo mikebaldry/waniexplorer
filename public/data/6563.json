@@ -1,59 +1,20 @@
 {
   "id": 6563,
   "type": "vocabulary",
-  "characters": "不孝者",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "不孝者"
+  },
   "primaryMeaning": "Disobedient Child",
+  "meaningMnemonic": "Remember how 不孝 is \"disobedience to parents\"? Well, <kanji>someone</kanji> who shows <kanji>disobedience to parents</kanji> is a <vocabulary>disobedient child</vocabulary> or an <vocabulary>unfilial child</vocabulary>.",
+  "primaryReading": "ふこうもの",
+  "readingMnemonic": "不孝 is a reading you should know already. Add the もの reading for 者 and you have yourself a reading. Now go be obedient to your parents and keep studying your kanji.",
   "otherMeanings": [
     "Unfilial Child"
   ],
-  "primaryReading": "ふこうもの",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 563,
-      "character": "不",
-      "readings": [
-        "ふ",
-        "ぶ"
-      ]
-    },
-    {
-      "id": 1747,
-      "character": "孝",
-      "readings": [
-        "こう"
-      ]
-    },
-    {
-      "id": 690,
-      "character": "者",
-      "readings": [
-        "しゃ",
-        "もの"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Remember how 不孝 is \"disobedience to parents\"? Well, <kanji>someone</kanji> who shows <kanji>disobedience to parents</kanji> is a <vocabulary>disobedient child</vocabulary> or an <vocabulary>unfilial child</vocabulary>.",
-  "readingMnemonic": "不孝 is a reading you should know already. Add the もの reading for 者 and you have yourself a reading. Now go be obedient to your parents and keep studying your kanji.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%8D%E5%AD%9D%E8%80%85",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "不",
-      "id": 563,
-      "reading": "ふ"
-    },
-    {
-      "type": "kanji",
-      "value": "孝",
-      "id": 1747,
-      "reading": "こう"
-    },
-    {
-      "type": "kanji",
-      "value": "者",
-      "id": 690,
-      "reading": "もの"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B8%8D%E5%AD%9D%E8%80%85"
+  }
 }

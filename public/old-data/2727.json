@@ -1,0 +1,37 @@
+{
+  "id": 2727,
+  "type": "vocabulary",
+  "characters": "平ら",
+  "primaryMeaning": "Flat",
+  "otherMeanings": [],
+  "primaryReading": "たいら",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 535,
+      "character": "平",
+      "readings": [
+        "へい",
+        "ひょう",
+        "びょう",
+        "たい",
+        "ひら"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same with a little hiragana sticking out. Because the hiragana doesn't really indicate what it is, it's okay to assume that they share meanings as well.",
+  "readingMnemonic": "Since this word is made up of a kanji plus some hiragana attached, it should use the kun'yomi reading. When learning the kanji, you didn't learn that reading, so here's a mnemonic to help you with this word: \n\nSomething is very, very <vocabulary>flat</vocabulary>. Perhaps someone who doesn't eat much, like a model? Which model? Let's imagine it's <reading>Tyra</reading> (たいら) Banks.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B9%B3%E3%82%89",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "平",
+      "id": 535,
+      "reading": "たい"
+    },
+    {
+      "type": "kana",
+      "value": "ら"
+    }
+  ]
+}

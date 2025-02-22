@@ -1,37 +1,21 @@
 {
   "id": 5853,
   "type": "vocabulary",
-  "characters": "暮らし",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "暮らし"
+  },
   "primaryMeaning": "Life",
+  "meaningMnemonic": "If 暮らす is \"to live\" or \"to live one's life\" then the noun version would be simply <vocabulary>life</vocabulary>.",
+  "primaryReading": "くらし",
+  "readingMnemonic": "The reading is the same as 暮らす.",
   "otherMeanings": [
     "Living",
     "Daily Living"
   ],
-  "primaryReading": "くらし",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1527,
-      "character": "暮",
-      "readings": [
-        "ぼ",
-        "く"
-      ]
-    }
-  ],
-  "meaningMnemonic": "If 暮らす is \"to live\" or \"to live one's life\" then the noun version would be simply <vocabulary>life</vocabulary>.",
-  "readingMnemonic": "The reading is the same as 暮らす.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9A%AE%E3%82%89%E3%81%97",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "暮",
-      "id": 1527,
-      "reading": "く"
-    },
-    {
-      "type": "kana",
-      "value": "らし"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%9A%AE%E3%82%89%E3%81%97"
+  }
 }

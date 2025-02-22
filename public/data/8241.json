@@ -1,46 +1,20 @@
 {
   "id": 8241,
   "type": "vocabulary",
-  "characters": "赴任",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "赴任"
+  },
   "primaryMeaning": "Move For A Different Job",
+  "meaningMnemonic": "<kanji>Proceed</kanji> to a new place to do your <kanji>duty</kanji>. That's just a fancy way to say you're about to <vocabulary>move for a different job</vocabulary>. This is usually a job at the same company you're already at, it's just a different position for you.",
+  "primaryReading": "ふにん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Move For A Job"
   ],
-  "primaryReading": "ふにん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2270,
-      "character": "赴",
-      "readings": [
-        "ふ",
-        "おもむ"
-      ]
-    },
-    {
-      "id": 1142,
-      "character": "任",
-      "readings": [
-        "にん",
-        "まか"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Proceed</kanji> to a new place to do your <kanji>duty</kanji>. That's just a fancy way to say you're about to <vocabulary>move for a different job</vocabulary>. This is usually a job at the same company you're already at, it's just a different position for you.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%B5%B4%E4%BB%BB",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "赴",
-      "id": 2270,
-      "reading": "ふ"
-    },
-    {
-      "type": "kanji",
-      "value": "任",
-      "id": 1142,
-      "reading": "にん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%B5%B4%E4%BB%BB"
+  }
 }

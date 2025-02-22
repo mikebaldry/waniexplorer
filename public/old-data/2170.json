@@ -1,0 +1,31 @@
+{
+  "id": 2170,
+  "type": "kanji",
+  "character": "芳",
+  "primaryMeaning": "Perfume",
+  "otherMeanings": [],
+  "primaryReading": "ほう",
+  "readings": [
+    {
+      "reading": "ほう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "かんば",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You decide to <kanji>perfume</kanji> your entire <reading>ho</reading>me (ほう) by planting flowers all the way around it, all facing in toward it.",
+  "meaningMnemonic": "If you point <radical>flowers</radical> in the same <radical>direction</radical> you'll be able to smell their wonderful <kanji>perfume</kanji>. The best way to get perfume out of flowers is to make them face the same way. Then the smell will go the same direction, making you smell great.",
+  "vocabularyIds": [
+    7918,
+    7919
+  ],
+  "radicalIds": [
+    90,
+    66
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%8A%B3"
+}

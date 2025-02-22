@@ -1,0 +1,47 @@
+{
+  "id": 5626,
+  "type": "vocabulary",
+  "characters": "否決",
+  "primaryMeaning": "Rejection",
+  "otherMeanings": [
+    "Vote Down"
+  ],
+  "primaryReading": "ひけつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1517,
+      "character": "否",
+      "readings": [
+        "ひ",
+        "いな",
+        "いや"
+      ]
+    },
+    {
+      "id": 687,
+      "character": "決",
+      "readings": [
+        "けつ",
+        "き"
+      ]
+    }
+  ],
+  "meaningMnemonic": "\"<kanji>No</kanji>\" is the <kanji>decision</kanji> I've made. Sorry, but this is <vocabulary>rejection</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%90%A6%E6%B1%BA",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "否",
+      "id": 1517,
+      "reading": "ひ"
+    },
+    {
+      "type": "kanji",
+      "value": "決",
+      "id": 687,
+      "reading": "けつ"
+    }
+  ]
+}

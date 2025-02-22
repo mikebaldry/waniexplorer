@@ -1,48 +1,22 @@
 {
   "id": 3341,
   "type": "vocabulary",
-  "characters": "全員",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "全員"
+  },
   "primaryMeaning": "All Members",
+  "meaningMnemonic": "<kanji>All</kanji> <kanji>member</kanji>s means <vocabulary>all members</vocabulary>. This is also a fancy way to say <vocabulary>everybody</vocabulary>.",
+  "primaryReading": "ぜんいん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "All Hands",
     "Everyone",
     "Everybody"
   ],
-  "primaryReading": "ぜんいん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 610,
-      "character": "全",
-      "readings": [
-        "ぜん",
-        "すべ",
-        "まった"
-      ]
-    },
-    {
-      "id": 821,
-      "character": "員",
-      "readings": [
-        "いん"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>All</kanji> <kanji>member</kanji>s means <vocabulary>all members</vocabulary>. This is also a fancy way to say <vocabulary>everybody</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%85%A8%E5%93%A1",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "全",
-      "id": 610,
-      "reading": "ぜん"
-    },
-    {
-      "type": "kanji",
-      "value": "員",
-      "id": 821,
-      "reading": "いん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%85%A8%E5%93%A1"
+  }
 }

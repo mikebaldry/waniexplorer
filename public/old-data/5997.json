@@ -1,0 +1,49 @@
+{
+  "id": 5997,
+  "type": "vocabulary",
+  "characters": "献金",
+  "primaryMeaning": "Donation",
+  "otherMeanings": [
+    "Offering"
+  ],
+  "primaryReading": "けんきん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1630,
+      "character": "献",
+      "readings": [
+        "けん",
+        "こん",
+        "たてまつ"
+      ]
+    },
+    {
+      "id": 602,
+      "character": "金",
+      "readings": [
+        "きん",
+        "こん",
+        "かね",
+        "かな"
+      ]
+    }
+  ],
+  "meaningMnemonic": "I'd like to <kanji>offer</kanji> <kanji>money</kanji>, no strings attached. It's free. It's a <vocabulary>donation</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%8C%AE%E9%87%91",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "献",
+      "id": 1630,
+      "reading": "けん"
+    },
+    {
+      "type": "kanji",
+      "value": "金",
+      "id": 602,
+      "reading": "きん"
+    }
+  ]
+}

@@ -1,48 +1,21 @@
 {
   "id": 8311,
   "type": "vocabulary",
-  "characters": "窮屈",
+  "level": 56,
+  "characters": {
+    "type": "text",
+    "value": "窮屈"
+  },
   "primaryMeaning": "Tight",
+  "meaningMnemonic": "Don't <kanji>yield</kanji> to anything when you're <kanji>destitute</kanji> because it'll make things even more <vocabulary>tight</vocabulary>. Usually you have to be pretty <vocabulary>rigid</vocabulary> about what you can and cannot afford. ",
+  "primaryReading": "きゅうくつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Cramped",
     "Rigid"
   ],
-  "primaryReading": "きゅうくつ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2308,
-      "character": "窮",
-      "readings": [
-        "きゅう",
-        "きょう",
-        "きわ"
-      ]
-    },
-    {
-      "id": 1320,
-      "character": "屈",
-      "readings": [
-        "くつ",
-        "かが"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Don't <kanji>yield</kanji> to anything when you're <kanji>destitute</kanji> because it'll make things even more <vocabulary>tight</vocabulary>. Usually you have to be pretty <vocabulary>rigid</vocabulary> about what you can and cannot afford. ",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%AA%AE%E5%B1%88",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "窮",
-      "id": 2308,
-      "reading": "きゅう"
-    },
-    {
-      "type": "kanji",
-      "value": "屈",
-      "id": 1320,
-      "reading": "くつ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%AA%AE%E5%B1%88"
+  }
 }

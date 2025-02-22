@@ -1,0 +1,35 @@
+{
+  "id": 3772,
+  "type": "vocabulary",
+  "characters": "毒ガス",
+  "primaryMeaning": "Poison Gas",
+  "otherMeanings": [],
+  "primaryReading": "どくがす",
+  "otherReadings": [
+    "どくガス"
+  ],
+  "kanji": [
+    {
+      "id": 948,
+      "character": "毒",
+      "readings": [
+        "どく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Poison</kanji> Gas is a nasty thing. It is <vocabulary>poison gas</vocabulary>.",
+  "readingMnemonic": "The reading is the same as the kanji it comes from. The ガス is of course \"gas.\"",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%AF%92%E3%82%AC%E3%82%B9",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "毒",
+      "id": 948,
+      "reading": "どく"
+    },
+    {
+      "type": "kana",
+      "value": "ガス"
+    }
+  ]
+}

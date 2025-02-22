@@ -1,0 +1,46 @@
+{
+  "id": 4944,
+  "type": "vocabulary",
+  "characters": "氷河",
+  "primaryMeaning": "Glacier",
+  "otherMeanings": [],
+  "primaryReading": "ひょうが",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 537,
+      "character": "氷",
+      "readings": [
+        "こおり",
+        "ひょう"
+      ]
+    },
+    {
+      "id": 1306,
+      "character": "河",
+      "readings": [
+        "か",
+        "かわ",
+        "こう",
+        "こお"
+      ]
+    }
+  ],
+  "meaningMnemonic": "An <kanji>ice</kanji> <kanji>river</kanji> is some ice that moves (very slowly) like a river. That is a <vocabulary>glacier</vocabulary>. In fact, many inlets and sounds were created with glaciers, because glaciers moved through them like rivers... not very quickly, though.",
+  "readingMnemonic": "The reading for 氷 is the one you didn't learn. Think of the glacier coming slowly to your door. It rings your doorbell and says <reading>heyo</reading> (ひょう). Note that the か becomes が here.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B0%B7%E6%B2%B3",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "氷",
+      "id": 537,
+      "reading": "ひょう"
+    },
+    {
+      "type": "kanji",
+      "value": "河",
+      "id": 1306,
+      "reading": "が"
+    }
+  ]
+}

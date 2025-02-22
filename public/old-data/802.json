@@ -1,0 +1,38 @@
+{
+  "id": 802,
+  "type": "kanji",
+  "character": "追",
+  "primaryMeaning": "Follow",
+  "otherMeanings": [
+    "Chase"
+  ],
+  "primaryReading": "お",
+  "readings": [
+    {
+      "reading": "お",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "つい",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "The bear is trying to <kanji>follow</kanji> you because it wants your <reading>o</reading>bi (お) as compensation for its injured pride. The obi is waving in the wind behind your scooter, and the bear is reaching out with its teeth to try and grab it.",
+  "meaningMnemonic": "On a <radical>scooter</radical> there is a <radical>bear</radical> with a <radical>drop</radical> on its head trying to <kanji>follow</kanji> and <kanji>chase</kanji> you! You accidentally splashed it with water and it's not happy about it. You're on your own scooter, luckily, but that doesn't make this any less terrifying.",
+  "vocabularyIds": [
+    3305,
+    3577,
+    3579,
+    5722,
+    8053,
+    8199
+  ],
+  "radicalIds": [
+    114,
+    8777,
+    3
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%BF%BD"
+}

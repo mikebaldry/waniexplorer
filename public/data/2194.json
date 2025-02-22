@@ -1,38 +1,46 @@
 {
   "id": 2194,
   "type": "kanji",
-  "character": "稿",
-  "primaryMeaning": "Draft",
-  "otherMeanings": [],
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "稿"
+  },
   "primaryReading": "こう",
   "readings": [
     {
-      "reading": "こう",
       "primary": true,
+      "reading": "こう",
       "type": "onyomi"
     },
     {
-      "reading": "したがき",
       "primary": false,
+      "reading": "したがき",
       "type": "kunyomi"
     },
     {
-      "reading": "わら",
       "primary": false,
+      "reading": "わら",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "Who asked you to write such a tall <kanji>draft</kanji> in the first place? Emperor <reading>こう</reading>いち, who wants you to draft up the world's largest book about how great of an emperor he is.",
+  "primaryMeaning": "Draft",
+  "otherMeanings": [],
   "meaningMnemonic": "When what you're writing is as <radical>tall</radical> as the <radical>grain</radical>s growing outside, you know you're done with your first <kanji>draft</kanji>. Some teachers want papers to be a certain number of words or pages, but that's silly. You should measure your draft in grains!",
-  "vocabularyIds": [
-    8008,
-    8009,
-    8010,
-    8011
-  ],
-  "radicalIds": [
-    135,
-    438
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%A8%BF"
+  "readingMnemonic": "Who asked you to write such a tall <kanji>draft</kanji> in the first place? Emperor <reading>こう</reading>いち, who wants you to draft up the world's largest book about how great of an emperor he is.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%A8%BF"
+  },
+  "related": {
+    "radicals": [
+      135,
+      438
+    ],
+    "vocabularies": [
+      8008,
+      8009,
+      8010,
+      8011
+    ]
+  }
 }

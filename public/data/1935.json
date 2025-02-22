@@ -1,31 +1,39 @@
 {
   "id": 1935,
   "type": "kanji",
-  "character": "稼",
-  "primaryMeaning": "Earnings",
-  "otherMeanings": [],
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "稼"
+  },
   "primaryReading": "か",
   "readings": [
     {
-      "reading": "か",
       "primary": true,
+      "reading": "か",
       "type": "onyomi"
     },
     {
-      "reading": "かせ",
       "primary": false,
+      "reading": "かせ",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "Another way to check someone's <kanji>earnings</kanji> is to see if they have a <reading>ca</reading>r (か). Would someone who doesn't make a lot of money have a car? No!",
+  "primaryMeaning": "Earnings",
+  "otherMeanings": [],
   "meaningMnemonic": "The <radical>grain</radical>s you have stored in your <radical>house</radical> reflect on your <kanji>earnings</kanji>. If you earn a lot of money, you have more grains.",
-  "vocabularyIds": [
-    6855,
-    7141
-  ],
-  "radicalIds": [
-    135,
-    398
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%A8%BC"
+  "readingMnemonic": "Another way to check someone's <kanji>earnings</kanji> is to see if they have a <reading>ca</reading>r (か). Would someone who doesn't make a lot of money have a car? No!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%A8%BC"
+  },
+  "related": {
+    "radicals": [
+      135,
+      398
+    ],
+    "vocabularies": [
+      6855,
+      7141
+    ]
+  }
 }

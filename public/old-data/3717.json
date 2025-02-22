@@ -1,0 +1,43 @@
+{
+  "id": 3717,
+  "type": "vocabulary",
+  "characters": "私鉄",
+  "primaryMeaning": "Private Railway",
+  "otherMeanings": [],
+  "primaryReading": "してつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 923,
+      "character": "私",
+      "readings": [
+        "し",
+        "わたし"
+      ]
+    },
+    {
+      "id": 760,
+      "character": "鉄",
+      "readings": [
+        "てつ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>private</kanji> <kanji>iron</kanji> (remember how 鉄 often has to do with railroad tracks and the like? Same goes here) is a <vocabulary>private railway</vocabulary>. There are a good number of these in Japan.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A7%81%E9%89%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "私",
+      "id": 923,
+      "reading": "し"
+    },
+    {
+      "type": "kanji",
+      "value": "鉄",
+      "id": 760,
+      "reading": "てつ"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 5027,
+  "type": "vocabulary",
+  "characters": "抜き出す",
+  "primaryMeaning": "To Pull Something Out",
+  "otherMeanings": [
+    "To Extract"
+  ],
+  "primaryReading": "ぬきだす",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1257,
+      "character": "抜",
+      "readings": [
+        "ぬ",
+        "ばつ",
+        "はつ",
+        "はい"
+      ]
+    },
+    {
+      "id": 483,
+      "character": "出",
+      "readings": [
+        "しゅつ",
+        "で",
+        "だ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You know 抜く means \"to pull something out\" and 出す means \"to remove,\" so this word also means <vocabulary>to pull something out</vocabulary>, or <vocabulary>to extract</vocabulary>.\n\nMore specifically, 抜き出す means to pull something out from a larger set of something. For example, this could mean taking a single bill out of your wallet, or selecting specific data from a large dataset.",
+  "readingMnemonic": "The readings are from 抜く and 出す, combined together. Know those two and you'll be able to read this word as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8A%9C%E3%81%8D%E5%87%BA%E3%81%99",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "抜",
+      "id": 1257,
+      "reading": "ぬ"
+    },
+    {
+      "type": "kana",
+      "value": "き"
+    },
+    {
+      "type": "kanji",
+      "value": "出",
+      "id": 483,
+      "reading": "だ"
+    },
+    {
+      "type": "kana",
+      "value": "す"
+    }
+  ]
+}

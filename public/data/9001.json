@@ -1,36 +1,20 @@
 {
   "id": 9001,
   "type": "vocabulary",
-  "characters": "煎る",
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "煎る"
+  },
   "primaryMeaning": "To Roast",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>roast</kanji>, and the verb version is <vocabulary>to roast</vocabulary> or <vocabulary>to toast</vocabulary>. This verb is most commonly used when referring to dry roasting things like coffee, tea, or beans. ",
+  "primaryReading": "いる",
+  "readingMnemonic": "Do you know what animal likes <vocabulary>to roast</vocabulary> and <vocabulary>to toast</vocabulary> things? <reading>Ea</reading>gles (い)! They're always roasting coffee beans and the like. That's how they stay so alert. ",
   "otherMeanings": [
     "To Toast"
   ],
-  "primaryReading": "いる",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 8991,
-      "character": "煎",
-      "readings": [
-        "せん",
-        "い"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>roast</kanji>, and the verb version is <vocabulary>to roast</vocabulary> or <vocabulary>to toast</vocabulary>. This verb is most commonly used when referring to dry roasting things like coffee, tea, or beans. ",
-  "readingMnemonic": "Do you know what animal likes <vocabulary>to roast</vocabulary> and <vocabulary>to toast</vocabulary> things? <reading>Ea</reading>gles (い)! They're always roasting coffee beans and the like. That's how they stay so alert. ",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%85%8E%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "煎",
-      "id": 8991,
-      "reading": "い"
-    },
-    {
-      "type": "kana",
-      "value": "る"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%85%8E%E3%82%8B"
+  }
 }

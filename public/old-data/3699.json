@@ -1,0 +1,47 @@
+{
+  "id": 3699,
+  "type": "vocabulary",
+  "characters": "人格",
+  "primaryMeaning": "Character",
+  "otherMeanings": [
+    "Personality"
+  ],
+  "primaryReading": "じんかく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 444,
+      "character": "人",
+      "readings": [
+        "にん",
+        "じん",
+        "ひと",
+        "と"
+      ]
+    },
+    {
+      "id": 920,
+      "character": "格",
+      "readings": [
+        "かく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Your <kanji>person</kanji> <kanji>status</kanji> is where you, yourself, are a person. This is more than skin deep, though, this is your status after all. This is your <vocabulary>character</vocabulary> and <vocabulary>personality</vocabulary>. What's the status of your character? Good? Bad? Getting there?",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BA%BA%E6%A0%BC",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "人",
+      "id": 444,
+      "reading": "じん"
+    },
+    {
+      "type": "kanji",
+      "value": "格",
+      "id": 920,
+      "reading": "かく"
+    }
+  ]
+}

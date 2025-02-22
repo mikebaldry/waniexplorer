@@ -1,45 +1,53 @@
 {
   "id": 1005,
   "type": "kanji",
-  "character": "果",
-  "primaryMeaning": "Fruit",
-  "otherMeanings": [],
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "果"
+  },
   "primaryReading": "か",
   "readings": [
     {
-      "reading": "か",
       "primary": true,
+      "reading": "か",
       "type": "onyomi"
     },
     {
-      "reading": "くだ",
       "primary": false,
+      "reading": "くだ",
       "type": "kunyomi"
     },
     {
-      "reading": "は",
       "primary": false,
+      "reading": "は",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "They sell <kanji>fruit</kanji> at the store, and you need to drive your <reading>ca</reading>r (か) to get there. A car is the fastest way to fruit.",
+  "primaryMeaning": "Fruit",
+  "otherMeanings": [],
   "meaningMnemonic": "The <radical>fruit</radical> radical and the <kanji>fruit</kanji> kanji are exactly the same! Bodacious!",
-  "vocabularyIds": [
-    3969,
-    4010,
-    4011,
-    4346,
-    4806,
-    5008,
-    5199,
-    5670,
-    5902,
-    6496,
-    7759,
-    8365
-  ],
-  "radicalIds": [
-    235
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%9E%9C"
+  "readingMnemonic": "They sell <kanji>fruit</kanji> at the store, and you need to drive your <reading>ca</reading>r (か) to get there. A car is the fastest way to fruit.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%9E%9C"
+  },
+  "related": {
+    "radicals": [
+      235
+    ],
+    "vocabularies": [
+      3969,
+      4010,
+      4011,
+      4346,
+      4806,
+      5008,
+      5199,
+      5670,
+      5902,
+      6496,
+      7759,
+      8365
+    ]
+  }
 }

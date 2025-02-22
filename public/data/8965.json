@@ -1,32 +1,40 @@
 {
   "id": 8965,
   "type": "kanji",
-  "character": "柵",
-  "primaryMeaning": "Fence",
-  "otherMeanings": [],
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "柵"
+  },
   "primaryReading": "さく",
   "readings": [
     {
-      "reading": "さく",
       "primary": true,
+      "reading": "さく",
       "type": "onyomi"
     },
     {
-      "reading": "しがらみ",
       "primary": false,
+      "reading": "しがらみ",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "On your <kanji>fence</kanji>, you hang up a <reading>sack</reading> (さく) to accept donations.",
+  "primaryMeaning": "Fence",
+  "otherMeanings": [],
   "meaningMnemonic": "You've made yourself a <radical>tree</radical> <radical>bookshelf</radical> (that is, a bookshelf cut into a tree), so you build a <kanji>fence</kanji> to keep the riffraff out.",
-  "vocabularyIds": [
-    8980,
-    8981,
-    8982
-  ],
-  "radicalIds": [
-    23,
-    226
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%9F%B5"
+  "readingMnemonic": "On your <kanji>fence</kanji>, you hang up a <reading>sack</reading> (さく) to accept donations.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%9F%B5"
+  },
+  "related": {
+    "radicals": [
+      23,
+      226
+    ],
+    "vocabularies": [
+      8980,
+      8981,
+      8982
+    ]
+  }
 }

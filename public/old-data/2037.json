@@ -1,0 +1,38 @@
+{
+  "id": 2037,
+  "type": "kanji",
+  "character": "灯",
+  "primaryMeaning": "Lamp",
+  "otherMeanings": [],
+  "primaryReading": "とう",
+  "readings": [
+    {
+      "reading": "とう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "あかり",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "とも",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "These street <kanji>lamp</kanji>s were first used in <reading>とう</reading>きょう. It was the most advanced city after all. And more people were out at night in とうきょう than anywhere else in Japan. So they needed lamps to light things up!",
+  "meaningMnemonic": "<radical>Fire</radical> you use to light up the <radical>street</radical> needs to go in a <kanji>lamp</kanji>. Campfires, matches? No, none of those work. You need bright, safe lamps to keep the street nice at night.",
+  "vocabularyIds": [
+    7226,
+    7227,
+    7228,
+    7667
+  ],
+  "radicalIds": [
+    46,
+    27
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%81%AF"
+}

@@ -1,45 +1,20 @@
 {
   "id": 5707,
   "type": "vocabulary",
-  "characters": "泥棒",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "泥棒"
+  },
   "primaryMeaning": "Robber",
+  "meaningMnemonic": "I don't know why a <kanji>mud</kanji> <kanji>pole</kanji> is a <vocabulary>robber</vocabulary>, but for some reason it is. Just imagine a robber covering himself in mud and standing behind a pole to hide, then jump out, then rob you of everything you've got.",
+  "primaryReading": "どろぼう",
+  "readingMnemonic": "The reading is 泥 plus the reading for 棒 put together.",
   "otherMeanings": [
     "Burglar"
   ],
-  "primaryReading": "どろぼう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1456,
-      "character": "泥",
-      "readings": [
-        "どろ",
-        "でい"
-      ]
-    },
-    {
-      "id": 1457,
-      "character": "棒",
-      "readings": [
-        "ぼう"
-      ]
-    }
-  ],
-  "meaningMnemonic": "I don't know why a <kanji>mud</kanji> <kanji>pole</kanji> is a <vocabulary>robber</vocabulary>, but for some reason it is. Just imagine a robber covering himself in mud and standing behind a pole to hide, then jump out, then rob you of everything you've got.",
-  "readingMnemonic": "The reading is 泥 plus the reading for 棒 put together.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B3%A5%E6%A3%92",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "泥",
-      "id": 1456,
-      "reading": "どろ"
-    },
-    {
-      "type": "kanji",
-      "value": "棒",
-      "id": 1457,
-      "reading": "ぼう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B3%A5%E6%A3%92"
+  }
 }

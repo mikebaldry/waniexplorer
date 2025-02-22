@@ -1,28 +1,36 @@
 {
   "id": 1537,
   "type": "kanji",
-  "character": "肺",
-  "primaryMeaning": "Lung",
-  "otherMeanings": [],
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "肺"
+  },
   "primaryReading": "はい",
   "readings": [
     {
-      "reading": "はい",
       "primary": true,
+      "reading": "はい",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "Having a moon and city inside your <kanji>lung</kanji> inspires you to write a <reading>hai</reading>ku (はい). Perhaps the city and moon are just metaphorical. Either way, a haiku is the best way to go about things here.",
+  "primaryMeaning": "Lung",
+  "otherMeanings": [],
   "meaningMnemonic": "There is a <radical>moon</radical> and a <radical>city</radical> inside your <kanji>lung</kanji>. Inside of your lung there is a city and above that city lies a moon. It’s a pretty sight, but also very strange. Moons and cities don’t usually reside inside lungs.",
-  "vocabularyIds": [
-    5675,
-    5676,
-    5677,
-    5719
-  ],
-  "radicalIds": [
-    43,
-    267
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%82%BA"
+  "readingMnemonic": "Having a moon and city inside your <kanji>lung</kanji> inspires you to write a <reading>hai</reading>ku (はい). Perhaps the city and moon are just metaphorical. Either way, a haiku is the best way to go about things here.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%82%BA"
+  },
+  "related": {
+    "radicals": [
+      43,
+      267
+    ],
+    "vocabularies": [
+      5675,
+      5676,
+      5677,
+      5719
+    ]
+  }
 }

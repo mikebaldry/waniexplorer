@@ -1,44 +1,20 @@
 {
   "id": 7351,
   "type": "vocabulary",
-  "characters": "勘案",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "勘案"
+  },
   "primaryMeaning": "Taking Into Consideration",
+  "meaningMnemonic": "Using our <kanji>intuition</kanji> we will come up with a <kanji>plan</kanji>. We'll be <vocabulary>taking into consideration</vocabulary> the information we have along with our intuition, so don't worry.",
+  "primaryReading": "かんあん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Giving Consideration"
   ],
-  "primaryReading": "かんあん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2081,
-      "character": "勘",
-      "readings": [
-        "かん"
-      ]
-    },
-    {
-      "id": 1163,
-      "character": "案",
-      "readings": [
-        "あん"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Using our <kanji>intuition</kanji> we will come up with a <kanji>plan</kanji>. We'll be <vocabulary>taking into consideration</vocabulary> the information we have along with our intuition, so don't worry.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8B%98%E6%A1%88",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "勘",
-      "id": 2081,
-      "reading": "かん"
-    },
-    {
-      "type": "kanji",
-      "value": "案",
-      "id": 1163,
-      "reading": "あん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%8B%98%E6%A1%88"
+  }
 }

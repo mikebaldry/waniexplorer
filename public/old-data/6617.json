@@ -1,0 +1,37 @@
+{
+  "id": 6617,
+  "type": "vocabulary",
+  "characters": "泊まる",
+  "primaryMeaning": "To Stay The Night",
+  "otherMeanings": [
+    "To Stay Over",
+    "To Sleep Over"
+  ],
+  "primaryReading": "とまる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1824,
+      "character": "泊",
+      "readings": [
+        "はく",
+        "と"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>overnight</kanji> and the verb vocab version is <vocabulary>to stay the night</vocabulary>.",
+  "readingMnemonic": "We are just going to stay <reading>to</reading>night (と) and maybe <reading>to</reading>morrow (と) night.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B3%8A%E3%81%BE%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "泊",
+      "id": 1824,
+      "reading": "と"
+    },
+    {
+      "type": "kana",
+      "value": "まる"
+    }
+  ]
+}

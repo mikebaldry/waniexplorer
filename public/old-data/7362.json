@@ -1,0 +1,31 @@
+{
+  "id": 7362,
+  "type": "vocabulary",
+  "characters": "鰐",
+  "primaryMeaning": "Alligator",
+  "otherMeanings": [
+    "Crocodile"
+  ],
+  "primaryReading": "わに",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2091,
+      "character": "鰐",
+      "readings": [
+        "わに"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The great <kanji>alligator</kanji>! This can mean both <vocabulary>alligator</vocabulary> or <vocabulary>crocodile</vocabulary>, because really, they're not so different, are they? No crabigator, that's for sure.",
+  "readingMnemonic": "The reading is a reading you've known your whole life. It's like you were born with the reading, whispering in your ear, ready to emerge at just the right moment... and that moment is now.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%B0%90",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "鰐",
+      "id": 2091,
+      "reading": "わに"
+    }
+  ]
+}

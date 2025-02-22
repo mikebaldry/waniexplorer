@@ -1,0 +1,47 @@
+{
+  "id": 2769,
+  "type": "vocabulary",
+  "characters": "皮肉",
+  "primaryMeaning": "Irony",
+  "otherMeanings": [
+    "Sarcasm",
+    "Ironic",
+    "Sarcastic"
+  ],
+  "primaryReading": "ひにく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 539,
+      "character": "皮",
+      "readings": [
+        "ひ",
+        "かわ"
+      ]
+    },
+    {
+      "id": 577,
+      "character": "肉",
+      "readings": [
+        "にく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>skin</kanji> on the <kanji>meat</kanji> is kind of like the outer shell. It's not very nice, and people who eat only meat skin tend to use <vocabulary>sarcasm</vocabulary> and <vocabulary>irony</vocabulary>. That being said, Japanese people don't really understand sarcasm. So, maybe that's why \"meat skin\" means \"sarcasm.\" Is this ironic? Now I'm not even sure.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%9A%AE%E8%82%89",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "皮",
+      "id": 539,
+      "reading": "ひ"
+    },
+    {
+      "type": "kanji",
+      "value": "肉",
+      "id": 577,
+      "reading": "にく"
+    }
+  ]
+}

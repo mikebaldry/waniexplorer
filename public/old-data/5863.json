@@ -1,0 +1,36 @@
+{
+  "id": 5863,
+  "type": "vocabulary",
+  "characters": "測る",
+  "primaryMeaning": "To Measure",
+  "otherMeanings": [
+    "To Measure Scientifically"
+  ],
+  "primaryReading": "はかる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1581,
+      "character": "測",
+      "readings": [
+        "そく",
+        "はか"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>measure</kanji> so the verb vocab means <vocabulary>to measure</vocabulary>. This word generally has to do with scientific or medical measurements.",
+  "readingMnemonic": "Remember another word that means \"to measure?\" It is 量る, and has the same reading as this word. That should make things easier to remember.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B8%AC%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "測",
+      "id": 1581,
+      "reading": "はか"
+    },
+    {
+      "type": "kana",
+      "value": "る"
+    }
+  ]
+}

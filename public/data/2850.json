@@ -1,46 +1,18 @@
 {
   "id": 2850,
   "type": "vocabulary",
-  "characters": "地図",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "地図"
+  },
   "primaryMeaning": "Map",
-  "otherMeanings": [],
-  "primaryReading": "ちず",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 608,
-      "character": "地",
-      "readings": [
-        "ち",
-        "じ"
-      ]
-    },
-    {
-      "id": 585,
-      "character": "図",
-      "readings": [
-        "ず",
-        "と",
-        "え",
-        "はか"
-      ]
-    }
-  ],
   "meaningMnemonic": "The <kanji>diagram</kanji> of the <kanji>earth</kanji>. What could that be other than a <vocabulary>map</vocabulary>?",
+  "primaryReading": "ちず",
   "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%9C%B0%E5%9B%B3",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "地",
-      "id": 608,
-      "reading": "ち"
-    },
-    {
-      "type": "kanji",
-      "value": "図",
-      "id": 585,
-      "reading": "ず"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%9C%B0%E5%9B%B3"
+  }
 }

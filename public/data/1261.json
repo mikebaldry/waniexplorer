@@ -1,33 +1,41 @@
 {
   "id": 1261,
   "type": "kanji",
-  "character": "補",
-  "primaryMeaning": "Supplement",
-  "otherMeanings": [],
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "補"
+  },
   "primaryReading": "ほ",
   "readings": [
     {
-      "reading": "ほ",
       "primary": true,
+      "reading": "ほ",
       "type": "onyomi"
     },
     {
-      "reading": "おぎな",
       "primary": false,
+      "reading": "おぎな",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "Along with the spirits to <kanji>supplement</kanji> your wedding guests, you made everyone carry a <reading>hoe</reading> (ほ). That way no one had to bring a date, they carry a garden hoe as a supplement and no one feels bad about being dateless. Everyone is!",
+  "primaryMeaning": "Supplement",
+  "otherMeanings": [],
   "meaningMnemonic": "There is a <radical>spirit</radical> at your <radical>wedding</radical>. It's there as a <kanji>supplement</kanji> to the guests because not enough people came.",
-  "vocabularyIds": [
-    4792,
-    4793,
-    6288,
-    7076
-  ],
-  "radicalIds": [
-    80,
-    300
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%A3%9C"
+  "readingMnemonic": "Along with the spirits to <kanji>supplement</kanji> your wedding guests, you made everyone carry a <reading>hoe</reading> (ほ). That way no one had to bring a date, they carry a garden hoe as a supplement and no one feels bad about being dateless. Everyone is!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%A3%9C"
+  },
+  "related": {
+    "radicals": [
+      80,
+      300
+    ],
+    "vocabularies": [
+      4792,
+      4793,
+      6288,
+      7076
+    ]
+  }
 }

@@ -1,48 +1,22 @@
 {
   "id": 7766,
   "type": "vocabulary",
-  "characters": "本質",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "本質"
+  },
   "primaryMeaning": "Essence",
+  "meaningMnemonic": "The <kanji>real</kanji> <kanji>quality</kanji> of something is its <vocabulary>essence</vocabulary>, or its <vocabulary>true nature</vocabulary>. Whether it's good or bad is a different story.",
+  "primaryReading": "ほんしつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "True Nature",
     "Substance",
     "Reality"
   ],
-  "primaryReading": "ほんしつ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 487,
-      "character": "本",
-      "readings": [
-        "ほん",
-        "もと"
-      ]
-    },
-    {
-      "id": 1242,
-      "character": "質",
-      "readings": [
-        "しつ",
-        "しち"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The <kanji>real</kanji> <kanji>quality</kanji> of something is its <vocabulary>essence</vocabulary>, or its <vocabulary>true nature</vocabulary>. Whether it's good or bad is a different story.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9C%AC%E8%B3%AA",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "本",
-      "id": 487,
-      "reading": "ほん"
-    },
-    {
-      "type": "kanji",
-      "value": "質",
-      "id": 1242,
-      "reading": "しつ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%9C%AC%E8%B3%AA"
+  }
 }

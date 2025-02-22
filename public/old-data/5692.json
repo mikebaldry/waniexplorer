@@ -1,0 +1,50 @@
+{
+  "id": 5692,
+  "type": "vocabulary",
+  "characters": "裏切り",
+  "primaryMeaning": "Betrayal",
+  "otherMeanings": [
+    "Treachery"
+  ],
+  "primaryReading": "うらぎり",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1542,
+      "character": "裏",
+      "readings": [
+        "うら",
+        "り"
+      ]
+    },
+    {
+      "id": 502,
+      "character": "切",
+      "readings": [
+        "せつ",
+        "き"
+      ]
+    }
+  ],
+  "meaningMnemonic": "From the <kanji>backside</kanji> you <kanji>cut</kanji> someone. Wow. What a jerk. What <vocabulary>betrayal</vocabulary> and <vocabulary>treachery</vocabulary>.",
+  "readingMnemonic": "This word is 裏 and 切る's readings, put together.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A3%8F%E5%88%87%E3%82%8A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "裏",
+      "id": 1542,
+      "reading": "うら"
+    },
+    {
+      "type": "kanji",
+      "value": "切",
+      "id": 502,
+      "reading": "ぎ"
+    },
+    {
+      "type": "kana",
+      "value": "り"
+    }
+  ]
+}

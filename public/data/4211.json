@@ -1,48 +1,20 @@
 {
   "id": 4211,
   "type": "vocabulary",
-  "characters": "暴力",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "暴力"
+  },
   "primaryMeaning": "Violence",
+  "meaningMnemonic": "The <kanji>power</kanji> of <kanji>violence</kanji> is more <vocabulary>violence</vocabulary>, and it is a <vocabulary>force</vocabulary> to be reckoned with.",
+  "primaryReading": "ぼうりょく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Force"
   ],
-  "primaryReading": "ぼうりょく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1077,
-      "character": "暴",
-      "readings": [
-        "ぼう",
-        "ばく",
-        "あば"
-      ]
-    },
-    {
-      "id": 447,
-      "character": "力",
-      "readings": [
-        "りょく",
-        "りき",
-        "ちから"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The <kanji>power</kanji> of <kanji>violence</kanji> is more <vocabulary>violence</vocabulary>, and it is a <vocabulary>force</vocabulary> to be reckoned with.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9A%B4%E5%8A%9B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "暴",
-      "id": 1077,
-      "reading": "ぼう"
-    },
-    {
-      "type": "kanji",
-      "value": "力",
-      "id": 447,
-      "reading": "りょく"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%9A%B4%E5%8A%9B"
+  }
 }

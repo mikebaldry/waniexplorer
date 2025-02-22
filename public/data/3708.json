@@ -1,48 +1,20 @@
 {
   "id": 3708,
   "type": "vocabulary",
-  "characters": "求人",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "求人"
+  },
   "primaryMeaning": "Job Posting",
+  "meaningMnemonic": "When you're <kanji>request</kanji>ing <kanji>people</kanji>, you put up a <vocabulary>job posting</vocabulary> because you’re <vocabulary>seeking workers</vocabulary>.",
+  "primaryReading": "きゅうじん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 人 has two on'yomi readings, here's a mnemonic to help you remember which one to use:\n\nAs you're looking at <vocabulary>job posting</vocabulary>s, you notice they're all looking for people with <reading>cu</reading>cumbers and <reading>jean</reading>s (きゅうじん). That's the only qualification they're after, cucumbers and jeans. ",
   "otherMeanings": [
     "Seeking Workers"
   ],
-  "primaryReading": "きゅうじん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 913,
-      "character": "求",
-      "readings": [
-        "きゅう",
-        "もと"
-      ]
-    },
-    {
-      "id": 444,
-      "character": "人",
-      "readings": [
-        "にん",
-        "じん",
-        "ひと",
-        "と"
-      ]
-    }
-  ],
-  "meaningMnemonic": "When you're <kanji>request</kanji>ing <kanji>people</kanji>, you put up a <vocabulary>job posting</vocabulary> because you’re <vocabulary>seeking workers</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 人 has two on'yomi readings, here's a mnemonic to help you remember which one to use:\n\nAs you're looking at <vocabulary>job posting</vocabulary>s, you notice they're all looking for people with <reading>cu</reading>cumbers and <reading>jean</reading>s (きゅうじん). That's the only qualification they're after, cucumbers and jeans. ",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B1%82%E4%BA%BA",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "求",
-      "id": 913,
-      "reading": "きゅう"
-    },
-    {
-      "type": "kanji",
-      "value": "人",
-      "id": 444,
-      "reading": "じん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B1%82%E4%BA%BA"
+  }
 }

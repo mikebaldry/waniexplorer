@@ -1,46 +1,54 @@
 {
   "id": 1512,
   "type": "kanji",
-  "character": "染",
-  "primaryMeaning": "Dye",
-  "otherMeanings": [],
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "染"
+  },
   "primaryReading": "せん",
   "readings": [
     {
-      "reading": "せん",
       "primary": true,
+      "reading": "せん",
       "type": "onyomi"
     },
     {
+      "primary": false,
       "reading": "しみ",
-      "primary": false,
       "type": "kunyomi"
     },
     {
+      "primary": false,
       "reading": "そ",
-      "primary": false,
       "type": "kunyomi"
     },
     {
-      "reading": "し",
       "primary": false,
+      "reading": "し",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "The <kanji>dye</kanji> continues to pass through the forest and hits a group of <reading>cen</reading>taurs (せん). Now each centaur is dyed with the forest green dye. They don’t look happy.",
+  "primaryMeaning": "Dye",
+  "otherMeanings": [],
   "meaningMnemonic": "A <radical>tsunami</radical> runs into <radical>nine</radical> <radical>tree</radical>s and produces a <kanji>dye</kanji> the color of the forest. The tsunami water mixes with each tree, nine of them actually, and the resulting liquid is a forest green dye.",
-  "vocabularyIds": [
-    5582,
-    5583,
-    5584,
-    5586,
-    5734,
-    5735
-  ],
-  "radicalIds": [
-    103,
-    11,
-    23
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%9F%93"
+  "readingMnemonic": "The <kanji>dye</kanji> continues to pass through the forest and hits a group of <reading>cen</reading>taurs (せん). Now each centaur is dyed with the forest green dye. They don’t look happy.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%9F%93"
+  },
+  "related": {
+    "radicals": [
+      103,
+      11,
+      23
+    ],
+    "vocabularies": [
+      5582,
+      5583,
+      5584,
+      5586,
+      5734,
+      5735
+    ]
+  }
 }

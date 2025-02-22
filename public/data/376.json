@@ -1,12 +1,15 @@
 {
   "id": 376,
   "type": "radical",
-  "primaryMeaning": "Hill",
-  "otherMeanings": [],
-  "character": {
+  "level": 39,
+  "characters": {
     "type": "text",
     "value": "岡"
   },
+  "primaryMeaning": "Hill",
+  "otherMeanings": [],
   "meaningMnemonic": "This radical is the same as the kanji. It means <radical>hill</radical>.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/hill"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/hill"
+  }
 }

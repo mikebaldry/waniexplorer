@@ -1,0 +1,45 @@
+{
+  "id": 4183,
+  "type": "vocabulary",
+  "characters": "宇宙",
+  "primaryMeaning": "Outer Space",
+  "otherMeanings": [
+    "Space",
+    "Universe"
+  ],
+  "primaryReading": "うちゅう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1072,
+      "character": "宇",
+      "readings": [
+        "う"
+      ]
+    },
+    {
+      "id": 1073,
+      "character": "宙",
+      "readings": [
+        "ちゅう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>midair</kanji> of <kanji>outer space</kanji> is the space that's in outer space which is <vocabulary>outer space</vocabulary>, <vocabulary>space</vocabulary>, and the <vocabulary>universe</vocabulary>!",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AE%87%E5%AE%99",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "宇",
+      "id": 1072,
+      "reading": "う"
+    },
+    {
+      "type": "kanji",
+      "value": "宙",
+      "id": 1073,
+      "reading": "ちゅう"
+    }
+  ]
+}

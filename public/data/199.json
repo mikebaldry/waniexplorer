@@ -1,12 +1,15 @@
 {
   "id": 199,
   "type": "radical",
-  "primaryMeaning": "Simple",
-  "otherMeanings": [],
-  "character": {
+  "level": 11,
+  "characters": {
     "type": "text",
     "value": "単"
   },
+  "primaryMeaning": "Simple",
+  "otherMeanings": [],
   "meaningMnemonic": "There's some stuff growing out of this rice paddy and there is a cross guarding over it. This rice paddy is owned by a <radical>simple</radical> family that lives the simple life. They grow their rice, pray to their god, and everything is nice and simple. Ahh, I'm jealous.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/simple"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/simple"
+  }
 }

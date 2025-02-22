@@ -1,0 +1,45 @@
+{
+  "id": 737,
+  "type": "kanji",
+  "character": "要",
+  "primaryMeaning": "Need",
+  "otherMeanings": [],
+  "primaryReading": "よう",
+  "readings": [
+    {
+      "reading": "よう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "い",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "かなめ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Finally she knows what she <kanji>need</kanji>s! It's <reading>yo</reading>gurt (よう)! Delicious, creamy yogurt!",
+  "meaningMnemonic": "A <radical>woman</radical> who pilots a <radical>helicopter</radical> will have the insatiable <kanji>need</kanji> for something. She doesn't know what it is. But she needs it. And that's why she's flying around looking for it!",
+  "vocabularyIds": [
+    3151,
+    3154,
+    3155,
+    3924,
+    3925,
+    5287,
+    6156,
+    6334,
+    6726,
+    7303,
+    7478
+  ],
+  "radicalIds": [
+    424,
+    19
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%A6%81"
+}

@@ -1,49 +1,22 @@
 {
   "id": 5344,
   "type": "vocabulary",
-  "characters": "強盗",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "強盗"
+  },
   "primaryMeaning": "Burglary",
+  "meaningMnemonic": "You are <kanji>strong</kanji> so you break into someone's home, hold them up, then <kanji>steal</kanji> from them. Ha ha! Take that, next door neighbor! This is a <vocabulary>burglary</vocabulary> or <vocabulary>robbery</vocabulary>, depending on how crazy you get after you use that strength to break down that door.",
+  "primaryReading": "ごうとう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. But 強  has two on'yomi readings, and you haven't really seen this one yet, so here's a mnemonic to help you out:\n\nThink about how when you commit a <vocabulary>robbery</vocabulary>, you <reading>go</reading> (ごう) into someone's house, then you go to jail as well, if you're caught.",
   "otherMeanings": [
     "Robbery",
     "Burglar",
     "Robber"
   ],
-  "primaryReading": "ごうとう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 667,
-      "character": "強",
-      "readings": [
-        "きょう",
-        "ごう",
-        "つよ"
-      ]
-    },
-    {
-      "id": 1442,
-      "character": "盗",
-      "readings": [
-        "とう",
-        "ぬす"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You are <kanji>strong</kanji> so you break into someone's home, hold them up, then <kanji>steal</kanji> from them. Ha ha! Take that, next door neighbor! This is a <vocabulary>burglary</vocabulary> or <vocabulary>robbery</vocabulary>, depending on how crazy you get after you use that strength to break down that door.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. But 強  has two on'yomi readings, and you haven't really seen this one yet, so here's a mnemonic to help you out:\n\nThink about how when you commit a <vocabulary>robbery</vocabulary>, you <reading>go</reading> (ごう) into someone's house, then you go to jail as well, if you're caught.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BC%B7%E7%9B%97",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "強",
-      "id": 667,
-      "reading": "ごう"
-    },
-    {
-      "type": "kanji",
-      "value": "盗",
-      "id": 1442,
-      "reading": "とう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%BC%B7%E7%9B%97"
+  }
 }

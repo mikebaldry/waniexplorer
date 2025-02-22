@@ -1,0 +1,32 @@
+{
+  "id": 2047,
+  "type": "kanji",
+  "character": "盾",
+  "primaryMeaning": "Shield",
+  "otherMeanings": [],
+  "primaryReading": "じゅん",
+  "readings": [
+    {
+      "reading": "じゅん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "たて",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "The light of the pope's <kanji>shield</kanji> begins to fade. The shield's holy power is waning! Just as the demons are about to push him off the cliff, the sun begins to rise. That's right! It's <reading>June</reading> (じゅん) and summer has just begun. The pope's shield reflects the power of June's bright sun into the eyes of the demons, casting them off the cliff behind him and back into hell!",
+  "meaningMnemonic": "On a <radical>cliff</radical>, the <radical>pope</radical> is holding a <kanji>shield</kanji>. The pope is near the edge of the cliff and is using the shield to fend off demons. The demons want to shove the pope off the cliff, but the pope is using his holy shield of popery to fend them off.",
+  "vocabularyIds": [
+    7253,
+    7254,
+    7255
+  ],
+  "radicalIds": [
+    116,
+    8773
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%9B%BE"
+}

@@ -1,46 +1,20 @@
 {
   "id": 2677,
   "type": "vocabulary",
-  "characters": "本気",
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "本気"
+  },
   "primaryMeaning": "Serious",
+  "meaningMnemonic": "What is <kanji>book</kanji> <kanji>energy</kanji>? It is energy you put into reading - it is your studies! In order to have book energy, though, you have to be very <vocabulary>serious</vocabulary>.",
+  "primaryReading": "ほんき",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Seriousness"
   ],
-  "primaryReading": "ほんき",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 487,
-      "character": "本",
-      "readings": [
-        "ほん",
-        "もと"
-      ]
-    },
-    {
-      "id": 548,
-      "character": "気",
-      "readings": [
-        "き",
-        "け"
-      ]
-    }
-  ],
-  "meaningMnemonic": "What is <kanji>book</kanji> <kanji>energy</kanji>? It is energy you put into reading - it is your studies! In order to have book energy, though, you have to be very <vocabulary>serious</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9C%AC%E6%B0%97",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "本",
-      "id": 487,
-      "reading": "ほん"
-    },
-    {
-      "type": "kanji",
-      "value": "気",
-      "id": 548,
-      "reading": "き"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%9C%AC%E6%B0%97"
+  }
 }

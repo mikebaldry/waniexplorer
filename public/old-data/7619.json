@@ -1,0 +1,44 @@
+{
+  "id": 7619,
+  "type": "vocabulary",
+  "characters": "水星",
+  "primaryMeaning": "Mercury",
+  "otherMeanings": [],
+  "primaryReading": "すいせい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 479,
+      "character": "水",
+      "readings": [
+        "すい",
+        "みず"
+      ]
+    },
+    {
+      "id": 638,
+      "character": "星",
+      "readings": [
+        "せい",
+        "ほし"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>water</kanji> <kanji>star</kanji> is the planet <vocabulary>Mercury</vocabulary>. That's where we hid all of our secret moon water. Mercury looks enough like our moon, so we put it there so no one could find it.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B0%B4%E6%98%9F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "水",
+      "id": 479,
+      "reading": "すい"
+    },
+    {
+      "type": "kanji",
+      "value": "星",
+      "id": 638,
+      "reading": "せい"
+    }
+  ]
+}

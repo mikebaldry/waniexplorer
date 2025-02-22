@@ -1,0 +1,31 @@
+{
+  "id": 8912,
+  "type": "kanji",
+  "character": "宛",
+  "primaryMeaning": "Address",
+  "otherMeanings": [],
+  "primaryReading": "あて",
+  "readings": [
+    {
+      "reading": "あて",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "えん",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "The snakes come to your <kanji>address</kanji> every night to receive the greatest gift you can give a snake: <reading>a 手</reading> (あて).",
+  "meaningMnemonic": "On your <radical>roof</radical> every <radical>evening</radical> you meet with <radical>snake</radical>s. All snakes know your <kanji>address</kanji>.",
+  "vocabularyIds": [
+    8919
+  ],
+  "radicalIds": [
+    78,
+    33,
+    158
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%AE%9B"
+}

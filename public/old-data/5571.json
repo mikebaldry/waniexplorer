@@ -1,0 +1,49 @@
+{
+  "id": 5571,
+  "type": "vocabulary",
+  "characters": "生卵",
+  "primaryMeaning": "Raw Egg",
+  "otherMeanings": [],
+  "primaryReading": "なまたまご",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 850,
+      "character": "生",
+      "readings": [
+        "せい",
+        "しょう",
+        "い",
+        "なま",
+        "う",
+        "は",
+        "き"
+      ]
+    },
+    {
+      "id": 1501,
+      "character": "卵",
+      "readings": [
+        "たまご",
+        "らん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Remember how 生 can mean <kanji>raw</kanji>? Well, it does now. So, a <kanji>raw</kanji> <kanji>egg</kanji>? First of all, delicious. Second of all, it means <vocabulary>raw egg</vocabulary>.",
+  "readingMnemonic": "The reading is the vocab 生 and 卵 combined into one <reading>なまたまご</reading>.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%94%9F%E5%8D%B5",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "生",
+      "id": 850,
+      "reading": "なま"
+    },
+    {
+      "type": "kanji",
+      "value": "卵",
+      "id": 1501,
+      "reading": "たまご"
+    }
+  ]
+}

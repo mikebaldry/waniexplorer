@@ -1,0 +1,46 @@
+{
+  "id": 6918,
+  "type": "vocabulary",
+  "characters": "亡霊",
+  "primaryMeaning": "Ghost",
+  "otherMeanings": [
+    "The Dead"
+  ],
+  "primaryReading": "ぼうれい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 851,
+      "character": "亡",
+      "readings": [
+        "ぼう",
+        "な"
+      ]
+    },
+    {
+      "id": 1932,
+      "character": "霊",
+      "readings": [
+        "れい",
+        "りょう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>deceased</kanji> <kanji>ghost</kanji> is a <vocabulary>ghost</vocabulary> (all ghosts are deceased). Can also refer to \"<vocabulary>the dead</vocabulary>.\"",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BA%A1%E9%9C%8A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "亡",
+      "id": 851,
+      "reading": "ぼう"
+    },
+    {
+      "type": "kanji",
+      "value": "霊",
+      "id": 1932,
+      "reading": "れい"
+    }
+  ]
+}

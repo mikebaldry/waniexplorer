@@ -1,0 +1,37 @@
+{
+  "id": 486,
+  "type": "kanji",
+  "character": "左",
+  "primaryMeaning": "Left",
+  "otherMeanings": [],
+  "primaryReading": "さ",
+  "readings": [
+    {
+      "reading": "さ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ひだり",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "In their <kanji>left</kanji> hands, the narwhals all hold <reading>saw</reading>s (さ). That's because the ice for their homes is already there, so they just need to saw away at them to make the shapes they want. Narwhal construction is actually very simple.",
+  "meaningMnemonic": "<radical>Narwhal</radical>s do <radical>construction</radical> with their <kanji>left</kanji> hands (or flippers, I guess). That's because all narwhals are left-handed!",
+  "vocabularyIds": [
+    2567,
+    2568,
+    3572,
+    3954,
+    6778,
+    7652,
+    8585,
+    8693
+  ],
+  "radicalIds": [
+    26,
+    25
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%B7%A6"
+}

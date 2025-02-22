@@ -1,37 +1,21 @@
 {
   "id": 8066,
   "type": "vocabulary",
-  "characters": "偏り",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "偏り"
+  },
   "primaryMeaning": "Bias",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "かたより",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You already learned this reading when you learned 偏る, so you should be able to read this one too!",
   "otherMeanings": [
     "Deviation",
     "Prejudice"
   ],
-  "primaryReading": "かたより",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2175,
-      "character": "偏",
-      "readings": [
-        "へん",
-        "かたよ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
-  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You already learned this reading when you learned 偏る, so you should be able to read this one too!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%81%8F%E3%82%8A",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "偏",
-      "id": 2175,
-      "reading": "かたよ"
-    },
-    {
-      "type": "kana",
-      "value": "り"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%81%8F%E3%82%8A"
+  }
 }

@@ -1,0 +1,32 @@
+{
+  "id": 4761,
+  "type": "vocabulary",
+  "characters": "株",
+  "primaryMeaning": "Stock",
+  "otherMeanings": [
+    "Share"
+  ],
+  "primaryReading": "かぶ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1247,
+      "character": "株",
+      "readings": [
+        "かぶ",
+        "しゅ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "The reading is the same as the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%A0%AA",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "株",
+      "id": 1247,
+      "reading": "かぶ"
+    }
+  ]
+}

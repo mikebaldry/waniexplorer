@@ -1,0 +1,33 @@
+{
+  "id": 2847,
+  "type": "vocabulary",
+  "characters": "地",
+  "primaryMeaning": "Earth",
+  "otherMeanings": [
+    "Ground",
+    "Land"
+  ],
+  "primaryReading": "ち",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 608,
+      "character": "地",
+      "readings": [
+        "ち",
+        "じ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.\n\n地 is often used in formal contexts or literature to refer to the <vocabulary>Earth</vocabulary>'s surface, the <vocabulary>ground</vocabulary>, or <vocabulary>land</vocabulary> in a more abstract or overarching sense. To say \"earth\" or \"ground\" casually, use 地面. For \"land,\" it's 土地.",
+  "readingMnemonic": "Although this is a single kanji all alone, it uses the on'yomi reading. This is the reading you learned with the kanji, you lucky duck.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%9C%B0",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "地",
+      "id": 608,
+      "reading": "ち"
+    }
+  ]
+}

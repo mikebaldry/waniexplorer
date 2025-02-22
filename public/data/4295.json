@@ -1,46 +1,20 @@
 {
   "id": 4295,
   "type": "vocabulary",
-  "characters": "機械",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "機械"
+  },
   "primaryMeaning": "Machine",
+  "meaningMnemonic": "A <kanji>machine</kanji> <kanji>contraption</kanji> is just a <vocabulary>machine</vocabulary>",
+  "primaryReading": "きかい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Mechanism"
   ],
-  "primaryReading": "きかい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1090,
-      "character": "機",
-      "readings": [
-        "き",
-        "はた"
-      ]
-    },
-    {
-      "id": 1102,
-      "character": "械",
-      "readings": [
-        "かい",
-        "かせ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>machine</kanji> <kanji>contraption</kanji> is just a <vocabulary>machine</vocabulary>",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%A9%9F%E6%A2%B0",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "機",
-      "id": 1090,
-      "reading": "き"
-    },
-    {
-      "type": "kanji",
-      "value": "械",
-      "id": 1102,
-      "reading": "かい"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%A9%9F%E6%A2%B0"
+  }
 }

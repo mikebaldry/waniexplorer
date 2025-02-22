@@ -1,50 +1,20 @@
 {
   "id": 7677,
   "type": "vocabulary",
-  "characters": "見当たる",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "見当たる"
+  },
   "primaryMeaning": "To Be Found",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. \n\n見当たる is made up of the kanji for  <kanji>see</kanji> and <kanji>right</kanji>, so what happens when you see the right thing? It was able <vocabulary>to be found</vocabulary>! \n\nThis word is generally used in the negative form (見当たらない). You can use it as a roundabout expression for when you can’t find what you’re looking for.",
+  "primaryReading": "みあたる",
+  "readingMnemonic": "The readings for this word are both kun'yomi readings. You've learned both of these readings by now so you should be able to read this on your own.",
   "otherMeanings": [
     "To Be Spotted"
   ],
-  "primaryReading": "みあたる",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 558,
-      "character": "見",
-      "readings": [
-        "み",
-        "けん"
-      ]
-    },
-    {
-      "id": 571,
-      "character": "当",
-      "readings": [
-        "とう",
-        "あ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. \n\n見当たる is made up of the kanji for  <kanji>see</kanji> and <kanji>right</kanji>, so what happens when you see the right thing? It was able <vocabulary>to be found</vocabulary>! \n\nThis word is generally used in the negative form (見当たらない). You can use it as a roundabout expression for when you can’t find what you’re looking for.",
-  "readingMnemonic": "The readings for this word are both kun'yomi readings. You've learned both of these readings by now so you should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A6%8B%E5%BD%93%E3%81%9F%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "見",
-      "id": 558,
-      "reading": "み"
-    },
-    {
-      "type": "kanji",
-      "value": "当",
-      "id": 571,
-      "reading": "あ"
-    },
-    {
-      "type": "kana",
-      "value": "たる"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%A6%8B%E5%BD%93%E3%81%9F%E3%82%8B"
+  }
 }

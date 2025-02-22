@@ -1,0 +1,31 @@
+{
+  "id": 1957,
+  "type": "kanji",
+  "character": "鍵",
+  "primaryMeaning": "Key",
+  "otherMeanings": [],
+  "primaryReading": "かぎ",
+  "readings": [
+    {
+      "reading": "かぎ",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "けん",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "This <kanji>key</kanji> has to be perfect, because if it isn't the <reading>ca</reading>r <reading>gui</reading>llotine (かぎ) will come down and chop off your hand!",
+  "meaningMnemonic": "You take some <radical>gold</radical> and cover your <radical>yoga</radical> <radical>brush</radical> in it, turning it into a <kanji>key</kanji>. You shove the brush you normally use for yoga into the lock to your car and pour the gold over it. Now it's the right shape to be a key!",
+  "vocabularyIds": [
+    7002
+  ],
+  "radicalIds": [
+    118,
+    206,
+    220
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%8D%B5"
+}

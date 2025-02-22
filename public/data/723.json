@@ -1,33 +1,41 @@
 {
   "id": 723,
   "type": "kanji",
-  "character": "客",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "客"
+  },
+  "primaryReading": "きゃく",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "きゃく",
+      "type": "onyomi"
+    }
+  ],
   "primaryMeaning": "Guest",
   "otherMeanings": [
     "Customer"
   ],
-  "primaryReading": "きゃく",
-  "readings": [
-    {
-      "reading": "きゃく",
-      "primary": true,
-      "type": "onyomi"
-    }
-  ],
-  "readingMnemonic": "One of your <kanji>guest</kanji>s is a regular named <reading>Kyaku</reading> (きゃく) the <kanji>customer</kanji>. Kyaku is always staying over at one place or another, so everyone knows their name.",
   "meaningMnemonic": "Under your <radical>roof</radical> in <radical>winter</radical> there are more <radical>mouth</radical>s to feed because you let <kanji>guest</kanji>s stay with you when it's cold. Some of them aren't family, so they have to pay to stay under your roof and get food. Those are <kanji>customer</kanji>s.",
-  "vocabularyIds": [
-    3115,
-    3116,
-    4554,
-    4871,
-    8240,
-    9049
-  ],
-  "radicalIds": [
-    78,
-    60,
-    16
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%AE%A2"
+  "readingMnemonic": "One of your <kanji>guest</kanji>s is a regular named <reading>Kyaku</reading> (きゃく) the <kanji>customer</kanji>. Kyaku is always staying over at one place or another, so everyone knows their name.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%AE%A2"
+  },
+  "related": {
+    "radicals": [
+      78,
+      60,
+      16
+    ],
+    "vocabularies": [
+      3115,
+      3116,
+      4554,
+      4871,
+      8240,
+      9049
+    ]
+  }
 }

@@ -1,0 +1,49 @@
+{
+  "id": 8368,
+  "type": "vocabulary",
+  "characters": "敢然",
+  "primaryMeaning": "Boldly",
+  "otherMeanings": [
+    "Bravely",
+    "Fearlessly"
+  ],
+  "primaryReading": "かんぜん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2350,
+      "character": "敢",
+      "readings": [
+        "かん",
+        "あ"
+      ]
+    },
+    {
+      "id": 881,
+      "character": "然",
+      "readings": [
+        "ぜん",
+        "ねん",
+        "しか",
+        "さ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you have a <kanji>daring</kanji> <kanji>nature</kanji> you'll <vocabulary>boldly</vocabulary> go where no one else has gone before!\n\nNote that you need to add と to the end of this word to make it an adverb, and たる to make it an adjective!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%95%A2%E7%84%B6",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "敢",
+      "id": 2350,
+      "reading": "かん"
+    },
+    {
+      "type": "kanji",
+      "value": "然",
+      "id": 881,
+      "reading": "ぜん"
+    }
+  ]
+}

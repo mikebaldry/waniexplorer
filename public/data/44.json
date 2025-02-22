@@ -1,12 +1,15 @@
 {
   "id": 44,
   "type": "radical",
-  "primaryMeaning": "Stop",
-  "otherMeanings": [],
-  "character": {
+  "level": 2,
+  "characters": {
     "type": "text",
     "value": "止"
   },
-  "meaningMnemonic": "There's a giant toe and a stick in the ground in front of you. You're driving your car toward them, but you don't see them until your lights hit them. What would these things cause you to do? Most likely <radical>stop</radical> your car right away.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/stop"
+  "primaryMeaning": "Stop",
+  "otherMeanings": [],
+  "meaningMnemonic": "There's a stick and a giant toe stuck in the ground. Imagine walking along and seeing these things in your path. What would you do? Most likely come to a complete <radical>stop</radical>. You know, because of the toe. I guess a normal stop sign wasn't good enough, so they also put up this big toe to really get people to stop.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/stop"
+  }
 }

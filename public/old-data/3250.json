@@ -1,0 +1,39 @@
+{
+  "id": 3250,
+  "type": "vocabulary",
+  "characters": "好き",
+  "primaryMeaning": "Like",
+  "otherMeanings": [
+    "Love",
+    "Likable",
+    "Lovable"
+  ],
+  "primaryReading": "すき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 779,
+      "character": "好",
+      "readings": [
+        "こう",
+        "す",
+        "この"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You know that 好 means <kanji>like</kanji> and this vocab word means the same thing: <vocabulary>like</vocabulary> or <vocabulary>love</vocabulary>!\n\nThis word is an adjective in Japanese, so a more literal translation is <vocabulary>likable</vocabulary> or <vocabulary>lovable</vocabulary>. Still, it usually sounds more natural to translate it as a verb in English.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nWho do you <vocabulary>like</vocabulary> more than anyone? Your friend <reading>Sue</reading>. If you know someone named Sue, pretend you like her. If you don't, think of a famous person you know named Sue and use her, pretending you're good friends that like each other a lot.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A5%BD%E3%81%8D",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "好",
+      "id": 779,
+      "reading": "す"
+    },
+    {
+      "type": "kana",
+      "value": "き"
+    }
+  ]
+}

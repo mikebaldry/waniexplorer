@@ -1,0 +1,47 @@
+{
+  "id": 4002,
+  "type": "vocabulary",
+  "characters": "自愛",
+  "primaryMeaning": "Self Love",
+  "otherMeanings": [
+    "Taking Care Of Oneself"
+  ],
+  "primaryReading": "じあい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 578,
+      "character": "自",
+      "readings": [
+        "じ",
+        "し",
+        "みずか"
+      ]
+    },
+    {
+      "id": 1021,
+      "character": "愛",
+      "readings": [
+        "あい",
+        "まな"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you <kanji>love</kanji> your <kanji>self</kanji> that is <vocabulary>self love</vocabulary>. You’ll mostly see this word as part of the set phrase ご自愛下さい, which is used in emails and the like to remind the recipients to be good to themselves. Other variations include ご自愛くださいませ, ご自愛を, and ご自愛のほどを.",
+  "readingMnemonic": "The readings are the ones you learned with the kanji, you self lover you.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%87%AA%E6%84%9B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "自",
+      "id": 578,
+      "reading": "じ"
+    },
+    {
+      "type": "kanji",
+      "value": "愛",
+      "id": 1021,
+      "reading": "あい"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": 4972,
+  "type": "vocabulary",
+  "characters": "自販機",
+  "primaryMeaning": "Vending Machine",
+  "otherMeanings": [],
+  "primaryReading": "じはんき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 578,
+      "character": "自",
+      "readings": [
+        "じ",
+        "し",
+        "みずか"
+      ]
+    },
+    {
+      "id": 1246,
+      "character": "販",
+      "readings": [
+        "はん"
+      ]
+    },
+    {
+      "id": 1090,
+      "character": "機",
+      "readings": [
+        "き",
+        "はた"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Remember the super long vending machine that is 自動販売機? This is a shorter easier to remember and say version. Basically every other kanji is removed, making it 自販機.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. It will also help if you know 自動販売機 already.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%87%AA%E8%B2%A9%E6%A9%9F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "自",
+      "id": 578,
+      "reading": "じ"
+    },
+    {
+      "type": "kanji",
+      "value": "販",
+      "id": 1246,
+      "reading": "はん"
+    },
+    {
+      "type": "kanji",
+      "value": "機",
+      "id": 1090,
+      "reading": "き"
+    }
+  ]
+}

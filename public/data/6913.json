@@ -1,44 +1,18 @@
 {
   "id": 6913,
   "type": "vocabulary",
-  "characters": "殺菌",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "殺菌"
+  },
   "primaryMeaning": "Sterilization",
-  "otherMeanings": [],
-  "primaryReading": "さっきん",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 880,
-      "character": "殺",
-      "readings": [
-        "さつ",
-        "さい",
-        "ころ"
-      ]
-    },
-    {
-      "id": 1930,
-      "character": "菌",
-      "readings": [
-        "きん"
-      ]
-    }
-  ],
   "meaningMnemonic": "If you <kanji>kill</kanji> <kanji>bacteria</kanji> you are performing <vocabulary>sterilization</vocabulary>. You're killing those bacteria.",
+  "primaryReading": "さっきん",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Watch out for the shortening.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%AE%BA%E8%8F%8C",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "殺",
-      "id": 880,
-      "reading": "さっ"
-    },
-    {
-      "type": "kanji",
-      "value": "菌",
-      "id": 1930,
-      "reading": "きん"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%AE%BA%E8%8F%8C"
+  }
 }

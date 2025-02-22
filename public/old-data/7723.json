@@ -1,0 +1,39 @@
+{
+  "id": 7723,
+  "type": "vocabulary",
+  "characters": "誤り",
+  "primaryMeaning": "Mistake",
+  "otherMeanings": [
+    "Error",
+    "Slip",
+    "Bug",
+    "Fault"
+  ],
+  "primaryReading": "あやまり",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1545,
+      "character": "誤",
+      "readings": [
+        "ご",
+        "あやま"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This is the noun version of the kanji <kanji>mistake</kanji>, so it means a <vocabulary>mistake</vocabulary> or if it's on a computer, an <vocabulary>error</vocabulary>.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nWhen you make a <vocabulary>mistake</vocabulary>, you need to admit to it. When someone asks, \"Who's responsible for this mistake?\" You say, \"<reading>I am</reading> (あやま).\"",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%AA%A4%E3%82%8A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "誤",
+      "id": 1545,
+      "reading": "あやま"
+    },
+    {
+      "type": "kana",
+      "value": "り"
+    }
+  ]
+}

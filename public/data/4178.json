@@ -1,46 +1,20 @@
 {
   "id": 4178,
   "type": "vocabulary",
-  "characters": "善悪",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "善悪"
+  },
   "primaryMeaning": "Good And Evil",
+  "meaningMnemonic": "You have <kanji>morally good</kanji> and <kanji>bad</kanji>. This is the battle between <vocabulary>good and evil</vocabulary>.",
+  "primaryReading": "ぜんあく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Right and Wrong"
   ],
-  "primaryReading": "ぜんあく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1085,
-      "character": "善",
-      "readings": [
-        "ぜん"
-      ]
-    },
-    {
-      "id": 829,
-      "character": "悪",
-      "readings": [
-        "あく",
-        "お",
-        "わる"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You have <kanji>morally good</kanji> and <kanji>bad</kanji>. This is the battle between <vocabulary>good and evil</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%96%84%E6%82%AA",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "善",
-      "id": 1085,
-      "reading": "ぜん"
-    },
-    {
-      "type": "kanji",
-      "value": "悪",
-      "id": 829,
-      "reading": "あく"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%96%84%E6%82%AA"
+  }
 }

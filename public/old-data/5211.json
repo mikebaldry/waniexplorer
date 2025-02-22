@@ -1,0 +1,45 @@
+{
+  "id": 5211,
+  "type": "vocabulary",
+  "characters": "兵隊",
+  "primaryMeaning": "Soldier",
+  "otherMeanings": [
+    "Sailor"
+  ],
+  "primaryReading": "へいたい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1000,
+      "character": "兵",
+      "readings": [
+        "へい",
+        "ひょう"
+      ]
+    },
+    {
+      "id": 1359,
+      "character": "隊",
+      "readings": [
+        "たい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>soldier</kanji> in a <kanji>squad</kanji> is a real <vocabulary>soldier</vocabulary> or <vocabulary>sailor</vocabulary>, unlike those \"soldier\" who are not in a squad. They don't have jobs, and can't be called real soldiers.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%85%B5%E9%9A%8A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "兵",
+      "id": 1000,
+      "reading": "へい"
+    },
+    {
+      "type": "kanji",
+      "value": "隊",
+      "id": 1359,
+      "reading": "たい"
+    }
+  ]
+}

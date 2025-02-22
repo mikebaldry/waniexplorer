@@ -1,0 +1,49 @@
+{
+  "id": 7037,
+  "type": "vocabulary",
+  "characters": "一瞬",
+  "primaryMeaning": "An Instant",
+  "otherMeanings": [
+    "A Moment"
+  ],
+  "primaryReading": "いっしゅん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 440,
+      "character": "一",
+      "readings": [
+        "いち",
+        "いつ",
+        "ひと",
+        "かず"
+      ]
+    },
+    {
+      "id": 1968,
+      "character": "瞬",
+      "readings": [
+        "しゅん",
+        "またた",
+        "まばた"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>One</kanji> <kanji>blink</kanji> is one instant. That is <vocabulary>an instant</vocabulary> or <vocabulary>a moment</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%80%E7%9E%AC",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "一",
+      "id": 440,
+      "reading": "いっ"
+    },
+    {
+      "type": "kanji",
+      "value": "瞬",
+      "id": 1968,
+      "reading": "しゅん"
+    }
+  ]
+}

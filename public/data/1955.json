@@ -1,33 +1,41 @@
 {
   "id": 1955,
   "type": "kanji",
-  "character": "猿",
-  "primaryMeaning": "Monkey",
-  "otherMeanings": [],
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "猿"
+  },
   "primaryReading": "さる",
   "readings": [
     {
-      "reading": "さる",
       "primary": true,
+      "reading": "さる",
       "type": "kunyomi"
     },
     {
-      "reading": "えん",
       "primary": false,
+      "reading": "えん",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "You spit the dirt out of your mouth and look back at the <kanji>monkey</kanji> to see that it's <reading>salu</reading>ting (さる) you. Is... is it mocking you?",
+  "primaryMeaning": "Monkey",
+  "otherMeanings": [],
   "meaningMnemonic": "An <radical>animal</radical> that <radical>kick</radical>s <radical>dirt</radical> into people's <radical>mouth</radical>s is a <kanji>monkey</kanji>. Monkeys are naughty little things. You should be happy it was just dirt it kicked into your mouth, and not something worse.",
-  "vocabularyIds": [
-    6999,
-    7000
-  ],
-  "radicalIds": [
-    144,
-    17,
-    16,
-    8770
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%8C%BF"
+  "readingMnemonic": "You spit the dirt out of your mouth and look back at the <kanji>monkey</kanji> to see that it's <reading>salu</reading>ting (さる) you. Is... is it mocking you?",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%8C%BF"
+  },
+  "related": {
+    "radicals": [
+      144,
+      17,
+      16,
+      8770
+    ],
+    "vocabularies": [
+      6999,
+      7000
+    ]
+  }
 }

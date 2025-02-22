@@ -1,0 +1,46 @@
+{
+  "id": 8617,
+  "type": "vocabulary",
+  "characters": "思慕",
+  "primaryMeaning": "Yearning",
+  "otherMeanings": [
+    "Deep Affection"
+  ],
+  "primaryReading": "しぼ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 637,
+      "character": "思",
+      "readings": [
+        "おも",
+        "し"
+      ]
+    },
+    {
+      "id": 2455,
+      "character": "慕",
+      "readings": [
+        "ぼ",
+        "した"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you can't stop <kanji>think</kanji>ing about how much you <kanji>yearn for</kanji> someone, that <vocabulary>yearning</vocabulary> can drive you crazy. Try to keep it in check, and enjoy how you can hold such <vocabulary>deep affection</vocabulary> for someone.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%80%9D%E6%85%95",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "思",
+      "id": 637,
+      "reading": "し"
+    },
+    {
+      "type": "kanji",
+      "value": "慕",
+      "id": 2455,
+      "reading": "ぼ"
+    }
+  ]
+}

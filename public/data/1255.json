@@ -1,26 +1,34 @@
 {
   "id": 1255,
   "type": "kanji",
-  "character": "票",
-  "primaryMeaning": "Ballot",
-  "otherMeanings": [],
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "票"
+  },
   "primaryReading": "ひょう",
   "readings": [
     {
-      "reading": "ひょう",
       "primary": true,
+      "reading": "ひょう",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "While using the jackhammer on the <kanji>ballot</kanji>, the helicopter pilot keeps yelling “<reading>Heyo</reading> (ひょう), don't mess up! Heyo! Watch out, don't let me see!” as he flies the helicopter all over the place.",
+  "primaryMeaning": "Ballot",
+  "otherMeanings": [],
   "meaningMnemonic": "You have to fly in a <radical>helicopter</radical> and use a <radical>jackhammer</radical> to punch your <kanji>ballot</kanji>. The helicopter gets you far away from prying eyes, and the jackhammer makes you really try for whoever you're voting for on that thing. It's foolproof!",
-  "vocabularyIds": [
-    4781,
-    4782
-  ],
-  "radicalIds": [
-    424,
-    207
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%A5%A8"
+  "readingMnemonic": "While using the jackhammer on the <kanji>ballot</kanji>, the helicopter pilot keeps yelling “<reading>Heyo</reading> (ひょう), don't mess up! Heyo! Watch out, don't let me see!” as he flies the helicopter all over the place.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%A5%A8"
+  },
+  "related": {
+    "radicals": [
+      424,
+      207
+    ],
+    "vocabularies": [
+      4781,
+      4782
+    ]
+  }
 }

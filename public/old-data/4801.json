@@ -1,0 +1,46 @@
+{
+  "id": 4801,
+  "type": "vocabulary",
+  "characters": "規模",
+  "primaryMeaning": "Scale",
+  "otherMeanings": [
+    "Scope",
+    "Size"
+  ],
+  "primaryReading": "きぼ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1191,
+      "character": "規",
+      "readings": [
+        "き"
+      ]
+    },
+    {
+      "id": 1264,
+      "character": "模",
+      "readings": [
+        "も",
+        "ぼ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>standard</kanji> of <kanji>imitation</kanji> is to imitate to the <vocabulary>scale</vocabulary> and <vocabulary>scope</vocabulary> of the original.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A6%8F%E6%A8%A1",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "規",
+      "id": 1191,
+      "reading": "き"
+    },
+    {
+      "type": "kanji",
+      "value": "模",
+      "id": 1264,
+      "reading": "ぼ"
+    }
+  ]
+}

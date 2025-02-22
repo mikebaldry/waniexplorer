@@ -1,0 +1,33 @@
+{
+  "id": 1983,
+  "type": "kanji",
+  "character": "柳",
+  "primaryMeaning": "Willow",
+  "otherMeanings": [],
+  "primaryReading": "りゅう",
+  "readings": [
+    {
+      "reading": "りゅう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "やなぎ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "<reading>Ryu</reading> (りゅう) from Street Fighter really loves <kanji>willow</kanji> trees. Ryu loves them so much that he makes out with them. Ryu is open mouth kissing a willow tree. You are watching this. It is happening.",
+  "meaningMnemonic": "A <radical>tree</radical> that is <radical>stamp</radical>ed with one pattern, then <radical>stamp</radical>ed with another pattern, over and over, is the <kanji>willow</kanji> tree. ",
+  "vocabularyIds": [
+    7071,
+    7072,
+    7073,
+    7446
+  ],
+  "radicalIds": [
+    23,
+    145
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%9F%B3"
+}

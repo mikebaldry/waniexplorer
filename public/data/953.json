@@ -1,35 +1,43 @@
 {
   "id": 953,
   "type": "kanji",
-  "character": "英",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "英"
+  },
+  "primaryReading": "えい",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "えい",
+      "type": "onyomi"
+    }
+  ],
   "primaryMeaning": "England",
   "otherMeanings": [
     "English",
     "Excel"
   ],
-  "primaryReading": "えい",
-  "readings": [
-    {
-      "reading": "えい",
-      "primary": true,
-      "type": "onyomi"
-    }
-  ],
-  "readingMnemonic": "You keep walking to the very central center of <kanji>England</kanji> and see a giant <reading>a</reading>corn (えい) planted in the middle of the ground. This acorn is the source of all the flowers and life in England.",
   "meaningMnemonic": "There are many <radical>flowers</radical> in the <radical>center</radical> of <kanji>England</kanji>. It may seem rainy and gray at first, but if you walk right to the center you'll see all the flowers that grow there in the center of the country.\n\nThis kanji also means <kanji>English</kanji>, which is pretty similar to England. Just imagine all the people of England walking to the center, where the flowers are, and speaking English to them to help them grow.",
-  "vocabularyIds": [
-    3784,
-    3785,
-    3786,
-    3787,
-    3788,
-    5293,
-    5604,
-    6299
-  ],
-  "radicalIds": [
-    90,
-    231
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%8B%B1"
+  "readingMnemonic": "You keep walking to the very central center of <kanji>England</kanji> and see a giant <reading>a</reading>corn (えい) planted in the middle of the ground. This acorn is the source of all the flowers and life in England.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%8B%B1"
+  },
+  "related": {
+    "radicals": [
+      90,
+      231
+    ],
+    "vocabularies": [
+      3784,
+      3785,
+      3786,
+      3787,
+      3788,
+      5293,
+      5604,
+      6299
+    ]
+  }
 }

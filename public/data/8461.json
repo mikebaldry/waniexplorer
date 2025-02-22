@@ -1,50 +1,21 @@
 {
   "id": 8461,
   "type": "vocabulary",
-  "characters": "遊戯",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "遊戯"
+  },
   "primaryMeaning": "Game",
+  "meaningMnemonic": "You <kanji>play</kanji> and <kanji>play</kanji> all day! What do you play? A <vocabulary>game</vocabulary>! Or a <vocabulary>sport</vocabulary>! Which are technically games!",
+  "primaryReading": "ゆうぎ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Play",
     "Sport"
   ],
-  "primaryReading": "ゆうぎ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1417,
-      "character": "遊",
-      "readings": [
-        "ゆう",
-        "あそ"
-      ]
-    },
-    {
-      "id": 2370,
-      "character": "戯",
-      "readings": [
-        "ぎ",
-        "げ",
-        "ざ",
-        "じゃ",
-        "たわむ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You <kanji>play</kanji> and <kanji>play</kanji> all day! What do you play? A <vocabulary>game</vocabulary>! Or a <vocabulary>sport</vocabulary>! Which are technically games!",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%81%8A%E6%88%AF",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "遊",
-      "id": 1417,
-      "reading": "ゆう"
-    },
-    {
-      "type": "kanji",
-      "value": "戯",
-      "id": 2370,
-      "reading": "ぎ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%81%8A%E6%88%AF"
+  }
 }

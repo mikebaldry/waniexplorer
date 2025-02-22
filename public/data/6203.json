@@ -1,39 +1,24 @@
 {
   "id": 6203,
   "type": "vocabulary",
-  "characters": "描く",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "描く"
+  },
   "primaryMeaning": "To Draw",
-  "otherMeanings": [
-    "To Sketch"
-  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>draw</kanji> and the verb vocab refers to creating visual art, like drawings or paintings, making this <vocabulary>to draw</vocabulary> or <vocabulary>to paint</vocabulary>. It can also be used figuratively <vocabulary>to illustrate</vocabulary> ideas or dreams, or <vocabulary>to depict</vocabulary> scenes in one's mind.",
   "primaryReading": "かく",
+  "readingMnemonic": "The reading is the same as 書く, which is similar to drawing something (you use a writing instrument on a piece of paper, which you can do with drawing). Another reading is えがく, which is like saying 絵を書く, but combined and rendaku'd.",
+  "otherMeanings": [
+    "To Paint",
+    "To Illustrate",
+    "To Depict"
+  ],
   "otherReadings": [
     "えがく"
   ],
-  "kanji": [
-    {
-      "id": 1696,
-      "character": "描",
-      "readings": [
-        "びょう",
-        "か",
-        "えが"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>draw</kanji> so the verb vocab version is <vocabulary>to draw</vocabulary> or <vocabulary>to sketch</vocabulary>.",
-  "readingMnemonic": "The reading is the same as 書く, which is similar to drawing something (you use a writing instrument on a piece of paper, which you can do with drawing). Another reading is えがく, which is like saying 絵を書く, but combined and rendaku'd.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8F%8F%E3%81%8F",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "描",
-      "id": 1696,
-      "reading": "か"
-    },
-    {
-      "type": "kana",
-      "value": "く"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%8F%8F%E3%81%8F"
+  }
 }

@@ -1,0 +1,48 @@
+{
+  "id": 2666,
+  "type": "vocabulary",
+  "characters": "少年",
+  "primaryMeaning": "Boy",
+  "otherMeanings": [
+    "Young Boy",
+    "Youth"
+  ],
+  "primaryReading": "しょうねん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 506,
+      "character": "少",
+      "readings": [
+        "しょう",
+        "すこ",
+        "すく"
+      ]
+    },
+    {
+      "id": 546,
+      "character": "年",
+      "readings": [
+        "ねん",
+        "とし"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Someone of <kanji>few</kanji> <kanji>year</kanji>s is someone who's young. Since we already have 少女 for girls, 少年 means <vocabulary>boy</vocabulary>.\n\n少年 is a bit of a formal term that often refers to a <vocabulary>young boy</vocabulary>, usually between childhood and adolescence, or sometimes to a <vocabulary>youth</vocabulary> in general. ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B0%91%E5%B9%B4",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "少",
+      "id": 506,
+      "reading": "しょう"
+    },
+    {
+      "type": "kanji",
+      "value": "年",
+      "id": 546,
+      "reading": "ねん"
+    }
+  ]
+}

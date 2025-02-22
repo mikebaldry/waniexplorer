@@ -1,0 +1,51 @@
+{
+  "id": 2916,
+  "type": "vocabulary",
+  "characters": "生活",
+  "primaryMeaning": "Life",
+  "otherMeanings": [
+    "Livelihood"
+  ],
+  "primaryReading": "せいかつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 850,
+      "character": "生",
+      "readings": [
+        "せい",
+        "しょう",
+        "い",
+        "なま",
+        "う",
+        "は",
+        "き"
+      ]
+    },
+    {
+      "id": 639,
+      "character": "活",
+      "readings": [
+        "かつ",
+        "い"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you have <kanji>life</kanji> and are <kanji>lively</kanji> that right there is true <vocabulary>life</vocabulary>. What is your 生活 like? Do you live?",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%94%9F%E6%B4%BB",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "生",
+      "id": 850,
+      "reading": "せい"
+    },
+    {
+      "type": "kanji",
+      "value": "活",
+      "id": 639,
+      "reading": "かつ"
+    }
+  ]
+}

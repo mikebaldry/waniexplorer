@@ -1,0 +1,57 @@
+{
+  "id": 8393,
+  "type": "vocabulary",
+  "characters": "羅針盤",
+  "primaryMeaning": "Compass",
+  "otherMeanings": [],
+  "primaryReading": "らしんばん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2339,
+      "character": "羅",
+      "readings": [
+        "ら",
+        "うすもの"
+      ]
+    },
+    {
+      "id": 1300,
+      "character": "針",
+      "readings": [
+        "しん",
+        "はり"
+      ]
+    },
+    {
+      "id": 1697,
+      "character": "盤",
+      "readings": [
+        "ばん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Spread out</kanji> a <kanji>needle</kanji> in a <kanji>tray</kanji> of water after rubbing it with a magnet and you'll have made a <vocabulary>compass</vocabulary>! Try it at home kids! It really works!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%BE%85%E9%87%9D%E7%9B%A4",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "羅",
+      "id": 2339,
+      "reading": "ら"
+    },
+    {
+      "type": "kanji",
+      "value": "針",
+      "id": 1300,
+      "reading": "しん"
+    },
+    {
+      "type": "kanji",
+      "value": "盤",
+      "id": 1697,
+      "reading": "ばん"
+    }
+  ]
+}

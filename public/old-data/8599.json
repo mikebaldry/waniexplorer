@@ -1,0 +1,34 @@
+{
+  "id": 8599,
+  "type": "vocabulary",
+  "characters": "升",
+  "primaryMeaning": "Grid",
+  "otherMeanings": [
+    "Box",
+    "Measuring Container",
+    "Measure"
+  ],
+  "primaryReading": "ます",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2449,
+      "character": "升",
+      "readings": [
+        "ます",
+        "しょう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8D%87",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "升",
+      "id": 2449,
+      "reading": "ます"
+    }
+  ]
+}

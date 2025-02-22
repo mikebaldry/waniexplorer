@@ -1,38 +1,21 @@
 {
   "id": 3870,
   "type": "vocabulary",
-  "characters": "関する",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "関する"
+  },
   "primaryMeaning": "To Be Related To",
+  "meaningMnemonic": "You know that 関 means <kanji>related</kanji>. So, when you add する to it you make it a verb. Now it means <vocabulary>to be related to</vocabulary>.",
+  "primaryReading": "かんする",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
   "otherMeanings": [
     "To Be Concerned With",
     "To Pertain To"
   ],
-  "primaryReading": "かんする",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 982,
-      "character": "関",
-      "readings": [
-        "かん",
-        "かか",
-        "せき"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You know that 関 means <kanji>related</kanji>. So, when you add する to it you make it a verb. Now it means <vocabulary>to be related to</vocabulary>.",
-  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%96%A2%E3%81%99%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "関",
-      "id": 982,
-      "reading": "かん"
-    },
-    {
-      "type": "kana",
-      "value": "する"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%96%A2%E3%81%99%E3%82%8B"
+  }
 }

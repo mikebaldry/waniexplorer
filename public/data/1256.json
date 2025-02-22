@@ -1,32 +1,40 @@
 {
   "id": 1256,
   "type": "kanji",
-  "character": "景",
-  "primaryMeaning": "Scene",
-  "otherMeanings": [],
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "景"
+  },
   "primaryReading": "けい",
   "readings": [
     {
-      "reading": "けい",
       "primary": true,
+      "reading": "けい",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "The only way to make this <kanji>scene</kanji> better would be to add <reading>ca</reading>ke (けい). Now that you think about it, as the sun rises and frosts the capital with light, the buildings start to look like big, shiny cakes.",
+  "primaryMeaning": "Scene",
+  "otherMeanings": [],
   "meaningMnemonic": "The <radical>sun</radical> rises over the <radical>capital</radical>, creating a <kanji>scene</kanji> of breathtaking beauty. The sun is bright and warm as it crests over the capital. It’s quite the scene to behold.",
-  "vocabularyIds": [
-    4783,
-    4784,
-    4785,
-    4786,
-    4787,
-    4880,
-    5106,
-    5324
-  ],
-  "radicalIds": [
-    22,
-    299
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%99%AF"
+  "readingMnemonic": "The only way to make this <kanji>scene</kanji> better would be to add <reading>ca</reading>ke (けい). Now that you think about it, as the sun rises and frosts the capital with light, the buildings start to look like big, shiny cakes.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%99%AF"
+  },
+  "related": {
+    "radicals": [
+      22,
+      299
+    ],
+    "vocabularies": [
+      4783,
+      4784,
+      4785,
+      4786,
+      4787,
+      4880,
+      5106,
+      5324
+    ]
+  }
 }

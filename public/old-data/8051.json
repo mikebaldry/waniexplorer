@@ -1,0 +1,48 @@
+{
+  "id": 8051,
+  "type": "vocabulary",
+  "characters": "随筆",
+  "primaryMeaning": "Essays",
+  "otherMeanings": [
+    "Miscellaneous Writings",
+    "Literary Jottings"
+  ],
+  "primaryReading": "ずいひつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2193,
+      "character": "随",
+      "readings": [
+        "ずい",
+        "したが",
+        "まにま"
+      ]
+    },
+    {
+      "id": 1288,
+      "character": "筆",
+      "readings": [
+        "ひつ",
+        "ふで"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>All</kanji> that comes out of a <kanji>writing brush</kanji> is <vocabulary>essay</vocabulary>s. You can't paint or doodle, you have to write with it.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9A%8F%E7%AD%86",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "随",
+      "id": 2193,
+      "reading": "ずい"
+    },
+    {
+      "type": "kanji",
+      "value": "筆",
+      "id": 1288,
+      "reading": "ひつ"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 5976,
+  "type": "vocabulary",
+  "characters": "及第",
+  "primaryMeaning": "Make The Grade",
+  "otherMeanings": [
+    "Passing An Exam"
+  ],
+  "primaryReading": "きゅうだい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1619,
+      "character": "及",
+      "readings": [
+        "きゅう",
+        "およ"
+      ]
+    },
+    {
+      "id": 825,
+      "character": "第",
+      "readings": [
+        "だい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "I <kanji>reach</kanji>ed the <kanji>ordinal number prefix</kanji> that represents a passing score on my test. This means I was able to <vocabulary>make the grade</vocabulary>! Wow, <vocabulary>passing an exam</vocabulary> feels great.\n\n及第 is an old-fashioned term that you might see as part of the word 及第点 (a passing grade), especially if you read a lot of classic Japanese books.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8F%8A%E7%AC%AC",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "及",
+      "id": 1619,
+      "reading": "きゅう"
+    },
+    {
+      "type": "kanji",
+      "value": "第",
+      "id": 825,
+      "reading": "だい"
+    }
+  ]
+}

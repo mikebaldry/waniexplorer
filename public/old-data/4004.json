@@ -1,0 +1,57 @@
+{
+  "id": 4004,
+  "type": "vocabulary",
+  "characters": "愛知県",
+  "primaryMeaning": "Aichi Prefecture",
+  "otherMeanings": [],
+  "primaryReading": "あいちけん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1021,
+      "character": "愛",
+      "readings": [
+        "あい",
+        "まな"
+      ]
+    },
+    {
+      "id": 631,
+      "character": "知",
+      "readings": [
+        "ち",
+        "し"
+      ]
+    },
+    {
+      "id": 731,
+      "character": "県",
+      "readings": [
+        "けん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>Love</kanji> <kanji>Know</kanji> <kanji>Prefecture</kanji>! I want to live here, because people must know love! Of course, we don't call it that in English. You'll have to know the reading of the kanji to know the reading of this prefecture, which is <vocabulary>Aichi Prefecture</vocabulary> (jump to the reading to figure this out).",
+  "readingMnemonic": "The reading here is all the on'yomi jukugo madness you can handle. If you learned the kanji, you should be able to read this. If you can read it, you can translate it to \"English\" even though only half of it is English.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%84%9B%E7%9F%A5%E7%9C%8C",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "愛",
+      "id": 1021,
+      "reading": "あい"
+    },
+    {
+      "type": "kanji",
+      "value": "知",
+      "id": 631,
+      "reading": "ち"
+    },
+    {
+      "type": "kanji",
+      "value": "県",
+      "id": 731,
+      "reading": "けん"
+    }
+  ]
+}

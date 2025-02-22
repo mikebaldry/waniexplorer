@@ -1,0 +1,48 @@
+{
+  "id": 7491,
+  "type": "vocabulary",
+  "characters": "顔面",
+  "primaryMeaning": "Face Of A Person",
+  "otherMeanings": [
+    "Person's Face",
+    "Face"
+  ],
+  "primaryReading": "がんめん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 772,
+      "character": "顔",
+      "readings": [
+        "かお",
+        "がん"
+      ]
+    },
+    {
+      "id": 974,
+      "character": "面",
+      "readings": [
+        "めん",
+        "おも",
+        "おもて"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>face</kanji> of a <kanji>face</kanji> is a face, but more specifically the <vocabulary>face of a person</vocabulary>. Probably because the most face-like thing you can ever have is a human's face... at least in our eyes (by \"our\" I mean the human race's eyes, because I am totally with you guys on that one).",
+  "readingMnemonic": "The reading for 顔 isn't the one you learned with the kanji. But, we're going to learn that reading right now.\n\nThe worst thing that can happen to a face is if a face disappears. If it becomes totally <reading>gone</reading> (がん). A man that is walking up to you with no face, is a man with a gone face. Those men are men who are a part of the <reading>gone men</reading> (がんめん). Faces, totally gone!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%A1%94%E9%9D%A2",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "顔",
+      "id": 772,
+      "reading": "がん"
+    },
+    {
+      "type": "kanji",
+      "value": "面",
+      "id": 974,
+      "reading": "めん"
+    }
+  ]
+}

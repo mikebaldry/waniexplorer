@@ -1,0 +1,36 @@
+{
+  "id": 778,
+  "type": "kanji",
+  "character": "共",
+  "primaryMeaning": "Together",
+  "otherMeanings": [],
+  "primaryReading": "きょう",
+  "readings": [
+    {
+      "reading": "きょう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "とも",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Once a year trillions of fish get <kanji>together</kanji> in <reading>きょう</reading>と to play blackjack. They have a huge tournament there once a year.",
+  "meaningMnemonic": "The card game fish are best at is <radical>blackjack</radical> because they can easily hold the cards with their <radical>fins</radical> <kanji>together</kanji>. In blackjack you don't have to have a huge hand, full of cards. It's just a few, so fish fins can keep them together and just hit or stay.",
+  "vocabularyIds": [
+    3246,
+    3247,
+    3248,
+    3249,
+    4306,
+    5566,
+    7496
+  ],
+  "radicalIds": [
+    8775,
+    2
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%85%B1"
+}

@@ -1,35 +1,18 @@
 {
   "id": 3856,
   "type": "vocabulary",
-  "characters": "笑う",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "笑う"
+  },
   "primaryMeaning": "To Laugh",
-  "otherMeanings": [],
-  "primaryReading": "わらう",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 980,
-      "character": "笑",
-      "readings": [
-        "わら",
-        "え",
-        "しょう"
-      ]
-    }
-  ],
   "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>laugh</kanji> so the verb vocab version is <vocabulary>to laugh</vocabulary>.",
+  "primaryReading": "わらう",
   "readingMnemonic": "The reading is the same as the one you learned with the kanji. You can laugh freely, now!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%AC%91%E3%81%86",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "笑",
-      "id": 980,
-      "reading": "わら"
-    },
-    {
-      "type": "kana",
-      "value": "う"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%AC%91%E3%81%86"
+  }
 }

@@ -1,0 +1,32 @@
+{
+  "id": 5321,
+  "type": "vocabulary",
+  "characters": "旗",
+  "primaryMeaning": "Flag",
+  "otherMeanings": [
+    "Banner"
+  ],
+  "primaryReading": "はた",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1418,
+      "character": "旗",
+      "readings": [
+        "き",
+        "はた"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You did not learn this reading, so here's a mnemonic to help you: \n\nThe one with the <vocabulary>flag</vocabulary> is the Mad <reading>Hatter</reading> (はた). Just imagine looking through a group of people. You have to find the Mad Hatter, and he has to find you. That's why he offered to wear a flag on his hat.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%97%97",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "旗",
+      "id": 1418,
+      "reading": "はた"
+    }
+  ]
+}

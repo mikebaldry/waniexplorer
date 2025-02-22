@@ -1,0 +1,49 @@
+{
+  "id": 8172,
+  "type": "vocabulary",
+  "characters": "顕著",
+  "primaryMeaning": "Remarkable",
+  "otherMeanings": [
+    "Striking",
+    "Obvious"
+  ],
+  "primaryReading": "けんちょ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2237,
+      "character": "顕",
+      "readings": [
+        "けん",
+        "あきらか",
+        "あらわ"
+      ]
+    },
+    {
+      "id": 1538,
+      "character": "著",
+      "readings": [
+        "ちょ",
+        "いちじる",
+        "あらわ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When an <kanji>author</kanji> <kanji>appear</kanji>s in public it's always <vocabulary>remarkable</vocabulary>. People usually don't remember there's anyone behind those pages, so when the actual author shows up in person it's pretty <vocabulary>striking</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%A1%95%E8%91%97",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "顕",
+      "id": 2237,
+      "reading": "けん"
+    },
+    {
+      "type": "kanji",
+      "value": "著",
+      "id": 1538,
+      "reading": "ちょ"
+    }
+  ]
+}

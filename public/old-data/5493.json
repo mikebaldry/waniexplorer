@@ -1,0 +1,47 @@
+{
+  "id": 5493,
+  "type": "vocabulary",
+  "characters": "富裕",
+  "primaryMeaning": "Wealthy",
+  "otherMeanings": [
+    "Affluent",
+    "Rich"
+  ],
+  "primaryReading": "ふゆう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1475,
+      "character": "富",
+      "readings": [
+        "ふ",
+        "と",
+        "とみ"
+      ]
+    },
+    {
+      "id": 1098,
+      "character": "裕",
+      "readings": [
+        "ゆう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you're <kanji>rich</kanji> and <kanji>abundant</kanji>, you are super <vocabulary>wealthy</vocabulary>, <vocabulary>affluent</vocabulary>, and <vocabulary>rich</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AF%8C%E8%A3%95",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "富",
+      "id": 1475,
+      "reading": "ふ"
+    },
+    {
+      "type": "kanji",
+      "value": "裕",
+      "id": 1098,
+      "reading": "ゆう"
+    }
+  ]
+}

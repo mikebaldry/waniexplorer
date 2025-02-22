@@ -1,0 +1,34 @@
+{
+  "id": 5561,
+  "type": "vocabulary",
+  "characters": "傷",
+  "primaryMeaning": "Wound",
+  "otherMeanings": [
+    "Damage",
+    "Flaw"
+  ],
+  "primaryReading": "きず",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1499,
+      "character": "傷",
+      "readings": [
+        "しょう",
+        "きず",
+        "いた"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "To remember this reading, just think about what your mommy did for you when you were little and you got yourself a <vocabulary>wound</vocabulary>... she would <reading>kiss</reading> (きず) the wounds better. Of course, that never worked and was a total farce, but try to forgive mommy this one time, okay?",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%82%B7",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "傷",
+      "id": 1499,
+      "reading": "きず"
+    }
+  ]
+}

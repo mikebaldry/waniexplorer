@@ -1,32 +1,40 @@
 {
   "id": 1809,
   "type": "kanji",
-  "character": "堅",
-  "primaryMeaning": "Solid",
-  "otherMeanings": [],
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "堅"
+  },
   "primaryReading": "かた",
   "readings": [
     {
-      "reading": "かた",
       "primary": true,
+      "reading": "かた",
       "type": "kunyomi"
     },
     {
-      "reading": "けん",
       "primary": false,
+      "reading": "けん",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "You need this stool to be extra <kanji>solid</kanji> because you're using it to test your new <reading>cata</reading>pult (かた). If it isn't solid, when you launch it and yourself in the catapult, the stool might fall over, killing you both. And you don't want that, now do you?",
+  "primaryMeaning": "Solid",
+  "otherMeanings": [],
   "meaningMnemonic": "A <radical>servant</radical> secures a <radical>stool</radical> in the <radical>dirt</radical> so that it is a <kanji>solid</kanji> sitting device. If you just throw a stool on the ground it will flop over easily. But if you have a servant to dig it into the dirt a bit, it becomes nice and solid and safe for sitting!",
-  "vocabularyIds": [
-    6578,
-    6948
-  ],
-  "radicalIds": [
-    323,
-    30,
-    17
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%A0%85"
+  "readingMnemonic": "You need this stool to be extra <kanji>solid</kanji> because you're using it to test your new <reading>cata</reading>pult (かた). If it isn't solid, when you launch it and yourself in the catapult, the stool might fall over, killing you both. And you don't want that, now do you?",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%A0%85"
+  },
+  "related": {
+    "radicals": [
+      323,
+      30,
+      17
+    ],
+    "vocabularies": [
+      6578,
+      6948
+    ]
+  }
 }

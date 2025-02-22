@@ -1,0 +1,62 @@
+{
+  "id": 4399,
+  "type": "vocabulary",
+  "characters": "暴走族",
+  "primaryMeaning": "Biker Gang",
+  "otherMeanings": [
+    "Motorcycle Gang",
+    "Japanese Bikers",
+    "Bosozoku"
+  ],
+  "primaryReading": "ぼうそうぞく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1077,
+      "character": "暴",
+      "readings": [
+        "ぼう",
+        "ばく",
+        "あば"
+      ]
+    },
+    {
+      "id": 595,
+      "character": "走",
+      "readings": [
+        "そう",
+        "はし"
+      ]
+    },
+    {
+      "id": 830,
+      "character": "族",
+      "readings": [
+        "ぞく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>tribe</kanji> that <kanji>runs wild</kanji> (暴走) is what the Japanese call a <vocabulary>biker gang</vocabulary>. Just imagine them riding around on their bikes, running wild. They're also close, like a family. How nice!",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9A%B4%E8%B5%B0%E6%97%8F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "暴",
+      "id": 1077,
+      "reading": "ぼう"
+    },
+    {
+      "type": "kanji",
+      "value": "走",
+      "id": 595,
+      "reading": "そう"
+    },
+    {
+      "type": "kanji",
+      "value": "族",
+      "id": 830,
+      "reading": "ぞく"
+    }
+  ]
+}

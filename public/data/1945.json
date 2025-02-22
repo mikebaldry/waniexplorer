@@ -1,32 +1,40 @@
 {
   "id": 1945,
   "type": "kanji",
-  "character": "魔",
-  "primaryMeaning": "Devil",
-  "otherMeanings": [],
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "魔"
+  },
   "primaryReading": "ま",
   "readings": [
     {
-      "reading": "ま",
       "primary": true,
+      "reading": "ま",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "Why is the <kanji>devil</kanji> under a canopy of trees? Because he's looking for his <reading>ma</reading>ma (ま).",
+  "primaryMeaning": "Devil",
+  "otherMeanings": [],
   "meaningMnemonic": "Below the <radical>canopy</radical> of <radical>tree</radical>s is a <radical>demon</radical>. This demon is a <kanji>devil</kanji>.",
-  "vocabularyIds": [
-    6975,
-    6976,
-    6977,
-    6978,
-    7159,
-    7369,
-    7559
-  ],
-  "radicalIds": [
-    62,
-    23,
-    292
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%AD%94"
+  "readingMnemonic": "Why is the <kanji>devil</kanji> under a canopy of trees? Because he's looking for his <reading>ma</reading>ma (ま).",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%AD%94"
+  },
+  "related": {
+    "radicals": [
+      62,
+      23,
+      292
+    ],
+    "vocabularies": [
+      6975,
+      6976,
+      6977,
+      6978,
+      7159,
+      7369,
+      7559
+    ]
+  }
 }

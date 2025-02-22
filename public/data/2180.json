@@ -1,55 +1,63 @@
 {
   "id": 2180,
   "type": "kanji",
-  "character": "没",
-  "primaryMeaning": "Die",
-  "otherMeanings": [],
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "没"
+  },
   "primaryReading": "ぼつ",
   "readings": [
     {
-      "reading": "ぼつ",
       "primary": true,
+      "reading": "ぼつ",
       "type": "onyomi"
     },
     {
+      "primary": false,
       "reading": "もつ",
-      "primary": false,
       "type": "onyomi"
     },
     {
+      "primary": false,
       "reading": "おぼ",
-      "primary": false,
       "type": "kunyomi"
     },
     {
+      "primary": false,
       "reading": "しず",
-      "primary": false,
       "type": "kunyomi"
     },
     {
-      "reading": "ない",
       "primary": false,
+      "reading": "ない",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "The only way to maybe not <kanji>die</kanji> is to find <reading>boats</reading> (ぼつ). As long as the boats don't get smashed by the tsunami, you might be able to cheat death by holding onto the boats and not drowning.",
+  "primaryMeaning": "Die",
+  "otherMeanings": [],
   "meaningMnemonic": "If you figure out how to use a <radical>tsunami</radical> as a <radical>weapon</radical>, everyone is going to <kanji>die</kanji>. You can't control a tsunami, you fool. Now you've doomed us all.",
-  "vocabularyIds": [
-    7895,
-    7896,
-    7897,
-    7898,
-    7899,
-    7900,
-    7901,
-    7902,
-    7903,
-    7904,
-    7947
-  ],
-  "radicalIds": [
-    103,
-    160
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%B2%A1"
+  "readingMnemonic": "The only way to maybe not <kanji>die</kanji> is to find <reading>boats</reading> (ぼつ). As long as the boats don't get smashed by the tsunami, you might be able to cheat death by holding onto the boats and not drowning.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%B2%A1"
+  },
+  "related": {
+    "radicals": [
+      103,
+      160
+    ],
+    "vocabularies": [
+      7895,
+      7896,
+      7897,
+      7898,
+      7899,
+      7900,
+      7901,
+      7902,
+      7903,
+      7904,
+      7947
+    ]
+  }
 }

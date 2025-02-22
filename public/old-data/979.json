@@ -1,0 +1,33 @@
+{
+  "id": 979,
+  "type": "kanji",
+  "character": "浴",
+  "primaryMeaning": "Bathe",
+  "otherMeanings": [],
+  "primaryReading": "よく",
+  "readings": [
+    {
+      "reading": "よく",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "あ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You know what would make the <kanji>bath</kanji>ing experience even better? If you had some egg <reading>yolk</reading>s (よく) to eat. Just crack those yolks into the water you bathe in, and it'll cook to perfection. Yum!",
+  "meaningMnemonic": "A <radical>tsunami</radical> hits a <radical>valley</radical>, filling it up with water. Lucky for you, you're a giant, so you just lay down in the valley and use it to <kanji>bathe</kanji>.",
+  "vocabularyIds": [
+    3849,
+    3850,
+    6651,
+    8377
+  ],
+  "radicalIds": [
+    103,
+    249
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%B5%B4"
+}

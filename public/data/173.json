@@ -1,12 +1,15 @@
 {
   "id": 173,
   "type": "radical",
-  "primaryMeaning": "Wing",
-  "otherMeanings": [],
-  "character": {
+  "level": 7,
+  "characters": {
     "type": "text",
     "value": "勿"
   },
+  "primaryMeaning": "Wing",
+  "otherMeanings": [],
   "meaningMnemonic": "See the <radical>wing</radical>? It's kind of like a bat wing with webbing. Either way, it's just a wing.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/wing"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/wing"
+  }
 }

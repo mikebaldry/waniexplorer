@@ -1,0 +1,39 @@
+{
+  "id": 1795,
+  "type": "kanji",
+  "character": "包",
+  "primaryMeaning": "Wrap",
+  "otherMeanings": [],
+  "primaryReading": "ほう",
+  "readings": [
+    {
+      "reading": "ほう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "つつ",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "くる",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Think about being <kanji>wrap</kanji>ped up, nice and warm and safe in your <reading>ho</reading>me (ほう). Home is where you wrap yourself in a blanket, in the warmth of the fireplace, in the arms of those you love. ",
+  "meaningMnemonic": "The <radical>wrap</radical> radical and the <kanji>wrap</kanji> kanji are the same!",
+  "vocabularyIds": [
+    6526,
+    6527,
+    6528,
+    6650,
+    6952,
+    6956
+  ],
+  "radicalIds": [
+    395
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%8C%85"
+}

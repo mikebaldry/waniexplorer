@@ -1,0 +1,40 @@
+{
+  "id": 695,
+  "type": "kanji",
+  "character": "朝",
+  "primaryMeaning": "Morning",
+  "otherMeanings": [],
+  "primaryReading": "あさ",
+  "readings": [
+    {
+      "reading": "あさ",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "ちょう",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Every <kanji>morning</kanji> you have <reading>Asa</reading>hi (あさ) beer for breakfast.",
+  "meaningMnemonic": "There's a <radical>cross</radical> sticking out the top of the <radical>sun</radical> and another <radical>cross</radical> sticking out the bottom. The <radical>moon</radical> is off to the right. That's because it's the <kanji>morning</kanji>, which is when the sun and moon switch over. Those crosses are making sure the sun stays high in the sky for the rest of the day.",
+  "vocabularyIds": [
+    3044,
+    3045,
+    3046,
+    3935,
+    4861,
+    5359,
+    6171,
+    7070,
+    7570,
+    8703
+  ],
+  "radicalIds": [
+    15,
+    22,
+    43
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%9C%9D"
+}

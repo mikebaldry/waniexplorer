@@ -1,48 +1,21 @@
 {
   "id": 5259,
   "type": "vocabulary",
-  "characters": "大略",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "大略"
+  },
   "primaryMeaning": "Broad Outline",
+  "meaningMnemonic": "The <kanji>big</kanji> <kanji>abbreviation</kanji> is where you take everything and abbreviate it down to show the big picture. This abbreviation is the <vocabulary>broad outline</vocabulary> of something bigger.\n\n大略 is a relatively formal word commonly found in writing. It generally refers to a broader, rougher <vocabulary>outline</vocabulary> or <vocabulary>overview</vocabulary> rather than a detailed summary.",
+  "primaryReading": "たいりゃく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Outline",
     "Overview"
   ],
-  "primaryReading": "たいりゃく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 453,
-      "character": "大",
-      "readings": [
-        "たい",
-        "だい",
-        "おお",
-        "ひろ"
-      ]
-    },
-    {
-      "id": 1396,
-      "character": "略",
-      "readings": [
-        "りゃく"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The <kanji>big</kanji> <kanji>abbreviation</kanji> is where you take everything and abbreviate it down to show the big picture. This abbreviation is the <vocabulary>broad outline</vocabulary> of something bigger.\n\n大略 is a relatively formal word commonly found in writing. It generally refers to a broader, rougher <vocabulary>outline</vocabulary> or <vocabulary>overview</vocabulary> rather than a detailed summary.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A4%A7%E7%95%A5",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "大",
-      "id": 453,
-      "reading": "たい"
-    },
-    {
-      "type": "kanji",
-      "value": "略",
-      "id": 1396,
-      "reading": "りゃく"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A4%A7%E7%95%A5"
+  }
 }

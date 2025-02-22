@@ -1,32 +1,40 @@
 {
   "id": 8967,
   "type": "kanji",
-  "character": "狼",
-  "primaryMeaning": "Wolf",
-  "otherMeanings": [],
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "狼"
+  },
   "primaryReading": "おおかみ",
   "readings": [
     {
-      "reading": "おおかみ",
       "primary": true,
+      "reading": "おおかみ",
       "type": "kunyomi"
     },
     {
-      "reading": "ろう",
       "primary": false,
+      "reading": "ろう",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "A <kanji>wolf</kanji> might be good, but if you run into one, all you can do is scream <reading>Oh 神</reading>!” (おおかみ).",
+  "primaryMeaning": "Wolf",
+  "otherMeanings": [],
   "meaningMnemonic": "One <radical>animal</radical> that is particularly  <radical>good</radical> is the <kanji>wolf</kanji>. Wolves have a bad reputation, but actually they're very, very good animals.",
-  "vocabularyIds": [
-    8984,
-    8985,
-    8987
-  ],
-  "radicalIds": [
-    144,
-    8822
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%8B%BC"
+  "readingMnemonic": "A <kanji>wolf</kanji> might be good, but if you run into one, all you can do is scream <reading>Oh 神</reading>!” (おおかみ).",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%8B%BC"
+  },
+  "related": {
+    "radicals": [
+      144,
+      8822
+    ],
+    "vocabularies": [
+      8984,
+      8985,
+      8987
+    ]
+  }
 }

@@ -1,28 +1,36 @@
 {
   "id": 2111,
   "type": "kanji",
-  "character": "墳",
-  "primaryMeaning": "Tomb",
-  "otherMeanings": [],
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "墳"
+  },
   "primaryReading": "ふん",
   "readings": [
     {
-      "reading": "ふん",
       "primary": true,
+      "reading": "ふん",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "This is a <kanji>tomb</kanji>, but it feels really <reading>fun</reading> (ふん). Decorated with flowers and shellfish shells, it’s not a sad place at all. It's a fun place to remember all the fun times with people you loved.",
+  "primaryMeaning": "Tomb",
+  "otherMeanings": [],
   "meaningMnemonic": "Sticking out of the <radical>dirt</radical>, there's a <radical>cross</radical> adorned with <radical>flowers</radical> and <radical>shellfish</radical> shells. This is a <kanji>tomb</kanji>. The flowers and shellfish were put here as decorations and to honor the dead that currently lie under the dirt. And the cross marks the tomb, obviously.",
-  "vocabularyIds": [
-    7414,
-    7415
-  ],
-  "radicalIds": [
-    17,
-    15,
-    90,
-    94
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%A2%B3"
+  "readingMnemonic": "This is a <kanji>tomb</kanji>, but it feels really <reading>fun</reading> (ふん). Decorated with flowers and shellfish shells, it’s not a sad place at all. It's a fun place to remember all the fun times with people you loved.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%A2%B3"
+  },
+  "related": {
+    "radicals": [
+      17,
+      15,
+      90,
+      94
+    ],
+    "vocabularies": [
+      7414,
+      7415
+    ]
+  }
 }

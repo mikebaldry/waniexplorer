@@ -1,49 +1,20 @@
 {
   "id": 6862,
   "type": "vocabulary",
-  "characters": "小舟",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "小舟"
+  },
   "primaryMeaning": "Boat",
+  "meaningMnemonic": "A <kanji>small</kanji> <kanji>boat</kanji> is a <vocabulary>boat</vocabulary> or <vocabulary>small craft</vocabulary>. If something is a \"big boat\" it's better to call it a \"ship\" I think, which is why this is just a <vocabulary>boat</vocabulary>.",
+  "primaryReading": "こぶね",
+  "readingMnemonic": "The readings are all ones you've seen before. 小 uses its こ reading, so just think of this like a \"child boat.\" This makes sense because it's small. Watch out for the rendaku. ",
   "otherMeanings": [
     "Small Craft"
   ],
-  "primaryReading": "こぶね",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 463,
-      "character": "小",
-      "readings": [
-        "しょう",
-        "ちい",
-        "こ",
-        "お"
-      ]
-    },
-    {
-      "id": 1909,
-      "character": "舟",
-      "readings": [
-        "ふね",
-        "ふな",
-        "しゅう"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>small</kanji> <kanji>boat</kanji> is a <vocabulary>boat</vocabulary> or <vocabulary>small craft</vocabulary>. If something is a \"big boat\" it's better to call it a \"ship\" I think, which is why this is just a <vocabulary>boat</vocabulary>.",
-  "readingMnemonic": "The readings are all ones you've seen before. 小 uses its こ reading, so just think of this like a \"child boat.\" This makes sense because it's small. Watch out for the rendaku. ",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B0%8F%E8%88%9F",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "小",
-      "id": 463,
-      "reading": "こ"
-    },
-    {
-      "type": "kanji",
-      "value": "舟",
-      "id": 1909,
-      "reading": "ぶね"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%B0%8F%E8%88%9F"
+  }
 }

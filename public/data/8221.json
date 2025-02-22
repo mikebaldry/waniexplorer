@@ -1,58 +1,18 @@
 {
   "id": 8221,
   "type": "vocabulary",
-  "characters": "洗浄剤",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "洗浄剤"
+  },
   "primaryMeaning": "Detergent",
-  "otherMeanings": [],
-  "primaryReading": "せんじょうざい",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1043,
-      "character": "洗",
-      "readings": [
-        "せん",
-        "あら"
-      ]
-    },
-    {
-      "id": 2192,
-      "character": "浄",
-      "readings": [
-        "じょう",
-        "せい",
-        "きよ"
-      ]
-    },
-    {
-      "id": 1750,
-      "character": "剤",
-      "readings": [
-        "ざい"
-      ]
-    }
-  ],
   "meaningMnemonic": "You already learned that the word 洗浄 means \"washing.\" So when you're washing the laundry you have to use just the right <kanji>dose</kanji> of <vocabulary>detergent</vocabulary> to make sure they wash properly. If you use too little detergent they'll still smell, but if you use too much detergent the washer will explode with bubbles! Just be careful okay, don't end up like me.",
+  "primaryReading": "せんじょうざい",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B4%97%E6%B5%84%E5%89%A4",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "洗",
-      "id": 1043,
-      "reading": "せん"
-    },
-    {
-      "type": "kanji",
-      "value": "浄",
-      "id": 2192,
-      "reading": "じょう"
-    },
-    {
-      "type": "kanji",
-      "value": "剤",
-      "id": 1750,
-      "reading": "ざい"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B4%97%E6%B5%84%E5%89%A4"
+  }
 }

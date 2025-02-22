@@ -1,47 +1,20 @@
 {
   "id": 4257,
   "type": "vocabulary",
-  "characters": "個人",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "個人"
+  },
   "primaryMeaning": "Personal",
+  "meaningMnemonic": "In terms of an <kanji>individual</kanji> <kanji>person</kanji>... well, that's <vocabulary>personal</vocabulary>, and depends on the <vocabulary>individual</vocabulary>. Whatever it is, an individual person has personal tastes, so make sure to think of that.",
+  "primaryReading": "こじん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Individual"
   ],
-  "primaryReading": "こじん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1105,
-      "character": "個",
-      "readings": [
-        "こ"
-      ]
-    },
-    {
-      "id": 444,
-      "character": "人",
-      "readings": [
-        "にん",
-        "じん",
-        "ひと",
-        "と"
-      ]
-    }
-  ],
-  "meaningMnemonic": "In terms of an <kanji>individual</kanji> <kanji>person</kanji>... well, that's <vocabulary>personal</vocabulary>, and depends on the <vocabulary>individual</vocabulary>. Whatever it is, an individual person has personal tastes, so make sure to think of that.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%80%8B%E4%BA%BA",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "個",
-      "id": 1105,
-      "reading": "こ"
-    },
-    {
-      "type": "kanji",
-      "value": "人",
-      "id": 444,
-      "reading": "じん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%80%8B%E4%BA%BA"
+  }
 }

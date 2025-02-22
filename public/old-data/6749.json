@@ -1,0 +1,44 @@
+{
+  "id": 6749,
+  "type": "vocabulary",
+  "characters": "炉心",
+  "primaryMeaning": "Nuclear Reactor Core",
+  "otherMeanings": [],
+  "primaryReading": "ろしん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1870,
+      "character": "炉",
+      "readings": [
+        "ろ",
+        "いろり"
+      ]
+    },
+    {
+      "id": 508,
+      "character": "心",
+      "readings": [
+        "しん",
+        "こころ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>furnace</kanji> <kanji>heart</kanji> is the heart of the furnace. The heart of this particular furnace, the one we're talking about here, is the <vocabulary>nuclear reactor core</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%82%89%E5%BF%83",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "炉",
+      "id": 1870,
+      "reading": "ろ"
+    },
+    {
+      "type": "kanji",
+      "value": "心",
+      "id": 508,
+      "reading": "しん"
+    }
+  ]
+}

@@ -1,47 +1,21 @@
 {
   "id": 6607,
   "type": "vocabulary",
-  "characters": "中枢",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "中枢"
+  },
   "primaryMeaning": "Center",
+  "meaningMnemonic": "The <kanji>middle</kanji> <kanji>hinge</kanji> is the <vocabulary>center</vocabulary> <vocabulary>pivot</vocabulary> point.",
+  "primaryReading": "ちゅうすう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Centre",
     "Pivot"
   ],
-  "primaryReading": "ちゅうすう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 469,
-      "character": "中",
-      "readings": [
-        "ちゅう",
-        "なか"
-      ]
-    },
-    {
-      "id": 1821,
-      "character": "枢",
-      "readings": [
-        "すう",
-        "からくり"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The <kanji>middle</kanji> <kanji>hinge</kanji> is the <vocabulary>center</vocabulary> <vocabulary>pivot</vocabulary> point.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%AD%E6%9E%A2",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "中",
-      "id": 469,
-      "reading": "ちゅう"
-    },
-    {
-      "type": "kanji",
-      "value": "枢",
-      "id": 1821,
-      "reading": "すう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B8%AD%E6%9E%A2"
+  }
 }

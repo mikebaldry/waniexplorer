@@ -1,44 +1,18 @@
 {
   "id": 6156,
   "type": "vocabulary",
-  "characters": "需要",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "需要"
+  },
   "primaryMeaning": "Demand",
-  "otherMeanings": [],
-  "primaryReading": "じゅよう",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1675,
-      "character": "需",
-      "readings": [
-        "じゅ"
-      ]
-    },
-    {
-      "id": 737,
-      "character": "要",
-      "readings": [
-        "よう",
-        "い",
-        "かなめ"
-      ]
-    }
-  ],
   "meaningMnemonic": "You <kanji>demand</kanji> and <kanji>need</kanji> this thing, which is why you must make this <vocabulary>demand</vocabulary>.",
+  "primaryReading": "じゅよう",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9C%80%E8%A6%81",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "需",
-      "id": 1675,
-      "reading": "じゅ"
-    },
-    {
-      "type": "kanji",
-      "value": "要",
-      "id": 737,
-      "reading": "よう"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%9C%80%E8%A6%81"
+  }
 }

@@ -1,0 +1,46 @@
+{
+  "id": 6099,
+  "type": "vocabulary",
+  "characters": "弾丸",
+  "primaryMeaning": "Bullet",
+  "otherMeanings": [],
+  "primaryReading": "だんがん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1659,
+      "character": "弾",
+      "readings": [
+        "だん",
+        "ひ",
+        "はず",
+        "たま"
+      ]
+    },
+    {
+      "id": 467,
+      "character": "丸",
+      "readings": [
+        "まる",
+        "がん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Back in the day, a <kanji>bullet</kanji> was a <kanji>circle</kanji> shape. So, this word is <vocabulary>bullet</vocabulary>.",
+  "readingMnemonic": "The 弾 part is okay, but you never learned the on'yomi reading of 丸, which is がん. When you shoot a bullet, you are using a <reading>gun</reading> (がん). Bang!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BC%BE%E4%B8%B8",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "弾",
+      "id": 1659,
+      "reading": "だん"
+    },
+    {
+      "type": "kanji",
+      "value": "丸",
+      "id": 467,
+      "reading": "がん"
+    }
+  ]
+}

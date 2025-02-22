@@ -1,36 +1,44 @@
 {
   "id": 1915,
   "type": "kanji",
-  "character": "魂",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "魂"
+  },
+  "primaryReading": "こん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "こん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "たましい",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Soul",
   "otherMeanings": [
     "Spirit"
   ],
-  "primaryReading": "こん",
-  "readings": [
-    {
-      "reading": "こん",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "たましい",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "You shout out and beg its <kanji>soul</kanji> for help until, finally, you see the cloud take the shape of a <reading>con</reading>dor (こん). Aha! \"You were a condor before you became a demon! Remember who you are and turn back!\"",
   "meaningMnemonic": "The <radical>cloud</radical> floating above a <radical>demon</radical> has its <kanji>soul</kanji> in it. If you can manage to get through to the demon, to make it see that it doesn't have to be evil, it might remember who it is and return to the <kanji>spirit</kanji> it once was.",
-  "vocabularyIds": [
-    6878,
-    6879,
-    7146,
-    8245,
-    8572
-  ],
-  "radicalIds": [
-    159,
-    292
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%AD%82"
+  "readingMnemonic": "You shout out and beg its <kanji>soul</kanji> for help until, finally, you see the cloud take the shape of a <reading>con</reading>dor (こん). Aha! \"You were a condor before you became a demon! Remember who you are and turn back!\"",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%AD%82"
+  },
+  "related": {
+    "radicals": [
+      159,
+      292
+    ],
+    "vocabularies": [
+      6878,
+      6879,
+      7146,
+      8245,
+      8572
+    ]
+  }
 }

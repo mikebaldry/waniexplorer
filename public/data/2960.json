@@ -1,60 +1,20 @@
 {
   "id": 2960,
   "type": "vocabulary",
-  "characters": "二時半",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "二時半"
+  },
   "primaryMeaning": "Two Thirty",
+  "meaningMnemonic": "When it's <kanji>two</kanji> <kanji>o'clock</kanji> and a <kanji>half</kanji> what time do you think it is? That would be <vocabulary>two thirty</vocabulary>.",
+  "primaryReading": "にじはん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Half Past Two"
   ],
-  "primaryReading": "にじはん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 441,
-      "character": "二",
-      "readings": [
-        "に",
-        "ふた"
-      ]
-    },
-    {
-      "id": 662,
-      "character": "時",
-      "readings": [
-        "じ",
-        "とき"
-      ]
-    },
-    {
-      "id": 518,
-      "character": "半",
-      "readings": [
-        "はん",
-        "なか"
-      ]
-    }
-  ],
-  "meaningMnemonic": "When it's <kanji>two</kanji> <kanji>o'clock</kanji> and a <kanji>half</kanji> what time do you think it is? That would be <vocabulary>two thirty</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BA%8C%E6%99%82%E5%8D%8A",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "二",
-      "id": 441,
-      "reading": "に"
-    },
-    {
-      "type": "kanji",
-      "value": "時",
-      "id": 662,
-      "reading": "じ"
-    },
-    {
-      "type": "kanji",
-      "value": "半",
-      "id": 518,
-      "reading": "はん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BA%8C%E6%99%82%E5%8D%8A"
+  }
 }

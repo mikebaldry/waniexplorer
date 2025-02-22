@@ -1,12 +1,15 @@
 {
   "id": 254,
   "type": "radical",
-  "primaryMeaning": "Tiger",
-  "otherMeanings": [],
-  "character": {
+  "level": 17,
+  "characters": {
     "type": "text",
     "value": "虍"
   },
+  "primaryMeaning": "Tiger",
+  "otherMeanings": [],
   "meaningMnemonic": "You lost seven toes on a cliff, but you consider yourself lucky considering you got them taken off by the cliff <radical>tiger</radical> that lives in the area. Imagine a tiger taking your seven toes as you hang off the edge of a cliff if it helps. Exciting! (And also painful!)",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/tiger"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/tiger"
+  }
 }

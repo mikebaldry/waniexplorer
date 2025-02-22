@@ -1,0 +1,47 @@
+{
+  "id": 2929,
+  "type": "vocabulary",
+  "characters": "氏名",
+  "primaryMeaning": "Full Name",
+  "otherMeanings": [
+    "First And Last Name"
+  ],
+  "primaryReading": "しめい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 647,
+      "character": "氏",
+      "readings": [
+        "し",
+        "うじ"
+      ]
+    },
+    {
+      "id": 544,
+      "character": "名",
+      "readings": [
+        "めい",
+        "みょう",
+        "な"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Both of these kanji have to do with names. You have both <kanji>family name</kanji> and <kanji>name</kanji>. Both of those names together makes for a <vocabulary>First And Last Name</vocabulary>... a <vocabulary>full name</vocabulary> if you will.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B0%8F%E5%90%8D",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "氏",
+      "id": 647,
+      "reading": "し"
+    },
+    {
+      "type": "kanji",
+      "value": "名",
+      "id": 544,
+      "reading": "めい"
+    }
+  ]
+}

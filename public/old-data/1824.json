@@ -1,0 +1,35 @@
+{
+  "id": 1824,
+  "type": "kanji",
+  "character": "泊",
+  "primaryMeaning": "Overnight",
+  "otherMeanings": [],
+  "primaryReading": "はく",
+  "readings": [
+    {
+      "reading": "はく",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "と",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Your cat walks up to the white tsunami that's staying <kanji>overnight</kanji> and decides it doesn't like it, so it <reading>hack</reading>s (はく) up a hairball on it. Even that doesn't get the tsunami to leave.",
+  "meaningMnemonic": "The <radical>tsunami</radical> that is <radical>white</radical> is the most scary tsunami of all. It doesn't come in and destroy everything. No, it comes in, goes inside your door, then stays at your place <kanji>overnight</kanji>, without even asking!",
+  "vocabularyIds": [
+    6614,
+    6615,
+    6616,
+    6617,
+    6762,
+    6763
+  ],
+  "radicalIds": [
+    103,
+    52
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%B3%8A"
+}

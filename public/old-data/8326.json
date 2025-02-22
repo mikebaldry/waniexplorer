@@ -1,0 +1,44 @@
+{
+  "id": 8326,
+  "type": "vocabulary",
+  "characters": "所轄",
+  "primaryMeaning": "Jurisdiction",
+  "otherMeanings": [],
+  "primaryReading": "しょかつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 707,
+      "character": "所",
+      "readings": [
+        "しょ",
+        "ところ"
+      ]
+    },
+    {
+      "id": 2311,
+      "character": "轄",
+      "readings": [
+        "かつ",
+        "くさび"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>place</kanji> you have <kanji>control</kanji> over is your <vocabulary>jurisdiction</vocabulary>.\n\n所轄 commonly refers to the jurisdiction of a police station or other law enforcement agency, like 所轄の警察署 (the district police station) or 所轄の税務署 (the district tax office). It can also be used for government departments that have authority over certain tasks or regions, like 所轄官庁 (the authorities concerned), as well as within organizations to describe which department is responsible for specific tasks, like 所轄部門 (the responsible department).",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%89%80%E8%BD%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "所",
+      "id": 707,
+      "reading": "しょ"
+    },
+    {
+      "type": "kanji",
+      "value": "轄",
+      "id": 2311,
+      "reading": "かつ"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
-import { ChangeEventHandler, KeyboardEventHandler, MouseEventHandler, RefObject, useCallback, useRef, useState, WheelEventHandler } from 'react'
+import { ChangeEventHandler, KeyboardEventHandler, MouseEventHandler, useCallback, useRef, useState } from 'react'
 import { useNavigate } from 'react-router'
 import { useKey } from 'react-use';
 
-import db, {  SearchResult } from '../services/db.ts'
+import db, {  SearchResult } from '../db/db.ts'
 
 import SearchResultItem from './SearchResultItem.tsx';
 import KeyboardShortcuts from './KeyboardShortcuts.tsx';
@@ -44,7 +44,7 @@ function SearchOverlay() {
   }, [setOpen, handleClear]);
 
   const handleOpenResult = useCallback((searchResult: SearchResult) => {
-    navigate(`/kanji/${searchResult.id}`);
+    navigate(`/${searchResult.type}/${searchResult.id}`);
     setOpen(false);
   }, [navigate, setOpen]);
 

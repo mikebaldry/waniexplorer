@@ -1,0 +1,47 @@
+{
+  "id": 2294,
+  "type": "kanji",
+  "character": "那",
+  "primaryMeaning": "What",
+  "otherMeanings": [],
+  "primaryReading": "な",
+  "readings": [
+    {
+      "reading": "な",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "だ",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "いかん",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "なに",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "なんぞ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "A. <kanji>What</kanji> is, stab the building on the left? You stab the building on the left with your sword and what comes out is... a plate of delicious <reading>na</reading>chos (な)!\n\nB. <kanji>What</kanji> is, stab the building on the right? You stab the building on the right with your sword and what comes out is... a plate of delicious <reading>na</reading>chos (な)!",
+  "meaningMnemonic": "You're holding a <radical>sword</radical> in front of <radical>two</radical> <radical>building</radical>s. <kanji>What</kanji> will you do?\n\nA. Stab the building on the left.\n\nB. Stab the building on the right.\n\nWhat do you choose?",
+  "vocabularyIds": [
+    8242,
+    9107
+  ],
+  "radicalIds": [
+    24,
+    7,
+    176
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%82%A3"
+}

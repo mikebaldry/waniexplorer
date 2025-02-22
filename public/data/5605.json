@@ -1,48 +1,18 @@
 {
   "id": 5605,
   "type": "vocabulary",
-  "characters": "和訳",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "和訳"
+  },
   "primaryMeaning": "Japanese Translation",
-  "otherMeanings": [],
-  "primaryReading": "わやく",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 712,
-      "character": "和",
-      "readings": [
-        "わ",
-        "お",
-        "なご",
-        "やわ",
-        "かず",
-        "より"
-      ]
-    },
-    {
-      "id": 1511,
-      "character": "訳",
-      "readings": [
-        "やく",
-        "わけ"
-      ]
-    }
-  ],
   "meaningMnemonic": "Remember how 和 represents Japan? Now, take that and add <kanji>translate</kanji> to it. With that, you have <vocabulary>Japanese translation</vocabulary>.",
+  "primaryReading": "わやく",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%92%8C%E8%A8%B3",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "和",
-      "id": 712,
-      "reading": "わ"
-    },
-    {
-      "type": "kanji",
-      "value": "訳",
-      "id": 1511,
-      "reading": "やく"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%92%8C%E8%A8%B3"
+  }
 }

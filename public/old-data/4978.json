@@ -1,0 +1,38 @@
+{
+  "id": 4978,
+  "type": "vocabulary",
+  "characters": "造る",
+  "primaryMeaning": "To Construct",
+  "otherMeanings": [
+    "To Build",
+    "To Make",
+    "To Brew"
+  ],
+  "primaryReading": "つくる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1281,
+      "character": "造",
+      "readings": [
+        "ぞう",
+        "つく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji means <kanji>create</kanji>, and this word is for the creation of big things. So it means <vocabulary>to construct</vocabulary> or <vocabulary>to build</vocabulary> or <vocabulary>to make</vocabulary>, and it's usually used with ships, bridges, buildings, and other large-scale work.\n\nIt can also mean <vocabulary>to brew</vocabulary>, as in brewing sake. I guess brewing <em>is</em> like constructing, since it involves carefully choosing and mixing ingredients to get those sip-worthy creations!",
+  "readingMnemonic": "The reading is like 作る, which means \"to make.\" They have very similar meanings, but different kanji. Use 作る to help you to remember the reading of this word.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%80%A0%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "造",
+      "id": 1281,
+      "reading": "つく"
+    },
+    {
+      "type": "kana",
+      "value": "る"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 9272,
+  "type": "vocabulary",
+  "characters": "炒る",
+  "primaryMeaning": "To Roast",
+  "otherMeanings": [
+    "To Toast"
+  ],
+  "primaryReading": "いる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 9265,
+      "character": "炒",
+      "readings": [
+        "いた",
+        "い",
+        "しょう",
+        "そう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji is <kanji>fry</kanji>. You already know the verb for \"to fry\" (炒める), so this verb is for a slightly different cooking technique — <vocabulary>to roast</vocabulary>. \n\nSo what's the difference between the two? Generally speaking, 炒める involves the use of hot fat or oil, while 炒る describes a way of cooking that involves less or no oil or fat, often to dry roast things. For example, you'd use 炒める for making fried noodles or fried rice, and 炒る for roasting sesame seeds or beans.",
+  "readingMnemonic": "Since this word has okurigana (hiragana attached to the kanji) you know that it's probably going to use the kun'yomi reading. The tricky part is where this doesn't use the same kun'yomi as 炒める, so here's a mnemonic to help you remember this:\n\nNow that you know the difference between frying and roasting, we're going <vocabulary>to roast</vocabulary> our first dish: <reading>Ea</reading>gle (い)! I heard it's your favorite food, so I just had to prepare this for you. What do you mean, \"eww\"?!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%82%92%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "炒",
+      "id": 9265,
+      "reading": "い"
+    },
+    {
+      "type": "kana",
+      "value": "る"
+    }
+  ]
+}

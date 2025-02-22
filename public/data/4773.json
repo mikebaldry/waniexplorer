@@ -1,36 +1,20 @@
 {
   "id": 4773,
   "type": "vocabulary",
-  "characters": "含む",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "含む"
+  },
   "primaryMeaning": "To Include",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>include</kanji> so the verb vocab version is <vocabulary>to include</vocabulary> or <vocabulary>to contain</vocabulary>.\n\nWhile 含む can be used in everyday conversation, it’s a relatively formal word that is generally used in explanatory sentences.",
+  "primaryReading": "ふくむ",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nThey don't want <vocabulary>to include</vocabulary> you in their game? Well, \"<reading>F***</reading> (ふく) you!\" you yell at them, because they wouldn't include you.",
   "otherMeanings": [
     "To Contain"
   ],
-  "primaryReading": "ふくむ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1250,
-      "character": "含",
-      "readings": [
-        "がん",
-        "ふく"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>include</kanji> so the verb vocab version is <vocabulary>to include</vocabulary> or <vocabulary>to contain</vocabulary>.\n\nWhile 含む can be used in everyday conversation, it’s a relatively formal word that is generally used in explanatory sentences.",
-  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nThey don't want <vocabulary>to include</vocabulary> you in their game? Well, \"<reading>F***</reading> (ふく) you!\" you yell at them, because they wouldn't include you.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%90%AB%E3%82%80",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "含",
-      "id": 1250,
-      "reading": "ふく"
-    },
-    {
-      "type": "kana",
-      "value": "む"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%90%AB%E3%82%80"
+  }
 }

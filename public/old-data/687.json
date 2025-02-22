@@ -1,0 +1,46 @@
+{
+  "id": 687,
+  "type": "kanji",
+  "character": "決",
+  "primaryMeaning": "Decide",
+  "otherMeanings": [
+    "Decision"
+  ],
+  "primaryReading": "けつ",
+  "readings": [
+    {
+      "reading": "けつ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "き",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "To remember the reading けつ we always use the word \"ketsup.\" It's a special mix of ketchup and catsup (yum!)\n\nYou finally <kanji>decide</kanji>. You're going to go with the tsunami... but not just any tsunami. You'll kill him with a tsunami of <reading>ketsu</reading>p (けつ).",
+  "meaningMnemonic": "You have at your disposal a <radical>tsunami</radical> and a <radical>hook</radical> to assassinate this <radical>person</radical>. Which weapon will you choose. <kanji>Decide</kanji> now!",
+  "vocabularyIds": [
+    3017,
+    3018,
+    3019,
+    3020,
+    3021,
+    3101,
+    3492,
+    3505,
+    4074,
+    4465,
+    5418,
+    5528,
+    5626,
+    6659
+  ],
+  "radicalIds": [
+    103,
+    9,
+    157
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%B1%BA"
+}

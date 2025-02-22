@@ -1,37 +1,45 @@
 {
   "id": 1772,
   "type": "kanji",
-  "character": "隣",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "隣"
+  },
+  "primaryReading": "りん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "りん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "となり",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Neighbor",
   "otherMeanings": [
     "Neighbour"
   ],
-  "primaryReading": "りん",
-  "readings": [
-    {
-      "reading": "りん",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "となり",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "Your <kanji>neighbor</kanji> has an incredible <reading>rin</reading>g (りん) that they use for their rice dance.",
   "meaningMnemonic": "Inside that <radical>building</radical> someone is doing a <radical>rice</radical> <radical>dance</radical>. That someone is your <kanji>neighbor</kanji>.",
-  "vocabularyIds": [
-    6446,
-    6447,
-    6448,
-    6449,
-    6450
-  ],
-  "radicalIds": [
-    176,
-    98,
-    429
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%9A%A3"
+  "readingMnemonic": "Your <kanji>neighbor</kanji> has an incredible <reading>rin</reading>g (りん) that they use for their rice dance.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%9A%A3"
+  },
+  "related": {
+    "radicals": [
+      176,
+      98,
+      429
+    ],
+    "vocabularies": [
+      6446,
+      6447,
+      6448,
+      6449,
+      6450
+    ]
+  }
 }

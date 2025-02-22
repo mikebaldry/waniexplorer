@@ -1,30 +1,18 @@
 {
   "id": 5979,
   "type": "vocabulary",
-  "characters": "幅",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "幅"
+  },
   "primaryMeaning": "Width",
-  "otherMeanings": [],
-  "primaryReading": "はば",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1621,
-      "character": "幅",
-      "readings": [
-        "はば",
-        "ふく"
-      ]
-    }
-  ],
   "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "はば",
   "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B9%85",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "幅",
-      "id": 1621,
-      "reading": "はば"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%B9%85"
+  }
 }

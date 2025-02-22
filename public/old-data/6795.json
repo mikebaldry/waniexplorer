@@ -1,0 +1,32 @@
+{
+  "id": 6795,
+  "type": "vocabulary",
+  "characters": "謎",
+  "primaryMeaning": "Mystery",
+  "otherMeanings": [
+    "Riddle"
+  ],
+  "primaryReading": "なぞ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1881,
+      "character": "謎",
+      "readings": [
+        "なぞ",
+        "めい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>riddle</kanji> is a <vocabulary>riddle</vocabulary>, but in this case, more of a <vocabulary>mystery</vocabulary>.",
+  "readingMnemonic": "The reading is the one you learned with the kanji. No <vocabulary>mystery</vocabulary> there, I suppose.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%AC%8E",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "謎",
+      "id": 1881,
+      "reading": "なぞ"
+    }
+  ]
+}

@@ -1,46 +1,21 @@
 {
   "id": 4512,
   "type": "vocabulary",
-  "characters": "案内",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "案内"
+  },
   "primaryMeaning": "Guide",
+  "meaningMnemonic": "The <kanji>plan</kanji> <kanji>inside</kanji> this piece of paper is the <vocabulary>guide</vocabulary> you'll be using. It's a plan. It's inside. Use it as your guide!\n\nDepending on the context, this can also be <vocabulary>information</vocabulary> and even <vocabulary>invitation</vocabulary>. These are all things that guide you in some way, after all.",
+  "primaryReading": "あんない",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Information",
     "Invitation"
   ],
-  "primaryReading": "あんない",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1163,
-      "character": "案",
-      "readings": [
-        "あん"
-      ]
-    },
-    {
-      "id": 500,
-      "character": "内",
-      "readings": [
-        "ない",
-        "うち"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The <kanji>plan</kanji> <kanji>inside</kanji> this piece of paper is the <vocabulary>guide</vocabulary> you'll be using. It's a plan. It's inside. Use it as your guide!\n\nDepending on the context, this can also be <vocabulary>information</vocabulary> and even <vocabulary>invitation</vocabulary>. These are all things that guide you in some way, after all.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%A1%88%E5%86%85",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "案",
-      "id": 1163,
-      "reading": "あん"
-    },
-    {
-      "type": "kanji",
-      "value": "内",
-      "id": 500,
-      "reading": "ない"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%A1%88%E5%86%85"
+  }
 }

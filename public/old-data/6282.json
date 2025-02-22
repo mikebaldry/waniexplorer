@@ -1,0 +1,47 @@
+{
+  "id": 6282,
+  "type": "vocabulary",
+  "characters": "群集",
+  "primaryMeaning": "Crowd",
+  "otherMeanings": [
+    "Multitude"
+  ],
+  "primaryReading": "ぐんしゅう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1719,
+      "character": "群",
+      "readings": [
+        "ぐん",
+        "む",
+        "むら"
+      ]
+    },
+    {
+      "id": 754,
+      "character": "集",
+      "readings": [
+        "しゅう",
+        "あつ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>flock</kanji> that has <kanji>gather</kanji>ed is a <vocabulary>crowd</vocabulary> and <vocabulary>multitude</vocabulary>. Because, well, lots of things gathering.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%BE%A4%E9%9B%86",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "群",
+      "id": 1719,
+      "reading": "ぐん"
+    },
+    {
+      "type": "kanji",
+      "value": "集",
+      "id": 754,
+      "reading": "しゅう"
+    }
+  ]
+}

@@ -1,45 +1,20 @@
 {
   "id": 5208,
   "type": "vocabulary",
-  "characters": "記録",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "記録"
+  },
   "primaryMeaning": "Record",
+  "meaningMnemonic": "<kanji>Write down</kanji> a <kanji>record</kanji> of the events so we have a <vocabulary>record</vocabulary>, please. Don't want people to forget about this momentous occasion, when King Felix got his perfect game.",
+  "primaryReading": "きろく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Document"
   ],
-  "primaryReading": "きろく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 664,
-      "character": "記",
-      "readings": [
-        "き",
-        "しる"
-      ]
-    },
-    {
-      "id": 1358,
-      "character": "録",
-      "readings": [
-        "ろく"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Write down</kanji> a <kanji>record</kanji> of the events so we have a <vocabulary>record</vocabulary>, please. Don't want people to forget about this momentous occasion, when King Felix got his perfect game.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A8%98%E9%8C%B2",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "記",
-      "id": 664,
-      "reading": "き"
-    },
-    {
-      "type": "kanji",
-      "value": "録",
-      "id": 1358,
-      "reading": "ろく"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%A8%98%E9%8C%B2"
+  }
 }

@@ -1,46 +1,21 @@
 {
   "id": 8606,
   "type": "vocabulary",
-  "characters": "坑道",
+  "level": 60,
+  "characters": {
+    "type": "text",
+    "value": "坑道"
+  },
   "primaryMeaning": "Tunnel",
+  "meaningMnemonic": "A <kanji>pit</kanji> that's used as a <kanji>road</kanji> is called a <vocabulary>tunnel</vocabulary>. Or a <vocabulary>mine</vocabulary>, if they're taking valuable things out of it.",
+  "primaryReading": "こうどう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Mine",
     "Shaft"
   ],
-  "primaryReading": "こうどう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2439,
-      "character": "坑",
-      "readings": [
-        "こう"
-      ]
-    },
-    {
-      "id": 700,
-      "character": "道",
-      "readings": [
-        "どう",
-        "みち"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>pit</kanji> that's used as a <kanji>road</kanji> is called a <vocabulary>tunnel</vocabulary>. Or a <vocabulary>mine</vocabulary>, if they're taking valuable things out of it.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%9D%91%E9%81%93",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "坑",
-      "id": 2439,
-      "reading": "こう"
-    },
-    {
-      "type": "kanji",
-      "value": "道",
-      "id": 700,
-      "reading": "どう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%9D%91%E9%81%93"
+  }
 }

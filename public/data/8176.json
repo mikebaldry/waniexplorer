@@ -1,43 +1,18 @@
 {
   "id": 8176,
   "type": "vocabulary",
-  "characters": "鯨肉",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "鯨肉"
+  },
   "primaryMeaning": "Whale Meat",
-  "otherMeanings": [],
-  "primaryReading": "げいにく",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2225,
-      "character": "鯨",
-      "readings": [
-        "げい",
-        "くじら"
-      ]
-    },
-    {
-      "id": 577,
-      "character": "肉",
-      "readings": [
-        "にく"
-      ]
-    }
-  ],
   "meaningMnemonic": "<kanji>Whale</kanji> <kanji>meat</kanji> is <vocabulary>whale meat</vocabulary>.",
+  "primaryReading": "げいにく",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%AF%A8%E8%82%89",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "鯨",
-      "id": 2225,
-      "reading": "げい"
-    },
-    {
-      "type": "kanji",
-      "value": "肉",
-      "id": 577,
-      "reading": "にく"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%AF%A8%E8%82%89"
+  }
 }

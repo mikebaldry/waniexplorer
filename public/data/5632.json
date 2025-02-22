@@ -1,46 +1,20 @@
 {
   "id": 5632,
   "type": "vocabulary",
-  "characters": "宝石",
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "宝石"
+  },
   "primaryMeaning": "Jewel",
+  "meaningMnemonic": "A <kanji>treasure</kanji> <kanji>stone</kanji> is a very valuable stone. What kind of stones are considered treasures? How about a <vocabulary>jewel</vocabulary>, or a <vocabulary>gem</vocabulary>?",
+  "primaryReading": "ほうせき",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Gem"
   ],
-  "primaryReading": "ほうせき",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1520,
-      "character": "宝",
-      "readings": [
-        "ほう",
-        "たから"
-      ]
-    },
-    {
-      "id": 493,
-      "character": "石",
-      "readings": [
-        "せき",
-        "いし"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>treasure</kanji> <kanji>stone</kanji> is a very valuable stone. What kind of stones are considered treasures? How about a <vocabulary>jewel</vocabulary>, or a <vocabulary>gem</vocabulary>?",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AE%9D%E7%9F%B3",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "宝",
-      "id": 1520,
-      "reading": "ほう"
-    },
-    {
-      "type": "kanji",
-      "value": "石",
-      "id": 493,
-      "reading": "せき"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%AE%9D%E7%9F%B3"
+  }
 }

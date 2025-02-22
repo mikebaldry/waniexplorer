@@ -1,46 +1,20 @@
 {
   "id": 5797,
   "type": "vocabulary",
-  "characters": "指揮",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "指揮"
+  },
   "primaryMeaning": "Command",
+  "meaningMnemonic": "Take your <kanji>finger</kanji> and <kanji>brandish</kanji> it to <vocabulary>command</vocabulary> the troops. ",
+  "primaryReading": "しき",
+  "readingMnemonic": "The readings are the on'yomi readings, so if you know those you may take command of this vocab word.",
   "otherMeanings": [
     "Lead"
   ],
-  "primaryReading": "しき",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 797,
-      "character": "指",
-      "readings": [
-        "し",
-        "ゆび",
-        "さ"
-      ]
-    },
-    {
-      "id": 1566,
-      "character": "揮",
-      "readings": [
-        "き"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Take your <kanji>finger</kanji> and <kanji>brandish</kanji> it to <vocabulary>command</vocabulary> the troops. ",
-  "readingMnemonic": "The readings are the on'yomi readings, so if you know those you may take command of this vocab word.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8C%87%E6%8F%AE",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "指",
-      "id": 797,
-      "reading": "し"
-    },
-    {
-      "type": "kanji",
-      "value": "揮",
-      "id": 1566,
-      "reading": "き"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%8C%87%E6%8F%AE"
+  }
 }

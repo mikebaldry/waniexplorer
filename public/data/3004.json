@@ -1,60 +1,18 @@
 {
   "id": 3004,
   "type": "vocabulary",
-  "characters": "君主国",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "君主国"
+  },
   "primaryMeaning": "Monarchy",
-  "otherMeanings": [],
-  "primaryReading": "くんしゅこく",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 682,
-      "character": "君",
-      "readings": [
-        "くん",
-        "きみ"
-      ]
-    },
-    {
-      "id": 528,
-      "character": "主",
-      "readings": [
-        "しゅ",
-        "おも",
-        "ぬし",
-        "あるじ"
-      ]
-    },
-    {
-      "id": 621,
-      "character": "国",
-      "readings": [
-        "こく",
-        "くに"
-      ]
-    }
-  ],
   "meaningMnemonic": "One <kanji>ruler</kanji> is the <kanji>master</kanji> of this entire <kanji>country</kanji>. Why, this sounds quite like a <vocabulary>monarchy</vocabulary> to me. ",
+  "primaryReading": "くんしゅこく",
   "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%90%9B%E4%B8%BB%E5%9B%BD",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "君",
-      "id": 682,
-      "reading": "くん"
-    },
-    {
-      "type": "kanji",
-      "value": "主",
-      "id": 528,
-      "reading": "しゅ"
-    },
-    {
-      "type": "kanji",
-      "value": "国",
-      "id": 621,
-      "reading": "こく"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%90%9B%E4%B8%BB%E5%9B%BD"
+  }
 }

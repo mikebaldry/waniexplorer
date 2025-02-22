@@ -1,37 +1,45 @@
 {
   "id": 595,
   "type": "kanji",
-  "character": "走",
-  "primaryMeaning": "Run",
-  "otherMeanings": [],
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "走"
+  },
   "primaryReading": "そう",
   "readings": [
     {
-      "reading": "そう",
       "primary": true,
+      "reading": "そう",
       "type": "onyomi"
     },
     {
-      "reading": "はし",
       "primary": false,
+      "reading": "はし",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "You <kanji>run</kanji> and run and run and suddenly you feel your <reading>sou</reading>l (そう) leave your body. Still running, you turn around and see your soul running a few steps behind you.",
+  "primaryMeaning": "Run",
+  "otherMeanings": [],
   "meaningMnemonic": "The radical <radical>run</radical> and the kanji <kanji>run</kanji> are exactly the same!",
-  "vocabularyIds": [
-    2840,
-    2841,
-    3464,
-    4213,
-    4399,
-    4502,
-    8122,
-    8443,
-    8450
-  ],
-  "radicalIds": [
-    124
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%B5%B0"
+  "readingMnemonic": "You <kanji>run</kanji> and run and run and suddenly you feel your <reading>sou</reading>l (そう) leave your body. Still running, you turn around and see your soul running a few steps behind you.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%B5%B0"
+  },
+  "related": {
+    "radicals": [
+      124
+    ],
+    "vocabularies": [
+      2840,
+      2841,
+      3464,
+      4213,
+      4399,
+      4502,
+      8122,
+      8443,
+      8450
+    ]
+  }
 }

@@ -1,0 +1,36 @@
+{
+  "id": 6137,
+  "type": "vocabulary",
+  "characters": "葬る",
+  "primaryMeaning": "To Bury",
+  "otherMeanings": [
+    "To Inter"
+  ],
+  "primaryReading": "ほうむる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1674,
+      "character": "葬",
+      "readings": [
+        "そう",
+        "ほうむ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>burial</kanji>, so the verb version would be <vocabulary>to bury</vocabulary> or <vocabulary>to inter</vocabulary>.",
+  "readingMnemonic": "We're going <vocabulary>to bury</vocabulary> you, so this is your new <reading>home</reading> (ほうむ) now, friend.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%91%AC%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "葬",
+      "id": 1674,
+      "reading": "ほうむ"
+    },
+    {
+      "type": "kana",
+      "value": "る"
+    }
+  ]
+}

@@ -1,47 +1,21 @@
 {
   "id": 8489,
   "type": "vocabulary",
-  "characters": "縫目",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "縫目"
+  },
   "primaryMeaning": "Seam",
+  "meaningMnemonic": "Remember how 縫う means \"to sew.\" Well the only way you can see if a pair of jeans has been sewed with your <kanji>eye</kanji> is if you see a <vocabulary>seam</vocabulary>. If your eyes can't spot the <vocabulary>stitch</vocabulary>es, then it probably wasn't sewed at all. Maybe it was superglued together.",
+  "primaryReading": "ぬいめ",
+  "readingMnemonic": "This is a combination of the words 縫う and 目. Both use the kun'yomi readings so just change the う to い and it's easy! You'll also see this word spelled 縫い目 too. They're exactly the same!",
   "otherMeanings": [
     "Stitch",
     "Suture"
   ],
-  "primaryReading": "ぬいめ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2299,
-      "character": "縫",
-      "readings": [
-        "ほう",
-        "ぬ"
-      ]
-    },
-    {
-      "id": 492,
-      "character": "目",
-      "readings": [
-        "め",
-        "もく"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Remember how 縫う means \"to sew.\" Well the only way you can see if a pair of jeans has been sewed with your <kanji>eye</kanji> is if you see a <vocabulary>seam</vocabulary>. If your eyes can't spot the <vocabulary>stitch</vocabulary>es, then it probably wasn't sewed at all. Maybe it was superglued together.",
-  "readingMnemonic": "This is a combination of the words 縫う and 目. Both use the kun'yomi readings so just change the う to い and it's easy! You'll also see this word spelled 縫い目 too. They're exactly the same!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B8%AB%E7%9B%AE",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "縫",
-      "id": 2299,
-      "reading": "ぬ"
-    },
-    {
-      "type": "kanji",
-      "value": "目",
-      "id": 492,
-      "reading": null
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%B8%AB%E7%9B%AE"
+  }
 }

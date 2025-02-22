@@ -1,50 +1,23 @@
 {
   "id": 8222,
   "type": "vocabulary",
-  "characters": "南瓜",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "南瓜"
+  },
   "primaryMeaning": "Pumpkin",
+  "meaningMnemonic": "<kanji>Melon</kanji>s from the <kanji>south</kanji> are lumpy and orange, sometimes orange and green because they try to look like the hot sun. Wait, those aren't melons, they're <vocabulary>pumpkin</vocabulary>s and <vocabulary>squash</vocabulary>. Or... kind of a mix of the two, if you already know what <vocabulary>kabocha</vocabulary> tastes like. ",
+  "primaryReading": "かぼちゃ",
+  "readingMnemonic": "The reading for this is an exception, so here's a mnemonic to help you remember it:\n\nJapanese <vocabulary>pumpkin</vocabulary>s don't taste like American pumpkins. They taste more like <reading>can</reading>ned <reading>bo</reading>iled <reading>cho</reading>colate (かぼちゃ). Oh, you don't know that either? Well then just taste the pumpkin and you'll know what that tastes like too.\n\nThis word is also sometimes read なんきん, especially in the east of Japan.",
   "otherMeanings": [
     "Squash",
     "Kabocha"
   ],
-  "primaryReading": "かぼちゃ",
   "otherReadings": [
     "なんきん"
   ],
-  "kanji": [
-    {
-      "id": 634,
-      "character": "南",
-      "readings": [
-        "なん",
-        "みなみ"
-      ]
-    },
-    {
-      "id": 2218,
-      "character": "瓜",
-      "readings": [
-        "か",
-        "け",
-        "うり"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Melon</kanji>s from the <kanji>south</kanji> are lumpy and orange, sometimes orange and green because they try to look like the hot sun. Wait, those aren't melons, they're <vocabulary>pumpkin</vocabulary>s and <vocabulary>squash</vocabulary>. Or... kind of a mix of the two, if you already know what <vocabulary>kabocha</vocabulary> tastes like. ",
-  "readingMnemonic": "The reading for this is an exception, so here's a mnemonic to help you remember it:\n\nJapanese <vocabulary>pumpkin</vocabulary>s don't taste like American pumpkins. They taste more like <reading>can</reading>ned <reading>bo</reading>iled <reading>cho</reading>colate (かぼちゃ). Oh, you don't know that either? Well then just taste the pumpkin and you'll know what that tastes like too.\n\nThis word is also sometimes read なんきん, especially in the east of Japan.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8D%97%E7%93%9C",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "南",
-      "id": 634,
-      "reading": null
-    },
-    {
-      "type": "kanji",
-      "value": "瓜",
-      "id": 2218,
-      "reading": "か"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%8D%97%E7%93%9C"
+  }
 }

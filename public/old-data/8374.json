@@ -1,0 +1,32 @@
+{
+  "id": 8374,
+  "type": "vocabulary",
+  "characters": "楓",
+  "primaryMeaning": "Maple",
+  "otherMeanings": [
+    "Maple Tree"
+  ],
+  "primaryReading": "かえで",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2360,
+      "character": "楓",
+      "readings": [
+        "かえで",
+        "ふう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%A5%93",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "楓",
+      "id": 2360,
+      "reading": "かえで"
+    }
+  ]
+}

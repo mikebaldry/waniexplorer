@@ -1,32 +1,40 @@
 {
   "id": 1831,
   "type": "kanji",
-  "character": "綱",
-  "primaryMeaning": "Rope",
-  "otherMeanings": [],
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "綱"
+  },
   "primaryReading": "つな",
   "readings": [
     {
-      "reading": "つな",
       "primary": true,
+      "reading": "つな",
       "type": "kunyomi"
     },
     {
-      "reading": "こう",
       "primary": false,
+      "reading": "こう",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "Congratulations, now you have a perfect rope for <reading>tuna</reading> (つな) fishing. Tunas are massive, so you need a strong rope to reel one in.",
+  "primaryMeaning": "Rope",
+  "otherMeanings": [],
   "meaningMnemonic": "If you take a <radical>thread</radical> and wrap up a bunch of it, so much it becomes a <radical>hill</radical> of thread, you're going to have a lot of thread. You can wrap some of that thread around other thread to create a much thicker thread. This thread is a <kanji>rope</kanji>.",
-  "vocabularyIds": [
-    6630,
-    6631,
-    6632
-  ],
-  "radicalIds": [
-    86,
-    376
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%B6%B1"
+  "readingMnemonic": "Congratulations, now you have a perfect rope for <reading>tuna</reading> (つな) fishing. Tunas are massive, so you need a strong rope to reel one in.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%B6%B1"
+  },
+  "related": {
+    "radicals": [
+      86,
+      376
+    ],
+    "vocabularies": [
+      6630,
+      6631,
+      6632
+    ]
+  }
 }

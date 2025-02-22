@@ -1,30 +1,38 @@
 {
   "id": 1363,
   "type": "kanji",
-  "character": "奇",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "奇"
+  },
+  "primaryReading": "き",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "き",
+      "type": "onyomi"
+    }
+  ],
   "primaryMeaning": "Odd",
   "otherMeanings": [
     "Strange"
   ],
-  "primaryReading": "き",
-  "readings": [
-    {
-      "reading": "き",
-      "primary": true,
-      "type": "onyomi"
-    }
-  ],
-  "readingMnemonic": "You're <kanji>odd</kanji> too, just like this kanji. But you don't want anyone to know, so you lock away your <kanji>strange</kanji> habits with a <reading>key</reading> (き).",
   "meaningMnemonic": "The <radical>odd</radical> radical and the <kanji>odd</kanji> kanji are the same. They're both... really <kanji>strange</kanji>.",
-  "vocabularyIds": [
-    5305,
-    5306,
-    5307,
-    6105,
-    6663
-  ],
-  "radicalIds": [
-    326
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%A5%87"
+  "readingMnemonic": "You're <kanji>odd</kanji> too, just like this kanji. But you don't want anyone to know, so you lock away your <kanji>strange</kanji> habits with a <reading>key</reading> (き).",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%A5%87"
+  },
+  "related": {
+    "radicals": [
+      326
+    ],
+    "vocabularies": [
+      5305,
+      5306,
+      5307,
+      6105,
+      6663
+    ]
+  }
 }

@@ -1,46 +1,20 @@
 {
   "id": 4006,
   "type": "vocabulary",
-  "characters": "失敗",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "失敗"
+  },
   "primaryMeaning": "Failure",
+  "meaningMnemonic": "A <kanji>fault</kanji> and a <kanji>failure</kanji>, all in one. This must have been one big <vocabulary>failure</vocabulary> and <vocabulary>mistake</vocabulary> you've made.",
+  "primaryReading": "しっぱい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. The 失 gets shortened, and 敗 gets rendaku'd, though. Don't make that 失敗.",
   "otherMeanings": [
     "Mistake"
   ],
-  "primaryReading": "しっぱい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 654,
-      "character": "失",
-      "readings": [
-        "しつ",
-        "うしな"
-      ]
-    },
-    {
-      "id": 1004,
-      "character": "敗",
-      "readings": [
-        "はい",
-        "やぶ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>fault</kanji> and a <kanji>failure</kanji>, all in one. This must have been one big <vocabulary>failure</vocabulary> and <vocabulary>mistake</vocabulary> you've made.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. The 失 gets shortened, and 敗 gets rendaku'd, though. Don't make that 失敗.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A4%B1%E6%95%97",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "失",
-      "id": 654,
-      "reading": "しっ"
-    },
-    {
-      "type": "kanji",
-      "value": "敗",
-      "id": 1004,
-      "reading": "ぱい"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A4%B1%E6%95%97"
+  }
 }

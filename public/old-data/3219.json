@@ -1,0 +1,34 @@
+{
+  "id": 3219,
+  "type": "vocabulary",
+  "characters": "横",
+  "primaryMeaning": "Side",
+  "otherMeanings": [
+    "Beside",
+    "Next To",
+    "Horizontal"
+  ],
+  "primaryReading": "よこ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 768,
+      "character": "横",
+      "readings": [
+        "よこ",
+        "おう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well. Please note that this word refers to \"the side of something.\" Not \"the left side,\" for example. That would be 左側.",
+  "readingMnemonic": "The reading for this vocab is the same as the one you learned with the kanji, lucky you!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%A8%AA",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "横",
+      "id": 768,
+      "reading": "よこ"
+    }
+  ]
+}

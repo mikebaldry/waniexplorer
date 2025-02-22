@@ -1,43 +1,18 @@
 {
   "id": 9049,
   "type": "vocabulary",
-  "characters": "乗客",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "乗客"
+  },
   "primaryMeaning": "Passenger",
-  "otherMeanings": [],
-  "primaryReading": "じょうきゃく",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 722,
-      "character": "乗",
-      "readings": [
-        "の",
-        "じょう"
-      ]
-    },
-    {
-      "id": 723,
-      "character": "客",
-      "readings": [
-        "きゃく"
-      ]
-    }
-  ],
   "meaningMnemonic": "If you take a <kanji>ride</kanji> as a <kanji>guest</kanji> (or a <kanji>customer</kanji>), that makes you a <vocabulary>passenger</vocabulary>.",
+  "primaryReading": "じょうきゃく",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You hopefully learned the on'yomi for 乗 with the word 乗馬, but here's a mnemonic to help you just in case:\n\nYou notice a <vocabulary>passenger</vocabulary> getting on at your stop. Who is it? The distinct smell of barn animals and manure gives it away immediately: it’s <reading>Joe</reading> (じょう), the farmhand!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B9%97%E5%AE%A2",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "乗",
-      "id": 722,
-      "reading": "じょう"
-    },
-    {
-      "type": "kanji",
-      "value": "客",
-      "id": 723,
-      "reading": "きゃく"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B9%97%E5%AE%A2"
+  }
 }

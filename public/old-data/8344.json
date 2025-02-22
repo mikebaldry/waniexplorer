@@ -1,0 +1,51 @@
+{
+  "id": 8344,
+  "type": "vocabulary",
+  "characters": "間伐",
+  "primaryMeaning": "Tree Thinning",
+  "otherMeanings": [
+    "Thinning",
+    "Periodic Thinning"
+  ],
+  "primaryReading": "かんばつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 701,
+      "character": "間",
+      "readings": [
+        "かん",
+        "けん",
+        "あいだ",
+        "ま"
+      ]
+    },
+    {
+      "id": 2335,
+      "character": "伐",
+      "readings": [
+        "ばつ",
+        "う",
+        "き",
+        "そむ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Fell</kanji> trees in <kanji>interval</kanji>s, instead of all at once, and it's called <vocabulary>tree thinning</vocabulary>. That way there's still some forest there, but you get your wood to use for other things too. ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%96%93%E4%BC%90",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "間",
+      "id": 701,
+      "reading": "かん"
+    },
+    {
+      "type": "kanji",
+      "value": "伐",
+      "id": 2335,
+      "reading": "ばつ"
+    }
+  ]
+}

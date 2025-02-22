@@ -1,50 +1,23 @@
 {
   "id": 8103,
   "type": "vocabulary",
-  "characters": "銀杏",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "銀杏"
+  },
   "primaryMeaning": "Ginkgo",
+  "meaningMnemonic": "If it looks like a <kanji>silver</kanji> <kanji>apricot</kanji>, it's probably a <vocabulary>ginkgo</vocabulary>. Ever seen a <vocabulary>ginkgo nut</vocabulary> from a <vocabulary>ginkgo tree</vocabulary>? They really do look like little silver apricots. (Go ahead and google it if you don't believe me.)",
+  "primaryReading": "いちょう",
+  "readingMnemonic": "This word is an exception. You'd think it would be the same in Japanese as it is in English, but it's not. And it has two different readings and meanings. Yikes, sorry. Here's a mnemonic to help you out:\n\nBefore you read this PLEASE PLEASE REMEMBER this is NOT a jukugo word. It's weird. You're gonna want to type ぎんこう but that's wrong. Stop that now.\n\nWhen you think of the <vocabulary>ginkgo tree</vocabulary> meaning, think about this: Ginkgos are a favorite nesting place for <reading>ea</reading>gles (い), but evil Mrs. <reading>Chou</reading> (ちょう) likes to eat eagles AND whole ginkgo trees. She prefers eating eagles WHILE THEY'RE IN THE GINKGO TREES AND STILL ALIVE. So いちょう. Eagles and Mrs. Chou. And ginkgo trees. It's horrible to think about. Just like this reading not being jukugo.\n\nThe other reading is for the <vocabulary>ginkgo nut</vocabulary> meaning. The nut tastes like <reading>銀</reading> (ぎん) <reading>naan</reading> (なん). Mmm, soft and metallic — but still not a jukugo word. How sad for you and all Japanese learners everywhere.",
   "otherMeanings": [
     "Ginkgo Nut",
     "Ginkgo Tree"
   ],
-  "primaryReading": "いちょう",
   "otherReadings": [
     "ぎんなん"
   ],
-  "kanji": [
-    {
-      "id": 871,
-      "character": "銀",
-      "readings": [
-        "ぎん"
-      ]
-    },
-    {
-      "id": 2257,
-      "character": "杏",
-      "readings": [
-        "あんず",
-        "あん",
-        "きょう",
-        "こう"
-      ]
-    }
-  ],
-  "meaningMnemonic": "If it looks like a <kanji>silver</kanji> <kanji>apricot</kanji>, it's probably a <vocabulary>ginkgo</vocabulary>. Ever seen a <vocabulary>ginkgo nut</vocabulary> from a <vocabulary>ginkgo tree</vocabulary>? They really do look like little silver apricots. (Go ahead and google it if you don't believe me.)",
-  "readingMnemonic": "This word is an exception. You'd think it would be the same in Japanese as it is in English, but it's not. And it has two different readings and meanings. Yikes, sorry. Here's a mnemonic to help you out:\n\nBefore you read this PLEASE PLEASE REMEMBER this is NOT a jukugo word. It's weird. You're gonna want to type ぎんこう but that's wrong. Stop that now.\n\nWhen you think of the <vocabulary>ginkgo tree</vocabulary> meaning, think about this: Ginkgos are a favorite nesting place for <reading>ea</reading>gles (い), but evil Mrs. <reading>Chou</reading> (ちょう) likes to eat eagles AND whole ginkgo trees. She prefers eating eagles WHILE THEY'RE IN THE GINKGO TREES AND STILL ALIVE. So いちょう. Eagles and Mrs. Chou. And ginkgo trees. It's horrible to think about. Just like this reading not being jukugo.\n\nThe other reading is for the <vocabulary>ginkgo nut</vocabulary> meaning. The nut tastes like <reading>銀</reading> (ぎん) <reading>naan</reading> (なん). Mmm, soft and metallic — but still not a jukugo word. How sad for you and all Japanese learners everywhere.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%8A%80%E6%9D%8F",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "銀",
-      "id": 871,
-      "reading": null
-    },
-    {
-      "type": "kanji",
-      "value": "杏",
-      "id": 2257,
-      "reading": null
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%8A%80%E6%9D%8F"
+  }
 }

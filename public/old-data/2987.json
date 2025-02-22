@@ -1,0 +1,48 @@
+{
+  "id": 2987,
+  "type": "vocabulary",
+  "characters": "黄色",
+  "primaryMeaning": "Yellow",
+  "otherMeanings": [
+    "Yellow Color",
+    "Color Yellow"
+  ],
+  "primaryReading": "きいろ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 676,
+      "character": "黄",
+      "readings": [
+        "き",
+        "おう"
+      ]
+    },
+    {
+      "id": 579,
+      "character": "色",
+      "readings": [
+        "いろ",
+        "しき",
+        "しょく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>yellow</kanji> <kanji>color</kanji> is just the color <vocabulary>yellow</vocabulary>.",
+  "readingMnemonic": "The readings are the same as the readings you learned with the kanji meaning you should be able to read this word right off the bat.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%BB%84%E8%89%B2",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "黄",
+      "id": 676,
+      "reading": "き"
+    },
+    {
+      "type": "kanji",
+      "value": "色",
+      "id": 579,
+      "reading": "いろ"
+    }
+  ]
+}

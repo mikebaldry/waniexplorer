@@ -1,0 +1,30 @@
+{
+  "id": 2005,
+  "type": "kanji",
+  "character": "爽",
+  "primaryMeaning": "Refreshing",
+  "otherMeanings": [],
+  "primaryReading": "さわ",
+  "readings": [
+    {
+      "reading": "さわ",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "そう",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "You’d had a <reading>sour</reading> (さわ) taste in your mouth for not being able to find any treasure treasure treasure treasure for such a long time, but now that you found this big one, the sour taste is totally gone and it’s sooooo <kanji>refreshing</kanji>!",
+  "meaningMnemonic": "A <radical>big</radical> <radical>treasure</radical> <radical>treasure</radical> <radical>treasure</radical> <radical>treasure</radical> is <kanji>refreshing</kanji>! Sorry, I can’t say treasure treasure treasure treasure without saying it four times. See? I did it again. Anyway, this big treasure treasure treasure treasure is really refreshing. It’s been a long time since you found a treasure treasure treasure treasure, so finding this big one is really refreshing.",
+  "vocabularyIds": [
+    7127
+  ],
+  "radicalIds": [
+    18,
+    31
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%88%BD"
+}

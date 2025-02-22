@@ -1,54 +1,20 @@
 {
   "id": 3493,
   "type": "vocabulary",
-  "characters": "投げ付ける",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "投げ付ける"
+  },
   "primaryMeaning": "To Throw Against",
+  "meaningMnemonic": "You know that you're <kanji>throw</kanji>ing something that is <kanji>attach</kanji>ing to something else. How else can you say that? The best way would be to say <vocabulary>to throw against</vocabulary> or <vocabulary>to throw at</vocabulary>.",
+  "primaryReading": "なげつける",
+  "readingMnemonic": "The readings just come from two vocab words you've hopefully seen already: 投げる and 付ける. So long as you know the readings for those words, the reading for this word should be no problem for you.",
   "otherMeanings": [
     "To Throw At"
   ],
-  "primaryReading": "なげつける",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 686,
-      "character": "投",
-      "readings": [
-        "とう",
-        "な"
-      ]
-    },
-    {
-      "id": 652,
-      "character": "付",
-      "readings": [
-        "つ",
-        "ふ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You know that you're <kanji>throw</kanji>ing something that is <kanji>attach</kanji>ing to something else. How else can you say that? The best way would be to say <vocabulary>to throw against</vocabulary> or <vocabulary>to throw at</vocabulary>.",
-  "readingMnemonic": "The readings just come from two vocab words you've hopefully seen already: 投げる and 付ける. So long as you know the readings for those words, the reading for this word should be no problem for you.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8A%95%E3%81%92%E4%BB%98%E3%81%91%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "投",
-      "id": 686,
-      "reading": "な"
-    },
-    {
-      "type": "kana",
-      "value": "げ"
-    },
-    {
-      "type": "kanji",
-      "value": "付",
-      "id": 652,
-      "reading": "つ"
-    },
-    {
-      "type": "kana",
-      "value": "ける"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%8A%95%E3%81%92%E4%BB%98%E3%81%91%E3%82%8B"
+  }
 }

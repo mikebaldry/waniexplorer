@@ -1,0 +1,46 @@
+{
+  "id": 6832,
+  "type": "vocabulary",
+  "characters": "本棚",
+  "primaryMeaning": "Bookcase",
+  "otherMeanings": [
+    "Bookshelf"
+  ],
+  "primaryReading": "ほんだな",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 487,
+      "character": "本",
+      "readings": [
+        "ほん",
+        "もと"
+      ]
+    },
+    {
+      "id": 1900,
+      "character": "棚",
+      "readings": [
+        "たな",
+        "ほう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>book</kanji> <kanji>shelf</kanji> is a <vocabulary>bookcase</vocabulary> or <vocabulary>bookshelf</vocabulary>.",
+  "readingMnemonic": "The readings are the ones you learned with the individual kanji. Be careful of the rendaku.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9C%AC%E6%A3%9A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "本",
+      "id": 487,
+      "reading": "ほん"
+    },
+    {
+      "type": "kanji",
+      "value": "棚",
+      "id": 1900,
+      "reading": "だな"
+    }
+  ]
+}

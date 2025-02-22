@@ -1,0 +1,37 @@
+{
+  "id": 5789,
+  "type": "vocabulary",
+  "characters": "拝む",
+  "primaryMeaning": "To Worship",
+  "otherMeanings": [
+    "To Pray To",
+    "To See"
+  ],
+  "primaryReading": "おがむ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1563,
+      "character": "拝",
+      "readings": [
+        "はい",
+        "おが"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>worship</kanji> so the verb vocab version is <vocabulary>to worship</vocabulary>.\n\n拝む generally means <vocabulary>to pray to</vocabulary> a deity, spirit, or revered object while assuming a worshipping position, such as bowing or clasping one's hands together in prayer. Additionally, 拝む can also mean <vocabulary>to see</vocabulary> with a sense of respect and reverence.",
+  "readingMnemonic": "You have <vocabulary>to worship</vocabulary> the <reading>ogre</reading> (おが), because if you don't it'll eat your face off.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8B%9D%E3%82%80",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "拝",
+      "id": 1563,
+      "reading": "おが"
+    },
+    {
+      "type": "kana",
+      "value": "む"
+    }
+  ]
+}

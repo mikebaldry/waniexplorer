@@ -1,0 +1,39 @@
+{
+  "id": 758,
+  "type": "kanji",
+  "character": "路",
+  "primaryMeaning": "Road",
+  "otherMeanings": [],
+  "primaryReading": "ろ",
+  "readings": [
+    {
+      "reading": "ろ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "じ",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "みち",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "What was this person walking down again? Oh, that’s right – a <reading>ro</reading>ad (ろ). They were walking down a dirt <kanji>road</kanji>.",
+  "meaningMnemonic": "If you’ve been walking all day, nobody is going to want to <radical>kiss</radical> your <radical>foot</radical> if you’ve been walking barefoot down a dirt <kanji>road</kanji>. Your feet are filthy, sweaty, and stinky. Nobody is going to want to kiss those feet.",
+  "vocabularyIds": [
+    3195,
+    3196,
+    3197,
+    5090,
+    5464
+  ],
+  "radicalIds": [
+    95,
+    180
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%B7%AF"
+}

@@ -1,0 +1,48 @@
+{
+  "id": 7793,
+  "type": "vocabulary",
+  "characters": "慈悲",
+  "primaryMeaning": "Compassion",
+  "otherMeanings": [
+    "Benevolence",
+    "Charity",
+    "Mercy"
+  ],
+  "primaryReading": "じひ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2148,
+      "character": "慈",
+      "readings": [
+        "じ",
+        "いつく"
+      ]
+    },
+    {
+      "id": 837,
+      "character": "悲",
+      "readings": [
+        "ひ",
+        "かな"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you have <kanji>mercy</kanji> for people who are <kanji>sad</kanji> you have a lot of <vocabulary>compassion</vocabulary>. You just can't help but go easy on sad people.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%85%88%E6%82%B2",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "慈",
+      "id": 2148,
+      "reading": "じ"
+    },
+    {
+      "type": "kanji",
+      "value": "悲",
+      "id": 837,
+      "reading": "ひ"
+    }
+  ]
+}

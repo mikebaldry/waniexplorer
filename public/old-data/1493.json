@@ -1,0 +1,28 @@
+{
+  "id": 1493,
+  "type": "kanji",
+  "character": "複",
+  "primaryMeaning": "Duplicate",
+  "otherMeanings": [],
+  "primaryReading": "ふく",
+  "readings": [
+    {
+      "reading": "ふく",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Suddenly the <kanji>duplicate</kanji> spirit starts yelling, \"Why did you throw me into that black hole?! <reading>F***</reading> (ふく) you!\"",
+  "meaningMnemonic": "Put a <radical>spirit</radical> in a <radical>black hole</radical> and a <kanji>duplicate</kanji> comes out. The duplicate looks exactly like the original spirit that went in. How strange.",
+  "vocabularyIds": [
+    5549,
+    5551,
+    5552,
+    5714
+  ],
+  "radicalIds": [
+    80,
+    265
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%A4%87"
+}

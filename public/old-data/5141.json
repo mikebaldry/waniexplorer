@@ -1,0 +1,48 @@
+{
+  "id": 5141,
+  "type": "vocabulary",
+  "characters": "微妙",
+  "primaryMeaning": "Not So Good",
+  "otherMeanings": [
+    "Not Really",
+    "Delicate",
+    "Subtle"
+  ],
+  "primaryReading": "びみょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1366,
+      "character": "微",
+      "readings": [
+        "び",
+        "かす"
+      ]
+    },
+    {
+      "id": 1364,
+      "character": "妙",
+      "readings": [
+        "みょう",
+        "たえ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Something that's both <kanji>delicate</kanji> and <kanji>peculiar</kanji> is probably <vocabulary>not so good</vocabulary>. It's not terrible, but it's not great either — it could break easily, plus it's kind of strange… It's <vocabulary>not really</vocabulary> good, you know? Think of 微妙 as a sort of euphemism for those delicate and peculiar things you're not really into. \n\n微妙 can also just mean <vocabulary>delicate</vocabulary> or <vocabulary>subtle</vocabulary>, like 微妙な立場 (a delicate position that requires careful handling) or 微妙なニュアンスの違い (a subtle nuance difference that's hard to pinpoint).",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BE%AE%E5%A6%99",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "微",
+      "id": 1366,
+      "reading": "び"
+    },
+    {
+      "type": "kanji",
+      "value": "妙",
+      "id": 1364,
+      "reading": "みょう"
+    }
+  ]
+}

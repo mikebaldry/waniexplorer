@@ -1,0 +1,47 @@
+{
+  "id": 6294,
+  "type": "vocabulary",
+  "characters": "免除",
+  "primaryMeaning": "Exemption",
+  "otherMeanings": [
+    "Exempt"
+  ],
+  "primaryReading": "めんじょ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1722,
+      "character": "免",
+      "readings": [
+        "めん",
+        "まぬか"
+      ]
+    },
+    {
+      "id": 1451,
+      "character": "除",
+      "readings": [
+        "じょ",
+        "じ",
+        "のぞ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "To <kanji>excuse</kanji> and to <kanji>exclude</kanji>, that's <vocabulary>exemption</vocabulary>.\n\n免除 means granting relief or exemption from a duty or obligation that would otherwise be required, like paying tuition fees, repaying debts, obtaining specific licenses for certain activities, and so on.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%85%8D%E9%99%A4",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "免",
+      "id": 1722,
+      "reading": "めん"
+    },
+    {
+      "type": "kanji",
+      "value": "除",
+      "id": 1451,
+      "reading": "じょ"
+    }
+  ]
+}

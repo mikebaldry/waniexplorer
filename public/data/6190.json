@@ -1,45 +1,18 @@
 {
   "id": 6190,
   "type": "vocabulary",
-  "characters": "考慮",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "考慮"
+  },
   "primaryMeaning": "Consideration",
-  "otherMeanings": [],
-  "primaryReading": "こうりょ",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 576,
-      "character": "考",
-      "readings": [
-        "こう",
-        "かんが"
-      ]
-    },
-    {
-      "id": 1690,
-      "character": "慮",
-      "readings": [
-        "りょ",
-        "おもんぱく",
-        "おもんぱか"
-      ]
-    }
-  ],
   "meaningMnemonic": "I'll <kanji>think</kanji> and <kanji>consider</kanji> this. I'll give it <vocabulary>consideration</vocabulary>.",
+  "primaryReading": "こうりょ",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You've learned them both already, so you should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%80%83%E6%85%AE",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "考",
-      "id": 576,
-      "reading": "こう"
-    },
-    {
-      "type": "kanji",
-      "value": "慮",
-      "id": 1690,
-      "reading": "りょ"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%80%83%E6%85%AE"
+  }
 }

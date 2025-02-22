@@ -1,0 +1,35 @@
+{
+  "id": 1445,
+  "type": "kanji",
+  "character": "編",
+  "primaryMeaning": "Knit",
+  "otherMeanings": [],
+  "primaryReading": "へん",
+  "readings": [
+    {
+      "reading": "へん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "あ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You need to come to the library to <kanji>knit</kanji> because if you try to do it at home all your <reading>hen</reading>s (へん) will try to eat the thread. Hens love eating things that look like worms, like hay, string, and thread. So it's important to get far away from them before you start to knit.",
+  "meaningMnemonic": "Bring <radical>thread</radical> to the <radical>library</radical> to <kanji>knit</kanji>. Libraries are quiet and generally pretty empty nowadays, so it's the perfect place to relax and do some knitting. Of course, if you find thread lying around in a library you know what to do now.",
+  "vocabularyIds": [
+    5421,
+    5422,
+    5423,
+    5611,
+    5844,
+    7499
+  ],
+  "radicalIds": [
+    86,
+    338
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%B7%A8"
+}

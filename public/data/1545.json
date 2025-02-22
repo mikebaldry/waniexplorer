@@ -1,35 +1,43 @@
 {
   "id": 1545,
   "type": "kanji",
-  "character": "誤",
-  "primaryMeaning": "Mistake",
-  "otherMeanings": [],
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "誤"
+  },
   "primaryReading": "ご",
   "readings": [
     {
-      "reading": "ご",
       "primary": true,
+      "reading": "ご",
       "type": "onyomi"
     },
     {
-      "reading": "あやま",
       "primary": false,
+      "reading": "あやま",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "This <kanji>mistake</kanji> alerts <reading>Go</reading>dzilla (ご), who thinks it's town destroying time. He barrels over the hills, sees where you mistakenly catapulted your own people, and proceeds to stomp on the rest of it for you.",
+  "primaryMeaning": "Mistake",
+  "otherMeanings": [],
   "meaningMnemonic": "They <radical>say</radical> accidentally firing a <radical>catapult</radical> is an unforgivable <kanji>mistake</kanji>. They say you shot the catapult at your own castle. Even though it was an accident, it’s still a mistake you will never be forgiven for.",
-  "vocabularyIds": [
-    5743,
-    5744,
-    5745,
-    5746,
-    7723,
-    8331
-  ],
-  "radicalIds": [
-    117,
-    348
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%AA%A4"
+  "readingMnemonic": "This <kanji>mistake</kanji> alerts <reading>Go</reading>dzilla (ご), who thinks it's town destroying time. He barrels over the hills, sees where you mistakenly catapulted your own people, and proceeds to stomp on the rest of it for you.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%AA%A4"
+  },
+  "related": {
+    "radicals": [
+      117,
+      348
+    ],
+    "vocabularies": [
+      5743,
+      5744,
+      5745,
+      5746,
+      7723,
+      8331
+    ]
+  }
 }

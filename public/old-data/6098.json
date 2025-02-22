@@ -1,0 +1,38 @@
+{
+  "id": 6098,
+  "type": "vocabulary",
+  "characters": "弾む",
+  "primaryMeaning": "To Bounce",
+  "otherMeanings": [
+    "To Be Lively"
+  ],
+  "primaryReading": "はずむ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1659,
+      "character": "弾",
+      "readings": [
+        "だん",
+        "ひ",
+        "はず",
+        "たま"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Weird that this kanji means <kanji>bullet</kanji> but the verb vocab version means <vocabulary>to bounce</vocabulary>. Just imagine someone shooting a bullet. What does it do when it hits the right materials? It's going <vocabulary>to bounce</vocabulary>.",
+  "readingMnemonic": "If you're going <vocabulary>to bounce</vocabulary> something off that wall, it <reading>has</reading> (はず) to be made of rubber, otherwise it will just go right through. It <reading>has</reading> to.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BC%BE%E3%82%80",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "弾",
+      "id": 1659,
+      "reading": "はず"
+    },
+    {
+      "type": "kana",
+      "value": "む"
+    }
+  ]
+}

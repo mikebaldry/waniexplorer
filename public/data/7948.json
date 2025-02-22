@@ -1,48 +1,21 @@
 {
   "id": 7948,
   "type": "vocabulary",
-  "characters": "陥落",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "陥落"
+  },
   "primaryMeaning": "Fall",
+  "meaningMnemonic": "If you <kanji>fall</kanji> during a <kanji>cave in</kanji> you'll <vocabulary>fall</vocabulary> along with everything around you. And that <vocabulary>sinking</vocabulary> feeling in your stomach is because... I mean, well you ARE sinking into the ground. ",
+  "primaryReading": "かんらく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Sinking",
     "Surrender"
   ],
-  "primaryReading": "かんらく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2155,
-      "character": "陥",
-      "readings": [
-        "かん",
-        "おちい",
-        "おとしい"
-      ]
-    },
-    {
-      "id": 749,
-      "character": "落",
-      "readings": [
-        "らく",
-        "お"
-      ]
-    }
-  ],
-  "meaningMnemonic": "If you <kanji>fall</kanji> during a <kanji>cave in</kanji> you'll <vocabulary>fall</vocabulary> along with everything around you. And that <vocabulary>sinking</vocabulary> feeling in your stomach is because... I mean, well you ARE sinking into the ground. ",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%99%A5%E8%90%BD",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "陥",
-      "id": 2155,
-      "reading": "かん"
-    },
-    {
-      "type": "kanji",
-      "value": "落",
-      "id": 749,
-      "reading": "らく"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%99%A5%E8%90%BD"
+  }
 }

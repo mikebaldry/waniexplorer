@@ -1,0 +1,47 @@
+{
+  "id": 8853,
+  "type": "vocabulary",
+  "characters": "叩頭",
+  "primaryMeaning": "Bow",
+  "otherMeanings": [],
+  "primaryReading": "こうとう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 8839,
+      "character": "叩",
+      "readings": [
+        "こう",
+        "たた",
+        "はた"
+      ]
+    },
+    {
+      "id": 771,
+      "character": "頭",
+      "readings": [
+        "あたま",
+        "かしら",
+        "ず",
+        "とう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Tap</kanji> your <kanji>head</kanji> against the floor to show your subservient respect by doing this deep <vocabulary>bow</vocabulary>. This is the most respectful bow you can possibly do. (Thank you China, for bringing this word into Japanese and thank you Japanese for bringing this into English.)",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You haven't learned this reading for 頭 yet, so here's a mnemonic to help you:\n\nThey used to make you <vocabulary>kowtow</vocabulary> every single time you came to <reading>とう</reading>きょう. That's full on head to floor kowtowing in front of everyone who is already in とうきょう to prove that you appreciate being there. They might even make you do it these days too, if you're not being respectful enough while you're there.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8F%A9%E9%A0%AD",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "叩",
+      "id": 8839,
+      "reading": "こう"
+    },
+    {
+      "type": "kanji",
+      "value": "頭",
+      "id": 771,
+      "reading": "とう"
+    }
+  ]
+}

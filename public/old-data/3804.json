@@ -1,0 +1,44 @@
+{
+  "id": 3804,
+  "type": "vocabulary",
+  "characters": "保険",
+  "primaryMeaning": "Insurance",
+  "otherMeanings": [],
+  "primaryReading": "ほけん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 983,
+      "character": "保",
+      "readings": [
+        "ほ",
+        "たも"
+      ]
+    },
+    {
+      "id": 988,
+      "character": "険",
+      "readings": [
+        "けん",
+        "けわ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you are able to <kanji>guarantee</kanji> against <kanji>risk</kanji>, it's probably because you bought some good <vocabulary>insurance</vocabulary>! What do you use? The gecko 保険?",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BF%9D%E9%99%BA",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "保",
+      "id": 983,
+      "reading": "ほ"
+    },
+    {
+      "type": "kanji",
+      "value": "険",
+      "id": 988,
+      "reading": "けん"
+    }
+  ]
+}

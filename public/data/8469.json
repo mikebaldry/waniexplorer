@@ -1,47 +1,22 @@
 {
   "id": 8469,
   "type": "vocabulary",
-  "characters": "老朽",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "老朽"
+  },
   "primaryMeaning": "Decrepit",
+  "meaningMnemonic": "<kanji>Elderly</kanji> people start to <kanji>decay</kanji> and they get all <vocabulary>decrepit</vocabulary> and gross. Like a corpse. Bleh. Good thing I'll never be <vocabulary>too old</vocabulary>. Ho ho ho!",
+  "primaryReading": "ろうきゅう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Overage",
     "Obsolete",
     "Too Old"
   ],
-  "primaryReading": "ろうきゅう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 781,
-      "character": "老",
-      "readings": [
-        "ろう"
-      ]
-    },
-    {
-      "id": 2375,
-      "character": "朽",
-      "readings": [
-        "きゅう",
-        "く"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Elderly</kanji> people start to <kanji>decay</kanji> and they get all <vocabulary>decrepit</vocabulary> and gross. Like a corpse. Bleh. Good thing I'll never be <vocabulary>too old</vocabulary>. Ho ho ho!",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%80%81%E6%9C%BD",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "老",
-      "id": 781,
-      "reading": "ろう"
-    },
-    {
-      "type": "kanji",
-      "value": "朽",
-      "id": 2375,
-      "reading": "きゅう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%80%81%E6%9C%BD"
+  }
 }

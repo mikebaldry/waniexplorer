@@ -1,44 +1,18 @@
 {
   "id": 6746,
   "type": "vocabulary",
-  "characters": "滋養",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "滋養"
+  },
   "primaryMeaning": "Nourishment",
-  "otherMeanings": [],
-  "primaryReading": "じよう",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1869,
-      "character": "滋",
-      "readings": [
-        "じ",
-        "し"
-      ]
-    },
-    {
-      "id": 889,
-      "character": "養",
-      "readings": [
-        "よう",
-        "やしな"
-      ]
-    }
-  ],
   "meaningMnemonic": "<kanji>Nourishing</kanji> and <kanji>foster</kanji>ing. The thing that gives you this is <vocabulary>nourishment</vocabulary>.",
+  "primaryReading": "じよう",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%BB%8B%E9%A4%8A",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "滋",
-      "id": 1869,
-      "reading": "じ"
-    },
-    {
-      "type": "kanji",
-      "value": "養",
-      "id": 889,
-      "reading": "よう"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%BB%8B%E9%A4%8A"
+  }
 }

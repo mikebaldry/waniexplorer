@@ -1,48 +1,21 @@
 {
   "id": 8567,
   "type": "vocabulary",
-  "characters": "危篤",
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "危篤"
+  },
   "primaryMeaning": "Critical Condition",
+  "meaningMnemonic": "If someone is so <kanji>dangerous</kanji> that they <kanji>deliberately</kanji> hurt you, you're going to end up in <vocabulary>critical condition</vocabulary>. This wasn't an accident, they knew what they were doing and they didn't miss. Now you're <vocabulary>on the verge of death</vocabulary>. Hold on, kiddo.",
+  "primaryReading": "きとく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Critical Illness",
     "On The Verge Of Death"
   ],
-  "primaryReading": "きとく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 989,
-      "character": "危",
-      "readings": [
-        "き",
-        "あぶ",
-        "あや"
-      ]
-    },
-    {
-      "id": 2403,
-      "character": "篤",
-      "readings": [
-        "とく",
-        "あつ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "If someone is so <kanji>dangerous</kanji> that they <kanji>deliberately</kanji> hurt you, you're going to end up in <vocabulary>critical condition</vocabulary>. This wasn't an accident, they knew what they were doing and they didn't miss. Now you're <vocabulary>on the verge of death</vocabulary>. Hold on, kiddo.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8D%B1%E7%AF%A4",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "危",
-      "id": 989,
-      "reading": "き"
-    },
-    {
-      "type": "kanji",
-      "value": "篤",
-      "id": 2403,
-      "reading": "とく"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%8D%B1%E7%AF%A4"
+  }
 }

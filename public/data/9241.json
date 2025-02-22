@@ -1,50 +1,21 @@
 {
   "id": 9241,
   "type": "vocabulary",
-  "characters": "正月",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "正月"
+  },
   "primaryMeaning": "New Year",
+  "meaningMnemonic": "You <kanji>correct</kanji> the <kanji>moon</kanji> because it's a <vocabulary>New Year</vocabulary>. It's the beginning of a fresh year, so you gotta have the moon in the correct position.\n\nThis usually refers to the first few days of a new year, and it's one of the biggest holidays in Japan.",
+  "primaryReading": "しょうがつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Both of these kanji have a couple of on'yomi readings, so here's a mnemonic to help you remember which ones to use:\n\nAt <vocabulary>New Year</vocabulary>, you hate your <reading>Shou</reading>gun's <reading>guts</reading> (しょうがつ). He doesn't celebrate New Year, you see, so none of you get any time off. He even started a war last New Year and ruined everyone's holidays. No wonder you hate that shougun's guts.",
   "otherMeanings": [
     "New Year's Holidays",
     "Japanese New Year"
   ],
-  "primaryReading": "しょうがつ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 488,
-      "character": "正",
-      "readings": [
-        "せい",
-        "しょう",
-        "ただ",
-        "まさ"
-      ]
-    },
-    {
-      "id": 477,
-      "character": "月",
-      "readings": [
-        "げつ",
-        "がつ",
-        "つき"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You <kanji>correct</kanji> the <kanji>moon</kanji> because it's a <vocabulary>New Year</vocabulary>. It's the beginning of a fresh year, so you gotta have the moon in the correct position.\n\nThis usually refers to the first few days of a new year, and it's one of the biggest holidays in Japan.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Both of these kanji have a couple of on'yomi readings, so here's a mnemonic to help you remember which ones to use:\n\nAt <vocabulary>New Year</vocabulary>, you hate your <reading>Shou</reading>gun's <reading>guts</reading> (しょうがつ). He doesn't celebrate New Year, you see, so none of you get any time off. He even started a war last New Year and ruined everyone's holidays. No wonder you hate that shougun's guts.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%AD%A3%E6%9C%88",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "正",
-      "id": 488,
-      "reading": "しょう"
-    },
-    {
-      "type": "kanji",
-      "value": "月",
-      "id": 477,
-      "reading": "がつ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%AD%A3%E6%9C%88"
+  }
 }

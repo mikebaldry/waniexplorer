@@ -1,38 +1,21 @@
 {
   "id": 5213,
   "type": "vocabulary",
-  "characters": "乾く",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "乾く"
+  },
   "primaryMeaning": "To Get Dry",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>dry</kanji>. This verb vocab version is <vocabulary>to get dry</vocabulary>, <vocabulary>to become dry</vocabulary>, or <vocabulary>to be dried</vocabulary>. You're not doing the drying, it's just happening. That's <reading>coo</reading>', you say, things can get dry all by themselves.",
+  "primaryReading": "かわく",
+  "readingMnemonic": "The <reading>川</reading> (かわ) has started <vocabulary>to get dry</vocabulary>. Need to use less water around here otherwise it'll become completely dry.",
   "otherMeanings": [
     "To Become Dry",
     "To Be Dried"
   ],
-  "primaryReading": "かわく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1381,
-      "character": "乾",
-      "readings": [
-        "かん",
-        "かわ",
-        "ほ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>dry</kanji>. This verb vocab version is <vocabulary>to get dry</vocabulary>, <vocabulary>to become dry</vocabulary>, or <vocabulary>to be dried</vocabulary>. You're not doing the drying, it's just happening. That's <reading>coo</reading>', you say, things can get dry all by themselves.",
-  "readingMnemonic": "The <reading>川</reading> (かわ) has started <vocabulary>to get dry</vocabulary>. Need to use less water around here otherwise it'll become completely dry.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B9%BE%E3%81%8F",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "乾",
-      "id": 1381,
-      "reading": "かわ"
-    },
-    {
-      "type": "kana",
-      "value": "く"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B9%BE%E3%81%8F"
+  }
 }

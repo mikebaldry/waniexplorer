@@ -1,0 +1,33 @@
+{
+  "id": 6655,
+  "type": "vocabulary",
+  "characters": "珍〜",
+  "primaryMeaning": "Unusual",
+  "otherMeanings": [
+    "Rare",
+    "Peculiar"
+  ],
+  "primaryReading": "ちん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1838,
+      "character": "珍",
+      "readings": [
+        "ちん",
+        "めずら"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Something <kanji>rare</kanji> is often <vocabulary>unusual</vocabulary>. This word could also mean <vocabulary>rare</vocabulary> (of course) and <vocabulary>peculiar</vocabulary> depending on the context.\n\nThese days, media often uses this word to describe the way something is unusual, quirky, and funny.",
+  "readingMnemonic": "The reading for this kanji is the same as the one you learned with the kanji. That in itself isn't too <vocabulary>rare</vocabulary>, wouldn't you say?",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%8F%8D%E3%80%9C",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "珍",
+      "id": 1838,
+      "reading": "ちん"
+    }
+  ]
+}

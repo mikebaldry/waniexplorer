@@ -1,0 +1,46 @@
+{
+  "id": 2753,
+  "type": "vocabulary",
+  "characters": "毎回",
+  "primaryMeaning": "Every Time",
+  "otherMeanings": [
+    "Each Time"
+  ],
+  "primaryReading": "まいかい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 572,
+      "character": "毎",
+      "readings": [
+        "まい",
+        "ごと"
+      ]
+    },
+    {
+      "id": 569,
+      "character": "回",
+      "readings": [
+        "かい",
+        "まわ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Every</kanji> <kanji>times</kanji> is really just <vocabulary>every time</vocabulary>. Do you get your kanji readings correct 毎回?",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%AF%8E%E5%9B%9E",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "毎",
+      "id": 572,
+      "reading": "まい"
+    },
+    {
+      "type": "kanji",
+      "value": "回",
+      "id": 569,
+      "reading": "かい"
+    }
+  ]
+}

@@ -1,48 +1,20 @@
 {
   "id": 7224,
   "type": "vocabulary",
-  "characters": "大麻",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "大麻"
+  },
   "primaryMeaning": "Marijuana",
+  "meaningMnemonic": "<kanji>Big</kanji> <kanji>hemp</kanji> is <vocabulary>marijuana</vocabulary> or <vocabulary>cannabis</vocabulary>.",
+  "primaryReading": "たいま",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Cannabis"
   ],
-  "primaryReading": "たいま",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 453,
-      "character": "大",
-      "readings": [
-        "たい",
-        "だい",
-        "おお",
-        "ひろ"
-      ]
-    },
-    {
-      "id": 2036,
-      "character": "麻",
-      "readings": [
-        "ま",
-        "あさ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Big</kanji> <kanji>hemp</kanji> is <vocabulary>marijuana</vocabulary> or <vocabulary>cannabis</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A4%A7%E9%BA%BB",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "大",
-      "id": 453,
-      "reading": "たい"
-    },
-    {
-      "type": "kanji",
-      "value": "麻",
-      "id": 2036,
-      "reading": "ま"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A4%A7%E9%BA%BB"
+  }
 }

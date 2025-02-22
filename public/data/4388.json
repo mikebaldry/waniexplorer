@@ -1,51 +1,20 @@
 {
   "id": 4388,
   "type": "vocabulary",
-  "characters": "説得する",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "説得する"
+  },
   "primaryMeaning": "To Persuade",
+  "meaningMnemonic": "You know that 説得 is <kanji>persuasion</kanji>, so what is the verb version of that? <vocabulary>To persuade</vocabulary>.",
+  "primaryReading": "せっとくする",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. It will also immensely help to know the reading of the word 説得.",
   "otherMeanings": [
     "To Convince"
   ],
-  "primaryReading": "せっとくする",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1026,
-      "character": "説",
-      "readings": [
-        "せつ",
-        "と"
-      ]
-    },
-    {
-      "id": 1081,
-      "character": "得",
-      "readings": [
-        "とく",
-        "え",
-        "う"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You know that 説得 is <kanji>persuasion</kanji>, so what is the verb version of that? <vocabulary>To persuade</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. It will also immensely help to know the reading of the word 説得.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%AA%AC%E5%BE%97%E3%81%99%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "説",
-      "id": 1026,
-      "reading": "せっ"
-    },
-    {
-      "type": "kanji",
-      "value": "得",
-      "id": 1081,
-      "reading": "とく"
-    },
-    {
-      "type": "kana",
-      "value": "する"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%AA%AC%E5%BE%97%E3%81%99%E3%82%8B"
+  }
 }

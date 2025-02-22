@@ -1,0 +1,45 @@
+{
+  "id": 7115,
+  "type": "vocabulary",
+  "characters": "挿話",
+  "primaryMeaning": "Episode",
+  "otherMeanings": [],
+  "primaryReading": "そうわ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2001,
+      "character": "挿",
+      "readings": [
+        "そう",
+        "さ"
+      ]
+    },
+    {
+      "id": 705,
+      "character": "話",
+      "readings": [
+        "わ",
+        "はな",
+        "はなし"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Insert</kanji> some <kanji>talk</kanji>ing. Now you have an <vocabulary>episode</vocabulary>! Now put some more talking in that story. You have another episode!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8C%BF%E8%A9%B1",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "挿",
+      "id": 2001,
+      "reading": "そう"
+    },
+    {
+      "type": "kanji",
+      "value": "話",
+      "id": 705,
+      "reading": "わ"
+    }
+  ]
+}

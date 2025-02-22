@@ -1,45 +1,18 @@
 {
   "id": 8019,
   "type": "vocabulary",
-  "characters": "合繊",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "合繊"
+  },
   "primaryMeaning": "Synthetic Fiber",
-  "otherMeanings": [],
-  "primaryReading": "ごうせん",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 852,
-      "character": "合",
-      "readings": [
-        "ごう",
-        "がっ",
-        "あ",
-        "あい"
-      ]
-    },
-    {
-      "id": 2205,
-      "character": "繊",
-      "readings": [
-        "せん"
-      ]
-    }
-  ],
   "meaningMnemonic": "<kanji>Fiber</kanji>s you <kanji>join</kanji> together to make more, stronger fibers, they turn into <vocabulary>synthetic fiber</vocabulary>s.\n\nNote that this is an abbreviation of the specialist term 合成繊維, and it mostly comes up in industrial contexts.",
+  "primaryReading": "ごうせん",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%90%88%E7%B9%8A",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "合",
-      "id": 852,
-      "reading": "ごう"
-    },
-    {
-      "type": "kanji",
-      "value": "繊",
-      "id": 2205,
-      "reading": "せん"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%90%88%E7%B9%8A"
+  }
 }

@@ -1,30 +1,18 @@
 {
   "id": 7389,
   "type": "vocabulary",
-  "characters": "堰",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "堰"
+  },
   "primaryMeaning": "Dam",
-  "otherMeanings": [],
-  "primaryReading": "せき",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2099,
-      "character": "堰",
-      "readings": [
-        "せき",
-        "えん"
-      ]
-    }
-  ],
   "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "せき",
   "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A0%B0",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "堰",
-      "id": 2099,
-      "reading": "せき"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A0%B0"
+  }
 }

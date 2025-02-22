@@ -1,42 +1,24 @@
 {
   "id": 8268,
   "type": "vocabulary",
-  "characters": "寂しい",
+  "level": 56,
+  "characters": {
+    "type": "text",
+    "value": "寂しい"
+  },
   "primaryMeaning": "Lonely",
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>lonely</kanji>? It's still <vocabulary>lonely</vocabulary>!",
+  "primaryReading": "さびしい",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn this reading yet, so here's a mnemonic to help you:\n\nNo one is as <vocabulary>lonely</vocabulary> as a <reading>sa</reading>d <reading>bee</reading> (さび). The sad bee is sad because it has no friends and that makes is super lonely. Poor sad bee.",
   "otherMeanings": [
     "Lonesome",
     "Solitary",
     "Desolate"
   ],
-  "primaryReading": "さびしい",
   "otherReadings": [
     "さみしい"
   ],
-  "kanji": [
-    {
-      "id": 2298,
-      "character": "寂",
-      "readings": [
-        "じゃく",
-        "せき",
-        "さび",
-        "さみ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>lonely</kanji>? It's still <vocabulary>lonely</vocabulary>!",
-  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn this reading yet, so here's a mnemonic to help you:\n\nNo one is as <vocabulary>lonely</vocabulary> as a <reading>sa</reading>d <reading>bee</reading> (さび). The sad bee is sad because it has no friends and that makes is super lonely. Poor sad bee.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AF%82%E3%81%97%E3%81%84",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "寂",
-      "id": 2298,
-      "reading": "さび"
-    },
-    {
-      "type": "kana",
-      "value": "しい"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%AF%82%E3%81%97%E3%81%84"
+  }
 }

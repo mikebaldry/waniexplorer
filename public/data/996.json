@@ -1,43 +1,51 @@
 {
   "id": 996,
   "type": "kanji",
-  "character": "細",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "細"
+  },
+  "primaryReading": "さい",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "さい",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ほそ",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "こま",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Thin",
   "otherMeanings": [
     "Detailed"
   ],
-  "primaryReading": "さい",
-  "readings": [
-    {
-      "reading": "さい",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "ほそ",
-      "primary": false,
-      "type": "kunyomi"
-    },
-    {
-      "reading": "こま",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "This <kanji>thin</kanji> rice paddy is for your <reading>cy</reading>borg (さい). You only gave your cyborg a really thin strip of human stomach, so it only needs a thin line of rice to eat.",
   "meaningMnemonic": "A <radical>rice paddy</radical> that's like a <radical>thread</radical> is extremely <kanji>thin</kanji>, but also <kanji>detailed</kanji>.",
-  "vocabularyIds": [
-    4025,
-    4348,
-    5366,
-    6910,
-    8020,
-    8023,
-    8855
-  ],
-  "radicalIds": [
-    86,
-    51
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%B4%B0"
+  "readingMnemonic": "This <kanji>thin</kanji> rice paddy is for your <reading>cy</reading>borg (さい). You only gave your cyborg a really thin strip of human stomach, so it only needs a thin line of rice to eat.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%B4%B0"
+  },
+  "related": {
+    "radicals": [
+      86,
+      51
+    ],
+    "vocabularies": [
+      4025,
+      4348,
+      5366,
+      6910,
+      8020,
+      8023,
+      8855
+    ]
+  }
 }

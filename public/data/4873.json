@@ -1,64 +1,20 @@
 {
   "id": 4873,
   "type": "vocabulary",
-  "characters": "革命家",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "革命家"
+  },
   "primaryMeaning": "Revolutionary",
+  "meaningMnemonic": "A person who lives in a revolution (革命) <kanji>house</kanji> is <vocabulary>a revolutionary</vocabulary>. They want government change! They want to take down the people in power!",
+  "primaryReading": "かくめいか",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Of course it will help to know 革命 already as well.",
   "otherMeanings": [
     "A Revolutionary"
   ],
-  "primaryReading": "かくめいか",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1188,
-      "character": "革",
-      "readings": [
-        "かく",
-        "かわ"
-      ]
-    },
-    {
-      "id": 789,
-      "character": "命",
-      "readings": [
-        "めい",
-        "みょう",
-        "いのち"
-      ]
-    },
-    {
-      "id": 660,
-      "character": "家",
-      "readings": [
-        "いえ",
-        "や",
-        "うち",
-        "か",
-        "け"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A person who lives in a revolution (革命) <kanji>house</kanji> is <vocabulary>a revolutionary</vocabulary>. They want government change! They want to take down the people in power!",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Of course it will help to know 革命 already as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9D%A9%E5%91%BD%E5%AE%B6",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "革",
-      "id": 1188,
-      "reading": "かく"
-    },
-    {
-      "type": "kanji",
-      "value": "命",
-      "id": 789,
-      "reading": "めい"
-    },
-    {
-      "type": "kanji",
-      "value": "家",
-      "id": 660,
-      "reading": "か"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%9D%A9%E5%91%BD%E5%AE%B6"
+  }
 }

@@ -1,47 +1,22 @@
 {
   "id": 7020,
   "type": "vocabulary",
-  "characters": "幽霊",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "幽霊"
+  },
   "primaryMeaning": "Ghost",
+  "meaningMnemonic": "A <kanji>secluded</kanji> <kanji>ghost</kanji> is someone who's secluded and a ghost, because everyone's forgotten about him (thus the \"ghostness\" of him). This thing is a <vocabulary>ghost</vocabulary> or <vocabulary>specter</vocabulary>.",
+  "primaryReading": "ゆうれい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Specter",
     "Spectre",
     "Phantom"
   ],
-  "primaryReading": "ゆうれい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1961,
-      "character": "幽",
-      "readings": [
-        "ゆう"
-      ]
-    },
-    {
-      "id": 1932,
-      "character": "霊",
-      "readings": [
-        "れい",
-        "りょう"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>secluded</kanji> <kanji>ghost</kanji> is someone who's secluded and a ghost, because everyone's forgotten about him (thus the \"ghostness\" of him). This thing is a <vocabulary>ghost</vocabulary> or <vocabulary>specter</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B9%BD%E9%9C%8A",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "幽",
-      "id": 1961,
-      "reading": "ゆう"
-    },
-    {
-      "type": "kanji",
-      "value": "霊",
-      "id": 1932,
-      "reading": "れい"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%B9%BD%E9%9C%8A"
+  }
 }

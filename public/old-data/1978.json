@@ -1,0 +1,34 @@
+{
+  "id": 1978,
+  "type": "kanji",
+  "character": "粘",
+  "primaryMeaning": "Sticky",
+  "otherMeanings": [],
+  "primaryReading": "ねん",
+  "readings": [
+    {
+      "reading": "ねん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ねば",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "This rice is so <kanji>sticky</kanji> that you are able to sculpt <reading>nen</reading>doroids (ねん) from it. Your rice fortune is worth even more now that you are hand making limited edition nendoroids from it.",
+  "meaningMnemonic": "Your <radical>rice</radical> <radical>fortune</radical> is <kanji>sticky</kanji>. Rice is sticky. So is your rice fortune. Your fortune of rice is sticky because it is made up entirely of sticky rice.",
+  "vocabularyIds": [
+    7060,
+    7061,
+    7062,
+    7260,
+    7448
+  ],
+  "radicalIds": [
+    98,
+    143
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%B2%98"
+}

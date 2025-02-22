@@ -1,0 +1,34 @@
+{
+  "id": 1086,
+  "type": "kanji",
+  "character": "困",
+  "primaryMeaning": "Distressed",
+  "otherMeanings": [
+    "Troubled"
+  ],
+  "primaryReading": "こん",
+  "readings": [
+    {
+      "reading": "こん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "こま",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You thought you were the most <kanji>distressed</kanji> and <kanji>troubled</kanji> person in this situation, but then you look up and see a very equally distressed and troubled <reading>con</reading>dor (こん). The tree you've been mouthing is its home. And now you've slobbered all over it, ruining this condor's day.",
+  "meaningMnemonic": "If you put your <radical>mouth</radical> on a <radical>tree</radical> and try to eat it, you’re probably a <kanji>distressed</kanji> and <kanji>troubled</kanji> individual (unless you’re a woodchuck). You don’t need to eat this tree, you have plenty of food at home. Get your mouth off that tree you distressed child.",
+  "vocabularyIds": [
+    4181,
+    4338,
+    8313
+  ],
+  "radicalIds": [
+    16,
+    23
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%9B%B0"
+}

@@ -1,0 +1,60 @@
+{
+  "id": 7196,
+  "type": "vocabulary",
+  "characters": "理不尽",
+  "primaryMeaning": "Unreasonable",
+  "otherMeanings": [
+    "Irrational"
+  ],
+  "primaryReading": "りふじん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 669,
+      "character": "理",
+      "readings": [
+        "り",
+        "ことわり"
+      ]
+    },
+    {
+      "id": 563,
+      "character": "不",
+      "readings": [
+        "ふ",
+        "ぶ"
+      ]
+    },
+    {
+      "id": 2027,
+      "character": "尽",
+      "readings": [
+        "じん",
+        "つ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Reason</kanji> is <kanji>not</kanji> <kanji>exhaust</kanji>ed... but what you're asking is <vocabulary>unreasonable</vocabulary>. Soon my reason will be exhausted, though.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%90%86%E4%B8%8D%E5%B0%BD",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "理",
+      "id": 669,
+      "reading": "り"
+    },
+    {
+      "type": "kanji",
+      "value": "不",
+      "id": 563,
+      "reading": "ふ"
+    },
+    {
+      "type": "kanji",
+      "value": "尽",
+      "id": 2027,
+      "reading": "じん"
+    }
+  ]
+}

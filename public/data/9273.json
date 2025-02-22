@@ -1,46 +1,18 @@
 {
   "id": 9273,
   "type": "vocabulary",
-  "characters": "天然",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "天然"
+  },
   "primaryMeaning": "Natural",
-  "otherMeanings": [],
-  "primaryReading": "てんねん",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 473,
-      "character": "天",
-      "readings": [
-        "てん",
-        "あま"
-      ]
-    },
-    {
-      "id": 881,
-      "character": "然",
-      "readings": [
-        "ぜん",
-        "ねん",
-        "しか",
-        "さ"
-      ]
-    }
-  ],
   "meaningMnemonic": "Something of <kanji>heaven</kanji>'s <kanji>nature</kanji> is indeed <vocabulary>natural</vocabulary>, with no human intervention involved.\n\nAlthough this word is technically a noun, it's often used as an adjective. That's also what distinguishes it from 自然. So you'll often see 天然 used to say that something is \"natural\" or \"of nature\", while 自然 will often be used to talk about nature in general, like saying that nature is beautiful.",
+  "primaryReading": "てんねん",
   "readingMnemonic": "You know the reading for 天, but 然 uses a different reading from what you learned. So here's a mnemonic to help you:\n\nOne thing that definitely isn't <vocabulary>natural</vocabulary> are <reading>nen</reading>doroids (ねん). Remember, the little plastic figurines? Have you ever seen an anime figurine growing naturally in a field before? Yup, me neither. Not very natural.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A4%A9%E7%84%B6",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "天",
-      "id": 473,
-      "reading": "てん"
-    },
-    {
-      "type": "kanji",
-      "value": "然",
-      "id": 881,
-      "reading": "ねん"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A4%A9%E7%84%B6"
+  }
 }

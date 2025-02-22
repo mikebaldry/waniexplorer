@@ -1,0 +1,25 @@
+{
+  "id": 926,
+  "type": "kanji",
+  "character": "雰",
+  "primaryMeaning": "Atmosphere",
+  "otherMeanings": [],
+  "primaryReading": "ふん",
+  "readings": [
+    {
+      "reading": "ふん",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "The reading for this kanji is actually the same as 分s. One trick about complicated kanji is they often take the reading of one of the pieces that they're made from. In this case it's 分, which is cool.",
+  "meaningMnemonic": "<radical>Part</radical> <radical>rain</radical>, part other stuff. I imagine this is what people thought the <kanji>atmosphere</kanji> was made out of thousands of years ago.",
+  "vocabularyIds": [
+    3667
+  ],
+  "radicalIds": [
+    119,
+    247
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%9B%B0"
+}

@@ -1,33 +1,41 @@
 {
   "id": 8922,
   "type": "kanji",
-  "character": "喧",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "喧"
+  },
+  "primaryReading": "けん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "けん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "やかま",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Noisy",
   "otherMeanings": [
     "Picky"
   ],
-  "primaryReading": "けん",
-  "readings": [
-    {
-      "reading": "けん",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "やかま",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "You are so <kanji>noisy</kanji> and <kanji>picky</kanji> that the townsfolk hired <reading>Ken</reading> (けん) the Samurai to shut you up.",
   "meaningMnemonic": "Your <radical>mouth</radical> <radical>proclaim</radical>s \"I am <kanji>noisy</kanji> and I am <kanji>picky</kanji>!\" It keeps repeating this over and over to everyone you pass by.",
-  "vocabularyIds": [
-    8924,
-    8925
-  ],
-  "radicalIds": [
-    16,
-    8906
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%96%A7"
+  "readingMnemonic": "You are so <kanji>noisy</kanji> and <kanji>picky</kanji> that the townsfolk hired <reading>Ken</reading> (けん) the Samurai to shut you up.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%96%A7"
+  },
+  "related": {
+    "radicals": [
+      16,
+      8906
+    ],
+    "vocabularies": [
+      8924,
+      8925
+    ]
+  }
 }

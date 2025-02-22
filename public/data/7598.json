@@ -1,52 +1,23 @@
 {
   "id": 7598,
   "type": "vocabulary",
-  "characters": "上演",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "上演"
+  },
   "primaryMeaning": "Performance",
+  "meaningMnemonic": "What's <kanji>above</kanji> the stage and involves <kanji>acting</kanji>? A <vocabulary>performance</vocabulary>!\n\nThis word does not refer to an actor's acting on stage. Instead, it usually refers to a theatrical or musical presentation in its entirety, so it's used in contexts relating to the act of staging an artistic or dramatic production, or features of the production itself, like its start time or running time (as in 上演時間).",
+  "primaryReading": "じょうえん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Presentation",
     "Production",
     "Staging",
     "Mount"
   ],
-  "primaryReading": "じょうえん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 450,
-      "character": "上",
-      "readings": [
-        "じょう",
-        "うえ",
-        "あ",
-        "のぼ",
-        "うわ",
-        "かみ"
-      ]
-    },
-    {
-      "id": 1196,
-      "character": "演",
-      "readings": [
-        "えん"
-      ]
-    }
-  ],
-  "meaningMnemonic": "What's <kanji>above</kanji> the stage and involves <kanji>acting</kanji>? A <vocabulary>performance</vocabulary>!\n\nThis word does not refer to an actor's acting on stage. Instead, it usually refers to a theatrical or musical presentation in its entirety, so it's used in contexts relating to the act of staging an artistic or dramatic production, or features of the production itself, like its start time or running time (as in 上演時間).",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%8A%E6%BC%94",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "上",
-      "id": 450,
-      "reading": "じょう"
-    },
-    {
-      "type": "kanji",
-      "value": "演",
-      "id": 1196,
-      "reading": "えん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B8%8A%E6%BC%94"
+  }
 }

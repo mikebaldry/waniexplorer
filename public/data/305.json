@@ -1,12 +1,15 @@
 {
   "id": 305,
   "type": "radical",
-  "primaryMeaning": "Half",
-  "otherMeanings": [],
-  "character": {
+  "level": 21,
+  "characters": {
     "type": "text",
     "value": "半"
   },
+  "primaryMeaning": "Half",
+  "otherMeanings": [],
   "meaningMnemonic": "This radical is the same as the kanji. It means <radical>half</radical>.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/half"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/half"
+  }
 }

@@ -1,0 +1,30 @@
+{
+  "id": 1415,
+  "type": "kanji",
+  "character": "系",
+  "primaryMeaning": "Lineage",
+  "otherMeanings": [
+    "System"
+  ],
+  "primaryReading": "けい",
+  "readings": [
+    {
+      "reading": "けい",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "You trace your <kanji>lineage</kanji> back through your whole family <kanji>system</kanji> and realize every single relative loved <reading>ca</reading>ke (けい). Most of them were cake bakers too!",
+  "meaningMnemonic": "The <radical>lineage</radical> radical and the <kanji>lineage</kanji> kanji are the same. Sometimes this kanji can also mean <kanji>system</kanji>. I guess a lineage is a kind of system, if you think about it.",
+  "vocabularyIds": [
+    5352,
+    5353,
+    5354,
+    5355,
+    8496
+  ],
+  "radicalIds": [
+    329
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%B3%BB"
+}

@@ -1,49 +1,20 @@
 {
   "id": 2570,
   "type": "vocabulary",
-  "characters": "日本",
+  "level": 2,
+  "characters": {
+    "type": "text",
+    "value": "日本"
+  },
   "primaryMeaning": "Japan",
-  "otherMeanings": [],
+  "meaningMnemonic": "Remember the secondary meaning of 本 being \"origin\"? That technically makes this <kanji>sun</kanji> <kanji>origin</kanji>. Does that sound familiar? Japan is known as the \"land of the rising sun\", which is why this means <vocabulary>Japan</vocabulary>!",
   "primaryReading": "にほん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. The 本 is read just how you learned it, but the 日 reading is sort of an exception here, so here's a mnemonic to help you:\n\nYou've finally arrived in <vocabulary>Japan</vocabulary> and immediately fall down on your <reading>knee</reading>s (に). After two excruciatingly long flights, you've finally made it. You're here. This is Japan. Now get up off your knees, people are starting to stare.",
+  "otherMeanings": [],
   "otherReadings": [
     "にっぽん"
   ],
-  "kanji": [
-    {
-      "id": 476,
-      "character": "日",
-      "readings": [
-        "にち",
-        "じつ",
-        "ひ",
-        "か",
-        "び"
-      ]
-    },
-    {
-      "id": 487,
-      "character": "本",
-      "readings": [
-        "ほん",
-        "もと"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Remember the secondary meaning of 本 being \"origin\"? That technically makes this <kanji>sun</kanji> <kanji>origin</kanji>. Does that sound familiar? Japan is known as the \"land of the rising sun\", which is why this means <vocabulary>Japan</vocabulary>!",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. The 本 is read just how you learned it, but the 日 reading is sort of an exception here, so here's a mnemonic to help you:\n\nYou've finally arrived in <vocabulary>Japan</vocabulary> and immediately fall down on your <reading>knee</reading>s (に). After two excruciatingly long flights, you've finally made it. You're here. This is Japan. Now get up off your knees, people are starting to stare.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%97%A5%E6%9C%AC",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "日",
-      "id": 476,
-      "reading": null
-    },
-    {
-      "type": "kanji",
-      "value": "本",
-      "id": 487,
-      "reading": null
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%97%A5%E6%9C%AC"
+  }
 }

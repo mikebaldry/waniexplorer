@@ -1,45 +1,18 @@
 {
   "id": 7211,
   "type": "vocabulary",
-  "characters": "耐火",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "耐火"
+  },
   "primaryMeaning": "Fireproof",
-  "otherMeanings": [],
-  "primaryReading": "たいか",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2031,
-      "character": "耐",
-      "readings": [
-        "たい",
-        "た"
-      ]
-    },
-    {
-      "id": 480,
-      "character": "火",
-      "readings": [
-        "か",
-        "ひ",
-        "ほ"
-      ]
-    }
-  ],
   "meaningMnemonic": "If something is <kanji>resistant</kanji> to <kanji>fire</kanji> then it is <vocabulary>fireproof</vocabulary>. Turtles are not this.",
+  "primaryReading": "たいか",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%80%90%E7%81%AB",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "耐",
-      "id": 2031,
-      "reading": "たい"
-    },
-    {
-      "type": "kanji",
-      "value": "火",
-      "id": 480,
-      "reading": "か"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%80%90%E7%81%AB"
+  }
 }

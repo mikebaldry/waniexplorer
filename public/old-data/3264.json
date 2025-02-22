@@ -1,0 +1,49 @@
+{
+  "id": 3264,
+  "type": "vocabulary",
+  "characters": "別人",
+  "primaryMeaning": "Different Person",
+  "otherMeanings": [
+    "Changed Person",
+    "Changed Man"
+  ],
+  "primaryReading": "べつじん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 785,
+      "character": "別",
+      "readings": [
+        "べつ",
+        "わか"
+      ]
+    },
+    {
+      "id": 444,
+      "character": "人",
+      "readings": [
+        "にん",
+        "じん",
+        "ひと",
+        "と"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>separate</kanji> <kanji>person</kanji> is someone who is different from who they were before. I saw you a year ago and you were someone else. Now you're a <vocabulary>different person</vocabulary>, in a good way! You're a <vocabulary>changed man</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%88%A5%E4%BA%BA",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "別",
+      "id": 785,
+      "reading": "べつ"
+    },
+    {
+      "type": "kanji",
+      "value": "人",
+      "id": 444,
+      "reading": "じん"
+    }
+  ]
+}

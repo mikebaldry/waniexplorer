@@ -1,0 +1,47 @@
+{
+  "id": 8810,
+  "type": "vocabulary",
+  "characters": "以降",
+  "primaryMeaning": "Hereafter",
+  "otherMeanings": [
+    "After",
+    "Since"
+  ],
+  "primaryReading": "いこう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 653,
+      "character": "以",
+      "readings": [
+        "い"
+      ]
+    },
+    {
+      "id": 1548,
+      "character": "降",
+      "readings": [
+        "こう",
+        "お",
+        "ふ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Everything that happened <kanji>since</kanji> you <kanji>descend</kanji>ed some stairs, is <vocabulary>hereafter</vocabulary>. It's all <vocabulary>after</vocabulary> the stairs thing you did, <vocabulary>since</vocabulary> you did it already.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BB%A5%E9%99%8D",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "以",
+      "id": 653,
+      "reading": "い"
+    },
+    {
+      "type": "kanji",
+      "value": "降",
+      "id": 1548,
+      "reading": "こう"
+    }
+  ]
+}

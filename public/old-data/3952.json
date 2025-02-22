@@ -1,0 +1,48 @@
+{
+  "id": 3952,
+  "type": "vocabulary",
+  "characters": "大阪",
+  "primaryMeaning": "Osaka",
+  "otherMeanings": [
+    "Oosaka"
+  ],
+  "primaryReading": "おおさか",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 453,
+      "character": "大",
+      "readings": [
+        "たい",
+        "だい",
+        "おお",
+        "ひろ"
+      ]
+    },
+    {
+      "id": 994,
+      "character": "阪",
+      "readings": [
+        "はん",
+        "さか"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>big</kanji> <kanji>heights</kanji>. What a nice area to be, it's where everyone wants to live! This magical place is <vocabulary>Osaka</vocabulary>. Heard of it before? It's a city, and kind of the rival to Tokyo.",
+  "readingMnemonic": "The reading is pretty weird, but then again so are people from Osaka (just kidding, Osakazens!). The 大 reads like おお from おおきい. Then, 阪 uses the kun'yomi reading as well, which you didn't learn. That being said, doesn't this kanji look like 坂, which also means slope? Well, it shares a kun'yomi reading as well, so if you've seen 坂 you can apply that reading over to here, making おおさか. Then again, if you know this word means <vocabulary>Osaka</vocabulary> you probably can figure out how to write it too. Don't forget the double おお though!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A4%A7%E9%98%AA",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "大",
+      "id": 453,
+      "reading": "おお"
+    },
+    {
+      "type": "kanji",
+      "value": "阪",
+      "id": 994,
+      "reading": "さか"
+    }
+  ]
+}

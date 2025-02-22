@@ -1,28 +1,36 @@
 {
   "id": 1586,
   "type": "kanji",
-  "character": "紹",
-  "primaryMeaning": "Introduce",
-  "otherMeanings": [],
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "紹"
+  },
   "primaryReading": "しょう",
   "readings": [
     {
-      "reading": "しょう",
       "primary": true,
+      "reading": "しょう",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "You want to <kanji>introduce</kanji> yourself to the <reading>Shou</reading>gun (しょう) but no matter how much you call out, he won't come close enough for you to tie your introduction thread to him. You call louder and louder, \"SHOUGUN LET ME INTRODUCE MYSELF!\"",
+  "primaryMeaning": "Introduce",
+  "otherMeanings": [],
   "meaningMnemonic": "You create a <radical>thread</radical> with someone by <radical>call</radical>ing out to them to <kanji>introduce</kanji> yourself.",
-  "vocabularyIds": [
-    5879,
-    6042,
-    6043,
-    6044
-  ],
-  "radicalIds": [
-    86,
-    331
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%B4%B9"
+  "readingMnemonic": "You want to <kanji>introduce</kanji> yourself to the <reading>Shou</reading>gun (しょう) but no matter how much you call out, he won't come close enough for you to tie your introduction thread to him. You call louder and louder, \"SHOUGUN LET ME INTRODUCE MYSELF!\"",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%B4%B9"
+  },
+  "related": {
+    "radicals": [
+      86,
+      331
+    ],
+    "vocabularies": [
+      5879,
+      6042,
+      6043,
+      6044
+    ]
+  }
 }

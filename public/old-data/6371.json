@@ -1,0 +1,46 @@
+{
+  "id": 6371,
+  "type": "vocabulary",
+  "characters": "唱歌",
+  "primaryMeaning": "Singing",
+  "otherMeanings": [
+    "Songs"
+  ],
+  "primaryReading": "しょうか",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1746,
+      "character": "唱",
+      "readings": [
+        "しょう",
+        "とな"
+      ]
+    },
+    {
+      "id": 761,
+      "character": "歌",
+      "readings": [
+        "か",
+        "うた"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You're <kanji>chant</kanji>ing and you're <kanji>sing</kanji>ing and you're having a gay ol' time. You're <vocabulary>singing</vocabulary> all your <vocabulary>songs</vocabulary> and even the chanting sounds like singing. It's so fun.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%94%B1%E6%AD%8C",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "唱",
+      "id": 1746,
+      "reading": "しょう"
+    },
+    {
+      "type": "kanji",
+      "value": "歌",
+      "id": 761,
+      "reading": "か"
+    }
+  ]
+}

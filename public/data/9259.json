@@ -1,30 +1,38 @@
 {
   "id": 9259,
   "type": "kanji",
-  "character": "貰",
-  "primaryMeaning": "Receive",
-  "otherMeanings": [],
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "貰"
+  },
   "primaryReading": "もら",
   "readings": [
     {
-      "reading": "もら",
       "primary": true,
+      "reading": "もら",
       "type": "kunyomi"
     },
     {
-      "reading": "せい",
       "primary": false,
+      "reading": "せい",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "Why do you want to <kanji>receive</kanji> all these shellfish? Because it's the <reading>mora</reading>l (もら) thing to do. Oh benevolent, moral king of all the world's shellfish, please receive us. ",
+  "primaryMeaning": "Receive",
+  "otherMeanings": [],
   "meaningMnemonic": "All the <radical>world</radical>'s <radical>shellfish</radical> are yours to <kanji>receive</kanji>.",
-  "vocabularyIds": [
-    9260
-  ],
-  "radicalIds": [
-    83,
-    94
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%B2%B0"
+  "readingMnemonic": "Why do you want to <kanji>receive</kanji> all these shellfish? Because it's the <reading>mora</reading>l (もら) thing to do. Oh benevolent, moral king of all the world's shellfish, please receive us. ",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%B2%B0"
+  },
+  "related": {
+    "radicals": [
+      83,
+      94
+    ],
+    "vocabularies": [
+      9260
+    ]
+  }
 }

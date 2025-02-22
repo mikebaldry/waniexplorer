@@ -1,0 +1,46 @@
+{
+  "id": 7209,
+  "type": "vocabulary",
+  "characters": "忍耐",
+  "primaryMeaning": "Endurance",
+  "otherMeanings": [
+    "Perseverance"
+  ],
+  "primaryReading": "にんたい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1878,
+      "character": "忍",
+      "readings": [
+        "にん",
+        "しの"
+      ]
+    },
+    {
+      "id": 2031,
+      "character": "耐",
+      "readings": [
+        "たい",
+        "た"
+      ]
+    }
+  ],
+  "meaningMnemonic": "I'm <kanji>resistant</kanji> and I <kanji>endure</kanji>. I have much <vocabulary>endurance</vocabulary> and <vocabulary>perseverance</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BF%8D%E8%80%90",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "忍",
+      "id": 1878,
+      "reading": "にん"
+    },
+    {
+      "type": "kanji",
+      "value": "耐",
+      "id": 2031,
+      "reading": "たい"
+    }
+  ]
+}

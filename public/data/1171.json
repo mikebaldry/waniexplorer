@@ -1,31 +1,39 @@
 {
   "id": 1171,
   "type": "kanji",
-  "character": "領",
-  "primaryMeaning": "Territory",
-  "otherMeanings": [],
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "領"
+  },
   "primaryReading": "りょう",
   "readings": [
     {
-      "reading": "りょう",
       "primary": true,
+      "reading": "りょう",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "Not wanting to end up dead in enemy <kanji>territory</kanji>, you decide to escape this geoduck leader by getting on a <reading>row</reading> (りょう) boat and rowing your way outta there. The geoduck commander orders you to halt your escape, but you still get in your row boat and row away.",
+  "primaryMeaning": "Territory",
+  "otherMeanings": [],
   "meaningMnemonic": "Taking <radical>orders</radical> from a <radical>geoduck</radical> will place you into enemy <kanji>territory</kanji>. Geoducks make terrible commanders, so if you take orders from one, expect to end up in unknown territory, potentially even enemy territory. Be prepared.",
-  "vocabularyIds": [
-    4536,
-    4539,
-    4540,
-    4541,
-    4589,
-    4868,
-    8901
-  ],
-  "radicalIds": [
-    189,
-    184
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%A0%98"
+  "readingMnemonic": "Not wanting to end up dead in enemy <kanji>territory</kanji>, you decide to escape this geoduck leader by getting on a <reading>row</reading> (りょう) boat and rowing your way outta there. The geoduck commander orders you to halt your escape, but you still get in your row boat and row away.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%A0%98"
+  },
+  "related": {
+    "radicals": [
+      189,
+      184
+    ],
+    "vocabularies": [
+      4536,
+      4539,
+      4540,
+      4541,
+      4589,
+      4868,
+      8901
+    ]
+  }
 }

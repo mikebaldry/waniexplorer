@@ -1,46 +1,22 @@
 {
   "id": 4076,
   "type": "vocabulary",
-  "characters": "禁句",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "禁句"
+  },
   "primaryMeaning": "Taboo Word",
+  "meaningMnemonic": "A <kanji>paragraph</kanji> that is under <kanji>prohibition</kanji> is under prohibition because it contains a <vocabulary>taboo word</vocabulary> or <vocabulary>taboo phrase</vocabulary>. Do not say this word, please!",
+  "primaryReading": "きんく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Taboo Phrase",
     "Dirty Word",
     "Bad Word"
   ],
-  "primaryReading": "きんく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1054,
-      "character": "禁",
-      "readings": [
-        "きん"
-      ]
-    },
-    {
-      "id": 1053,
-      "character": "句",
-      "readings": [
-        "く"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>paragraph</kanji> that is under <kanji>prohibition</kanji> is under prohibition because it contains a <vocabulary>taboo word</vocabulary> or <vocabulary>taboo phrase</vocabulary>. Do not say this word, please!",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A6%81%E5%8F%A5",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "禁",
-      "id": 1054,
-      "reading": "きん"
-    },
-    {
-      "type": "kanji",
-      "value": "句",
-      "id": 1053,
-      "reading": "く"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%A6%81%E5%8F%A5"
+  }
 }

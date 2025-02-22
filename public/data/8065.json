@@ -1,57 +1,18 @@
 {
   "id": 8065,
   "type": "vocabulary",
-  "characters": "倫理的",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "倫理的"
+  },
   "primaryMeaning": "Ethical",
-  "otherMeanings": [],
-  "primaryReading": "りんりてき",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2172,
-      "character": "倫",
-      "readings": [
-        "りん"
-      ]
-    },
-    {
-      "id": 669,
-      "character": "理",
-      "readings": [
-        "り",
-        "ことわり"
-      ]
-    },
-    {
-      "id": 914,
-      "character": "的",
-      "readings": [
-        "てき",
-        "まと"
-      ]
-    }
-  ],
   "meaningMnemonic": "Things that are <kanji>ethic</kanji> <kanji>al</kanji> are <vocabulary>ethical</vocabulary>.",
+  "primaryReading": "りんりてき",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%80%AB%E7%90%86%E7%9A%84",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "倫",
-      "id": 2172,
-      "reading": "りん"
-    },
-    {
-      "type": "kanji",
-      "value": "理",
-      "id": 669,
-      "reading": "り"
-    },
-    {
-      "type": "kanji",
-      "value": "的",
-      "id": 914,
-      "reading": "てき"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%80%AB%E7%90%86%E7%9A%84"
+  }
 }

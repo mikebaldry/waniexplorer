@@ -1,0 +1,33 @@
+{
+  "id": 1706,
+  "type": "kanji",
+  "character": "還",
+  "primaryMeaning": "Send Back",
+  "otherMeanings": [],
+  "primaryReading": "かん",
+  "readings": [
+    {
+      "reading": "かん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "かえ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "As you prepare to <kanji>send back</kanji> the zombie, you imagine yourself as Genghis <reading>Khan</reading> (かん). On your horse (it's just your own scooter) you stab forward with your spear (stick), swing the scooter the zombie is on, and send it back from whence it came!",
+  "meaningMnemonic": "There's a <radical>scooter</radical> coming toward you with a <radical>net</radical> trapping a weird <radical>zombie</radical> on it. You don't want this here, so you decide to <kanji>send back</kanji> the zombie. (It's a weird zombie because it has the ground on top of its head instead of dirt!)",
+  "vocabularyIds": [
+    6225,
+    6226,
+    6227
+  ],
+  "radicalIds": [
+    114,
+    163,
+    8784
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%82%84"
+}

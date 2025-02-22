@@ -1,8 +1,15 @@
 {
   "id": 7636,
   "type": "vocabulary",
-  "characters": "陽気",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "陽気"
+  },
   "primaryMeaning": "Cheerful",
+  "meaningMnemonic": "If you have a <kanji>spirit</kanji> of <kanji>sunshine</kanji> you're a really <vocabulary>cheerful</vocabulary> person.",
+  "primaryReading": "ようき",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Jovial",
     "Merry",
@@ -10,42 +17,8 @@
     "Spring Season",
     "Warm Weather"
   ],
-  "primaryReading": "ようき",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 834,
-      "character": "陽",
-      "readings": [
-        "よう",
-        "ひ",
-        "はる"
-      ]
-    },
-    {
-      "id": 548,
-      "character": "気",
-      "readings": [
-        "き",
-        "け"
-      ]
-    }
-  ],
-  "meaningMnemonic": "If you have a <kanji>spirit</kanji> of <kanji>sunshine</kanji> you're a really <vocabulary>cheerful</vocabulary> person.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%99%BD%E6%B0%97",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "陽",
-      "id": 834,
-      "reading": "よう"
-    },
-    {
-      "type": "kanji",
-      "value": "気",
-      "id": 548,
-      "reading": "き"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%99%BD%E6%B0%97"
+  }
 }

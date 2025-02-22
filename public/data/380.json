@@ -1,12 +1,15 @@
 {
   "id": 380,
   "type": "radical",
-  "primaryMeaning": "Preserve",
-  "otherMeanings": [],
-  "character": {
+  "level": 40,
+  "characters": {
     "type": "text",
     "value": "保"
   },
+  "primaryMeaning": "Preserve",
+  "otherMeanings": [],
   "meaningMnemonic": "This radical is the same as the kanji. It means <radical>preserve</radical>.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/preserve"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/preserve"
+  }
 }

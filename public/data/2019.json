@@ -1,32 +1,40 @@
 {
   "id": 2019,
   "type": "kanji",
-  "character": "隙",
-  "primaryMeaning": "Crevice",
-  "otherMeanings": [],
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "隙"
+  },
   "primaryReading": "すき",
   "readings": [
     {
-      "reading": "すき",
       "primary": true,
+      "reading": "すき",
       "type": "kunyomi"
     },
     {
-      "reading": "げき",
       "primary": false,
+      "reading": "げき",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "They keep the sun in the <kanji>crevice</kanji> because this is a place where people <reading>ski</reading> (すき).",
+  "primaryMeaning": "Crevice",
+  "otherMeanings": [],
   "meaningMnemonic": "In this <radical>building</radical> there's a <radical>small</radical> <radical>sun</radical> that's <radical>small</radical>. They keep this small, small sun inside of a <kanji>crevice</kanji>.",
-  "vocabularyIds": [
-    7181,
-    7182
-  ],
-  "radicalIds": [
-    176,
-    35,
-    22
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%9A%99"
+  "readingMnemonic": "They keep the sun in the <kanji>crevice</kanji> because this is a place where people <reading>ski</reading> (すき).",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%9A%99"
+  },
+  "related": {
+    "radicals": [
+      176,
+      35,
+      22
+    ],
+    "vocabularies": [
+      7181,
+      7182
+    ]
+  }
 }

@@ -1,47 +1,21 @@
 {
   "id": 6437,
   "type": "vocabulary",
-  "characters": "衝撃",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "衝撃"
+  },
   "primaryMeaning": "Shock",
+  "meaningMnemonic": "If you <kanji>collide</kanji> and <kanji>attack</kanji> what you're colliding into, you're going to not only cause a large <vocabulary>shock</vocabulary> but also <vocabulary>crash</vocabulary> and <vocabulary>impact</vocabulary> into them. Blamo!",
+  "primaryReading": "しょうげき",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Crash",
     "Impact"
   ],
-  "primaryReading": "しょうげき",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1768,
-      "character": "衝",
-      "readings": [
-        "しょう",
-        "つ"
-      ]
-    },
-    {
-      "id": 1377,
-      "character": "撃",
-      "readings": [
-        "げき",
-        "う"
-      ]
-    }
-  ],
-  "meaningMnemonic": "If you <kanji>collide</kanji> and <kanji>attack</kanji> what you're colliding into, you're going to not only cause a large <vocabulary>shock</vocabulary> but also <vocabulary>crash</vocabulary> and <vocabulary>impact</vocabulary> into them. Blamo!",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A1%9D%E6%92%83",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "衝",
-      "id": 1768,
-      "reading": "しょう"
-    },
-    {
-      "type": "kanji",
-      "value": "撃",
-      "id": 1377,
-      "reading": "げき"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%A1%9D%E6%92%83"
+  }
 }

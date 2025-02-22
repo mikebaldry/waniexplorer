@@ -1,0 +1,47 @@
+{
+  "id": 4495,
+  "type": "vocabulary",
+  "characters": "罰金",
+  "primaryMeaning": "A Fine",
+  "otherMeanings": [
+    "Fine"
+  ],
+  "primaryReading": "ばっきん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1155,
+      "character": "罰",
+      "readings": [
+        "ばつ"
+      ]
+    },
+    {
+      "id": 602,
+      "character": "金",
+      "readings": [
+        "きん",
+        "こん",
+        "かね",
+        "かな"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Penalty</kanji> <kanji>gold</kanji> is the money you pay when you get a penalty. It's for <vocabulary>a fine</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. The ばつ gets changed to ばっ though, so don't get it wrong (or you'll get a 罰金!).",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%BD%B0%E9%87%91",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "罰",
+      "id": 1155,
+      "reading": "ばっ"
+    },
+    {
+      "type": "kanji",
+      "value": "金",
+      "id": 602,
+      "reading": "きん"
+    }
+  ]
+}

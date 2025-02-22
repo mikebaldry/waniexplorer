@@ -1,0 +1,34 @@
+{
+  "id": 1697,
+  "type": "kanji",
+  "character": "盤",
+  "primaryMeaning": "Tray",
+  "otherMeanings": [
+    "Platter",
+    "Board"
+  ],
+  "primaryReading": "ばん",
+  "readings": [
+    {
+      "reading": "ばん",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Unfortunately, this boat <kanji>tray</kanji> is so huge, it's gotten you <reading>ban</reading>ned (ばん) from the Small Boat Tray Association. Those pesky small boat tray enthusiasts...",
+  "meaningMnemonic": "Your <radical>boat</radical> holds your <radical>weapon</radical> like a <radical>plate</radical>. So in a way, it's just a <kanji>tray</kanji> for your weapon.",
+  "vocabularyIds": [
+    6204,
+    6205,
+    6206,
+    7010,
+    8393,
+    8397
+  ],
+  "radicalIds": [
+    149,
+    160,
+    84
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%9B%A4"
+}

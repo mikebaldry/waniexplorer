@@ -1,37 +1,45 @@
 {
   "id": 1801,
   "type": "kanji",
-  "character": "郷",
-  "primaryMeaning": "Hometown",
-  "otherMeanings": [],
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "郷"
+  },
   "primaryReading": "きょう",
   "readings": [
     {
-      "reading": "きょう",
       "primary": true,
+      "reading": "きょう",
       "type": "onyomi"
     },
     {
+      "primary": false,
       "reading": "ごう",
-      "primary": false,
       "type": "onyomi"
     },
     {
-      "reading": "さと",
       "primary": false,
+      "reading": "さと",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "Your <kanji>hometown</kanji> is in <reading>きょう</reading>と which, unfortunately, means your poop guy is in きょうと too. Now every time you go back home he's there stinking everything up.",
+  "primaryMeaning": "Hometown",
+  "otherMeanings": [],
   "meaningMnemonic": "Everyone has a <radical>poop</radical> <radical>guy</radical> from their <kanji>hometown</kanji>. You know. That poop guy. And every single time you try to visit your hometown, poop guy is there making everyone uncomfortable and reminding you why you left in the first place.",
-  "vocabularyIds": [
-    6549,
-    6550,
-    6551
-  ],
-  "radicalIds": [
-    87,
-    8829
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%83%B7"
+  "readingMnemonic": "Your <kanji>hometown</kanji> is in <reading>きょう</reading>と which, unfortunately, means your poop guy is in きょうと too. Now every time you go back home he's there stinking everything up.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%83%B7"
+  },
+  "related": {
+    "radicals": [
+      87,
+      8829
+    ],
+    "vocabularies": [
+      6549,
+      6550,
+      6551
+    ]
+  }
 }

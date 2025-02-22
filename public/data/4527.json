@@ -1,45 +1,20 @@
 {
   "id": 4527,
   "type": "vocabulary",
-  "characters": "営業",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "営業"
+  },
   "primaryMeaning": "Business",
+  "meaningMnemonic": "<kanji>Manag</kanji>ing a <kanji>business</kanji>? That's <vocabulary>business</vocabulary>!",
+  "primaryReading": "えいぎょう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Sales"
   ],
-  "primaryReading": "えいぎょう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1168,
-      "character": "営",
-      "readings": [
-        "えい",
-        "いとな"
-      ]
-    },
-    {
-      "id": 756,
-      "character": "業",
-      "readings": [
-        "ぎょう"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Manag</kanji>ing a <kanji>business</kanji>? That's <vocabulary>business</vocabulary>!",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%96%B6%E6%A5%AD",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "営",
-      "id": 1168,
-      "reading": "えい"
-    },
-    {
-      "type": "kanji",
-      "value": "業",
-      "id": 756,
-      "reading": "ぎょう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%96%B6%E6%A5%AD"
+  }
 }

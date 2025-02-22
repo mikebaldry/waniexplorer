@@ -1,0 +1,27 @@
+{
+  "id": 8837,
+  "type": "kanji",
+  "character": "串",
+  "primaryMeaning": "Skewer",
+  "otherMeanings": [
+    "Spit"
+  ],
+  "primaryReading": "くし",
+  "readings": [
+    {
+      "reading": "くし",
+      "primary": true,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Uh oh, this <kanji>skewer</kanji> is really... <reading>cushy</reading> (くし). It's so soft and cushy you can't get any meat or vegetables onto it.",
+  "meaningMnemonic": "The <radical>skewer</radical> radical and the <kanji>skewer</kanji> kanji are exactly the same!",
+  "vocabularyIds": [
+    8847,
+    8848
+  ],
+  "radicalIds": [
+    365
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E4%B8%B2"
+}

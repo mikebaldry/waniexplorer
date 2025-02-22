@@ -1,50 +1,21 @@
 {
   "id": 2931,
   "type": "vocabulary",
-  "characters": "理由",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "理由"
+  },
   "primaryMeaning": "Reason",
+  "meaningMnemonic": "A <kanji>reason</kanji> <kanji>reason</kanji> is a <vocabulary>reason</vocabulary>! How could it not be? Do you have a reason why it shouldn't be? I thought not.\n\nThis word means \"reason\" as in the reason you're studying Japanese, or the reason you're late. That's why it can also mean similar words like <vocabulary>motive</vocabulary> and <vocabulary>excuse</vocabulary>.",
+  "primaryReading": "りゆう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Motive",
     "Excuse"
   ],
-  "primaryReading": "りゆう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 669,
-      "character": "理",
-      "readings": [
-        "り",
-        "ことわり"
-      ]
-    },
-    {
-      "id": 648,
-      "character": "由",
-      "readings": [
-        "ゆう",
-        "ゆ",
-        "ゆい",
-        "よし",
-        "よ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>reason</kanji> <kanji>reason</kanji> is a <vocabulary>reason</vocabulary>! How could it not be? Do you have a reason why it shouldn't be? I thought not.\n\nThis word means \"reason\" as in the reason you're studying Japanese, or the reason you're late. That's why it can also mean similar words like <vocabulary>motive</vocabulary> and <vocabulary>excuse</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%90%86%E7%94%B1",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "理",
-      "id": 669,
-      "reading": "り"
-    },
-    {
-      "type": "kanji",
-      "value": "由",
-      "id": 648,
-      "reading": "ゆう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%90%86%E7%94%B1"
+  }
 }

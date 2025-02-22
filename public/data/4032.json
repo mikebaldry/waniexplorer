@@ -1,46 +1,20 @@
 {
   "id": 4032,
   "type": "vocabulary",
-  "characters": "薬用",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "薬用"
+  },
   "primaryMeaning": "Medicinal",
+  "meaningMnemonic": "Something that's <kanji>use</kanji>d for <kanji>medicine</kanji> is <vocabulary>medicinal</vocabulary>.",
+  "primaryReading": "やくよう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Medicinal Use"
   ],
-  "primaryReading": "やくよう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 997,
-      "character": "薬",
-      "readings": [
-        "やく",
-        "くすり"
-      ]
-    },
-    {
-      "id": 525,
-      "character": "用",
-      "readings": [
-        "よう",
-        "もち"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Something that's <kanji>use</kanji>d for <kanji>medicine</kanji> is <vocabulary>medicinal</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%96%AC%E7%94%A8",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "薬",
-      "id": 997,
-      "reading": "やく"
-    },
-    {
-      "type": "kanji",
-      "value": "用",
-      "id": 525,
-      "reading": "よう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%96%AC%E7%94%A8"
+  }
 }

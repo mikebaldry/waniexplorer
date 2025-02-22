@@ -1,0 +1,38 @@
+{
+  "id": 2579,
+  "type": "vocabulary",
+  "characters": "生",
+  "primaryMeaning": "Fresh",
+  "otherMeanings": [
+    "Raw",
+    "Live"
+  ],
+  "primaryReading": "なま",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 850,
+      "character": "生",
+      "readings": [
+        "せい",
+        "しょう",
+        "い",
+        "なま",
+        "う",
+        "は",
+        "き"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Normally a single kanji alone like this would mean the same thing as its parent kanji, but in the case of <kanji>生</kanji> it's a little different (but still related). When you think of something that has life, it's <vocabulary>fresh</vocabulary> or <vocabulary>raw</vocabulary>. Think sashimi or sushi, for example. You want that to be as close as possible to life as you can, so you eat it when it's fresh and raw. This word can also be used to describe a <vocabulary>live</vocabulary> event, like a concert or sporting event. \n\nYou'll see this word at the beginning of other words. For example, 生たまご is \"raw egg.\"",
+  "readingMnemonic": "This uses one of the kun'yomi readings. Here's a mnemonic to help you remember it:\n\nAfter eating <vocabulary>raw</vocabulary> fish, my yoga teacher and I say <reading>nama</reading>ste (なま) to the sushi chef, bowing low to show our appreciation.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%94%9F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "生",
+      "id": 850,
+      "reading": "なま"
+    }
+  ]
+}

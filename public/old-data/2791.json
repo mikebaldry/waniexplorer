@@ -1,0 +1,44 @@
+{
+  "id": 2791,
+  "type": "vocabulary",
+  "characters": "工学",
+  "primaryMeaning": "Engineering",
+  "otherMeanings": [],
+  "primaryReading": "こうがく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 457,
+      "character": "工",
+      "readings": [
+        "こう",
+        "く"
+      ]
+    },
+    {
+      "id": 599,
+      "character": "学",
+      "readings": [
+        "がく",
+        "まな"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Someone with the <kanji>study</kanji> of <kanji>industry</kanji> is someone who creates things. That would be the study of <vocabulary>engineering</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B7%A5%E5%AD%A6",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "工",
+      "id": 457,
+      "reading": "こう"
+    },
+    {
+      "type": "kanji",
+      "value": "学",
+      "id": 599,
+      "reading": "がく"
+    }
+  ]
+}

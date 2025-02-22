@@ -1,59 +1,18 @@
 {
   "id": 4658,
   "type": "vocabulary",
-  "characters": "伝統的",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "伝統的"
+  },
   "primaryMeaning": "Traditional",
-  "otherMeanings": [],
-  "primaryReading": "でんとうてき",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 777,
-      "character": "伝",
-      "readings": [
-        "でん",
-        "つた",
-        "つて"
-      ]
-    },
-    {
-      "id": 1170,
-      "character": "統",
-      "readings": [
-        "とう",
-        "す"
-      ]
-    },
-    {
-      "id": 914,
-      "character": "的",
-      "readings": [
-        "てき",
-        "まと"
-      ]
-    }
-  ],
   "meaningMnemonic": "If 伝統 is \"tradition,\" then adding a 的 (<kanji>-al</kanji>) to it would make it <vocabulary>traditional</vocabulary>.\n",
+  "primaryReading": "でんとうてき",
   "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BC%9D%E7%B5%B1%E7%9A%84",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "伝",
-      "id": 777,
-      "reading": "でん"
-    },
-    {
-      "type": "kanji",
-      "value": "統",
-      "id": 1170,
-      "reading": "とう"
-    },
-    {
-      "type": "kanji",
-      "value": "的",
-      "id": 914,
-      "reading": "てき"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BC%9D%E7%B5%B1%E7%9A%84"
+  }
 }

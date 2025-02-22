@@ -1,0 +1,45 @@
+{
+  "id": 8843,
+  "type": "vocabulary",
+  "characters": "嬉々",
+  "primaryMeaning": "State Of Enjoyment",
+  "otherMeanings": [
+    "Joyful State"
+  ],
+  "primaryReading": "きき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 8835,
+      "character": "嬉",
+      "readings": [
+        "き",
+        "うれ"
+      ]
+    },
+    {
+      "id": 856,
+      "character": "々",
+      "readings": [
+        "のま"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You're so <kanji>glad</kanji>, you get <kanji>glad</kanji> again. No matter what you're doing, it's undoubtedly in a <vocabulary>state of enjoyment</vocabulary>.\n\n嬉々 itself refers to a <vocabulary>joyful state</vocabulary> where someone happily does something. It's generally used as the adverb 嬉々として, which means “happily” or “gladly.” While less common, it can also serve as an adjective when combined with たる.",
+  "readingMnemonic": "This word uses on'yomi readings of the kanji you learned... twice! You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AC%89%E3%80%85",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "嬉",
+      "id": 8835,
+      "reading": "き"
+    },
+    {
+      "type": "kanji",
+      "value": "々",
+      "id": 8835,
+      "reading": "き"
+    }
+  ]
+}

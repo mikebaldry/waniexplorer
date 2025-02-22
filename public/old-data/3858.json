@@ -1,0 +1,43 @@
+{
+  "id": 3858,
+  "type": "vocabulary",
+  "characters": "ゴミ箱",
+  "primaryMeaning": "Garbage Can",
+  "otherMeanings": [
+    "Garbage Bin",
+    "Trash Can",
+    "Trash Bin",
+    "Waste Can",
+    "Waste Bin",
+    "Rubbish Bin",
+    "Bin"
+  ],
+  "primaryReading": "ごみばこ",
+  "otherReadings": [
+    "ゴミばこ"
+  ],
+  "kanji": [
+    {
+      "id": 972,
+      "character": "箱",
+      "readings": [
+        "はこ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "ゴミ means \"garbage.\" Add a <kanji>box</kanji> to it and you have a garbage box aka a <vocabulary>garbage can</vocabulary> or <vocabulary>garbage bin</vocabulary>.",
+  "readingMnemonic": "The reading is just the kun'yomi reading, the one you learned with the kanji. Be sure to pay attention to the rendaku though. はこ changes to ばこ.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E3%82%B4%E3%83%9F%E7%AE%B1",
+  "elements": [
+    {
+      "type": "kana",
+      "value": "ゴミ"
+    },
+    {
+      "type": "kanji",
+      "value": "箱",
+      "id": 972,
+      "reading": "ばこ"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": 7111,
+  "type": "vocabulary",
+  "characters": "扇子",
+  "primaryMeaning": "Folding Fan",
+  "otherMeanings": [
+    "Traditional Paper Fan",
+    "Paper Fan"
+  ],
+  "primaryReading": "せんす",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1999,
+      "character": "扇",
+      "readings": [
+        "せん",
+        "おうぎ",
+        "あお"
+      ]
+    },
+    {
+      "id": 462,
+      "character": "子",
+      "readings": [
+        "し",
+        "す",
+        "こ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>folding fan</kanji>'s <kanji>child</kanji> is, for some reason, a <vocabulary>folding fan</vocabulary>. I'm guessing there are different sizes of folding fans, and this is the smaller more manageable kind you can carry around easily and make it smaller by folding it up, which is why it's the \"child\" version of the folding fan. Still a folding fan, though.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%89%87%E5%AD%90",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "扇",
+      "id": 1999,
+      "reading": "せん"
+    },
+    {
+      "type": "kanji",
+      "value": "子",
+      "id": 462,
+      "reading": "す"
+    }
+  ]
+}

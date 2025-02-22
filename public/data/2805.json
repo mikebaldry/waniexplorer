@@ -1,38 +1,21 @@
 {
   "id": 2805,
   "type": "vocabulary",
-  "characters": "作る",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "作る"
+  },
   "primaryMeaning": "To Make",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>make</kanji>. The verb form of that is <vocabulary>to make</vocabulary>.",
+  "primaryReading": "つくる",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nYou have to remember the つく portion. In order to do that let's think about something that you're going to make. Imagine something really awesome. You complete it and look at your masterpiece. It's amazing. You realize right then and there that it's <reading>too coo</reading>l (つく) for the general public to see. You proceed to smash it. It's way too cool.",
   "otherMeanings": [
     "To Build",
     "To Create"
   ],
-  "primaryReading": "つくる",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 584,
-      "character": "作",
-      "readings": [
-        "さく",
-        "さ",
-        "つく"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>make</kanji>. The verb form of that is <vocabulary>to make</vocabulary>.",
-  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nYou have to remember the つく portion. In order to do that let's think about something that you're going to make. Imagine something really awesome. You complete it and look at your masterpiece. It's amazing. You realize right then and there that it's <reading>too coo</reading>l (つく) for the general public to see. You proceed to smash it. It's way too cool.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BD%9C%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "作",
-      "id": 584,
-      "reading": "つく"
-    },
-    {
-      "type": "kana",
-      "value": "る"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BD%9C%E3%82%8B"
+  }
 }

@@ -1,37 +1,21 @@
 {
   "id": 3982,
   "type": "vocabulary",
-  "characters": "常に",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "常に"
+  },
   "primaryMeaning": "Always",
+  "meaningMnemonic": "The particle に here is a clue that this word is an adverb. An adverb describes actions, so what's a <kanji>normal</kanji> action? It's one you're <vocabulary>always</vocabulary>, or <vocabulary>constantly</vocabulary>, doing. That's what makes it normal!",
+  "primaryReading": "つねに",
+  "readingMnemonic": "The reading is the kun'yomi reading, which you didn't learn. In order to learn it, think of this:\n\nI <vocabulary>always</vocabulary> <reading>tune</reading> (つね) my violin, but today I didn't tune it. So, now I sound terrible. Imagine how terrible my untuned violin sounds, compared to how it always sounds.",
   "otherMeanings": [
     "Constantly",
     "Continually"
   ],
-  "primaryReading": "つねに",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1011,
-      "character": "常",
-      "readings": [
-        "じょう",
-        "つね"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The particle に here is a clue that this word is an adverb. An adverb describes actions, so what's a <kanji>normal</kanji> action? It's one you're <vocabulary>always</vocabulary>, or <vocabulary>constantly</vocabulary>, doing. That's what makes it normal!",
-  "readingMnemonic": "The reading is the kun'yomi reading, which you didn't learn. In order to learn it, think of this:\n\nI <vocabulary>always</vocabulary> <reading>tune</reading> (つね) my violin, but today I didn't tune it. So, now I sound terrible. Imagine how terrible my untuned violin sounds, compared to how it always sounds.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B8%B8%E3%81%AB",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "常",
-      "id": 1011,
-      "reading": "つね"
-    },
-    {
-      "type": "kana",
-      "value": "に"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%B8%B8%E3%81%AB"
+  }
 }

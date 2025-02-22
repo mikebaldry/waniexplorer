@@ -1,0 +1,39 @@
+{
+  "id": 2902,
+  "type": "vocabulary",
+  "characters": "直す",
+  "primaryMeaning": "To Fix",
+  "otherMeanings": [
+    "To Repair",
+    "To Fix Something",
+    "To Repair Something"
+  ],
+  "primaryReading": "なおす",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 630,
+      "character": "直",
+      "readings": [
+        "ちょく",
+        "じき",
+        "なお"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>fix</kanji> so this vocab word means <vocabulary>to fix</vocabulary>. This is when you're fixing something, as in doing the actual physical action of fixing.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you:\n\nYou have to learn the <ja>なお</ja> part. Think of it this way. You need <vocabulary>to fix</vocabulary> something! It's urgent! You have to fix it <reading>now</reading>! (<ja>なお</ja>).",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%9B%B4%E3%81%99",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "直",
+      "id": 630,
+      "reading": "なお"
+    },
+    {
+      "type": "kana",
+      "value": "す"
+    }
+  ]
+}

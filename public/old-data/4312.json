@@ -1,0 +1,77 @@
+{
+  "id": 4312,
+  "type": "vocabulary",
+  "characters": "立入禁止",
+  "primaryMeaning": "Do Not Enter",
+  "otherMeanings": [
+    "No Entry",
+    "Off-Limits"
+  ],
+  "primaryReading": "たちいりきんし",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 494,
+      "character": "立",
+      "readings": [
+        "りつ",
+        "りゅう",
+        "た"
+      ]
+    },
+    {
+      "id": 445,
+      "character": "入",
+      "readings": [
+        "にゅう",
+        "はい",
+        "い"
+      ]
+    },
+    {
+      "id": 1054,
+      "character": "禁",
+      "readings": [
+        "きん"
+      ]
+    },
+    {
+      "id": 514,
+      "character": "止",
+      "readings": [
+        "し",
+        "と",
+        "や"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Stand</kanji>ing and <kanji>enter</kanji>ing are both 禁止 (prohibited). If you see this sign, it's essentially saying <vocabulary>do not enter</vocabulary> or <vocabulary>no entry</vocabulary>.",
+  "readingMnemonic": "The reading for 立入 is a bit strange, but it might help you to know that it can also be written 立ち入り. The 立ち is the same one you learned with 立ち飲み and the 入り is the reading you learned with 入り口. In our version of the word, the hiragana isn't visible (it's sort of pushed into the kanji), but the word is still pronounced the same way: たちいり.\n\nAnd 禁止 doesn't have any weirdness going on, so at least you have that!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%AB%8B%E5%85%A5%E7%A6%81%E6%AD%A2",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "立",
+      "id": 494,
+      "reading": "た"
+    },
+    {
+      "type": "kanji",
+      "value": "入",
+      "id": 445,
+      "reading": null
+    },
+    {
+      "type": "kanji",
+      "value": "禁",
+      "id": 1054,
+      "reading": null
+    },
+    {
+      "type": "kanji",
+      "value": "止",
+      "id": 514,
+      "reading": null
+    }
+  ]
+}

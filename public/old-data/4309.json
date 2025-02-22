@@ -1,0 +1,34 @@
+{
+  "id": 4309,
+  "type": "vocabulary",
+  "characters": "産む",
+  "primaryMeaning": "To Give Birth",
+  "otherMeanings": [],
+  "primaryReading": "うむ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1109,
+      "character": "産",
+      "readings": [
+        "さん",
+        "う"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>give birth</kanji> so the verb vocab version is <vocabulary>to give birth</vocabulary>.\n\nYou know another 産む as well (生む). This 産む is more sciency, but both are good to know.",
+  "readingMnemonic": "You know another \"to give birth\" word (生む). Guess what!? They share readings!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%94%A3%E3%82%80",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "産",
+      "id": 1109,
+      "reading": "う"
+    },
+    {
+      "type": "kana",
+      "value": "む"
+    }
+  ]
+}

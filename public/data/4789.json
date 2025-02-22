@@ -1,46 +1,20 @@
 {
   "id": 4789,
   "type": "vocabulary",
-  "characters": "告訴",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "告訴"
+  },
   "primaryMeaning": "Accusation",
+  "meaningMnemonic": "I've <kanji>announce</kanji>d I'm going to <kanji>sue</kanji> you. The <vocabulary>accusation</vocabulary> and <vocabulary>charge</vocabulary> I have against you for suing you? Uh... You suck.",
+  "primaryReading": "こくそ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Charge"
   ],
-  "primaryReading": "こくそ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1031,
-      "character": "告",
-      "readings": [
-        "こく",
-        "つ"
-      ]
-    },
-    {
-      "id": 1258,
-      "character": "訴",
-      "readings": [
-        "そ",
-        "うった"
-      ]
-    }
-  ],
-  "meaningMnemonic": "I've <kanji>announce</kanji>d I'm going to <kanji>sue</kanji> you. The <vocabulary>accusation</vocabulary> and <vocabulary>charge</vocabulary> I have against you for suing you? Uh... You suck.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%91%8A%E8%A8%B4",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "告",
-      "id": 1031,
-      "reading": "こく"
-    },
-    {
-      "type": "kanji",
-      "value": "訴",
-      "id": 1258,
-      "reading": "そ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%91%8A%E8%A8%B4"
+  }
 }

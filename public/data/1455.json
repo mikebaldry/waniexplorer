@@ -1,35 +1,43 @@
 {
   "id": 1455,
   "type": "kanji",
-  "character": "掃",
-  "primaryMeaning": "Sweep",
-  "otherMeanings": [],
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "掃"
+  },
   "primaryReading": "そう",
   "readings": [
     {
-      "reading": "そう",
       "primary": true,
+      "reading": "そう",
       "type": "onyomi"
     },
     {
-      "reading": "は",
       "primary": false,
+      "reading": "は",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "Wolverine knows that <kanji>sweep</kanji>ing is good for the <reading>sou</reading>l (そう). Plus, if you don't help clean up after you defeat bad guys, you're just as bad as them. Sweeping up the mess cleans your soul of any guilt too!",
+  "primaryMeaning": "Sweep",
+  "otherMeanings": [],
   "meaningMnemonic": "<radical>Wolverine</radical> ties a <radical>towel</radical> around his <radical>forehead</radical> and takes out his <radical>fingers</radical> instead of his claws so he can <kanji>sweep</kanji> the floor clean. When Wolverine fights, his claws are out and he makes a big ol' mess. But once the fighting is done, it's time to get to work and sweep the mess up.",
-  "vocabularyIds": [
-    5434,
-    5443,
-    5612,
-    5710
-  ],
-  "radicalIds": [
-    63,
-    105,
-    76,
-    102
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%8E%83"
+  "readingMnemonic": "Wolverine knows that <kanji>sweep</kanji>ing is good for the <reading>sou</reading>l (そう). Plus, if you don't help clean up after you defeat bad guys, you're just as bad as them. Sweeping up the mess cleans your soul of any guilt too!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%8E%83"
+  },
+  "related": {
+    "radicals": [
+      63,
+      105,
+      76,
+      102
+    ],
+    "vocabularies": [
+      5434,
+      5443,
+      5612,
+      5710
+    ]
+  }
 }

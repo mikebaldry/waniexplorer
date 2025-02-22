@@ -1,30 +1,38 @@
 {
   "id": 2282,
   "type": "kanji",
-  "character": "循",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "循"
+  },
+  "primaryReading": "じゅん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "じゅん",
+      "type": "onyomi"
+    }
+  ],
   "primaryMeaning": "Circulation",
   "otherMeanings": [
     "Sequential"
   ],
-  "primaryReading": "じゅん",
-  "readings": [
-    {
-      "reading": "じゅん",
-      "primary": true,
-      "type": "onyomi"
-    }
-  ],
-  "readingMnemonic": "This <kanji>circulation</kanji> wouldn't have to even be happening if it wasn't <reading>June</reading> (じゅん). The cliffs are so hot in June, and in any other month the two of you would have just sat down and had a chat. But in June you have to do this weird circulation dance.",
   "meaningMnemonic": "If you want to <radical>loiter</radical> on a <radical>cliff</radical> with the <radical>pope</radical> you better be ready to move in perfect <kanji>circulation</kanji> with him. The pope is wearing really heavy robes and it's hot up here on this cliff, so you both need to walk in circles to keep cool.",
-  "vocabularyIds": [
-    8197,
-    8360,
-    8361
-  ],
-  "radicalIds": [
-    99,
-    116,
-    8773
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%BE%AA"
+  "readingMnemonic": "This <kanji>circulation</kanji> wouldn't have to even be happening if it wasn't <reading>June</reading> (じゅん). The cliffs are so hot in June, and in any other month the two of you would have just sat down and had a chat. But in June you have to do this weird circulation dance.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%BE%AA"
+  },
+  "related": {
+    "radicals": [
+      99,
+      116,
+      8773
+    ],
+    "vocabularies": [
+      8197,
+      8360,
+      8361
+    ]
+  }
 }

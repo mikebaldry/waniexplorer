@@ -1,0 +1,60 @@
+{
+  "id": 7774,
+  "type": "vocabulary",
+  "characters": "用心棒",
+  "primaryMeaning": "Bodyguard",
+  "otherMeanings": [
+    "Bouncer",
+    "Guard"
+  ],
+  "primaryReading": "ようじんぼう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 525,
+      "character": "用",
+      "readings": [
+        "よう",
+        "もち"
+      ]
+    },
+    {
+      "id": 508,
+      "character": "心",
+      "readings": [
+        "しん",
+        "こころ"
+      ]
+    },
+    {
+      "id": 1457,
+      "character": "棒",
+      "readings": [
+        "ぼう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Who do you know that will <kanji>use</kanji> a <kanji>pole</kanji> to stop someone from breaking your <kanji>heart</kanji>? Your <vocabulary>bodyguard</vocabulary>! He's there to make sure no one hurts you, and for some reason he really likes using a pole to do it.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%94%A8%E5%BF%83%E6%A3%92",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "用",
+      "id": 525,
+      "reading": "よう"
+    },
+    {
+      "type": "kanji",
+      "value": "心",
+      "id": 508,
+      "reading": "じん"
+    },
+    {
+      "type": "kanji",
+      "value": "棒",
+      "id": 1457,
+      "reading": "ぼう"
+    }
+  ]
+}

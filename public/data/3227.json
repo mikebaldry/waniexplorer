@@ -1,32 +1,18 @@
 {
   "id": 3227,
   "type": "vocabulary",
-  "characters": "頭",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "頭"
+  },
   "primaryMeaning": "Head",
-  "otherMeanings": [],
-  "primaryReading": "あたま",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 771,
-      "character": "頭",
-      "readings": [
-        "あたま",
-        "かしら",
-        "ず",
-        "とう"
-      ]
-    }
-  ],
   "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "あたま",
   "readingMnemonic": "Since this word is made up of a single kanji, it should use the kun'yomi reading which you learned with the kanji earlier. No problem!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%A0%AD",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "頭",
-      "id": 771,
-      "reading": "あたま"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%A0%AD"
+  }
 }

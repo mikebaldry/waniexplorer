@@ -1,53 +1,21 @@
 {
   "id": 8274,
   "type": "vocabulary",
-  "characters": "尚且つ",
+  "level": 56,
+  "characters": {
+    "type": "text",
+    "value": "尚且つ"
+  },
   "primaryMeaning": "And Yet",
+  "meaningMnemonic": "Someone keeps saying <kanji>furthermore</kanji> and <kanji>also</kanji> over and over again. Just when you think they've stopped, they turn around and say \"<vocabulary>and yet</vocabulary>,\" before going back to repeating <vocabulary>furthermore</vocabulary> and <vocabulary>besides</vocabulary> again and again. It's driving you crazy.",
+  "primaryReading": "なおかつ",
+  "readingMnemonic": "The readings for this word are both kun'yomi readings. You've learned both of these readings by now so you should be able to read this on your own.",
   "otherMeanings": [
     "Besides",
     "Furthermore"
   ],
-  "primaryReading": "なおかつ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2236,
-      "character": "尚",
-      "readings": [
-        "しょう",
-        "なお"
-      ]
-    },
-    {
-      "id": 2249,
-      "character": "且",
-      "readings": [
-        "か",
-        "しょ",
-        "しょう",
-        "そ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Someone keeps saying <kanji>furthermore</kanji> and <kanji>also</kanji> over and over again. Just when you think they've stopped, they turn around and say \"<vocabulary>and yet</vocabulary>,\" before going back to repeating <vocabulary>furthermore</vocabulary> and <vocabulary>besides</vocabulary> again and again. It's driving you crazy.",
-  "readingMnemonic": "The readings for this word are both kun'yomi readings. You've learned both of these readings by now so you should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B0%9A%E4%B8%94%E3%81%A4",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "尚",
-      "id": 2236,
-      "reading": "なお"
-    },
-    {
-      "type": "kanji",
-      "value": "且",
-      "id": 2249,
-      "reading": "か"
-    },
-    {
-      "type": "kana",
-      "value": "つ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%B0%9A%E4%B8%94%E3%81%A4"
+  }
 }

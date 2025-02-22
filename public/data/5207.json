@@ -1,44 +1,18 @@
 {
   "id": 5207,
   "type": "vocabulary",
-  "characters": "登録",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "登録"
+  },
   "primaryMeaning": "Registration",
-  "otherMeanings": [],
-  "primaryReading": "とうろく",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 845,
-      "character": "登",
-      "readings": [
-        "とう",
-        "と",
-        "のぼ"
-      ]
-    },
-    {
-      "id": 1358,
-      "character": "録",
-      "readings": [
-        "ろく"
-      ]
-    }
-  ],
   "meaningMnemonic": "<kanji>Climb</kanji> up and <kanji>record</kanji> your information here. This is <vocabulary>registration</vocabulary>. It's work to get yourself registered (from the climbing) and even if you get your name recorded on there, you may not get in. So record your information, wait, and hope you get in.",
+  "primaryReading": "とうろく",
   "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%99%BB%E9%8C%B2",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "登",
-      "id": 845,
-      "reading": "とう"
-    },
-    {
-      "type": "kanji",
-      "value": "録",
-      "id": 1358,
-      "reading": "ろく"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%99%BB%E9%8C%B2"
+  }
 }

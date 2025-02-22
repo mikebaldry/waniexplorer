@@ -1,39 +1,21 @@
 {
   "id": 6357,
   "type": "vocabulary",
-  "characters": "逃す",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "逃す"
+  },
   "primaryMeaning": "To Miss",
+  "meaningMnemonic": "You already learned that 逃げる means \"to escape,\" and this verb is when you let something escape, or slip through your fingers. So this means <vocabulary>to miss</vocabulary> or <vocabulary>to lose</vocabulary> a good chance, or <vocabulary>to let go</vocabulary> of a good opportunity.",
+  "primaryReading": "のがす",
+  "readingMnemonic": "Here's a mnemonic to remember the kun'yomi for this word:\n\nYou <vocabulary>missed</vocabulary> a huge opportunity. Why? Because there was <reading>no ga</reading>s (のが) in your car! Think about what opportunity you missed out on because you forgot to fill up your car.",
   "otherMeanings": [
     "To Lose",
     "To Let Go"
   ],
-  "primaryReading": "のがす",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1705,
-      "character": "逃",
-      "readings": [
-        "とう",
-        "に",
-        "のが",
-        "の"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You already learned that 逃げる means \"to escape,\" and this verb is when you let something escape, or slip through your fingers. So this means <vocabulary>to miss</vocabulary> or <vocabulary>to lose</vocabulary> a good chance, or <vocabulary>to let go</vocabulary> of a good opportunity.",
-  "readingMnemonic": "Here's a mnemonic to remember the kun'yomi for this word:\n\nYou <vocabulary>missed</vocabulary> a huge opportunity. Why? Because there was <reading>no ga</reading>s (のが) in your car! Think about what opportunity you missed out on because you forgot to fill up your car.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%80%83%E3%81%99",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "逃",
-      "id": 1705,
-      "reading": "のが"
-    },
-    {
-      "type": "kana",
-      "value": "す"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%80%83%E3%81%99"
+  }
 }

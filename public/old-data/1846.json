@@ -1,0 +1,33 @@
+{
+  "id": 1846,
+  "type": "kanji",
+  "character": "牧",
+  "primaryMeaning": "Pasture",
+  "otherMeanings": [],
+  "primaryReading": "ぼく",
+  "readings": [
+    {
+      "reading": "ぼく",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "まき",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "ぼく is one of the common ways to say \"I\" in Japanese (which you should remember!). In this case, you're a boy... a cowboy, and you say, \"<reading>ぼく</reading>will take these cows out to pasture!\"",
+  "meaningMnemonic": "A <radical>cow</radical> in the <radical>winter</radical> doesn't like to leave the barn to go to the <kanji>pasture</kanji>. It has to, though, because a cow's gotta eat.",
+  "vocabularyIds": [
+    6676,
+    6677,
+    6678,
+    6679
+  ],
+  "radicalIds": [
+    126,
+    60
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%89%A7"
+}

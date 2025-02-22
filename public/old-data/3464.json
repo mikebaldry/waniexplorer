@@ -1,0 +1,52 @@
+{
+  "id": 3464,
+  "type": "vocabulary",
+  "characters": "走り回る",
+  "primaryMeaning": "To Run Around",
+  "otherMeanings": [],
+  "primaryReading": "はしりまわる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 595,
+      "character": "走",
+      "readings": [
+        "そう",
+        "はし"
+      ]
+    },
+    {
+      "id": 569,
+      "character": "回",
+      "readings": [
+        "かい",
+        "まわ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You've seen the words 走る (to run) and 回る (to revolve). So, when you're running and revolving while you're doing it, you're running in circles. So, the verb form of that is <vocabulary>to run around</vocabulary>.",
+  "readingMnemonic": "The readings are those like the words 走る and 回る. Make sure you know those words from before and apply that knowledge to read this word as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%B5%B0%E3%82%8A%E5%9B%9E%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "走",
+      "id": 595,
+      "reading": "はし"
+    },
+    {
+      "type": "kana",
+      "value": "り"
+    },
+    {
+      "type": "kanji",
+      "value": "回",
+      "id": 569,
+      "reading": "まわ"
+    },
+    {
+      "type": "kana",
+      "value": "る"
+    }
+  ]
+}

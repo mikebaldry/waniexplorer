@@ -1,0 +1,53 @@
+{
+  "id": 7718,
+  "type": "vocabulary",
+  "characters": "居眠り",
+  "primaryMeaning": "Nap",
+  "otherMeanings": [
+    "Doze",
+    "Dozing",
+    "Nodding Off",
+    "Dozing Off"
+  ],
+  "primaryReading": "いねむり",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1280,
+      "character": "居",
+      "readings": [
+        "きょ",
+        "い"
+      ]
+    },
+    {
+      "id": 1332,
+      "character": "眠",
+      "readings": [
+        "みん",
+        "ねむ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Sometimes even though you're very much awake and <kanji>alive</kanji> you need to <kanji>sleep</kanji> for a little bit, so you take a <vocabulary>nap</vocabulary>. But you're not dead! You're totally alive, so let's hope no one thinks you're doing anything but <vocabulary>dozing off</vocabulary>.",
+  "readingMnemonic": "The readings for this word are both kun'yomi readings. You've learned both of these readings by now so you should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B1%85%E7%9C%A0%E3%82%8A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "居",
+      "id": 1280,
+      "reading": "い"
+    },
+    {
+      "type": "kanji",
+      "value": "眠",
+      "id": 1332,
+      "reading": "ねむ"
+    },
+    {
+      "type": "kana",
+      "value": "り"
+    }
+  ]
+}

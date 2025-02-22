@@ -1,0 +1,29 @@
+{
+  "id": 1200,
+  "type": "kanji",
+  "character": "準",
+  "primaryMeaning": "Standard",
+  "otherMeanings": [],
+  "primaryReading": "じゅん",
+  "readings": [
+    {
+      "reading": "じゅん",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "These wacky dreams are only <kanji>standard</kanji> fare in <reading>June</reading> (じゅん) though. You don’t have them any other time of the year, just in June. You don’t know why June is the only time you have dreams about tsunami riding turkeys, but that’s just the way it is.",
+  "meaningMnemonic": "Riding a <radical>tsunami</radical> you see a <radical>turkey</radical> carrying a <radical>cross</radical>, but that’s pretty <kanji>standard</kanji> here. This is your dreamland. You always dream about tsunamis and the turkeys carrying crosses that ride them. This might be strange for other people, but for you it’s pretty normal.",
+  "vocabularyIds": [
+    4622,
+    4626,
+    4666,
+    4766
+  ],
+  "radicalIds": [
+    103,
+    240,
+    15
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%BA%96"
+}

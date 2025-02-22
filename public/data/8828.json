@@ -1,12 +1,15 @@
 {
   "id": 8828,
   "type": "radical",
-  "primaryMeaning": "Chapter",
-  "otherMeanings": [],
-  "character": {
+  "level": 26,
+  "characters": {
     "type": "text",
     "value": "章"
   },
+  "primaryMeaning": "Chapter",
+  "otherMeanings": [],
   "meaningMnemonic": "This radical is the same as the kanji. It means <radical>chapter</radical>.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/chapter"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/chapter"
+  }
 }

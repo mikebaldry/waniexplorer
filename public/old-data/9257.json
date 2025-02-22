@@ -1,0 +1,35 @@
+{
+  "id": 9257,
+  "type": "vocabulary",
+  "characters": "問う",
+  "primaryMeaning": "To Question Something",
+  "otherMeanings": [],
+  "primaryReading": "とう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 859,
+      "character": "問",
+      "readings": [
+        "もん",
+        "と",
+        "とん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>problem</kanji> and this verb means <vocabulary>to question something</vocabulary>. That's because when you want to get to the bottom of a problem, you question things.\n\nNote that this is a bit of a formal word, so watch out for the contexts it's used in!",
+  "readingMnemonic": "Since this word has okurigana (hiragana attached to the kanji) you know that it's probably going to use the kun'yomi reading. You didn't learn that reading with the kanji, so here's a mnemonic to help you remember this reading:\n\nIt's okay <vocabulary>to question something</vocabulary>, but you should be careful not to step on someone else's <reading>toe</reading>s (と) by doing so. Questioning certain things can offend people, especially when they have strong feelings about it! So be careful about those toes.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%95%8F%E3%81%86",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "問",
+      "id": 859,
+      "reading": "と"
+    },
+    {
+      "type": "kana",
+      "value": "う"
+    }
+  ]
+}

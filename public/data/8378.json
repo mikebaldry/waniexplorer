@@ -1,47 +1,21 @@
 {
   "id": 8378,
   "type": "vocabulary",
-  "characters": "定款",
+  "level": 60,
+  "characters": {
+    "type": "text",
+    "value": "定款"
+  },
   "primaryMeaning": "Articles Of Incorporation",
+  "meaningMnemonic": "<kanji>Article</kanji>s that <kanji>determine</kanji> the rules and regulations of your job or a company are called <vocabulary>articles of incorporation</vocabulary>.",
+  "primaryReading": "ていかん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Company Statute",
     "Articles Of The Company Laws"
   ],
-  "primaryReading": "ていかん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 714,
-      "character": "定",
-      "readings": [
-        "てい",
-        "じょう",
-        "さだ"
-      ]
-    },
-    {
-      "id": 2347,
-      "character": "款",
-      "readings": [
-        "かん"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Article</kanji>s that <kanji>determine</kanji> the rules and regulations of your job or a company are called <vocabulary>articles of incorporation</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AE%9A%E6%AC%BE",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "定",
-      "id": 714,
-      "reading": "てい"
-    },
-    {
-      "type": "kanji",
-      "value": "款",
-      "id": 2347,
-      "reading": "かん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%AE%9A%E6%AC%BE"
+  }
 }

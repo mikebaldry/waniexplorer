@@ -1,47 +1,21 @@
 {
   "id": 5590,
   "type": "vocabulary",
-  "characters": "欲求",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "欲求"
+  },
   "primaryMeaning": "Wants",
+  "meaningMnemonic": "What you <kanji>want</kanji> and <kanji>request</kanji> are your <vocabulary>wants</vocabulary>, your <vocabulary>desires</vocabulary>, perhaps your <vocabulary>craving</vocabulary>. You want these things so you request them. I wants them!",
+  "primaryReading": "よっきゅう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. よく goes to よっ, so be careful not to want the wrong reading.",
   "otherMeanings": [
     "Desires",
     "Craving"
   ],
-  "primaryReading": "よっきゅう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1507,
-      "character": "欲",
-      "readings": [
-        "よく",
-        "ほ"
-      ]
-    },
-    {
-      "id": 913,
-      "character": "求",
-      "readings": [
-        "きゅう",
-        "もと"
-      ]
-    }
-  ],
-  "meaningMnemonic": "What you <kanji>want</kanji> and <kanji>request</kanji> are your <vocabulary>wants</vocabulary>, your <vocabulary>desires</vocabulary>, perhaps your <vocabulary>craving</vocabulary>. You want these things so you request them. I wants them!",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. よく goes to よっ, so be careful not to want the wrong reading.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%AC%B2%E6%B1%82",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "欲",
-      "id": 1507,
-      "reading": null
-    },
-    {
-      "type": "kanji",
-      "value": "求",
-      "id": 913,
-      "reading": null
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%AC%B2%E6%B1%82"
+  }
 }

@@ -1,47 +1,21 @@
 {
   "id": 3967,
   "type": "vocabulary",
-  "characters": "内因",
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "内因"
+  },
   "primaryMeaning": "Internal Cause",
+  "meaningMnemonic": "The <kanji>inside</kanji> <kanji>cause</kanji> is an <vocabulary>internal cause</vocabulary>. Internal causes are usually the nastiest causes, if you ask me.\n\nThis word is mostly used in the fields of medicine and psychology. You’ll often see it as 内因性, which is a technical term used to talk about factors that originate within a person or an organism.",
+  "primaryReading": "ないいん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Internal Factor",
     "Endogenous Factor"
   ],
-  "primaryReading": "ないいん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 500,
-      "character": "内",
-      "readings": [
-        "ない",
-        "うち"
-      ]
-    },
-    {
-      "id": 1010,
-      "character": "因",
-      "readings": [
-        "いん",
-        "よ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The <kanji>inside</kanji> <kanji>cause</kanji> is an <vocabulary>internal cause</vocabulary>. Internal causes are usually the nastiest causes, if you ask me.\n\nThis word is mostly used in the fields of medicine and psychology. You’ll often see it as 内因性, which is a technical term used to talk about factors that originate within a person or an organism.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%86%85%E5%9B%A0",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "内",
-      "id": 500,
-      "reading": "ない"
-    },
-    {
-      "type": "kanji",
-      "value": "因",
-      "id": 1010,
-      "reading": "いん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%86%85%E5%9B%A0"
+  }
 }

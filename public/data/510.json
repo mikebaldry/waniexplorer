@@ -1,49 +1,57 @@
 {
   "id": 510,
   "type": "kanji",
-  "character": "方",
+  "level": 3,
+  "characters": {
+    "type": "text",
+    "value": "方"
+  },
+  "primaryReading": "ほう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ほう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "かた",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Direction",
   "otherMeanings": [
     "Way"
   ],
-  "primaryReading": "ほう",
-  "readings": [
-    {
-      "reading": "ほう",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "かた",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "What <kanji>direction</kanji> do you always know? Which direction do you always want to go? <reading>Ho</reading>me (ほう). Something about your home always stays with you, no matter how far away you go. So if you're lost and you don't know which direction to go, just think of home!",
   "meaningMnemonic": "The radical and the kanji for <kanji>direction</kanji> are the same! Huzzah!\n\nThere is also another meaning too, though. This can also mean <kanji>way</kanji> as well. Think of it this way: When you move in one direction in your life, you are developing your own way. \"The way of [your name here].\"",
-  "vocabularyIds": [
-    2612,
-    2701,
-    2716,
-    2717,
-    2766,
-    2853,
-    2858,
-    2897,
-    3216,
-    3419,
-    3437,
-    3450,
-    3499,
-    3555,
-    3773,
-    4030,
-    4106,
-    7463,
-    8300
-  ],
-  "radicalIds": [
-    66
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%96%B9"
+  "readingMnemonic": "What <kanji>direction</kanji> do you always know? Which direction do you always want to go? <reading>Ho</reading>me (ほう). Something about your home always stays with you, no matter how far away you go. So if you're lost and you don't know which direction to go, just think of home!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%96%B9"
+  },
+  "related": {
+    "radicals": [
+      66
+    ],
+    "vocabularies": [
+      2612,
+      2701,
+      2716,
+      2717,
+      2766,
+      2853,
+      2858,
+      2897,
+      3216,
+      3419,
+      3437,
+      3450,
+      3499,
+      3555,
+      3773,
+      4030,
+      4106,
+      7463,
+      8300
+    ]
+  }
 }

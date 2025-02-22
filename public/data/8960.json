@@ -1,45 +1,23 @@
 {
   "id": 8960,
   "type": "vocabulary",
-  "characters": "ベッドの下",
+  "level": 3,
+  "characters": {
+    "type": "text",
+    "value": "ベッドの下"
+  },
   "primaryMeaning": "Under The Bed",
+  "meaningMnemonic": "This starts with another katakana word, so you can assume that it's a loan word. This one also comes from English. Can you figure out what it means? That's right, \"bed\". Then comes the particle の, which joins two nouns together. Finally, we have 下, which you learned means \"down\" or \"below\". Put these elements together and you get <vocabulary>below the bed</vocabulary>, <vocabulary>under the bed</vocabulary> or <vocabulary>beneath the bed</vocabulary>. What's under your bed?",
+  "primaryReading": "べっどのした",
+  "readingMnemonic": "下 is a standalone word here, so it uses the same reading that you learned when you learned the vocabulary.",
   "otherMeanings": [
     "Below The Bed",
     "Beneath The Bed"
   ],
-  "primaryReading": "べっどのした",
   "otherReadings": [
     "ベッドのした"
   ],
-  "kanji": [
-    {
-      "id": 451,
-      "character": "下",
-      "readings": [
-        "か",
-        "げ",
-        "した",
-        "さ",
-        "くだ",
-        "お",
-        "しも",
-        "もと"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This starts with another katakana word, so you can assume that it's a loan word. This one also comes from English. Can you figure out what it means? That's right, \"bed\". Then comes the particle の, which joins two nouns together. Finally, we have 下, which you learned means \"down\" or \"below\". Put these elements together and you get <vocabulary>below the bed</vocabulary>, <vocabulary>under the bed</vocabulary> or <vocabulary>beneath the bed</vocabulary>. What's under your bed?",
-  "readingMnemonic": "下 is a standalone word here, so it uses the same reading that you learned when you learned the vocabulary.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E3%83%99%E3%83%83%E3%83%89%E3%81%AE%E4%B8%8B",
-  "elements": [
-    {
-      "type": "kana",
-      "value": "ベッドの"
-    },
-    {
-      "type": "kanji",
-      "value": "下",
-      "id": 451,
-      "reading": "した"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E3%83%99%E3%83%83%E3%83%89%E3%81%AE%E4%B8%8B"
+  }
 }

@@ -1,36 +1,44 @@
 {
   "id": 1007,
   "type": "kanji",
-  "character": "梅",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "梅"
+  },
+  "primaryReading": "うめ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "うめ",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ばい",
+      "type": "onyomi"
+    }
+  ],
   "primaryMeaning": "Ume",
   "otherMeanings": [
     "Japanese Plum"
   ],
-  "primaryReading": "うめ",
-  "readings": [
-    {
-      "reading": "うめ",
-      "primary": true,
-      "type": "kunyomi"
-    },
-    {
-      "reading": "ばい",
-      "primary": false,
-      "type": "onyomi"
-    }
-  ],
-  "readingMnemonic": "You’ve probably heard of <kanji>ume</kanji> before, depending on your exposure to Japan, but an <reading>ume</reading> (うめ) is a <kanji>Japanese plum</kanji>.",
   "meaningMnemonic": "Aiming your <radical>gun</radical> out the <radical>window</radical>, you shoot at a <radical>tree</radical> filled with <kanji>ume</kanji>, <kanji>Japanese plum</kanji>s. This is, in your opinion, the best way to harvest the plums – shooting at them out your window with a gun.",
-  "vocabularyIds": [
-    4015,
-    4016,
-    4214,
-    9271
-  ],
-  "radicalIds": [
-    23,
-    8762,
-    107
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%A2%85"
+  "readingMnemonic": "You’ve probably heard of <kanji>ume</kanji> before, depending on your exposure to Japan, but an <reading>ume</reading> (うめ) is a <kanji>Japanese plum</kanji>.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%A2%85"
+  },
+  "related": {
+    "radicals": [
+      23,
+      8762,
+      107
+    ],
+    "vocabularies": [
+      4015,
+      4016,
+      4214,
+      9271
+    ]
+  }
 }

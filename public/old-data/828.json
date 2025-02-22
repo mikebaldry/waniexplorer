@@ -1,0 +1,34 @@
+{
+  "id": 828,
+  "type": "kanji",
+  "character": "商",
+  "primaryMeaning": "Merchandise",
+  "otherMeanings": [],
+  "primaryReading": "しょう",
+  "readings": [
+    {
+      "reading": "しょう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "あきな",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "The mustache is selling his <kanji>merchandise</kanji> so well that even the <reading>Shou</reading>gun (しょう) notices. He leans down really close to the standing mustache man's merchandise and stays very still. Then he snaps his fingers and his servants come rushing out to buy it all!",
+  "meaningMnemonic": "A <radical>stand</radical>ing <radical>mustache</radical> with <radical>legs</radical> is able to sell <kanji>merchandise</kanji>. Most mustaches can’t stand because they don’t have legs. This mustache, however, does. It also has a keen business sense, which is why it’s selling merchandise.",
+  "vocabularyIds": [
+    3355,
+    3356,
+    3822,
+    5278
+  ],
+  "radicalIds": [
+    55,
+    121,
+    28
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%95%86"
+}

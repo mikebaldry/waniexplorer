@@ -1,0 +1,47 @@
+{
+  "id": 4826,
+  "type": "vocabulary",
+  "characters": "二巻",
+  "primaryMeaning": "Second Volume",
+  "otherMeanings": [
+    "Two Volumes"
+  ],
+  "primaryReading": "にかん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 441,
+      "character": "二",
+      "readings": [
+        "に",
+        "ふた"
+      ]
+    },
+    {
+      "id": 1273,
+      "character": "巻",
+      "readings": [
+        "かん",
+        "ま",
+        "まき"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The number <kanji>two</kanji> <kanji>scroll</kanji> is the <vocabulary>second volume</vocabulary>. With Japanese books, they often come in pieces with groups of three being common. This represents the <vocabulary>second volume</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BA%8C%E5%B7%BB",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "二",
+      "id": 441,
+      "reading": "に"
+    },
+    {
+      "type": "kanji",
+      "value": "巻",
+      "id": 1273,
+      "reading": "かん"
+    }
+  ]
+}

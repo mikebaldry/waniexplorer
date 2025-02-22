@@ -1,0 +1,61 @@
+{
+  "id": 4056,
+  "type": "vocabulary",
+  "characters": "月曜日",
+  "primaryMeaning": "Monday",
+  "otherMeanings": [],
+  "primaryReading": "げつようび",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 477,
+      "character": "月",
+      "readings": [
+        "げつ",
+        "がつ",
+        "つき"
+      ]
+    },
+    {
+      "id": 961,
+      "character": "曜",
+      "readings": [
+        "よう"
+      ]
+    },
+    {
+      "id": 476,
+      "character": "日",
+      "readings": [
+        "にち",
+        "じつ",
+        "ひ",
+        "か",
+        "び"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This is a day of the week. You know this because it has 曜日 in it. But what day of the week is it? The \"<kanji>moon</kanji>\" day of the week is <vocabulary>monday</vocabulary>. Why? Because \"Moon\" is pretty much just \"Mon,\" right?",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. It will help to know the word 曜日 as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9C%88%E6%9B%9C%E6%97%A5",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "月",
+      "id": 477,
+      "reading": "げつ"
+    },
+    {
+      "type": "kanji",
+      "value": "曜",
+      "id": 961,
+      "reading": "よう"
+    },
+    {
+      "type": "kanji",
+      "value": "日",
+      "id": 476,
+      "reading": "び"
+    }
+  ]
+}

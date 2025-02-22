@@ -1,0 +1,43 @@
+{
+  "id": 4078,
+  "type": "vocabulary",
+  "characters": "許可",
+  "primaryMeaning": "Permission",
+  "otherMeanings": [],
+  "primaryReading": "きょか",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1050,
+      "character": "許",
+      "readings": [
+        "きょ",
+        "ゆる"
+      ]
+    },
+    {
+      "id": 1049,
+      "character": "可",
+      "readings": [
+        "か"
+      ]
+    }
+  ],
+  "meaningMnemonic": "I <kanji>permit</kanji> that it is <kanji>possible</kanji>. So, go ahead, do it. I give you <vocabulary>permission</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A8%B1%E5%8F%AF",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "許",
+      "id": 1050,
+      "reading": "きょ"
+    },
+    {
+      "type": "kanji",
+      "value": "可",
+      "id": 1049,
+      "reading": "か"
+    }
+  ]
+}

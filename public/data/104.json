@@ -1,12 +1,15 @@
 {
   "id": 104,
   "type": "radical",
-  "primaryMeaning": "Coffin",
-  "otherMeanings": [],
-  "character": {
+  "level": 5,
+  "characters": {
     "type": "text",
     "value": "耂"
   },
+  "primaryMeaning": "Coffin",
+  "otherMeanings": [],
   "meaningMnemonic": "See the slide going into the dirt? That's where they throw your body when you die. It's actually a <radical>coffin</radical>!",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/coffin"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/coffin"
+  }
 }

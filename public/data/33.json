@@ -1,12 +1,15 @@
 {
   "id": 33,
   "type": "radical",
-  "primaryMeaning": "Evening",
-  "otherMeanings": [],
-  "character": {
+  "level": 2,
+  "characters": {
     "type": "text",
     "value": "夕"
   },
-  "meaningMnemonic": "Do you see the prison and drop radicals making up this radical? This prison is holding onto a drop because it's the <radical>evening</radical>. Evening air does a better job of holding on to drops of liquid like this, which is why everything is covered in dew in the morning.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/evening"
+  "primaryMeaning": "Evening",
+  "otherMeanings": [],
+  "meaningMnemonic": "This is the top half of a moon peeking out as it begins to rise. When does that happen? In the <radical>evening</radical>! Don't confuse this with the moon radical 月. 夕 is for the evening, when the moon's still low enough to be partly covered (by a mountain, for example).",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/evening"
+  }
 }

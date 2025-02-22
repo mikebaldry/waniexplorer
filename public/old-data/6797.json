@@ -1,0 +1,31 @@
+{
+  "id": 6797,
+  "type": "vocabulary",
+  "characters": "侍",
+  "primaryMeaning": "Samurai",
+  "otherMeanings": [],
+  "primaryReading": "さむらい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1882,
+      "character": "侍",
+      "readings": [
+        "さむらい",
+        "じ",
+        "し"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "The reading is the same as the meaning and the reading of the kanji: <reading>さむらい</reading>.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BE%8D",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "侍",
+      "id": 1882,
+      "reading": "さむらい"
+    }
+  ]
+}

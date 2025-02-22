@@ -1,0 +1,32 @@
+{
+  "id": 1370,
+  "type": "kanji",
+  "character": "精",
+  "primaryMeaning": "Spirit",
+  "otherMeanings": [
+    "Pure"
+  ],
+  "primaryReading": "せい",
+  "readings": [
+    {
+      "reading": "せい",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "You want to see the <kanji>spirit</kanji> up close, so you take your <reading>sa</reading>ber (せい), throw the blue rice in the air, and slice it in half! The rice explodes and blue light fills everything!\n\nThen it's gone.",
+  "meaningMnemonic": "<radical>Rice</radical> that is <radical>blue</radical> has a strong <kanji>spirit</kanji>. Our spirits are blue, so if you ever see rice (or other food, or even people) that's blue, you know that's their spirit radiating out!",
+  "vocabularyIds": [
+    5187,
+    5188,
+    5349,
+    5350,
+    5351,
+    8914
+  ],
+  "radicalIds": [
+    98,
+    120
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%B2%BE"
+}

@@ -1,0 +1,47 @@
+{
+  "id": 4711,
+  "type": "vocabulary",
+  "characters": "視覚",
+  "primaryMeaning": "Sense Of Sight",
+  "otherMeanings": [
+    "Sight"
+  ],
+  "primaryReading": "しかく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1234,
+      "character": "視",
+      "readings": [
+        "し",
+        "み"
+      ]
+    },
+    {
+      "id": 1025,
+      "character": "覚",
+      "readings": [
+        "かく",
+        "おぼ",
+        "さ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You <kanji>look at</kanji> things and <kanji>memorize</kanji> them via your sight, using your <vocabulary>sense of sight</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A6%96%E8%A6%9A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "視",
+      "id": 1234,
+      "reading": "し"
+    },
+    {
+      "type": "kanji",
+      "value": "覚",
+      "id": 1025,
+      "reading": "かく"
+    }
+  ]
+}

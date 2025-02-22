@@ -1,37 +1,21 @@
 {
   "id": 3562,
   "type": "vocabulary",
-  "characters": "起こる",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "起こる"
+  },
   "primaryMeaning": "To Occur",
+  "meaningMnemonic": "You know that 起きる means \"to wake up\", but did you learn its secondary meaning, \"to occur\"? Well, this word means only <vocabulary>to occur</vocabulary>. Just imagine an incident occurring involving a uranium <reading>core</reading> (こる) to remember that this means <vocabulary>to occur</vocabulary>. After all, uranium core incidents don't wake up, do they?",
+  "primaryReading": "おこる",
+  "readingMnemonic": "The reading is the same as what you learned with the kanji and the same as 起きる too, meaning you should be able to put together the reading on your own.",
   "otherMeanings": [
     "To Happen",
     "To Take Place"
   ],
-  "primaryReading": "おこる",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 740,
-      "character": "起",
-      "readings": [
-        "お",
-        "き"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You know that 起きる means \"to wake up\", but did you learn its secondary meaning, \"to occur\"? Well, this word means only <vocabulary>to occur</vocabulary>. Just imagine an incident occurring involving a uranium <reading>core</reading> (こる) to remember that this means <vocabulary>to occur</vocabulary>. After all, uranium core incidents don't wake up, do they?",
-  "readingMnemonic": "The reading is the same as what you learned with the kanji and the same as 起きる too, meaning you should be able to put together the reading on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%B5%B7%E3%81%93%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "起",
-      "id": 740,
-      "reading": "お"
-    },
-    {
-      "type": "kana",
-      "value": "こる"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%B5%B7%E3%81%93%E3%82%8B"
+  }
 }

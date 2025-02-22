@@ -1,62 +1,21 @@
 {
   "id": 7586,
   "type": "vocabulary",
-  "characters": "動物園",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "動物園"
+  },
   "primaryMeaning": "Zoo",
+  "meaningMnemonic": "Remember how 動物 means animal? Well when you add <kanji>park</kanji> it becomes a <vocabulary>zoo</vocabulary>. It's a park for animals. Except the animals can't leave. Ever.",
+  "primaryReading": "どうぶつえん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Zoological Gardens",
     "Menagerie"
   ],
-  "primaryReading": "どうぶつえん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 827,
-      "character": "動",
-      "readings": [
-        "どう",
-        "うご"
-      ]
-    },
-    {
-      "id": 718,
-      "character": "物",
-      "readings": [
-        "ぶつ",
-        "もつ",
-        "もの"
-      ]
-    },
-    {
-      "id": 960,
-      "character": "園",
-      "readings": [
-        "えん",
-        "その"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Remember how 動物 means animal? Well when you add <kanji>park</kanji> it becomes a <vocabulary>zoo</vocabulary>. It's a park for animals. Except the animals can't leave. Ever.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8B%95%E7%89%A9%E5%9C%92",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "動",
-      "id": 827,
-      "reading": "どう"
-    },
-    {
-      "type": "kanji",
-      "value": "物",
-      "id": 718,
-      "reading": "ぶつ"
-    },
-    {
-      "type": "kanji",
-      "value": "園",
-      "id": 960,
-      "reading": "えん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%8B%95%E7%89%A9%E5%9C%92"
+  }
 }

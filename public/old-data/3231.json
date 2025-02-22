@@ -1,0 +1,34 @@
+{
+  "id": 3231,
+  "type": "vocabulary",
+  "characters": "〜病",
+  "primaryMeaning": "Disease",
+  "otherMeanings": [
+    "Sickness",
+    "Illness"
+  ],
+  "primaryReading": "びょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 773,
+      "character": "病",
+      "readings": [
+        "びょう",
+        "や",
+        "やまい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "As you can probably imagine, when you add the kanji <kanji>sick</kanji> to another word, you're saying what kind of <vocabulary>sickness</vocabulary> it is; you are mentioning what <vocabulary>disease</vocabulary> it is.",
+  "readingMnemonic": "Since this is attached to other words, it's treated like jukugo and gets on'yomi treatment. This is the reading you learned with the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E3%80%9C%E7%97%85",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "病",
+      "id": 773,
+      "reading": "びょう"
+    }
+  ]
+}

@@ -1,53 +1,21 @@
 {
   "id": 8701,
   "type": "vocabulary",
-  "characters": "生物",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "生物"
+  },
   "primaryMeaning": "Living Thing",
+  "meaningMnemonic": "A <kanji>life</kanji> <kanji>thing</kanji> is a <vocabulary>living thing</vocabulary>, a <vocabulary>creature</vocabulary>, or an <vocabulary>organism</vocabulary>.",
+  "primaryReading": "せいぶつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Creature",
     "Organism"
   ],
-  "primaryReading": "せいぶつ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 850,
-      "character": "生",
-      "readings": [
-        "せい",
-        "しょう",
-        "い",
-        "なま",
-        "う",
-        "は",
-        "き"
-      ]
-    },
-    {
-      "id": 718,
-      "character": "物",
-      "readings": [
-        "ぶつ",
-        "もつ",
-        "もの"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>life</kanji> <kanji>thing</kanji> is a <vocabulary>living thing</vocabulary>, a <vocabulary>creature</vocabulary>, or an <vocabulary>organism</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%94%9F%E7%89%A9",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "生",
-      "id": 850,
-      "reading": "せい"
-    },
-    {
-      "type": "kanji",
-      "value": "物",
-      "id": 718,
-      "reading": "ぶつ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%94%9F%E7%89%A9"
+  }
 }

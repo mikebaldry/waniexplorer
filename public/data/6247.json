@@ -1,38 +1,20 @@
 {
   "id": 6247,
   "type": "vocabulary",
-  "characters": "弾く",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "弾く"
+  },
   "primaryMeaning": "To Play A Stringed Instrument",
+  "meaningMnemonic": "You'd think that this means \"to bullet\" but it does not. It means <vocabulary>to play a stringed instrument</vocabulary>. It's actually used for all stringed instruments, and all instruments with a keyboard, like pianos and electric keyboards. Just imagine taking a bullet and using it as a pick for a guitar, then using it to press down the keys of a piano and play a tune.",
+  "primaryReading": "ひく",
+  "readingMnemonic": "The reading is the same as 引く, which is \"to pull.\" When you play a stringed instrument, you are pulling the string in a direction to make it vibrate and create a sound. So, \"to pull\" and \"to play a stringed instrument\" share a reading. It's a bit more of a stretch for instruments with keyboards, but pianos do at least have strings...",
   "otherMeanings": [
     "To Play"
   ],
-  "primaryReading": "ひく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1659,
-      "character": "弾",
-      "readings": [
-        "だん",
-        "ひ",
-        "はず",
-        "たま"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You'd think that this means \"to bullet\" but it does not. It means <vocabulary>to play a stringed instrument</vocabulary>. It's actually used for all stringed instruments, and all instruments with a keyboard, like pianos and electric keyboards. Just imagine taking a bullet and using it as a pick for a guitar, then using it to press down the keys of a piano and play a tune.",
-  "readingMnemonic": "The reading is the same as 引く, which is \"to pull.\" When you play a stringed instrument, you are pulling the string in a direction to make it vibrate and create a sound. So, \"to pull\" and \"to play a stringed instrument\" share a reading. It's a bit more of a stretch for instruments with keyboards, but pianos do at least have strings...",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BC%BE%E3%81%8F",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "弾",
-      "id": 1659,
-      "reading": "ひ"
-    },
-    {
-      "type": "kana",
-      "value": "く"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%BC%BE%E3%81%8F"
+  }
 }

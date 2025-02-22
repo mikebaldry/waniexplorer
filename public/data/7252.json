@@ -1,48 +1,21 @@
 {
   "id": 7252,
   "type": "vocabulary",
-  "characters": "殴打",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "殴打"
+  },
   "primaryMeaning": "Hit",
+  "meaningMnemonic": "An <kanji>assault</kanji> <kanji>hit</kanji> is a <vocabulary>hit</vocabulary> or <vocabulary>strike</vocabulary> or <vocabulary>blow</vocabulary>. Not a friendly hit, that's for sure.",
+  "primaryReading": "おうだ",
+  "readingMnemonic": "The reading is the on'yomi readings of the kanji. ",
   "otherMeanings": [
     "Strike",
     "Blow"
   ],
-  "primaryReading": "おうだ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2046,
-      "character": "殴",
-      "readings": [
-        "おう",
-        "なぐ"
-      ]
-    },
-    {
-      "id": 536,
-      "character": "打",
-      "readings": [
-        "だ",
-        "う",
-        "ぶ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "An <kanji>assault</kanji> <kanji>hit</kanji> is a <vocabulary>hit</vocabulary> or <vocabulary>strike</vocabulary> or <vocabulary>blow</vocabulary>. Not a friendly hit, that's for sure.",
-  "readingMnemonic": "The reading is the on'yomi readings of the kanji. ",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%AE%B4%E6%89%93",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "殴",
-      "id": 2046,
-      "reading": "おう"
-    },
-    {
-      "type": "kanji",
-      "value": "打",
-      "id": 536,
-      "reading": "だ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%AE%B4%E6%89%93"
+  }
 }

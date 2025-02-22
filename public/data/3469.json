@@ -1,62 +1,21 @@
 {
   "id": 3469,
   "type": "vocabulary",
-  "characters": "小学校",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "小学校"
+  },
   "primaryMeaning": "Elementary School",
+  "meaningMnemonic": "You've seen 学校 from a couple levels ago. Now we're adding a <kanji>small</kanji> to it. What is a \"small school\"? That's a school for small people, making it an <vocabulary>elementary school</vocabulary>.",
+  "primaryReading": "しょうがっこう",
+  "readingMnemonic": "The reading is the regular on'yomi reading of 小 plus the vocab word 学校 that you've seen previously. Combine these two things for the reading of 小学校.",
   "otherMeanings": [
     "Primary School",
     "Grade School"
   ],
-  "primaryReading": "しょうがっこう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 463,
-      "character": "小",
-      "readings": [
-        "しょう",
-        "ちい",
-        "こ",
-        "お"
-      ]
-    },
-    {
-      "id": 599,
-      "character": "学",
-      "readings": [
-        "がく",
-        "まな"
-      ]
-    },
-    {
-      "id": 658,
-      "character": "校",
-      "readings": [
-        "こう"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You've seen 学校 from a couple levels ago. Now we're adding a <kanji>small</kanji> to it. What is a \"small school\"? That's a school for small people, making it an <vocabulary>elementary school</vocabulary>.",
-  "readingMnemonic": "The reading is the regular on'yomi reading of 小 plus the vocab word 学校 that you've seen previously. Combine these two things for the reading of 小学校.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B0%8F%E5%AD%A6%E6%A0%A1",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "小",
-      "id": 463,
-      "reading": "しょう"
-    },
-    {
-      "type": "kanji",
-      "value": "学",
-      "id": 599,
-      "reading": "がっ"
-    },
-    {
-      "type": "kanji",
-      "value": "校",
-      "id": 658,
-      "reading": "こう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%B0%8F%E5%AD%A6%E6%A0%A1"
+  }
 }

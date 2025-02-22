@@ -1,45 +1,18 @@
 {
   "id": 6265,
   "type": "vocabulary",
-  "characters": "隆盛",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "隆盛"
+  },
   "primaryMeaning": "Prosperity",
-  "otherMeanings": [],
-  "primaryReading": "りゅうせい",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1712,
-      "character": "隆",
-      "readings": [
-        "りゅう"
-      ]
-    },
-    {
-      "id": 1532,
-      "character": "盛",
-      "readings": [
-        "せい",
-        "じょう",
-        "も",
-        "さか"
-      ]
-    }
-  ],
   "meaningMnemonic": "<kanji>Prosperity</kanji> in <kanji>piles</kanji> is a lot of <vocabulary>prosperity</vocabulary>!",
+  "primaryReading": "りゅうせい",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9A%86%E7%9B%9B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "隆",
-      "id": 1712,
-      "reading": "りゅう"
-    },
-    {
-      "type": "kanji",
-      "value": "盛",
-      "id": 1532,
-      "reading": "せい"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%9A%86%E7%9B%9B"
+  }
 }

@@ -1,0 +1,33 @@
+{
+  "id": 1418,
+  "type": "kanji",
+  "character": "旗",
+  "primaryMeaning": "Flag",
+  "otherMeanings": [],
+  "primaryReading": "き",
+  "readings": [
+    {
+      "reading": "き",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "はた",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "To make sure that no one removes your <kanji>flag</kanji>, you lock it to one of the lifeguard posts and you throw away the <reading>key</reading> (き). Since no one will have the key to unlock the flag, no one will be able to remove it.",
+  "meaningMnemonic": "Traveling in the <radical>direction</radical> of the ocean, you take a <radical>gun</radical> and shoot a <radical>crab</radical>, then stick a <kanji>flag</kanji> in the beach and claim it as your own. The crab was the only thing standing in the way of you conquering the area. Now that the flag is in the ground, no one can dispute who it belongs to.",
+  "vocabularyIds": [
+    5321,
+    5322,
+    5323
+  ],
+  "radicalIds": [
+    66,
+    8762,
+    205
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%97%97"
+}

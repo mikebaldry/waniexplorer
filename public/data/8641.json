@@ -1,43 +1,18 @@
 {
   "id": 8641,
   "type": "vocabulary",
-  "characters": "赤痢",
+  "level": 60,
+  "characters": {
+    "type": "text",
+    "value": "赤痢"
+  },
   "primaryMeaning": "Dysentery",
-  "otherMeanings": [],
-  "primaryReading": "せきり",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 560,
-      "character": "赤",
-      "readings": [
-        "あか",
-        "せき"
-      ]
-    },
-    {
-      "id": 2438,
-      "character": "痢",
-      "readings": [
-        "り"
-      ]
-    }
-  ],
   "meaningMnemonic": "<kanji>Red</kanji> <kanji>diarrhea</kanji> means there's blood in there and you're probably dying of <vocabulary>dysentery</vocabulary>! Have you been playing too much Oregon Trail? Either way, get to a doctor!",
+  "primaryReading": "せきり",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You haven't learned this reading for 赤 yet, so here's a mnemonic to help you:\n\nYou know what <vocabulary>dysentery</vocabulary> isn't? <reading>Sexy</reading> (せき). That's right. If anyone tries to seduce you by saying they have dysentery and they'd like to share it with you, tell them how NOT sexy that is and get the heck away from them!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%B5%A4%E7%97%A2",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "赤",
-      "id": 560,
-      "reading": "せき"
-    },
-    {
-      "type": "kanji",
-      "value": "痢",
-      "id": 2438,
-      "reading": "り"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%B5%A4%E7%97%A2"
+  }
 }

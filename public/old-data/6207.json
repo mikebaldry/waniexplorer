@@ -1,0 +1,45 @@
+{
+  "id": 6207,
+  "type": "vocabulary",
+  "characters": "対称",
+  "primaryMeaning": "Symmetry",
+  "otherMeanings": [],
+  "primaryReading": "たいしょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 683,
+      "character": "対",
+      "readings": [
+        "たい"
+      ]
+    },
+    {
+      "id": 1698,
+      "character": "称",
+      "readings": [
+        "しょう",
+        "とな",
+        "たた",
+        "ほめ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you <kanji>versus</kanji> (compare) the <kanji>title</kanji> of these two things, you'll notice that they're the same as each other. They have <vocabulary>symmetry</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AF%BE%E7%A7%B0",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "対",
+      "id": 683,
+      "reading": "たい"
+    },
+    {
+      "type": "kanji",
+      "value": "称",
+      "id": 1698,
+      "reading": "しょう"
+    }
+  ]
+}

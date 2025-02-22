@@ -1,58 +1,18 @@
 {
   "id": 9109,
   "type": "vocabulary",
-  "characters": "瑠璃色",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "瑠璃色"
+  },
   "primaryMeaning": "Bright Blue",
-  "otherMeanings": [],
-  "primaryReading": "るりいろ",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2363,
-      "character": "瑠",
-      "readings": [
-        "る",
-        "りゅう"
-      ]
-    },
-    {
-      "id": 2399,
-      "character": "璃",
-      "readings": [
-        "り"
-      ]
-    },
-    {
-      "id": 579,
-      "character": "色",
-      "readings": [
-        "いろ",
-        "しき",
-        "しょく"
-      ]
-    }
-  ],
   "meaningMnemonic": "What is <kanji>lapis lazuli</kanji> <kanji>glassy</kanji> <kanji>color</kanji>? It's <vocabulary>bright blue</vocabulary>. If you've never seen the rock lapis lazuli, look it up and you'll see why this means bright blue!\n\nThis word is generally used in literature.",
+  "primaryReading": "るりいろ",
   "readingMnemonic": "You learned all three of these readings when you learned the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%91%A0%E7%92%83%E8%89%B2",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "瑠",
-      "id": 2363,
-      "reading": "る"
-    },
-    {
-      "type": "kanji",
-      "value": "璃",
-      "id": 2399,
-      "reading": "り"
-    },
-    {
-      "type": "kanji",
-      "value": "色",
-      "id": 579,
-      "reading": "いろ"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%91%A0%E7%92%83%E8%89%B2"
+  }
 }

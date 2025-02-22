@@ -1,0 +1,50 @@
+{
+  "id": 5108,
+  "type": "vocabulary",
+  "characters": "並行",
+  "primaryMeaning": "In Parallel",
+  "otherMeanings": [
+    "Going Abreast"
+  ],
+  "primaryReading": "へいこう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1372,
+      "character": "並",
+      "readings": [
+        "へい",
+        "なら",
+        "なみ"
+      ]
+    },
+    {
+      "id": 580,
+      "character": "行",
+      "readings": [
+        "こう",
+        "ぎょう",
+        "い",
+        "おこな",
+        "ゆ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Line up</kanji> and <kanji>go</kanji> together. If you did that, you'd be <vocabulary>in parallel</vocabulary> or <vocabulary>going abreast</vocabulary> with someone.\n\n並行 refers to two or more things placed or moving parallel to each other, like buses or trains running side by side. It's also used to describe two or more activities happening at the same time.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%A6%E8%A1%8C",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "並",
+      "id": 1372,
+      "reading": "へい"
+    },
+    {
+      "type": "kanji",
+      "value": "行",
+      "id": 580,
+      "reading": "こう"
+    }
+  ]
+}

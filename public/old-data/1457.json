@@ -1,0 +1,32 @@
+{
+  "id": 1457,
+  "type": "kanji",
+  "character": "棒",
+  "primaryMeaning": "Pole",
+  "otherMeanings": [
+    "Rod",
+    "Wooden Pole"
+  ],
+  "primaryReading": "ぼう",
+  "readings": [
+    {
+      "reading": "ぼう",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "After much deliberation, you decide to use this <kanji>pole</kanji> to go <reading>bow</reading>ling (ぼう). You line up a few more poles for the pins, and roll a rock toward them.",
+  "meaningMnemonic": "A <radical>tree</radical> in <radical>spring</radical> that's nice and <radical>dry</radical> will make a good <kanji>pole</kanji> or <kanji>rod</kanji>. Break it out of the ground and it's just flexible enough for tons of applications.",
+  "vocabularyIds": [
+    5446,
+    5707,
+    7774,
+    8971
+  ],
+  "radicalIds": [
+    23,
+    8779,
+    61
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%A3%92"
+}

@@ -1,0 +1,59 @@
+{
+  "id": 8064,
+  "type": "vocabulary",
+  "characters": "倫理学",
+  "primaryMeaning": "Ethics",
+  "otherMeanings": [
+    "Moral Philosophy"
+  ],
+  "primaryReading": "りんりがく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2172,
+      "character": "倫",
+      "readings": [
+        "りん"
+      ]
+    },
+    {
+      "id": 669,
+      "character": "理",
+      "readings": [
+        "り",
+        "ことわり"
+      ]
+    },
+    {
+      "id": 599,
+      "character": "学",
+      "readings": [
+        "がく",
+        "まな"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You already learned that 倫理 means \"ethics\" so when you add <kanji>study</kanji> it means the <vocabulary>ethics</vocabulary> you study in school.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%80%AB%E7%90%86%E5%AD%A6",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "倫",
+      "id": 2172,
+      "reading": "りん"
+    },
+    {
+      "type": "kanji",
+      "value": "理",
+      "id": 669,
+      "reading": "り"
+    },
+    {
+      "type": "kanji",
+      "value": "学",
+      "id": 599,
+      "reading": "がく"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 642,
+  "type": "kanji",
+  "character": "科",
+  "primaryMeaning": "Science",
+  "otherMeanings": [
+    "Course",
+    "Department"
+  ],
+  "primaryReading": "か",
+  "readings": [
+    {
+      "reading": "か",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Using your <kanji>science</kanji> skills, the right temperatures and measurements, you manage to get these grains to grow into a <reading>ca</reading>r (か). This is the science <kanji>department</kanji>'s special car now!",
+  "meaningMnemonic": "You scoop some <radical>grain</radical>s into a <radical>ladle</radical> to do <kanji>science</kanji>. You're doing experiments on these grains in your science <kanji>course</kanji>.",
+  "vocabularyIds": [
+    2920,
+    7476,
+    7958,
+    8699,
+    9284
+  ],
+  "radicalIds": [
+    135,
+    129
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%A7%91"
+}

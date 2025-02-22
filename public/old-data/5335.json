@@ -1,0 +1,49 @@
+{
+  "id": 5335,
+  "type": "vocabulary",
+  "characters": "漏出",
+  "primaryMeaning": "Leak",
+  "otherMeanings": [
+    "Leakage",
+    "Spillage",
+    "Seepage"
+  ],
+  "primaryReading": "ろうしゅつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1434,
+      "character": "漏",
+      "readings": [
+        "ろう",
+        "も"
+      ]
+    },
+    {
+      "id": 483,
+      "character": "出",
+      "readings": [
+        "しゅつ",
+        "で",
+        "だ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Something is <kanji>leak</kanji>ing and whatever is leaking is <kanji>exit</kanji>ing what it was in before. This is when a <vocabulary>leak</vocabulary> occurs.\n\n漏出 is a formal word that means <vocabulary>leakage</vocabulary>, <vocabulary>spillage</vocabulary>, or <vocabulary>seepage</vocabulary>. It's often used for physical leaks of substances like liquids, gases, or other materials.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%BC%8F%E5%87%BA",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "漏",
+      "id": 1434,
+      "reading": "ろう"
+    },
+    {
+      "type": "kanji",
+      "value": "出",
+      "id": 483,
+      "reading": "しゅつ"
+    }
+  ]
+}

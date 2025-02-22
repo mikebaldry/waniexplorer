@@ -1,66 +1,74 @@
 {
   "id": 445,
   "type": "kanji",
-  "character": "入",
-  "primaryMeaning": "Enter",
-  "otherMeanings": [],
+  "level": 1,
+  "characters": {
+    "type": "text",
+    "value": "入"
+  },
   "primaryReading": "にゅう",
   "readings": [
     {
-      "reading": "にゅう",
       "primary": true,
+      "reading": "にゅう",
       "type": "onyomi"
     },
     {
-      "reading": "はい",
       "primary": false,
+      "reading": "はい",
       "type": "kunyomi"
     },
     {
-      "reading": "い",
       "primary": false,
+      "reading": "い",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "Turns out, after you <kanji>enter</kanji> the teepee (you'll remember that the radical is a teepee with a big entrance to it), you're given a <reading>new</reading> (にゅう) one! Now you have two teepees!",
+  "primaryMeaning": "Enter",
+  "otherMeanings": [],
   "meaningMnemonic": "The kanji and the radical are the same, so remembering the meaning of this kanji is as simple as making sure you know the radical for <radical>enter</radical> first! If you know the radical, you know this kanji means <kanji>enter</kanji> as well.",
-  "vocabularyIds": [
-    2480,
-    2481,
-    2498,
-    2671,
-    2790,
-    2831,
-    3036,
-    3039,
-    3592,
-    3869,
-    4105,
-    4180,
-    4312,
-    4354,
-    4590,
-    4976,
-    5212,
-    5248,
-    5370,
-    5388,
-    5507,
-    5674,
-    5880,
-    5914,
-    6553,
-    6850,
-    6966,
-    6995,
-    7116,
-    7267,
-    7628,
-    8733,
-    9269
-  ],
-  "radicalIds": [
-    12
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%85%A5"
+  "readingMnemonic": "Turns out, after you <kanji>enter</kanji> the tent (remember how the person in the radical is entering one?), you're given a <reading>new</reading> (にゅう) one! Why? No idea, but hey — it's new!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%85%A5"
+  },
+  "related": {
+    "radicals": [
+      12
+    ],
+    "vocabularies": [
+      2480,
+      2481,
+      2498,
+      2671,
+      2790,
+      2831,
+      3036,
+      3039,
+      3592,
+      3869,
+      4105,
+      4180,
+      4312,
+      4354,
+      4590,
+      4976,
+      5212,
+      5248,
+      5370,
+      5388,
+      5507,
+      5674,
+      5880,
+      5914,
+      6553,
+      6850,
+      6966,
+      6995,
+      7116,
+      7267,
+      7628,
+      8733,
+      9269
+    ]
+  }
 }

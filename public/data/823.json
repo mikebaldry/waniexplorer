@@ -1,38 +1,46 @@
 {
   "id": 823,
   "type": "kanji",
-  "character": "祭",
-  "primaryMeaning": "Festival",
-  "otherMeanings": [],
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "祭"
+  },
   "primaryReading": "さい",
   "readings": [
     {
-      "reading": "さい",
       "primary": true,
+      "reading": "さい",
       "type": "onyomi"
     },
     {
-      "reading": "まつり",
       "primary": false,
+      "reading": "まつり",
       "type": "kunyomi"
     },
     {
-      "reading": "まつ",
       "primary": false,
+      "reading": "まつ",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "This <kanji>festival</kanji> is for <reading>cy</reading>borgs (さい) only. Picture the cyborg you made getting excited that you're taking it to the festival. That's why all of the activities have to do with heavy machinery. The rides are mostly just cyborgs letting other people ride them, but it's still pretty fun.",
+  "primaryMeaning": "Festival",
+  "otherMeanings": [],
   "meaningMnemonic": "Under the <radical>moon</radical>, there’s a <radical>stool</radical> with a <radical>jackhammer</radical> on it. It’s all there for the <kanji>festival</kanji>. Festivals need activities, and at this festival, you can stand on a stool in the moonlight and use a jackhammer to make a lot of noise. Perfect for a festival!",
-  "vocabularyIds": [
-    3345,
-    8706,
-    8816
-  ],
-  "radicalIds": [
-    43,
-    30,
-    207
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%A5%AD"
+  "readingMnemonic": "This <kanji>festival</kanji> is for <reading>cy</reading>borgs (さい) only. Picture the cyborg you made getting excited that you're taking it to the festival. That's why all of the activities have to do with heavy machinery. The rides are mostly just cyborgs letting other people ride them, but it's still pretty fun.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%A5%AD"
+  },
+  "related": {
+    "radicals": [
+      43,
+      30,
+      207
+    ],
+    "vocabularies": [
+      3345,
+      8706,
+      8816
+    ]
+  }
 }

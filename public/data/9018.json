@@ -1,75 +1,20 @@
 {
   "id": 9018,
   "type": "vocabulary",
-  "characters": "飲酒運転",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "飲酒運転"
+  },
   "primaryMeaning": "Drunk Driving",
+  "meaningMnemonic": "You know that 飲酒 is \"drinking alcohol\" and 運転する is \"to drive\", so it makes sense that this word means <vocabulary>drunk driving</vocabulary>, or <vocabulary>drinking and driving</vocabulary>. ",
+  "primaryReading": "いんしゅうんてん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Drinking And Driving"
   ],
-  "primaryReading": "いんしゅうんてん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 755,
-      "character": "飲",
-      "readings": [
-        "の",
-        "いん"
-      ]
-    },
-    {
-      "id": 743,
-      "character": "酒",
-      "readings": [
-        "しゅ",
-        "さけ",
-        "さか"
-      ]
-    },
-    {
-      "id": 752,
-      "character": "運",
-      "readings": [
-        "うん",
-        "はこ"
-      ]
-    },
-    {
-      "id": 747,
-      "character": "転",
-      "readings": [
-        "てん",
-        "ころ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You know that 飲酒 is \"drinking alcohol\" and 運転する is \"to drive\", so it makes sense that this word means <vocabulary>drunk driving</vocabulary>, or <vocabulary>drinking and driving</vocabulary>. ",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%A3%B2%E9%85%92%E9%81%8B%E8%BB%A2",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "飲",
-      "id": 755,
-      "reading": "いん"
-    },
-    {
-      "type": "kanji",
-      "value": "酒",
-      "id": 743,
-      "reading": "しゅ"
-    },
-    {
-      "type": "kanji",
-      "value": "運",
-      "id": 752,
-      "reading": "うん"
-    },
-    {
-      "type": "kanji",
-      "value": "転",
-      "id": 747,
-      "reading": "てん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%A3%B2%E9%85%92%E9%81%8B%E8%BB%A2"
+  }
 }

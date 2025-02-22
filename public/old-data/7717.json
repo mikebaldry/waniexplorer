@@ -1,0 +1,64 @@
+{
+  "id": 7717,
+  "type": "vocabulary",
+  "characters": "従兄弟",
+  "primaryMeaning": "Cousin",
+  "otherMeanings": [
+    "Male Cousin"
+  ],
+  "primaryReading": "いとこ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1293,
+      "character": "従",
+      "readings": [
+        "じゅう",
+        "したが"
+      ]
+    },
+    {
+      "id": 515,
+      "character": "兄",
+      "readings": [
+        "きょう",
+        "けい",
+        "あに",
+        "にい"
+      ]
+    },
+    {
+      "id": 588,
+      "character": "弟",
+      "readings": [
+        "だい",
+        "で",
+        "てい",
+        "おとうと"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Remember how 兄弟 means \"siblings?\" Well when they're siblings you have to <kanji>obey</kanji> they're not your brother or sister, they're your <vocabulary>cousin</vocabulary>.",
+  "readingMnemonic": "The entire reading for this is an exception. Sorry about that. Here's a mnemonic to help you:\n\nWhat are the two defining traits your cousin has? They're good and a child. いいと子, or <reading>いとこ</reading> for short. Just remember your good, kid cousin. Your いとこ cousin.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BE%93%E5%85%84%E5%BC%9F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "従",
+      "id": 1293,
+      "reading": null
+    },
+    {
+      "type": "kanji",
+      "value": "兄",
+      "id": 515,
+      "reading": null
+    },
+    {
+      "type": "kanji",
+      "value": "弟",
+      "id": 588,
+      "reading": null
+    }
+  ]
+}

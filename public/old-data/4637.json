@@ -1,0 +1,46 @@
+{
+  "id": 4637,
+  "type": "vocabulary",
+  "characters": "自宅",
+  "primaryMeaning": "One's Home",
+  "otherMeanings": [
+    "One's Own Home"
+  ],
+  "primaryReading": "じたく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 578,
+      "character": "自",
+      "readings": [
+        "じ",
+        "し",
+        "みずか"
+      ]
+    },
+    {
+      "id": 1207,
+      "character": "宅",
+      "readings": [
+        "たく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Your <kanji>self</kanji> <kanji>home</kanji> is your own home. It's <vocabulary>one's home</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%87%AA%E5%AE%85",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "自",
+      "id": 578,
+      "reading": "じ"
+    },
+    {
+      "type": "kanji",
+      "value": "宅",
+      "id": 1207,
+      "reading": "たく"
+    }
+  ]
+}

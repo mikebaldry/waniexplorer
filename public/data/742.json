@@ -1,37 +1,45 @@
 {
   "id": 742,
   "type": "kanji",
-  "character": "配",
-  "primaryMeaning": "Distribute",
-  "otherMeanings": [],
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "配"
+  },
   "primaryReading": "はい",
   "readings": [
     {
-      "reading": "はい",
       "primary": true,
+      "reading": "はい",
       "type": "onyomi"
     },
     {
-      "reading": "くば",
       "primary": false,
+      "reading": "くば",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "As you <kanji>distribute</kanji> the alcohol you say a <reading>hai</reading>ku (はい):\n\nHere you go my friends\nAlcohol for everyone\nNever drink alone",
+  "primaryMeaning": "Distribute",
+  "otherMeanings": [],
   "meaningMnemonic": "You don't want to keep all the <radical>alcohol</radical> to yourself (<radical>oneself</radical>), so you <kanji>distribute</kanji> it to all of your friends. Heck, not just your friends, to everyone you can find!",
-  "vocabularyIds": [
-    3162,
-    3520,
-    3563,
-    3564,
-    4152,
-    6189,
-    7412,
-    9330
-  ],
-  "radicalIds": [
-    182,
-    228
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%85%8D"
+  "readingMnemonic": "As you <kanji>distribute</kanji> the alcohol you say a <reading>hai</reading>ku (はい):\n\nHere you go my friends\nAlcohol for everyone\nNever drink alone",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%85%8D"
+  },
+  "related": {
+    "radicals": [
+      182,
+      228
+    ],
+    "vocabularies": [
+      3162,
+      3520,
+      3563,
+      3564,
+      4152,
+      6189,
+      7412,
+      9330
+    ]
+  }
 }

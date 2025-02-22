@@ -1,12 +1,15 @@
 {
   "id": 8765,
   "type": "radical",
-  "primaryMeaning": "Triceratops",
-  "otherMeanings": [],
-  "character": {
+  "level": 3,
+  "characters": {
     "type": "text",
     "value": "⺌"
   },
+  "primaryMeaning": "Triceratops",
+  "otherMeanings": [],
   "meaningMnemonic": "The three horns represent the <radical>triceratops</radical>, one of the most awesome dinosaurs ever.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/triceratops"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/triceratops"
+  }
 }

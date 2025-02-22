@@ -1,0 +1,44 @@
+{
+  "id": 8748,
+  "type": "vocabulary",
+  "characters": "活動",
+  "primaryMeaning": "Activity",
+  "otherMeanings": [],
+  "primaryReading": "かつどう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 639,
+      "character": "活",
+      "readings": [
+        "かつ",
+        "い"
+      ]
+    },
+    {
+      "id": 827,
+      "character": "動",
+      "readings": [
+        "どう",
+        "うご"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>lively</kanji> <kanji>move</kanji>s you make are your <vocabulary>activity</vocabulary>.\n\n活動 includes all kinds of activities, including nature activities, club activities, economic activity, and so on!",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B4%BB%E5%8B%95",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "活",
+      "id": 639,
+      "reading": "かつ"
+    },
+    {
+      "type": "kanji",
+      "value": "動",
+      "id": 827,
+      "reading": "どう"
+    }
+  ]
+}

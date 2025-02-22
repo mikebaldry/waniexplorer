@@ -1,0 +1,43 @@
+{
+  "id": 2359,
+  "type": "kanji",
+  "character": "凹",
+  "primaryMeaning": "Concave",
+  "otherMeanings": [
+    "Hollow"
+  ],
+  "primaryReading": "おう",
+  "readings": [
+    {
+      "reading": "おう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "くぼ",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "へこ",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "ぼこ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "If you call someone <kanji>concave</kanji> the <reading>王</reading> (おう) will find out and he'll have his guards turn you concave.",
+  "meaningMnemonic": "The <radical>concave</radical> radical and the <kanji>concave</kanji> kanji are the same!",
+  "vocabularyIds": [
+    8350,
+    8520,
+    8521
+  ],
+  "radicalIds": [
+    435
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%87%B9"
+}

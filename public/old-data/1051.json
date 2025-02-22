@@ -1,0 +1,31 @@
+{
+  "id": 1051,
+  "type": "kanji",
+  "character": "枚",
+  "primaryMeaning": "Flat Object Counter",
+  "otherMeanings": [
+    "Counter For Flat Objects"
+  ],
+  "primaryReading": "まい",
+  "readings": [
+    {
+      "reading": "まい",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "While trying to count these slats of wood, a whole bunch of <reading>mi</reading>ce (まい) show up and start climbing all over the tree. This will not do, so you take two slats and start smashing and flattening all the mice. Now that the mice are flat too, you can also use them as a <kanji>flat objects counter</kanji>. Good job, mice.",
+  "meaningMnemonic": "In the <radical>winter</radical>, one can use a sliced up <radical>tree</radical> as a <kanji>flat object counter</kanji>. Since it’s winter, all the leaves have fallen off the tree, so it’s easy to cut into slats. These slats can be used as counters for flat objects, such as these slats.",
+  "vocabularyIds": [
+    4108,
+    4109,
+    4110,
+    4141,
+    7454
+  ],
+  "radicalIds": [
+    23,
+    60
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%9E%9A"
+}

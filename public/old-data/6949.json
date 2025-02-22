@@ -1,0 +1,37 @@
+{
+  "id": 6949,
+  "type": "vocabulary",
+  "characters": "荒らす",
+  "primaryMeaning": "To Lay Waste",
+  "otherMeanings": [
+    "To Devastate"
+  ],
+  "primaryReading": "あらす",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1835,
+      "character": "荒",
+      "readings": [
+        "あ",
+        "あら",
+        "こう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "荒れる is \"to be stormy\" or \"to be rough.\" This is when you do the stormy rough things. You go wild on everyone, trying <vocabulary>to lay waste</vocabulary> and <vocabulary>to devastate</vocabulary> everything around you.",
+  "readingMnemonic": "The reading comes from 荒れる.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%8D%92%E3%82%89%E3%81%99",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "荒",
+      "id": 1835,
+      "reading": "あら"
+    },
+    {
+      "type": "kana",
+      "value": "らす"
+    }
+  ]
+}

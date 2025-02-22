@@ -1,0 +1,40 @@
+{
+  "id": 1863,
+  "type": "kanji",
+  "character": "旨",
+  "primaryMeaning": "Point",
+  "otherMeanings": [
+    "Delicious"
+  ],
+  "primaryReading": "し",
+  "readings": [
+    {
+      "reading": "し",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "うま",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "むね",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "This <kanji>delicious</kanji> taste is... familiar somehow. You take a few more bites and then scream. It tastes like <reading>shee</reading>p (し)!",
+  "meaningMnemonic": "Take your <radical>spoon</radical> to the <radical>sun</radical> to be able to take a bite. It's <kanji>delicious</kanji>, you hear. That's the <kanji>point</kanji> of the spoon.",
+  "vocabularyIds": [
+    6724,
+    6725,
+    6726,
+    6727
+  ],
+  "radicalIds": [
+    57,
+    22
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%97%A8"
+}

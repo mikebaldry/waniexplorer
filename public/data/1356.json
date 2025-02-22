@@ -1,48 +1,56 @@
 {
   "id": 1356,
   "type": "kanji",
-  "character": "清",
-  "primaryMeaning": "Pure",
-  "otherMeanings": [],
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "清"
+  },
   "primaryReading": "せい",
   "readings": [
     {
-      "reading": "せい",
       "primary": true,
+      "reading": "せい",
       "type": "onyomi"
     },
     {
+      "primary": false,
       "reading": "しょう",
-      "primary": false,
       "type": "onyomi"
     },
     {
+      "primary": false,
       "reading": "しん",
-      "primary": false,
       "type": "onyomi"
     },
     {
-      "reading": "きよ",
       "primary": false,
+      "reading": "きよ",
       "type": "kunyomi"
     },
     {
-      "reading": "し",
       "primary": false,
+      "reading": "し",
       "type": "nanori"
     }
   ],
-  "readingMnemonic": "Seeing this <kanji>pure</kanji> blue tsunami inspires you to pull out your glowing blue <reading>sa</reading>ber (せい)! As the pure water comes toward you, you take one, long slash!",
+  "primaryMeaning": "Pure",
+  "otherMeanings": [],
   "meaningMnemonic": "A <radical>tsunami</radical> that's <radical>blue</radical> is <kanji>pure</kanji>. Some tsunami are other colors, like brown or red because they aren't pure, they'll full of trash and poop and other horrible things. But a blue tsunami is completely pure!",
-  "vocabularyIds": [
-    5169,
-    5170,
-    6997,
-    8002
-  ],
-  "radicalIds": [
-    103,
-    120
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%B8%85"
+  "readingMnemonic": "Seeing this <kanji>pure</kanji> blue tsunami inspires you to pull out your glowing blue <reading>sa</reading>ber (せい)! As the pure water comes toward you, you take one, long slash!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%B8%85"
+  },
+  "related": {
+    "radicals": [
+      103,
+      120
+    ],
+    "vocabularies": [
+      5169,
+      5170,
+      6997,
+      8002
+    ]
+  }
 }

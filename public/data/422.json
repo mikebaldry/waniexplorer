@@ -1,12 +1,15 @@
 {
   "id": 422,
   "type": "radical",
-  "primaryMeaning": "Guard",
-  "otherMeanings": [],
-  "character": {
+  "level": 17,
+  "characters": {
     "type": "text",
     "value": "兑"
   },
+  "primaryMeaning": "Guard",
+  "otherMeanings": [],
   "meaningMnemonic": "This radical is made up of horns and older brother. But those aren't really horns, they're a part of your older brother's new <radical>guard</radical> uniform. He's a guard now, of a bank or a museum. You don't know which, but you know he stands around a lot in his uniform now.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/guard"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/guard"
+  }
 }

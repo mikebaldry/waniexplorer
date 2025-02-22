@@ -1,0 +1,51 @@
+{
+  "id": 7633,
+  "type": "vocabulary",
+  "characters": "相図",
+  "primaryMeaning": "Sign",
+  "otherMeanings": [
+    "Signal",
+    "Diagram",
+    "Phase Diagram"
+  ],
+  "primaryReading": "あいず",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 730,
+      "character": "相",
+      "readings": [
+        "そう",
+        "しょう",
+        "あい"
+      ]
+    },
+    {
+      "id": 585,
+      "character": "図",
+      "readings": [
+        "ず",
+        "と",
+        "え",
+        "はか"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>mutual</kanji> <kanji>diagram</kanji> is one that's for everyone to see. It's a <vocabulary>sign</vocabulary>.",
+  "readingMnemonic": "The reading is a combination of kun'yomi and on'yomi readings. That being said, both readings for both kanji are the readings you learned already, so you should be able to read this.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%9B%B8%E5%9B%B3-7633",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "相",
+      "id": 730,
+      "reading": "あい"
+    },
+    {
+      "type": "kanji",
+      "value": "図",
+      "id": 585,
+      "reading": "ず"
+    }
+  ]
+}

@@ -1,48 +1,20 @@
 {
   "id": 5435,
   "type": "vocabulary",
-  "characters": "除外",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "除外"
+  },
   "primaryMeaning": "Exception",
+  "meaningMnemonic": "<kanji>Exclude</kanji> this one and put it <kanji>outside</kanji> what we're considering. This is the <vocabulary>exception</vocabulary>.",
+  "primaryReading": "じょがい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Exclusion"
   ],
-  "primaryReading": "じょがい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1451,
-      "character": "除",
-      "readings": [
-        "じょ",
-        "じ",
-        "のぞ"
-      ]
-    },
-    {
-      "id": 521,
-      "character": "外",
-      "readings": [
-        "がい",
-        "そと",
-        "はず"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Exclude</kanji> this one and put it <kanji>outside</kanji> what we're considering. This is the <vocabulary>exception</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%99%A4%E5%A4%96",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "除",
-      "id": 1451,
-      "reading": "じょ"
-    },
-    {
-      "type": "kanji",
-      "value": "外",
-      "id": 521,
-      "reading": "がい"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%99%A4%E5%A4%96"
+  }
 }

@@ -1,0 +1,33 @@
+{
+  "id": 1612,
+  "type": "kanji",
+  "character": "姓",
+  "primaryMeaning": "Family Name",
+  "otherMeanings": [
+    "Surname"
+  ],
+  "primaryReading": "せい",
+  "readings": [
+    {
+      "reading": "せい",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "しょう",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Picture this special woman in your mind. She's changing her <kanji>surname</kanji> to yours and taking hold of your special <reading>sa</reading>ber (せい) as well. And it's... it's splitting in two!",
+  "meaningMnemonic": "If there's a special <radical>woman</radical> in your <radical>life</radical>, she might eventually take your <kanji>family name</kanji> and make it her <kanji>surname</kanji> too. In Japan and other countries, tradition dictates that women change their last name when they get married and keep that name for the rest of their life. Their partner’s family name becomes their family name too.",
+  "vocabularyIds": [
+    5952,
+    5954
+  ],
+  "radicalIds": [
+    19,
+    210
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%A7%93"
+}

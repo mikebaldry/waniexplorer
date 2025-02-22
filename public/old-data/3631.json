@@ -1,0 +1,29 @@
+{
+  "id": 3631,
+  "type": "vocabulary",
+  "characters": "銀",
+  "primaryMeaning": "Silver",
+  "otherMeanings": [],
+  "primaryReading": "ぎん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 871,
+      "character": "銀",
+      "readings": [
+        "ぎん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "The reading is the same as the kanji. ",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%8A%80",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "銀",
+      "id": 871,
+      "reading": "ぎん"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": 6014,
+  "type": "vocabulary",
+  "characters": "超音波",
+  "primaryMeaning": "Ultrasonic Wave",
+  "otherMeanings": [],
+  "primaryReading": "ちょうおんぱ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1707,
+      "character": "超",
+      "readings": [
+        "ちょう",
+        "こ"
+      ]
+    },
+    {
+      "id": 606,
+      "character": "音",
+      "readings": [
+        "おん",
+        "おと",
+        "ね"
+      ]
+    },
+    {
+      "id": 793,
+      "character": "波",
+      "readings": [
+        "は",
+        "なみ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "An <kanji>ultra</kanji> <kanji>sound</kanji> <kanji>wave</kanji> is an <vocabulary>ultrasonic wave</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Just remember that the は changes to ぱ for 波.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%B6%85%E9%9F%B3%E6%B3%A2",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "超",
+      "id": 1707,
+      "reading": "ちょう"
+    },
+    {
+      "type": "kanji",
+      "value": "音",
+      "id": 606,
+      "reading": "おん"
+    },
+    {
+      "type": "kanji",
+      "value": "波",
+      "id": 793,
+      "reading": "ぱ"
+    }
+  ]
+}

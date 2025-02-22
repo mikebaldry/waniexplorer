@@ -1,0 +1,41 @@
+{
+  "id": 9141,
+  "type": "vocabulary",
+  "characters": "生ビール",
+  "primaryMeaning": "Draft Beer",
+  "otherMeanings": [
+    "Unpasteurized Beer"
+  ],
+  "primaryReading": "なまびーる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 850,
+      "character": "生",
+      "readings": [
+        "せい",
+        "しょう",
+        "い",
+        "なま",
+        "う",
+        "は",
+        "き"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You just learned the vocab 生, meaning fresh. Combined with the katakana word for beer makes this draft beer or unpasteurized beer.\n\nNote that while in a lot of countries, \"draft beer\" refers only to beer that's drawn from a keg, 生ビール can also refer to unpasteurized canned or bottled beer, giving it a shorter shelf-life, but also keeping it fresh.",
+  "readingMnemonic": "Be careful to use kun'yomi for 生 here. Other than that, as long as you know your katakana, you should be good to go!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%94%9F%E3%83%93%E3%83%BC%E3%83%AB",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "生",
+      "id": 850,
+      "reading": "なま"
+    },
+    {
+      "type": "kana",
+      "value": "ビール"
+    }
+  ]
+}

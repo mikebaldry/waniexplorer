@@ -1,0 +1,48 @@
+{
+  "id": 4891,
+  "type": "vocabulary",
+  "characters": "再開",
+  "primaryMeaning": "Reopening",
+  "otherMeanings": [
+    "Resumption"
+  ],
+  "primaryReading": "さいかい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1310,
+      "character": "再",
+      "readings": [
+        "さ",
+        "さい",
+        "ふたた"
+      ]
+    },
+    {
+      "id": 753,
+      "character": "開",
+      "readings": [
+        "かい",
+        "あ",
+        "ひら"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Again</kanji> it is <kanji>open</kanji>ing. This is the <vocabulary>reopening</vocabulary> or <vocabulary>resumption</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Just don't forget that extra い!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%86%8D%E9%96%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "再",
+      "id": 1310,
+      "reading": "さい"
+    },
+    {
+      "type": "kanji",
+      "value": "開",
+      "id": 753,
+      "reading": "かい"
+    }
+  ]
+}

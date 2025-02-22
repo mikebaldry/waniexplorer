@@ -1,12 +1,15 @@
 {
   "id": 186,
   "type": "radical",
-  "primaryMeaning": "Dynamite",
-  "otherMeanings": [],
-  "character": {
+  "level": 10,
+  "characters": {
     "type": "text",
     "value": "丙"
   },
+  "primaryMeaning": "Dynamite",
+  "otherMeanings": [],
   "meaningMnemonic": "Doesn't this radical look like one of those old-fashioned <radical>dynamite</radical> plunger things that gets pushed to set the fuse? That makes this dynamite!",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/dynamite"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/dynamite"
+  }
 }

@@ -1,32 +1,20 @@
 {
   "id": 4358,
   "type": "vocabulary",
-  "characters": "笛",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "笛"
+  },
   "primaryMeaning": "Flute",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "ふえ",
+  "readingMnemonic": "Since this word is made up of a single kanji, it should use the kun'yomi reading. When learning the kanji, you didn't learn that reading, so here's a mnemonic to help you with this word: Pretend you're trying to <kanji>whistle</kanji>, but you can't. All that comes out is air. You make a \"<reading>Fuuuuuuueh</reading>\" sound over and over, because you can't get the whole whistling thing down. Go ahead and pretend to do that (or do it for real).",
   "otherMeanings": [
     "Whistle"
   ],
-  "primaryReading": "ふえ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1121,
-      "character": "笛",
-      "readings": [
-        "てき",
-        "ふえ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
-  "readingMnemonic": "Since this word is made up of a single kanji, it should use the kun'yomi reading. When learning the kanji, you didn't learn that reading, so here's a mnemonic to help you with this word: Pretend you're trying to <kanji>whistle</kanji>, but you can't. All that comes out is air. You make a \"<reading>Fuuuuuuueh</reading>\" sound over and over, because you can't get the whole whistling thing down. Go ahead and pretend to do that (or do it for real).",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%AC%9B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "笛",
-      "id": 1121,
-      "reading": "ふえ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%AC%9B"
+  }
 }

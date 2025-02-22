@@ -1,0 +1,31 @@
+{
+  "id": 2134,
+  "type": "kanji",
+  "character": "軟",
+  "primaryMeaning": "Soft",
+  "otherMeanings": [],
+  "primaryReading": "なん",
+  "readings": [
+    {
+      "reading": "なん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "やわ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "This car is probably so <kanji>soft</kanji> because it's made entirely of <reading>naan</reading> (なん). Naan may be delicious, but it makes a really crappy car. No wonder it was so soft (and yummy).",
+  "meaningMnemonic": "A <radical>car</radical> that's <radical>lack</radical>ing is really <kanji>soft</kanji>. Cars need to be hard so that things like bugs and other cars wont hurt the people inside when you hit them. But if your car is lacking the hardness it needs, you'll have a really soft, useless car.",
+  "vocabularyIds": [
+    7838,
+    7839
+  ],
+  "radicalIds": [
+    93,
+    142
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%BB%9F"
+}

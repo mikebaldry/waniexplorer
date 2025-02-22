@@ -1,0 +1,49 @@
+{
+  "id": 4158,
+  "type": "vocabulary",
+  "characters": "人類",
+  "primaryMeaning": "Mankind",
+  "otherMeanings": [
+    "Humanity",
+    "Humankind"
+  ],
+  "primaryReading": "じんるい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 444,
+      "character": "人",
+      "readings": [
+        "にん",
+        "じん",
+        "ひと",
+        "と"
+      ]
+    },
+    {
+      "id": 1034,
+      "character": "類",
+      "readings": [
+        "るい",
+        "たぐ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "There's only one <kanji>person</kanji> <kanji>type</kanji> and that is <vocabulary>mankind</vocabulary>, otherwise known as <vocabulary>humanity</vocabulary>, or <vocabulary>humankind</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BA%BA%E9%A1%9E",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "人",
+      "id": 444,
+      "reading": "じん"
+    },
+    {
+      "type": "kanji",
+      "value": "類",
+      "id": 1034,
+      "reading": "るい"
+    }
+  ]
+}

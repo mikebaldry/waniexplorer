@@ -1,0 +1,52 @@
+{
+  "id": 4965,
+  "type": "vocabulary",
+  "characters": "お菓子",
+  "primaryMeaning": "Snack Foods",
+  "otherMeanings": [
+    "Candy",
+    "Pastries",
+    "Sweets"
+  ],
+  "primaryReading": "おかし",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1305,
+      "character": "菓",
+      "readings": [
+        "か"
+      ]
+    },
+    {
+      "id": 462,
+      "character": "子",
+      "readings": [
+        "し",
+        "す",
+        "こ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Cake</kanji> is a <kanji>child</kanji>'s favorite <vocabulary>snack food</vocabulary>. This word refers to all the junkie snacks you can imagine, <vocabulary>candy</vocabulary>, <vocabulary>pastries</vocabulary> and <vocabulary>sweets</vocabulary>, but also savory snacks too. You know, like chips and stuff... 🤤",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E3%81%8A%E8%8F%93%E5%AD%90",
+  "elements": [
+    {
+      "type": "kana",
+      "value": "お"
+    },
+    {
+      "type": "kanji",
+      "value": "菓",
+      "id": 1305,
+      "reading": "か"
+    },
+    {
+      "type": "kanji",
+      "value": "子",
+      "id": 462,
+      "reading": "し"
+    }
+  ]
+}

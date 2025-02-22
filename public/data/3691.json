@@ -1,46 +1,21 @@
 {
   "id": 3691,
   "type": "vocabulary",
-  "characters": "取材",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "取材"
+  },
   "primaryMeaning": "Covering An Event",
+  "meaningMnemonic": "Your job is to <kanji>take</kanji> <kanji>material</kanji>s from a bunch of different people because you're <vocabulary>covering an event</vocabulary>. This <vocabulary>data collection</vocabulary> needs to be thorough, so you try to take all the materials you can from as many people as you can find.",
+  "primaryReading": "しゅざい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You haven't learned the on'yomi of 取 yet, so here's a mnemonic to help you:\n\nYou're <vocabulary>covering an event</vocabulary> featuring all kinds of <reading>chu</reading>tes (しゅ). They have the whole range, from laundry chutes and garbage chutes, to evacuation chutes and so much more. You'll be doing some <vocabulary>data collection</vocabulary> and interviews about all these chutes, and you can't wait!",
   "otherMeanings": [
     "Data Collection",
     "Interview"
   ],
-  "primaryReading": "しゅざい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 966,
-      "character": "取",
-      "readings": [
-        "と",
-        "しゅ"
-      ]
-    },
-    {
-      "id": 909,
-      "character": "材",
-      "readings": [
-        "ざい"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Your job is to <kanji>take</kanji> <kanji>material</kanji>s from a bunch of different people because you're <vocabulary>covering an event</vocabulary>. This <vocabulary>data collection</vocabulary> needs to be thorough, so you try to take all the materials you can from as many people as you can find.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You haven't learned the on'yomi of 取 yet, so here's a mnemonic to help you:\n\nYou're <vocabulary>covering an event</vocabulary> featuring all kinds of <reading>chu</reading>tes (しゅ). They have the whole range, from laundry chutes and garbage chutes, to evacuation chutes and so much more. You'll be doing some <vocabulary>data collection</vocabulary> and interviews about all these chutes, and you can't wait!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8F%96%E6%9D%90",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "取",
-      "id": 966,
-      "reading": "しゅ"
-    },
-    {
-      "type": "kanji",
-      "value": "材",
-      "id": 909,
-      "reading": "ざい"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%8F%96%E6%9D%90"
+  }
 }

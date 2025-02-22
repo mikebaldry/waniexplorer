@@ -1,37 +1,21 @@
 {
   "id": 3177,
   "type": "vocabulary",
-  "characters": "進む",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "進む"
+  },
   "primaryMeaning": "To Advance",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>advance</kanji> so the verb vocab version means <vocabulary>to advance</vocabulary>.\n\nThis is an intransitive verb, meaning that it is about something or someone advancing forward. ",
+  "primaryReading": "すすむ",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nIn order <vocabulary>to advance</vocabulary>, you must <reading>sue Sue</reading> for her misdeeds against you. Imagine her standing in your way, literally. She keeps saying, \"You'll have to sue me if you want to get past me!\" So you do. You sue Sue. Now tell her to <reading>mo</reading>ve (む). ",
   "otherMeanings": [
     "To Go Forward",
     "To Progress"
   ],
-  "primaryReading": "すすむ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 748,
-      "character": "進",
-      "readings": [
-        "しん",
-        "すす"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>advance</kanji> so the verb vocab version means <vocabulary>to advance</vocabulary>.\n\nThis is an intransitive verb, meaning that it is about something or someone advancing forward. ",
-  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nIn order <vocabulary>to advance</vocabulary>, you must <reading>sue Sue</reading> for her misdeeds against you. Imagine her standing in your way, literally. She keeps saying, \"You'll have to sue me if you want to get past me!\" So you do. You sue Sue. Now tell her to <reading>mo</reading>ve (む). ",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%80%B2%E3%82%80",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "進",
-      "id": 748,
-      "reading": "すす"
-    },
-    {
-      "type": "kana",
-      "value": "む"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%80%B2%E3%82%80"
+  }
 }

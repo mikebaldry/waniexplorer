@@ -1,0 +1,34 @@
+{
+  "id": 1097,
+  "type": "kanji",
+  "character": "被",
+  "primaryMeaning": "Incur",
+  "otherMeanings": [
+    "Cover"
+  ],
+  "primaryReading": "ひ",
+  "readings": [
+    {
+      "reading": "ひ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "かぶ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "When you <kanji>incur</kanji> the wrath of an angry spirit it'll try to <kanji>cover</kanji> itself with your skin, and you'll feel your skin <reading>he</reading>at (ひ) up.",
+  "meaningMnemonic": "A <radical>spirit</radical> loses its <radical>skin</radical> as a part of the damage it <kanji>incur</kanji>s after death. That's why the spirit goes on looking for new skin to <kanji>cover</kanji> itself with.",
+  "vocabularyIds": [
+    4278,
+    4324,
+    4487
+  ],
+  "radicalIds": [
+    80,
+    195
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%A2%AB"
+}

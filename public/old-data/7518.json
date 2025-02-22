@@ -1,0 +1,50 @@
+{
+  "id": 7518,
+  "type": "vocabulary",
+  "characters": "少女",
+  "primaryMeaning": "Girl",
+  "otherMeanings": [
+    "Young Girl"
+  ],
+  "primaryReading": "しょうじょ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 506,
+      "character": "少",
+      "readings": [
+        "しょう",
+        "すこ",
+        "すく"
+      ]
+    },
+    {
+      "id": 454,
+      "character": "女",
+      "readings": [
+        "じょ",
+        "にょ",
+        "にょう",
+        "おんな",
+        "め"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>little</kanji> <kanji>woman</kanji> is a <vocabulary>girl</vocabulary>. \n\n少女 is a relatively formal word that's often used in writing to describe a <vocabulary>young girl</vocabulary>, usually between childhood and adolescence (or between the ages of about five and eighteen).",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B0%91%E5%A5%B3",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "少",
+      "id": 506,
+      "reading": "しょう"
+    },
+    {
+      "type": "kanji",
+      "value": "女",
+      "id": 454,
+      "reading": "じょ"
+    }
+  ]
+}

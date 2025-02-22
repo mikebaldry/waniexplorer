@@ -1,0 +1,46 @@
+{
+  "id": 3961,
+  "type": "vocabulary",
+  "characters": "兵器",
+  "primaryMeaning": "Arms",
+  "otherMeanings": [
+    "Weapons"
+  ],
+  "primaryReading": "へいき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1000,
+      "character": "兵",
+      "readings": [
+        "へい",
+        "ひょう"
+      ]
+    },
+    {
+      "id": 876,
+      "character": "器",
+      "readings": [
+        "き",
+        "うつわ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>container</kanji>s that <kanji>soldier</kanji>s use aren't just bowls and stuff, they're the things that hold their <vocabulary>arms</vocabulary> and <vocabulary>weapons</vocabulary>. Think spear and sword containers, full of weapons!",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%85%B5%E5%99%A8",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "兵",
+      "id": 1000,
+      "reading": "へい"
+    },
+    {
+      "type": "kanji",
+      "value": "器",
+      "id": 876,
+      "reading": "き"
+    }
+  ]
+}

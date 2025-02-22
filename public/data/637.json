@@ -1,40 +1,48 @@
 {
   "id": 637,
   "type": "kanji",
-  "character": "思",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "思"
+  },
+  "primaryReading": "おも",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "おも",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "し",
+      "type": "onyomi"
+    }
+  ],
   "primaryMeaning": "Think",
   "otherMeanings": [
     "Thought"
   ],
-  "primaryReading": "おも",
-  "readings": [
-    {
-      "reading": "おも",
-      "primary": true,
-      "type": "kunyomi"
-    },
-    {
-      "reading": "し",
-      "primary": false,
-      "type": "onyomi"
-    }
-  ],
-  "readingMnemonic": "As you are <kanji>think</kanji>ing these <kanji>thought</kanji>s, you spot someone on the edge of the rice field. He really reminds you of someone. But who? That's it! He reminds you of that bartender on The Simpsons. What's his name? You think some more. What is it? <reading>Oh! Moe</reading> (おも) is his name!",
   "meaningMnemonic": "In a <radical>rice paddy</radical> you find a <radical>heart</radical> and it makes you <kanji>think</kanji>. You think a lot of <kanji>thought</kanji>s like, \"Whose heart is this? Why is it in a rice paddy? Why am I thinking out loud?\"",
-  "vocabularyIds": [
-    2914,
-    3433,
-    3435,
-    3545,
-    4332,
-    5403,
-    6466,
-    7535,
-    8617
-  ],
-  "radicalIds": [
-    51,
-    65
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%80%9D"
+  "readingMnemonic": "As you are <kanji>think</kanji>ing these <kanji>thought</kanji>s, you spot someone on the edge of the rice field. He really reminds you of someone. But who? That's it! He reminds you of that bartender on The Simpsons. What's his name? You think some more. What is it? <reading>Oh! Moe</reading> (おも) is his name!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%80%9D"
+  },
+  "related": {
+    "radicals": [
+      51,
+      65
+    ],
+    "vocabularies": [
+      2914,
+      3433,
+      3435,
+      3545,
+      4332,
+      5403,
+      6466,
+      7535,
+      8617
+    ]
+  }
 }

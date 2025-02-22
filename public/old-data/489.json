@@ -1,0 +1,35 @@
+{
+  "id": 489,
+  "type": "kanji",
+  "character": "玉",
+  "primaryMeaning": "Ball",
+  "otherMeanings": [],
+  "primaryReading": "たま",
+  "readings": [
+    {
+      "reading": "たま",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "ぎょく",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "When he's done playing with it, the king gives his <kanji>ball</kanji> to <reading>Tama</reading>ra (たま), the resident ball girl, for safekeeping.",
+  "meaningMnemonic": "The <radical>king</radical> has a big <radical>drop</radical> of liquid in his hand... but then he bounces it! The drop was really a <kanji>ball</kanji>.",
+  "vocabularyIds": [
+    2573,
+    2574,
+    2575,
+    2584,
+    2798,
+    6302
+  ],
+  "radicalIds": [
+    48,
+    3
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%8E%89"
+}

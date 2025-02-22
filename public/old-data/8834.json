@@ -1,0 +1,28 @@
+{
+  "id": 8834,
+  "type": "kanji",
+  "character": "匂",
+  "primaryMeaning": "Smell",
+  "otherMeanings": [
+    "Scent"
+  ],
+  "primaryReading": "にお",
+  "readings": [
+    {
+      "reading": "にお",
+      "primary": true,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You can’t believe how awful these <kanji>smell</kanji>s are. You’re new in prison, so you call them all <reading>neo</reading>-smells (にお). They're neo, they're new to you.",
+  "meaningMnemonic": "You're stuck in <radical>prison</radical> with nothing but a <radical>spoon</radical>, and the <kanji>smell</kanji> in here is so bad you’re using the prison spoon to waft it outside as best you can. ",
+  "vocabularyIds": [
+    8841,
+    8842
+  ],
+  "radicalIds": [
+    14,
+    57
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%8C%82"
+}

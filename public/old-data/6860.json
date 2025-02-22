@@ -1,0 +1,52 @@
+{
+  "id": 6860,
+  "type": "vocabulary",
+  "characters": "肌触り",
+  "primaryMeaning": "The Touch Of",
+  "otherMeanings": [
+    "Feel Of",
+    "Texture"
+  ],
+  "primaryReading": "はだざわり",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1908,
+      "character": "肌",
+      "readings": [
+        "はだ",
+        "き"
+      ]
+    },
+    {
+      "id": 1229,
+      "character": "触",
+      "readings": [
+        "しょく",
+        "さわ",
+        "ふ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>skin</kanji> <kanji>touch</kanji> is  the feeling of touching with your skin. That is <vocabulary>the touch of</vocabulary>, <vocabulary>feel of</vocabulary>, or <vocabulary>texture</vocabulary> of something. It's what you feel when you touch your skin to something!",
+  "readingMnemonic": "The reading is 肌 plus 触る's reading, combined. Watch out for the rendaku.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%82%8C%E8%A7%A6%E3%82%8A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "肌",
+      "id": 1908,
+      "reading": "はだ"
+    },
+    {
+      "type": "kanji",
+      "value": "触",
+      "id": 1229,
+      "reading": "ざわ"
+    },
+    {
+      "type": "kana",
+      "value": "り"
+    }
+  ]
+}

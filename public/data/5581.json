@@ -1,43 +1,18 @@
 {
   "id": 5581,
   "type": "vocabulary",
-  "characters": "密輸",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "密輸"
+  },
   "primaryMeaning": "Smuggling",
-  "otherMeanings": [],
-  "primaryReading": "みつゆ",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1505,
-      "character": "密",
-      "readings": [
-        "みつ",
-        "ひそ"
-      ]
-    },
-    {
-      "id": 1221,
-      "character": "輸",
-      "readings": [
-        "ゆ"
-      ]
-    }
-  ],
   "meaningMnemonic": "A <kanji>secrecy</kanji> <kanji>transport</kanji> is when you transport something in secrecy. If you don't want people to know what you're transporting, you'll have to resort to <vocabulary>smuggling</vocabulary>.",
+  "primaryReading": "みつゆ",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AF%86%E8%BC%B8",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "密",
-      "id": 1505,
-      "reading": "みつ"
-    },
-    {
-      "type": "kanji",
-      "value": "輸",
-      "id": 1221,
-      "reading": "ゆ"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%AF%86%E8%BC%B8"
+  }
 }

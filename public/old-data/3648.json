@@ -1,0 +1,46 @@
+{
+  "id": 3648,
+  "type": "vocabulary",
+  "characters": "里心",
+  "primaryMeaning": "Homesick",
+  "otherMeanings": [
+    "Homesickness"
+  ],
+  "primaryReading": "さとごころ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 597,
+      "character": "里",
+      "readings": [
+        "さと",
+        "り"
+      ]
+    },
+    {
+      "id": 508,
+      "character": "心",
+      "readings": [
+        "しん",
+        "こころ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You have your <kanji>home village</kanji> and your <kanji>heart</kanji>. Your heart always resides in your home village, so when you leave you feel <vocabulary>homesick</vocabulary>.\n\nYoung people don't really use this word anymore. It's more for the oldies. If you're an oldie, go right ahead. If you're a youngie, then talk to more oldies!",
+  "readingMnemonic": "The readings are double kun'yomi. The kun'yomi reading is what you learned with 里 already, though you'll have to pull out the 心 vocab reading to remember it all. Not only that, the 心 gets rendaku'd here making it ごころ. Make sure you watch out for that.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%87%8C%E5%BF%83-3648",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "里",
+      "id": 597,
+      "reading": "さと"
+    },
+    {
+      "type": "kanji",
+      "value": "心",
+      "id": 508,
+      "reading": "ごころ"
+    }
+  ]
+}

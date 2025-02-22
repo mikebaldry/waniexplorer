@@ -1,0 +1,33 @@
+{
+  "id": 911,
+  "type": "kanji",
+  "character": "松",
+  "primaryMeaning": "Pine",
+  "otherMeanings": [
+    "Pine Tree"
+  ],
+  "primaryReading": "まつ",
+  "readings": [
+    {
+      "reading": "まつ",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "しょう",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "In case you fall, someone has laid <reading>mats</reading> (まつ) out around the base of the <kanji>pine</kanji> tree. That way, you’ll land on the mats should something unfortunate happen.",
+  "meaningMnemonic": "When climbing a <radical>tree</radical> in <radical>public</radical>, it’s best to choose a <kanji>pine</kanji>. Pine trees offer the most coverage, so you’ll be able to hide, even out in public.",
+  "vocabularyIds": [
+    3697,
+    3698
+  ],
+  "radicalIds": [
+    23,
+    237
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%9D%BE"
+}

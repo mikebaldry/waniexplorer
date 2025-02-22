@@ -1,34 +1,18 @@
 {
   "id": 5311,
   "type": "vocabulary",
-  "characters": "快い",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "快い"
+  },
   "primaryMeaning": "Pleasant",
-  "otherMeanings": [],
-  "primaryReading": "こころよい",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1420,
-      "character": "快",
-      "readings": [
-        "かい",
-        "こころよ"
-      ]
-    }
-  ],
   "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>pleasant</kanji>? It is also <vocabulary>pleasant</vocabulary>.",
+  "primaryReading": "こころよい",
   "readingMnemonic": "This word's reading is pretty weird. We're going to think back to a couple different words to put this one together. The word for heart (心), is こころ. The word for good is よい (or いい, but for this word's sake, よい). A \"good heart (feeling)\" is one where your heart feels nice and warm and fuzzy (figuratively, not literally. If it's literal, go to the hospital please). That is a <vocabulary>pleasant</vocabulary> feeling. A こころよい feeling.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BF%AB%E3%81%84",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "快",
-      "id": 1420,
-      "reading": "こころよ"
-    },
-    {
-      "type": "kana",
-      "value": "い"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%BF%AB%E3%81%84"
+  }
 }

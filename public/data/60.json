@@ -1,12 +1,15 @@
 {
   "id": 60,
   "type": "radical",
-  "primaryMeaning": "Winter",
-  "otherMeanings": [],
-  "character": {
+  "level": 3,
+  "characters": {
     "type": "text",
     "value": "夂"
   },
-  "meaningMnemonic": "This radical looks like the evening radical but has an extra long stroke. That's because evenings are long in the <radical>winter</radical>. It gets dark super early.\n\n\n\n",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/winter"
+  "primaryMeaning": "Winter",
+  "otherMeanings": [],
+  "meaningMnemonic": "This is the radical for <radical>winter</radical>. It looks like a skier going downhill (to the left), with their skis out in front and their poles out behind them. And when do people ski? In winter!\n\nYou could also remember this as looking like the evening radical but with an extra long stroke, since the evenings are long in winter. It gets dark early in winter, you know?",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/winter"
+  }
 }

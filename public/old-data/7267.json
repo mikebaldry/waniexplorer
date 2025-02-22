@@ -1,0 +1,49 @@
+{
+  "id": 7267,
+  "type": "vocabulary",
+  "characters": "挿入する",
+  "primaryMeaning": "To Insert",
+  "otherMeanings": [],
+  "primaryReading": "そうにゅうする",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2001,
+      "character": "挿",
+      "readings": [
+        "そう",
+        "さ"
+      ]
+    },
+    {
+      "id": 445,
+      "character": "入",
+      "readings": [
+        "にゅう",
+        "はい",
+        "い"
+      ]
+    }
+  ],
+  "meaningMnemonic": "挿入 is \"insertion\" so the verb version is <vocabulary>to insert</vocabulary>.",
+  "readingMnemonic": "The reading comes from 挿入, so if you know that you can insert this reading into your memory no problem.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8C%BF%E5%85%A5%E3%81%99%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "挿",
+      "id": 2001,
+      "reading": "そう"
+    },
+    {
+      "type": "kanji",
+      "value": "入",
+      "id": 445,
+      "reading": "にゅう"
+    },
+    {
+      "type": "kana",
+      "value": "する"
+    }
+  ]
+}

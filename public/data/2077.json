@@ -1,33 +1,41 @@
 {
   "id": 2077,
   "type": "kanji",
-  "character": "珠",
-  "primaryMeaning": "Pearl",
-  "otherMeanings": [],
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "珠"
+  },
   "primaryReading": "しゅ",
   "readings": [
     {
-      "reading": "しゅ",
       "primary": true,
+      "reading": "しゅ",
       "type": "onyomi"
     },
     {
-      "reading": "たま",
       "primary": false,
+      "reading": "たま",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "The king takes the <kanji>pearl</kanji> and tosses it into a <reading>chu</reading>te (しゅ) next to the slide he took to get into the jet. You watch as the pearl goes down, down, down until it lands into a huge vat of pearls.",
+  "primaryMeaning": "Pearl",
+  "otherMeanings": [],
   "meaningMnemonic": "The <radical>king</radical> takes his <radical>slide</radical> into his private <radical>jet</radical> and is given a <kanji>pearl</kanji> as a gift, by you! He's letting you ride in his jet today, and you were told the king should be presented with a pearl as soon as he boards.",
-  "vocabularyIds": [
-    7338,
-    7339,
-    7340
-  ],
-  "radicalIds": [
-    48,
-    5,
-    134
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%8F%A0"
+  "readingMnemonic": "The king takes the <kanji>pearl</kanji> and tosses it into a <reading>chu</reading>te (しゅ) next to the slide he took to get into the jet. You watch as the pearl goes down, down, down until it lands into a huge vat of pearls.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%8F%A0"
+  },
+  "related": {
+    "radicals": [
+      48,
+      5,
+      134
+    ],
+    "vocabularies": [
+      7338,
+      7339,
+      7340
+    ]
+  }
 }

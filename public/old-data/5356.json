@@ -1,0 +1,37 @@
+{
+  "id": 5356,
+  "type": "vocabulary",
+  "characters": "絶える",
+  "primaryMeaning": "To Die Out",
+  "otherMeanings": [
+    "To End",
+    "To Be Cut Off"
+  ],
+  "primaryReading": "たえる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1371,
+      "character": "絶",
+      "readings": [
+        "ぜつ",
+        "た"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>die out</kanji> so the verb vocab version is <vocabulary>to die out</vocabulary>. You know that this one is \"to die out\" because you're up in the <reading>air</reading> (える), looking down at the dinosaurs, who are all dying out. Thank goodness you're up in the air, because the ground is all on fire.",
+  "readingMnemonic": "The reading can come from 絶つ, so as long as you know that word you know this one as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B5%B6%E3%81%88%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "絶",
+      "id": 1371,
+      "reading": "た"
+    },
+    {
+      "type": "kana",
+      "value": "える"
+    }
+  ]
+}

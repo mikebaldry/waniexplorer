@@ -1,0 +1,66 @@
+{
+  "id": 6248,
+  "type": "vocabulary",
+  "characters": "言葉遣い",
+  "primaryMeaning": "Choice Of Words",
+  "otherMeanings": [],
+  "primaryReading": "ことばづかい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 593,
+      "character": "言",
+      "readings": [
+        "げん",
+        "ごん",
+        "い",
+        "こと"
+      ]
+    },
+    {
+      "id": 750,
+      "character": "葉",
+      "readings": [
+        "は",
+        "よう",
+        "ば"
+      ]
+    },
+    {
+      "id": 1662,
+      "character": "遣",
+      "readings": [
+        "けん",
+        "つか",
+        "や"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you try <kanji>to consider</kanji> (遣う) your <kanji>words</kanji> (言葉) you are making a <vocabulary>choice of words</vocabulary>.",
+  "readingMnemonic": "The reading is 言葉 and 遣う combined together.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A8%80%E8%91%89%E9%81%A3%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "言",
+      "id": 593,
+      "reading": "こと"
+    },
+    {
+      "type": "kanji",
+      "value": "葉",
+      "id": 750,
+      "reading": "ば"
+    },
+    {
+      "type": "kanji",
+      "value": "遣",
+      "id": 1662,
+      "reading": "づか"
+    },
+    {
+      "type": "kana",
+      "value": "い"
+    }
+  ]
+}

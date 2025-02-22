@@ -1,46 +1,20 @@
 {
   "id": 5172,
   "type": "vocabulary",
-  "characters": "不潔",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "不潔"
+  },
   "primaryMeaning": "Filthy",
+  "meaningMnemonic": "<kanji>Not</kanji> <kanji>clean</kanji> things are <vocabulary>filthy</vocabulary> and <vocabulary>dirty</vocabulary>. Ewughh.",
+  "primaryReading": "ふけつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Dirty"
   ],
-  "primaryReading": "ふけつ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 563,
-      "character": "不",
-      "readings": [
-        "ふ",
-        "ぶ"
-      ]
-    },
-    {
-      "id": 1357,
-      "character": "潔",
-      "readings": [
-        "けつ",
-        "いさぎよ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Not</kanji> <kanji>clean</kanji> things are <vocabulary>filthy</vocabulary> and <vocabulary>dirty</vocabulary>. Ewughh.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%8D%E6%BD%94",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "不",
-      "id": 563,
-      "reading": "ふ"
-    },
-    {
-      "type": "kanji",
-      "value": "潔",
-      "id": 1357,
-      "reading": "けつ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B8%8D%E6%BD%94"
+  }
 }

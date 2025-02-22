@@ -1,44 +1,18 @@
 {
   "id": 3032,
   "type": "vocabulary",
-  "characters": "学者",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "学者"
+  },
   "primaryMeaning": "Scholar",
-  "otherMeanings": [],
-  "primaryReading": "がくしゃ",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 599,
-      "character": "学",
-      "readings": [
-        "がく",
-        "まな"
-      ]
-    },
-    {
-      "id": 690,
-      "character": "者",
-      "readings": [
-        "しゃ",
-        "もの"
-      ]
-    }
-  ],
   "meaningMnemonic": "<kanji>Someone</kanji> who does <kanji>study</kanji> for a living. That is a <vocabulary>scholar</vocabulary>.",
+  "primaryReading": "がくしゃ",
   "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AD%A6%E8%80%85",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "学",
-      "id": 599,
-      "reading": "がく"
-    },
-    {
-      "type": "kanji",
-      "value": "者",
-      "id": 690,
-      "reading": "しゃ"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%AD%A6%E8%80%85"
+  }
 }

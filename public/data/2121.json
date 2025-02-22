@@ -1,40 +1,48 @@
 {
   "id": 2121,
   "type": "kanji",
-  "character": "頂",
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "頂"
+  },
+  "primaryReading": "ちょう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ちょう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "いただき",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "いただ",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Summit",
   "otherMeanings": [
     "Humbly"
   ],
-  "primaryReading": "ちょう",
-  "readings": [
-    {
-      "reading": "ちょう",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "いただき",
-      "primary": false,
-      "type": "kunyomi"
-    },
-    {
-      "reading": "いただ",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "You are at the top, the <kanji>summit</kanji> of everything! You <kanji>humbly</kanji> survey your surroundings from the top of the geoduck, only to see someone on the street, running toward you. It is Mrs. <reading>Chou</reading> (ちょう), and she looks angry.",
   "meaningMnemonic": "Take the <radical>street</radical> all the way to that <radical>geoduck</radical>, way up there. When you reach it, you will have made it to the <kanji>summit</kanji>. You <kanji>humbly</kanji> present the road to the geoduck and bow before it.",
-  "vocabularyIds": [
-    7857,
-    7858,
-    8054,
-    8055
-  ],
-  "radicalIds": [
-    27,
-    184
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%A0%82"
+  "readingMnemonic": "You are at the top, the <kanji>summit</kanji> of everything! You <kanji>humbly</kanji> survey your surroundings from the top of the geoduck, only to see someone on the street, running toward you. It is Mrs. <reading>Chou</reading> (ちょう), and she looks angry.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%A0%82"
+  },
+  "related": {
+    "radicals": [
+      27,
+      184
+    ],
+    "vocabularies": [
+      7857,
+      7858,
+      8054,
+      8055
+    ]
+  }
 }

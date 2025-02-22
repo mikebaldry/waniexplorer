@@ -1,35 +1,23 @@
 {
   "id": 8571,
   "type": "vocabulary",
-  "characters": "胆",
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "胆"
+  },
   "primaryMeaning": "Guts",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "たん",
+  "readingMnemonic": "You learned this reading with the kanji, so you should be able to read it already!",
   "otherMeanings": [
     "Innards",
     "Courage"
   ],
-  "primaryReading": "たん",
   "otherReadings": [
     "きも"
   ],
-  "kanji": [
-    {
-      "id": 2425,
-      "character": "胆",
-      "readings": [
-        "たん",
-        "きも"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
-  "readingMnemonic": "You learned this reading with the kanji, so you should be able to read it already!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%83%86",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "胆",
-      "id": 2425,
-      "reading": "たん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%83%86"
+  }
 }

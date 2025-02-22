@@ -1,50 +1,20 @@
 {
   "id": 4577,
   "type": "vocabulary",
-  "characters": "確認する",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "確認する"
+  },
   "primaryMeaning": "To Confirm",
+  "meaningMnemonic": "確認 is confirmation. When that's a verb, you have <vocabulary>to confirm</vocabulary> or <vocabulary>to verify</vocabulary>.",
+  "primaryReading": "かくにんする",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. It will help immensely if you know the word 確認 already as well.",
   "otherMeanings": [
     "To Verify"
   ],
-  "primaryReading": "かくにんする",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1103,
-      "character": "確",
-      "readings": [
-        "かく",
-        "たし"
-      ]
-    },
-    {
-      "id": 1152,
-      "character": "認",
-      "readings": [
-        "にん",
-        "みと"
-      ]
-    }
-  ],
-  "meaningMnemonic": "確認 is confirmation. When that's a verb, you have <vocabulary>to confirm</vocabulary> or <vocabulary>to verify</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. It will help immensely if you know the word 確認 already as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A2%BA%E8%AA%8D%E3%81%99%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "確",
-      "id": 1103,
-      "reading": "かく"
-    },
-    {
-      "type": "kanji",
-      "value": "認",
-      "id": 1152,
-      "reading": "にん"
-    },
-    {
-      "type": "kana",
-      "value": "する"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%A2%BA%E8%AA%8D%E3%81%99%E3%82%8B"
+  }
 }

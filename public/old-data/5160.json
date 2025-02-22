@@ -1,0 +1,51 @@
+{
+  "id": 5160,
+  "type": "vocabulary",
+  "characters": "面接する",
+  "primaryMeaning": "To Interview With",
+  "otherMeanings": [
+    "To Interview"
+  ],
+  "primaryReading": "めんせつする",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 974,
+      "character": "面",
+      "readings": [
+        "めん",
+        "おも",
+        "おもて"
+      ]
+    },
+    {
+      "id": 1311,
+      "character": "接",
+      "readings": [
+        "せつ",
+        "つ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "面接 is an <kanji>interview</kanji>. Make that into a verb and you have <vocabulary>to interview with</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Will help to know the word 面接 as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9D%A2%E6%8E%A5%E3%81%99%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "面",
+      "id": 974,
+      "reading": "めん"
+    },
+    {
+      "type": "kanji",
+      "value": "接",
+      "id": 1311,
+      "reading": "せつ"
+    },
+    {
+      "type": "kana",
+      "value": "する"
+    }
+  ]
+}

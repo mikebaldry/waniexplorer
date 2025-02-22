@@ -1,12 +1,15 @@
 {
   "id": 63,
   "type": "radical",
-  "primaryMeaning": "Fingers",
-  "otherMeanings": [],
-  "character": {
+  "level": 3,
+  "characters": {
     "type": "text",
     "value": "扌"
   },
-  "meaningMnemonic": "This looks like the hand (手) radical, but smaller. That's because it's just the <radical>fingers</radical>. You don't always have room for a whole hand to be in a kanji, but there's always space for a few fingers.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/fingers"
+  "primaryMeaning": "Fingers",
+  "otherMeanings": [],
+  "meaningMnemonic": "This looks like a long index finger bent at the bottom, with several other stubby fingers growing out of it on either side. That makes it the <radical>fingers</radical> radical. A bit creepy, but imagine how easily you could grip something or scratch your back with fingery fingers like these. Pretty nice, right?\n\nThis is also a lot like the hand radical (手) but smaller. And what are the smaller parts of a hand? The fingers! You can remember it that way too, if you want.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/fingers"
+  }
 }

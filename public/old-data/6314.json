@@ -1,0 +1,44 @@
+{
+  "id": 6314,
+  "type": "vocabulary",
+  "characters": "福祉",
+  "primaryMeaning": "Welfare",
+  "otherMeanings": [
+    "Well Being"
+  ],
+  "primaryReading": "ふくし",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 867,
+      "character": "福",
+      "readings": [
+        "ふく"
+      ]
+    },
+    {
+      "id": 1734,
+      "character": "祉",
+      "readings": [
+        "し"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You have much <kanji>luck</kanji> in your <kanji>welfare</kanji>, making you have good <vocabulary>welfare</vocabulary> and <vocabulary>well being</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A6%8F%E7%A5%89",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "福",
+      "id": 867,
+      "reading": "ふく"
+    },
+    {
+      "type": "kanji",
+      "value": "祉",
+      "id": 1734,
+      "reading": "し"
+    }
+  ]
+}

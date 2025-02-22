@@ -1,28 +1,36 @@
 {
   "id": 1928,
   "type": "kanji",
-  "character": "卓",
-  "primaryMeaning": "Table",
-  "otherMeanings": [],
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "卓"
+  },
   "primaryReading": "たく",
   "readings": [
     {
-      "reading": "たく",
       "primary": true,
+      "reading": "たく",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "What do all the early toes on the <kanji>table</kanji> do while they're waiting until it's the right time? They just sit around on their table, <reading>talk</reading>ing (たく).",
+  "primaryMeaning": "Table",
+  "otherMeanings": [],
   "meaningMnemonic": "The <radical>toe</radical> is <radical>early</radical>. I hate it when the toes show up early. Well, if the toes are going to show up this early, I guess it's best to put them on the <kanji>table</kanji>.",
-  "vocabularyIds": [
-    6904,
-    6905,
-    6906,
-    6907
-  ],
-  "radicalIds": [
-    10,
-    201
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%8D%93"
+  "readingMnemonic": "What do all the early toes on the <kanji>table</kanji> do while they're waiting until it's the right time? They just sit around on their table, <reading>talk</reading>ing (たく).",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%8D%93"
+  },
+  "related": {
+    "radicals": [
+      10,
+      201
+    ],
+    "vocabularies": [
+      6904,
+      6905,
+      6906,
+      6907
+    ]
+  }
 }

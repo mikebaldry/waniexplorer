@@ -1,0 +1,32 @@
+{
+  "id": 7128,
+  "type": "vocabulary",
+  "characters": "〜畳",
+  "primaryMeaning": "Counter For Tatami Mats",
+  "otherMeanings": [
+    "Tatami Mat Counter"
+  ],
+  "primaryReading": "じょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2006,
+      "character": "畳",
+      "readings": [
+        "じょう",
+        "たたみ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The 〜 shows the number of tatami mats, and the 畳 part is \"tatami\" of course. So, this is a <vocabulary>counter for tatami mats</vocabulary>. It is generally used to show how big an apartment or something is. Oh, your apartment is 12 tatami mats? Nice and big!",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E3%80%9C%E7%95%B3",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "畳",
+      "id": 2006,
+      "reading": "じょう"
+    }
+  ]
+}

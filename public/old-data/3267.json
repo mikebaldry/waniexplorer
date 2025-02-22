@@ -1,0 +1,37 @@
+{
+  "id": 3267,
+  "type": "vocabulary",
+  "characters": "利く",
+  "primaryMeaning": "To Work Well",
+  "otherMeanings": [
+    "To Be Possible",
+    "To Be Effective"
+  ],
+  "primaryReading": "きく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 786,
+      "character": "利",
+      "readings": [
+        "り",
+        "き"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You know the kanji means <kanji>profit</kanji>. When you make it into a verb, though, it means <vocabulary>to work well</vocabulary>. If you think about it, when something works well it makes you a profit.",
+  "readingMnemonic": "What works so well? Your special <reading>key</reading> (き) that can unlock anyone and anything's potential. Imagine putting it into a key slot in someone's back. Someone who's a good for nothing can't-do-anything is now an effective member of society! Go around using your key on other non-effective things and show them that anything is possible!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%88%A9%E3%81%8F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "利",
+      "id": 786,
+      "reading": "き"
+    },
+    {
+      "type": "kana",
+      "value": "く"
+    }
+  ]
+}

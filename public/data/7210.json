@@ -1,46 +1,20 @@
 {
   "id": 7210,
   "type": "vocabulary",
-  "characters": "耐熱",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "耐熱"
+  },
   "primaryMeaning": "Heat Resisting",
+  "meaningMnemonic": "If something is <kanji>resistant</kanji> to <kanji>heat</kanji> then it is <vocabulary>heat resisting</vocabulary>.",
+  "primaryReading": "たいねつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Heat Resistant"
   ],
-  "primaryReading": "たいねつ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2031,
-      "character": "耐",
-      "readings": [
-        "たい",
-        "た"
-      ]
-    },
-    {
-      "id": 882,
-      "character": "熱",
-      "readings": [
-        "ねつ",
-        "あつ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "If something is <kanji>resistant</kanji> to <kanji>heat</kanji> then it is <vocabulary>heat resisting</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%80%90%E7%86%B1",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "耐",
-      "id": 2031,
-      "reading": "たい"
-    },
-    {
-      "type": "kanji",
-      "value": "熱",
-      "id": 882,
-      "reading": "ねつ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%80%90%E7%86%B1"
+  }
 }

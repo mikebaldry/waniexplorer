@@ -1,0 +1,45 @@
+{
+  "id": 4733,
+  "type": "vocabulary",
+  "characters": "武器",
+  "primaryMeaning": "Weapon",
+  "otherMeanings": [],
+  "primaryReading": "ぶき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1241,
+      "character": "武",
+      "readings": [
+        "ぶ",
+        "む",
+        "たけ"
+      ]
+    },
+    {
+      "id": 876,
+      "character": "器",
+      "readings": [
+        "き",
+        "うつわ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>container</kanji> used by the <kanji>military</kanji> is probably going to be used as a <vocabulary>weapon</vocabulary>. After all, that's what the military does... weapons.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%AD%A6%E5%99%A8",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "武",
+      "id": 1241,
+      "reading": "ぶ"
+    },
+    {
+      "type": "kanji",
+      "value": "器",
+      "id": 876,
+      "reading": "き"
+    }
+  ]
+}

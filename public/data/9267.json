@@ -1,45 +1,18 @@
 {
   "id": 9267,
   "type": "vocabulary",
-  "characters": "雨天",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "雨天"
+  },
   "primaryMeaning": "Rainy Weather",
-  "otherMeanings": [],
-  "primaryReading": "うてん",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 603,
-      "character": "雨",
-      "readings": [
-        "あめ",
-        "あま",
-        "う"
-      ]
-    },
-    {
-      "id": 473,
-      "character": "天",
-      "readings": [
-        "てん",
-        "あま"
-      ]
-    }
-  ],
   "meaningMnemonic": "You see the kanji for <kanji>rain</kanji> being followed by the 天 kanji from 天気 (weather). This word means <vocabulary>rainy weather</vocabulary>.\n\nThis has a formal nuance to it, and is often used for event announcements (whether to postpone it in case of rainy weather, etc).",
+  "primaryReading": "うてん",
   "readingMnemonic": "This is a jukugo word, so you use on'yomi readings. You should be familiar with the on'yomi reading for 天 already, but not for 雨. So here's a mnemonic to help you remember:\n\nThe <vocabulary>rainy weather</vocabulary> won't stop you to go catch some <reading>u</reading>ni (う). You would get wet anyway diving into the ocean to collect uni, the rainy weather doesn't affect you. You can also sell them for <reading>ten</reading> (てん) bucks a piece! The rainy weather isn't at all a problem for a uni hunting if you're making ten dollars for each, you know?",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9B%A8%E5%A4%A9",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "雨",
-      "id": 603,
-      "reading": "う"
-    },
-    {
-      "type": "kanji",
-      "value": "天",
-      "id": 473,
-      "reading": "てん"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%9B%A8%E5%A4%A9"
+  }
 }

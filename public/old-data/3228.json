@@ -1,0 +1,30 @@
+{
+  "id": 3228,
+  "type": "vocabulary",
+  "characters": "顔",
+  "primaryMeaning": "Face",
+  "otherMeanings": [],
+  "primaryReading": "かお",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 772,
+      "character": "顔",
+      "readings": [
+        "かお",
+        "がん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "The reading is kun'yomi, since it's a kanji all alone with nothing attached. Luckily, that's also the reading you've already learned, so associate that with this vocab word.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%A1%94",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "顔",
+      "id": 772,
+      "reading": "かお"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": 8523,
+  "type": "vocabulary",
+  "characters": "卑劣",
+  "primaryMeaning": "Mean",
+  "otherMeanings": [
+    "Foul Play",
+    "Cowardly",
+    "Base"
+  ],
+  "primaryReading": "ひれつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2421,
+      "character": "卑",
+      "readings": [
+        "ひ",
+        "いや"
+      ]
+    },
+    {
+      "id": 2080,
+      "character": "劣",
+      "readings": [
+        "れつ",
+        "おと"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you treat someone in a <kanji>lowly</kanji> manner because you think they're <kanji>inferior</kanji> to you then you're a <vocabulary>mean</vocabulary> person. Plain and simple.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8D%91%E5%8A%A3",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "卑",
+      "id": 2421,
+      "reading": "ひ"
+    },
+    {
+      "type": "kanji",
+      "value": "劣",
+      "id": 2080,
+      "reading": "れつ"
+    }
+  ]
+}

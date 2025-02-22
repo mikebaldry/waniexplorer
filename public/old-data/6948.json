@@ -1,0 +1,52 @@
+{
+  "id": 6948,
+  "type": "vocabulary",
+  "characters": "手堅い",
+  "primaryMeaning": "Solid",
+  "otherMeanings": [
+    "Steady",
+    "Firm"
+  ],
+  "primaryReading": "てがたい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 474,
+      "character": "手",
+      "readings": [
+        "て",
+        "しゅ",
+        "ず"
+      ]
+    },
+    {
+      "id": 1809,
+      "character": "堅",
+      "readings": [
+        "かた",
+        "けん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You know that 堅い is \"solid\" or \"tough.\" When your <kanji>hand</kanji> is <kanji>solid</kanji> and tough, it's <vocabulary>solid</vocabulary> and <vocabulary>steady</vocabulary>. If your hand is shaky, it's the opposite, or something.",
+  "readingMnemonic": "The reading is the two words 手 and 堅い combined together. Watch out for the rendaku.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%89%8B%E5%A0%85%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "手",
+      "id": 474,
+      "reading": "て"
+    },
+    {
+      "type": "kanji",
+      "value": "堅",
+      "id": 1809,
+      "reading": "がた"
+    },
+    {
+      "type": "kana",
+      "value": "い"
+    }
+  ]
+}

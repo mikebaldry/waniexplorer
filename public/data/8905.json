@@ -1,35 +1,18 @@
 {
   "id": 8905,
   "type": "vocabulary",
-  "characters": "絞める",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "絞める"
+  },
   "primaryMeaning": "To Strangle",
-  "otherMeanings": [],
-  "primaryReading": "しめる",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1275,
-      "character": "絞",
-      "readings": [
-        "こう",
-        "し",
-        "しぼ"
-      ]
-    }
-  ],
   "meaningMnemonic": "The kanji means <kanji>strangle</kanji> and this vocab is the verb version of that: <vocabulary>to strangle</vocabulary>. It’s usually used in the phrase 首を絞める, which also means “to strangle.” \n\nThere is another word, 絞る which means \"to wring out\" that looks very similar. You know that this one is \"to strangle\" because it has める sticking out of it. Imagine that in the <reading>mail</reading> (める) you get a letter that says \"I'm going <vocabulary>to strangle</vocabulary> you!\" When you get this in the mail, you know it's about strangling.",
+  "primaryReading": "しめる",
   "readingMnemonic": "The thing that is threatening <vocabulary>to strangle</vocabulary> you is actually a <reading>shee</reading>p (し)! The sheep comes to your house and says, \"here's the sheep mail!\" and then tries to strangle you. It puts its hard feet on your neck though it's pretty ineffective.\n\n",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B5%9E%E3%82%81%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "絞",
-      "id": 1275,
-      "reading": "し"
-    },
-    {
-      "type": "kana",
-      "value": "める"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%B5%9E%E3%82%81%E3%82%8B"
+  }
 }

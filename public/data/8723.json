@@ -1,52 +1,21 @@
 {
   "id": 8723,
   "type": "vocabulary",
-  "characters": "火照る",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "火照る"
+  },
   "primaryMeaning": "To Feel Hot",
+  "meaningMnemonic": "If <kanji>fire</kanji> <kanji>illuminate</kanji>s your face, you're going <vocabulary>to feel hot</vocabulary>. Sometimes you start <vocabulary>to flush</vocabulary> when you're embarrassed and it just feels like there is fire making your face light up.",
+  "primaryReading": "ほてる",
+  "readingMnemonic": "The readings for this word are both kun'yomi readings. You haven't learned this reading for 火 yet, but it's easier to remember this with a mnemonic for the whole thing:\n\nWhen are you going <vocabulary>to feel hot</vocabulary>? When is your face going <vocabulary>to flush</vocabulary>? When I ask you to go to a <reading>hotel</reading> (ほてる) with me!",
   "otherMeanings": [
     "To Flush",
     "To Burn"
   ],
-  "primaryReading": "ほてる",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 480,
-      "character": "火",
-      "readings": [
-        "か",
-        "ひ",
-        "ほ"
-      ]
-    },
-    {
-      "id": 1419,
-      "character": "照",
-      "readings": [
-        "しょう",
-        "て"
-      ]
-    }
-  ],
-  "meaningMnemonic": "If <kanji>fire</kanji> <kanji>illuminate</kanji>s your face, you're going <vocabulary>to feel hot</vocabulary>. Sometimes you start <vocabulary>to flush</vocabulary> when you're embarrassed and it just feels like there is fire making your face light up.",
-  "readingMnemonic": "The readings for this word are both kun'yomi readings. You haven't learned this reading for 火 yet, but it's easier to remember this with a mnemonic for the whole thing:\n\nWhen are you going <vocabulary>to feel hot</vocabulary>? When is your face going <vocabulary>to flush</vocabulary>? When I ask you to go to a <reading>hotel</reading> (ほてる) with me!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%81%AB%E7%85%A7%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "火",
-      "id": 480,
-      "reading": "ほ"
-    },
-    {
-      "type": "kanji",
-      "value": "照",
-      "id": 1419,
-      "reading": "て"
-    },
-    {
-      "type": "kana",
-      "value": "る"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%81%AB%E7%85%A7%E3%82%8B"
+  }
 }

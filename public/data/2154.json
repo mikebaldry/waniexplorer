@@ -1,31 +1,39 @@
 {
   "id": 2154,
   "type": "kanji",
-  "character": "塚",
-  "primaryMeaning": "Mound",
-  "otherMeanings": [],
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "塚"
+  },
   "primaryReading": "つか",
   "readings": [
     {
-      "reading": "つか",
       "primary": true,
+      "reading": "つか",
       "type": "kunyomi"
     },
     {
-      "reading": "ちょう",
       "primary": false,
+      "reading": "ちょう",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "The pig's forehead dirt <kanji>mound</kanji> keeps getting bigger until it's the size of <reading>two cars</reading> (つか)! Pigs are big, but you didn't think one could balance a mound the size of two cars on its forehead and not fall over.",
+  "primaryMeaning": "Mound",
+  "otherMeanings": [],
   "meaningMnemonic": "The <radical>dirt</radical> on the <radical>forehead</radical> of a <radical>pig</radical> makes a small <kanji>mound</kanji>. Picture it, if you will. A pig is rooting through the dirt. It lifts its head and there is a mound of dirt right on its forehead.",
-  "vocabularyIds": [
-    7791
-  ],
-  "radicalIds": [
-    17,
-    76,
-    233
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%A1%9A"
+  "readingMnemonic": "The pig's forehead dirt <kanji>mound</kanji> keeps getting bigger until it's the size of <reading>two cars</reading> (つか)! Pigs are big, but you didn't think one could balance a mound the size of two cars on its forehead and not fall over.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%A1%9A"
+  },
+  "related": {
+    "radicals": [
+      17,
+      76,
+      233
+    ],
+    "vocabularies": [
+      7791
+    ]
+  }
 }

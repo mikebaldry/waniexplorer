@@ -1,37 +1,21 @@
 {
   "id": 4778,
   "type": "vocabulary",
-  "characters": "渡す",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "渡す"
+  },
   "primaryMeaning": "To Hand Over",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>transit</kanji>. It's also in the verb 渡る, which means \"to cross.\" But with 渡す, it's more like you're sending something across instead, usually to another person. So 渡す means <vocabulary>to hand over</vocabulary>.\n\nIt can also mean <vocabulary>to ferry something across</vocabulary> a river, or <vocabulary>to lay something across</vocabulary> an expanse, like when you lay a plank over a pothole or build a bridge across a river.\n\nTo remember the す in 渡す, think of suing someone. When you <reading>sue</reading> (す) them, you have to hand over the papers to let them know you're suing. If you don't 渡す the papers, you can't sue!",
+  "primaryReading": "わたす",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
   "otherMeanings": [
     "To Ferry Something Across",
     "To Lay Something Across"
   ],
-  "primaryReading": "わたす",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1253,
-      "character": "渡",
-      "readings": [
-        "わた",
-        "と"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>transit</kanji>. It's also in the verb 渡る, which means \"to cross.\" But with 渡す, it's more like you're sending something across instead, usually to another person. So 渡す means <vocabulary>to hand over</vocabulary>.\n\nIt can also mean <vocabulary>to ferry something across</vocabulary> a river, or <vocabulary>to lay something across</vocabulary> an expanse, like when you lay a plank over a pothole or build a bridge across a river.\n\nTo remember the す in 渡す, think of suing someone. When you <reading>sue</reading> (す) them, you have to hand over the papers to let them know you're suing. If you don't 渡す the papers, you can't sue!",
-  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B8%A1%E3%81%99",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "渡",
-      "id": 1253,
-      "reading": "わた"
-    },
-    {
-      "type": "kana",
-      "value": "す"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B8%A1%E3%81%99"
+  }
 }

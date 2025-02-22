@@ -1,0 +1,32 @@
+{
+  "id": 7522,
+  "type": "vocabulary",
+  "characters": "百",
+  "primaryMeaning": "Hundred",
+  "otherMeanings": [
+    "One Hundred"
+  ],
+  "primaryReading": "ひゃく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 549,
+      "character": "百",
+      "readings": [
+        "ひゃく",
+        "もも"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When a vocab word is a single kanji without okurigana (hiragana attached to the kanji) it usually has the same meaning as the kanji it's spawned from. If you know the kanji meaning you'll also know the vocab meaning. It's <vocabulary>one hundred</vocabulary>!",
+  "readingMnemonic": "When a vocab word is a single kanji with no okurigana, it usually uses the kun'yomi reading. Numbers are an exception to this. Numbers use the on'yomi reading, which you've already learned by learning the kanji's reading! How nice!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%99%BE",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "百",
+      "id": 549,
+      "reading": "ひゃく"
+    }
+  ]
+}

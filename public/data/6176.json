@@ -1,47 +1,20 @@
 {
   "id": 6176,
   "type": "vocabulary",
-  "characters": "奏楽",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "奏楽"
+  },
   "primaryMeaning": "Musical Performance",
+  "meaningMnemonic": "<kanji>Play music</kanji> that will give me <kanji>comfort</kanji>, why then I should go see a <vocabulary>musical performance</vocabulary> to keep me nice and calm.",
+  "primaryReading": "そうがく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Instrumental Music"
   ],
-  "primaryReading": "そうがく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1684,
-      "character": "奏",
-      "readings": [
-        "そう",
-        "かな"
-      ]
-    },
-    {
-      "id": 704,
-      "character": "楽",
-      "readings": [
-        "らく",
-        "がく",
-        "たの"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Play music</kanji> that will give me <kanji>comfort</kanji>, why then I should go see a <vocabulary>musical performance</vocabulary> to keep me nice and calm.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A5%8F%E6%A5%BD",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "奏",
-      "id": 1684,
-      "reading": "そう"
-    },
-    {
-      "type": "kanji",
-      "value": "楽",
-      "id": 704,
-      "reading": "がく"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A5%8F%E6%A5%BD"
+  }
 }

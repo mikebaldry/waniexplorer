@@ -1,0 +1,62 @@
+{
+  "id": 914,
+  "type": "kanji",
+  "character": "的",
+  "primaryMeaning": "Target",
+  "otherMeanings": [
+    "-al"
+  ],
+  "primaryReading": "てき",
+  "readings": [
+    {
+      "reading": "てき",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "まと",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "This white dude is a huge <reading>techie</reading> (てき) so he has electronic enhancements that make sure he hits the <kanji>target</kanji>. Being a techie has its advantages.",
+  "meaningMnemonic": "A <radical>white</radical> guy jumps into a <radical>pool</radical> with a <kanji>target</kanji> painted on the bottom. He's aiming for the target, of course.\n\nThis kanji can also mean <kanji>-al</kanji>, as in the endings you get on some English adjectives. You know, like the pool is artifici-al. Or painting a target down there is not practic-al. That kind of -al.",
+  "vocabularyIds": [
+    3711,
+    3712,
+    3713,
+    3801,
+    3809,
+    3910,
+    3911,
+    4424,
+    4579,
+    4658,
+    4704,
+    4864,
+    5008,
+    5136,
+    5196,
+    5350,
+    5355,
+    5392,
+    5401,
+    5809,
+    6012,
+    6150,
+    6151,
+    6170,
+    7494,
+    7752,
+    7753,
+    8065,
+    8275,
+    8582,
+    9289
+  ],
+  "radicalIds": [
+    52,
+    236
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%9A%84"
+}

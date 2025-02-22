@@ -1,37 +1,45 @@
 {
   "id": 655,
   "type": "kanji",
-  "character": "必",
-  "primaryMeaning": "Certain",
-  "otherMeanings": [],
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "必"
+  },
   "primaryReading": "ひつ",
   "readings": [
     {
-      "reading": "ひつ",
       "primary": true,
+      "reading": "ひつ",
       "type": "onyomi"
     },
     {
-      "reading": "かなら",
       "primary": false,
+      "reading": "かなら",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "As the beeping heart thing starts to do one long continuous beeeeeeeeeeeeeep, the doctor puts his hands together and <reading>hits</reading> (ひつ) the dead patient over and over, attempting to bring him back.",
+  "primaryMeaning": "Certain",
+  "otherMeanings": [],
   "meaningMnemonic": "The <radical>slide</radical> coming out of the patient's <radical>heart</radical> is there because a mad scientist is testing to see if it's a good way to drain the body of blood. The patient is alive now... but they are definitely slated for <kanji>certain</kanji> death.",
-  "vocabularyIds": [
-    2943,
-    2944,
-    3146,
-    3154,
-    6157,
-    6543,
-    7955,
-    8169
-  ],
-  "radicalIds": [
-    65,
-    5
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%BF%85"
+  "readingMnemonic": "As the beeping heart thing starts to do one long continuous beeeeeeeeeeeeeep, the doctor puts his hands together and <reading>hits</reading> (ひつ) the dead patient over and over, attempting to bring him back.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%BF%85"
+  },
+  "related": {
+    "radicals": [
+      65,
+      5
+    ],
+    "vocabularies": [
+      2943,
+      2944,
+      3146,
+      3154,
+      6157,
+      6543,
+      7955,
+      8169
+    ]
+  }
 }

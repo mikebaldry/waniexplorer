@@ -1,47 +1,20 @@
 {
   "id": 4134,
   "type": "vocabulary",
-  "characters": "不等",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "不等"
+  },
   "primaryMeaning": "Inequality",
+  "meaningMnemonic": "When something is <kanji>not</kanji> <kanji>equal</kanji> is of course <vocabulary>unequal</vocabulary>. It's an <vocabulary>inequality</vocabulary>. You'll usually see this word in technical contexts like math and engineering, but it does pop up in more general formal writing, too.",
+  "primaryReading": "ふとう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Unequal"
   ],
-  "primaryReading": "ふとう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 563,
-      "character": "不",
-      "readings": [
-        "ふ",
-        "ぶ"
-      ]
-    },
-    {
-      "id": 1037,
-      "character": "等",
-      "readings": [
-        "とう",
-        "ひと",
-        "など"
-      ]
-    }
-  ],
-  "meaningMnemonic": "When something is <kanji>not</kanji> <kanji>equal</kanji> is of course <vocabulary>unequal</vocabulary>. It's an <vocabulary>inequality</vocabulary>. You'll usually see this word in technical contexts like math and engineering, but it does pop up in more general formal writing, too.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%8D%E7%AD%89",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "不",
-      "id": 563,
-      "reading": "ふ"
-    },
-    {
-      "type": "kanji",
-      "value": "等",
-      "id": 1037,
-      "reading": "とう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B8%8D%E7%AD%89"
+  }
 }

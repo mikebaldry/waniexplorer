@@ -1,38 +1,46 @@
 {
   "id": 1360,
   "type": "kanji",
-  "character": "修",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "修"
+  },
+  "primaryReading": "しゅう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "しゅう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "おさ",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Mastering",
   "otherMeanings": [
     "Repair"
   ],
-  "primaryReading": "しゅう",
-  "readings": [
-    {
-      "reading": "しゅう",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "おさ",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "What's the key to <kanji>mastering</kanji> any skill? A stick and a <reading>shoe</reading> (しゅう)! ",
   "meaningMnemonic": "Your <radical>leader</radical> is using a <radical>stick</radical> in the <radical>winter</radical> made of <radical>hair</radical>. This is the stick of <kanji>mastering</kanji> and <kanji>repair</kanji>. ",
-  "vocabularyIds": [
-    5111,
-    5112,
-    5113,
-    5114,
-    7500
-  ],
-  "radicalIds": [
-    75,
-    8761,
-    60,
-    38
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E4%BF%AE"
+  "readingMnemonic": "What's the key to <kanji>mastering</kanji> any skill? A stick and a <reading>shoe</reading> (しゅう)! ",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E4%BF%AE"
+  },
+  "related": {
+    "radicals": [
+      75,
+      8761,
+      60,
+      38
+    ],
+    "vocabularies": [
+      5111,
+      5112,
+      5113,
+      5114,
+      7500
+    ]
+  }
 }

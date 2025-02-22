@@ -1,0 +1,34 @@
+{
+  "id": 1204,
+  "type": "kanji",
+  "character": "幹",
+  "primaryMeaning": "Tree Trunk",
+  "otherMeanings": [
+    "Ability"
+  ],
+  "primaryReading": "かん",
+  "readings": [
+    {
+      "reading": "かん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "みき",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You lean against the <kanji>tree trunk</kanji>, waiting for your hat to dry, and suddenly you realize Genghis <reading>Khan</reading> (かん) is on the other side of it. You look around and see that all of the tree trunks around you have Mongols drying their hats under them.",
+  "meaningMnemonic": "In the <radical>morning</radical>, if you want your <radical>hat</radical> to <radical>dry</radical>, you need to hang it on a <kanji>tree trunk</kanji>. In the morning, everything is covered in dew. The grass is wet, the leaves are wet, but the tree trunk isn't wet! It was protected by the rest of the tree, so you can hang your hat there to dry.",
+  "vocabularyIds": [
+    4629,
+    4630
+  ],
+  "radicalIds": [
+    8793,
+    8764,
+    61
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%B9%B9"
+}

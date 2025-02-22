@@ -1,31 +1,39 @@
 {
   "id": 600,
   "type": "kanji",
-  "character": "林",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "林"
+  },
+  "primaryReading": "はやし",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "はやし",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "りん",
+      "type": "onyomi"
+    }
+  ],
   "primaryMeaning": "Forest",
   "otherMeanings": [
     "Grove"
   ],
-  "primaryReading": "はやし",
-  "readings": [
-    {
-      "reading": "はやし",
-      "primary": true,
-      "type": "kunyomi"
-    },
-    {
-      "reading": "りん",
-      "primary": false,
-      "type": "onyomi"
-    }
-  ],
-  "readingMnemonic": "So, now you have this <kanji>forest</kanji> and you want to cut it down (so much money!). But, you don't have any tools, only your hands. You think... I've done karate for a while, so I can probably chop it down that way. You get in a chopping stance, then do your battle cry and hit: \"<reading>HAYA ... .SHI******</reading>!\" (はやし)",
   "meaningMnemonic": "You have a <radical>tree</radical> and another <radical>tree</radical>. You basically have yourself a <kanji>forest</kanji>!",
-  "vocabularyIds": [
-    2794
-  ],
-  "radicalIds": [
-    23
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%9E%97"
+  "readingMnemonic": "So, now you have this <kanji>forest</kanji> and you want to cut it down (so much money!). But, you don't have any tools, only your hands. You think... I've done karate for a while, so I can probably chop it down that way. You get in a chopping stance, then do your battle cry and hit: \"<reading>HAYA ... .SHI******</reading>!\" (はやし)",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%9E%97"
+  },
+  "related": {
+    "radicals": [
+      23
+    ],
+    "vocabularies": [
+      2794
+    ]
+  }
 }

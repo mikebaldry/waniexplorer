@@ -1,0 +1,37 @@
+{
+  "id": 5847,
+  "type": "vocabulary",
+  "characters": "納まる",
+  "primaryMeaning": "To Settle Into",
+  "otherMeanings": [
+    "To Be Satisfied"
+  ],
+  "primaryReading": "おさまる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1536,
+      "character": "納",
+      "readings": [
+        "のう",
+        "なっ",
+        "おさ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If 納める is \"to supply\" or \"to deliver,\" then this word is when things have been delivered: so it's <vocabulary>to settle into</vocabulary> or <vocabulary>to be satisfied</vocabulary>. \n\n納まる means something or someone has found its right place and settled there. It often implies that there was a prior state of uncertainty or dissatisfaction, but now everything is in its right place.\n\nLike most verbs with まる as okurigana, this is an intransitive verb. That means it happens by itself, with no emphasis on the person or thing that's making something settle or be satisfied.",
+  "readingMnemonic": "The reading is the same as 納める.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B4%8D%E3%81%BE%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "納",
+      "id": 1536,
+      "reading": "おさ"
+    },
+    {
+      "type": "kana",
+      "value": "まる"
+    }
+  ]
+}

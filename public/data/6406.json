@@ -1,45 +1,21 @@
 {
   "id": 6406,
   "type": "vocabulary",
-  "characters": "敏感",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "敏感"
+  },
   "primaryMeaning": "Sensitivity",
+  "meaningMnemonic": "If you have an <kanji>alert</kanji> <kanji>feeling</kanji>, you are <vocabulary>sensitive to</vocabulary> things going on around you. That means you have a lot of <vocabulary>sensitivity</vocabulary>!",
+  "primaryReading": "びんかん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Sensitive To",
     "Sensibility"
   ],
-  "primaryReading": "びんかん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1757,
-      "character": "敏",
-      "readings": [
-        "びん"
-      ]
-    },
-    {
-      "id": 862,
-      "character": "感",
-      "readings": [
-        "かん"
-      ]
-    }
-  ],
-  "meaningMnemonic": "If you have an <kanji>alert</kanji> <kanji>feeling</kanji>, you are <vocabulary>sensitive to</vocabulary> things going on around you. That means you have a lot of <vocabulary>sensitivity</vocabulary>!",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%95%8F%E6%84%9F",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "敏",
-      "id": 1757,
-      "reading": "びん"
-    },
-    {
-      "type": "kanji",
-      "value": "感",
-      "id": 862,
-      "reading": "かん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%95%8F%E6%84%9F"
+  }
 }

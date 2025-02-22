@@ -1,0 +1,34 @@
+{
+  "id": 1636,
+  "type": "kanji",
+  "character": "踏",
+  "primaryMeaning": "Step",
+  "otherMeanings": [],
+  "primaryReading": "とう",
+  "readings": [
+    {
+      "reading": "とう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ふ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Each <kanji>step</kanji> you take brings you closer to <reading>とう</reading>きょう. Unfortunately, the sun keeps getting hotter, meaning you have to take breaks between steps more often, to get your feet wet with even more water. But you're determined to reach とうきょう, no matter how many steps it takes.",
+  "meaningMnemonic": "You soak each <radical>foot</radical> in <radical>water</radical> before going out in the <radical>sun</radical> to take your first <kanji>step</kanji>. Stepping on the ground when it's been baking in the hot sun can burn your feet, so you're careful to make them wet with water before stepping outside even once.",
+  "vocabularyIds": [
+    6008,
+    6009,
+    6149,
+    6232
+  ],
+  "radicalIds": [
+    95,
+    45,
+    22
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%B8%8F"
+}

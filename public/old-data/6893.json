@@ -1,0 +1,46 @@
+{
+  "id": 6893,
+  "type": "vocabulary",
+  "characters": "眺望",
+  "primaryMeaning": "Prospect",
+  "otherMeanings": [
+    "View"
+  ],
+  "primaryReading": "ちょうぼう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1923,
+      "character": "眺",
+      "readings": [
+        "ちょう",
+        "なが"
+      ]
+    },
+    {
+      "id": 908,
+      "character": "望",
+      "readings": [
+        "ぼう",
+        "のぞ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You <kanji>stare</kanji> at <kanji>hope</kanji>. It looks good. That is your <vocabulary>prospect</vocabulary> and <vocabulary>view</vocabulary>, as you stare at hope.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%9C%BA%E6%9C%9B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "眺",
+      "id": 1923,
+      "reading": "ちょう"
+    },
+    {
+      "type": "kanji",
+      "value": "望",
+      "id": 908,
+      "reading": "ぼう"
+    }
+  ]
+}

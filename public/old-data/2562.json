@@ -1,0 +1,46 @@
+{
+  "id": 2562,
+  "type": "vocabulary",
+  "characters": "四月",
+  "primaryMeaning": "April",
+  "otherMeanings": [],
+  "primaryReading": "しがつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 485,
+      "character": "四",
+      "readings": [
+        "し",
+        "よん",
+        "よ"
+      ]
+    },
+    {
+      "id": 477,
+      "character": "月",
+      "readings": [
+        "げつ",
+        "がつ",
+        "つき"
+      ]
+    }
+  ],
+  "meaningMnemonic": "月 in Japanese means \"moon\" but it also means \"month.\" Why? Probably because the moon takes about a month to get through its cycles. So, what's the fourth moon of the year? Here's a hint, it's the same as the fourth month of the year: <vocabulary>April</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. 月 has two on'yomi readings, but it always uses the がつ reading in the names of the months, so here's a mnemonic to help you remember that:\n\nIn <vocabulary>April</vocabulary>, you habitually eat <reading>shee</reading>p <reading>guts</reading> (しがつ). It's a tradition you started many years ago, and now you just can't stop eating sheep guts every April. Delicious!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%9B%9B%E6%9C%88",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "四",
+      "id": 485,
+      "reading": "し"
+    },
+    {
+      "type": "kanji",
+      "value": "月",
+      "id": 477,
+      "reading": "がつ"
+    }
+  ]
+}

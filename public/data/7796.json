@@ -1,38 +1,21 @@
 {
   "id": 7796,
   "type": "vocabulary",
-  "characters": "挟む",
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "挟む"
+  },
   "primaryMeaning": "To Put Between",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>between</kanji>, so the verb version is <vocabulary>to put between</vocabulary> or <vocabulary>to sandwich</vocabulary>.",
+  "primaryReading": "はさむ",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You learned this reading already so you should be able to read it!",
   "otherMeanings": [
     "To Sandwich",
     "To Insert"
   ],
-  "primaryReading": "はさむ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2123,
-      "character": "挟",
-      "readings": [
-        "はさ",
-        "きょう",
-        "しょう"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>between</kanji>, so the verb version is <vocabulary>to put between</vocabulary> or <vocabulary>to sandwich</vocabulary>.",
-  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You learned this reading already so you should be able to read it!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8C%9F%E3%82%80",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "挟",
-      "id": 2123,
-      "reading": "はさ"
-    },
-    {
-      "type": "kana",
-      "value": "む"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%8C%9F%E3%82%80"
+  }
 }

@@ -1,32 +1,20 @@
 {
   "id": 6645,
   "type": "vocabulary",
-  "characters": "袋",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "袋"
+  },
   "primaryMeaning": "Sack",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "ふくろ",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji. So, put that knowledge in a <vocabulary>sack</vocabulary> and move on to the next item.",
   "otherMeanings": [
     "Bag"
   ],
-  "primaryReading": "ふくろ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1836,
-      "character": "袋",
-      "readings": [
-        "ふくろ",
-        "たい"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
-  "readingMnemonic": "The reading is the same as the one you learned with the kanji. So, put that knowledge in a <vocabulary>sack</vocabulary> and move on to the next item.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A2%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "袋",
-      "id": 1836,
-      "reading": "ふくろ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%A2%8B"
+  }
 }

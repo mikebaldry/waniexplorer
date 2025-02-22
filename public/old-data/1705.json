@@ -1,0 +1,47 @@
+{
+  "id": 1705,
+  "type": "kanji",
+  "character": "逃",
+  "primaryMeaning": "Escape",
+  "otherMeanings": [],
+  "primaryReading": "とう",
+  "readings": [
+    {
+      "reading": "とう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "に",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "のが",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "の",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You decide to <kanji>escape</kanji> this omen by weaving in and out of the busy streets of <reading>とう</reading>きょう. By now, you know とうきょう like the back of your hand, so you're sure you can escape this way.",
+  "meaningMnemonic": "You use your <radical>scooter</radical> when the <radical>omen</radical> comes so that you can <kanji>escape</kanji>.",
+  "vocabularyIds": [
+    6223,
+    6224,
+    6357,
+    6358,
+    6935,
+    6940,
+    6941,
+    7558
+  ],
+  "radicalIds": [
+    114,
+    363
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%80%83"
+}

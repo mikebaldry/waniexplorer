@@ -1,36 +1,44 @@
 {
   "id": 1247,
   "type": "kanji",
-  "character": "株",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "株"
+  },
+  "primaryReading": "かぶ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "かぶ",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "しゅ",
+      "type": "onyomi"
+    }
+  ],
   "primaryMeaning": "Stock",
   "otherMeanings": [
     "Share"
   ],
-  "primaryReading": "かぶ",
-  "readings": [
-    {
-      "reading": "かぶ",
-      "primary": true,
-      "type": "kunyomi"
-    },
-    {
-      "reading": "しゅ",
-      "primary": false,
-      "type": "onyomi"
-    }
-  ],
-  "readingMnemonic": "Once the tree hits the ground with his <kanji>stock</kanji>s and his <kanji>share</kanji>s, the impact creates a large <reading>KABOO</reading>M (かぶ)! Stocks hit the ground - KABOOM! Shares! KABOOM! Tree! KABOOOOOOM~!",
   "meaningMnemonic": "What might cause a <radical>tree</radical> to <radical>slide</radical> down a <radical>jet</radical> would be if its <kanji>stock</kanji>s and <kanji>share</kanji>s took a dive in the market. This tree was on a jet for an important investor meeting when it got the news that its stocks and shares had just plummeted. Being very upset, the tree got up and got on the emergency slide out of the jet and plummeted into the ground just like his stocks and shares.",
-  "vocabularyIds": [
-    4761,
-    4762,
-    4937,
-    4938
-  ],
-  "radicalIds": [
-    23,
-    5,
-    134
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%A0%AA"
+  "readingMnemonic": "Once the tree hits the ground with his <kanji>stock</kanji>s and his <kanji>share</kanji>s, the impact creates a large <reading>KABOO</reading>M (かぶ)! Stocks hit the ground - KABOOM! Shares! KABOOM! Tree! KABOOOOOOM~!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%A0%AA"
+  },
+  "related": {
+    "radicals": [
+      23,
+      5,
+      134
+    ],
+    "vocabularies": [
+      4761,
+      4762,
+      4937,
+      4938
+    ]
+  }
 }

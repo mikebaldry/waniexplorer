@@ -1,34 +1,42 @@
 {
   "id": 1982,
   "type": "kanji",
-  "character": "霧",
-  "primaryMeaning": "Fog",
-  "otherMeanings": [],
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "霧"
+  },
   "primaryReading": "きり",
   "readings": [
     {
-      "reading": "きり",
       "primary": true,
+      "reading": "きり",
       "type": "kunyomi"
     },
     {
-      "reading": "む",
       "primary": false,
+      "reading": "む",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "Through the <kanji>fog</kanji> you see the shape of a mythical <reading>kiri</reading>n (きり). You can only see the outline through the fog, but you know it's there.",
+  "primaryMeaning": "Fog",
+  "otherMeanings": [],
   "meaningMnemonic": "It's <radical>rain</radical>ing on your <radical>spear</radical> that has <radical>winter</radical> <radical>power</radical>. When the warm rain hits your cold, winter spear, it creates <kanji>fog</kanji>.",
-  "vocabularyIds": [
-    7068,
-    7069,
-    7070
-  ],
-  "radicalIds": [
-    119,
-    148,
-    60,
-    13
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%9C%A7"
+  "readingMnemonic": "Through the <kanji>fog</kanji> you see the shape of a mythical <reading>kiri</reading>n (きり). You can only see the outline through the fog, but you know it's there.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%9C%A7"
+  },
+  "related": {
+    "radicals": [
+      119,
+      148,
+      60,
+      13
+    ],
+    "vocabularies": [
+      7068,
+      7069,
+      7070
+    ]
+  }
 }

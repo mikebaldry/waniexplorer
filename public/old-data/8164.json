@@ -1,0 +1,51 @@
+{
+  "id": 8164,
+  "type": "vocabulary",
+  "characters": "冷酷",
+  "primaryMeaning": "Cruel",
+  "otherMeanings": [
+    "Coldhearted",
+    "Relentless",
+    "Ruthless"
+  ],
+  "primaryReading": "れいこく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1350,
+      "character": "冷",
+      "readings": [
+        "れい",
+        "つめ",
+        "ひ",
+        "さ"
+      ]
+    },
+    {
+      "id": 2247,
+      "character": "酷",
+      "readings": [
+        "こく",
+        "ひど",
+        "むご"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>cruel</kanji> <kanji>cool</kanji> person is more <vocabulary>cruel</vocabulary> and <vocabulary>coldhearted</vocabulary> than just a normal cruel person. It's probably because they're cold all the time and it makes them mad. You should stay away from people like that.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%86%B7%E9%85%B7",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "冷",
+      "id": 1350,
+      "reading": "れい"
+    },
+    {
+      "type": "kanji",
+      "value": "酷",
+      "id": 2247,
+      "reading": "こく"
+    }
+  ]
+}

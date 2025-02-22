@@ -1,0 +1,47 @@
+{
+  "id": 8266,
+  "type": "vocabulary",
+  "characters": "主宰",
+  "primaryMeaning": "Supervision",
+  "otherMeanings": [
+    "Chairmanship"
+  ],
+  "primaryReading": "しゅさい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 528,
+      "character": "主",
+      "readings": [
+        "しゅ",
+        "おも",
+        "ぬし",
+        "あるじ"
+      ]
+    },
+    {
+      "id": 2297,
+      "character": "宰",
+      "readings": [
+        "さい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>master</kanji> <kanji>manager</kanji> rules over all of the other managers and he's in charge of their <vocabulary>supervision</vocabulary>. If anything goes wrong it will be blamed on him! He has to keep a close watch on them!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%BB%E5%AE%B0",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "主",
+      "id": 528,
+      "reading": "しゅ"
+    },
+    {
+      "type": "kanji",
+      "value": "宰",
+      "id": 2297,
+      "reading": "さい"
+    }
+  ]
+}

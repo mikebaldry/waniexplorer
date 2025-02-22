@@ -1,75 +1,20 @@
 {
   "id": 5425,
   "type": "vocabulary",
-  "characters": "総理大臣",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "総理大臣"
+  },
   "primaryMeaning": "Prime Minister",
+  "meaningMnemonic": "The <kanji>whole</kanji> <kanji>reason</kanji> our country is still running is because of our \"minister\" (大臣). Which minister? The <vocabulary>prime minister</vocabulary>, of course. Without our prime minister, we'd all be doomed I say. DOOMED!\n\nUnlike 首相, which can be used for any prime minister, this word is used only for the <vocabulary>Japanese prime minister</vocabulary>.",
+  "primaryReading": "そうりだいじん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. It's also a combination of two words you've learned before, 総理 and 大臣.",
   "otherMeanings": [
     "Japanese Prime Minister"
   ],
-  "primaryReading": "そうりだいじん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1131,
-      "character": "総",
-      "readings": [
-        "そう"
-      ]
-    },
-    {
-      "id": 669,
-      "character": "理",
-      "readings": [
-        "り",
-        "ことわり"
-      ]
-    },
-    {
-      "id": 453,
-      "character": "大",
-      "readings": [
-        "たい",
-        "だい",
-        "おお",
-        "ひろ"
-      ]
-    },
-    {
-      "id": 1395,
-      "character": "臣",
-      "readings": [
-        "しん",
-        "じん"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The <kanji>whole</kanji> <kanji>reason</kanji> our country is still running is because of our \"minister\" (大臣). Which minister? The <vocabulary>prime minister</vocabulary>, of course. Without our prime minister, we'd all be doomed I say. DOOMED!\n\nUnlike 首相, which can be used for any prime minister, this word is used only for the <vocabulary>Japanese prime minister</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. It's also a combination of two words you've learned before, 総理 and 大臣.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B7%8F%E7%90%86%E5%A4%A7%E8%87%A3",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "総",
-      "id": 1131,
-      "reading": "そう"
-    },
-    {
-      "type": "kanji",
-      "value": "理",
-      "id": 669,
-      "reading": "り"
-    },
-    {
-      "type": "kanji",
-      "value": "大",
-      "id": 453,
-      "reading": "だい"
-    },
-    {
-      "type": "kanji",
-      "value": "臣",
-      "id": 1395,
-      "reading": "じん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%B7%8F%E7%90%86%E5%A4%A7%E8%87%A3"
+  }
 }

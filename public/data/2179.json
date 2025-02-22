@@ -1,34 +1,42 @@
 {
   "id": 2179,
   "type": "kanji",
-  "character": "慢",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "慢"
+  },
+  "primaryReading": "まん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "まん",
+      "type": "onyomi"
+    }
+  ],
   "primaryMeaning": "Ridicule",
   "otherMeanings": [
     "Laziness"
   ],
-  "primaryReading": "まん",
-  "readings": [
-    {
-      "reading": "まん",
-      "primary": true,
-      "type": "onyomi"
-    }
-  ],
-  "readingMnemonic": "When people <kanji>ridicule</kanji> you, when you can't stop the <kanji>laziness</kanji>, you read <reading>man</reading>ga (まん). Manga helps you feel better about the mean things people say. Manga helps you feel like you're doing something, and that you aren't just a lazy person.",
   "meaningMnemonic": "If your <radical>soul</radical> is acting like the <radical>sun</radical> trapped in a <radical>net</radical> sitting on a <radical>stool</radical>, then people will <kanji>ridicule</kanji> you for your <kanji>laziness</kanji>. You're just sitting there, trapped and not moving.",
-  "vocabularyIds": [
-    7884,
-    7885,
-    7886,
-    7887,
-    7888,
-    8100
-  ],
-  "radicalIds": [
-    232,
-    22,
-    163,
-    30
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%85%A2"
+  "readingMnemonic": "When people <kanji>ridicule</kanji> you, when you can't stop the <kanji>laziness</kanji>, you read <reading>man</reading>ga (まん). Manga helps you feel better about the mean things people say. Manga helps you feel like you're doing something, and that you aren't just a lazy person.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%85%A2"
+  },
+  "related": {
+    "radicals": [
+      232,
+      22,
+      163,
+      30
+    ],
+    "vocabularies": [
+      7884,
+      7885,
+      7886,
+      7887,
+      7888,
+      8100
+    ]
+  }
 }

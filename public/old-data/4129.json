@@ -1,0 +1,49 @@
+{
+  "id": 4129,
+  "type": "vocabulary",
+  "characters": "私大",
+  "primaryMeaning": "Private College",
+  "otherMeanings": [
+    "Private University",
+    "Private Uni"
+  ],
+  "primaryReading": "しだい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 923,
+      "character": "私",
+      "readings": [
+        "し",
+        "わたし"
+      ]
+    },
+    {
+      "id": 453,
+      "character": "大",
+      "readings": [
+        "たい",
+        "だい",
+        "おお",
+        "ひろ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You know how 私 can mean <kanji>private</kanji> and how 大 is the first half of 大学? Well, combine those together and you have the shortened version of <vocabulary>private college</vocabulary> or <vocabulary>private university</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 大 has two on'yomi readings, here's a mnemonic to help you remember which one to use:\n\nYou went to a specific <vocabulary>private college</vocabulary> just to study <reading>dye</reading>s (だい). You're so into dyes that you decided to go to this extremely expensive <vocabulary>private university</vocabulary> that specializes in dyes. Good for you!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A7%81%E5%A4%A7",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "私",
+      "id": 923,
+      "reading": "し"
+    },
+    {
+      "type": "kanji",
+      "value": "大",
+      "id": 453,
+      "reading": "だい"
+    }
+  ]
+}

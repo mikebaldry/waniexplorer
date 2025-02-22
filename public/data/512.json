@@ -1,44 +1,52 @@
 {
   "id": 512,
   "type": "kanji",
-  "character": "父",
+  "level": 3,
+  "characters": {
+    "type": "text",
+    "value": "父"
+  },
+  "primaryReading": "ちち",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ちち",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "とう",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ふ",
+      "type": "onyomi"
+    }
+  ],
   "primaryMeaning": "Father",
   "otherMeanings": [
     "Dad"
   ],
-  "primaryReading": "ちち",
-  "readings": [
-    {
-      "reading": "ちち",
-      "primary": true,
-      "type": "kunyomi"
-    },
-    {
-      "reading": "とう",
-      "primary": false,
-      "type": "kunyomi"
-    },
-    {
-      "reading": "ふ",
-      "primary": false,
-      "type": "onyomi"
-    }
-  ],
-  "readingMnemonic": "Imagine your father is <reading>Cheech</reading> (ちち) from Cheech and Chong.",
   "meaningMnemonic": "The radical and the kanji for <kanji>father</kanji> are the same.",
-  "vocabularyIds": [
-    2617,
-    2618,
-    3551,
-    5542,
-    5723,
-    6000,
-    7613,
-    8524,
-    9292
-  ],
-  "radicalIds": [
-    68
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%88%B6"
+  "readingMnemonic": "Imagine your father is <reading>Cheech</reading> (ちち) from Cheech and Chong.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%88%B6"
+  },
+  "related": {
+    "radicals": [
+      68
+    ],
+    "vocabularies": [
+      2617,
+      2618,
+      3551,
+      5542,
+      5723,
+      6000,
+      7613,
+      8524,
+      9292
+    ]
+  }
 }

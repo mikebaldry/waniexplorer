@@ -1,43 +1,18 @@
 {
   "id": 5872,
   "type": "vocabulary",
-  "characters": "兵舎",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "兵舎"
+  },
   "primaryMeaning": "Barracks",
-  "otherMeanings": [],
-  "primaryReading": "へいしゃ",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1000,
-      "character": "兵",
-      "readings": [
-        "へい",
-        "ひょう"
-      ]
-    },
-    {
-      "id": 1583,
-      "character": "舎",
-      "readings": [
-        "しゃ"
-      ]
-    }
-  ],
   "meaningMnemonic": "A <kanji>soldier</kanji> <kanji>cottage</kanji> is a place where the soldiers stay. This is the <vocabulary>barracks</vocabulary>.",
+  "primaryReading": "へいしゃ",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%85%B5%E8%88%8E",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "兵",
-      "id": 1000,
-      "reading": "へい"
-    },
-    {
-      "type": "kanji",
-      "value": "舎",
-      "id": 1583,
-      "reading": "しゃ"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%85%B5%E8%88%8E"
+  }
 }

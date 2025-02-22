@@ -1,0 +1,44 @@
+{
+  "id": 4027,
+  "type": "vocabulary",
+  "characters": "署名",
+  "primaryMeaning": "Signature",
+  "otherMeanings": [],
+  "primaryReading": "しょめい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1022,
+      "character": "署",
+      "readings": [
+        "しょ"
+      ]
+    },
+    {
+      "id": 544,
+      "character": "名",
+      "readings": [
+        "めい",
+        "みょう",
+        "な"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you write your <kanji>name</kanji> for a <kanji>government office</kanji>, they require you to write out your <vocabulary>signature</vocabulary>. Printing won't do for official government office business.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%BD%B2%E5%90%8D",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "署",
+      "id": 1022,
+      "reading": "しょ"
+    },
+    {
+      "type": "kanji",
+      "value": "名",
+      "id": 544,
+      "reading": "めい"
+    }
+  ]
+}

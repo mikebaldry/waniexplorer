@@ -1,29 +1,37 @@
 {
   "id": 972,
   "type": "kanji",
-  "character": "箱",
-  "primaryMeaning": "Box",
-  "otherMeanings": [],
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "箱"
+  },
   "primaryReading": "はこ",
   "readings": [
     {
-      "reading": "はこ",
       "primary": true,
+      "reading": "はこ",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "Now you can use that <kanji>box</kanji> to store all your <reading>har</reading>d<reading>co</reading>re (はこ) punk vinyls. You’re a real connoisseur, so you know that hardcore music should only ever be kept in bamboo boxes.",
+  "primaryMeaning": "Box",
+  "otherMeanings": [],
   "meaningMnemonic": "Having a keen <radical>eye</radical> for woodworking, you can tell that the <radical>bamboo</radical> from that <radical>tree</radical> over there will make an excellent <kanji>box</kanji>. Boxes made from bamboo trees are very sturdy and fashionable. You have an eye for fashion as well, you see.",
-  "vocabularyIds": [
-    3858,
-    3859,
-    5195,
-    5205
-  ],
-  "radicalIds": [
-    85,
-    23,
-    53
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%AE%B1"
+  "readingMnemonic": "Now you can use that <kanji>box</kanji> to store all your <reading>har</reading>d<reading>co</reading>re (はこ) punk vinyls. You’re a real connoisseur, so you know that hardcore music should only ever be kept in bamboo boxes.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%AE%B1"
+  },
+  "related": {
+    "radicals": [
+      85,
+      23,
+      53
+    ],
+    "vocabularies": [
+      3858,
+      3859,
+      5195,
+      5205
+    ]
+  }
 }

@@ -1,32 +1,20 @@
 {
   "id": 7018,
   "type": "vocabulary",
-  "characters": "癖",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "癖"
+  },
   "primaryMeaning": "Bad Habit",
+  "meaningMnemonic": "The kanji itself means <kanji>habit</kanji> but it usually refers to a <vocabulary>bad habit</vocabulary>, so try to remember that meaning if you could.",
+  "primaryReading": "くせ",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
   "otherMeanings": [
     "Habit"
   ],
-  "primaryReading": "くせ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1963,
-      "character": "癖",
-      "readings": [
-        "くせ",
-        "へき"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The kanji itself means <kanji>habit</kanji> but it usually refers to a <vocabulary>bad habit</vocabulary>, so try to remember that meaning if you could.",
-  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%99%96",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "癖",
-      "id": 1963,
-      "reading": "くせ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%99%96"
+  }
 }

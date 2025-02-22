@@ -1,0 +1,47 @@
+{
+  "id": 9000,
+  "type": "vocabulary",
+  "characters": "煎茶",
+  "primaryMeaning": "Green Tea",
+  "otherMeanings": [
+    "Green Leaf Tea",
+    "Sencha"
+  ],
+  "primaryReading": "せんちゃ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 8991,
+      "character": "煎",
+      "readings": [
+        "せん",
+        "い"
+      ]
+    },
+    {
+      "id": 643,
+      "character": "茶",
+      "readings": [
+        "ちゃ",
+        "さ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you <kanji>roast</kanji> <kanji>tea</kanji>, you get <vocabulary>green tea</vocabulary>, also known as <vocabulary>green leaf tea</vocabulary>or <vocabulary>sencha</vocabulary>.\n\nIn reality there are various ways to make green tea, but for the purposes of this mnemonic, let's imagine it's always roasted!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%85%8E%E8%8C%B6",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "煎",
+      "id": 8991,
+      "reading": "せん"
+    },
+    {
+      "type": "kanji",
+      "value": "茶",
+      "id": 643,
+      "reading": "ちゃ"
+    }
+  ]
+}

@@ -1,44 +1,52 @@
 {
   "id": 754,
   "type": "kanji",
-  "character": "集",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "集"
+  },
+  "primaryReading": "しゅう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "しゅう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "あつ",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Collect",
   "otherMeanings": [
     "Gather"
   ],
-  "primaryReading": "しゅう",
-  "readings": [
-    {
-      "reading": "しゅう",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "あつ",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "Once you've <kanji>collect</kanji>ed enough turkeys, you're going to turn them into a <reading>shoe</reading> (しゅう). Maybe even two shoes, but that will mean <kanji>gather</kanji>ing even more turkeys!",
   "meaningMnemonic": "You chase a <radical>turkey</radical> up a <radical>tree</radical> to <kanji>collect</kanji> it. At least, you will once you've <kanji>gather</kanji>ed enough turkeys into this one tree.",
-  "vocabularyIds": [
-    3189,
-    3190,
-    3191,
-    3284,
-    3557,
-    4179,
-    5422,
-    5611,
-    6065,
-    6253,
-    6282,
-    7499,
-    7693
-  ],
-  "radicalIds": [
-    240,
-    23
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%9B%86"
+  "readingMnemonic": "Once you've <kanji>collect</kanji>ed enough turkeys, you're going to turn them into a <reading>shoe</reading> (しゅう). Maybe even two shoes, but that will mean <kanji>gather</kanji>ing even more turkeys!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%9B%86"
+  },
+  "related": {
+    "radicals": [
+      240,
+      23
+    ],
+    "vocabularies": [
+      3189,
+      3190,
+      3191,
+      3284,
+      3557,
+      4179,
+      5422,
+      5611,
+      6065,
+      6253,
+      6282,
+      7499,
+      7693
+    ]
+  }
 }

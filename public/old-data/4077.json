@@ -1,0 +1,47 @@
+{
+  "id": 4077,
+  "type": "vocabulary",
+  "characters": "可愛い",
+  "primaryMeaning": "Cute",
+  "otherMeanings": [],
+  "primaryReading": "かわいい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1049,
+      "character": "可",
+      "readings": [
+        "か"
+      ]
+    },
+    {
+      "id": 1021,
+      "character": "愛",
+      "readings": [
+        "あい",
+        "まな"
+      ]
+    }
+  ],
+  "meaningMnemonic": "It's <kanji>possible</kanji> to <kanji>love</kanji> this thing. It's so gosh darn <vocabulary>cute</vocabulary>! Any really cute thing is possible to love.",
+  "readingMnemonic": "The reading for this word is screwed up, though if we're lucky, you already know the word for cute. It seems to have injected itself into American and English culture a decent amount, anyways. If you are one of the lucky ones, you'll know that this word is read as かわいい. If you're not, think of the cute thing being a cow. Then you say, \"that <reading>cowはいい</reading>\" (かわいい), or \"that cow is good\" because it's so cute.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8F%AF%E6%84%9B%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "可",
+      "id": 1049,
+      "reading": "か"
+    },
+    {
+      "type": "kanji",
+      "value": "愛",
+      "id": 1021,
+      "reading": null
+    },
+    {
+      "type": "kana",
+      "value": "い"
+    }
+  ]
+}

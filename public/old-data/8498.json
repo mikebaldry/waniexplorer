@@ -1,0 +1,46 @@
+{
+  "id": 8498,
+  "type": "vocabulary",
+  "characters": "譜面",
+  "primaryMeaning": "Sheet Music",
+  "otherMeanings": [
+    "Musical Score"
+  ],
+  "primaryReading": "ふめん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2387,
+      "character": "譜",
+      "readings": [
+        "ふ"
+      ]
+    },
+    {
+      "id": 974,
+      "character": "面",
+      "readings": [
+        "めん",
+        "おも",
+        "おもて"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>score</kanji> on a <kanji>surface</kanji> is your <vocabulary>sheet music</vocabulary> or <vocabulary>musical score</vocabulary>. \n\n譜面 often refers more specifically to a music score’s pages. For a more general term for musical score, go with 楽譜.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%AD%9C%E9%9D%A2",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "譜",
+      "id": 2387,
+      "reading": "ふ"
+    },
+    {
+      "type": "kanji",
+      "value": "面",
+      "id": 974,
+      "reading": "めん"
+    }
+  ]
+}

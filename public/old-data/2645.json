@@ -1,0 +1,36 @@
+{
+  "id": 2645,
+  "type": "vocabulary",
+  "characters": "休む",
+  "primaryMeaning": "To Rest",
+  "otherMeanings": [
+    "To Take Time Off"
+  ],
+  "primaryReading": "やすむ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 542,
+      "character": "休",
+      "readings": [
+        "きゅう",
+        "やす"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji 休 means <kanji>rest</kanji>, so what's the verb version of that? It's <vocabulary>to rest</vocabulary> or <vocabulary>to take time off</vocabulary>.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nYou need <vocabulary>to rest</vocabulary>, right? Don't just answer with a \"yes,\" this deserves a \"<reading>YAASS</reading>\" (やす)! YAAASSS let's RESSST!!!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BC%91%E3%82%80",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "休",
+      "id": 542,
+      "reading": "やす"
+    },
+    {
+      "type": "kana",
+      "value": "む"
+    }
+  ]
+}

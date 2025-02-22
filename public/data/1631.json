@@ -1,26 +1,34 @@
 {
   "id": 1631,
   "type": "kanji",
-  "character": "療",
-  "primaryMeaning": "Heal",
-  "otherMeanings": [],
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "療"
+  },
   "primaryReading": "りょう",
   "readings": [
     {
-      "reading": "りょう",
       "primary": true,
+      "reading": "りょう",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "You aren't the only one that needs to be <kanji>heal</kanji>ed, so you take your <reading>row</reading> (りょう) boat out onto the lake where your town gets its drinking water and you dump a bunch of charcoal into it! Now everyone will be healed when they drink.",
+  "primaryMeaning": "Heal",
+  "otherMeanings": [],
   "meaningMnemonic": "If someone is <radical>sick</radical> feed them <radical>charcoal</radical> to <kanji>heal</kanji> them. Okay, so maybe you shouldn't feed it directly to them, but charcoal has amazing water filtration powers. So put charcoal in their water and the water will heal them right up.",
-  "vocabularyIds": [
-    5998,
-    5999
-  ],
-  "radicalIds": [
-    187,
-    319
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%99%82"
+  "readingMnemonic": "You aren't the only one that needs to be <kanji>heal</kanji>ed, so you take your <reading>row</reading> (りょう) boat out onto the lake where your town gets its drinking water and you dump a bunch of charcoal into it! Now everyone will be healed when they drink.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%99%82"
+  },
+  "related": {
+    "radicals": [
+      187,
+      319
+    ],
+    "vocabularies": [
+      5998,
+      5999
+    ]
+  }
 }

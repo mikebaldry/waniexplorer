@@ -1,0 +1,44 @@
+{
+  "id": 3188,
+  "type": "vocabulary",
+  "characters": "開発",
+  "primaryMeaning": "Development",
+  "otherMeanings": [],
+  "primaryReading": "かいはつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 753,
+      "character": "開",
+      "readings": [
+        "かい",
+        "あ",
+        "ひら"
+      ]
+    },
+    {
+      "id": 729,
+      "character": "発",
+      "readings": [
+        "はつ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You are now <kanji>open</kanji> for <kanji>departure</kanji>. You get on your boat and leave this place. You are going to another place to start its <vocabulary>development</vocabulary>, where you will create a new world.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%96%8B%E7%99%BA",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "開",
+      "id": 753,
+      "reading": "かい"
+    },
+    {
+      "type": "kanji",
+      "value": "発",
+      "id": 729,
+      "reading": "はつ"
+    }
+  ]
+}

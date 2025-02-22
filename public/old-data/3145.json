@@ -1,0 +1,46 @@
+{
+  "id": 3145,
+  "type": "vocabulary",
+  "characters": "勝者",
+  "primaryMeaning": "Winner",
+  "otherMeanings": [
+    "Victor"
+  ],
+  "primaryReading": "しょうしゃ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 738,
+      "character": "勝",
+      "readings": [
+        "しょう",
+        "か"
+      ]
+    },
+    {
+      "id": 690,
+      "character": "者",
+      "readings": [
+        "しゃ",
+        "もの"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Someone</kanji> who <kanji>win</kanji>s is the <vocabulary>winner</vocabulary> / <vocabulary>victor</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8B%9D%E8%80%85",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "勝",
+      "id": 738,
+      "reading": "しょう"
+    },
+    {
+      "type": "kanji",
+      "value": "者",
+      "id": 690,
+      "reading": "しゃ"
+    }
+  ]
+}

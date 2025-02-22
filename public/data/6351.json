@@ -1,62 +1,20 @@
 {
   "id": 6351,
   "type": "vocabulary",
-  "characters": "内緒話",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "内緒話"
+  },
   "primaryMeaning": "Confidential Talk",
+  "meaningMnemonic": "The <kanji>inside</kanji> <kanji>together</kanji> <kanji>talk</kanji> is talk that's only inside between us. It's <vocabulary>confidential talk</vocabulary>.",
+  "primaryReading": "ないしょばなし",
+  "readingMnemonic": "This word uses the on'yomi of 内緒 and kun'yomi of 話, only rendakued.",
   "otherMeanings": [
     "Whispering"
   ],
-  "primaryReading": "ないしょばなし",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 500,
-      "character": "内",
-      "readings": [
-        "ない",
-        "うち"
-      ]
-    },
-    {
-      "id": 1699,
-      "character": "緒",
-      "readings": [
-        "しょ",
-        "ちょ",
-        "お"
-      ]
-    },
-    {
-      "id": 705,
-      "character": "話",
-      "readings": [
-        "わ",
-        "はな",
-        "はなし"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The <kanji>inside</kanji> <kanji>together</kanji> <kanji>talk</kanji> is talk that's only inside between us. It's <vocabulary>confidential talk</vocabulary>.",
-  "readingMnemonic": "This word uses the on'yomi of 内緒 and kun'yomi of 話, only rendakued.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%86%85%E7%B7%92%E8%A9%B1",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "内",
-      "id": 500,
-      "reading": "ない"
-    },
-    {
-      "type": "kanji",
-      "value": "緒",
-      "id": 1699,
-      "reading": "しょ"
-    },
-    {
-      "type": "kanji",
-      "value": "話",
-      "id": 705,
-      "reading": "ばなし"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%86%85%E7%B7%92%E8%A9%B1"
+  }
 }

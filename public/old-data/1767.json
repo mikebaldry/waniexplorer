@@ -1,0 +1,36 @@
+{
+  "id": 1767,
+  "type": "kanji",
+  "character": "薄",
+  "primaryMeaning": "Dilute",
+  "otherMeanings": [],
+  "primaryReading": "はく",
+  "readings": [
+    {
+      "reading": "はく",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "うす",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You watch the flowers become <kanji>dilute</kanji>d with just one drop, and realize that this is a nature <reading>hack</reading> (はく). You’ve never seen anything like this before, so you think the tsunami found out how to hack nature and that’s how it got so good at diluting things. By hacking nature.",
+  "meaningMnemonic": "The <radical>flowers</radical> are being worked upon by a <radical>tsunami</radical> with a <radical>drop</radical> <radical>specialty</radical>: this tsunami can <kanji>dilute</kanji> flowers with just one tsunami-powered drop of itself. That’s its specialty.",
+  "vocabularyIds": [
+    6434,
+    6435,
+    6436,
+    6939,
+    8928
+  ],
+  "radicalIds": [
+    90,
+    103,
+    3,
+    317
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%96%84"
+}

@@ -1,51 +1,21 @@
 {
   "id": 3949,
   "type": "vocabulary",
-  "characters": "気持ちいい",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "気持ちいい"
+  },
   "primaryMeaning": "Good Feeling",
+  "meaningMnemonic": "When you have a \"feeling\" (気持ち) that is いい (that means \"good\" by the way), you have a <vocabulary>good feeling</vocabulary>.",
+  "primaryReading": "きもちいい",
+  "readingMnemonic": "The reading comes from the vocab word 気持ち, so if you know that (or the vocab words 気 and 持ち) you should be A-okay on this one. Maybe even <vocabulary>feeling good</vocabulary> about it?",
   "otherMeanings": [
     "Feeling Good",
     "Feels Good"
   ],
-  "primaryReading": "きもちいい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 548,
-      "character": "気",
-      "readings": [
-        "き",
-        "け"
-      ]
-    },
-    {
-      "id": 727,
-      "character": "持",
-      "readings": [
-        "じ",
-        "も"
-      ]
-    }
-  ],
-  "meaningMnemonic": "When you have a \"feeling\" (気持ち) that is いい (that means \"good\" by the way), you have a <vocabulary>good feeling</vocabulary>.",
-  "readingMnemonic": "The reading comes from the vocab word 気持ち, so if you know that (or the vocab words 気 and 持ち) you should be A-okay on this one. Maybe even <vocabulary>feeling good</vocabulary> about it?",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B0%97%E6%8C%81%E3%81%A1%E3%81%84%E3%81%84",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "気",
-      "id": 548,
-      "reading": "き"
-    },
-    {
-      "type": "kanji",
-      "value": "持",
-      "id": 727,
-      "reading": "も"
-    },
-    {
-      "type": "kana",
-      "value": "ちいい"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B0%97%E6%8C%81%E3%81%A1%E3%81%84%E3%81%84"
+  }
 }

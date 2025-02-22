@@ -1,0 +1,63 @@
+{
+  "id": 4888,
+  "type": "vocabulary",
+  "characters": "再来月",
+  "primaryMeaning": "Month After Next",
+  "otherMeanings": [
+    "The Month After Next"
+  ],
+  "primaryReading": "さらいげつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1310,
+      "character": "再",
+      "readings": [
+        "さ",
+        "さい",
+        "ふたた"
+      ]
+    },
+    {
+      "id": 590,
+      "character": "来",
+      "readings": [
+        "らい",
+        "く",
+        "き"
+      ]
+    },
+    {
+      "id": 477,
+      "character": "月",
+      "readings": [
+        "げつ",
+        "がつ",
+        "つき"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>next month</kanji> (来月) isn't enough... one more next month, please. Let's do it <kanji>again</kanji>. That month is the <vocabulary>month after next</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%86%8D%E6%9D%A5%E6%9C%88",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "再",
+      "id": 1310,
+      "reading": "さ"
+    },
+    {
+      "type": "kanji",
+      "value": "来",
+      "id": 590,
+      "reading": "らい"
+    },
+    {
+      "type": "kanji",
+      "value": "月",
+      "id": 477,
+      "reading": "げつ"
+    }
+  ]
+}

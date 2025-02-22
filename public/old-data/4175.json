@@ -1,0 +1,52 @@
+{
+  "id": 4175,
+  "type": "vocabulary",
+  "characters": "いい加減",
+  "primaryMeaning": "Irresponsible",
+  "otherMeanings": [
+    "Pointless",
+    "Unfounded",
+    "Careless"
+  ],
+  "primaryReading": "いいかげん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1057,
+      "character": "加",
+      "readings": [
+        "か",
+        "くわ"
+      ]
+    },
+    {
+      "id": 1059,
+      "character": "減",
+      "readings": [
+        "げん",
+        "へ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You <kanji>add</kanji> and you <kanji>subtract</kanji>. This brings you back to zero. There was absolutely no point in doing those actions. Completely <vocabulary>pointless</vocabulary>. In fact, I'd say that was downright <vocabulary>irresponsible</vocabulary> of you. The extra いい is there to mean \"good,\" as in \"good, you've figured out how pointless that was, now stop.\"",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E3%81%84%E3%81%84%E5%8A%A0%E6%B8%9B",
+  "elements": [
+    {
+      "type": "kana",
+      "value": "いい"
+    },
+    {
+      "type": "kanji",
+      "value": "加",
+      "id": 1057,
+      "reading": "か"
+    },
+    {
+      "type": "kanji",
+      "value": "減",
+      "id": 1059,
+      "reading": "げん"
+    }
+  ]
+}

@@ -1,31 +1,39 @@
 {
   "id": 2117,
   "type": "kanji",
-  "character": "涯",
-  "primaryMeaning": "Horizon",
-  "otherMeanings": [],
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "涯"
+  },
   "primaryReading": "がい",
   "readings": [
     {
-      "reading": "がい",
       "primary": true,
+      "reading": "がい",
       "type": "onyomi"
     },
     {
-      "reading": "はて",
       "primary": false,
+      "reading": "はて",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "You squint into the <kanji>horizon</kanji> and see something else. There's some <reading>guy</reading> (がい) up there. And he's... he's being swept away by the tsunami. The guy disappears into the horizon. The guy is gone.",
+  "primaryMeaning": "Horizon",
+  "otherMeanings": [],
   "meaningMnemonic": "There is a <radical>tsunami</radical> coming up over a <radical>cliff</radical> made of <radical>dirt</radical>. You can see this happening very far away because it's right on the <kanji>horizon</kanji>.",
-  "vocabularyIds": [
-    7429
-  ],
-  "radicalIds": [
-    103,
-    116,
-    17
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%B6%AF"
+  "readingMnemonic": "You squint into the <kanji>horizon</kanji> and see something else. There's some <reading>guy</reading> (がい) up there. And he's... he's being swept away by the tsunami. The guy disappears into the horizon. The guy is gone.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%B6%AF"
+  },
+  "related": {
+    "radicals": [
+      103,
+      116,
+      17
+    ],
+    "vocabularies": [
+      7429
+    ]
+  }
 }

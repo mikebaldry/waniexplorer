@@ -1,27 +1,35 @@
 {
   "id": 8840,
   "type": "kanji",
-  "character": "飴",
-  "primaryMeaning": "Candy",
-  "otherMeanings": [],
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "飴"
+  },
   "primaryReading": "あめ",
   "readings": [
     {
-      "reading": "あめ",
       "primary": true,
+      "reading": "あめ",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "This <kanji>candy</kanji> in particular is just drops of hardened, clear sugar that looks like <reading>雨</reading> (あめ) drops.",
+  "primaryMeaning": "Candy",
+  "otherMeanings": [],
   "meaningMnemonic": "What do you <radical>eat</radical> like a <radical>machine</radical>? <kanji>Candy</kanji>!",
-  "vocabularyIds": [
-    8850,
-    8854,
-    8855
-  ],
-  "radicalIds": [
-    139,
-    417
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%A3%B4"
+  "readingMnemonic": "This <kanji>candy</kanji> in particular is just drops of hardened, clear sugar that looks like <reading>雨</reading> (あめ) drops.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%A3%B4"
+  },
+  "related": {
+    "radicals": [
+      139,
+      417
+    ],
+    "vocabularies": [
+      8850,
+      8854,
+      8855
+    ]
+  }
 }

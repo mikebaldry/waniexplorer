@@ -1,49 +1,20 @@
 {
   "id": 8978,
   "type": "vocabulary",
-  "characters": "股間",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "股間"
+  },
   "primaryMeaning": "Crotch",
+  "meaningMnemonic": "The <kanji>groin</kanji> <kanji>interval</kanji> is simply the <vocabulary>groin</vocabulary> or <vocabulary>crotch</vocabulary>.",
+  "primaryReading": "こかん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Groin"
   ],
-  "primaryReading": "こかん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 8964,
-      "character": "股",
-      "readings": [
-        "こ",
-        "また",
-        "もも"
-      ]
-    },
-    {
-      "id": 701,
-      "character": "間",
-      "readings": [
-        "かん",
-        "けん",
-        "あいだ",
-        "ま"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The <kanji>groin</kanji> <kanji>interval</kanji> is simply the <vocabulary>groin</vocabulary> or <vocabulary>crotch</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%82%A1%E9%96%93",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "股",
-      "id": 8964,
-      "reading": "こ"
-    },
-    {
-      "type": "kanji",
-      "value": "間",
-      "id": 701,
-      "reading": "かん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%82%A1%E9%96%93"
+  }
 }

@@ -1,45 +1,20 @@
 {
   "id": 8375,
   "type": "vocabulary",
-  "characters": "楓糖",
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "楓糖"
+  },
   "primaryMeaning": "Maple Sugar",
-  "otherMeanings": [],
+  "meaningMnemonic": "<kanji>Maple</kanji> <kanji>sugar</kanji> is <vocabulary>maple sugar</vocabulary>!",
   "primaryReading": "ふうとう",
+  "readingMnemonic": "This word is more often read as <reading>ふうとう</reading>. You can figure out the reading by looking at the 風 portion of the kanji, remember its reading, and apply it here (ふう).",
+  "otherMeanings": [],
   "otherReadings": [
     "かえでとう"
   ],
-  "kanji": [
-    {
-      "id": 2360,
-      "character": "楓",
-      "readings": [
-        "かえで",
-        "ふう"
-      ]
-    },
-    {
-      "id": 1535,
-      "character": "糖",
-      "readings": [
-        "とう"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Maple</kanji> <kanji>sugar</kanji> is <vocabulary>maple sugar</vocabulary>!",
-  "readingMnemonic": "This word is more often read as <reading>ふうとう</reading>. You can figure out the reading by looking at the 風 portion of the kanji, remember its reading, and apply it here (ふう).",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%A5%93%E7%B3%96",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "楓",
-      "id": 2360,
-      "reading": "ふう"
-    },
-    {
-      "type": "kanji",
-      "value": "糖",
-      "id": 1535,
-      "reading": "とう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%A5%93%E7%B3%96"
+  }
 }

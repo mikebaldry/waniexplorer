@@ -1,44 +1,18 @@
 {
   "id": 6745,
   "type": "vocabulary",
-  "characters": "幻滅",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "幻滅"
+  },
   "primaryMeaning": "Disillusionment",
-  "otherMeanings": [],
-  "primaryReading": "げんめつ",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1027,
-      "character": "幻",
-      "readings": [
-        "げん",
-        "まぼろし"
-      ]
-    },
-    {
-      "id": 1868,
-      "character": "滅",
-      "readings": [
-        "めつ",
-        "ほろ"
-      ]
-    }
-  ],
   "meaningMnemonic": "The <kanji>illusion</kanji> is <kanji>destroy</kanji>ed. If your illusion is destroyed, that is <vocabulary>disillusionment</vocabulary>.",
+  "primaryReading": "げんめつ",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B9%BB%E6%BB%85",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "幻",
-      "id": 1027,
-      "reading": "げん"
-    },
-    {
-      "type": "kanji",
-      "value": "滅",
-      "id": 1868,
-      "reading": "めつ"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%B9%BB%E6%BB%85"
+  }
 }

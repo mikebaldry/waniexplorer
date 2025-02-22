@@ -1,28 +1,36 @@
 {
   "id": 1757,
   "type": "kanji",
-  "character": "敏",
-  "primaryMeaning": "Alert",
-  "otherMeanings": [],
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "敏"
+  },
   "primaryReading": "びん",
   "readings": [
     {
-      "reading": "びん",
       "primary": true,
+      "reading": "びん",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "Being the <kanji>alert</kanji> fellow you are, you hear a sasquatch approaching and dive into a trash <reading>bin</reading> (びん) to hide. The bin smells really bad and you are keenly alert to all the various stenches and smells currently penetrating your nostrils, but at least you are safe.",
+  "primaryMeaning": "Alert",
+  "otherMeanings": [],
   "meaningMnemonic": "<radical>Every</radical> <radical>winter</radical> you are <kanji>alert</kanji> for danger. Everyone knows that the worst monsters come out in the winter so you need to be alert if you want to survive.",
-  "vocabularyIds": [
-    6406,
-    6407,
-    6408,
-    6409
-  ],
-  "radicalIds": [
-    379,
-    60
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%95%8F"
+  "readingMnemonic": "Being the <kanji>alert</kanji> fellow you are, you hear a sasquatch approaching and dive into a trash <reading>bin</reading> (びん) to hide. The bin smells really bad and you are keenly alert to all the various stenches and smells currently penetrating your nostrils, but at least you are safe.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%95%8F"
+  },
+  "related": {
+    "radicals": [
+      379,
+      60
+    ],
+    "vocabularies": [
+      6406,
+      6407,
+      6408,
+      6409
+    ]
+  }
 }

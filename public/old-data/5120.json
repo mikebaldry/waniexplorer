@@ -1,0 +1,47 @@
+{
+  "id": 5120,
+  "type": "vocabulary",
+  "characters": "幼児",
+  "primaryMeaning": "Toddler",
+  "otherMeanings": [
+    "Preschooler"
+  ],
+  "primaryReading": "ようじ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1352,
+      "character": "幼",
+      "readings": [
+        "よう",
+        "おさな"
+      ]
+    },
+    {
+      "id": 1349,
+      "character": "児",
+      "readings": [
+        "じ",
+        "に",
+        "こ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "An <kanji>infancy</kanji> <kanji>child</kanji> is a <vocabulary>toddler</vocabulary>. The kanji are kind of deceptive since this isn't really used for infants. It's more for small children, from toddlers on up to <vocabulary>preschooler</vocabulary>s.\n\n幼児 is sort of formal, but it's commonly used to talk about small children from about one to six years old, or about that specific period of early childhood.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B9%BC%E5%85%90",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "幼",
+      "id": 1352,
+      "reading": "よう"
+    },
+    {
+      "type": "kanji",
+      "value": "児",
+      "id": 1349,
+      "reading": "じ"
+    }
+  ]
+}

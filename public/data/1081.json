@@ -1,45 +1,53 @@
 {
   "id": 1081,
   "type": "kanji",
-  "character": "得",
-  "primaryMeaning": "Acquire",
-  "otherMeanings": [],
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "得"
+  },
   "primaryReading": "とく",
   "readings": [
     {
-      "reading": "とく",
       "primary": true,
+      "reading": "とく",
       "type": "onyomi"
     },
     {
-      "reading": "え",
       "primary": false,
+      "reading": "え",
       "type": "kunyomi"
     },
     {
-      "reading": "う",
       "primary": false,
+      "reading": "う",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "You managed to <kanji>acquire</kanji> some tobacco, but just as you're about to leave <reading>Toku</reading>gawa (とく) Ieyasu comes marching up to you!! Or at least, his ghost does. He stares you dead in the eyes and says, \"I didn't found the shogunate for you to acquire illegal goods and kill your body toking on my soil.\"",
+  "primaryMeaning": "Acquire",
+  "otherMeanings": [],
   "meaningMnemonic": "If you <radical>loiter</radical> around the <radical>sun</radical> <radical>temple</radical>, it's likely you'll <kanji>acquire</kanji> something. When you loiter around like that it looks like you're waiting for something, so if someone puts something in your hands and you just happen to acquire it, well, no one can fault you for that.",
-  "vocabularyIds": [
-    4198,
-    4199,
-    4200,
-    4201,
-    4388,
-    5848,
-    6421,
-    7649,
-    7709,
-    7765
-  ],
-  "radicalIds": [
-    99,
-    22,
-    192
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%BE%97"
+  "readingMnemonic": "You managed to <kanji>acquire</kanji> some tobacco, but just as you're about to leave <reading>Toku</reading>gawa (とく) Ieyasu comes marching up to you!! Or at least, his ghost does. He stares you dead in the eyes and says, \"I didn't found the shogunate for you to acquire illegal goods and kill your body toking on my soil.\"",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%BE%97"
+  },
+  "related": {
+    "radicals": [
+      99,
+      22,
+      192
+    ],
+    "vocabularies": [
+      4198,
+      4199,
+      4200,
+      4201,
+      4388,
+      5848,
+      6421,
+      7649,
+      7709,
+      7765
+    ]
+  }
 }

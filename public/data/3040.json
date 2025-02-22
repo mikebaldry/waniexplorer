@@ -1,50 +1,23 @@
 {
   "id": 3040,
   "type": "vocabulary",
-  "characters": "出所",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "出所"
+  },
   "primaryMeaning": "Release From Prison",
+  "meaningMnemonic": "You <kanji>exit</kanji> a <kanji>facility</kanji>. It's your <vocabulary>release from prison</vocabulary>!\n\n出所 commonly refers to leaving or being released from facilities ending in 所, particularly 刑務所 (prisons). It can also be a slightly formal word for <vocabulary>source</vocabulary> or <vocabulary>origin</vocabulary>, often used in discussions of copyright to specify the origin of cited information, images, or content.",
+  "primaryReading": "しゅっしょ",
+  "readingMnemonic": "The reading follows on'yomi protocols, but you just have to be careful of the shortened しゅつ which becomes しゅっ.\n\nNote: There is also the reading <reading>でどころ</reading> for the meanings <vocabulary>origin</vocabulary> and <vocabulary>source</vocabulary>. This version is generally used in spoken language, often to emphasize the significance or curiosity about where something came from.",
   "otherMeanings": [
     "Source",
     "Origin"
   ],
-  "primaryReading": "しゅっしょ",
   "otherReadings": [
     "でどころ"
   ],
-  "kanji": [
-    {
-      "id": 483,
-      "character": "出",
-      "readings": [
-        "しゅつ",
-        "で",
-        "だ"
-      ]
-    },
-    {
-      "id": 707,
-      "character": "所",
-      "readings": [
-        "しょ",
-        "ところ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You <kanji>exit</kanji> a <kanji>facility</kanji>. It's your <vocabulary>release from prison</vocabulary>!\n\n出所 commonly refers to leaving or being released from facilities ending in 所, particularly 刑務所 (prisons). It can also be a slightly formal word for <vocabulary>source</vocabulary> or <vocabulary>origin</vocabulary>, often used in discussions of copyright to specify the origin of cited information, images, or content.",
-  "readingMnemonic": "The reading follows on'yomi protocols, but you just have to be careful of the shortened しゅつ which becomes しゅっ.\n\nNote: There is also the reading <reading>でどころ</reading> for the meanings <vocabulary>origin</vocabulary> and <vocabulary>source</vocabulary>. This version is generally used in spoken language, often to emphasize the significance or curiosity about where something came from.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%87%BA%E6%89%80",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "出",
-      "id": 483,
-      "reading": "しゅっ"
-    },
-    {
-      "type": "kanji",
-      "value": "所",
-      "id": 707,
-      "reading": "しょ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%87%BA%E6%89%80"
+  }
 }

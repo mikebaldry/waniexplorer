@@ -1,41 +1,24 @@
 {
   "id": 6790,
   "type": "vocabulary",
-  "characters": "辛い",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "辛い"
+  },
   "primaryMeaning": "Spicy",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well. That being said, this can also mean <vocabulary>difficult</vocabulary> or <vocabulary>painful</vocabulary>, often in a psychological sense, though it can be physical as well. I guess if you're in a spicy situation it's going to be a difficult one.",
+  "primaryReading": "からい",
+  "readingMnemonic": "Depending on the context, the reading for this word could be からい or つらい. \n\nThe からい reading is the <vocabulary>spicy</vocabulary> one that you learned with the kanji, which you can remember because spicy foods give a <reading>から</reading>て chop to your mouth. \n\nThe つらい reading is the <vocabulary>difficult</vocabulary> or <vocabulary>painful</vocabulary> one. You can remember this because <reading>two Ra</reading>s (つら) are way more difficult to deal with than one Ra.",
   "otherMeanings": [
     "Hot",
     "Difficult",
     "Painful"
   ],
-  "primaryReading": "からい",
   "otherReadings": [
     "つらい"
   ],
-  "kanji": [
-    {
-      "id": 1880,
-      "character": "辛",
-      "readings": [
-        "から",
-        "つら",
-        "しん"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well. That being said, this can also mean <vocabulary>difficult</vocabulary> or <vocabulary>painful</vocabulary>, often in a psychological sense, though it can be physical as well. I guess if you're in a spicy situation it's going to be a difficult one.",
-  "readingMnemonic": "Depending on the context, the reading for this word could be からい or つらい. \n\nThe からい reading is the <vocabulary>spicy</vocabulary> one that you learned with the kanji, which you can remember because spicy foods give a <reading>から</reading>て chop to your mouth. \n\nThe つらい reading is the <vocabulary>difficult</vocabulary> or <vocabulary>painful</vocabulary> one. You can remember this because <reading>two Ra</reading>s (つら) are way more difficult to deal with than one Ra.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%BE%9B%E3%81%84",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "辛",
-      "id": 1880,
-      "reading": "から"
-    },
-    {
-      "type": "kana",
-      "value": "い"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%BE%9B%E3%81%84"
+  }
 }

@@ -1,0 +1,38 @@
+{
+  "id": 5593,
+  "type": "vocabulary",
+  "characters": "暖かい",
+  "primaryMeaning": "Warm",
+  "otherMeanings": [
+    "Mild"
+  ],
+  "primaryReading": "あたたかい",
+  "otherReadings": [
+    "あったかい"
+  ],
+  "kanji": [
+    {
+      "id": 1508,
+      "character": "暖",
+      "readings": [
+        "だん",
+        "あたた"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>warm</kanji>? It's <vocabulary>warm</vocabulary> as well! Though this is for a <vocabulary>warm</vocabulary> weather or temperature, not some warm food or something like that, that would be 温かい, a different あたたかい. Confusing, right?",
+  "readingMnemonic": "The reading is the same as 温かい, which also means <vocabulary>warm</vocabulary>. But while that 温かい refers to a warm thing, this 暖かい refers to a warm temperature or place.\n\nJust like with 温かい, people often pronounce this as あったかい in conversation. But when it comes to kanji exams or typing out the kanji, remember to use あたたかい!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9A%96%E3%81%8B%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "暖",
+      "id": 1508,
+      "reading": "あたた"
+    },
+    {
+      "type": "kana",
+      "value": "かい"
+    }
+  ]
+}

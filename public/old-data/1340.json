@@ -1,0 +1,45 @@
+{
+  "id": 1340,
+  "type": "kanji",
+  "character": "極",
+  "primaryMeaning": "Extreme",
+  "otherMeanings": [],
+  "primaryReading": "きょく",
+  "readings": [
+    {
+      "reading": "きょく",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ごく",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "きわ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "This <kanji>extreme</kanji> challenge could only be solved by one person: <reading>Goku</reading> (ごく) from Dragon Ball Z! He has a special cloak that'll allow you to plant trees in record time, so he quickly <reading>cloaks you</reading> (きょく) to help with your extreme task.\n\n",
+  "meaningMnemonic": "There aren't many <radical>tree</radical>s in your under<radical>ground</radical> <radical>prison</radical>, so you've been given a task: using only your <radical>mouth</radical> and a <radical>stool</radical>, plant as many in the <radical>ground</radical> as you can. It's an <kanji>extreme</kanji> challenge!",
+  "vocabularyIds": [
+    5038,
+    5039,
+    5040,
+    5041,
+    5063,
+    5242,
+    5243,
+    6300
+  ],
+  "radicalIds": [
+    23,
+    1,
+    14,
+    16,
+    30
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%A5%B5"
+}

@@ -1,31 +1,39 @@
 {
   "id": 2084,
   "type": "kanji",
-  "character": "峰",
-  "primaryMeaning": "Summit",
-  "otherMeanings": [],
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "峰"
+  },
   "primaryReading": "ほう",
   "readings": [
     {
-      "reading": "ほう",
       "primary": true,
+      "reading": "ほう",
       "type": "onyomi"
     },
     {
-      "reading": "みね",
       "primary": false,
+      "reading": "みね",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "At the <kanji>summit</kanji>, you decide to build your new <reading>ho</reading>me (ほう). It's been destroyed so many times, and you're sick of it. Maybe if you build you home at the summit of this mountain it will be safer.",
+  "primaryMeaning": "Summit",
+  "otherMeanings": [],
   "meaningMnemonic": "At the top of the <radical>mountain</radical> is a <radical>signpost</radical> to tell you you've reached the <kanji>summit</kanji>. Literally every mountain that humans have reached the top of has one of these summit signs.",
-  "vocabularyIds": [
-    7364,
-    7365
-  ],
-  "radicalIds": [
-    20,
-    381
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%B3%B0"
+  "readingMnemonic": "At the <kanji>summit</kanji>, you decide to build your new <reading>ho</reading>me (ほう). It's been destroyed so many times, and you're sick of it. Maybe if you build you home at the summit of this mountain it will be safer.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%B3%B0"
+  },
+  "related": {
+    "radicals": [
+      20,
+      381
+    ],
+    "vocabularies": [
+      7364,
+      7365
+    ]
+  }
 }

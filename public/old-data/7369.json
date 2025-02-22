@@ -1,0 +1,45 @@
+{
+  "id": 7369,
+  "type": "vocabulary",
+  "characters": "邪魔",
+  "primaryMeaning": "Hindrance",
+  "otherMeanings": [
+    "Intrusion"
+  ],
+  "primaryReading": "じゃま",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2086,
+      "character": "邪",
+      "readings": [
+        "じゃ",
+        "よこしま"
+      ]
+    },
+    {
+      "id": 1945,
+      "character": "魔",
+      "readings": [
+        "ま"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>wicked</kanji> <kanji>devil</kanji>! Ugh, I hate those things. They're always a <vocabulary>hindrance</vocabulary> and <vocabulary>intrusion</vocabulary>. Just imagine a wicked devil hanging out in your house, eating your food, and sleeping on your bed. What a hindrance.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%82%AA%E9%AD%94",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "邪",
+      "id": 2086,
+      "reading": "じゃ"
+    },
+    {
+      "type": "kanji",
+      "value": "魔",
+      "id": 1945,
+      "reading": "ま"
+    }
+  ]
+}

@@ -1,12 +1,15 @@
 {
   "id": 233,
   "type": "radical",
-  "primaryMeaning": "Pig",
-  "otherMeanings": [],
-  "character": {
+  "level": 5,
+  "characters": {
     "type": "text",
     "value": "豕"
   },
+  "primaryMeaning": "Pig",
+  "otherMeanings": [],
   "meaningMnemonic": "Here we have the ground radical, with something underneath it. What is it? What likes lying in the ground, covered in mud? You'll have to use your imagination here, but see if you can find the four legs, the little piggy ears, and the curly tail at the bottom. That's right, this is a <radical>pig</radical>!",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/pig"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/pig"
+  }
 }

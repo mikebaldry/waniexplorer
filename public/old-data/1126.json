@@ -1,0 +1,35 @@
+{
+  "id": 1126,
+  "type": "kanji",
+  "character": "挙",
+  "primaryMeaning": "Raise",
+  "otherMeanings": [],
+  "primaryReading": "きょ",
+  "readings": [
+    {
+      "reading": "きょ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "あ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "This ritual only works in one part of the world however. It absolutely must be performed in Little <reading>Kyo</reading>to (きょ). The way Little Kyoto lines up with the sun and the sky and all that astrological junk makes it the best place for you to <kanji>raise</kanji> fish fins up in the air.",
+  "meaningMnemonic": "If there’s <radical>grass</radical> on the <radical>ground</radical> and <radical>fins</radical> in your <radical>hand</radical>, you need to <kanji>raise</kanji> that hand up to the sky. You’re in the middle of a fisherman’s ritual, which can only be performed on grassy ground. You take fish fins from the previous year, and raise them up to the sky in order to ensure a good fishing harvest.",
+  "vocabularyIds": [
+    4409,
+    4410,
+    4581,
+    4853
+  ],
+  "radicalIds": [
+    8783,
+    1,
+    2,
+    41
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%8C%99"
+}

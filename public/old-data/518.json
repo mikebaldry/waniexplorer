@@ -1,0 +1,37 @@
+{
+  "id": 518,
+  "type": "kanji",
+  "character": "半",
+  "primaryMeaning": "Half",
+  "otherMeanings": [],
+  "primaryReading": "はん",
+  "readings": [
+    {
+      "reading": "はん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "なか",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "\"You're half wet and half dry! I will cut you in <kanji>half</kanji> with my laser blaster so you're proper again,\" a voice says. It is  <reading>Han</reading> Solo (はん), the anti-establishment guy who hates when things aren't even.",
+  "meaningMnemonic": "A <radical>triceratops</radical> is lying out to <radical>dry</radical>. But it's so big, and it's laying on its side, so only <kanji>half</kanji> of it gets dry.",
+  "vocabularyIds": [
+    2597,
+    2624,
+    2960,
+    4671,
+    5062,
+    5463,
+    6895,
+    8899
+  ],
+  "radicalIds": [
+    8765,
+    61
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%8D%8A"
+}

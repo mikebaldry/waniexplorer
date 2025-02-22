@@ -1,36 +1,44 @@
 {
   "id": 639,
   "type": "kanji",
-  "character": "活",
-  "primaryMeaning": "Lively",
-  "otherMeanings": [],
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "活"
+  },
   "primaryReading": "かつ",
   "readings": [
     {
-      "reading": "かつ",
       "primary": true,
+      "reading": "かつ",
       "type": "onyomi"
     },
     {
-      "reading": "い",
       "primary": false,
+      "reading": "い",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "This <kanji>lively</kanji> feeling isn't just happening to you, the tongue tsunami is licking it into all of the <reading>cats</reading> (かつ) in your neighborhood too!",
+  "primaryMeaning": "Lively",
+  "otherMeanings": [],
   "meaningMnemonic": "A <radical>tsunami</radical> of <radical>tongue</radical>s is coming at you. As it washes over you, you feel each individual tongue moving around on your body, licking you. They make you feel so... <kanji>lively</kanji>!",
-  "vocabularyIds": [
-    2916,
-    3715,
-    6324,
-    7674,
-    7679,
-    7733,
-    8748
-  ],
-  "radicalIds": [
-    103,
-    174
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%B4%BB"
+  "readingMnemonic": "This <kanji>lively</kanji> feeling isn't just happening to you, the tongue tsunami is licking it into all of the <reading>cats</reading> (かつ) in your neighborhood too!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%B4%BB"
+  },
+  "related": {
+    "radicals": [
+      103,
+      174
+    ],
+    "vocabularies": [
+      2916,
+      3715,
+      6324,
+      7674,
+      7679,
+      7733,
+      8748
+    ]
+  }
 }

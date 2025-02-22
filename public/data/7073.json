@@ -1,44 +1,18 @@
 {
   "id": 7073,
   "type": "vocabulary",
-  "characters": "川柳",
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "川柳"
+  },
   "primaryMeaning": "Comic Haiku",
-  "otherMeanings": [],
-  "primaryReading": "せんりゅう",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 456,
-      "character": "川",
-      "readings": [
-        "かわ",
-        "せん"
-      ]
-    },
-    {
-      "id": 1983,
-      "character": "柳",
-      "readings": [
-        "りゅう",
-        "やなぎ"
-      ]
-    }
-  ],
   "meaningMnemonic": "A <kanji>river</kanji> of <kanji>willow</kanji>s... so hilarious! What a great <vocabulary>comic haiku</vocabulary>, that one is. Try to think of a comic haiku about the river willow, if you can.\n\nThe River Willow\nFlows upstream like a salmon\nThis is not funny",
+  "primaryReading": "せんりゅう",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. And for once the kanji 川 doesn't use the kun'yomi reading. When you think of a <vocabulary>comic haiku</vocabulary>, think of something hilarious... like a <reading>cen</reading>taur (せん), doing a standup act with a comedy haiku.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B7%9D%E6%9F%B3",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "川",
-      "id": 456,
-      "reading": "せん"
-    },
-    {
-      "type": "kanji",
-      "value": "柳",
-      "id": 1983,
-      "reading": "りゅう"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%B7%9D%E6%9F%B3"
+  }
 }

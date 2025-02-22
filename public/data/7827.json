@@ -1,44 +1,18 @@
 {
   "id": 7827,
   "type": "vocabulary",
-  "characters": "皮膚",
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "皮膚"
+  },
   "primaryMeaning": "Skin",
-  "otherMeanings": [],
-  "primaryReading": "ひふ",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 539,
-      "character": "皮",
-      "readings": [
-        "ひ",
-        "かわ"
-      ]
-    },
-    {
-      "id": 2132,
-      "character": "膚",
-      "readings": [
-        "ふ",
-        "はだ"
-      ]
-    }
-  ],
   "meaningMnemonic": "The <kanji>skin</kanji> under your <kanji>skin</kanji> is still <vocabulary>skin</vocabulary>. The extra layer is there to make sure when you get little cuts they don't bleed all over the place.",
+  "primaryReading": "ひふ",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%9A%AE%E8%86%9A",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "皮",
-      "id": 539,
-      "reading": "ひ"
-    },
-    {
-      "type": "kanji",
-      "value": "膚",
-      "id": 2132,
-      "reading": "ふ"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%9A%AE%E8%86%9A"
+  }
 }

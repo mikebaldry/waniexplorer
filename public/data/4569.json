@@ -1,45 +1,21 @@
 {
   "id": 4569,
   "type": "vocabulary",
-  "characters": "状況",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "状況"
+  },
   "primaryMeaning": "Condition",
+  "meaningMnemonic": "The <kanji>condition</kanji> <kanji>condition</kanji> is the <vocabulary>condition</vocabulary>. It's also the <vocabulary>circumstances</vocabulary> if you can remember that. It's like saying \"What's the condition!??\" which is similar to saying \"What's the circumstances?\"",
+  "primaryReading": "じょうきょう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Circumstances",
     "Situation"
   ],
-  "primaryReading": "じょうきょう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1183,
-      "character": "状",
-      "readings": [
-        "じょう"
-      ]
-    },
-    {
-      "id": 1252,
-      "character": "況",
-      "readings": [
-        "きょう"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The <kanji>condition</kanji> <kanji>condition</kanji> is the <vocabulary>condition</vocabulary>. It's also the <vocabulary>circumstances</vocabulary> if you can remember that. It's like saying \"What's the condition!??\" which is similar to saying \"What's the circumstances?\"",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%8A%B6%E6%B3%81",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "状",
-      "id": 1183,
-      "reading": "じょう"
-    },
-    {
-      "type": "kanji",
-      "value": "況",
-      "id": 1252,
-      "reading": "きょう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%8A%B6%E6%B3%81"
+  }
 }

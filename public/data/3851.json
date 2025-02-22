@@ -1,45 +1,20 @@
 {
   "id": 3851,
   "type": "vocabulary",
-  "characters": "特急",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "特急"
+  },
   "primaryMeaning": "Limited Express Train",
+  "meaningMnemonic": "Something that's <kanji>special</kanji> and in a <kanji>hurry</kanji> must be special indeed. This refers to <vocabulary>limited express train</vocabulary>s in Japan. They go fast, they stop at fewer stops (because they're special!) and they hurry. Look out for these if you want to get somewhere in a jiffy.",
+  "primaryReading": "とっきゅう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Just note that the とく goes to とっ.",
   "otherMeanings": [
     "Limited Express"
   ],
-  "primaryReading": "とっきゅう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 807,
-      "character": "特",
-      "readings": [
-        "とく"
-      ]
-    },
-    {
-      "id": 970,
-      "character": "急",
-      "readings": [
-        "きゅう",
-        "いそ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Something that's <kanji>special</kanji> and in a <kanji>hurry</kanji> must be special indeed. This refers to <vocabulary>limited express train</vocabulary>s in Japan. They go fast, they stop at fewer stops (because they're special!) and they hurry. Look out for these if you want to get somewhere in a jiffy.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Just note that the とく goes to とっ.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%89%B9%E6%80%A5",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "特",
-      "id": 807,
-      "reading": null
-    },
-    {
-      "type": "kanji",
-      "value": "急",
-      "id": 970,
-      "reading": null
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%89%B9%E6%80%A5"
+  }
 }

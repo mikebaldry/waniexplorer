@@ -1,0 +1,49 @@
+{
+  "id": 7533,
+  "type": "vocabulary",
+  "characters": "部分",
+  "primaryMeaning": "Portion",
+  "otherMeanings": [
+    "Section",
+    "Part"
+  ],
+  "primaryReading": "ぶぶん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 721,
+      "character": "部",
+      "readings": [
+        "ぶ",
+        "へ"
+      ]
+    },
+    {
+      "id": 501,
+      "character": "分",
+      "readings": [
+        "ぶん",
+        "ふん",
+        "ぶ",
+        "わ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Part</kanji> of a <kanji>part</kanji>? That's a <vocabulary>portion</vocabulary>, a <vocabulary>section</vocabulary> of that part, and even a <vocabulary>part</vocabulary> in itself!",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. As long as you know the readings for these kanji, you should be able to read this word just fine.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%83%A8%E5%88%86",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "部",
+      "id": 721,
+      "reading": "ぶ"
+    },
+    {
+      "type": "kanji",
+      "value": "分",
+      "id": 501,
+      "reading": "ぶん"
+    }
+  ]
+}

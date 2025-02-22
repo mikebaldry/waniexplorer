@@ -1,36 +1,44 @@
 {
   "id": 1153,
   "type": "kanji",
-  "character": "企",
-  "primaryMeaning": "Plan",
-  "otherMeanings": [],
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "企"
+  },
   "primaryReading": "き",
   "readings": [
     {
-      "reading": "き",
       "primary": true,
+      "reading": "き",
       "type": "onyomi"
     },
     {
-      "reading": "くわだ",
       "primary": false,
+      "reading": "くわだ",
       "type": "kunyomi"
     },
     {
-      "reading": "たくら",
       "primary": false,
+      "reading": "たくら",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "The <kanji>plan</kanji> that made this hat stop right in its tracks was very simple. First, obtain the <reading>key</reading> (き) to the house. Then, use the key to get in the front door. How simple!",
+  "primaryMeaning": "Plan",
+  "otherMeanings": [],
   "meaningMnemonic": "The <radical>hat</radical> comes to a <radical>stop</radical>, thinking of a <kanji>plan</kanji>. The hat had been pacing around for a while, trying to think of how to get off the head he's resting upon and back into the house where it's nice and cozy, and came to the sudden realization of a plan. This caused the hat to stop.",
-  "vocabularyIds": [
-    4474,
-    4475
-  ],
-  "radicalIds": [
-    8764,
-    44
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E4%BC%81"
+  "readingMnemonic": "The <kanji>plan</kanji> that made this hat stop right in its tracks was very simple. First, obtain the <reading>key</reading> (き) to the house. Then, use the key to get in the front door. How simple!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E4%BC%81"
+  },
+  "related": {
+    "radicals": [
+      8764,
+      44
+    ],
+    "vocabularies": [
+      4474,
+      4475
+    ]
+  }
 }

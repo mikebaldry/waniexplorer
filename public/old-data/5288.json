@@ -1,0 +1,41 @@
+{
+  "id": 5288,
+  "type": "vocabulary",
+  "characters": "請ける",
+  "primaryMeaning": "To Take",
+  "otherMeanings": [
+    "To Undertake",
+    "To Accept",
+    "To Receive"
+  ],
+  "primaryReading": "うける",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1386,
+      "character": "請",
+      "readings": [
+        "せい",
+        "しん",
+        "しょう",
+        "う",
+        "こ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A person <kanji>request</kanji>s something, so you are the one <vocabulary>to take</vocabulary> it. You're really nice <vocabulary>to accept</vocabulary> their request. What a nice person you are!",
+  "readingMnemonic": "What's another word for \"to accept\" or \"to receive\"? How about 受ける? They share a reading!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%AB%8B%E3%81%91%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "請",
+      "id": 1386,
+      "reading": "う"
+    },
+    {
+      "type": "kana",
+      "value": "ける"
+    }
+  ]
+}

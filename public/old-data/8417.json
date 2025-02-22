@@ -1,0 +1,37 @@
+{
+  "id": 8417,
+  "type": "vocabulary",
+  "characters": "遮る",
+  "primaryMeaning": "To Interrupt",
+  "otherMeanings": [
+    "To Intercept",
+    "To Obstruct"
+  ],
+  "primaryReading": "さえぎる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2356,
+      "character": "遮",
+      "readings": [
+        "しゃ",
+        "さえぎ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>intercept</kanji>, so the verb version is <vocabulary>to intercept</vocabulary> or <vocabulary>to interrupt</vocabulary>.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading.  You haven't learned this reading yet, so here's a mnemonic to help you:\n\nThe thing you want <vocabulary>to interrupt</vocabulary> and <vocabulary>to intercept</vocabulary> is your roommate's <reading>sighing gui</reading>tar (さえぎ). He keeps playing it and all it does is make these horrible, long sighing sounds. You want to interrupt it any cost.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%81%AE%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "遮",
+      "id": 2356,
+      "reading": "さえぎ"
+    },
+    {
+      "type": "kana",
+      "value": "る"
+    }
+  ]
+}

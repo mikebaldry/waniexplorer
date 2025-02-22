@@ -1,48 +1,18 @@
 {
   "id": 5286,
   "type": "vocabulary",
-  "characters": "請願",
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "請願"
+  },
   "primaryMeaning": "Petition",
-  "otherMeanings": [],
-  "primaryReading": "せいがん",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1386,
-      "character": "請",
-      "readings": [
-        "せい",
-        "しん",
-        "しょう",
-        "う",
-        "こ"
-      ]
-    },
-    {
-      "id": 888,
-      "character": "願",
-      "readings": [
-        "がん",
-        "ねが",
-        "ねがい"
-      ]
-    }
-  ],
   "meaningMnemonic": "I <kanji>request</kanji> and then I <kanji>request</kanji> again. So many requests, but nobody will listen to me. My last hope is to get a bunch of people who have the same ideas together and make a <vocabulary>petition</vocabulary>.",
+  "primaryReading": "せいがん",
   "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%AB%8B%E9%A1%98",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "請",
-      "id": 1386,
-      "reading": "せい"
-    },
-    {
-      "type": "kanji",
-      "value": "願",
-      "id": 888,
-      "reading": "がん"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%AB%8B%E9%A1%98"
+  }
 }

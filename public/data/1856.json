@@ -1,36 +1,44 @@
 {
   "id": 1856,
   "type": "kanji",
-  "character": "慰",
-  "primaryMeaning": "Consolation",
-  "otherMeanings": [],
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "慰"
+  },
   "primaryReading": "い",
   "readings": [
     {
-      "reading": "い",
       "primary": true,
+      "reading": "い",
       "type": "onyomi"
     },
     {
-      "reading": "なぐさ",
       "primary": false,
+      "reading": "なぐさ",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "Even though you weren't happy with the flag, you were even more frustrated to watch an <reading>ea</reading>gle (い) swoop down and grab the flag and fly away with it.",
+  "primaryMeaning": "Consolation",
+  "otherMeanings": [],
   "meaningMnemonic": "We put a <radical>flag</radical> to remember where we tried to use a <radical>jackhammer</radical> to <radical>measure</radical> your friend's <radical>heart</radical>. Granted, it was a terrible idea, but hopefully that flag of remembrance is some kind of <kanji>consolation</kanji>?",
-  "vocabularyIds": [
-    6710,
-    6711,
-    6712,
-    6713,
-    8691
-  ],
-  "radicalIds": [
-    37,
-    207,
-    74,
-    65
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%85%B0"
+  "readingMnemonic": "Even though you weren't happy with the flag, you were even more frustrated to watch an <reading>ea</reading>gle (い) swoop down and grab the flag and fly away with it.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%85%B0"
+  },
+  "related": {
+    "radicals": [
+      37,
+      207,
+      74,
+      65
+    ],
+    "vocabularies": [
+      6710,
+      6711,
+      6712,
+      6713,
+      8691
+    ]
+  }
 }

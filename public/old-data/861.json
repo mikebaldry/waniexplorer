@@ -1,0 +1,46 @@
+{
+  "id": 861,
+  "type": "kanji",
+  "character": "想",
+  "primaryMeaning": "Imagine",
+  "otherMeanings": [
+    "Contemplate"
+  ],
+  "primaryReading": "そう",
+  "readings": [
+    {
+      "reading": "そう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "そ",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "おも",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "If a <radical>tree</radical> can <kanji>imagine</kanji>, it likely has a <reading>soul</reading> (そう). Its soul is what makes it possible for the tree to <kanji>contemplate</kanji> things, you see?",
+  "meaningMnemonic": "Only a <radical>tree</radical> with <radical>eye</radical>s and a <radical>heart</radical> has the ability to <kanji>imagine</kanji> and to <kanji>contemplate</kanji>. For a tree to imagine and contemplate things, it needs eyes to see and a heart to feel.",
+  "vocabularyIds": [
+    3524,
+    3543,
+    3544,
+    3545,
+    3589,
+    3990,
+    7083,
+    7694,
+    8607
+  ],
+  "radicalIds": [
+    23,
+    53,
+    65
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%83%B3"
+}

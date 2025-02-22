@@ -1,0 +1,48 @@
+{
+  "id": 8055,
+  "type": "vocabulary",
+  "characters": "頂戴",
+  "primaryMeaning": "Humbly Receiving",
+  "otherMeanings": [
+    "Humbly Eating",
+    "Humbly Having"
+  ],
+  "primaryReading": "ちょうだい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2121,
+      "character": "頂",
+      "readings": [
+        "ちょう",
+        "いただき",
+        "いただ"
+      ]
+    },
+    {
+      "id": 2214,
+      "character": "戴",
+      "readings": [
+        "たい",
+        "いただ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Humbly</kanji> <kanji>receive</kanji> something and you'll be <vocabulary>humbly receiving</vocabulary> it. Or <vocabulary>humbly eating</vocabulary> it if they gave you food and not a puppy or something inedible. It can also mean <vocabulary>humbly having</vocabulary>. The theme here is humility!\n\nThis is usually formal when written in kanji and used together with a verb like する. It can also be used alone to make very casual requests. In casual requests, it's still written in kanji in novels and other creative writing, but is generally written in hiragana anywhere else.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Just watch out because たい becomes だい here.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%A0%82%E6%88%B4",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "頂",
+      "id": 2121,
+      "reading": "ちょう"
+    },
+    {
+      "type": "kanji",
+      "value": "戴",
+      "id": 2214,
+      "reading": "だい"
+    }
+  ]
+}

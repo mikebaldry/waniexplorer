@@ -1,0 +1,44 @@
+{
+  "id": 2900,
+  "type": "vocabulary",
+  "characters": "南東",
+  "primaryMeaning": "Southeast",
+  "otherMeanings": [],
+  "primaryReading": "なんとう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 634,
+      "character": "南",
+      "readings": [
+        "なん",
+        "みなみ"
+      ]
+    },
+    {
+      "id": 627,
+      "character": "東",
+      "readings": [
+        "とう",
+        "ひがし"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>South</kanji> <kanji>East</kanji> is the <vocabulary>Southeast</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8D%97%E6%9D%B1",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "南",
+      "id": 634,
+      "reading": "なん"
+    },
+    {
+      "type": "kanji",
+      "value": "東",
+      "id": 627,
+      "reading": "とう"
+    }
+  ]
+}

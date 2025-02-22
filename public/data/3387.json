@@ -1,45 +1,18 @@
 {
   "id": 3387,
   "type": "vocabulary",
-  "characters": "温度",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "温度"
+  },
   "primaryMeaning": "Temperature",
-  "otherMeanings": [],
-  "primaryReading": "おんど",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 842,
-      "character": "温",
-      "readings": [
-        "おん",
-        "あたた"
-      ]
-    },
-    {
-      "id": 725,
-      "character": "度",
-      "readings": [
-        "ど",
-        "たく",
-        "たび"
-      ]
-    }
-  ],
   "meaningMnemonic": "The <kanji>warm</kanji> <kanji>degree</kanji>s is how many degrees warm it is in here. Of course, there can be very few warm degrees as well, making it very cold. What is all this? It's the <vocabulary>temperature</vocabulary>.",
+  "primaryReading": "おんど",
   "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B8%A9%E5%BA%A6",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "温",
-      "id": 842,
-      "reading": "おん"
-    },
-    {
-      "type": "kanji",
-      "value": "度",
-      "id": 725,
-      "reading": "ど"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B8%A9%E5%BA%A6"
+  }
 }

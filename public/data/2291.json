@@ -1,41 +1,49 @@
 {
   "id": 2291,
   "type": "kanji",
-  "character": "龍",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "龍"
+  },
+  "primaryReading": "りゅう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "りゅう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "りょう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ろう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "たつ",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Imperial",
   "otherMeanings": [
     "Dragon"
   ],
-  "primaryReading": "りゅう",
-  "readings": [
-    {
-      "reading": "りゅう",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "りょう",
-      "primary": false,
-      "type": "onyomi"
-    },
-    {
-      "reading": "ろう",
-      "primary": false,
-      "type": "onyomi"
-    },
-    {
-      "reading": "たつ",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "Who is the coolest <kanji>imperial</kanji> you know? <reading>Ryu</reading> (りゅう) from Street Fighter. Wait what? You mean he FIGHTS imperials? Oh, okay. Looks like Ryu is the coolest imperial FIGHTER you know!",
   "meaningMnemonic": "The <radical>imperial</radical> radical and the <kanji>imperial</kanji> kanji are exactly the same! Wahoo!",
-  "vocabularyIds": [
-    8383
-  ],
-  "radicalIds": [
-    389
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%BE%8D"
+  "readingMnemonic": "Who is the coolest <kanji>imperial</kanji> you know? <reading>Ryu</reading> (りゅう) from Street Fighter. Wait what? You mean he FIGHTS imperials? Oh, okay. Looks like Ryu is the coolest imperial FIGHTER you know!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%BE%8D"
+  },
+  "related": {
+    "radicals": [
+      389
+    ],
+    "vocabularies": [
+      8383
+    ]
+  }
 }

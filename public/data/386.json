@@ -1,12 +1,15 @@
 {
   "id": 386,
   "type": "radical",
-  "primaryMeaning": "Grenade",
-  "otherMeanings": [],
-  "character": {
+  "level": 42,
+  "characters": {
     "type": "text",
     "value": "臼"
   },
+  "primaryMeaning": "Grenade",
+  "otherMeanings": [],
   "meaningMnemonic": "This is the shell of a <radical>grenade</radical> that has blown up. BOOM! It exploded, splitting it down the middle.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/grenade-386"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/grenade-386"
+  }
 }

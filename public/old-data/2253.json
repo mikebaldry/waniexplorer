@@ -1,0 +1,37 @@
+{
+  "id": 2253,
+  "type": "kanji",
+  "character": "傲",
+  "primaryMeaning": "Proud",
+  "otherMeanings": [],
+  "primaryReading": "ごう",
+  "readings": [
+    {
+      "reading": "ごう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "あなど",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "おご",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "This leader you're so <kanji>proud</kanji> of is none other than Grandpa <reading>ごう</reading>いち. He's been getting a bit slow over the years, and you really didn't think he'd make it back. But, by gum, he did it.",
+  "meaningMnemonic": "Your <radical>leader</radical> managed to find the right <radical>direction</radical> home using marks in the <radical>dirt</radical> in the middle of <radical>winter</radical>. This makes you so <kanji>proud</kanji>! You're proud because this resourceful leader is YOUR resourceful leader.",
+  "vocabularyIds": [
+    8100
+  ],
+  "radicalIds": [
+    75,
+    17,
+    66,
+    60
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%82%B2"
+}

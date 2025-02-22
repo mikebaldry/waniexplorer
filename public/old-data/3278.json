@@ -1,0 +1,53 @@
+{
+  "id": 3278,
+  "type": "vocabulary",
+  "characters": "開放する",
+  "primaryMeaning": "To Open Something Up",
+  "otherMeanings": [
+    "To Throw Something Open",
+    "To Open Something To The Public"
+  ],
+  "primaryReading": "かいほうする",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 753,
+      "character": "開",
+      "readings": [
+        "かい",
+        "あ",
+        "ひら"
+      ]
+    },
+    {
+      "id": 791,
+      "character": "放",
+      "readings": [
+        "ほう",
+        "はな",
+        "ほう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you <kanji>open</kanji> then <kanji>release</kanji>, say, a door, you're opening it up for everyone to come in. That's why it means <vocabulary>to open something up</vocabulary> or <vocabulary>to throw something open</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%96%8B%E6%94%BE%E3%81%99%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "開",
+      "id": 753,
+      "reading": "かい"
+    },
+    {
+      "type": "kanji",
+      "value": "放",
+      "id": 791,
+      "reading": "ほう"
+    },
+    {
+      "type": "kana",
+      "value": "する"
+    }
+  ]
+}

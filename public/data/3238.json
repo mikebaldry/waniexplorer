@@ -1,37 +1,21 @@
 {
   "id": 3238,
   "type": "vocabulary",
-  "characters": "争う",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "争う"
+  },
   "primaryMeaning": "To Compete",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>conflict</kanji> so the vocabulary means <vocabulary>to compete</vocabulary>, <vocabulary>to argue</vocabulary>, or <vocabulary>to quarrel</vocabulary>. Your views conflict with someone else's so you're going to compete with them to see who's right.",
+  "primaryReading": "あらそう",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nYou're starting <vocabulary>to compete</vocabulary> and <vocabulary>to argue</vocabulary> with someone, who is yelling at you: \"You <reading>are so</reading> (あらそ) stupid!\". You might want to imagine this in an accent that gets you closer to the Japanese pronunciation.",
   "otherMeanings": [
     "To Argue",
     "To Quarrel"
   ],
-  "primaryReading": "あらそう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 775,
-      "character": "争",
-      "readings": [
-        "そう",
-        "あらそ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>conflict</kanji> so the vocabulary means <vocabulary>to compete</vocabulary>, <vocabulary>to argue</vocabulary>, or <vocabulary>to quarrel</vocabulary>. Your views conflict with someone else's so you're going to compete with them to see who's right.",
-  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nYou're starting <vocabulary>to compete</vocabulary> and <vocabulary>to argue</vocabulary> with someone, who is yelling at you: \"You <reading>are so</reading> (あらそ) stupid!\". You might want to imagine this in an accent that gets you closer to the Japanese pronunciation.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BA%89%E3%81%86",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "争",
-      "id": 775,
-      "reading": "あらそ"
-    },
-    {
-      "type": "kana",
-      "value": "う"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BA%89%E3%81%86"
+  }
 }

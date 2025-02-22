@@ -1,0 +1,46 @@
+{
+  "id": 8987,
+  "type": "vocabulary",
+  "characters": "人狼",
+  "primaryMeaning": "Werewolf",
+  "otherMeanings": [],
+  "primaryReading": "じんろう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 444,
+      "character": "人",
+      "readings": [
+        "にん",
+        "じん",
+        "ひと",
+        "と"
+      ]
+    },
+    {
+      "id": 8967,
+      "character": "狼",
+      "readings": [
+        "おおかみ",
+        "ろう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>person</kanji> <kanji>wolf </kanji> is a <vocabulary>werewolf</vocabulary>. This word is less common than 狼男, but it's used more and more thanks to the card game of the same name!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You haven't learned the on'yomi for 狼 (wolf) yet, so here's a mnemonic to help you remember that, as well as which on'yomi to use for 人:\n\nThere's a <vocabulary>werewolf</vocabulary> in front of you wearing  <reading>jean</reading>s and eating <reading>roe</reading> (じんろう). This is typical behavior for werewolves, as I'm sure you know.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BA%BA%E7%8B%BC",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "人",
+      "id": 444,
+      "reading": "じん"
+    },
+    {
+      "type": "kanji",
+      "value": "狼",
+      "id": 8967,
+      "reading": "ろう"
+    }
+  ]
+}

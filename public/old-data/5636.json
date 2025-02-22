@@ -1,0 +1,38 @@
+{
+  "id": 5636,
+  "type": "vocabulary",
+  "characters": "尊い",
+  "primaryMeaning": "Revered",
+  "otherMeanings": [
+    "Noble",
+    "Precious"
+  ],
+  "primaryReading": "とうとい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1522,
+      "character": "尊",
+      "readings": [
+        "そん",
+        "とうと",
+        "たっと"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>revered</kanji>? It's also <vocabulary>revered</vocabulary>!",
+  "readingMnemonic": "You are <vocabulary>revered</vocabulary> because of your <reading>Toe toe</reading> (とうと), which is a toe on your toe. It's weird, but people seem to like it.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B0%8A%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "尊",
+      "id": 1522,
+      "reading": "とうと"
+    },
+    {
+      "type": "kana",
+      "value": "い"
+    }
+  ]
+}

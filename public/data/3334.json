@@ -1,54 +1,24 @@
 {
   "id": 3334,
   "type": "vocabulary",
-  "characters": "流行",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "流行"
+  },
   "primaryMeaning": "Trend",
+  "meaningMnemonic": "Where the <kanji>stream</kanji> is <kanji>go</kanji>ing is where everyone's going. That's what tends to be the <vocabulary>trend</vocabulary> of things. Imagine a trend going on in your society right now. Imagine it going down a stream with everyone following it. This word is also used for less desirable trends, like the <vocabulary>prevalence</vocabulary> of infectious diseases.",
+  "primaryReading": "りゅうこう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Fad",
     "Craze",
     "Prevalence"
   ],
-  "primaryReading": "りゅうこう",
   "otherReadings": [
     "はやり"
   ],
-  "kanji": [
-    {
-      "id": 818,
-      "character": "流",
-      "readings": [
-        "りゅう",
-        "る",
-        "なが"
-      ]
-    },
-    {
-      "id": 580,
-      "character": "行",
-      "readings": [
-        "こう",
-        "ぎょう",
-        "い",
-        "おこな",
-        "ゆ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Where the <kanji>stream</kanji> is <kanji>go</kanji>ing is where everyone's going. That's what tends to be the <vocabulary>trend</vocabulary> of things. Imagine a trend going on in your society right now. Imagine it going down a stream with everyone following it. This word is also used for less desirable trends, like the <vocabulary>prevalence</vocabulary> of infectious diseases.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B5%81%E8%A1%8C",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "流",
-      "id": 818,
-      "reading": "りゅう"
-    },
-    {
-      "type": "kanji",
-      "value": "行",
-      "id": 580,
-      "reading": "こう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B5%81%E8%A1%8C"
+  }
 }

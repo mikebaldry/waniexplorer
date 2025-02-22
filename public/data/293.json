@@ -1,12 +1,15 @@
 {
   "id": 293,
   "type": "radical",
-  "primaryMeaning": "Dawn",
-  "otherMeanings": [],
-  "character": {
+  "level": 24,
+  "characters": {
     "type": "text",
     "value": "旦"
   },
+  "primaryMeaning": "Dawn",
+  "otherMeanings": [],
   "meaningMnemonic": "The sun is coming up out of the ground, making this radical <radical>dawn</radical>. Of course, don't confuse this with dusk! You can do that by thinking that the sun is an optimistic and bright thing, so it tends to come up, not go down. (Also, Japan is the Land of the Rising Sun. I mean come on!)",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/dawn"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/dawn"
+  }
 }

@@ -1,0 +1,48 @@
+{
+  "id": 3539,
+  "type": "vocabulary",
+  "characters": "事情",
+  "primaryMeaning": "Circumstances",
+  "otherMeanings": [
+    "Reason",
+    "Situation"
+  ],
+  "primaryReading": "じじょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 708,
+      "character": "事",
+      "readings": [
+        "じ",
+        "こと",
+        "つか"
+      ]
+    },
+    {
+      "id": 891,
+      "character": "情",
+      "readings": [
+        "じょう",
+        "なさ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Occurrence</kanji>s and <kanji>feeling</kanji>s make up your <vocabulary>circumstances</vocabulary>. \n\n事情 is used to describe the <vocabulary>reason</vocabulary>s or <vocabulary>situation</vocabulary> behind a particular event or action. If you can't go to a party, for example, you might explain your 事情 by saying that something came up or you aren't feeling well. And if your coworker is expecting a baby, you might consider her 事情 and help reduce her workload.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BA%8B%E6%83%85",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "事",
+      "id": 708,
+      "reading": "じ"
+    },
+    {
+      "type": "kanji",
+      "value": "情",
+      "id": 891,
+      "reading": "じょう"
+    }
+  ]
+}

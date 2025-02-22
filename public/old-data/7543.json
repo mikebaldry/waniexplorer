@@ -1,0 +1,32 @@
+{
+  "id": 7543,
+  "type": "vocabulary",
+  "characters": "列",
+  "primaryMeaning": "Line",
+  "otherMeanings": [
+    "Queue",
+    "Row"
+  ],
+  "primaryReading": "れつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 936,
+      "character": "列",
+      "readings": [
+        "れつ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When things are put in a <kanji>row</kanji> they end up forming a <vocabulary>line</vocabulary>. This can be a line of people or a line of random stuff.",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%88%97",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "列",
+      "id": 936,
+      "reading": "れつ"
+    }
+  ]
+}

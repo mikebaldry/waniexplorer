@@ -1,0 +1,35 @@
+{
+  "id": 1088,
+  "type": "kanji",
+  "character": "比",
+  "primaryMeaning": "Compare",
+  "otherMeanings": [],
+  "primaryReading": "ひ",
+  "readings": [
+    {
+      "reading": "ひ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "くら",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "<kanji>Compare</kanji> the <reading>he</reading>at (ひ) today with the heat yesterday. Is it hotter today? It's up to you to compare.",
+  "meaningMnemonic": "The <radical>compare</radical> radical and the <kanji>compare</kanji> kanji are exactly the same! Huzzah!",
+  "vocabularyIds": [
+    4217,
+    4218,
+    4219,
+    4308,
+    4939,
+    5196,
+    5197
+  ],
+  "radicalIds": [
+    161
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%AF%94"
+}

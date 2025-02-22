@@ -1,40 +1,48 @@
 {
   "id": 2261,
   "type": "kanji",
-  "character": "鎮",
-  "primaryMeaning": "Tranquilize",
-  "otherMeanings": [],
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "鎮"
+  },
   "primaryReading": "ちん",
   "readings": [
     {
-      "reading": "ちん",
       "primary": true,
+      "reading": "ちん",
       "type": "onyomi"
     },
     {
-      "reading": "おさえ",
       "primary": false,
+      "reading": "おさえ",
       "type": "kunyomi"
     },
     {
-      "reading": "しず",
       "primary": false,
+      "reading": "しず",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "You've been <kanji>tranquilize</kanji>d and now drool is running down your <reading>chin</reading> (ちん). It's actually really gross. But you don't care, look at all this gold! No one will care about your chin when you're rich!",
+  "primaryMeaning": "Tranquilize",
+  "otherMeanings": [],
   "meaningMnemonic": "The <radical>reality</radical> of <radical>gold</radical> is that it has the power to <kanji>tranquilize</kanji> anyone who gets their hands on it. Gold may seem cool to have in movies and songs, but in reality, it has the power to mess you up!",
-  "vocabularyIds": [
-    8244,
-    8245,
-    8246,
-    8247,
-    8248,
-    8425
-  ],
-  "radicalIds": [
-    118,
-    413
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%8E%AE"
+  "readingMnemonic": "You've been <kanji>tranquilize</kanji>d and now drool is running down your <reading>chin</reading> (ちん). It's actually really gross. But you don't care, look at all this gold! No one will care about your chin when you're rich!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%8E%AE"
+  },
+  "related": {
+    "radicals": [
+      118,
+      413
+    ],
+    "vocabularies": [
+      8244,
+      8245,
+      8246,
+      8247,
+      8248,
+      8425
+    ]
+  }
 }

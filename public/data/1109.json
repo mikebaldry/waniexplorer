@@ -1,41 +1,49 @@
 {
   "id": 1109,
   "type": "kanji",
-  "character": "産",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "産"
+  },
+  "primaryReading": "さん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "さん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "う",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Give Birth",
   "otherMeanings": [
     "Property"
   ],
-  "primaryReading": "さん",
-  "readings": [
-    {
-      "reading": "さん",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "う",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "You <kanji>give birth</kanji>, and now this happens. Such bad luck. But wait! What's that sound? Sleigh bells? Could it be?! It's <reading>San</reading>ta-san (さん)! He caught your baby! And all your <kanji>property</kanji>.",
   "meaningMnemonic": "You <radical>stand</radical> on the <radical>Cliff</radical> of <radical>Life</radical> and <kanji>give birth</kanji> to a child. Oh no! You’re standing too close to the edge of the Cliff of Life! The baby falls off the cliff right after you give birth to it! In your despair, you throw all your <kanji>property</kanji> off the cliff too.",
-  "vocabularyIds": [
-    4263,
-    4309,
-    4486,
-    5566,
-    5870,
-    5966,
-    7187,
-    8753,
-    8953
-  ],
-  "radicalIds": [
-    55,
-    116,
-    210
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%94%A3"
+  "readingMnemonic": "You <kanji>give birth</kanji>, and now this happens. Such bad luck. But wait! What's that sound? Sleigh bells? Could it be?! It's <reading>San</reading>ta-san (さん)! He caught your baby! And all your <kanji>property</kanji>.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%94%A3"
+  },
+  "related": {
+    "radicals": [
+      55,
+      116,
+      210
+    ],
+    "vocabularies": [
+      4263,
+      4309,
+      4486,
+      5566,
+      5870,
+      5966,
+      7187,
+      8753,
+      8953
+    ]
+  }
 }

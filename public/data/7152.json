@@ -1,37 +1,21 @@
 {
   "id": 7152,
   "type": "vocabulary",
-  "characters": "癖に",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "癖に"
+  },
   "primaryMeaning": "And Yet",
+  "meaningMnemonic": "Even though you have this <kanji>habit</kanji> you're still able to win. That's why this is <vocabulary>And yet</vocabulary>, <vocabulary>though</vocabulary>, and <vocabulary>in spite of</vocabulary>. Because, <vocabulary>in spite of</vocabulary> your bad habit, you still won. Frustrating.",
+  "primaryReading": "くせに",
+  "readingMnemonic": "The reading comes from the word 癖.",
   "otherMeanings": [
     "Though",
     "In Spite Of"
   ],
-  "primaryReading": "くせに",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1963,
-      "character": "癖",
-      "readings": [
-        "くせ",
-        "へき"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Even though you have this <kanji>habit</kanji> you're still able to win. That's why this is <vocabulary>And yet</vocabulary>, <vocabulary>though</vocabulary>, and <vocabulary>in spite of</vocabulary>. Because, <vocabulary>in spite of</vocabulary> your bad habit, you still won. Frustrating.",
-  "readingMnemonic": "The reading comes from the word 癖.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%99%96%E3%81%AB",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "癖",
-      "id": 1963,
-      "reading": "くせ"
-    },
-    {
-      "type": "kana",
-      "value": "に"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%99%96%E3%81%AB"
+  }
 }

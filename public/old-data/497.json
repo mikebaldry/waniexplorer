@@ -1,0 +1,42 @@
+{
+  "id": 497,
+  "type": "kanji",
+  "character": "今",
+  "primaryMeaning": "Now",
+  "otherMeanings": [],
+  "primaryReading": "こん",
+  "readings": [
+    {
+      "reading": "こん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "いま",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Right <kanji>now</kanji> the <reading>con</reading>dors (こん) are in danger! Not next week, not next year, right now! Haven't you heard that deforestation and pollution are killing all of the condors?!",
+  "meaningMnemonic": "The kanji and the radical are the same, so remembering the meaning of this kanji is as simple as making sure you know the radical for <radical>now</radical> first! If you know the radical, you know this kanji means <kanji>now</kanji> as well.",
+  "vocabularyIds": [
+    2593,
+    2594,
+    2595,
+    2752,
+    2890,
+    2979,
+    3123,
+    3414,
+    3417,
+    3444,
+    3761,
+    3765,
+    5607,
+    8703
+  ],
+  "radicalIds": [
+    238
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E4%BB%8A"
+}

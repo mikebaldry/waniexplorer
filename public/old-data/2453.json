@@ -1,0 +1,37 @@
+{
+  "id": 2453,
+  "type": "kanji",
+  "character": "桟",
+  "primaryMeaning": "Jetty",
+  "otherMeanings": [
+    "Pier"
+  ],
+  "primaryReading": "さん",
+  "readings": [
+    {
+      "reading": "さん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "せん",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "かけはし",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You also made this <kanji>jetty</kanji> so it would be easier for <reading>San</reading>ta-san (さん) to dock his sleigh. Oh, you didn't know? His sleigh is more of a speed boat now, and he wants a refreshing drink after delivering all those presents. You get extra presents for making him a jetty, so win-win.",
+  "meaningMnemonic": "You grab a <radical>tree</radical> so you can reach the <radical>bar</radical> in the ocean by making a <kanji>jetty</kanji> or a <kanji>pier</kanji> to it. Now you can walk out on the jetty and go get drinks without needing a boat or getting wet.",
+  "vocabularyIds": [
+    8625
+  ],
+  "radicalIds": [
+    23,
+    8782
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%A1%9F"
+}

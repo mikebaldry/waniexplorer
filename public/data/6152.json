@@ -1,39 +1,22 @@
 {
   "id": 6152,
   "type": "vocabulary",
-  "characters": "頼み",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "頼み"
+  },
   "primaryMeaning": "A Favor",
+  "meaningMnemonic": "To 頼む is \"to ask for\" or \"to request.\" The noun version of that is <vocabulary>a favor</vocabulary> or <vocabulary>a request</vocabulary>.",
+  "primaryReading": "たのみ",
+  "readingMnemonic": "The reading comes from 頼む.",
   "otherMeanings": [
     "Favor",
     "A Request",
     "Request"
   ],
-  "primaryReading": "たのみ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1638,
-      "character": "頼",
-      "readings": [
-        "らい",
-        "たの",
-        "たよ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "To 頼む is \"to ask for\" or \"to request.\" The noun version of that is <vocabulary>a favor</vocabulary> or <vocabulary>a request</vocabulary>.",
-  "readingMnemonic": "The reading comes from 頼む.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%A0%BC%E3%81%BF",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "頼",
-      "id": 1638,
-      "reading": "たの"
-    },
-    {
-      "type": "kana",
-      "value": "み"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%A0%BC%E3%81%BF"
+  }
 }

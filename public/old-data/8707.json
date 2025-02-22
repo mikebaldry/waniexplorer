@@ -1,0 +1,36 @@
+{
+  "id": 8707,
+  "type": "vocabulary",
+  "characters": "晴れ",
+  "primaryMeaning": "Clear Weather",
+  "otherMeanings": [
+    "Sunny"
+  ],
+  "primaryReading": "はれ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 933,
+      "character": "晴",
+      "readings": [
+        "は",
+        "せい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you say something is going to <kanji>clear up</kanji>, you're usually talking about the weather. That makes this <vocabulary>clear weather</vocabulary> or <vocabulary>sunny</vocabulary>.\n\nMaybe because of those connotations, 晴れ can also be used to describe special occasions that are usually public. For example, a wedding or a big recital might be called a 晴れの場 (special occasion). Similarly, the special clothing you wear to such events is called 晴れ着 (formal attire).",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%99%B4%E3%82%8C",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "晴",
+      "id": 933,
+      "reading": "は"
+    },
+    {
+      "type": "kana",
+      "value": "れ"
+    }
+  ]
+}

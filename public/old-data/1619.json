@@ -1,0 +1,33 @@
+{
+  "id": 1619,
+  "type": "kanji",
+  "character": "及",
+  "primaryMeaning": "Reach",
+  "otherMeanings": [],
+  "primaryReading": "きゅう",
+  "readings": [
+    {
+      "reading": "きゅう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "およ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You're riding the escalator trying to <kanji>reach</kanji> a delicious <reading>cu</reading>cumber (きゅう).",
+  "meaningMnemonic": "<radical>Escalator</radical>s are used to <kanji>reach</kanji> things.",
+  "vocabularyIds": [
+    5974,
+    5975,
+    5976,
+    6230,
+    6231
+  ],
+  "radicalIds": [
+    193
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%8F%8A"
+}

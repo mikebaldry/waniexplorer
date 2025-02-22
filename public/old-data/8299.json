@@ -1,0 +1,39 @@
+{
+  "id": 8299,
+  "type": "vocabulary",
+  "characters": "疎か",
+  "primaryMeaning": "Neglect",
+  "otherMeanings": [
+    "Negligence",
+    "Carelessness"
+  ],
+  "primaryReading": "おろそか",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2243,
+      "character": "疎",
+      "readings": [
+        "そ",
+        "しょ",
+        "うと",
+        "まば"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "The reading for this word is an exception. Here's a mnemonic to help you remember it:\n\nYou notice a lot of <vocabulary>neglect</vocabulary> when it comes to <reading>o</reading>ld <reading>ro</reading>ad <reading>so</reading>ap <reading>ca</reading>rs (おろそか). If you drive down the old road you'll see neglected cars made of soap all over the place. It's sad, really.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%96%8E%E3%81%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "疎",
+      "id": 2243,
+      "reading": null
+    },
+    {
+      "type": "kana",
+      "value": "か"
+    }
+  ]
+}

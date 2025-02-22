@@ -1,0 +1,45 @@
+{
+  "id": 4434,
+  "type": "vocabulary",
+  "characters": "権利",
+  "primaryMeaning": "A Right",
+  "otherMeanings": [
+    "Right"
+  ],
+  "primaryReading": "けんり",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1134,
+      "character": "権",
+      "readings": [
+        "けん"
+      ]
+    },
+    {
+      "id": 786,
+      "character": "利",
+      "readings": [
+        "り",
+        "き"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You have <kanji>rights</kanji> to <kanji>profit</kanji>! This is <vocabulary>a right</vocabulary> you have!",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%A8%A9%E5%88%A9",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "権",
+      "id": 1134,
+      "reading": "けん"
+    },
+    {
+      "type": "kanji",
+      "value": "利",
+      "id": 786,
+      "reading": "り"
+    }
+  ]
+}

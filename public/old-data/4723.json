@@ -1,0 +1,44 @@
+{
+  "id": 4723,
+  "type": "vocabulary",
+  "characters": "現象",
+  "primaryMeaning": "Phenomenon",
+  "otherMeanings": [],
+  "primaryReading": "げんしょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1211,
+      "character": "現",
+      "readings": [
+        "げん",
+        "あらわ"
+      ]
+    },
+    {
+      "id": 1237,
+      "character": "象",
+      "readings": [
+        "ぞう",
+        "しょう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>present time</kanji> <kanji>phenomenon</kanji> is a <vocabulary>phenomenon</vocabulary> whether it's in the present or in the future or in the past.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%8F%BE%E8%B1%A1",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "現",
+      "id": 1211,
+      "reading": "げん"
+    },
+    {
+      "type": "kanji",
+      "value": "象",
+      "id": 1237,
+      "reading": "しょう"
+    }
+  ]
+}

@@ -1,77 +1,18 @@
 {
   "id": 8480,
   "type": "vocabulary",
-  "characters": "執行猶予",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "執行猶予"
+  },
   "primaryMeaning": "Suspended Sentence",
-  "otherMeanings": [],
-  "primaryReading": "しっこうゆうよ",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1649,
-      "character": "執",
-      "readings": [
-        "しゅう",
-        "しつ",
-        "と"
-      ]
-    },
-    {
-      "id": 580,
-      "character": "行",
-      "readings": [
-        "こう",
-        "ぎょう",
-        "い",
-        "おこな",
-        "ゆ"
-      ]
-    },
-    {
-      "id": 2296,
-      "character": "猶",
-      "readings": [
-        "ゆう",
-        "ゆ",
-        "なお"
-      ]
-    },
-    {
-      "id": 854,
-      "character": "予",
-      "readings": [
-        "よ",
-        "あらかじ"
-      ]
-    }
-  ],
   "meaningMnemonic": "Remember how you learned that 猶予 means \"extension?\" Well the jury has a <kanji>tenacious</kanji> grip on the idea of trying to let you <kanji>go</kanji> and they request an extension, so they give you a <vocabulary>suspended sentence</vocabulary> until they can figure out how to do it properly. You might be set free! E... eventually.",
+  "primaryReading": "しっこうゆうよ",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%9F%B7%E8%A1%8C%E7%8C%B6%E4%BA%88",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "執",
-      "id": 1649,
-      "reading": "しっ"
-    },
-    {
-      "type": "kanji",
-      "value": "行",
-      "id": 580,
-      "reading": "こう"
-    },
-    {
-      "type": "kanji",
-      "value": "猶",
-      "id": 2296,
-      "reading": "ゆう"
-    },
-    {
-      "type": "kanji",
-      "value": "予",
-      "id": 854,
-      "reading": "よ"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%9F%B7%E8%A1%8C%E7%8C%B6%E4%BA%88"
+  }
 }

@@ -1,49 +1,23 @@
 {
   "id": 4200,
   "type": "vocabulary",
-  "characters": "得意",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "得意"
+  },
   "primaryMeaning": "Good At",
+  "meaningMnemonic": "When you're able to <kanji>acquire</kanji> <kanji>idea</kanji>s at a fast rate, you must be familiar with whatever it is you're doing. If you acquire ideas in this way, there's a good chance you're <vocabulary>good at</vocabulary> or <vocabulary>skilled at</vocabulary> this action.",
+  "primaryReading": "とくい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Skilled At",
     "Strong Point",
     "Specialty",
     "Forte"
   ],
-  "primaryReading": "とくい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1081,
-      "character": "得",
-      "readings": [
-        "とく",
-        "え",
-        "う"
-      ]
-    },
-    {
-      "id": 811,
-      "character": "意",
-      "readings": [
-        "い"
-      ]
-    }
-  ],
-  "meaningMnemonic": "When you're able to <kanji>acquire</kanji> <kanji>idea</kanji>s at a fast rate, you must be familiar with whatever it is you're doing. If you acquire ideas in this way, there's a good chance you're <vocabulary>good at</vocabulary> or <vocabulary>skilled at</vocabulary> this action.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BE%97%E6%84%8F",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "得",
-      "id": 1081,
-      "reading": "とく"
-    },
-    {
-      "type": "kanji",
-      "value": "意",
-      "id": 811,
-      "reading": "い"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%BE%97%E6%84%8F"
+  }
 }

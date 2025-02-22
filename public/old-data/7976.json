@@ -1,0 +1,36 @@
+{
+  "id": 7976,
+  "type": "vocabulary",
+  "characters": "寛ぐ",
+  "primaryMeaning": "To Relax",
+  "otherMeanings": [
+    "To Feel At Home"
+  ],
+  "primaryReading": "くつろぐ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2190,
+      "character": "寛",
+      "readings": [
+        "かん",
+        "くつろ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>tolerance</kanji>, so the verb version is what happens when you're a really tolerant person. You're able <vocabulary>to relax</vocabulary> and <vocabulary>to feel at home</vocabulary> because nothing really gets to you.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nYou want <vocabulary>to relax</vocabulary> so you go down to old <reading>coots ro</reading>ad (くつろ). It's a road with a bunch of old coots who don't bother nobody. They just kinda sit around and complain. That's where you like to relax. Something about being surrounded by a bunch of old coots on old coots road makes you feel at home.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AF%9B%E3%81%90",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "寛",
+      "id": 2190,
+      "reading": "くつろ"
+    },
+    {
+      "type": "kana",
+      "value": "ぐ"
+    }
+  ]
+}

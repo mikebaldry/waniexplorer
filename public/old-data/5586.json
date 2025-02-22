@@ -1,0 +1,48 @@
+{
+  "id": 5586,
+  "type": "vocabulary",
+  "characters": "汚染",
+  "primaryMeaning": "Pollution",
+  "otherMeanings": [],
+  "primaryReading": "おせん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1506,
+      "character": "汚",
+      "readings": [
+        "お",
+        "よご",
+        "きたな",
+        "けが"
+      ]
+    },
+    {
+      "id": 1512,
+      "character": "染",
+      "readings": [
+        "せん",
+        "しみ",
+        "そ",
+        "し"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>dirty</kanji> <kanji>dye</kanji> that's all throughout the sky and makes things gross when it touches them is <vocabulary>pollution</vocabulary>. If it's bad enough it really is like a dye, too, making your white clothes brown, yuck.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B1%9A%E6%9F%93",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "汚",
+      "id": 1506,
+      "reading": "お"
+    },
+    {
+      "type": "kanji",
+      "value": "染",
+      "id": 1512,
+      "reading": "せん"
+    }
+  ]
+}

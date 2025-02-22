@@ -1,60 +1,20 @@
 {
   "id": 7447,
   "type": "vocabulary",
-  "characters": "休憩所",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "休憩所"
+  },
   "primaryMeaning": "Rest Area",
+  "meaningMnemonic": "A <kanji>rest</kanji> (休憩) <kanji>place</kanji> is a <vocabulary>rest area</vocabulary> or <vocabulary>rest stop</vocabulary>.",
+  "primaryReading": "きゅうけいじょ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Watch out for the rendaku.",
   "otherMeanings": [
     "Rest Stop"
   ],
-  "primaryReading": "きゅうけいじょ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 542,
-      "character": "休",
-      "readings": [
-        "きゅう",
-        "やす"
-      ]
-    },
-    {
-      "id": 1998,
-      "character": "憩",
-      "readings": [
-        "けい",
-        "いこ"
-      ]
-    },
-    {
-      "id": 707,
-      "character": "所",
-      "readings": [
-        "しょ",
-        "ところ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>rest</kanji> (休憩) <kanji>place</kanji> is a <vocabulary>rest area</vocabulary> or <vocabulary>rest stop</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Watch out for the rendaku.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BC%91%E6%86%A9%E6%89%80",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "休",
-      "id": 542,
-      "reading": "きゅう"
-    },
-    {
-      "type": "kanji",
-      "value": "憩",
-      "id": 1998,
-      "reading": "けい"
-    },
-    {
-      "type": "kanji",
-      "value": "所",
-      "id": 707,
-      "reading": "じょ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BC%91%E6%86%A9%E6%89%80"
+  }
 }

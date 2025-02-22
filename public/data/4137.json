@@ -1,29 +1,18 @@
 {
   "id": 4137,
   "type": "vocabulary",
-  "characters": "脳",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "脳"
+  },
   "primaryMeaning": "Brain",
-  "otherMeanings": [],
-  "primaryReading": "のう",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1045,
-      "character": "脳",
-      "readings": [
-        "のう"
-      ]
-    }
-  ],
   "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "のう",
   "readingMnemonic": "The reading is the same as what you learned with the kanji. Don't have to use your <vocabulary>brain</vocabulary> for that.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%84%B3",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "脳",
-      "id": 1045,
-      "reading": "のう"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%84%B3"
+  }
 }

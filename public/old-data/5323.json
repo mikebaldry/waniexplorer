@@ -1,0 +1,44 @@
+{
+  "id": 5323,
+  "type": "vocabulary",
+  "characters": "国旗",
+  "primaryMeaning": "National Flag",
+  "otherMeanings": [],
+  "primaryReading": "こっき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 621,
+      "character": "国",
+      "readings": [
+        "こく",
+        "くに"
+      ]
+    },
+    {
+      "id": 1418,
+      "character": "旗",
+      "readings": [
+        "き",
+        "はた"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>country</kanji>'s <kanji>flag</kanji> is the flag they use for their nation. It's the <vocabulary>national flag</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. The こく gets shortened to こっ, though, so look out for that.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%9B%BD%E6%97%97",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "国",
+      "id": 621,
+      "reading": null
+    },
+    {
+      "type": "kanji",
+      "value": "旗",
+      "id": 1418,
+      "reading": null
+    }
+  ]
+}

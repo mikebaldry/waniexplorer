@@ -1,48 +1,21 @@
 {
   "id": 8818,
   "type": "vocabulary",
-  "characters": "遠足",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "遠足"
+  },
   "primaryMeaning": "Excursion",
+  "meaningMnemonic": "<kanji>Far</kanji> <kanji>feet</kanji> are feet that have gone on long <vocabulary>excursions</vocabulary>. These feet have been on some <vocabulary>trip</vocabulary>s, man. They've seen some things.",
+  "primaryReading": "えんそく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Outing",
     "Trip"
   ],
-  "primaryReading": "えんそく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 963,
-      "character": "遠",
-      "readings": [
-        "えん",
-        "とお"
-      ]
-    },
-    {
-      "id": 561,
-      "character": "足",
-      "readings": [
-        "そく",
-        "あし",
-        "た"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Far</kanji> <kanji>feet</kanji> are feet that have gone on long <vocabulary>excursions</vocabulary>. These feet have been on some <vocabulary>trip</vocabulary>s, man. They've seen some things.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%81%A0%E8%B6%B3",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "遠",
-      "id": 963,
-      "reading": "えん"
-    },
-    {
-      "type": "kanji",
-      "value": "足",
-      "id": 561,
-      "reading": "そく"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%81%A0%E8%B6%B3"
+  }
 }

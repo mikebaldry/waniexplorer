@@ -1,12 +1,15 @@
 {
   "id": 58,
   "type": "radical",
-  "primaryMeaning": "Ra",
-  "otherMeanings": [],
-  "character": {
+  "level": 3,
+  "characters": {
     "type": "text",
     "value": "ラ"
   },
+  "primaryMeaning": "Ra",
+  "otherMeanings": [],
   "meaningMnemonic": "This radical looks just like the katakana character \"ra\" (ラ). The sound \"ra\" sounds just like the famous Egyptian God \"Ra\" as well, so we're going to say this radical represents Egypt's God <radical>Ra</radical>.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/ra-58"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/ra-58"
+  }
 }

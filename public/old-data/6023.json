@@ -1,0 +1,43 @@
+{
+  "id": 6023,
+  "type": "vocabulary",
+  "characters": "受諾",
+  "primaryMeaning": "Acceptance",
+  "otherMeanings": [],
+  "primaryReading": "じゅだく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 711,
+      "character": "受",
+      "readings": [
+        "じゅ",
+        "う"
+      ]
+    },
+    {
+      "id": 1641,
+      "character": "諾",
+      "readings": [
+        "だく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "I will <kanji>accept</kanji> and I have <kanji>agreement</kanji> in the matter. I have come to <vocabulary>acceptance</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8F%97%E8%AB%BE",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "受",
+      "id": 711,
+      "reading": "じゅ"
+    },
+    {
+      "type": "kanji",
+      "value": "諾",
+      "id": 1641,
+      "reading": "だく"
+    }
+  ]
+}

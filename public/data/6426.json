@@ -1,46 +1,20 @@
 {
   "id": 6426,
   "type": "vocabulary",
-  "characters": "頻繁",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "頻繁"
+  },
   "primaryMeaning": "Frequent",
+  "meaningMnemonic": "Something that is <kanji>frequent</kanji>ly <kanji>overgrown</kanji> is something that is super <vocabulary>frequent</vocabulary>. It never stops attacking, never stops coming, and is honestly getting <vocabulary>incessant</vocabulary> in how often it overgrows. Those darn [put plant name here].",
+  "primaryReading": "ひんぱん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Incessant"
   ],
-  "primaryReading": "ひんぱん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1765,
-      "character": "頻",
-      "readings": [
-        "ひん",
-        "しき"
-      ]
-    },
-    {
-      "id": 1764,
-      "character": "繁",
-      "readings": [
-        "はん",
-        "しげ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Something that is <kanji>frequent</kanji>ly <kanji>overgrown</kanji> is something that is super <vocabulary>frequent</vocabulary>. It never stops attacking, never stops coming, and is honestly getting <vocabulary>incessant</vocabulary> in how often it overgrows. Those darn [put plant name here].",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%A0%BB%E7%B9%81",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "頻",
-      "id": 1765,
-      "reading": "ひん"
-    },
-    {
-      "type": "kanji",
-      "value": "繁",
-      "id": 1764,
-      "reading": "ぱん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%A0%BB%E7%B9%81"
+  }
 }

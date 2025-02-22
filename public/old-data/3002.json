@@ -1,0 +1,45 @@
+{
+  "id": 3002,
+  "type": "vocabulary",
+  "characters": "医学",
+  "primaryMeaning": "Medical Science",
+  "otherMeanings": [
+    "Medicine"
+  ],
+  "primaryReading": "いがく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 681,
+      "character": "医",
+      "readings": [
+        "い"
+      ]
+    },
+    {
+      "id": 599,
+      "character": "学",
+      "readings": [
+        "がく",
+        "まな"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>study</kanji> of <kanji>medicine</kanji> is <vocabulary>medical science</vocabulary>. It can also be called <vocabulary>medicine</vocabulary>, but make sure to think of it as the \"medicine\" where it has to do with \"medical science.\"",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8C%BB%E5%AD%A6",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "医",
+      "id": 681,
+      "reading": "い"
+    },
+    {
+      "type": "kanji",
+      "value": "学",
+      "id": 599,
+      "reading": "がく"
+    }
+  ]
+}

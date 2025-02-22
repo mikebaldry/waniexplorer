@@ -1,48 +1,21 @@
 {
   "id": 7318,
   "type": "vocabulary",
-  "characters": "無謀",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "無謀"
+  },
   "primaryMeaning": "Reckless",
+  "meaningMnemonic": "The <kanji>conspir</kanji>ing I'm doing? <kanji>Nothing</kanji>... that's how much. If I don't conspire, I don't think about my actions. If I don't think, then I am just being <vocabulary>reckless</vocabulary> and <vocabulary>thoughtless</vocabulary>.",
+  "primaryReading": "むぼう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Thoughtless",
     "Unpremeditated"
   ],
-  "primaryReading": "むぼう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1008,
-      "character": "無",
-      "readings": [
-        "む",
-        "ぶ",
-        "な"
-      ]
-    },
-    {
-      "id": 2069,
-      "character": "謀",
-      "readings": [
-        "ぼう",
-        "はか"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The <kanji>conspir</kanji>ing I'm doing? <kanji>Nothing</kanji>... that's how much. If I don't conspire, I don't think about my actions. If I don't think, then I am just being <vocabulary>reckless</vocabulary> and <vocabulary>thoughtless</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%84%A1%E8%AC%80",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "無",
-      "id": 1008,
-      "reading": "む"
-    },
-    {
-      "type": "kanji",
-      "value": "謀",
-      "id": 2069,
-      "reading": "ぼう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%84%A1%E8%AC%80"
+  }
 }

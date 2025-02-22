@@ -1,42 +1,22 @@
 {
   "id": 7261,
   "type": "vocabulary",
-  "characters": "お婆ちゃん",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "お婆ちゃん"
+  },
   "primaryMeaning": "Granny",
+  "meaningMnemonic": "An <kanji>old woman</kanji> is who this is. Then, you add ちゃん for the name ender. You add お to be nicer. This person is a <vocabulary>granny</vocabulary> or <vocabulary>grandma</vocabulary> or <vocabulary>old lady</vocabulary> or <vocabulary>old woman</vocabulary>.",
+  "primaryReading": "おばあちゃん",
+  "readingMnemonic": "The reading isn't the ば you learned with the kanji. It's a slightly longer ばあ, because you gotta be nice, you know? Also, the person you thought was a <vocabulary>granny</vocabulary> is actually a sheep. <reading>Baaaa</reading>! (ばあ).",
   "otherMeanings": [
     "Grandma",
     "Old Lady",
     "Old Woman"
   ],
-  "primaryReading": "おばあちゃん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1992,
-      "character": "婆",
-      "readings": [
-        "ば",
-        "ばあ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "An <kanji>old woman</kanji> is who this is. Then, you add ちゃん for the name ender. You add お to be nicer. This person is a <vocabulary>granny</vocabulary> or <vocabulary>grandma</vocabulary> or <vocabulary>old lady</vocabulary> or <vocabulary>old woman</vocabulary>.",
-  "readingMnemonic": "The reading isn't the ば you learned with the kanji. It's a slightly longer ばあ, because you gotta be nice, you know? Also, the person you thought was a <vocabulary>granny</vocabulary> is actually a sheep. <reading>Baaaa</reading>! (ばあ).",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E3%81%8A%E5%A9%86%E3%81%A1%E3%82%83%E3%82%93",
-  "elements": [
-    {
-      "type": "kana",
-      "value": "お"
-    },
-    {
-      "type": "kanji",
-      "value": "婆",
-      "id": 1992,
-      "reading": "ばあ"
-    },
-    {
-      "type": "kana",
-      "value": "ちゃん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E3%81%8A%E5%A9%86%E3%81%A1%E3%82%83%E3%82%93"
+  }
 }

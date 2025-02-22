@@ -1,33 +1,41 @@
 {
   "id": 2195,
   "type": "kanji",
-  "character": "丹",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "丹"
+  },
+  "primaryReading": "たん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "たん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "に",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Rust Colored",
   "otherMeanings": [
     "Red",
     "Sincerity"
   ],
-  "primaryReading": "たん",
-  "readings": [
-    {
-      "reading": "たん",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "に",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "The <kanji>rust colored</kanji> boat has inspired you, so you sit down next to it in the sun and <reading>tan</reading> (たん). You want to be the exact same rust color as the boat, and in a few hours you're sure you'll match.",
   "meaningMnemonic": "This is a <radical>boat</radical>, but it's missing some pieces. That's because it's really rusty, so parts are falling off of it and it looks <kanji>rust colored</kanji>. In ancient Chinese literature, this rusty red color represented <kanji>sincerity</kanji>, and you'll often see this kanji take that meaning in jukugo words. ",
-  "vocabularyIds": [
-    7962,
-    7963
-  ],
-  "radicalIds": [
-    149
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E4%B8%B9"
+  "readingMnemonic": "The <kanji>rust colored</kanji> boat has inspired you, so you sit down next to it in the sun and <reading>tan</reading> (たん). You want to be the exact same rust color as the boat, and in a few hours you're sure you'll match.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E4%B8%B9"
+  },
+  "related": {
+    "radicals": [
+      149
+    ],
+    "vocabularies": [
+      7962,
+      7963
+    ]
+  }
 }

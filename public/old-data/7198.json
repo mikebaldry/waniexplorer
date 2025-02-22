@@ -1,0 +1,37 @@
+{
+  "id": 7198,
+  "type": "vocabulary",
+  "characters": "彩る",
+  "primaryMeaning": "To Color Something",
+  "otherMeanings": [
+    "To Color"
+  ],
+  "primaryReading": "いろどる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2028,
+      "character": "彩",
+      "readings": [
+        "さい",
+        "いろど",
+        "あや"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>coloring</kanji> so the verb vocab version is <vocabulary>to color something</vocabulary>, because you're doing coloring.",
+  "readingMnemonic": "You go <vocabulary>to color something</vocabulary>, painting the coloring all over the wall. Problem is, the coloring is made of ACID. This causes the wall to <reading>erode</reading> (いろど).",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BD%A9%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "彩",
+      "id": 2028,
+      "reading": "いろど"
+    },
+    {
+      "type": "kana",
+      "value": "る"
+    }
+  ]
+}

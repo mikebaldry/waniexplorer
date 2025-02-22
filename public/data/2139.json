@@ -1,32 +1,40 @@
 {
   "id": 2139,
   "type": "kanji",
-  "character": "郡",
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "郡"
+  },
+  "primaryReading": "ぐん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ぐん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "こおり",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "County",
   "otherMeanings": [
     "District"
   ],
-  "primaryReading": "ぐん",
-  "readings": [
-    {
-      "reading": "ぐん",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "こおり",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "Your <kanji>county</kanji> is everything you can reach when shooting a <reading>gun</reading> (ぐん). If the bullet can't reach a building you know, it's a buddy building in another county.",
   "meaningMnemonic": "The <radical>buddy</radical> <radical>building</radical> is in the next <kanji>county</kanji>. If it was in your county then it wouldn't be a buddy, it would be a neighbor. You're aware of this building, but they aren't that close, so they're just a buddy.",
-  "vocabularyIds": [
-    7847
-  ],
-  "radicalIds": [
-    373,
-    176
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%83%A1"
+  "readingMnemonic": "Your <kanji>county</kanji> is everything you can reach when shooting a <reading>gun</reading> (ぐん). If the bullet can't reach a building you know, it's a buddy building in another county.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%83%A1"
+  },
+  "related": {
+    "radicals": [
+      373,
+      176
+    ],
+    "vocabularies": [
+      7847
+    ]
+  }
 }

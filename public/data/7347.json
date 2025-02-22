@@ -1,47 +1,20 @@
 {
   "id": 7347,
   "type": "vocabulary",
-  "characters": "劣悪",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "劣悪"
+  },
   "primaryMeaning": "Inferiority",
+  "meaningMnemonic": "<kanji>Inferiority</kanji> is <kanji>bad</kanji>. It is <vocabulary>inferiority</vocabulary>, after all.",
+  "primaryReading": "れつあく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Coarseness"
   ],
-  "primaryReading": "れつあく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2080,
-      "character": "劣",
-      "readings": [
-        "れつ",
-        "おと"
-      ]
-    },
-    {
-      "id": 829,
-      "character": "悪",
-      "readings": [
-        "あく",
-        "お",
-        "わる"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Inferiority</kanji> is <kanji>bad</kanji>. It is <vocabulary>inferiority</vocabulary>, after all.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8A%A3%E6%82%AA",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "劣",
-      "id": 2080,
-      "reading": "れつ"
-    },
-    {
-      "type": "kanji",
-      "value": "悪",
-      "id": 829,
-      "reading": "あく"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%8A%A3%E6%82%AA"
+  }
 }

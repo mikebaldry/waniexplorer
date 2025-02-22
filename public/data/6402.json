@@ -1,44 +1,18 @@
 {
   "id": 6402,
   "type": "vocabulary",
-  "characters": "排出",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "排出"
+  },
   "primaryMeaning": "Emission",
-  "otherMeanings": [],
-  "primaryReading": "はいしゅつ",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1755,
-      "character": "排",
-      "readings": [
-        "はい"
-      ]
-    },
-    {
-      "id": 483,
-      "character": "出",
-      "readings": [
-        "しゅつ",
-        "で",
-        "だ"
-      ]
-    }
-  ],
   "meaningMnemonic": "Things that are <kanji>emit</kanji>ted and then <kanji>exit</kanji> are, well, <vocabulary>emission</vocabulary>s. ",
+  "primaryReading": "はいしゅつ",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8E%92%E5%87%BA",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "排",
-      "id": 1755,
-      "reading": "はい"
-    },
-    {
-      "type": "kanji",
-      "value": "出",
-      "id": 483,
-      "reading": "しゅつ"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%8E%92%E5%87%BA"
+  }
 }

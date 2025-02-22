@@ -1,0 +1,45 @@
+{
+  "id": 3966,
+  "type": "vocabulary",
+  "characters": "原作",
+  "primaryMeaning": "Original Work",
+  "otherMeanings": [],
+  "primaryReading": "げんさく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 995,
+      "character": "原",
+      "readings": [
+        "げん",
+        "はら"
+      ]
+    },
+    {
+      "id": 584,
+      "character": "作",
+      "readings": [
+        "さく",
+        "さ",
+        "つく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>original</kanji> thing you <kanji>make</kanji> is the <vocabulary>original work</vocabulary>. It's always better to have the original, rather than a copy, I think.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8E%9F%E4%BD%9C",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "原",
+      "id": 995,
+      "reading": "げん"
+    },
+    {
+      "type": "kanji",
+      "value": "作",
+      "id": 584,
+      "reading": "さく"
+    }
+  ]
+}

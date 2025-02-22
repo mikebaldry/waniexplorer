@@ -1,0 +1,47 @@
+{
+  "id": 6343,
+  "type": "vocabulary",
+  "characters": "奥様",
+  "primaryMeaning": "Your Wife",
+  "otherMeanings": [
+    "Wife",
+    "Ma'am"
+  ],
+  "primaryReading": "おくさま",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1689,
+      "character": "奥",
+      "readings": [
+        "おく",
+        "おう"
+      ]
+    },
+    {
+      "id": 865,
+      "character": "様",
+      "readings": [
+        "さま",
+        "よう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Your <kanji>interior</kanji> <kanji>formal name ender</kanji> (person) is the person who's waiting internal, out of the picture (remember, kanji was made forever ago and is pretty sexist). This person is <vocabulary>your wife</vocabulary>.",
+  "readingMnemonic": "The readings are the ones you learned with the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A5%A5%E6%A7%98",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "奥",
+      "id": 1689,
+      "reading": "おく"
+    },
+    {
+      "type": "kanji",
+      "value": "様",
+      "id": 865,
+      "reading": "さま"
+    }
+  ]
+}

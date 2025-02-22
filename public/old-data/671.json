@@ -1,0 +1,46 @@
+{
+  "id": 671,
+  "type": "kanji",
+  "character": "船",
+  "primaryMeaning": "Boat",
+  "otherMeanings": [
+    "Ship",
+    "Vessel"
+  ],
+  "primaryReading": "せん",
+  "readings": [
+    {
+      "reading": "せん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ふね",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "This <kanji>boat</kanji> belongs to the <reading>cen</reading>taurs (せん). That's probably why you've never seen a boat like it before.",
+  "meaningMnemonic": "Your <radical>boat</radical> has <radical>fins</radical> and a <radical>mouth</radical>! It's still a <kanji>boat</kanji> though.",
+  "vocabularyIds": [
+    2976,
+    2977,
+    4352,
+    4386,
+    5699,
+    5869,
+    6033,
+    6053,
+    6509,
+    7581,
+    7622,
+    8321,
+    8613
+  ],
+  "radicalIds": [
+    149,
+    2,
+    16
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%88%B9"
+}

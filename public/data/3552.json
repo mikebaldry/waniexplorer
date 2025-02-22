@@ -1,48 +1,20 @@
 {
   "id": 3552,
   "type": "vocabulary",
-  "characters": "母親",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "母親"
+  },
   "primaryMeaning": "Mother",
+  "meaningMnemonic": "The <kanji>mother</kanji> <kanji>parent</kanji> is the <vocabulary>mother</vocabulary>.",
+  "primaryReading": "ははおや",
+  "readingMnemonic": "The reading for this is strange. It's the kun'yomi vocab reading, probably because the literal translation is \"mother parent\" and therefore consists of a couple words combined together into one concept. So, make sure you know the separate word readings of 母 and 親. If you do, you should be able to read this too.",
   "otherMeanings": [
     "Mom"
   ],
-  "primaryReading": "ははおや",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 524,
-      "character": "母",
-      "readings": [
-        "はは",
-        "かあ",
-        "ぼ"
-      ]
-    },
-    {
-      "id": 770,
-      "character": "親",
-      "readings": [
-        "しん",
-        "おや",
-        "した"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The <kanji>mother</kanji> <kanji>parent</kanji> is the <vocabulary>mother</vocabulary>.",
-  "readingMnemonic": "The reading for this is strange. It's the kun'yomi vocab reading, probably because the literal translation is \"mother parent\" and therefore consists of a couple words combined together into one concept. So, make sure you know the separate word readings of 母 and 親. If you do, you should be able to read this too.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%AF%8D%E8%A6%AA",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "母",
-      "id": 524,
-      "reading": "はは"
-    },
-    {
-      "type": "kanji",
-      "value": "親",
-      "id": 770,
-      "reading": "おや"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%AF%8D%E8%A6%AA"
+  }
 }

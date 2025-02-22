@@ -1,0 +1,37 @@
+{
+  "id": 1645,
+  "type": "kanji",
+  "character": "漁",
+  "primaryMeaning": "Fishing",
+  "otherMeanings": [],
+  "primaryReading": "ぎょ",
+  "readings": [
+    {
+      "reading": "ぎょ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "りょう",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "あさ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "To get to the best <kanji>fishing</kanji> spot you need to <reading>go</reading> (ぎょ) <reading>row</reading> (りょう) out to the middle of the ocean. You go by means of rowing. To get to the fish and do the fishing, you need to go and row out to sea.",
+  "meaningMnemonic": "A <radical>tsunami</radical> pushes all the <radical>fish</radical> closer to land, making for some easy <kanji>fishing</kanji>. The tsunami starts out in the middle of the ocean and pushes all the fish towards the coast where everyone does their fishing. With all the fish pushed closer to land and closer together, it’s very easy for people to go fishing in one spot and catch a lot of fish.",
+  "vocabularyIds": [
+    6052,
+    6053,
+    6054
+  ],
+  "radicalIds": [
+    103,
+    150
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%BC%81"
+}

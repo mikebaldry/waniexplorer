@@ -1,12 +1,15 @@
 {
   "id": 378,
   "type": "radical",
-  "primaryMeaning": "Employ",
-  "otherMeanings": [],
-  "character": {
+  "level": 40,
+  "characters": {
     "type": "text",
     "value": "雇"
   },
+  "primaryMeaning": "Employ",
+  "otherMeanings": [],
   "meaningMnemonic": "This radical is the same as the kanji. It means <radical>employ</radical>.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/employ"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/employ"
+  }
 }

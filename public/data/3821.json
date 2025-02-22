@@ -1,49 +1,21 @@
 {
   "id": 3821,
   "type": "vocabulary",
-  "characters": "新品",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "新品"
+  },
   "primaryMeaning": "Brand New",
+  "meaningMnemonic": "A <kanji>new</kanji> <kanji>product</kanji> is something that's <vocabulary>brand new</vocabulary> or a <vocabulary>new item</vocabulary>. I like looking around the store for the brand new stuff because it's interesting!",
+  "primaryReading": "しんぴん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Notice though that ひん changes to ぴん. This is because you're buying some <vocabulary>brand new</vocabulary> pins?",
   "otherMeanings": [
     "New Item",
     "New Product"
   ],
-  "primaryReading": "しんぴん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 857,
-      "character": "新",
-      "readings": [
-        "しん",
-        "あたら",
-        "あら",
-        "にい"
-      ]
-    },
-    {
-      "id": 967,
-      "character": "品",
-      "readings": [
-        "ひん",
-        "しな"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>new</kanji> <kanji>product</kanji> is something that's <vocabulary>brand new</vocabulary> or a <vocabulary>new item</vocabulary>. I like looking around the store for the brand new stuff because it's interesting!",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Notice though that ひん changes to ぴん. This is because you're buying some <vocabulary>brand new</vocabulary> pins?",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%96%B0%E5%93%81",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "新",
-      "id": 857,
-      "reading": "しん"
-    },
-    {
-      "type": "kanji",
-      "value": "品",
-      "id": 967,
-      "reading": "ぴん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%96%B0%E5%93%81"
+  }
 }

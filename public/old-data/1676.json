@@ -1,0 +1,32 @@
+{
+  "id": 1676,
+  "type": "kanji",
+  "character": "齢",
+  "primaryMeaning": "Age",
+  "otherMeanings": [],
+  "primaryReading": "れい",
+  "readings": [
+    {
+      "reading": "れい",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "よわい",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Gaining and losing teeth aren't the only things dependent on <kanji>age</kanji>. There is also an age in which you get your first <reading>ray</reading> (れい) gun.",
+  "meaningMnemonic": "You get <radical>tooth</radical> <radical>orders</radical>. You get these tooth orders various times in your life, depending on your <kanji>age</kanji>.",
+  "vocabularyIds": [
+    6158,
+    6159,
+    6160
+  ],
+  "radicalIds": [
+    372,
+    189
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%BD%A2"
+}

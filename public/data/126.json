@@ -1,12 +1,15 @@
 {
   "id": 126,
   "type": "radical",
-  "primaryMeaning": "Cow",
-  "otherMeanings": [],
-  "character": {
+  "level": 2,
+  "characters": {
     "type": "text",
     "value": "牛"
   },
-  "meaningMnemonic": "There's a cross and a gun, with the gun going through the cross. You're using the cross to stabilize your gun, because you need to shoot a <radical>cow</radical> for dinner. You bring your cross because you need to bless the cow once you've killed it (and it's also a good stand for your gun). Poor cow.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/cow"
+  "primaryMeaning": "Cow",
+  "otherMeanings": [],
+  "meaningMnemonic": "This is the <radical>cow</radical> radical. It kind of looks like the long face of a cow, right? Specifically a boy cow, since you can think of that top horizontal line as its horns. Seeing it yet? It's got a little tuft of hair on its head, and some kind of accessory on the horn to your left, so this is a very stylish cow.\n\n(And yes, you may say a \"boy cow\" isn't a \"cow,\" but we're still calling this a cow. Please don't write in about it — we don't want any beef.)",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/cow"
+  }
 }

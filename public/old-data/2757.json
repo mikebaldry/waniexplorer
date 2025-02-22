@@ -1,0 +1,38 @@
+{
+  "id": 2757,
+  "type": "vocabulary",
+  "characters": "当たり",
+  "primaryMeaning": "A Success",
+  "otherMeanings": [
+    "Success",
+    "Hit",
+    "Guess"
+  ],
+  "primaryReading": "あたり",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 571,
+      "character": "当",
+      "readings": [
+        "とう",
+        "あ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This is the noun version of the kanji <kanji>right</kanji>. What happens when you get \"a right?\" You get <vocabulary>a success</vocabulary>.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nYou have to remember the あ portion of this word to read it. What is the correct answer that will give you <vocabulary>a success</vocabulary>? It is the first answer, <reading>A</reading> (あ).",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BD%93%E3%81%9F%E3%82%8A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "当",
+      "id": 571,
+      "reading": "あ"
+    },
+    {
+      "type": "kana",
+      "value": "たり"
+    }
+  ]
+}

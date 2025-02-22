@@ -1,45 +1,20 @@
 {
   "id": 3960,
   "type": "vocabulary",
-  "characters": "兵員",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "兵員"
+  },
   "primaryMeaning": "Military Personnel",
+  "meaningMnemonic": "A <kanji>soldier</kanji> <kanji>member</kanji> (or a member of the soldiers) is a person that is of the <vocabulary>military personnel</vocabulary>. It also shows the amount of <vocabulary>military strength</vocabulary> an army has. The more soldier members, the more military strength and military personnel it has!",
+  "primaryReading": "へいいん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Military Strength"
   ],
-  "primaryReading": "へいいん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1000,
-      "character": "兵",
-      "readings": [
-        "へい",
-        "ひょう"
-      ]
-    },
-    {
-      "id": 821,
-      "character": "員",
-      "readings": [
-        "いん"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>soldier</kanji> <kanji>member</kanji> (or a member of the soldiers) is a person that is of the <vocabulary>military personnel</vocabulary>. It also shows the amount of <vocabulary>military strength</vocabulary> an army has. The more soldier members, the more military strength and military personnel it has!",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%85%B5%E5%93%A1",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "兵",
-      "id": 1000,
-      "reading": "へい"
-    },
-    {
-      "type": "kanji",
-      "value": "員",
-      "id": 821,
-      "reading": "いん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%85%B5%E5%93%A1"
+  }
 }

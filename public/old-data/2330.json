@@ -1,0 +1,29 @@
+{
+  "id": 2330,
+  "type": "kanji",
+  "character": "賊",
+  "primaryMeaning": "Robber",
+  "otherMeanings": [],
+  "primaryReading": "ぞく",
+  "readings": [
+    {
+      "reading": "ぞく",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Once the shellfish has a taste for being a <kanji>robber</kanji>, he'll join a Boso<reading>zoku</reading> (ぞく) bike gang so he can keep stealing more and more crosses. He'll drink more, steal more, and get to ride cool motorcycles.",
+  "meaningMnemonic": "When a <radical>shellfish</radical> becomes a <radical>drunkard</radical> and sees a <radical>cross</radical>, they'll become a <kanji>robber</kanji>. Because they'll steal the cross!",
+  "vocabularyIds": [
+    8408,
+    8409,
+    8410,
+    8411
+  ],
+  "radicalIds": [
+    94,
+    194,
+    15
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%B3%8A"
+}

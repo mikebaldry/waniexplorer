@@ -1,0 +1,34 @@
+{
+  "id": 1528,
+  "type": "kanji",
+  "character": "灰",
+  "primaryMeaning": "Ash",
+  "otherMeanings": [
+    "Ashes"
+  ],
+  "primaryReading": "はい",
+  "readings": [
+    {
+      "reading": "はい",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "かい",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "The <kanji>ashes</kanji> inspire you to write a <reading>hai</reading>ku (はい). Using the ashes you write a haiku on a rock for everyone to enjoy.",
+  "meaningMnemonic": "On a <radical>cliff</radical>, a <radical>fire</radical> burns to <kanji>ashes</kanji>. The ashes then blow off the cliff, and follow the wind wherever it may go.",
+  "vocabularyIds": [
+    5650,
+    5651,
+    5652
+  ],
+  "radicalIds": [
+    116,
+    46
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%81%B0"
+}

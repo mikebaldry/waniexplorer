@@ -1,47 +1,21 @@
 {
   "id": 5218,
   "type": "vocabulary",
-  "characters": "催告",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "催告"
+  },
   "primaryMeaning": "Notice",
+  "meaningMnemonic": "When you <kanji>sponsor</kanji> an <kanji>announce</kanji>ment, you're allowing those you're sponsoring to create some kind of <vocabulary>notice</vocabulary> for all those they want to get in contact with.\n\n催告 refers to the act of <vocabulary>officially notifying</vocabulary> someone with a <vocabulary>formal notice</vocabulary>, urging them to take action within a specified time frame. It's a technical term mainly used in legal or business contexts, like reminding someone to fulfill obligations such as payments or contracts.",
+  "primaryReading": "さいこく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Officially Notifying",
     "Formal Notice"
   ],
-  "primaryReading": "さいこく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1382,
-      "character": "催",
-      "readings": [
-        "さい",
-        "もよお"
-      ]
-    },
-    {
-      "id": 1031,
-      "character": "告",
-      "readings": [
-        "こく",
-        "つ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "When you <kanji>sponsor</kanji> an <kanji>announce</kanji>ment, you're allowing those you're sponsoring to create some kind of <vocabulary>notice</vocabulary> for all those they want to get in contact with.\n\n催告 refers to the act of <vocabulary>officially notifying</vocabulary> someone with a <vocabulary>formal notice</vocabulary>, urging them to take action within a specified time frame. It's a technical term mainly used in legal or business contexts, like reminding someone to fulfill obligations such as payments or contracts.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%82%AC%E5%91%8A",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "催",
-      "id": 1382,
-      "reading": "さい"
-    },
-    {
-      "type": "kanji",
-      "value": "告",
-      "id": 1031,
-      "reading": "こく"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%82%AC%E5%91%8A"
+  }
 }

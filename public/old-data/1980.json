@@ -1,0 +1,32 @@
+{
+  "id": 1980,
+  "type": "kanji",
+  "character": "欺",
+  "primaryMeaning": "Deceit",
+  "otherMeanings": [],
+  "primaryReading": "ぎ",
+  "readings": [
+    {
+      "reading": "ぎ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "あざむ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "<kanji>Deceit</kanji> can only take you so far, and soon the crab is caught, tried for its crimes and coverups, and sentenced to death via <reading>gui</reading>llotine (ぎ).",
+  "meaningMnemonic": "A <radical>crab</radical> will try to hide what it <radical>lack</radical>s with <kanji>deceit</kanji>. Lying, stealing, faking things—no type of deceit is too much for a crab.",
+  "vocabularyIds": [
+    7064,
+    7065,
+    7443
+  ],
+  "radicalIds": [
+    205,
+    142
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%AC%BA"
+}

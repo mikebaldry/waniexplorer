@@ -1,42 +1,50 @@
 {
   "id": 2263,
   "type": "kanji",
-  "character": "憂",
-  "primaryMeaning": "Grief",
-  "otherMeanings": [],
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "憂"
+  },
   "primaryReading": "ゆう",
   "readings": [
     {
-      "reading": "ゆう",
       "primary": true,
+      "reading": "ゆう",
       "type": "onyomi"
     },
     {
-      "reading": "う",
       "primary": false,
+      "reading": "う",
       "type": "kunyomi"
     },
     {
-      "reading": "うれ",
       "primary": false,
+      "reading": "うれ",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "Their <kanji>grief</kanji> intensifies because all of the foreheads they lost belonged to <reading>you</reading>ths (ゆう). Dead youths everywhere. Now there's no one left to repopulate the world.",
+  "primaryMeaning": "Grief",
+  "otherMeanings": [],
   "meaningMnemonic": "A <radical>hundred</radical> <radical>forehead</radical>s lower themselves to their <radical>heart</radical>s in <radical>winter</radical> in <kanji>grief</kanji>. There were once many of their kind, the forehead peoples, but now there are only a hundred left after this harsh winter took the rest of them. Their grief is immense.",
-  "vocabularyIds": [
-    8203,
-    8204,
-    8205,
-    8206,
-    8364,
-    8539
-  ],
-  "radicalIds": [
-    239,
-    76,
-    65,
-    60
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%86%82"
+  "readingMnemonic": "Their <kanji>grief</kanji> intensifies because all of the foreheads they lost belonged to <reading>you</reading>ths (ゆう). Dead youths everywhere. Now there's no one left to repopulate the world.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%86%82"
+  },
+  "related": {
+    "radicals": [
+      239,
+      76,
+      65,
+      60
+    ],
+    "vocabularies": [
+      8203,
+      8204,
+      8205,
+      8206,
+      8364,
+      8539
+    ]
+  }
 }

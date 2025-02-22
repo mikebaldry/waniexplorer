@@ -1,28 +1,36 @@
 {
   "id": 2183,
   "type": "kanji",
-  "character": "惰",
-  "primaryMeaning": "Lazy",
-  "otherMeanings": [],
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "惰"
+  },
   "primaryReading": "だ",
   "readings": [
     {
-      "reading": "だ",
       "primary": true,
+      "reading": "だ",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "You can't tell the <kanji>lazy</kanji> narwhal he's being lazy because he's your <reading>da</reading>d (だ). If he was anyone else you'd tell him off for being lazy, but you can't tell off your dad. That's just not right.",
+  "primaryMeaning": "Lazy",
+  "otherMeanings": [],
   "meaningMnemonic": "In its <radical>soul</radical>, a <radical>narwhal</radical> that's supposed to do <radical>construction</radical> under the <radical>moon</radical>, will be too <kanji>lazy</kanji> to do it. And when your soul is lazy, there's no way you'll be able to get something done.",
-  "vocabularyIds": [
-    7877,
-    7883
-  ],
-  "radicalIds": [
-    232,
-    26,
-    25,
-    43
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%83%B0"
+  "readingMnemonic": "You can't tell the <kanji>lazy</kanji> narwhal he's being lazy because he's your <reading>da</reading>d (だ). If he was anyone else you'd tell him off for being lazy, but you can't tell off your dad. That's just not right.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%83%B0"
+  },
+  "related": {
+    "radicals": [
+      232,
+      26,
+      25,
+      43
+    ],
+    "vocabularies": [
+      7877,
+      7883
+    ]
+  }
 }

@@ -1,0 +1,47 @@
+{
+  "id": 4855,
+  "type": "vocabulary",
+  "characters": "批判する",
+  "primaryMeaning": "To Criticize",
+  "otherMeanings": [],
+  "primaryReading": "ひはんする",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1141,
+      "character": "批",
+      "readings": [
+        "ひ"
+      ]
+    },
+    {
+      "id": 1127,
+      "character": "判",
+      "readings": [
+        "はん",
+        "ばん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "批判 is <kanji>criticism</kanji> so the verb version of that would be <vocabulary>to criticize</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. It will be much easier to read this if you know 批判, as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%89%B9%E5%88%A4%E3%81%99%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "批",
+      "id": 1141,
+      "reading": "ひ"
+    },
+    {
+      "type": "kanji",
+      "value": "判",
+      "id": 1127,
+      "reading": "はん"
+    },
+    {
+      "type": "kana",
+      "value": "する"
+    }
+  ]
+}

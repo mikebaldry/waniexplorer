@@ -1,0 +1,57 @@
+{
+  "id": 9009,
+  "type": "vocabulary",
+  "characters": "天王星",
+  "primaryMeaning": "Uranus",
+  "otherMeanings": [],
+  "primaryReading": "てんのうせい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 473,
+      "character": "天",
+      "readings": [
+        "てん",
+        "あま"
+      ]
+    },
+    {
+      "id": 482,
+      "character": "王",
+      "readings": [
+        "おう"
+      ]
+    },
+    {
+      "id": 638,
+      "character": "星",
+      "readings": [
+        "せい",
+        "ほし"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>heaven</kanji> <kanji>king</kanji> <kanji>star</kanji> is the planet <vocabulary>Uranus</vocabulary>. Knowledge of Greek mythology will definitely help you here, because the English name is a reference to the Greek god of the skies, and the Japanese name is a direct translation of that!",
+  "readingMnemonic": "This is a jukugo word and uses the on'yomi, but over time the reading for 王 changed from おう to のう, to make it easier to pronounce. You'll still see that listed as an alternative reading in some dictionaries, but it's pretty much never used nowadays, so we'll only accept the てんのうせい reading. Here's a mnemonic to help you remember:\n\nWho predicted the discovery of <vocabulary>Uranus</vocabulary>? <reading>No</reading>stradamus (のう), of course!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A4%A9%E7%8E%8B%E6%98%9F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "天",
+      "id": 473,
+      "reading": "てん"
+    },
+    {
+      "type": "kanji",
+      "value": "王",
+      "id": 482,
+      "reading": null
+    },
+    {
+      "type": "kanji",
+      "value": "星",
+      "id": 638,
+      "reading": null
+    }
+  ]
+}

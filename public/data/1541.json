@@ -1,46 +1,54 @@
 {
   "id": 1541,
   "type": "kanji",
-  "character": "装",
-  "primaryMeaning": "Attire",
-  "otherMeanings": [],
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "装"
+  },
   "primaryReading": "そう",
   "readings": [
     {
-      "reading": "そう",
       "primary": true,
+      "reading": "そう",
       "type": "onyomi"
     },
     {
+      "primary": false,
       "reading": "しょう",
-      "primary": false,
       "type": "onyomi"
     },
     {
-      "reading": "よそお",
       "primary": false,
+      "reading": "よそお",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "<kanji>Attire</kanji> like this is important because it reflects your <reading>soul</reading> (そう). The samurai is wearing clothing with icicles because that's how his heart feels too: frozen over because he has to fight in this horrible winter weather.",
+  "primaryMeaning": "Attire",
+  "otherMeanings": [],
   "meaningMnemonic": "If you see <radical>icicle</radical>s hanging off of a <radical>samurai</radical>'s <radical>clothes</radical>, don't worry, those are just part of his winter <kanji>attire</kanji>. Samurai have to travel and fight in all sorts of conditions, so it only makes sense that they have attire for every season.",
-  "vocabularyIds": [
-    5686,
-    5687,
-    5688,
-    5689,
-    5858,
-    6558,
-    7246,
-    8030,
-    8544,
-    8687,
-    9310
-  ],
-  "radicalIds": [
-    8826,
-    97,
-    320
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%A3%85"
+  "readingMnemonic": "<kanji>Attire</kanji> like this is important because it reflects your <reading>soul</reading> (そう). The samurai is wearing clothing with icicles because that's how his heart feels too: frozen over because he has to fight in this horrible winter weather.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%A3%85"
+  },
+  "related": {
+    "radicals": [
+      8826,
+      97,
+      320
+    ],
+    "vocabularies": [
+      5686,
+      5687,
+      5688,
+      5689,
+      5858,
+      6558,
+      7246,
+      8030,
+      8544,
+      8687,
+      9310
+    ]
+  }
 }

@@ -1,0 +1,37 @@
+{
+  "id": 863,
+  "type": "kanji",
+  "character": "整",
+  "primaryMeaning": "Arrange",
+  "otherMeanings": [
+    "Organize"
+  ],
+  "primaryReading": "せい",
+  "readings": [
+    {
+      "reading": "せい",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ととの",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Right after you've finished <kanji>arrang</kanji>ing the bundles, you take out your <reading>sa</reading>ber (せい) and do one final slice. All of the bundles are now perfectly organized AND cut.",
+  "meaningMnemonic": "Putting your wood in <radical>bundle</radical>s for <radical>winter</radical> is the <radical>correct</radical> way to <kanji>arrange</kanji> it. You want to make sure you <kanji>organize</kanji> all of your wood before winter comes, or the loose logs could get blown away in the first winter storm.",
+  "vocabularyIds": [
+    3591,
+    3902,
+    3903,
+    5487,
+    7754
+  ],
+  "radicalIds": [
+    219,
+    60,
+    229
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%95%B4"
+}

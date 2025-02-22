@@ -1,0 +1,61 @@
+{
+  "id": 3667,
+  "type": "vocabulary",
+  "characters": "雰囲気",
+  "primaryMeaning": "Atmosphere",
+  "otherMeanings": [
+    "Ambience",
+    "Ambiance",
+    "Mood"
+  ],
+  "primaryReading": "ふんいき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 926,
+      "character": "雰",
+      "readings": [
+        "ふん"
+      ]
+    },
+    {
+      "id": 901,
+      "character": "囲",
+      "readings": [
+        "い",
+        "かこ"
+      ]
+    },
+    {
+      "id": 548,
+      "character": "気",
+      "readings": [
+        "き",
+        "け"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>surround</kanji>ing <kanji>energy</kanji> in the <kanji>atmosphere</kanji> is what makes up the <vocabulary>atmosphere</vocabulary>. I love it when it takes three kanji to represent what one of the three kanji already represents.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9B%B0%E5%9B%B2%E6%B0%97",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "雰",
+      "id": 926,
+      "reading": "ふん"
+    },
+    {
+      "type": "kanji",
+      "value": "囲",
+      "id": 901,
+      "reading": "い"
+    },
+    {
+      "type": "kanji",
+      "value": "気",
+      "id": 548,
+      "reading": "き"
+    }
+  ]
+}

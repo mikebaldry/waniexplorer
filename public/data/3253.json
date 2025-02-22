@@ -1,43 +1,18 @@
 {
   "id": 3253,
   "type": "vocabulary",
-  "characters": "成功",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "成功"
+  },
   "primaryMeaning": "Success",
-  "otherMeanings": [],
-  "primaryReading": "せいこう",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 780,
-      "character": "成",
-      "readings": [
-        "せい",
-        "な"
-      ]
-    },
-    {
-      "id": 806,
-      "character": "功",
-      "readings": [
-        "こう"
-      ]
-    }
-  ],
   "meaningMnemonic": "When you <kanji>become</kanji> <kanji>achievement</kanji>, you have probably gained plenty of <vocabulary>success</vocabulary>.",
+  "primaryReading": "せいこう",
   "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%88%90%E5%8A%9F",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "成",
-      "id": 780,
-      "reading": "せい"
-    },
-    {
-      "type": "kanji",
-      "value": "功",
-      "id": 806,
-      "reading": "こう"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%88%90%E5%8A%9F"
+  }
 }

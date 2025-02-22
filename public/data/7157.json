@@ -1,37 +1,20 @@
 {
   "id": 7157,
   "type": "vocabulary",
-  "characters": "脅し",
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "脅し"
+  },
   "primaryMeaning": "Threat",
+  "meaningMnemonic": "The kanji is <kanji>threat</kanji> and the noun version (here) is <vocabulary>threat</vocabulary> or <vocabulary>a threat</vocabulary>.\n\nCurious about the difference between 脅し and 脅迫? Both involve threats or intimidation, but the key distinction is the level of severity. 脅し is generally associated with milder forms of intimidation and coercion, while 脅迫 entails more direct and serious threats that may even break the law.",
+  "primaryReading": "おどし",
+  "readingMnemonic": "Think about a <vocabulary>threat</vocabulary> being sent to you. It's in the form of bad <reading>odo</reading>r (おど). Yuck, what a nasty way to send a threat.",
   "otherMeanings": [
     "A Threat"
   ],
-  "primaryReading": "おどし",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2035,
-      "character": "脅",
-      "readings": [
-        "きょう",
-        "おど",
-        "おびや"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The kanji is <kanji>threat</kanji> and the noun version (here) is <vocabulary>threat</vocabulary> or <vocabulary>a threat</vocabulary>.\n\nCurious about the difference between 脅し and 脅迫? Both involve threats or intimidation, but the key distinction is the level of severity. 脅し is generally associated with milder forms of intimidation and coercion, while 脅迫 entails more direct and serious threats that may even break the law.",
-  "readingMnemonic": "Think about a <vocabulary>threat</vocabulary> being sent to you. It's in the form of bad <reading>odo</reading>r (おど). Yuck, what a nasty way to send a threat.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%84%85%E3%81%97",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "脅",
-      "id": 2035,
-      "reading": "おど"
-    },
-    {
-      "type": "kana",
-      "value": "し"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%84%85%E3%81%97"
+  }
 }

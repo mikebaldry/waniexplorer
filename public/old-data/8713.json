@@ -1,0 +1,55 @@
+{
+  "id": 8713,
+  "type": "vocabulary",
+  "characters": "有り難う",
+  "primaryMeaning": "Thank You",
+  "otherMeanings": [
+    "Thanks"
+  ],
+  "primaryReading": "ありがとう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 615,
+      "character": "有",
+      "readings": [
+        "ゆう",
+        "う",
+        "あ"
+      ]
+    },
+    {
+      "id": 1095,
+      "character": "難",
+      "readings": [
+        "なん",
+        "むずか"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Some people <kanji>have</kanji> a <kanji>difficult</kanji> time saying <vocabulary>thank you</vocabulary>. But not you now that you know how!\n\nThis is often written in kana, so you don't need to use the kanji when writing. But you'll sometimes see the kanji used so it's important to be able to recognize them! Did you know this is an abbreviation of 有難うございます? You can also spell it like this: 有難う.",
+  "readingMnemonic": "You've heard people say ありがとう before right?!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9C%89%E3%82%8A%E9%9B%A3%E3%81%86",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "有",
+      "id": 615,
+      "reading": "あ"
+    },
+    {
+      "type": "kana",
+      "value": "り"
+    },
+    {
+      "type": "kanji",
+      "value": "難",
+      "id": 1095,
+      "reading": null
+    },
+    {
+      "type": "kana",
+      "value": "う"
+    }
+  ]
+}

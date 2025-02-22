@@ -1,45 +1,20 @@
 {
   "id": 6533,
   "type": "vocabulary",
-  "characters": "仁義",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "仁義"
+  },
   "primaryMeaning": "Humanity And Justice",
+  "meaningMnemonic": "<kanji>Humanity</kanji> and <kanji>righteousness</kanji>. This is your <vocabulary>duty</vocabulary>. This is <vocabulary>humanity and justice</vocabulary>.",
+  "primaryReading": "じんぎ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Duty"
   ],
-  "primaryReading": "じんぎ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1797,
-      "character": "仁",
-      "readings": [
-        "じん",
-        "に"
-      ]
-    },
-    {
-      "id": 1154,
-      "character": "義",
-      "readings": [
-        "ぎ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Humanity</kanji> and <kanji>righteousness</kanji>. This is your <vocabulary>duty</vocabulary>. This is <vocabulary>humanity and justice</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BB%81%E7%BE%A9",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "仁",
-      "id": 1797,
-      "reading": "じん"
-    },
-    {
-      "type": "kanji",
-      "value": "義",
-      "id": 1154,
-      "reading": "ぎ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BB%81%E7%BE%A9"
+  }
 }

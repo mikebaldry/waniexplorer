@@ -1,46 +1,18 @@
 {
   "id": 7655,
   "type": "vocabulary",
-  "characters": "怪物",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "怪物"
+  },
   "primaryMeaning": "Monster",
-  "otherMeanings": [],
-  "primaryReading": "かいぶつ",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1302,
-      "character": "怪",
-      "readings": [
-        "かい",
-        "け",
-        "あや"
-      ]
-    },
-    {
-      "id": 718,
-      "character": "物",
-      "readings": [
-        "ぶつ",
-        "もつ",
-        "もの"
-      ]
-    }
-  ],
   "meaningMnemonic": "If you come across a <kanji>suspicious</kanji> <kanji>thing</kanji> it's probably a <vocabulary>monster</vocabulary>! Run away!",
+  "primaryReading": "かいぶつ",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%80%AA%E7%89%A9",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "怪",
-      "id": 1302,
-      "reading": "かい"
-    },
-    {
-      "type": "kanji",
-      "value": "物",
-      "id": 718,
-      "reading": "ぶつ"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%80%AA%E7%89%A9"
+  }
 }

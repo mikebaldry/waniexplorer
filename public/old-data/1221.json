@@ -1,0 +1,31 @@
+{
+  "id": 1221,
+  "type": "kanji",
+  "character": "輸",
+  "primaryMeaning": "Transport",
+  "otherMeanings": [],
+  "primaryReading": "ゆ",
+  "readings": [
+    {
+      "reading": "ゆ",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Right now you and the Death Star are <kanji>transport</kanji>ing <reading>yu</reading>rts (ゆ). They're the universe's #1 best transportable homes!",
+  "meaningMnemonic": "What does a <radical>car</radical> and the <radical>Death Star</radical> have in common? They're both used to <kanji>transport</kanji> people and things.",
+  "vocabularyIds": [
+    4684,
+    4685,
+    4976,
+    4977,
+    5388,
+    5581,
+    8755
+  ],
+  "radicalIds": [
+    93,
+    8790
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%BC%B8"
+}

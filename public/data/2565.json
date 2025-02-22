@@ -1,45 +1,18 @@
 {
   "id": 2565,
   "type": "vocabulary",
-  "characters": "四千",
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "四千"
+  },
   "primaryMeaning": "Four Thousand",
-  "otherMeanings": [],
-  "primaryReading": "よんせん",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 485,
-      "character": "四",
-      "readings": [
-        "し",
-        "よん",
-        "よ"
-      ]
-    },
-    {
-      "id": 460,
-      "character": "千",
-      "readings": [
-        "せん",
-        "ち"
-      ]
-    }
-  ],
   "meaningMnemonic": "You have four and you have thousand. Multiply them together and you have <vocabulary>four thousand</vocabulary>.",
+  "primaryReading": "よんせん",
   "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. That's true for the 千 part, but the 四 reading is kun'yomi. You should know how to read this word as long as you've been studying your kanji!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%9B%9B%E5%8D%83",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "四",
-      "id": 485,
-      "reading": "よん"
-    },
-    {
-      "type": "kanji",
-      "value": "千",
-      "id": 460,
-      "reading": "せん"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%9B%9B%E5%8D%83"
+  }
 }

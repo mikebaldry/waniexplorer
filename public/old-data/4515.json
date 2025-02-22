@@ -1,0 +1,47 @@
+{
+  "id": 4515,
+  "type": "vocabulary",
+  "characters": "位置",
+  "primaryMeaning": "Position",
+  "otherMeanings": [
+    "Location",
+    "Place"
+  ],
+  "primaryReading": "いち",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 782,
+      "character": "位",
+      "readings": [
+        "い",
+        "くらい"
+      ]
+    },
+    {
+      "id": 1164,
+      "character": "置",
+      "readings": [
+        "ち",
+        "お"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Go ahead and <kanji>put</kanji> a <kanji>rank</kanji> on something. This one is rank #1, so its <vocabulary>position</vocabulary> is up higher. Then you put a rank #67 on something. That one's position is lower.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BD%8D%E7%BD%AE",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "位",
+      "id": 782,
+      "reading": "い"
+    },
+    {
+      "type": "kanji",
+      "value": "置",
+      "id": 1164,
+      "reading": "ち"
+    }
+  ]
+}

@@ -1,37 +1,18 @@
 {
   "id": 2903,
   "type": "vocabulary",
-  "characters": "直る",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "直る"
+  },
   "primaryMeaning": "To Be Fixed",
-  "otherMeanings": [
-    "To Fix"
-  ],
-  "primaryReading": "なおる",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 630,
-      "character": "直",
-      "readings": [
-        "ちょく",
-        "じき",
-        "なお"
-      ]
-    }
-  ],
   "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an <ja>う</ja> sound, you know this word is a verb. The kanji itself means <kanji>fix</kanji>, so the verb <ja>直る</ja> is similar to that: <vocabulary>to be fixed</vocabulary>. \n\n直る is intransitive, so it doesn't take a direct object. In other words: don't use it to say \"I fixed it,\" but do use it to say \"It's fixed!\" Imagine a British person excitedly shouting, \"My loo (る) was broken, but now it's fixed!\"",
+  "primaryReading": "なおる",
   "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you:\n\nYou have to learn the <ja>なお</ja> part. Think of it this way. Something needs <vocabulary>to be fixed</vocabulary>. It's urgent! It has to be fixed <reading>now</reading>! (<ja>なお</ja>).",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%9B%B4%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "直",
-      "id": 630,
-      "reading": "なお"
-    },
-    {
-      "type": "kana",
-      "value": "る"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%9B%B4%E3%82%8B"
+  }
 }

@@ -1,27 +1,35 @@
 {
   "id": 2106,
   "type": "kanji",
-  "character": "亭",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "亭"
+  },
+  "primaryReading": "てい",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "てい",
+      "type": "onyomi"
+    }
+  ],
   "primaryMeaning": "Restaurant",
   "otherMeanings": [
     "Inn",
     "Pavilion"
   ],
-  "primaryReading": "てい",
-  "readings": [
-    {
-      "reading": "てい",
-      "primary": true,
-      "type": "onyomi"
-    }
-  ],
-  "readingMnemonic": "This <kanji>restaurant</kanji> only serves <reading>tater</reading> (てい) tots. Really, would you ever want to go to a restaurant that didn't have tater tots? No.",
   "meaningMnemonic": "The <radical>restaurant</radical> radical and the <kanji>restaurant</kanji> kanji are the same! The meaning of this kanji also extends other resting places, like an <kanji>inn</kanji> or a <kanji>pavilion</kanji>.",
-  "vocabularyIds": [
-    7403
-  ],
-  "radicalIds": [
-    290
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E4%BA%AD"
+  "readingMnemonic": "This <kanji>restaurant</kanji> only serves <reading>tater</reading> (てい) tots. Really, would you ever want to go to a restaurant that didn't have tater tots? No.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E4%BA%AD"
+  },
+  "related": {
+    "radicals": [
+      290
+    ],
+    "vocabularies": [
+      7403
+    ]
+  }
 }

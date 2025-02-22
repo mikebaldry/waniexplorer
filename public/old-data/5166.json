@@ -1,0 +1,47 @@
+{
+  "id": 5166,
+  "type": "vocabulary",
+  "characters": "診断",
+  "primaryMeaning": "Diagnosis",
+  "otherMeanings": [
+    "Diagnose"
+  ],
+  "primaryReading": "しんだん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1390,
+      "character": "診",
+      "readings": [
+        "しん",
+        "み"
+      ]
+    },
+    {
+      "id": 1139,
+      "character": "断",
+      "readings": [
+        "だん",
+        "ことわ",
+        "た"
+      ]
+    }
+  ],
+  "meaningMnemonic": "I'm going to <kanji>cut off</kanji> the part of me that I'm trying to <kanji>diagnose</kanji>... well, not literally cut off, but cut off my diagnosing. I have come to a conclusion. A <vocabulary>diagnosis</vocabulary>!",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A8%BA%E6%96%AD",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "診",
+      "id": 1390,
+      "reading": "しん"
+    },
+    {
+      "type": "kanji",
+      "value": "断",
+      "id": 1139,
+      "reading": "だん"
+    }
+  ]
+}

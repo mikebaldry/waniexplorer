@@ -1,0 +1,32 @@
+{
+  "id": 3746,
+  "type": "vocabulary",
+  "characters": "坂",
+  "primaryMeaning": "Slope",
+  "otherMeanings": [
+    "Hill"
+  ],
+  "primaryReading": "さか",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 938,
+      "character": "坂",
+      "readings": [
+        "さか",
+        "はん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "The reading you learned with the kanji is the same as this one.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%9D%82",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "坂",
+      "id": 938,
+      "reading": "さか"
+    }
+  ]
+}

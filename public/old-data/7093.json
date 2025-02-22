@@ -1,0 +1,46 @@
+{
+  "id": 7093,
+  "type": "vocabulary",
+  "characters": "突如",
+  "primaryMeaning": "Suddenly",
+  "otherMeanings": [
+    "All Of A Sudden"
+  ],
+  "primaryReading": "とつじょ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1304,
+      "character": "突",
+      "readings": [
+        "とつ",
+        "つ"
+      ]
+    },
+    {
+      "id": 1991,
+      "character": "如",
+      "readings": [
+        "じょ",
+        "ごと"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When something bears a <kanji>sudden</kanji> <kanji>likeness</kanji>, we say it happens <vocabulary>suddenly</vocabulary>, or <vocabulary>all of a sudden</vocabulary>.\n\nNote that this word is relatively formal and somewhat literary.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%AA%81%E5%A6%82",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "突",
+      "id": 1304,
+      "reading": "とつ"
+    },
+    {
+      "type": "kanji",
+      "value": "如",
+      "id": 1991,
+      "reading": "じょ"
+    }
+  ]
+}

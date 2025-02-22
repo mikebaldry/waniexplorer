@@ -1,62 +1,22 @@
 {
   "id": 8324,
   "type": "vocabulary",
-  "characters": "歌謡曲",
+  "level": 56,
+  "characters": {
+    "type": "text",
+    "value": "歌謡曲"
+  },
   "primaryMeaning": "Popular Song",
+  "meaningMnemonic": "You already learned that 歌謡 means \"song,\" so when you add <kanji>music</kanji> to that it becomes a super <vocabulary>popular song</vocabulary>. It's not just a song anymore. It's in everything you hear!\n\nMore broadly, this can refer to a whole genre of Japanese pop music from the Showa era. In other words, it refers to <vocabulary>retro J-POP</vocabulary> or <vocabulary>Showa-era pop music</vocabulary>. The word <vocabulary>kayokyoku</vocabulary> is sometimes used for it in English too.",
+  "primaryReading": "かようきょく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Retro J-Pop",
     "Showa-Era Pop Music",
     "Kayokyoku"
   ],
-  "primaryReading": "かようきょく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 761,
-      "character": "歌",
-      "readings": [
-        "か",
-        "うた"
-      ]
-    },
-    {
-      "id": 2245,
-      "character": "謡",
-      "readings": [
-        "よう",
-        "うた"
-      ]
-    },
-    {
-      "id": 614,
-      "character": "曲",
-      "readings": [
-        "きょく",
-        "ま"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You already learned that 歌謡 means \"song,\" so when you add <kanji>music</kanji> to that it becomes a super <vocabulary>popular song</vocabulary>. It's not just a song anymore. It's in everything you hear!\n\nMore broadly, this can refer to a whole genre of Japanese pop music from the Showa era. In other words, it refers to <vocabulary>retro J-POP</vocabulary> or <vocabulary>Showa-era pop music</vocabulary>. The word <vocabulary>kayokyoku</vocabulary> is sometimes used for it in English too.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%AD%8C%E8%AC%A1%E6%9B%B2",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "歌",
-      "id": 761,
-      "reading": "か"
-    },
-    {
-      "type": "kanji",
-      "value": "謡",
-      "id": 2245,
-      "reading": "よう"
-    },
-    {
-      "type": "kanji",
-      "value": "曲",
-      "id": 614,
-      "reading": "きょく"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%AD%8C%E8%AC%A1%E6%9B%B2"
+  }
 }

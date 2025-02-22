@@ -1,0 +1,37 @@
+{
+  "id": 8660,
+  "type": "vocabulary",
+  "characters": "出かける",
+  "primaryMeaning": "To Go Out",
+  "otherMeanings": [
+    "To Leave"
+  ],
+  "primaryReading": "でかける",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 483,
+      "character": "出",
+      "readings": [
+        "しゅつ",
+        "で",
+        "だ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You <kanji>exit</kanji> but you do it with かける added to it. Just think of that かける as you are exiting while being \"cocky\" about it. You do this when you want <vocabulary>to go out</vocabulary> or <vocabulary>to leave</vocabulary>. You go out in a cocky way!\n\nThis word can only be used for a person going out. You can't say a train 出かける'd.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You learned this reading when you learned 出る, so if you can remember that, you should be able to remember this one too!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%87%BA%E3%81%8B%E3%81%91%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "出",
+      "id": 483,
+      "reading": "で"
+    },
+    {
+      "type": "kana",
+      "value": "かける"
+    }
+  ]
+}

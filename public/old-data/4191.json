@@ -1,0 +1,32 @@
+{
+  "id": 4191,
+  "type": "vocabulary",
+  "characters": "布",
+  "primaryMeaning": "Cloth",
+  "otherMeanings": [
+    "Fabric"
+  ],
+  "primaryReading": "ぬの",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1062,
+      "character": "布",
+      "readings": [
+        "ふ",
+        "ぬの"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "Since this word is made up of a single kanji, it should use the kun'yomi reading. When learning the kanji, you didn't learn that reading, so here's a mnemonic to help you with this word: You take your <kanji>cloth</kanji> and put it on top of your head. It's there because right at <reading>noon</reading> (ぬの) the sun is in the middle of the sky and burns your scalp. So, you cover it with a cloth. Imagine yourself setting an alarm for noon to help you to focus on the noon part.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B8%83",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "布",
+      "id": 1062,
+      "reading": "ぬの"
+    }
+  ]
+}

@@ -1,39 +1,22 @@
 {
   "id": 3288,
   "type": "vocabulary",
-  "characters": "指す",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "指す"
+  },
   "primaryMeaning": "To Point",
+  "meaningMnemonic": "The kanji means <kanji>finger</kanji>. So, if you \"to finger\" something, what are you doing? You're pointing. That's why this word means <vocabulary>to point</vocabulary>.",
+  "primaryReading": "さす",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you:\n\nYou are pointing at something in fear. It is a <reading>saw</reading> (さ). Thing is, you're pointing at this saw with a missing finger. It just cut off your finger and you're freaking out, trying to point with a bloody non-finger.",
   "otherMeanings": [
     "To Point At",
     "To Indicate",
     "To Refer To"
   ],
-  "primaryReading": "さす",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 797,
-      "character": "指",
-      "readings": [
-        "し",
-        "ゆび",
-        "さ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The kanji means <kanji>finger</kanji>. So, if you \"to finger\" something, what are you doing? You're pointing. That's why this word means <vocabulary>to point</vocabulary>.",
-  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you:\n\nYou are pointing at something in fear. It is a <reading>saw</reading> (さ). Thing is, you're pointing at this saw with a missing finger. It just cut off your finger and you're freaking out, trying to point with a bloody non-finger.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8C%87%E3%81%99",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "指",
-      "id": 797,
-      "reading": "さ"
-    },
-    {
-      "type": "kana",
-      "value": "す"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%8C%87%E3%81%99"
+  }
 }

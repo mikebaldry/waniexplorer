@@ -1,0 +1,36 @@
+{
+  "id": 2331,
+  "type": "kanji",
+  "character": "鼓",
+  "primaryMeaning": "Drum",
+  "otherMeanings": [
+    "Beat"
+  ],
+  "primaryReading": "こ",
+  "readings": [
+    {
+      "reading": "こ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "つづみ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Who loves to <kanji>drum</kanji> things together and make a huge racket? <reading>子</reading>s (こ), of course.",
+  "meaningMnemonic": "You take a <radical>drum</radical> and a <radical>branch</radical> and... well, what else would you do? You would <kanji>drum</kanji> or <kanji>beat</kanji> them together.",
+  "vocabularyIds": [
+    8429,
+    8430,
+    8431,
+    8432,
+    8433
+  ],
+  "radicalIds": [
+    421,
+    81
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%BC%93"
+}

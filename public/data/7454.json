@@ -1,32 +1,21 @@
 {
   "id": 7454,
   "type": "vocabulary",
-  "characters": "〜枚",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "〜枚"
+  },
   "primaryMeaning": "Flat Object Counter",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well, so this is <vocabulary>flat object counter</vocabulary>.\n\nThis counter can be used with various \"flat\" things, such as <vocabulary>clothing items</vocabulary>, <vocabulary>sheets</vocabulary>, paper, stamps, dishes, and more. Notice how they're all kind of flat shaped?",
+  "primaryReading": "まい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Clothing Items",
     "Sheets"
   ],
-  "primaryReading": "まい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1051,
-      "character": "枚",
-      "readings": [
-        "まい"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well, so this is <vocabulary>flat object counter</vocabulary>.\n\nThis counter can be used with various \"flat\" things, such as <vocabulary>clothing items</vocabulary>, <vocabulary>sheets</vocabulary>, paper, stamps, dishes, and more. Notice how they're all kind of flat shaped?",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E3%80%9C%E6%9E%9A",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "枚",
-      "id": 1051,
-      "reading": "まい"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E3%80%9C%E6%9E%9A"
+  }
 }

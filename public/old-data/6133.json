@@ -1,0 +1,47 @@
+{
+  "id": 6133,
+  "type": "vocabulary",
+  "characters": "掲載",
+  "primaryMeaning": "Publication",
+  "otherMeanings": [
+    "Print",
+    "Post"
+  ],
+  "primaryReading": "けいさい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1672,
+      "character": "掲",
+      "readings": [
+        "けい",
+        "かか"
+      ]
+    },
+    {
+      "id": 1230,
+      "character": "載",
+      "readings": [
+        "さい",
+        "の"
+      ]
+    }
+  ],
+  "meaningMnemonic": "To <kanji>display</kanji> your writing so it's <kanji>put on</kanji> public record, it needs to go into <vocabulary>publication</vocabulary>. You're getting it <vocabulary>print</vocabulary>ed in a magazine, newspaper, etc., and this can refer to Internet publications as well. ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8E%B2%E8%BC%89",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "掲",
+      "id": 1672,
+      "reading": "けい"
+    },
+    {
+      "type": "kanji",
+      "value": "載",
+      "id": 1230,
+      "reading": "さい"
+    }
+  ]
+}

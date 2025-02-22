@@ -1,37 +1,45 @@
 {
   "id": 495,
   "type": "kanji",
-  "character": "万",
-  "primaryMeaning": "Ten Thousand",
-  "otherMeanings": [],
+  "level": 3,
+  "characters": {
+    "type": "text",
+    "value": "万"
+  },
   "primaryReading": "まん",
   "readings": [
     {
-      "reading": "まん",
       "primary": true,
+      "reading": "まん",
       "type": "onyomi"
     },
     {
-      "reading": "ばん",
       "primary": false,
+      "reading": "ばん",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "Now that you have <kanji>ten thousand</kanji> pieces of tiny leaf paper, you decide to turn them into a <reading>man</reading>ga (まん)! Each little leaf piece will become a panel.",
+  "primaryMeaning": "Ten Thousand",
+  "otherMeanings": [],
   "meaningMnemonic": "You cut the <radical>leaf</radical> with your <radical>sword</radical> into <kanji>ten thousand</kanji> pieces!",
-  "vocabularyIds": [
-    2588,
-    2589,
-    2590,
-    2680,
-    6993,
-    7462,
-    7519,
-    7768
-  ],
-  "radicalIds": [
-    8763,
-    24
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E4%B8%87"
+  "readingMnemonic": "Now that you have <kanji>ten thousand</kanji> pieces of tiny leaf paper, you decide to turn them into a <reading>man</reading>ga (まん)! Each little leaf piece will become a panel.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E4%B8%87"
+  },
+  "related": {
+    "radicals": [
+      8763,
+      24
+    ],
+    "vocabularies": [
+      2588,
+      2589,
+      2590,
+      2680,
+      6993,
+      7462,
+      7519,
+      7768
+    ]
+  }
 }

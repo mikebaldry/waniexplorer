@@ -1,0 +1,42 @@
+{
+  "id": 779,
+  "type": "kanji",
+  "character": "好",
+  "primaryMeaning": "Like",
+  "otherMeanings": [],
+  "primaryReading": "こう",
+  "readings": [
+    {
+      "reading": "こう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "す",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "この",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "\"I <kanji>like</kanji> you two,\" you say to the woman and child. They both turn their heads 180 degrees back towards you. They both have faces that look just like <reading>こう</reading>いち's. \"We like you too,\" they say in unison.",
+  "meaningMnemonic": "There is a <radical>woman</radical> and a <radical>child</radical> in front of you. You <kanji>like</kanji> them very much.",
+  "vocabularyIds": [
+    3250,
+    3251,
+    3515,
+    3575,
+    3581,
+    3702,
+    3897,
+    5305
+  ],
+  "radicalIds": [
+    19,
+    34
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%A5%BD"
+}

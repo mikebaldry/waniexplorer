@@ -1,0 +1,48 @@
+{
+  "id": 8561,
+  "type": "vocabulary",
+  "characters": "親睦",
+  "primaryMeaning": "Friendship",
+  "otherMeanings": [
+    "Amity"
+  ],
+  "primaryReading": "しんぼく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 770,
+      "character": "親",
+      "readings": [
+        "しん",
+        "おや",
+        "した"
+      ]
+    },
+    {
+      "id": 2417,
+      "character": "睦",
+      "readings": [
+        "ぼく",
+        "もく",
+        "むつ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If a <kanji>parent</kanji> is <kanji>friendly</kanji> enough you can form a <vocabulary>friendship</vocabulary> with them, not just a kid/parent bond.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A6%AA%E7%9D%A6",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "親",
+      "id": 770,
+      "reading": "しん"
+    },
+    {
+      "type": "kanji",
+      "value": "睦",
+      "id": 2417,
+      "reading": "ぼく"
+    }
+  ]
+}

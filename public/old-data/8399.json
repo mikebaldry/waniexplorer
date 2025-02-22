@@ -1,0 +1,45 @@
+{
+  "id": 8399,
+  "type": "vocabulary",
+  "characters": "胃腸",
+  "primaryMeaning": "Stomach",
+  "otherMeanings": [
+    "Gastrointestine"
+  ],
+  "primaryReading": "いちょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1316,
+      "character": "胃",
+      "readings": [
+        "い"
+      ]
+    },
+    {
+      "id": 2333,
+      "character": "腸",
+      "readings": [
+        "ちょう",
+        "はらわた"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Intestines</kanji> and <kanji>stomach</kanji> make up the <vocabulary>stomach</vocabulary> in your body. ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%83%83%E8%85%B8",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "胃",
+      "id": 1316,
+      "reading": "い"
+    },
+    {
+      "type": "kanji",
+      "value": "腸",
+      "id": 2333,
+      "reading": "ちょう"
+    }
+  ]
+}

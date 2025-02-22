@@ -1,81 +1,18 @@
 {
   "id": 5731,
   "type": "vocabulary",
-  "characters": "飛び込み自殺",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "飛び込み自殺"
+  },
   "primaryMeaning": "Suicide By Train",
-  "otherMeanings": [],
-  "primaryReading": "とびこみじさつ",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1092,
-      "character": "飛",
-      "readings": [
-        "ひ",
-        "と"
-      ]
-    },
-    {
-      "id": 1504,
-      "character": "込",
-      "readings": [
-        "こ"
-      ]
-    },
-    {
-      "id": 578,
-      "character": "自",
-      "readings": [
-        "じ",
-        "し",
-        "みずか"
-      ]
-    },
-    {
-      "id": 880,
-      "character": "殺",
-      "readings": [
-        "さつ",
-        "さい",
-        "ころ"
-      ]
-    }
-  ],
   "meaningMnemonic": "To <kanji>fly</kanji> <kanji>into</kanji> something and \"commit suicide\" (自殺) is <vocabulary>suicide by train</vocabulary>. Unfortunately, this is a term you should probably be familiar with because it comes up from time to time on the news and around train stations. (Hopefully someday it will no longer be a term you need to know and we can remove it forever.)",
+  "primaryReading": "とびこみじさつ",
   "readingMnemonic": "The readings come from 飛ぶ, 込, and 自殺. Combine them together to read this entire word.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%A3%9B%E3%81%B3%E8%BE%BC%E3%81%BF%E8%87%AA%E6%AE%BA-5731",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "飛",
-      "id": 1092,
-      "reading": "と"
-    },
-    {
-      "type": "kana",
-      "value": "び"
-    },
-    {
-      "type": "kanji",
-      "value": "込",
-      "id": 1504,
-      "reading": "こ"
-    },
-    {
-      "type": "kana",
-      "value": "み"
-    },
-    {
-      "type": "kanji",
-      "value": "自",
-      "id": 578,
-      "reading": "じ"
-    },
-    {
-      "type": "kanji",
-      "value": "殺",
-      "id": 880,
-      "reading": "さつ"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%A3%9B%E3%81%B3%E8%BE%BC%E3%81%BF%E8%87%AA%E6%AE%BA-5731"
+  }
 }

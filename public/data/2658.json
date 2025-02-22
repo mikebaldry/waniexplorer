@@ -1,50 +1,23 @@
 {
   "id": 2658,
   "type": "vocabulary",
-  "characters": "太字",
+  "level": 3,
+  "characters": {
+    "type": "text",
+    "value": "太字"
+  },
   "primaryMeaning": "Bold Letter",
+  "meaningMnemonic": "What do you think a <kanji>fat</kanji> <kanji>letter</kanji> is? If I were to guess, I'd say a <vocabulary>bold letter</vocabulary>.",
+  "primaryReading": "ふとじ",
+  "readingMnemonic": "The reading for this one is a bit odd. The 太 uses the ふと from ふとい (kun'yomi) and the 字 is just the normal on'yomi reading for \"letter.\" You have to remember this weird mismatched reading pair on your own, I'm afraid. Perhaps if you think about how fat letters don't really fit with the rest of the text, kind of like how the readings of both kanji also don't fit in it will help?",
   "otherMeanings": [
     "Bold",
     "Bold Character",
     "Bold Text",
     "Boldface"
   ],
-  "primaryReading": "ふとじ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 505,
-      "character": "太",
-      "readings": [
-        "たい",
-        "た",
-        "ふと",
-        "おお"
-      ]
-    },
-    {
-      "id": 545,
-      "character": "字",
-      "readings": [
-        "じ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "What do you think a <kanji>fat</kanji> <kanji>letter</kanji> is? If I were to guess, I'd say a <vocabulary>bold letter</vocabulary>.",
-  "readingMnemonic": "The reading for this one is a bit odd. The 太 uses the ふと from ふとい (kun'yomi) and the 字 is just the normal on'yomi reading for \"letter.\" You have to remember this weird mismatched reading pair on your own, I'm afraid. Perhaps if you think about how fat letters don't really fit with the rest of the text, kind of like how the readings of both kanji also don't fit in it will help?",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A4%AA%E5%AD%97",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "太",
-      "id": 505,
-      "reading": "ふと"
-    },
-    {
-      "type": "kanji",
-      "value": "字",
-      "id": 545,
-      "reading": "じ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A4%AA%E5%AD%97"
+  }
 }

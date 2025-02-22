@@ -1,0 +1,56 @@
+{
+  "id": 2286,
+  "type": "kanji",
+  "character": "旦",
+  "primaryMeaning": "Dawn",
+  "otherMeanings": [],
+  "primaryReading": "たん",
+  "readings": [
+    {
+      "reading": "たん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "だん",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "あきら",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "あき",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "あさ",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "あした",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "ただし",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "<kanji>Dawn</kanji> is <reading>dawn</reading> (だん)! It's also a great time to get a <reading>tan</reading> (たん). The sun is bright at dawn, but not so much that it will send skin cancer rays into you.",
+  "meaningMnemonic": "The <radical>dawn</radical> radical and the <kanji>dawn</kanji> kanji are the same!",
+  "vocabularyIds": [
+    8214,
+    8215,
+    8242
+  ],
+  "radicalIds": [
+    293
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%97%A6"
+}

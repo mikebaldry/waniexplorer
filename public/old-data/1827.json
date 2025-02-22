@@ -1,0 +1,40 @@
+{
+  "id": 1827,
+  "type": "kanji",
+  "character": "焦",
+  "primaryMeaning": "Char",
+  "otherMeanings": [],
+  "primaryReading": "しょう",
+  "readings": [
+    {
+      "reading": "しょう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "こ",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "あせ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You're staring sadly at the <kanji>char</kanji>red turkey when you suddenly sense the <reading>Shou</reading>gun (しょう) looming behind you. You were supposed to be cooking this turkey for him and now he looks really, really mad.",
+  "meaningMnemonic": "You take a <radical>turkey</radical> and try to <radical>boil</radical> it but you <kanji>char</kanji> it instead. That's what happens when you throw meat into a pot on high with no water in there.",
+  "vocabularyIds": [
+    6622,
+    6623,
+    6765,
+    6766,
+    6963,
+    7810
+  ],
+  "radicalIds": [
+    240,
+    131
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%84%A6"
+}

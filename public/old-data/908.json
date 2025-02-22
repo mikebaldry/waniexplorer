@@ -1,0 +1,40 @@
+{
+  "id": 908,
+  "type": "kanji",
+  "character": "望",
+  "primaryMeaning": "Hope",
+  "otherMeanings": [],
+  "primaryReading": "ぼう",
+  "readings": [
+    {
+      "reading": "ぼう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "のぞ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "The name A New <kanji>Hope</kanji>, as we all know, comes from the ending where the moon king's son sends a <reading>bow</reading>ling (ぼう) ball into that little opening and knocks it out of the sky.",
+  "meaningMnemonic": "Causing <radical>death</radical> at every turn, the <radical>moon</radical> <radical>king</radical> sits inside his moon, getting ready to cause death on anything in his sights. Sounds a lot like the Death Star from a certain movie. One of which is \"Star Wars: A New <kanji>Hope</kanji>.\"",
+  "vocabularyIds": [
+    3687,
+    3688,
+    3689,
+    3690,
+    3919,
+    3920,
+    5191,
+    5523,
+    6893,
+    8889
+  ],
+  "radicalIds": [
+    212,
+    43,
+    48
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%9C%9B"
+}

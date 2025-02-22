@@ -1,25 +1,33 @@
 {
   "id": 2407,
   "type": "kanji",
-  "character": "吟",
-  "primaryMeaning": "Recital",
-  "otherMeanings": [],
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "吟"
+  },
   "primaryReading": "ぎん",
   "readings": [
     {
-      "reading": "ぎん",
       "primary": true,
+      "reading": "ぎん",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "Here, if you are too afraid to start the <kanji>recital</kanji> now drink this <reading>gin</reading> (ぎん) to get your courage up. But once you're done drinking it the recital starts!",
+  "primaryMeaning": "Recital",
+  "otherMeanings": [],
   "meaningMnemonic": "We want you to say things with your <radical>mouth</radical> right <radical>now</radical> because it's <kanji>recital</kanji> time! Go, perform please. What do you mean you didn't know the recital was right now? Well, tough luck. Recite!",
-  "vocabularyIds": [
-    8526
-  ],
-  "radicalIds": [
-    16,
-    238
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%90%9F"
+  "readingMnemonic": "Here, if you are too afraid to start the <kanji>recital</kanji> now drink this <reading>gin</reading> (ぎん) to get your courage up. But once you're done drinking it the recital starts!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%90%9F"
+  },
+  "related": {
+    "radicals": [
+      16,
+      238
+    ],
+    "vocabularies": [
+      8526
+    ]
+  }
 }

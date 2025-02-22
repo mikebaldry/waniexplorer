@@ -1,0 +1,48 @@
+{
+  "id": 3948,
+  "type": "vocabulary",
+  "characters": "曜日",
+  "primaryMeaning": "Day Of The Week",
+  "otherMeanings": [
+    "Weekday"
+  ],
+  "primaryReading": "ようび",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 961,
+      "character": "曜",
+      "readings": [
+        "よう"
+      ]
+    },
+    {
+      "id": 476,
+      "character": "日",
+      "readings": [
+        "にち",
+        "じつ",
+        "ひ",
+        "か",
+        "び"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>weekday</kanji> <kanji>day</kanji> is the <vocabulary>day of the week</vocabulary>, as in \"Monday\" or \"Tuesday.\" You'll be learning those on level 18, but first you should learn 曜日 to get you prepared.",
+  "readingMnemonic": "This word uses the on'yomi reading for 曜 and the kun'yomi reading for 日. You've learned both of these already, but be careful because ひ of 日 changes to び here.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9B%9C%E6%97%A5",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "曜",
+      "id": 961,
+      "reading": "よう"
+    },
+    {
+      "type": "kanji",
+      "value": "日",
+      "id": 476,
+      "reading": "び"
+    }
+  ]
+}

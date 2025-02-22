@@ -1,0 +1,35 @@
+{
+  "id": 460,
+  "type": "kanji",
+  "character": "千",
+  "primaryMeaning": "Thousand",
+  "otherMeanings": [],
+  "primaryReading": "せん",
+  "readings": [
+    {
+      "reading": "せん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ち",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Remember the thousand crosses you got stuck under while learning the radical 千? You're still under it. Then, suddenly, someone pops his head over you and says \"Hey, I'll save you... but only for a <kanji>thousand</kanji> <reading>cents</reading> (せん). Go ahead and try to calculate what that would come out to. It's not that expensive, actually.",
+  "meaningMnemonic": "This kanji looks like and means the same thing as the radical, which makes it particularly easy to remember.",
+  "vocabularyIds": [
+    2509,
+    2510,
+    2533,
+    2565,
+    2780,
+    2933,
+    7534
+  ],
+  "radicalIds": [
+    32
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%8D%83"
+}

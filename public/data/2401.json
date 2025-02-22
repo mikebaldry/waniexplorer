@@ -1,32 +1,40 @@
 {
   "id": 2401,
   "type": "kanji",
-  "character": "拙",
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "拙"
+  },
+  "primaryReading": "せつ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "せつ",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "つたな",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Clumsy",
   "otherMeanings": [
     "Unskillful"
   ],
-  "primaryReading": "せつ",
-  "readings": [
-    {
-      "reading": "せつ",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "つたな",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "After you make your <kanji>clumsy</kanji> mistake you realize that these doors come in <reading>sets</reading> (せつ). And now you have to try to open another door. And another door. So many sets of doors!",
   "meaningMnemonic": "You have to use your <radical>fingers</radical> to make an <radical>exit</radical> because you're so <kanji>clumsy</kanji>. You can't seem to get the door to open, your hands just slip around on the knob uselessly. Instead, you take your fingers and stick them into the door frame, pulling the whole thing off the hinges so you can leave.",
-  "vocabularyIds": [
-    8542
-  ],
-  "radicalIds": [
-    63,
-    332
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%8B%99"
+  "readingMnemonic": "After you make your <kanji>clumsy</kanji> mistake you realize that these doors come in <reading>sets</reading> (せつ). And now you have to try to open another door. And another door. So many sets of doors!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%8B%99"
+  },
+  "related": {
+    "radicals": [
+      63,
+      332
+    ],
+    "vocabularies": [
+      8542
+    ]
+  }
 }

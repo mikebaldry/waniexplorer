@@ -1,47 +1,20 @@
 {
   "id": 6421,
   "type": "vocabulary",
-  "characters": "獲得",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "獲得"
+  },
   "primaryMeaning": "Acquisition",
+  "meaningMnemonic": "If you <kanji>seize</kanji> and <kanji>acquire</kanji> you're making an <vocabulary>acquisition</vocabulary> or <vocabulary>possession</vocabulary> of something.",
+  "primaryReading": "かくとく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Possession"
   ],
-  "primaryReading": "かくとく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1762,
-      "character": "獲",
-      "readings": [
-        "かく",
-        "え"
-      ]
-    },
-    {
-      "id": 1081,
-      "character": "得",
-      "readings": [
-        "とく",
-        "え",
-        "う"
-      ]
-    }
-  ],
-  "meaningMnemonic": "If you <kanji>seize</kanji> and <kanji>acquire</kanji> you're making an <vocabulary>acquisition</vocabulary> or <vocabulary>possession</vocabulary> of something.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%8D%B2%E5%BE%97",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "獲",
-      "id": 1762,
-      "reading": "かく"
-    },
-    {
-      "type": "kanji",
-      "value": "得",
-      "id": 1081,
-      "reading": "とく"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%8D%B2%E5%BE%97"
+  }
 }

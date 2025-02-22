@@ -1,36 +1,20 @@
 {
   "id": 4047,
   "type": "vocabulary",
-  "characters": "鼻くそ",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "鼻くそ"
+  },
   "primaryMeaning": "Snot",
+  "meaningMnemonic": "Maybe you didn't know this, but if you're like everyone else learning a new language, you learn the cuss words first. くそ is sh*t / garbage, though it's not really a \"bad\" word in Japanese like it is in English. So, what is your <kanji>nose</kanji> sh*t? It's your <vocabulary>snot</vocabulary> and <vocabulary>boogers</vocabulary>. Ewwww, stop eating them!",
+  "primaryReading": "はなくそ",
+  "readingMnemonic": "The reading is just like what you learned with the kanji. <reading>はな</reading>くそ.",
   "otherMeanings": [
     "Boogers"
   ],
-  "primaryReading": "はなくそ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 998,
-      "character": "鼻",
-      "readings": [
-        "はな",
-        "び"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Maybe you didn't know this, but if you're like everyone else learning a new language, you learn the cuss words first. くそ is sh*t / garbage, though it's not really a \"bad\" word in Japanese like it is in English. So, what is your <kanji>nose</kanji> sh*t? It's your <vocabulary>snot</vocabulary> and <vocabulary>boogers</vocabulary>. Ewwww, stop eating them!",
-  "readingMnemonic": "The reading is just like what you learned with the kanji. <reading>はな</reading>くそ.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%BC%BB%E3%81%8F%E3%81%9D",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "鼻",
-      "id": 998,
-      "reading": "はな"
-    },
-    {
-      "type": "kana",
-      "value": "くそ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%BC%BB%E3%81%8F%E3%81%9D"
+  }
 }

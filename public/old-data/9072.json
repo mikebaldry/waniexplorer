@@ -1,0 +1,37 @@
+{
+  "id": 9072,
+  "type": "vocabulary",
+  "characters": "任せる",
+  "primaryMeaning": "To Entrust Something",
+  "otherMeanings": [
+    "To Delegate Something",
+    "To Leave Something To"
+  ],
+  "primaryReading": "まかせる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1142,
+      "character": "任",
+      "readings": [
+        "にん",
+        "まか"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you pass a <kanji>duty</kanji> on to someone, that means you're going <vocabulary>to entrust something</vocabulary> to that person, or you're going <vocabulary>to delegate something</vocabulary>. In other words, you're going <vocabulary>to leave something to</vocabulary> them, so that they do it for you.",
+  "readingMnemonic": "This word uses the kun'yomi of the kanji. You haven't learned that reading yet, so here's a mnemonic to help you:\n\nIn order <vocabulary>to entrust something</vocabulary> to someone, you need to <reading>make a</reading> (まか) list. It's no good delegating tasks if the person has no idea what to do, so be sure to make a list, okay?",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BB%BB%E3%81%9B%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "任",
+      "id": 1142,
+      "reading": "まか"
+    },
+    {
+      "type": "kana",
+      "value": "せる"
+    }
+  ]
+}

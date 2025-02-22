@@ -1,60 +1,20 @@
 {
   "id": 6300,
   "type": "vocabulary",
-  "characters": "南極圏",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "南極圏"
+  },
   "primaryMeaning": "Antarctic Circle",
+  "meaningMnemonic": "If 南極 is <kanji>Antarctica</kanji>, then the Antarctica <kanji>Range</kanji> is the area that makes up Antarctica. That's the <vocabulary>Antarctic Circle</vocabulary>.",
+  "primaryReading": "なんきょくけん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Antarctica"
   ],
-  "primaryReading": "なんきょくけん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 634,
-      "character": "南",
-      "readings": [
-        "なん",
-        "みなみ"
-      ]
-    },
-    {
-      "id": 1340,
-      "character": "極",
-      "readings": [
-        "きょく",
-        "ごく",
-        "きわ"
-      ]
-    },
-    {
-      "id": 1724,
-      "character": "圏",
-      "readings": [
-        "けん"
-      ]
-    }
-  ],
-  "meaningMnemonic": "If 南極 is <kanji>Antarctica</kanji>, then the Antarctica <kanji>Range</kanji> is the area that makes up Antarctica. That's the <vocabulary>Antarctic Circle</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8D%97%E6%A5%B5%E5%9C%8F",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "南",
-      "id": 634,
-      "reading": "なん"
-    },
-    {
-      "type": "kanji",
-      "value": "極",
-      "id": 1340,
-      "reading": "きょく"
-    },
-    {
-      "type": "kanji",
-      "value": "圏",
-      "id": 1724,
-      "reading": "けん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%8D%97%E6%A5%B5%E5%9C%8F"
+  }
 }

@@ -1,12 +1,15 @@
 {
   "id": 14,
   "type": "radical",
-  "primaryMeaning": "Prison",
-  "otherMeanings": [],
-  "character": {
+  "level": 1,
+  "characters": {
     "type": "text",
     "value": "勹"
   },
-  "meaningMnemonic": "This looks like an enclosure of sorts - that's why it's a <radical>prison</radical>. It wraps itself around things and locks them in there. Prisons are pretty scary, even before you imagine one slowly floating down from the sky to trap you.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/prison"
+  "primaryMeaning": "Prison",
+  "otherMeanings": [],
+  "meaningMnemonic": "This looks like an enclosure of sorts — that's why it's a <radical>prison</radical>. Imagine a tiny prisoner curled up inside, staring off into space, completely convinced they're trapped forever. Ironically this prison is actually wide open. They're just so consumed with self-pity that they haven't realized they've been free to leave all along.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/prison"
+  }
 }

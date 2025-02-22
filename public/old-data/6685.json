@@ -1,0 +1,32 @@
+{
+  "id": 6685,
+  "type": "vocabulary",
+  "characters": "潮",
+  "primaryMeaning": "Tide",
+  "otherMeanings": [
+    "Current"
+  ],
+  "primaryReading": "しお",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1849,
+      "character": "潮",
+      "readings": [
+        "ちょう",
+        "しお"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You did not learn this reading, so here's a mnemonic to help you to remember: If you think of the tide, you think of the ocean. If you think of the ocean and what it's filled with (besides water) you think of <reading>salt</reading> (しお).",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%BD%AE",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "潮",
+      "id": 1849,
+      "reading": "しお"
+    }
+  ]
+}

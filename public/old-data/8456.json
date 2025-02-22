@@ -1,0 +1,62 @@
+{
+  "id": 8456,
+  "type": "vocabulary",
+  "characters": "一周忌",
+  "primaryMeaning": "First Anniversary Of Death",
+  "otherMeanings": [
+    "First Death Anniversary"
+  ],
+  "primaryReading": "いっしゅうき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 440,
+      "character": "一",
+      "readings": [
+        "いち",
+        "いつ",
+        "ひと",
+        "かず"
+      ]
+    },
+    {
+      "id": 900,
+      "character": "周",
+      "readings": [
+        "しゅう",
+        "まわ"
+      ]
+    },
+    {
+      "id": 2371,
+      "character": "忌",
+      "readings": [
+        "き",
+        "い"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Remember how you learned that 一周 means \"one time around?\" Well if you're <kanji>mourning</kanji> one time like this a year, then it's because it's the <vocabulary>first anniversary of death</vocabulary> for a family member. Maybe it was the death of your mom, your grandad or your goldfish, this is the first year since they died. ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%80%E5%91%A8%E5%BF%8C",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "一",
+      "id": 440,
+      "reading": "いっ"
+    },
+    {
+      "type": "kanji",
+      "value": "周",
+      "id": 900,
+      "reading": "しゅう"
+    },
+    {
+      "type": "kanji",
+      "value": "忌",
+      "id": 2371,
+      "reading": "き"
+    }
+  ]
+}

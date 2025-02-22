@@ -1,0 +1,44 @@
+{
+  "id": 7070,
+  "type": "vocabulary",
+  "characters": "朝霧",
+  "primaryMeaning": "Morning Fog",
+  "otherMeanings": [],
+  "primaryReading": "あさぎり",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 695,
+      "character": "朝",
+      "readings": [
+        "あさ",
+        "ちょう"
+      ]
+    },
+    {
+      "id": 1982,
+      "character": "霧",
+      "readings": [
+        "きり",
+        "む"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Morning</kanji> <kanji>fog</kanji> is <vocabulary>morning fog</vocabulary>, because it's fog in the morning. This is the best kind of fog, I think.",
+  "readingMnemonic": "The reading is the readings you learned with both kanji. Be careful of the rendaku.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9C%9D%E9%9C%A7",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "朝",
+      "id": 695,
+      "reading": "あさ"
+    },
+    {
+      "type": "kanji",
+      "value": "霧",
+      "id": 1982,
+      "reading": "ぎり"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 5317,
+  "type": "vocabulary",
+  "characters": "撮る",
+  "primaryMeaning": "To Take A Picture",
+  "otherMeanings": [
+    "To Take A Video"
+  ],
+  "primaryReading": "とる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1441,
+      "character": "撮",
+      "readings": [
+        "さつ",
+        "と"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>photograph</kanji>. When you make that into a verb, it becomes <vocabulary>to take a picture</vocabulary>. It can also mean <vocabulary>to take a video</vocabulary>. Basically, it's for any form of shooting you do with a camera!",
+  "readingMnemonic": "<vocabulary>To take a picture</vocabulary>, <vocabulary>to take a video</vocabulary>… You \"take\" all these things. And how do you say \"to take\" in Japanese? It's <reading>取る</reading> (とる), which happens to share a reading with this word. Different kanji but related meanings, and exactly the same reading!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%92%AE%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "撮",
+      "id": 1441,
+      "reading": "と"
+    },
+    {
+      "type": "kana",
+      "value": "る"
+    }
+  ]
+}

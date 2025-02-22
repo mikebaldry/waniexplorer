@@ -1,0 +1,50 @@
+{
+  "id": 4753,
+  "type": "vocabulary",
+  "characters": "子供",
+  "primaryMeaning": "Child",
+  "otherMeanings": [
+    "Kid",
+    "Children",
+    "Kids"
+  ],
+  "primaryReading": "こども",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 462,
+      "character": "子",
+      "readings": [
+        "し",
+        "す",
+        "こ"
+      ]
+    },
+    {
+      "id": 1244,
+      "character": "供",
+      "readings": [
+        "きょう",
+        "とも",
+        "そな"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>child</kanji> <kanji>servant</kanji> is a <vocabulary>child</vocabulary>. Children are basically like little servants anyways, what else are they good for?",
+  "readingMnemonic": "The readings for this one are the kun'yomi readings of each kanji. 子 is こ, like the individual vocab word. 供 is ども, however. Remember this by thinking how much <vocabulary>children</vocabulary> love <reading>domo</reading>-kun (ども).\n\nAlso, 子ども is kind of more \"politically correct\" with the kana hanging off there. 子供 is still used in a lot of situations, usually stiff ones. The second kanji means servant, and some people don't like that. The second version pops up a decent amount, so it's good to be familiar with that as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AD%90%E4%BE%9B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "子",
+      "id": 462,
+      "reading": "こ"
+    },
+    {
+      "type": "kanji",
+      "value": "供",
+      "id": 1244,
+      "reading": "ども"
+    }
+  ]
+}

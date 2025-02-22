@@ -1,0 +1,49 @@
+{
+  "id": 4311,
+  "type": "vocabulary",
+  "characters": "正確",
+  "primaryMeaning": "Accurate",
+  "otherMeanings": [
+    "Precise",
+    "Exact"
+  ],
+  "primaryReading": "せいかく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 488,
+      "character": "正",
+      "readings": [
+        "せい",
+        "しょう",
+        "ただ",
+        "まさ"
+      ]
+    },
+    {
+      "id": 1103,
+      "character": "確",
+      "readings": [
+        "かく",
+        "たし"
+      ]
+    }
+  ],
+  "meaningMnemonic": "It is <kanji>correct</kanji> and you're <kanji>certain</kanji> of it. When you've done this much checking and you're this sure, your measurements must be very <vocabulary>accurate</vocabulary> and <vocabulary>precise</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%AD%A3%E7%A2%BA",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "正",
+      "id": 488,
+      "reading": "せい"
+    },
+    {
+      "type": "kanji",
+      "value": "確",
+      "id": 1103,
+      "reading": "かく"
+    }
+  ]
+}

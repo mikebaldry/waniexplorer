@@ -1,35 +1,43 @@
 {
   "id": 1674,
   "type": "kanji",
-  "character": "葬",
-  "primaryMeaning": "Burial",
-  "otherMeanings": [],
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "葬"
+  },
   "primaryReading": "そう",
   "readings": [
     {
-      "reading": "そう",
       "primary": true,
+      "reading": "そう",
       "type": "onyomi"
     },
     {
-      "reading": "ほうむ",
       "primary": false,
+      "reading": "ほうむ",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "Once the <kanji>burial</kanji> is complete the <reading>sou</reading>ls (そう) of all the dead people come floating up and out of the ground. \"Thaaannk YooOoOO~\" they moan, as they ascend to the sky.",
+  "primaryMeaning": "Burial",
+  "otherMeanings": [],
   "meaningMnemonic": "You brought <radical>flowers</radical> to place on top of the place where a <radical>yakuza</radical> took a <radical>spoon</radical> and killed <radical>twenty</radical> people, and there is now a <kanji>burial</kanji> happening. You carefully toss the flowers in with the dirt and everything is buried together.",
-  "vocabularyIds": [
-    6136,
-    6137,
-    6138,
-    6354
-  ],
-  "radicalIds": [
-    90,
-    132,
-    57,
-    106
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%91%AC"
+  "readingMnemonic": "Once the <kanji>burial</kanji> is complete the <reading>sou</reading>ls (そう) of all the dead people come floating up and out of the ground. \"Thaaannk YooOoOO~\" they moan, as they ascend to the sky.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%91%AC"
+  },
+  "related": {
+    "radicals": [
+      90,
+      132,
+      57,
+      106
+    ],
+    "vocabularies": [
+      6136,
+      6137,
+      6138,
+      6354
+    ]
+  }
 }

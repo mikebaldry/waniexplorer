@@ -1,0 +1,52 @@
+{
+  "id": 9306,
+  "type": "vocabulary",
+  "characters": "一ヶ所",
+  "primaryMeaning": "One Place",
+  "otherMeanings": [
+    "One Spot"
+  ],
+  "primaryReading": "いっかしょ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 440,
+      "character": "一",
+      "readings": [
+        "いち",
+        "いつ",
+        "ひと",
+        "かず"
+      ]
+    },
+    {
+      "id": 707,
+      "character": "所",
+      "readings": [
+        "しょ",
+        "ところ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Remember the small ヶ acting as a counter? Together with <kanji>one</kanji> and <kanji>place</kanji>, it makes this <vocabulary>one place</vocabulary> or <vocabulary>one spot</vocabulary>.\n\nJust like 〜ヶ月, you'll also run into this being written as 一箇所, 一か所, or 一カ所.",
+  "readingMnemonic": "Just like before, the little ヶ is actually read as か. The rest uses the on'yomi you already learned with the kanji. Just watch out 一 here is いっ instead of いち as it makes it easier to pronounce the whole word. Now, read it aloud and try yourself!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%80%E3%83%B6%E6%89%80",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "一",
+      "id": 440,
+      "reading": "いっ"
+    },
+    {
+      "type": "kana",
+      "value": "ヶ"
+    },
+    {
+      "type": "kanji",
+      "value": "所",
+      "id": 707,
+      "reading": "しょ"
+    }
+  ]
+}

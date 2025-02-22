@@ -1,12 +1,15 @@
 {
   "id": 423,
   "type": "radical",
-  "primaryMeaning": "Feeling",
-  "otherMeanings": [],
-  "character": {
+  "level": 55,
+  "characters": {
     "type": "text",
     "value": "感"
   },
+  "primaryMeaning": "Feeling",
+  "otherMeanings": [],
   "meaningMnemonic": "This radical is the same as the kanji. It means <radical>feeling</radical>.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/feeling"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/feeling"
+  }
 }

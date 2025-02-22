@@ -1,33 +1,41 @@
 {
   "id": 1337,
   "type": "kanji",
-  "character": "靴",
-  "primaryMeaning": "Shoes",
-  "otherMeanings": [],
+  "level": 27,
+  "characters": {
+    "type": "text",
+    "value": "靴"
+  },
   "primaryReading": "くつ",
   "readings": [
     {
-      "reading": "くつ",
       "primary": true,
+      "reading": "くつ",
       "type": "kunyomi"
     },
     {
-      "reading": "か",
       "primary": false,
+      "reading": "か",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "Some <kanji>shoes</kanji> aren’t made from leather anymore these days, but you know who always wears shoes made of leather? Old <reading>coots</reading> (くつ). Old coots are so old that the only shoes they wore growing up were made from leather so they refuse to wear any shoes that aren’t made from leather. Crazy old coots.",
+  "primaryMeaning": "Shoes",
+  "otherMeanings": [],
   "meaningMnemonic": "Take your <radical>leather</radical> and <radical>change</radical> it into <kanji>shoes</kanji>.",
-  "vocabularyIds": [
-    5098,
-    5099,
-    5100,
-    5101
-  ],
-  "radicalIds": [
-    288,
-    311
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%9D%B4"
+  "readingMnemonic": "Some <kanji>shoes</kanji> aren’t made from leather anymore these days, but you know who always wears shoes made of leather? Old <reading>coots</reading> (くつ). Old coots are so old that the only shoes they wore growing up were made from leather so they refuse to wear any shoes that aren’t made from leather. Crazy old coots.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%9D%B4"
+  },
+  "related": {
+    "radicals": [
+      288,
+      311
+    ],
+    "vocabularies": [
+      5098,
+      5099,
+      5100,
+      5101
+    ]
+  }
 }

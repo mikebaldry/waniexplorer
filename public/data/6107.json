@@ -1,49 +1,22 @@
 {
   "id": 6107,
   "type": "vocabulary",
-  "characters": "遺跡",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "遺跡"
+  },
   "primaryMeaning": "Ruins",
+  "meaningMnemonic": "All you <kanji>leave behind</kanji> are <kanji>traces</kanji> of the past. These are the <vocabulary>ruins</vocabulary> of what happened before. The <vocabulary>historic remains</vocabulary>...",
+  "primaryReading": "いせき",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Historic Ruins",
     "Remains",
     "Historic Remains"
   ],
-  "primaryReading": "いせき",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1616,
-      "character": "遺",
-      "readings": [
-        "い",
-        "ゆい",
-        "のこ"
-      ]
-    },
-    {
-      "id": 1661,
-      "character": "跡",
-      "readings": [
-        "せき",
-        "あと"
-      ]
-    }
-  ],
-  "meaningMnemonic": "All you <kanji>leave behind</kanji> are <kanji>traces</kanji> of the past. These are the <vocabulary>ruins</vocabulary> of what happened before. The <vocabulary>historic remains</vocabulary>...",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%81%BA%E8%B7%A1",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "遺",
-      "id": 1616,
-      "reading": "い"
-    },
-    {
-      "type": "kanji",
-      "value": "跡",
-      "id": 1661,
-      "reading": "せき"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%81%BA%E8%B7%A1"
+  }
 }

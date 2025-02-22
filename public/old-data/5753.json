@@ -1,0 +1,48 @@
+{
+  "id": 5753,
+  "type": "vocabulary",
+  "characters": "降車",
+  "primaryMeaning": "Getting Off",
+  "otherMeanings": [
+    "Alighting",
+    "Disembarking"
+  ],
+  "primaryReading": "こうしゃ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1548,
+      "character": "降",
+      "readings": [
+        "こう",
+        "お",
+        "ふ"
+      ]
+    },
+    {
+      "id": 562,
+      "character": "車",
+      "readings": [
+        "しゃ",
+        "くるま"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Descend</kanji> off the (train) <kanji>car</kanji>. You are <vocabulary>getting off</vocabulary> a train, or a bus, or anything else with wheels.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%99%8D%E8%BB%8A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "降",
+      "id": 1548,
+      "reading": "こう"
+    },
+    {
+      "type": "kanji",
+      "value": "車",
+      "id": 562,
+      "reading": "しゃ"
+    }
+  ]
+}

@@ -1,48 +1,20 @@
 {
   "id": 8628,
   "type": "vocabulary",
-  "characters": "分泌",
+  "level": 60,
+  "characters": {
+    "type": "text",
+    "value": "分泌"
+  },
   "primaryMeaning": "Secretion",
+  "meaningMnemonic": "<kanji>Part</kanji> of you is starting to <kanji>secrete</kanji> some kind of <vocabulary>secretion</vocabulary>. It's kinda gross, so maybe you should go to the doctor to check if it's normal.",
+  "primaryReading": "ぶんぴつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. But 泌 is using an on'yomi reading you haven't learned yet (ひつ), which also happens to get rendaku'd here, so use this mnemonic to remember it:\n\nThe part of your body that produces the most <vocabulary>secretion</vocabulary>s is… your <reading>pits</reading> (ぴつ). Yeah, it's a gross image, but next time you're walking around Tokyo in summer and \"secreting\" through your shirt, at least you'll have the vocab to describe all that 分泌. ",
   "otherMeanings": [
     "Discharge"
   ],
-  "primaryReading": "ぶんぴつ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 501,
-      "character": "分",
-      "readings": [
-        "ぶん",
-        "ふん",
-        "ぶ",
-        "わ"
-      ]
-    },
-    {
-      "id": 2460,
-      "character": "泌",
-      "readings": [
-        "ひ",
-        "ひつ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Part</kanji> of you is starting to <kanji>secrete</kanji> some kind of <vocabulary>secretion</vocabulary>. It's kinda gross, so maybe you should go to the doctor to check if it's normal.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. But 泌 is using an on'yomi reading you haven't learned yet (ひつ), which also happens to get rendaku'd here, so use this mnemonic to remember it:\n\nThe part of your body that produces the most <vocabulary>secretion</vocabulary>s is… your <reading>pits</reading> (ぴつ). Yeah, it's a gross image, but next time you're walking around Tokyo in summer and \"secreting\" through your shirt, at least you'll have the vocab to describe all that 分泌. ",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%88%86%E6%B3%8C",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "分",
-      "id": 501,
-      "reading": "ぶん"
-    },
-    {
-      "type": "kanji",
-      "value": "泌",
-      "id": 2460,
-      "reading": "ぴつ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%88%86%E6%B3%8C"
+  }
 }

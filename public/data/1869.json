@@ -1,32 +1,40 @@
 {
   "id": 1869,
   "type": "kanji",
-  "character": "滋",
-  "primaryMeaning": "Nourishing",
-  "otherMeanings": [],
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "滋"
+  },
   "primaryReading": "じ",
   "readings": [
     {
-      "reading": "じ",
       "primary": true,
+      "reading": "じ",
       "type": "onyomi"
     },
     {
-      "reading": "し",
       "primary": false,
+      "reading": "し",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "This is the kind of <kanji>nourishing</kanji> soil that <reading>Je</reading>sus (じ) would make if he was into making soil, probably.",
+  "primaryMeaning": "Nourishing",
+  "otherMeanings": [],
   "meaningMnemonic": "A (fresh water) <radical>tsunami</radical>. Some <radical>horns</radical>. The <radical>ground</radical>. A bunch of <radical>poop</radical>. Combine these together and let them decompose a while. You'll have yourself some very <kanji>nourishing</kanji> soil.",
-  "vocabularyIds": [
-    6746
-  ],
-  "radicalIds": [
-    103,
-    8767,
-    1,
-    87
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%BB%8B"
+  "readingMnemonic": "This is the kind of <kanji>nourishing</kanji> soil that <reading>Je</reading>sus (じ) would make if he was into making soil, probably.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%BB%8B"
+  },
+  "related": {
+    "radicals": [
+      103,
+      8767,
+      1,
+      87
+    ],
+    "vocabularies": [
+      6746
+    ]
+  }
 }

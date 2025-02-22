@@ -1,42 +1,18 @@
 {
   "id": 6902,
   "type": "vocabulary",
-  "characters": "義塾",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "義塾"
+  },
   "primaryMeaning": "Private School",
-  "otherMeanings": [],
-  "primaryReading": "ぎじゅく",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1154,
-      "character": "義",
-      "readings": [
-        "ぎ"
-      ]
-    },
-    {
-      "id": 1927,
-      "character": "塾",
-      "readings": [
-        "じゅく"
-      ]
-    }
-  ],
   "meaningMnemonic": "A <kanji>righteousness</kanji> <kanji>cram school</kanji> is, for some reason, a <vocabulary>private school</vocabulary>. Maybe because they don't think the public cram schools are any good, so they take their righteousness somewhere else to start a private one? I'm not sure.\n\nYou may have seen the abbreviation 私学 (for 私立学校) as another word for private school. 私学 is typically used for any schools, elementary through university, that are run by individuals or private groups.\n\n義塾 instead generally describes private schools founded during the Edo and Meiji periods. In contemporary Japanese, it's not really used on its own but can be seen in school names like 明徳義塾高等学校 (Meitoku Gijuku High School).",
+  "primaryReading": "ぎじゅく",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%BE%A9%E5%A1%BE",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "義",
-      "id": 1154,
-      "reading": "ぎ"
-    },
-    {
-      "type": "kanji",
-      "value": "塾",
-      "id": 1927,
-      "reading": "じゅく"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%BE%A9%E5%A1%BE"
+  }
 }

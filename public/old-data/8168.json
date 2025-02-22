@@ -1,0 +1,56 @@
+{
+  "id": 8168,
+  "type": "vocabulary",
+  "characters": "陳列室",
+  "primaryMeaning": "Showroom",
+  "otherMeanings": [],
+  "primaryReading": "ちんれつしつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2173,
+      "character": "陳",
+      "readings": [
+        "ちん",
+        "ひ"
+      ]
+    },
+    {
+      "id": 936,
+      "character": "列",
+      "readings": [
+        "れつ"
+      ]
+    },
+    {
+      "id": 635,
+      "character": "室",
+      "readings": [
+        "しつ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>room</kanji> where you <kanji>exhibit</kanji> things in a <kanji>row</kanji> is a <vocabulary>showroom</vocabulary>. Maybe there are cars lined up, or boats, or tiny porcelain cats! Either way, they need a nice big showroom to show them off.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%99%B3%E5%88%97%E5%AE%A4",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "陳",
+      "id": 2173,
+      "reading": "ちん"
+    },
+    {
+      "type": "kanji",
+      "value": "列",
+      "id": 936,
+      "reading": "れつ"
+    },
+    {
+      "type": "kanji",
+      "value": "室",
+      "id": 635,
+      "reading": "しつ"
+    }
+  ]
+}

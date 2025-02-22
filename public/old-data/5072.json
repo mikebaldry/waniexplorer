@@ -1,0 +1,37 @@
+{
+  "id": 5072,
+  "type": "vocabulary",
+  "characters": "織る",
+  "primaryMeaning": "To Weave",
+  "otherMeanings": [
+    "To Knit"
+  ],
+  "primaryReading": "おる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1323,
+      "character": "織",
+      "readings": [
+        "しき",
+        "しょく",
+        "お"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>weave</kanji> so the verb vocab version is <vocabulary>to weave</vocabulary>.",
+  "readingMnemonic": "When you have <vocabulary>to weave</vocabulary> the only thing you can weave is an <reading>O</reading> (お) shape. That's it. Just O's.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B9%94%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "織",
+      "id": 1323,
+      "reading": "お"
+    },
+    {
+      "type": "kana",
+      "value": "る"
+    }
+  ]
+}

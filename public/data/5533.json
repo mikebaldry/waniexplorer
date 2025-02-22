@@ -1,48 +1,20 @@
 {
   "id": 5533,
   "type": "vocabulary",
-  "characters": "桜色",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "桜色"
+  },
   "primaryMeaning": "Pink",
+  "meaningMnemonic": "A <kanji>cherry blossom</kanji> <kanji>color</kanji> is what color? Kind of a <vocabulary>pink</vocabulary>, wouldn't you say? Also, pink can be ピンク, if you want it to be.",
+  "primaryReading": "さくらいろ",
+  "readingMnemonic": "The reading is the readings for 桜 and 色 combined.",
   "otherMeanings": [
     "Pale Pink"
   ],
-  "primaryReading": "さくらいろ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1485,
-      "character": "桜",
-      "readings": [
-        "さくら",
-        "おう",
-        "よう"
-      ]
-    },
-    {
-      "id": 579,
-      "character": "色",
-      "readings": [
-        "いろ",
-        "しき",
-        "しょく"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>cherry blossom</kanji> <kanji>color</kanji> is what color? Kind of a <vocabulary>pink</vocabulary>, wouldn't you say? Also, pink can be ピンク, if you want it to be.",
-  "readingMnemonic": "The reading is the readings for 桜 and 色 combined.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%A1%9C%E8%89%B2",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "桜",
-      "id": 1485,
-      "reading": "さくら"
-    },
-    {
-      "type": "kanji",
-      "value": "色",
-      "id": 579,
-      "reading": "いろ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%A1%9C%E8%89%B2"
+  }
 }

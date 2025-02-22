@@ -1,30 +1,38 @@
 {
   "id": 2259,
   "type": "kanji",
-  "character": "栞",
-  "primaryMeaning": "Bookmark",
-  "otherMeanings": [],
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "栞"
+  },
   "primaryReading": "しおり",
   "readings": [
     {
-      "reading": "しおり",
       "primary": true,
+      "reading": "しおり",
       "type": "kunyomi"
     },
     {
-      "reading": "かん",
       "primary": false,
+      "reading": "かん",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "What are you bookmarking anyway? Look down and see yourself putting one of the tree <kanji>bookmark</kanji>s on a page in your notebook that says \"<reading>She owe</reading>s me <reading>ree</reading>ds (しおり).\" Oh yeah, you had to make this bookmark in the first place because your friend took your reed bookmarks and didn't give them back.",
+  "primaryMeaning": "Bookmark",
+  "otherMeanings": [],
   "meaningMnemonic": "<radical>Dry</radical> an already <radical>dry</radical> <radical>tree</radical> to create a <kanji>bookmark</kanji>. The more you dry the tree, the flatter it becomes, making it the perfect way to mark your spot in a book without needing to fold a page or write on it.",
-  "vocabularyIds": [
-    8104
-  ],
-  "radicalIds": [
-    61,
-    23
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%A0%9E"
+  "readingMnemonic": "What are you bookmarking anyway? Look down and see yourself putting one of the tree <kanji>bookmark</kanji>s on a page in your notebook that says \"<reading>She owe</reading>s me <reading>ree</reading>ds (しおり).\" Oh yeah, you had to make this bookmark in the first place because your friend took your reed bookmarks and didn't give them back.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%A0%9E"
+  },
+  "related": {
+    "radicals": [
+      61,
+      23
+    ],
+    "vocabularies": [
+      8104
+    ]
+  }
 }

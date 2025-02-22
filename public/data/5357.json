@@ -1,49 +1,21 @@
 {
   "id": 5357,
   "type": "vocabulary",
-  "characters": "翌日",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "翌日"
+  },
   "primaryMeaning": "The Next Day",
+  "meaningMnemonic": "<kanji>The next</kanji> <kanji>day</kanji> is just that, <vocabulary>the next day</vocabulary>.",
+  "primaryReading": "よくじつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Next Day",
     "The Following Day"
   ],
-  "primaryReading": "よくじつ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1427,
-      "character": "翌",
-      "readings": [
-        "よく"
-      ]
-    },
-    {
-      "id": 476,
-      "character": "日",
-      "readings": [
-        "にち",
-        "じつ",
-        "ひ",
-        "か",
-        "び"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>The next</kanji> <kanji>day</kanji> is just that, <vocabulary>the next day</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%BF%8C%E6%97%A5",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "翌",
-      "id": 1427,
-      "reading": "よく"
-    },
-    {
-      "type": "kanji",
-      "value": "日",
-      "id": 476,
-      "reading": "じつ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%BF%8C%E6%97%A5"
+  }
 }

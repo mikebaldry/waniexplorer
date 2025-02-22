@@ -1,51 +1,21 @@
 {
   "id": 5017,
   "type": "vocabulary",
-  "characters": "頑張れ",
+  "level": 27,
+  "characters": {
+    "type": "text",
+    "value": "頑張れ"
+  },
   "primaryMeaning": "Do Your Best",
+  "meaningMnemonic": "Remember 頑張る means “to persevere” or “to do one’s best”? This time you're telling someone to 頑張る, so this word means something like <vocabulary>do your best</vocabulary>, <vocabulary>hang in there</vocabulary>, or <vocabulary>good luck</vocabulary>! Speaking of which, 頑張れ, you!",
+  "primaryReading": "がんばれ",
+  "readingMnemonic": "The reading comes from 頑張る.",
   "otherMeanings": [
     "Hang In There",
     "Good Luck"
   ],
-  "primaryReading": "がんばれ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 927,
-      "character": "頑",
-      "readings": [
-        "がん",
-        "かたく"
-      ]
-    },
-    {
-      "id": 1205,
-      "character": "張",
-      "readings": [
-        "ちょう",
-        "は"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Remember 頑張る means “to persevere” or “to do one’s best”? This time you're telling someone to 頑張る, so this word means something like <vocabulary>do your best</vocabulary>, <vocabulary>hang in there</vocabulary>, or <vocabulary>good luck</vocabulary>! Speaking of which, 頑張れ, you!",
-  "readingMnemonic": "The reading comes from 頑張る.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%A0%91%E5%BC%B5%E3%82%8C",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "頑",
-      "id": 927,
-      "reading": "がん"
-    },
-    {
-      "type": "kanji",
-      "value": "張",
-      "id": 1205,
-      "reading": "ば"
-    },
-    {
-      "type": "kana",
-      "value": "れ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%A0%91%E5%BC%B5%E3%82%8C"
+  }
 }

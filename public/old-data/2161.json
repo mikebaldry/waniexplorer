@@ -1,0 +1,31 @@
+{
+  "id": 2161,
+  "type": "kanji",
+  "character": "孤",
+  "primaryMeaning": "Orphan",
+  "otherMeanings": [
+    "Alone"
+  ],
+  "primaryReading": "こ",
+  "readings": [
+    {
+      "reading": "こ",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "The <kanji>orphan</kanji> melon boy is but a <reading>子</reading> (こ).",
+  "meaningMnemonic": "There was once a <radical>melon</radical> <radical>child</radical>, that is, a child with the body of a melon. When he was born, his parents didn't want him, so he became an <kanji>orphan</kanji>.",
+  "vocabularyIds": [
+    7873,
+    7874,
+    7875,
+    7876,
+    8087
+  ],
+  "radicalIds": [
+    384,
+    34
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%AD%A4"
+}

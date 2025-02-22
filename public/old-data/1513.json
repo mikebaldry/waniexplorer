@@ -1,0 +1,26 @@
+{
+  "id": 1513,
+  "type": "kanji",
+  "character": "簡",
+  "primaryMeaning": "Simplicity",
+  "otherMeanings": [],
+  "primaryReading": "かん",
+  "readings": [
+    {
+      "reading": "かん",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "<kanji>Simplicity</kanji> is what Genghis <reading>Khan</reading> (かん) always demanded. Everything he decided was based on simplicity.",
+  "meaningMnemonic": "Keeping at a <radical>bamboo</radical> <radical>interval</radical> is the definition of <kanji>simplicity</kanji>. ",
+  "vocabularyIds": [
+    5598,
+    5936
+  ],
+  "radicalIds": [
+    85,
+    344
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%B0%A1"
+}

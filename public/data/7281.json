@@ -1,34 +1,18 @@
 {
   "id": 7281,
   "type": "vocabulary",
-  "characters": "悟る",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "悟る"
+  },
   "primaryMeaning": "To Realize",
-  "otherMeanings": [],
-  "primaryReading": "さとる",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2054,
-      "character": "悟",
-      "readings": [
-        "ご",
-        "さと"
-      ]
-    }
-  ],
   "meaningMnemonic": "If you have <kanji>comprehension</kanji>, then you are probably going <vocabulary>to realize</vocabulary> something about something else. Comprehension leads to realization, after all.",
+  "primaryReading": "さとる",
   "readingMnemonic": "You realized something so amazing that you couldn't believe it. That comprehension, wow! The realization was so big that you <reading>sat</reading> (さと) down in disbelief. If you didn't you would have fallen on the ground.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%82%9F%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "悟",
-      "id": 2054,
-      "reading": "さと"
-    },
-    {
-      "type": "kana",
-      "value": "る"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%82%9F%E3%82%8B"
+  }
 }

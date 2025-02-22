@@ -1,43 +1,51 @@
 {
   "id": 865,
   "type": "kanji",
-  "character": "様",
+  "level": 13,
+  "characters": {
+    "type": "text",
+    "value": "様"
+  },
+  "primaryReading": "さま",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "さま",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "よう",
+      "type": "onyomi"
+    }
+  ],
   "primaryMeaning": "Formal Name Ender",
   "otherMeanings": [
     "Manner"
   ],
-  "primaryReading": "さま",
-  "readings": [
-    {
-      "reading": "さま",
-      "primary": true,
-      "type": "kunyomi"
-    },
-    {
-      "reading": "よう",
-      "primary": false,
-      "type": "onyomi"
-    }
-  ],
-  "readingMnemonic": "This sheep with the <kanji>formal name ender</kanji> only likes to play outside in the water during the <reading>summer</reading> (さま). Summer is the best season for this fancy sheep. The other seasons just can't compare.",
   "meaningMnemonic": "By a <radical>tree</radical>, there's a <radical>sheep</radical> in the <radical>water</radical> with a <kanji>formal name ender</kanji>. That means everyone calls him Sheep-sama. No one calls him just \"Sheep,\" since he's kind of a big deal. He's actually like sheep royalty. When he's not in his castle, Sheep-sama enjoys playing in the water by the trees.\n\nThis can also mean <kanji>manner</kanji>, as in your manner of doing things. I guess someone with a formal name ender has a different manner of doing things.",
-  "vocabularyIds": [
-    3600,
-    3601,
-    3602,
-    4800,
-    5749,
-    6343,
-    6418,
-    6830,
-    7449,
-    7751,
-    8705
-  ],
-  "radicalIds": [
-    23,
-    136,
-    45
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%A7%98"
+  "readingMnemonic": "This sheep with the <kanji>formal name ender</kanji> only likes to play outside in the water during the <reading>summer</reading> (さま). Summer is the best season for this fancy sheep. The other seasons just can't compare.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%A7%98"
+  },
+  "related": {
+    "radicals": [
+      23,
+      136,
+      45
+    ],
+    "vocabularies": [
+      3600,
+      3601,
+      3602,
+      4800,
+      5749,
+      6343,
+      6418,
+      6830,
+      7449,
+      7751,
+      8705
+    ]
+  }
 }

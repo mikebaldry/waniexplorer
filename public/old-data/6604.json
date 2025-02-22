@@ -1,0 +1,43 @@
+{
+  "id": 6604,
+  "type": "vocabulary",
+  "characters": "解析",
+  "primaryMeaning": "Analysis",
+  "otherMeanings": [],
+  "primaryReading": "かいせき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1150,
+      "character": "解",
+      "readings": [
+        "かい",
+        "と"
+      ]
+    },
+    {
+      "id": 1820,
+      "character": "析",
+      "readings": [
+        "せき"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you <kanji>untie</kanji> the <kanji>analysis</kanji>, you are really just doing <vocabulary>analysis</vocabulary> to the analysis, if you catch my drift.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A7%A3%E6%9E%90",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "解",
+      "id": 1150,
+      "reading": "かい"
+    },
+    {
+      "type": "kanji",
+      "value": "析",
+      "id": 1820,
+      "reading": "せき"
+    }
+  ]
+}

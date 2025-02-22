@@ -1,24 +1,32 @@
 {
   "id": 2414,
   "type": "kanji",
-  "character": "屯",
-  "primaryMeaning": "Barracks",
-  "otherMeanings": [],
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "屯"
+  },
   "primaryReading": "とん",
   "readings": [
     {
-      "reading": "とん",
       "primary": true,
+      "reading": "とん",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "<kanji>Barracks</kanji> are pretty big, so they weigh a <reading>ton</reading> (とん). And they probably take tons of materials to build.",
+  "primaryMeaning": "Barracks",
+  "otherMeanings": [],
   "meaningMnemonic": "The <radical>barracks</radical> radical and the <kanji>barracks</kanji> kanji are the same!",
-  "vocabularyIds": [
-    8529
-  ],
-  "radicalIds": [
-    315
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%B1%AF"
+  "readingMnemonic": "<kanji>Barracks</kanji> are pretty big, so they weigh a <reading>ton</reading> (とん). And they probably take tons of materials to build.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%B1%AF"
+  },
+  "related": {
+    "radicals": [
+      315
+    ],
+    "vocabularies": [
+      8529
+    ]
+  }
 }

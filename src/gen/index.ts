@@ -1,6 +1,6 @@
-import { avroType, SearchResult } from "./search_result";
+import { avroType, SearchResult } from "../db/search_result";
 import * as WK from "./wanikani_subjects";
-import * as DB from "./subjects";
+import * as DB from "../db/subjects";
 import handleRadical from "./radicals";
 import handleKanji from "./kanji";
 import handleVocabulary from "./vocabulary";
@@ -34,6 +34,6 @@ export default async function generate(force: boolean) {
   writeFileSync("src/assets/search.avsc", avroType.toBuffer(searchResults));
 
   dbSubjects.forEach((dbSubject) => {
-    writeFileSync(`public/new-data/${dbSubject.id}.json`, JSON.stringify(dbSubject, null, 2));
+    writeFileSync(`public/data/${dbSubject.id}.json`, JSON.stringify(dbSubject, null, 2));
   });
 }

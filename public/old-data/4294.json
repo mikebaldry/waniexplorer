@@ -1,0 +1,53 @@
+{
+  "id": 4294,
+  "type": "vocabulary",
+  "characters": "忘れ物",
+  "primaryMeaning": "Forgotten Item",
+  "otherMeanings": [
+    "Something Forgotten",
+    "Forgotten Thing",
+    "Lost Property"
+  ],
+  "primaryReading": "わすれもの",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1042,
+      "character": "忘",
+      "readings": [
+        "ぼう",
+        "わす"
+      ]
+    },
+    {
+      "id": 718,
+      "character": "物",
+      "readings": [
+        "ぶつ",
+        "もつ",
+        "もの"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Remember how 忘れる is \"to <kanji>forget</kanji>\"? Well, a <kanji>thing</kanji> you've forgotten is a <vocabulary>forgotten item</vocabulary>.",
+  "readingMnemonic": "You didn't learn this reading with the kanji 忘, but you did learn it with the vocabulary 忘れる.  What <reading>was</reading> (わす) that reading again? You can't remember! It's become a <vocabulary>forgotten item</vocabulary>!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BF%98%E3%82%8C%E7%89%A9",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "忘",
+      "id": 1042,
+      "reading": "わす"
+    },
+    {
+      "type": "kana",
+      "value": "れ"
+    },
+    {
+      "type": "kanji",
+      "value": "物",
+      "id": 718,
+      "reading": "もの"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 4745,
+  "type": "vocabulary",
+  "characters": "限定",
+  "primaryMeaning": "Limit",
+  "otherMeanings": [],
+  "primaryReading": "げんてい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1248,
+      "character": "限",
+      "readings": [
+        "げん",
+        "かぎ"
+      ]
+    },
+    {
+      "id": 714,
+      "character": "定",
+      "readings": [
+        "てい",
+        "じょう",
+        "さだ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A specific <kanji>limit</kanji> has been <kanji>determine</kanji>d. This is the <vocabulary>limit</vocabulary> of a certain thing, which can’t be exceeded.\n\nThis word means placing a particular limit or restriction on the quantity, scope, or availability of something for a special or exclusive purpose. This is often used for things like sales or products that are only available for a limited time or in restricted quantities.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%99%90%E5%AE%9A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "限",
+      "id": 1248,
+      "reading": "げん"
+    },
+    {
+      "type": "kanji",
+      "value": "定",
+      "id": 714,
+      "reading": "てい"
+    }
+  ]
+}

@@ -1,37 +1,21 @@
 {
   "id": 5308,
   "type": "vocabulary",
-  "characters": "延ばす",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "延ばす"
+  },
   "primaryMeaning": "To Prolong Something",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>prolong</kanji> and this verb means <vocabulary>to prolong something</vocabulary>.\n\n延ばす conveys the idea of expanding upon something that already exists to make it longer, often in terms of time or physical distance. For example, it can refer to delaying a schedule or extending a railway.",
+  "primaryReading": "のばす",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nDo you mind if I go <vocabulary>to prolong</vocabulary> things? The answer? \"<reading>No</reading> (の), I don't mind.\"",
   "otherMeanings": [
     "To Lengthen Something",
     "To Extend Something"
   ],
-  "primaryReading": "のばす",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1426,
-      "character": "延",
-      "readings": [
-        "えん",
-        "の"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>prolong</kanji> and this verb means <vocabulary>to prolong something</vocabulary>.\n\n延ばす conveys the idea of expanding upon something that already exists to make it longer, often in terms of time or physical distance. For example, it can refer to delaying a schedule or extending a railway.",
-  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nDo you mind if I go <vocabulary>to prolong</vocabulary> things? The answer? \"<reading>No</reading> (の), I don't mind.\"",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BB%B6%E3%81%B0%E3%81%99",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "延",
-      "id": 1426,
-      "reading": "の"
-    },
-    {
-      "type": "kana",
-      "value": "ばす"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%BB%B6%E3%81%B0%E3%81%99"
+  }
 }

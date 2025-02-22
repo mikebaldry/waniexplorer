@@ -1,0 +1,51 @@
+{
+  "id": 8661,
+  "type": "vocabulary",
+  "characters": "大体",
+  "primaryMeaning": "Generally",
+  "otherMeanings": [
+    "About",
+    "General",
+    "Gist"
+  ],
+  "primaryReading": "だいたい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 453,
+      "character": "大",
+      "readings": [
+        "たい",
+        "だい",
+        "おお",
+        "ひろ"
+      ]
+    },
+    {
+      "id": 583,
+      "character": "体",
+      "readings": [
+        "たい",
+        "てい",
+        "からだ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If all you can see is the <kanji>big</kanji> <kanji>body</kanji> of something, then you'll only get a <vocabulary>general</vocabulary> idea of what it is. You'll be able to say that it's <vocabulary>generally</vocabulary> a certain way, but that's <vocabulary>about</vocabulary> all. You'll get the <vocabulary>gist</vocabulary>, but no more.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 大 has two on'yomi readings, here's a mnemonic to help you remember which one to use:\n\n<vocabulary>Generally</vocabulary>, it's a bad idea to <reading>dye</reading> your <reading>tie</reading>s (だいたい). The tie police isn't a big fan of it, and you wouldn't wanna get arrested!\n\n",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A4%A7%E4%BD%93",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "大",
+      "id": 453,
+      "reading": "だい"
+    },
+    {
+      "type": "kanji",
+      "value": "体",
+      "id": 583,
+      "reading": "たい"
+    }
+  ]
+}

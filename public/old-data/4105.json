@@ -1,0 +1,55 @@
+{
+  "id": 4105,
+  "type": "vocabulary",
+  "characters": "書き入れる",
+  "primaryMeaning": "To Write In",
+  "otherMeanings": [
+    "To Fill In"
+  ],
+  "primaryReading": "かきいれる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 962,
+      "character": "書",
+      "readings": [
+        "しょ",
+        "か"
+      ]
+    },
+    {
+      "id": 445,
+      "character": "入",
+      "readings": [
+        "にゅう",
+        "はい",
+        "い"
+      ]
+    }
+  ],
+  "meaningMnemonic": "To <kanji>insert</kanji> what you <kanji>write</kanji> into something is <vocabulary>to write in</vocabulary> or <vocabulary>to fill in</vocabulary>.",
+  "readingMnemonic": "The readings come from 書く and 入れる. Combine those two words to get the reading of this word.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9B%B8%E3%81%8D%E5%85%A5%E3%82%8C%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "書",
+      "id": 962,
+      "reading": "か"
+    },
+    {
+      "type": "kana",
+      "value": "き"
+    },
+    {
+      "type": "kanji",
+      "value": "入",
+      "id": 445,
+      "reading": "い"
+    },
+    {
+      "type": "kana",
+      "value": "れる"
+    }
+  ]
+}

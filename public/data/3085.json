@@ -1,49 +1,20 @@
 {
   "id": 3085,
   "type": "vocabulary",
-  "characters": "大事",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "大事"
+  },
   "primaryMeaning": "Important",
+  "meaningMnemonic": "You know 事 means \"occurrence,\" but it can also mean \"matter.\" And if something is a  <kanji>big</kanji> <kanji>matter</kanji> to someone, it must be a very <vocabulary>important</vocabulary> and <vocabulary>valuable</vocabulary> thing to them.\n\n大事 describes something that holds great importance or value. For example, you can use 大事 to describe something or someone that matters a lot to you. You can also use 大事 to describe a crucial task or moment. And if you want to bring up a serious topic, you may say that you have something 大事 to talk about.",
+  "primaryReading": "だいじ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 大 has two on'yomi readings, here's a mnemonic to help you remember which one to use:\n\nNothing in your life is as <vocabulary>important</vocabulary> or <vocabulary>valuable</vocabulary> to you as <reading>dye</reading>s (だい). You really just love dyes more than anything else. Dyes, dyes, dyes!",
   "otherMeanings": [
     "Valuable"
   ],
-  "primaryReading": "だいじ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 453,
-      "character": "大",
-      "readings": [
-        "たい",
-        "だい",
-        "おお",
-        "ひろ"
-      ]
-    },
-    {
-      "id": 708,
-      "character": "事",
-      "readings": [
-        "じ",
-        "こと",
-        "つか"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You know 事 means \"occurrence,\" but it can also mean \"matter.\" And if something is a  <kanji>big</kanji> <kanji>matter</kanji> to someone, it must be a very <vocabulary>important</vocabulary> and <vocabulary>valuable</vocabulary> thing to them.\n\n大事 describes something that holds great importance or value. For example, you can use 大事 to describe something or someone that matters a lot to you. You can also use 大事 to describe a crucial task or moment. And if you want to bring up a serious topic, you may say that you have something 大事 to talk about.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 大 has two on'yomi readings, here's a mnemonic to help you remember which one to use:\n\nNothing in your life is as <vocabulary>important</vocabulary> or <vocabulary>valuable</vocabulary> to you as <reading>dye</reading>s (だい). You really just love dyes more than anything else. Dyes, dyes, dyes!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A4%A7%E4%BA%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "大",
-      "id": 453,
-      "reading": "だい"
-    },
-    {
-      "type": "kanji",
-      "value": "事",
-      "id": 708,
-      "reading": "じ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A4%A7%E4%BA%8B"
+  }
 }

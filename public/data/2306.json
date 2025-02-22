@@ -1,27 +1,35 @@
 {
   "id": 2306,
   "type": "kanji",
-  "character": "弊",
-  "primaryMeaning": "Evil",
-  "otherMeanings": [],
+  "level": 56,
+  "characters": {
+    "type": "text",
+    "value": "弊"
+  },
   "primaryReading": "へい",
   "readings": [
     {
-      "reading": "へい",
       "primary": true,
+      "reading": "へい",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "The <kanji>evil</kanji> penguins can't let you tell the other human's what you've seen, so they murder you and hide your body in a <reading>hay</reading>stack (へい). Your family will never know what happened to you. The penguins will get away with their evil plans.",
+  "primaryMeaning": "Evil",
+  "otherMeanings": [],
   "meaningMnemonic": "<radical>Twenty</radical> <radical>penguin</radical>s together are always <kanji>evil</kanji>. Penguins are seen in groups a lot, sure, but did you know that any time there are exactly twenty penguins in a group they're plotting evil things? Evil things like global warming. And how to eat all the fish in the world so humans can't have any.",
-  "vocabularyIds": [
-    8276,
-    8277,
-    9054
-  ],
-  "radicalIds": [
-    431,
-    106
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%BC%8A"
+  "readingMnemonic": "The <kanji>evil</kanji> penguins can't let you tell the other human's what you've seen, so they murder you and hide your body in a <reading>hay</reading>stack (へい). Your family will never know what happened to you. The penguins will get away with their evil plans.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%BC%8A"
+  },
+  "related": {
+    "radicals": [
+      431,
+      106
+    ],
+    "vocabularies": [
+      8276,
+      8277,
+      9054
+    ]
+  }
 }

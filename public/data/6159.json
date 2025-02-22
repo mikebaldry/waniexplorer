@@ -1,60 +1,20 @@
 {
   "id": 6159,
   "type": "vocabulary",
-  "characters": "高齢者",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "高齢者"
+  },
   "primaryMeaning": "Elderly Person",
+  "meaningMnemonic": "<kanji>Someone</kanji> of <kanji>tall</kanji> <kanji>age</kanji> is going to be an <vocabulary>elderly person</vocabulary> or an <vocabulary>old person</vocabulary>.",
+  "primaryReading": "こうれいしゃ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Old Person"
   ],
-  "primaryReading": "こうれいしゃ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 666,
-      "character": "高",
-      "readings": [
-        "こう",
-        "たか"
-      ]
-    },
-    {
-      "id": 1676,
-      "character": "齢",
-      "readings": [
-        "れい",
-        "よわい"
-      ]
-    },
-    {
-      "id": 690,
-      "character": "者",
-      "readings": [
-        "しゃ",
-        "もの"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Someone</kanji> of <kanji>tall</kanji> <kanji>age</kanji> is going to be an <vocabulary>elderly person</vocabulary> or an <vocabulary>old person</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%AB%98%E9%BD%A2%E8%80%85",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "高",
-      "id": 666,
-      "reading": "こう"
-    },
-    {
-      "type": "kanji",
-      "value": "齢",
-      "id": 1676,
-      "reading": "れい"
-    },
-    {
-      "type": "kanji",
-      "value": "者",
-      "id": 690,
-      "reading": "しゃ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%AB%98%E9%BD%A2%E8%80%85"
+  }
 }

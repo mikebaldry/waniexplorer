@@ -1,0 +1,55 @@
+{
+  "id": 5036,
+  "type": "vocabulary",
+  "characters": "取り替える",
+  "primaryMeaning": "To Replace",
+  "otherMeanings": [
+    "To Swap Out",
+    "To Exchange"
+  ],
+  "primaryReading": "とりかえる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 966,
+      "character": "取",
+      "readings": [
+        "と",
+        "しゅ"
+      ]
+    },
+    {
+      "id": 1279,
+      "character": "替",
+      "readings": [
+        "か",
+        "たい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Take</kanji> and <kanji>replace</kanji> something. That is <vocabulary>to replace</vocabulary> something with something else.\n\n取り替える generally means <vocabulary>to swap out</vocabulary> something with a new or different item of the same kind, like replacing an old gas meter with a new one, or exchanging books with your friend after you've both read your own.",
+  "readingMnemonic": "The readings are 取る and 替える put together into one. If you know those words you'll be able to read and understand this one as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8F%96%E3%82%8A%E6%9B%BF%E3%81%88%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "取",
+      "id": 966,
+      "reading": "と"
+    },
+    {
+      "type": "kana",
+      "value": "り"
+    },
+    {
+      "type": "kanji",
+      "value": "替",
+      "id": 1279,
+      "reading": "か"
+    },
+    {
+      "type": "kana",
+      "value": "える"
+    }
+  ]
+}

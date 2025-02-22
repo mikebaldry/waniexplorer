@@ -1,0 +1,46 @@
+{
+  "id": 4595,
+  "type": "vocabulary",
+  "characters": "無職",
+  "primaryMeaning": "Unemployed",
+  "otherMeanings": [
+    "Unemployment"
+  ],
+  "primaryReading": "むしょく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1008,
+      "character": "無",
+      "readings": [
+        "む",
+        "ぶ",
+        "な"
+      ]
+    },
+    {
+      "id": 1189,
+      "character": "職",
+      "readings": [
+        "しょく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When the status of your <kanji>employment</kanji> is \"<kanji>nothing</kanji>\" then you're probably <vocabulary>unemployed</vocabulary>. You're experiencing <vocabulary>unemployment</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%84%A1%E8%81%B7",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "無",
+      "id": 1008,
+      "reading": "む"
+    },
+    {
+      "type": "kanji",
+      "value": "職",
+      "id": 1189,
+      "reading": "しょく"
+    }
+  ]
+}

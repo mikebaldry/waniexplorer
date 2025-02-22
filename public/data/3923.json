@@ -1,44 +1,20 @@
 {
   "id": 3923,
   "type": "vocabulary",
-  "characters": "妥協",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "妥協"
+  },
   "primaryMeaning": "Compromise",
+  "meaningMnemonic": "When you have <kanji>gentle</kanji> <kanji>cooperation</kanji> nobody has their way. You're very gently coming towards the middle, coming to a <vocabulary>compromise</vocabulary>. (Whether you like it or not.)",
+  "primaryReading": "だきょう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Giving In"
   ],
-  "primaryReading": "だきょう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 925,
-      "character": "妥",
-      "readings": [
-        "だ"
-      ]
-    },
-    {
-      "id": 898,
-      "character": "協",
-      "readings": [
-        "きょう"
-      ]
-    }
-  ],
-  "meaningMnemonic": "When you have <kanji>gentle</kanji> <kanji>cooperation</kanji> nobody has their way. You're very gently coming towards the middle, coming to a <vocabulary>compromise</vocabulary>. (Whether you like it or not.)",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A6%A5%E5%8D%94",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "妥",
-      "id": 925,
-      "reading": "だ"
-    },
-    {
-      "type": "kanji",
-      "value": "協",
-      "id": 898,
-      "reading": "きょう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A6%A5%E5%8D%94"
+  }
 }

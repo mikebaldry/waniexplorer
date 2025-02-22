@@ -1,60 +1,21 @@
 {
   "id": 4665,
   "type": "vocabulary",
-  "characters": "応援団",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "応援団"
+  },
   "primaryMeaning": "Rooting Section",
+  "meaningMnemonic": "A <kanji>group</kanji> that <kanji>roots for</kanji> you is your <vocabulary>rooting section</vocabulary> or <vocabulary> cheer squad</vocabulary>. Go go go you!\n\n応援団 tend to wear black school uniforms and support their team with lively chants and energetic performances. They can also have cheerleaders with pom-poms, but those are usually just called チアリーダー.",
+  "primaryReading": "おうえんだん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. 応援 is a word you've seen before, so if you know that this word will be easier.",
   "otherMeanings": [
     "Cheer Squad",
     "Cheering Section"
   ],
-  "primaryReading": "おうえんだん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1180,
-      "character": "応",
-      "readings": [
-        "おう",
-        "こた"
-      ]
-    },
-    {
-      "id": 1182,
-      "character": "援",
-      "readings": [
-        "えん"
-      ]
-    },
-    {
-      "id": 1076,
-      "character": "団",
-      "readings": [
-        "だん",
-        "とん"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>group</kanji> that <kanji>roots for</kanji> you is your <vocabulary>rooting section</vocabulary> or <vocabulary> cheer squad</vocabulary>. Go go go you!\n\n応援団 tend to wear black school uniforms and support their team with lively chants and energetic performances. They can also have cheerleaders with pom-poms, but those are usually just called チアリーダー.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. 応援 is a word you've seen before, so if you know that this word will be easier.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BF%9C%E6%8F%B4%E5%9B%A3",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "応",
-      "id": 1180,
-      "reading": "おう"
-    },
-    {
-      "type": "kanji",
-      "value": "援",
-      "id": 1182,
-      "reading": "えん"
-    },
-    {
-      "type": "kanji",
-      "value": "団",
-      "id": 1076,
-      "reading": "だん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%BF%9C%E6%8F%B4%E5%9B%A3"
+  }
 }

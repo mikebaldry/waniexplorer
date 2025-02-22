@@ -1,0 +1,27 @@
+{
+  "id": 2112,
+  "type": "kanji",
+  "character": "壮",
+  "primaryMeaning": "Robust",
+  "otherMeanings": [],
+  "primaryReading": "そう",
+  "readings": [
+    {
+      "reading": "そう",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "You may think it's just his <kanji>robust</kanji> body, but it's actually the samurai's robust <reading>sou</reading>l (そう) that keeps him fighting through the cold and the icicles.",
+  "meaningMnemonic": "A <radical>samurai</radical> who can fight with <radical>icicle</radical>s on him is more <kanji>robust</kanji> than regular samurai. Can you imagine how robust you'd have to be to fight in weather cold enough to form icicles on your body?",
+  "vocabularyIds": [
+    7416,
+    7417,
+    7418
+  ],
+  "radicalIds": [
+    8826,
+    97
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%A3%AE"
+}

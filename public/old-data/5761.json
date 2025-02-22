@@ -1,0 +1,49 @@
+{
+  "id": 5761,
+  "type": "vocabulary",
+  "characters": "焼き芋",
+  "primaryMeaning": "Baked Sweet Potato",
+  "otherMeanings": [
+    "Roasted Sweet Potato"
+  ],
+  "primaryReading": "やきいも",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1040,
+      "character": "焼",
+      "readings": [
+        "や",
+        "しょう"
+      ]
+    },
+    {
+      "id": 1553,
+      "character": "芋",
+      "readings": [
+        "いも"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Bake</kanji>d <kanji>potato</kanji> is actually <vocabulary>baked sweet potato</vocabulary> (or <vocabulary>roasted sweet potato</vocabulary>). Although it's literally just potato, most Japanese speakers will automatically think of sweet potato when they hear this word. Yum! 🍠 ",
+  "readingMnemonic": "The reading is the readings from 焼く and 芋 put together.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%84%BC%E3%81%8D%E8%8A%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "焼",
+      "id": 1040,
+      "reading": "や"
+    },
+    {
+      "type": "kana",
+      "value": "き"
+    },
+    {
+      "type": "kanji",
+      "value": "芋",
+      "id": 1553,
+      "reading": "いも"
+    }
+  ]
+}

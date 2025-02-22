@@ -1,0 +1,49 @@
+{
+  "id": 8291,
+  "type": "vocabulary",
+  "characters": "摂氏",
+  "primaryMeaning": "Centigrade",
+  "otherMeanings": [
+    "Celsius"
+  ],
+  "primaryReading": "せっし",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2315,
+      "character": "摂",
+      "readings": [
+        "せつ",
+        "しょう",
+        "おさ",
+        "かね",
+        "と"
+      ]
+    },
+    {
+      "id": 647,
+      "character": "氏",
+      "readings": [
+        "し",
+        "うじ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Okay, so this is a stretch but stay with me! <kanji>In addition</kanji> to your <kanji>family name</kanji>, the first thing you need to learn as a child is how to understand <vocabulary>centigrade</vocabulary>. If you can't tell what temperature it is outside, or in your house, or in your body to tell if you're sick, you won't do so well with this living thing. So when you think back to the first things you learned in addition to your own family name, think centigrade!\n\nOf course, in reality, these kanji were simply chosen for their pronunciation rather than their meaning, but hopefully that mnemonic will help you remember which kanji are used here!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%91%82%E6%B0%8F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "摂",
+      "id": 2315,
+      "reading": "せっ"
+    },
+    {
+      "type": "kanji",
+      "value": "氏",
+      "id": 647,
+      "reading": "し"
+    }
+  ]
+}

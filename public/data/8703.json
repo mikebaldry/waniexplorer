@@ -1,44 +1,18 @@
 {
   "id": 8703,
   "type": "vocabulary",
-  "characters": "今朝",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "今朝"
+  },
   "primaryMeaning": "This Morning",
-  "otherMeanings": [],
-  "primaryReading": "けさ",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 497,
-      "character": "今",
-      "readings": [
-        "こん",
-        "いま"
-      ]
-    },
-    {
-      "id": 695,
-      "character": "朝",
-      "readings": [
-        "あさ",
-        "ちょう"
-      ]
-    }
-  ],
   "meaningMnemonic": "<kanji>Now</kanji> <kanji>morning</kanji> is just another way of saying <vocabulary>this morning</vocabulary>. It's the closest morning to right now!",
+  "primaryReading": "けさ",
   "readingMnemonic": "This reading is an exception. Let's use this mnemonic to remember it:\n\n<vocabulary>This morning</vocabulary> you want a <reading>quesa</reading>dilla (けさ) for breakfast. You can't wait until tomorrow morning, you NEED it this morning! Imagine eating a delicious quesadilla first thing this morning. Mmm!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BB%8A%E6%9C%9D",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "今",
-      "id": 497,
-      "reading": null
-    },
-    {
-      "type": "kanji",
-      "value": "朝",
-      "id": 695,
-      "reading": null
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BB%8A%E6%9C%9D"
+  }
 }

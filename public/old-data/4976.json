@@ -1,0 +1,44 @@
+{
+  "id": 4976,
+  "type": "vocabulary",
+  "characters": "輸入",
+  "primaryMeaning": "Import",
+  "otherMeanings": [],
+  "primaryReading": "ゆにゅう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1221,
+      "character": "輸",
+      "readings": [
+        "ゆ"
+      ]
+    },
+    {
+      "id": 445,
+      "character": "入",
+      "readings": [
+        "にゅう",
+        "はい",
+        "い"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>transport</kanji> of things that <kanji>enter</kanji> your country are <vocabulary>import</vocabulary>s.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%BC%B8%E5%85%A5",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "輸",
+      "id": 1221,
+      "reading": "ゆ"
+    },
+    {
+      "type": "kanji",
+      "value": "入",
+      "id": 445,
+      "reading": "にゅう"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": 5377,
+  "type": "vocabulary",
+  "characters": "遊園地",
+  "primaryMeaning": "Amusement Park",
+  "otherMeanings": [
+    "Theme Park"
+  ],
+  "primaryReading": "ゆうえんち",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1417,
+      "character": "遊",
+      "readings": [
+        "ゆう",
+        "あそ"
+      ]
+    },
+    {
+      "id": 960,
+      "character": "園",
+      "readings": [
+        "えん",
+        "その"
+      ]
+    },
+    {
+      "id": 608,
+      "character": "地",
+      "readings": [
+        "ち",
+        "じ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>play</kanji> <kanji>park</kanji> <kanji>ground</kanji> is where you go play. It's fun. It's an <vocabulary>amusement park</vocabulary>!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%81%8A%E5%9C%92%E5%9C%B0",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "遊",
+      "id": 1417,
+      "reading": "ゆう"
+    },
+    {
+      "type": "kanji",
+      "value": "園",
+      "id": 960,
+      "reading": "えん"
+    },
+    {
+      "type": "kanji",
+      "value": "地",
+      "id": 608,
+      "reading": "ち"
+    }
+  ]
+}

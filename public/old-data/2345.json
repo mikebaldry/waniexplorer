@@ -1,0 +1,35 @@
+{
+  "id": 2345,
+  "type": "kanji",
+  "character": "遍",
+  "primaryMeaning": "Universal",
+  "otherMeanings": [],
+  "primaryReading": "へん",
+  "readings": [
+    {
+      "reading": "へん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "あまね",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Riding a scooter to the library is so <kanji>universal</kanji>, even <reading>hen</reading>s (へん) do it. ",
+  "meaningMnemonic": "Riding a <radical>scooter</radical> to the <radical>library</radical> is a <kanji>universal</kanji> experience. People young and old have all, at some point, taken a scooter to the library, picked up a book, used the internet, sat in the comfy chairs, then left via that same scooter.",
+  "vocabularyIds": [
+    8413,
+    8414,
+    8415,
+    8416,
+    8582,
+    8583
+  ],
+  "radicalIds": [
+    114,
+    338
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%81%8D"
+}

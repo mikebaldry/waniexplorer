@@ -1,0 +1,47 @@
+{
+  "id": 6465,
+  "type": "vocabulary",
+  "characters": "拳銃",
+  "primaryMeaning": "Revolver",
+  "otherMeanings": [
+    "Pistol",
+    "Handgun"
+  ],
+  "primaryReading": "けんじゅう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1792,
+      "character": "拳",
+      "readings": [
+        "けん",
+        "げん",
+        "こぶし"
+      ]
+    },
+    {
+      "id": 1739,
+      "character": "銃",
+      "readings": [
+        "じゅう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>fist</kanji> <kanji>gun</kanji> is a small fistish sized gun that has some punch (because, you know, fist!). The gun I'm describing is a <vocabulary>revolver</vocabulary>, or a <vocabulary>handgun</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8B%B3%E9%8A%83",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "拳",
+      "id": 1792,
+      "reading": "けん"
+    },
+    {
+      "type": "kanji",
+      "value": "銃",
+      "id": 1739,
+      "reading": "じゅう"
+    }
+  ]
+}

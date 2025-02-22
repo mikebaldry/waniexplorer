@@ -1,48 +1,20 @@
 {
   "id": 6166,
   "type": "vocabulary",
-  "characters": "妊娠する",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "妊娠する"
+  },
   "primaryMeaning": "To Be Pregnant",
+  "meaningMnemonic": "To do <kanji>pregnant</kanji> <kanji>pregnant</kanji> is <vocabulary>to be pregnant</vocabulary>.",
+  "primaryReading": "にんしんする",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "To Get Pregnant"
   ],
-  "primaryReading": "にんしんする",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1680,
-      "character": "妊",
-      "readings": [
-        "にん"
-      ]
-    },
-    {
-      "id": 1681,
-      "character": "娠",
-      "readings": [
-        "しん"
-      ]
-    }
-  ],
-  "meaningMnemonic": "To do <kanji>pregnant</kanji> <kanji>pregnant</kanji> is <vocabulary>to be pregnant</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A6%8A%E5%A8%A0%E3%81%99%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "妊",
-      "id": 1680,
-      "reading": "にん"
-    },
-    {
-      "type": "kanji",
-      "value": "娠",
-      "id": 1681,
-      "reading": "しん"
-    },
-    {
-      "type": "kana",
-      "value": "する"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A6%8A%E5%A8%A0%E3%81%99%E3%82%8B"
+  }
 }

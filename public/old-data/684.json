@@ -1,0 +1,31 @@
+{
+  "id": 684,
+  "type": "kanji",
+  "character": "局",
+  "primaryMeaning": "Bureau",
+  "otherMeanings": [
+    "Department"
+  ],
+  "primaryReading": "きょく",
+  "readings": [
+    {
+      "reading": "きょく",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "The <kanji>bureau</kanji>'s best-kept secret is cloaking devices that <reading>cloak you</reading> (きょく) with the press of a button.",
+  "meaningMnemonic": "Your nation's <radical>flag</radical> sits on top of a <radical>cape</radical>d <radical>mouth</radical>. This is the symbol for the \"<kanji>Bureau</kanji> of Secret Things.\" It's a special <kanji>department</kanji> of your government made to keep things hidden.",
+  "vocabularyIds": [
+    3011,
+    3012,
+    4026,
+    5203
+  ],
+  "radicalIds": [
+    37,
+    8780,
+    16
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%B1%80"
+}

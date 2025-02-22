@@ -1,0 +1,50 @@
+{
+  "id": 6268,
+  "type": "vocabulary",
+  "characters": "解雇する",
+  "primaryMeaning": "To Fire Someone",
+  "otherMeanings": [
+    "To Fire"
+  ],
+  "primaryReading": "かいこする",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1150,
+      "character": "解",
+      "readings": [
+        "かい",
+        "と"
+      ]
+    },
+    {
+      "id": 1713,
+      "character": "雇",
+      "readings": [
+        "こ",
+        "やと"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You are going to <kanji>untie</kanji> the person who is in your <kanji>employ</kanji> from being employed with you. They are free. This means you fired them, which is why this verb means <vocabulary>to fire someone</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A7%A3%E9%9B%87%E3%81%99%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "解",
+      "id": 1150,
+      "reading": "かい"
+    },
+    {
+      "type": "kanji",
+      "value": "雇",
+      "id": 1713,
+      "reading": "こ"
+    },
+    {
+      "type": "kana",
+      "value": "する"
+    }
+  ]
+}

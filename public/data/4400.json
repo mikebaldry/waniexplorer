@@ -1,48 +1,21 @@
 {
   "id": 4400,
   "type": "vocabulary",
-  "characters": "経済",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "経済"
+  },
   "primaryMeaning": "Economy",
+  "meaningMnemonic": "When a <kanji>passage of time</kanji> <kanji>comes to an end</kanji>, you look back on it and see how well you did. Did we make more money? Did we make less? That's all <vocabulary>economics</vocabulary>, baby (that's money, baby!).",
+  "primaryReading": "けいざい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. The さい changes to ざい, though, so watch out for that.",
   "otherMeanings": [
     "Economics",
     "The Economy"
   ],
-  "primaryReading": "けいざい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1120,
-      "character": "経",
-      "readings": [
-        "けい",
-        "た",
-        "へ"
-      ]
-    },
-    {
-      "id": 1124,
-      "character": "済",
-      "readings": [
-        "さい",
-        "す"
-      ]
-    }
-  ],
-  "meaningMnemonic": "When a <kanji>passage of time</kanji> <kanji>comes to an end</kanji>, you look back on it and see how well you did. Did we make more money? Did we make less? That's all <vocabulary>economics</vocabulary>, baby (that's money, baby!).",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. The さい changes to ざい, though, so watch out for that.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B5%8C%E6%B8%88",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "経",
-      "id": 1120,
-      "reading": "けい"
-    },
-    {
-      "type": "kanji",
-      "value": "済",
-      "id": 1124,
-      "reading": "ざい"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%B5%8C%E6%B8%88"
+  }
 }

@@ -1,48 +1,20 @@
 {
   "id": 7931,
   "type": "vocabulary",
-  "characters": "突貫",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "突貫"
+  },
   "primaryMeaning": "Rush",
+  "meaningMnemonic": "If you <kanji>stab</kanji> to <kanji>pierce</kanji> something, you’d better do it in a <vocabulary>rush</vocabulary>. If you aren't quick enough, you could get into trouble, so rush forth with a mighty charge.\n\n突貫 means doing something in a rush. It’s usually used in the compound 突貫工事, which means fast but often sloppy construction work. It can also describe charging at an enemy, but that meaning is less common today.",
+  "primaryReading": "とっかん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Charge"
   ],
-  "primaryReading": "とっかん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1304,
-      "character": "突",
-      "readings": [
-        "とつ",
-        "つ"
-      ]
-    },
-    {
-      "id": 2156,
-      "character": "貫",
-      "readings": [
-        "かん",
-        "つらぬ",
-        "ぬき",
-        "ぬ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "If you <kanji>stab</kanji> to <kanji>pierce</kanji> something, you’d better do it in a <vocabulary>rush</vocabulary>. If you aren't quick enough, you could get into trouble, so rush forth with a mighty charge.\n\n突貫 means doing something in a rush. It’s usually used in the compound 突貫工事, which means fast but often sloppy construction work. It can also describe charging at an enemy, but that meaning is less common today.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%AA%81%E8%B2%AB",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "突",
-      "id": 1304,
-      "reading": "とっ"
-    },
-    {
-      "type": "kanji",
-      "value": "貫",
-      "id": 2156,
-      "reading": "かん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%AA%81%E8%B2%AB"
+  }
 }

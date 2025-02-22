@@ -1,0 +1,50 @@
+{
+  "id": 6699,
+  "type": "vocabulary",
+  "characters": "威張る",
+  "primaryMeaning": "To Act Big",
+  "otherMeanings": [
+    "To Be Arrogant",
+    "To Be Bossy"
+  ],
+  "primaryReading": "いばる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1852,
+      "character": "威",
+      "readings": [
+        "い"
+      ]
+    },
+    {
+      "id": 1205,
+      "character": "張",
+      "readings": [
+        "ちょう",
+        "は"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Take your <kanji>dignity</kanji> and <kanji>stretch</kanji> it. Your dignity is so stretched! That makes you feel big! That's why this word is <vocabulary>to act big</vocabulary> or <vocabulary>to be arrogant</vocabulary>.",
+  "readingMnemonic": "The reading is from 威 and 張る.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A8%81%E5%BC%B5%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "威",
+      "id": 1852,
+      "reading": "い"
+    },
+    {
+      "type": "kanji",
+      "value": "張",
+      "id": 1205,
+      "reading": "ば"
+    },
+    {
+      "type": "kana",
+      "value": "る"
+    }
+  ]
+}

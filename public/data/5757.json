@@ -1,38 +1,21 @@
 {
   "id": 5757,
   "type": "vocabulary",
-  "characters": "吐く",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "吐く"
+  },
   "primaryMeaning": "To Puke",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>throw up</kanji> so the verb version is <vocabulary>to throw up</vocabulary> or <vocabulary>to puke</vocabulary> or <vocabulary>to spit</vocabulary>.",
+  "primaryReading": "はく",
+  "readingMnemonic": "The reading is from the reading you learned with the kanji. HA HA HA! Barf.",
   "otherMeanings": [
     "To Throw Up",
     "To Spit"
   ],
-  "primaryReading": "はく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1550,
-      "character": "吐",
-      "readings": [
-        "は",
-        "つ",
-        "と"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>throw up</kanji> so the verb version is <vocabulary>to throw up</vocabulary> or <vocabulary>to puke</vocabulary> or <vocabulary>to spit</vocabulary>.",
-  "readingMnemonic": "The reading is from the reading you learned with the kanji. HA HA HA! Barf.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%90%90%E3%81%8F",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "吐",
-      "id": 1550,
-      "reading": "は"
-    },
-    {
-      "type": "kana",
-      "value": "く"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%90%90%E3%81%8F"
+  }
 }

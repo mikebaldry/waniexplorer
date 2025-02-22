@@ -1,0 +1,53 @@
+{
+  "id": 6561,
+  "type": "vocabulary",
+  "characters": "駆け出す",
+  "primaryMeaning": "To Rush Out",
+  "otherMeanings": [],
+  "primaryReading": "かけだす",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1744,
+      "character": "駆",
+      "readings": [
+        "か",
+        "く"
+      ]
+    },
+    {
+      "id": 483,
+      "character": "出",
+      "readings": [
+        "しゅつ",
+        "で",
+        "だ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "駆ける is \"to gallop\" and 出す is \"to remove.\" So if you gallop out to remove yourself you are probably going <vocabulary>to rush out</vocabulary> a little fast. Calm down and slow down, man!",
+  "readingMnemonic": "The readings come from 駆ける and 出す.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%A7%86%E3%81%91%E5%87%BA%E3%81%99",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "駆",
+      "id": 1744,
+      "reading": "か"
+    },
+    {
+      "type": "kana",
+      "value": "け"
+    },
+    {
+      "type": "kanji",
+      "value": "出",
+      "id": 483,
+      "reading": "だ"
+    },
+    {
+      "type": "kana",
+      "value": "す"
+    }
+  ]
+}

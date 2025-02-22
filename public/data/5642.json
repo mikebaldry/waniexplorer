@@ -1,50 +1,22 @@
 {
   "id": 5642,
   "type": "vocabulary",
-  "characters": "拡大",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "拡大"
+  },
   "primaryMeaning": "Zoom",
+  "meaningMnemonic": "<kanji>Extend</kanji> the lens nice and <kanji>big</kanji> to <vocabulary>zoom</vocabulary> in on the subject, please. That's <vocabulary>magnification</vocabulary>, <vocabulary>enlargement</vocabulary>, and <vocabulary>expansion</vocabulary>.",
+  "primaryReading": "かくだい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Magnification",
     "Enlargement",
     "Expansion"
   ],
-  "primaryReading": "かくだい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1524,
-      "character": "拡",
-      "readings": [
-        "かく",
-        "ひろ"
-      ]
-    },
-    {
-      "id": 453,
-      "character": "大",
-      "readings": [
-        "たい",
-        "だい",
-        "おお",
-        "ひろ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Extend</kanji> the lens nice and <kanji>big</kanji> to <vocabulary>zoom</vocabulary> in on the subject, please. That's <vocabulary>magnification</vocabulary>, <vocabulary>enlargement</vocabulary>, and <vocabulary>expansion</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8B%A1%E5%A4%A7",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "拡",
-      "id": 1524,
-      "reading": "かく"
-    },
-    {
-      "type": "kanji",
-      "value": "大",
-      "id": 453,
-      "reading": "だい"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%8B%A1%E5%A4%A7"
+  }
 }

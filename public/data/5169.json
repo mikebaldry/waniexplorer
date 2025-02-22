@@ -1,39 +1,20 @@
 {
   "id": 5169,
   "type": "vocabulary",
-  "characters": "清い",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "清い"
+  },
   "primaryMeaning": "Pure",
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>pure</kanji>? It's <vocabulary>pure</vocabulary>.",
+  "primaryReading": "きよい",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \"In order to stay <vocabulary>pure</vocabulary> and <vocabulary>clean</vocabulary>, you shouldn't ever do anything dirty or bad. That is the <reading>key, yo</reading> (きよ).\"",
   "otherMeanings": [
     "Clean"
   ],
-  "primaryReading": "きよい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1356,
-      "character": "清",
-      "readings": [
-        "せい",
-        "しょう",
-        "しん",
-        "きよ",
-        "し"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>pure</kanji>? It's <vocabulary>pure</vocabulary>.",
-  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \"In order to stay <vocabulary>pure</vocabulary> and <vocabulary>clean</vocabulary>, you shouldn't ever do anything dirty or bad. That is the <reading>key, yo</reading> (きよ).\"",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B8%85%E3%81%84",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "清",
-      "id": 1356,
-      "reading": "きよ"
-    },
-    {
-      "type": "kana",
-      "value": "い"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B8%85%E3%81%84"
+  }
 }

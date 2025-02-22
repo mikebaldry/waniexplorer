@@ -1,37 +1,21 @@
 {
   "id": 6801,
   "type": "vocabulary",
-  "characters": "叱る",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "叱る"
+  },
   "primaryMeaning": "To Scold",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>scold</kanji> and the verb vocab version also means <vocabulary>to scold</vocabulary>.",
+  "primaryReading": "しかる",
+  "readingMnemonic": "The reading comes from the reading you learned with the kanji.",
   "otherMeanings": [
     "To Chide",
     "To Reprimand"
   ],
-  "primaryReading": "しかる",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1884,
-      "character": "叱",
-      "readings": [
-        "しか",
-        "しつ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>scold</kanji> and the verb vocab version also means <vocabulary>to scold</vocabulary>.",
-  "readingMnemonic": "The reading comes from the reading you learned with the kanji.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8F%B1%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "叱",
-      "id": 1884,
-      "reading": "しか"
-    },
-    {
-      "type": "kana",
-      "value": "る"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%8F%B1%E3%82%8B"
+  }
 }

@@ -1,0 +1,31 @@
+{
+  "id": 1540,
+  "type": "kanji",
+  "character": "蔵",
+  "primaryMeaning": "Storehouse",
+  "otherMeanings": [],
+  "primaryReading": "ぞう",
+  "readings": [
+    {
+      "reading": "ぞう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "くら",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You have a <kanji>storehouse</kanji>. Inside is where you keep all your <reading>zo</reading>mbies (ぞう).",
+  "meaningMnemonic": "The <radical>storehouse</radical> radical and the <kanji>storehouse</kanji> kanji meanings are the same. If you know the radical, you know the kanji!",
+  "vocabularyIds": [
+    5683,
+    5684,
+    5685
+  ],
+  "radicalIds": [
+    347
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%94%B5"
+}

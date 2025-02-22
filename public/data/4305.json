@@ -1,48 +1,20 @@
 {
   "id": 4305,
   "type": "vocabulary",
-  "characters": "犯人",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "犯人"
+  },
   "primaryMeaning": "Culprit",
+  "meaningMnemonic": "A <kanji>crime</kanji>  <kanji>person</kanji> is a <vocabulary>culprit</vocabulary>, or a <vocabulary>criminal</vocabulary>.\n\nJust note that 犯人 is mostly used to talk about the culprit of a specific crime, not criminals in general.",
+  "primaryReading": "はんにん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Criminal"
   ],
-  "primaryReading": "はんにん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1115,
-      "character": "犯",
-      "readings": [
-        "はん",
-        "おか"
-      ]
-    },
-    {
-      "id": 444,
-      "character": "人",
-      "readings": [
-        "にん",
-        "じん",
-        "ひと",
-        "と"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>crime</kanji>  <kanji>person</kanji> is a <vocabulary>culprit</vocabulary>, or a <vocabulary>criminal</vocabulary>.\n\nJust note that 犯人 is mostly used to talk about the culprit of a specific crime, not criminals in general.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%8A%AF%E4%BA%BA",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "犯",
-      "id": 1115,
-      "reading": "はん"
-    },
-    {
-      "type": "kanji",
-      "value": "人",
-      "id": 444,
-      "reading": "にん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%8A%AF%E4%BA%BA"
+  }
 }

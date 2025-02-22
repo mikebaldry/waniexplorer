@@ -1,0 +1,46 @@
+{
+  "id": 6882,
+  "type": "vocabulary",
+  "characters": "可也",
+  "primaryMeaning": "Considerably",
+  "otherMeanings": [
+    "Fairly",
+    "Quite"
+  ],
+  "primaryReading": "かなり",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1049,
+      "character": "可",
+      "readings": [
+        "か"
+      ]
+    },
+    {
+      "id": 1917,
+      "character": "也",
+      "readings": [
+        "なり",
+        "や"
+      ]
+    }
+  ],
+  "meaningMnemonic": "It's <kanji>possible</kanji> that it's <kanji>considerably</kanji> considerable. It's <vocabulary>considerably</vocabulary>, <vocabulary>fairly</vocabulary>, and <vocabulary>quite</vocabulary>... something. Also please note that this is almost always written in kana and not kanji. But, we're learning kanji here, so gosh darn it we're going to learn some kanji.",
+  "readingMnemonic": "The reading is the same as the reading you learned with the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8F%AF%E4%B9%9F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "可",
+      "id": 1049,
+      "reading": "か"
+    },
+    {
+      "type": "kanji",
+      "value": "也",
+      "id": 1917,
+      "reading": "なり"
+    }
+  ]
+}

@@ -1,43 +1,51 @@
 {
   "id": 1579,
   "type": "kanji",
-  "character": "遅",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "遅"
+  },
+  "primaryReading": "ち",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ち",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "おそ",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "おく",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Slow",
   "otherMeanings": [
     "Late"
   ],
-  "primaryReading": "ち",
-  "readings": [
-    {
-      "reading": "ち",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "おそ",
-      "primary": false,
-      "type": "kunyomi"
-    },
-    {
-      "reading": "おく",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "You follow the flag, but the sheep refuse to <kanji>slow</kanji> down so you have to get creative. You place <reading>chee</reading>se (ち) every ten feet or so, that way the sheep slow down to bend down on their scooters and take a bite.",
   "meaningMnemonic": "Next to the <radical>scooter</radical>, there's a <radical>flag</radical> warning you that there are <radical>sheep</radical> around here, so you should go <kanji>slow</kanji>. That means you might be <kanji>late</kanji>, but at least the sheep will be okay!",
-  "vocabularyIds": [
-    5859,
-    5860,
-    5861,
-    5878,
-    6039,
-    7230
-  ],
-  "radicalIds": [
-    114,
-    37,
-    136
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%81%85"
+  "readingMnemonic": "You follow the flag, but the sheep refuse to <kanji>slow</kanji> down so you have to get creative. You place <reading>chee</reading>se (ち) every ten feet or so, that way the sheep slow down to bend down on their scooters and take a bite.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%81%85"
+  },
+  "related": {
+    "radicals": [
+      114,
+      37,
+      136
+    ],
+    "vocabularies": [
+      5859,
+      5860,
+      5861,
+      5878,
+      6039,
+      7230
+    ]
+  }
 }

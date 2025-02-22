@@ -1,46 +1,18 @@
 {
   "id": 5968,
   "type": "vocabulary",
-  "characters": "遺伝",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "遺伝"
+  },
   "primaryMeaning": "Heredity",
-  "otherMeanings": [],
-  "primaryReading": "いでん",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1616,
-      "character": "遺",
-      "readings": [
-        "い",
-        "ゆい",
-        "のこ"
-      ]
-    },
-    {
-      "id": 777,
-      "character": "伝",
-      "readings": [
-        "でん",
-        "つた",
-        "つて"
-      ]
-    }
-  ],
   "meaningMnemonic": "What I <kanji>leave behind</kanji> and <kanji>transmit</kanji> to you is your <vocabulary>heredity</vocabulary>. You have my genes, even after I'm gone.",
+  "primaryReading": "いでん",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji, which you've already learned. ",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%81%BA%E4%BC%9D",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "遺",
-      "id": 1616,
-      "reading": "い"
-    },
-    {
-      "type": "kanji",
-      "value": "伝",
-      "id": 777,
-      "reading": "でん"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%81%BA%E4%BC%9D"
+  }
 }

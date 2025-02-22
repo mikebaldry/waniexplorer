@@ -1,37 +1,21 @@
 {
   "id": 3316,
   "type": "vocabulary",
-  "characters": "働く",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "働く"
+  },
   "primaryMeaning": "To Work",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>work</kanji>, and the verb version means <vocabulary>to work</vocabulary>, <vocabulary>to labor</vocabulary>, and sometimes <vocabulary>to commit</vocabulary> (a crime).",
+  "primaryReading": "はたらく",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: If you are as mad as a <reading>hatter</reading> you'll need <vocabulary>to work</vocabulary> very hard to regain your sanity. You know The Hatter from Alice in Wonderland? Imagine how hard he would have to work to be considered \"normal\".",
   "otherMeanings": [
     "To Labor",
     "To Commit"
   ],
-  "primaryReading": "はたらく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 809,
-      "character": "働",
-      "readings": [
-        "どう",
-        "はたら"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>work</kanji>, and the verb version means <vocabulary>to work</vocabulary>, <vocabulary>to labor</vocabulary>, and sometimes <vocabulary>to commit</vocabulary> (a crime).",
-  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: If you are as mad as a <reading>hatter</reading> you'll need <vocabulary>to work</vocabulary> very hard to regain your sanity. You know The Hatter from Alice in Wonderland? Imagine how hard he would have to work to be considered \"normal\".",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%83%8D%E3%81%8F",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "働",
-      "id": 809,
-      "reading": "はたら"
-    },
-    {
-      "type": "kana",
-      "value": "く"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%83%8D%E3%81%8F"
+  }
 }

@@ -1,47 +1,21 @@
 {
   "id": 5817,
   "type": "vocabulary",
-  "characters": "承知",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "承知"
+  },
   "primaryMeaning": "Consent",
+  "meaningMnemonic": "You <kanji>consent</kanji> and <kanji>know</kanji> everything that's going on. You <vocabulary>consent</vocabulary> and <vocabulary>know</vocabulary> about all this. You're <vocabulary>aware</vocabulary> of it.",
+  "primaryReading": "しょうち",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Know",
     "Aware"
   ],
-  "primaryReading": "しょうち",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1572,
-      "character": "承",
-      "readings": [
-        "しょう",
-        "うけたまわ"
-      ]
-    },
-    {
-      "id": 631,
-      "character": "知",
-      "readings": [
-        "ち",
-        "し"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You <kanji>consent</kanji> and <kanji>know</kanji> everything that's going on. You <vocabulary>consent</vocabulary> and <vocabulary>know</vocabulary> about all this. You're <vocabulary>aware</vocabulary> of it.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%89%BF%E7%9F%A5",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "承",
-      "id": 1572,
-      "reading": "しょう"
-    },
-    {
-      "type": "kanji",
-      "value": "知",
-      "id": 631,
-      "reading": "ち"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%89%BF%E7%9F%A5"
+  }
 }

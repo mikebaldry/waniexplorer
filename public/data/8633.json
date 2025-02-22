@@ -1,44 +1,18 @@
 {
   "id": 8633,
   "type": "vocabulary",
-  "characters": "湧水",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "湧水"
+  },
   "primaryMeaning": "Spring Water",
-  "otherMeanings": [],
-  "primaryReading": "ゆうすい",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2447,
-      "character": "湧",
-      "readings": [
-        "ゆう",
-        "わ"
-      ]
-    },
-    {
-      "id": 479,
-      "character": "水",
-      "readings": [
-        "すい",
-        "みず"
-      ]
-    }
-  ],
   "meaningMnemonic": "<kanji>Well up</kanji> <kanji>water</kanji> is <vocabulary>spring water</vocabulary>. Kind of makes sense, right? \n\nNote that 湧水 is a formal word generally encountered in written language.",
+  "primaryReading": "ゆうすい",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B9%A7%E6%B0%B4",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "湧",
-      "id": 2447,
-      "reading": "ゆう"
-    },
-    {
-      "type": "kanji",
-      "value": "水",
-      "id": 479,
-      "reading": "すい"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B9%A7%E6%B0%B4"
+  }
 }

@@ -1,0 +1,46 @@
+{
+  "id": 4596,
+  "type": "vocabulary",
+  "characters": "職場",
+  "primaryMeaning": "Place Of Work",
+  "otherMeanings": [
+    "Workplace",
+    "Place Of Employment"
+  ],
+  "primaryReading": "しょくば",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1189,
+      "character": "職",
+      "readings": [
+        "しょく"
+      ]
+    },
+    {
+      "id": 694,
+      "character": "場",
+      "readings": [
+        "じょう",
+        "ば"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Your <kanji>employment</kanji> <kanji>location</kanji> is your <vocabulary>place of work</vocabulary> or <vocabulary>place of employment</vocabulary>. It's also your <vocabulary>workplace</vocabulary>.\n\nAre you using WaniKani at your 職場 right now? Wouldn't that be funny.",
+  "readingMnemonic": "This word uses the on'yomi reading for the first kanji and the kun'yomi reading for the second kanji. That's all you have to remember, though, because you've seen both of these readings before!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%81%B7%E5%A0%B4",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "職",
+      "id": 1189,
+      "reading": "しょく"
+    },
+    {
+      "type": "kanji",
+      "value": "場",
+      "id": 694,
+      "reading": "ば"
+    }
+  ]
+}

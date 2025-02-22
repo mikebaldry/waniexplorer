@@ -1,0 +1,47 @@
+{
+  "id": 7134,
+  "type": "vocabulary",
+  "characters": "胴体",
+  "primaryMeaning": "Body",
+  "otherMeanings": [
+    "Trunk",
+    "Torso"
+  ],
+  "primaryReading": "どうたい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2009,
+      "character": "胴",
+      "readings": [
+        "どう"
+      ]
+    },
+    {
+      "id": 583,
+      "character": "体",
+      "readings": [
+        "たい",
+        "てい",
+        "からだ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Your <kanji>torso</kanji> <kanji>body</kanji> is the body area that's your torso. It's your <vocabulary>body</vocabulary> and <vocabulary>trunk</vocabulary> and <vocabulary>torso</vocabulary>, depending on what kind of body you have.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%83%B4%E4%BD%93",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "胴",
+      "id": 2009,
+      "reading": "どう"
+    },
+    {
+      "type": "kanji",
+      "value": "体",
+      "id": 583,
+      "reading": "たい"
+    }
+  ]
+}

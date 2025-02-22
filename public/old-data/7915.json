@@ -1,0 +1,50 @@
+{
+  "id": 7915,
+  "type": "vocabulary",
+  "characters": "膨大",
+  "primaryMeaning": "Huge",
+  "otherMeanings": [
+    "Bulky",
+    "Enormous",
+    "Extensive"
+  ],
+  "primaryReading": "ぼうだい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2169,
+      "character": "膨",
+      "readings": [
+        "ぼう",
+        "ふく"
+      ]
+    },
+    {
+      "id": 453,
+      "character": "大",
+      "readings": [
+        "たい",
+        "だい",
+        "おお",
+        "ひろ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A thing that <kanji>swell</kanji>s <kanji>big</kanji> ends up being <vocabulary>huge</vocabulary> or at least really <vocabulary>bulky</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%86%A8%E5%A4%A7",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "膨",
+      "id": 2169,
+      "reading": "ぼう"
+    },
+    {
+      "type": "kanji",
+      "value": "大",
+      "id": 453,
+      "reading": "だい"
+    }
+  ]
+}

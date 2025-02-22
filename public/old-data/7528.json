@@ -1,0 +1,38 @@
+{
+  "id": 7528,
+  "type": "vocabulary",
+  "characters": "大きく",
+  "primaryMeaning": "In A Big Way",
+  "otherMeanings": [
+    "On A Grand Scale"
+  ],
+  "primaryReading": "おおきく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 453,
+      "character": "大",
+      "readings": [
+        "たい",
+        "だい",
+        "おお",
+        "ひろ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This is the adverb version of the kanji <kanji>big</kanji>. It's a little thing you can put in front of things to say that they are \"<vocabulary>in a big way</vocabulary>\" or \"<vocabulary>on a grand scale</vocabulary>.\"",
+  "readingMnemonic": "Since you already know the reading of the vocab word 大きい, you should be able to read this word as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A4%A7%E3%81%8D%E3%81%8F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "大",
+      "id": 453,
+      "reading": "おお"
+    },
+    {
+      "type": "kana",
+      "value": "きく"
+    }
+  ]
+}

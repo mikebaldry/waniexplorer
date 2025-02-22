@@ -1,43 +1,51 @@
 {
   "id": 1037,
   "type": "kanji",
-  "character": "等",
-  "primaryMeaning": "Equal",
-  "otherMeanings": [],
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "等"
+  },
   "primaryReading": "とう",
   "readings": [
     {
-      "reading": "とう",
       "primary": true,
+      "reading": "とう",
       "type": "onyomi"
     },
     {
-      "reading": "ひと",
       "primary": false,
+      "reading": "ひと",
       "type": "kunyomi"
     },
     {
-      "reading": "など",
       "primary": false,
+      "reading": "など",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "The bamboo temple is also an <kanji>equal</kanji> distance away from the other temples in <reading>とう</reading>きょう. When you look at a map of とうきょう temples, you can measure them out and they'll all be perfectly equal.",
+  "primaryMeaning": "Equal",
+  "otherMeanings": [],
   "meaningMnemonic": "The <radical>bamboo</radical> <radical>temple</radical> is <kanji>equal</kanji> to all of the other non-bamboo temples. Just because it's made of bamboo doesn't make it any less special and spiritual.",
-  "vocabularyIds": [
-    4131,
-    4132,
-    4133,
-    4134,
-    5486,
-    7348,
-    7703,
-    7760,
-    8711
-  ],
-  "radicalIds": [
-    85,
-    192
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%AD%89"
+  "readingMnemonic": "The bamboo temple is also an <kanji>equal</kanji> distance away from the other temples in <reading>とう</reading>きょう. When you look at a map of とうきょう temples, you can measure them out and they'll all be perfectly equal.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%AD%89"
+  },
+  "related": {
+    "radicals": [
+      85,
+      192
+    ],
+    "vocabularies": [
+      4131,
+      4132,
+      4133,
+      4134,
+      5486,
+      7348,
+      7703,
+      7760,
+      8711
+    ]
+  }
 }

@@ -1,0 +1,47 @@
+{
+  "id": 3403,
+  "type": "vocabulary",
+  "characters": "子牛",
+  "primaryMeaning": "Calf",
+  "otherMeanings": [
+    "Baby Cow"
+  ],
+  "primaryReading": "こうし",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 462,
+      "character": "子",
+      "readings": [
+        "し",
+        "す",
+        "こ"
+      ]
+    },
+    {
+      "id": 511,
+      "character": "牛",
+      "readings": [
+        "ぎゅう",
+        "うし"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You have a child cow. What do you think a child cow is? Probably a <vocabulary>calf</vocabulary> or a <vocabulary>baby cow</vocabulary>.",
+  "readingMnemonic": "Since you should know the readings of the words 子 and 牛 from the previous level, you should be able to read this word too even though it's using the kun'yomi readings for the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AD%90%E7%89%9B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "子",
+      "id": 462,
+      "reading": "こ"
+    },
+    {
+      "type": "kanji",
+      "value": "牛",
+      "id": 511,
+      "reading": "うし"
+    }
+  ]
+}

@@ -1,33 +1,41 @@
 {
   "id": 1975,
   "type": "kanji",
-  "character": "綿",
-  "primaryMeaning": "Cotton",
-  "otherMeanings": [],
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "綿"
+  },
   "primaryReading": "めん",
   "readings": [
     {
-      "reading": "めん",
       "primary": true,
+      "reading": "めん",
       "type": "onyomi"
     },
     {
-      "reading": "わた",
       "primary": false,
+      "reading": "わた",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "This <kanji>cotton</kanji> is made by <reading>men</reading> (めん).",
+  "primaryMeaning": "Cotton",
+  "otherMeanings": [],
   "meaningMnemonic": "The <radical>white</radical> <radical>thread</radical> in your <radical>towel</radical> comes from <kanji>cotton</kanji>. We use cotton to make lots of things, like clothes and bedsheets. But white towels are always made from soft, fluffy cotton.",
-  "vocabularyIds": [
-    7049,
-    7050,
-    8692
-  ],
-  "radicalIds": [
-    86,
-    52,
-    102
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%B6%BF"
+  "readingMnemonic": "This <kanji>cotton</kanji> is made by <reading>men</reading> (めん).",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%B6%BF"
+  },
+  "related": {
+    "radicals": [
+      86,
+      52,
+      102
+    ],
+    "vocabularies": [
+      7049,
+      7050,
+      8692
+    ]
+  }
 }

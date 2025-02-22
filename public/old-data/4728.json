@@ -1,0 +1,50 @@
+{
+  "id": 4728,
+  "type": "vocabulary",
+  "characters": "定量",
+  "primaryMeaning": "Fixed Quantity",
+  "otherMeanings": [
+    "Measurement",
+    "Fixed Amount",
+    "Set Quantity",
+    "Set Amount"
+  ],
+  "primaryReading": "ていりょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 714,
+      "character": "定",
+      "readings": [
+        "てい",
+        "じょう",
+        "さだ"
+      ]
+    },
+    {
+      "id": 1238,
+      "character": "量",
+      "readings": [
+        "りょう",
+        "はか"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>determine</kanji>d <kanji>quantity</kanji> is a <vocabulary>fixed quantity</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AE%9A%E9%87%8F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "定",
+      "id": 714,
+      "reading": "てい"
+    },
+    {
+      "type": "kanji",
+      "value": "量",
+      "id": 1238,
+      "reading": "りょう"
+    }
+  ]
+}

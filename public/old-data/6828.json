@@ -1,0 +1,37 @@
+{
+  "id": 6828,
+  "type": "vocabulary",
+  "characters": "缶コーヒー",
+  "primaryMeaning": "Canned Coffee",
+  "otherMeanings": [
+    "Can Coffee"
+  ],
+  "primaryReading": "かんこーひー",
+  "otherReadings": [
+    "かんコーヒー"
+  ],
+  "kanji": [
+    {
+      "id": 1898,
+      "character": "缶",
+      "readings": [
+        "かん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>can</kanji> <kanji>coffee</kanji> (コーヒー) is coffee that's in a can. That's <vocabulary>canned coffee</vocabulary> or <vocabulary>can coffee</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%BC%B6%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "缶",
+      "id": 1898,
+      "reading": "かん"
+    },
+    {
+      "type": "kana",
+      "value": "コーヒー"
+    }
+  ]
+}

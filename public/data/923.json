@@ -1,41 +1,49 @@
 {
   "id": 923,
   "type": "kanji",
-  "character": "私",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "私"
+  },
+  "primaryReading": "し",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "し",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "わたし",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "I",
   "otherMeanings": [
     "Private"
   ],
-  "primaryReading": "し",
-  "readings": [
-    {
-      "reading": "し",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "わたし",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "You're getting into the zone, thinking about yourself (<kanji>I</kanji>) and how much you love having things that are <kanji>private</kanji> and just yours, when you realize there is a <reading>shee</reading>p (し) in this grain bag. And it's eating all of your (I's) private grains. No!",
   "meaningMnemonic": "Your <radical>private</radical> <radical>grain</radical>s are meant to stay <kanji>private</kanji>! You shouldn't be sharing them with the whole town, they're just for you.\n\nThis kanji also means <kanji>I</kanji>. Why? Because what's more private than you? I mean, I! Basically, some things are only the business of you (I) and those things should be private.",
-  "vocabularyIds": [
-    3714,
-    3715,
-    3716,
-    3717,
-    3864,
-    3918,
-    4129,
-    4240,
-    4529,
-    7840
-  ],
-  "radicalIds": [
-    135,
-    140
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%A7%81"
+  "readingMnemonic": "You're getting into the zone, thinking about yourself (<kanji>I</kanji>) and how much you love having things that are <kanji>private</kanji> and just yours, when you realize there is a <reading>shee</reading>p (し) in this grain bag. And it's eating all of your (I's) private grains. No!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%A7%81"
+  },
+  "related": {
+    "radicals": [
+      135,
+      140
+    ],
+    "vocabularies": [
+      3714,
+      3715,
+      3716,
+      3717,
+      3864,
+      3918,
+      4129,
+      4240,
+      4529,
+      7840
+    ]
+  }
 }

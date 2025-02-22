@@ -1,73 +1,18 @@
 {
   "id": 4969,
   "type": "vocabulary",
-  "characters": "お誕生日おめでとう",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "お誕生日おめでとう"
+  },
   "primaryMeaning": "Happy Birthday",
-  "otherMeanings": [],
-  "primaryReading": "おたんじょうびおめでとう",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1156,
-      "character": "誕",
-      "readings": [
-        "たん"
-      ]
-    },
-    {
-      "id": 850,
-      "character": "生",
-      "readings": [
-        "せい",
-        "しょう",
-        "い",
-        "なま",
-        "う",
-        "は",
-        "き"
-      ]
-    },
-    {
-      "id": 476,
-      "character": "日",
-      "readings": [
-        "にち",
-        "じつ",
-        "ひ",
-        "か",
-        "び"
-      ]
-    }
-  ],
   "meaningMnemonic": "誕生日 is <kanji>birthday</kanji>. おめでとう is like \"congratulations.\" So, congratulations for your birthday is like <vocabulary>happy birthday</vocabulary>!",
+  "primaryReading": "おたんじょうびおめでとう",
   "readingMnemonic": "The reading is the same as 誕生日, so if you know that you know this!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E3%81%8A%E8%AA%95%E7%94%9F%E6%97%A5%E3%81%8A%E3%82%81%E3%81%A7%E3%81%A8%E3%81%86",
-  "elements": [
-    {
-      "type": "kana",
-      "value": "お"
-    },
-    {
-      "type": "kanji",
-      "value": "誕",
-      "id": 1156,
-      "reading": "たん"
-    },
-    {
-      "type": "kanji",
-      "value": "生",
-      "id": 850,
-      "reading": "じょう"
-    },
-    {
-      "type": "kanji",
-      "value": "日",
-      "id": 476,
-      "reading": "び"
-    },
-    {
-      "type": "kana",
-      "value": "おめでとう"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E3%81%8A%E8%AA%95%E7%94%9F%E6%97%A5%E3%81%8A%E3%82%81%E3%81%A7%E3%81%A8%E3%81%86"
+  }
 }

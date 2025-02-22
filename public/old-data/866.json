@@ -1,0 +1,33 @@
+{
+  "id": 866,
+  "type": "kanji",
+  "character": "橋",
+  "primaryMeaning": "Bridge",
+  "otherMeanings": [],
+  "primaryReading": "はし",
+  "readings": [
+    {
+      "reading": "はし",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "きょう",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "The tree finishes crossing the <kanji>bridge</kanji> and on the other side is a plate of steaming <reading>hash</reading> (はし) browns! That's why it has a mouth. To eat yummy bridge hash browns.",
+  "meaningMnemonic": "A <radical>tree</radical> from <radical>heaven</radical> with a <radical>mustache</radical> above his <radical>mouth</radical> valiantly crosses a <kanji>bridge</kanji>. This holy tree from heaven was sent down to earth to cross this very bridge. It is the tree’s angelic mission. Also the tree has a mouth and a mustache.",
+  "vocabularyIds": [
+    3604,
+    8625
+  ],
+  "radicalIds": [
+    23,
+    40,
+    16,
+    121
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%A9%8B"
+}

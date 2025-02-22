@@ -1,0 +1,40 @@
+{
+  "id": 2274,
+  "type": "kanji",
+  "character": "癒",
+  "primaryMeaning": "Healing",
+  "otherMeanings": [
+    "Cure"
+  ],
+  "primaryReading": "ゆ",
+  "readings": [
+    {
+      "reading": "ゆ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "い",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "いや",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You realized that the only way to <kanji>cure</kanji> the Death Star is to turn it back into a <reading>yu</reading>rt (ゆ). Then it won't be able to do any more harm, and its outside will reflect its pleasant self on the inside!",
+  "meaningMnemonic": "The <radical>sick</radical> <radical>Death Star</radical> needs its <radical>heart</radical> <kanji>cure</kanji>d. If it doesn't get <kanji>healing</kanji> soon, it will die.",
+  "vocabularyIds": [
+    8224,
+    8225,
+    9053
+  ],
+  "radicalIds": [
+    187,
+    8790,
+    65
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%99%92"
+}

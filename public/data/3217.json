@@ -1,37 +1,21 @@
 {
   "id": 3217,
   "type": "vocabulary",
-  "characters": "鳴く",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "鳴く"
+  },
   "primaryMeaning": "To Make An Animal Sound",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>chirp</kanji> but the verb has the broader meaning <vocabulary>to make an animal sound</vocabulary>. Variations of this include <vocabulary>to bark</vocabulary> or <vocabulary>to chirp</vocabulary>, but this can be used for any animal sound.",
+  "primaryReading": "なく",
+  "readingMnemonic": "The reading is the same reading as the one you learned with the kanji. So, spend more time chirping and less time memorizing, okay?",
   "otherMeanings": [
     "To Bark",
     "To Chirp"
   ],
-  "primaryReading": "なく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 766,
-      "character": "鳴",
-      "readings": [
-        "な",
-        "めい"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>chirp</kanji> but the verb has the broader meaning <vocabulary>to make an animal sound</vocabulary>. Variations of this include <vocabulary>to bark</vocabulary> or <vocabulary>to chirp</vocabulary>, but this can be used for any animal sound.",
-  "readingMnemonic": "The reading is the same reading as the one you learned with the kanji. So, spend more time chirping and less time memorizing, okay?",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%B3%B4%E3%81%8F",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "鳴",
-      "id": 766,
-      "reading": "な"
-    },
-    {
-      "type": "kana",
-      "value": "く"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%B3%B4%E3%81%8F"
+  }
 }

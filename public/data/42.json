@@ -1,12 +1,15 @@
 {
   "id": 42,
   "type": "radical",
-  "primaryMeaning": "Writing",
-  "otherMeanings": [],
-  "character": {
+  "level": 2,
+  "characters": {
     "type": "text",
     "value": "文"
   },
-  "meaningMnemonic": "This looks like a stool with a lid on it, but it's actually a <radical>writing</radical> desk. Do you see it? You can even see the pen sticking up in the middle. Think of all the beautiful writing that's been produced here. Letters, novels, essays — any kind of writing you can think of.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/writing"
+  "primaryMeaning": "Writing",
+  "otherMeanings": [],
+  "meaningMnemonic": "This looks like a stool with a lid on it, but it's actually a desk for <radical>writing</radical>. Do you see it? You can even see the pen sticking up in the middle. Think of all the beautiful writing that's been produced here. Letters, novels, essays — any kind of writing you can think of.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/writing"
+  }
 }

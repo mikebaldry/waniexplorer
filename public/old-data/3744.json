@@ -1,0 +1,45 @@
+{
+  "id": 3744,
+  "type": "vocabulary",
+  "characters": "単語",
+  "primaryMeaning": "Word",
+  "otherMeanings": [
+    "Vocabulary"
+  ],
+  "primaryReading": "たんご",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 942,
+      "character": "単",
+      "readings": [
+        "たん"
+      ]
+    },
+    {
+      "id": 764,
+      "character": "語",
+      "readings": [
+        "ご",
+        "かた"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>simple</kanji> bits of <kanji>language</kanji> are the individual <vocabulary>word</vocabulary>s. If you think about it, this is true. First of all, there are a ton of them. Second, they're tiny. They're just little bits of language and the \"word\" for these little bits is <vocabulary>word</vocabulary>.\n\nSo what’s the difference between this and 言葉? Well, 言葉 can cover any meaningful set of words – anything from words, sentences and paragraphs, to whole texts and even languages. 単語, on the other hand, is a subset of 言葉 that specifically refers to single, distinct words.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8D%98%E8%AA%9E",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "単",
+      "id": 942,
+      "reading": "たん"
+    },
+    {
+      "type": "kanji",
+      "value": "語",
+      "id": 764,
+      "reading": "ご"
+    }
+  ]
+}

@@ -1,51 +1,20 @@
 {
   "id": 5693,
   "type": "vocabulary",
-  "characters": "裏通り",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "裏通り"
+  },
   "primaryMeaning": "Alley",
+  "meaningMnemonic": "A <kanji>backside</kanji> <kanji>street</kanji> (or \"avenue\") is a street that's not a main street... it's hidden and behind everything, making it an <vocabulary>alley</vocabulary>.",
+  "primaryReading": "うらどおり",
+  "readingMnemonic": "The reading is 裏 and 通り put together into one word.",
   "otherMeanings": [
     "Back Street"
   ],
-  "primaryReading": "うらどおり",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1542,
-      "character": "裏",
-      "readings": [
-        "うら",
-        "り"
-      ]
-    },
-    {
-      "id": 665,
-      "character": "通",
-      "readings": [
-        "つう",
-        "とお",
-        "かよ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>backside</kanji> <kanji>street</kanji> (or \"avenue\") is a street that's not a main street... it's hidden and behind everything, making it an <vocabulary>alley</vocabulary>.",
-  "readingMnemonic": "The reading is 裏 and 通り put together into one word.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A3%8F%E9%80%9A%E3%82%8A",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "裏",
-      "id": 1542,
-      "reading": "うら"
-    },
-    {
-      "type": "kanji",
-      "value": "通",
-      "id": 665,
-      "reading": "どお"
-    },
-    {
-      "type": "kana",
-      "value": "り"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%A3%8F%E9%80%9A%E3%82%8A"
+  }
 }

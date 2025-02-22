@@ -1,0 +1,45 @@
+{
+  "id": 5038,
+  "type": "vocabulary",
+  "characters": "究極",
+  "primaryMeaning": "Ultimate",
+  "otherMeanings": [],
+  "primaryReading": "きゅうきょく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 688,
+      "character": "究",
+      "readings": [
+        "きゅう",
+        "きわ"
+      ]
+    },
+    {
+      "id": 1340,
+      "character": "極",
+      "readings": [
+        "きょく",
+        "ごく",
+        "きわ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You are trying to <kanji>research</kanji> the <kanji>extreme</kanji>s. If you do that, you'll be able to figure out the <vocabulary>ultimate</vocabulary> weapon. Just researching the safe middle-ground stuff won't get you ultimate. Extreme research, however, will.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A9%B6%E6%A5%B5",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "究",
+      "id": 688,
+      "reading": "きゅう"
+    },
+    {
+      "type": "kanji",
+      "value": "極",
+      "id": 1340,
+      "reading": "きょく"
+    }
+  ]
+}

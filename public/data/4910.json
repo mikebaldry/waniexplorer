@@ -1,58 +1,20 @@
 {
   "id": 4910,
   "type": "vocabulary",
-  "characters": "差し上げる",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "差し上げる"
+  },
   "primaryMeaning": "To Give",
+  "meaningMnemonic": "This is a really humble and polite way to say \"<vocabulary>to give</vocabulary>,\" probably because you're lowering yourself down and raising the item above your head so far that you have to point at it because if you were touching it you'd be defiling it anyways so, you know, point at it and raise it way up, you little worm on the ground.",
+  "primaryReading": "さしあげる",
+  "readingMnemonic": "The reading is 差す and 上げる put together, both hopefully words you know okay by now.",
   "otherMeanings": [
     "To Raise Up"
   ],
-  "primaryReading": "さしあげる",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1235,
-      "character": "差",
-      "readings": [
-        "さ",
-        "さ"
-      ]
-    },
-    {
-      "id": 450,
-      "character": "上",
-      "readings": [
-        "じょう",
-        "うえ",
-        "あ",
-        "のぼ",
-        "うわ",
-        "かみ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This is a really humble and polite way to say \"<vocabulary>to give</vocabulary>,\" probably because you're lowering yourself down and raising the item above your head so far that you have to point at it because if you were touching it you'd be defiling it anyways so, you know, point at it and raise it way up, you little worm on the ground.",
-  "readingMnemonic": "The reading is 差す and 上げる put together, both hopefully words you know okay by now.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B7%AE%E3%81%97%E4%B8%8A%E3%81%92%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "差",
-      "id": 1235,
-      "reading": "さ"
-    },
-    {
-      "type": "kana",
-      "value": "し"
-    },
-    {
-      "type": "kanji",
-      "value": "上",
-      "id": 450,
-      "reading": "あ"
-    },
-    {
-      "type": "kana",
-      "value": "げる"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%B7%AE%E3%81%97%E4%B8%8A%E3%81%92%E3%82%8B"
+  }
 }

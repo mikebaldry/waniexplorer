@@ -1,46 +1,20 @@
 {
   "id": 7402,
   "type": "vocabulary",
-  "characters": "奮起",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "奮起"
+  },
   "primaryMeaning": "Stirring",
+  "meaningMnemonic": "I'm <kanji>stirred up</kanji> causing me to <kanji>wake up</kanji>. I'm <vocabulary>stirring</vocabulary> and <vocabulary>rousing oneself</vocabulary>.",
+  "primaryReading": "ふんき",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Rousing Oneself"
   ],
-  "primaryReading": "ふんき",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2105,
-      "character": "奮",
-      "readings": [
-        "ふん",
-        "ふる"
-      ]
-    },
-    {
-      "id": 740,
-      "character": "起",
-      "readings": [
-        "お",
-        "き"
-      ]
-    }
-  ],
-  "meaningMnemonic": "I'm <kanji>stirred up</kanji> causing me to <kanji>wake up</kanji>. I'm <vocabulary>stirring</vocabulary> and <vocabulary>rousing oneself</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A5%AE%E8%B5%B7",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "奮",
-      "id": 2105,
-      "reading": "ふん"
-    },
-    {
-      "type": "kanji",
-      "value": "起",
-      "id": 740,
-      "reading": "き"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A5%AE%E8%B5%B7"
+  }
 }

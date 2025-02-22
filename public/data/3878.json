@@ -1,53 +1,21 @@
 {
   "id": 3878,
   "type": "vocabulary",
-  "characters": "面白い",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "面白い"
+  },
   "primaryMeaning": "Interesting",
+  "meaningMnemonic": "The <kanji>face</kanji> of this object is so <kanji>white</kanji>! Why is it so white compared to everything else? This is so <vocabulary>interesting</vocabulary>...",
+  "primaryReading": "おもしろい",
+  "readingMnemonic": "The reading is unlike what you've learned before, at least with the 面 part (白い is just like the vocab word 白い). When you look at the white face of the object you say to your friend Moe: \"<reading>Oh mo</reading>!\" (おも) because you want him to come over and look at this. Try to imagine someone you know named Moe, or at least a celebrity or something named Moe.",
   "otherMeanings": [
     "Amusing",
     "Funny"
   ],
-  "primaryReading": "おもしろい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 974,
-      "character": "面",
-      "readings": [
-        "めん",
-        "おも",
-        "おもて"
-      ]
-    },
-    {
-      "id": 491,
-      "character": "白",
-      "readings": [
-        "はく",
-        "しろ",
-        "しら"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The <kanji>face</kanji> of this object is so <kanji>white</kanji>! Why is it so white compared to everything else? This is so <vocabulary>interesting</vocabulary>...",
-  "readingMnemonic": "The reading is unlike what you've learned before, at least with the 面 part (白い is just like the vocab word 白い). When you look at the white face of the object you say to your friend Moe: \"<reading>Oh mo</reading>!\" (おも) because you want him to come over and look at this. Try to imagine someone you know named Moe, or at least a celebrity or something named Moe.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9D%A2%E7%99%BD%E3%81%84",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "面",
-      "id": 974,
-      "reading": "おも"
-    },
-    {
-      "type": "kanji",
-      "value": "白",
-      "id": 491,
-      "reading": "しろ"
-    },
-    {
-      "type": "kana",
-      "value": "い"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%9D%A2%E7%99%BD%E3%81%84"
+  }
 }

@@ -1,37 +1,45 @@
 {
   "id": 2422,
   "type": "kanji",
-  "character": "侮",
-  "primaryMeaning": "Despise",
-  "otherMeanings": [],
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "侮"
+  },
   "primaryReading": "ぶ",
   "readings": [
     {
-      "reading": "ぶ",
       "primary": true,
+      "reading": "ぶ",
       "type": "onyomi"
     },
     {
-      "reading": "あなず",
       "primary": false,
+      "reading": "あなず",
       "type": "kunyomi"
     },
     {
-      "reading": "あなど",
       "primary": false,
+      "reading": "あなど",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "The more you <kanji>despise</kanji> them, the more <reading>boo</reading>ze (ぶ) you drink. This is not smart or healthy, but it's what this kind of hate does to people.",
+  "primaryMeaning": "Despise",
+  "otherMeanings": [],
   "meaningMnemonic": "<radical>Every</radical> <radical>leader</radical> will come to <kanji>despise</kanji> their followers. In the beginning everything is fine and dandy, but eventually the leader's followers will ask for more and more things, eventually ridiculous things, and the leader will really despise them for it.",
-  "vocabularyIds": [
-    8517,
-    8518,
-    8519
-  ],
-  "radicalIds": [
-    75,
-    379
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E4%BE%AE"
+  "readingMnemonic": "The more you <kanji>despise</kanji> them, the more <reading>boo</reading>ze (ぶ) you drink. This is not smart or healthy, but it's what this kind of hate does to people.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E4%BE%AE"
+  },
+  "related": {
+    "radicals": [
+      75,
+      379
+    ],
+    "vocabularies": [
+      8517,
+      8518,
+      8519
+    ]
+  }
 }

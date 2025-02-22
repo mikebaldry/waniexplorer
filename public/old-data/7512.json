@@ -1,0 +1,31 @@
+{
+  "id": 7512,
+  "type": "vocabulary",
+  "characters": "寸",
+  "primaryMeaning": "Sun",
+  "otherMeanings": [
+    "Three Point Zero Three Centimeters"
+  ],
+  "primaryReading": "すん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1872,
+      "character": "寸",
+      "readings": [
+        "すん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This <kanji>measurement</kanji> also refers to a specific measurement, a \"<vocabulary>sun</vocabulary>\", which is about <vocabulary>3.03 centimeters</vocabulary>. You'll hear it brought up from time to time to measure things, though usually with more traditional Japanese items.",
+  "readingMnemonic": "The reading is the same as the kanji! Congrats! Now to remember it's three point zero three centimeters.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AF%B8",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "寸",
+      "id": 1872,
+      "reading": "すん"
+    }
+  ]
+}

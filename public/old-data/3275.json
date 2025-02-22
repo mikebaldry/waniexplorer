@@ -1,0 +1,46 @@
+{
+  "id": 3275,
+  "type": "vocabulary",
+  "characters": "命令",
+  "primaryMeaning": "Order",
+  "otherMeanings": [
+    "Command"
+  ],
+  "primaryReading": "めいれい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 789,
+      "character": "命",
+      "readings": [
+        "めい",
+        "みょう",
+        "いのち"
+      ]
+    },
+    {
+      "id": 810,
+      "character": "令",
+      "readings": [
+        "れい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Your <kanji>fate</kanji> <kanji>orders</kanji> are the orders you get from above. You are <vocabulary>order</vocabulary>ed and <vocabulary>command</vocabulary>ed to carry out said orders.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%91%BD%E4%BB%A4",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "命",
+      "id": 789,
+      "reading": "めい"
+    },
+    {
+      "type": "kanji",
+      "value": "令",
+      "id": 810,
+      "reading": "れい"
+    }
+  ]
+}

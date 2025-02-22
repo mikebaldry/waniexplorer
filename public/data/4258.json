@@ -1,49 +1,22 @@
 {
   "id": 4258,
   "type": "vocabulary",
-  "characters": "一個",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "一個"
+  },
   "primaryMeaning": "One Small Thing",
+  "meaningMnemonic": "The counter 個, which means <kanji>individual</kanji> on its own, refers to \"an individual thing.\" This is usually a small thing, so it's used to count small things. This word here talks about <kanji>one</kanji> <kanji>individual</kanji>. A better way to translate that would be to call it <vocabulary>one small thing</vocabulary>.",
+  "primaryReading": "いっこ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. The いち gets shortened, but I bet you knew that already.",
   "otherMeanings": [
     "One Thing",
     "One Small Object",
     "One Object"
   ],
-  "primaryReading": "いっこ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 440,
-      "character": "一",
-      "readings": [
-        "いち",
-        "いつ",
-        "ひと",
-        "かず"
-      ]
-    },
-    {
-      "id": 1105,
-      "character": "個",
-      "readings": [
-        "こ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The counter 個, which means <kanji>individual</kanji> on its own, refers to \"an individual thing.\" This is usually a small thing, so it's used to count small things. This word here talks about <kanji>one</kanji> <kanji>individual</kanji>. A better way to translate that would be to call it <vocabulary>one small thing</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. The いち gets shortened, but I bet you knew that already.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%80%E5%80%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "一",
-      "id": 440,
-      "reading": "いっ"
-    },
-    {
-      "type": "kanji",
-      "value": "個",
-      "id": 1105,
-      "reading": "こ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B8%80%E5%80%8B"
+  }
 }

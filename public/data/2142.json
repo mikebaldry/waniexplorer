@@ -1,36 +1,44 @@
 {
   "id": 2142,
   "type": "kanji",
-  "character": "喚",
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "喚"
+  },
+  "primaryReading": "かん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "かん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "わめ",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Scream",
   "otherMeanings": [
     "Yell"
   ],
-  "primaryReading": "かん",
-  "readings": [
-    {
-      "reading": "かん",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "わめ",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "You <kanji>scream</kanji> and scream and scream until a door bursts open. It's Genghis <reading>Khan</reading> (かん) and he looks mad. Apparently your screaming is bothering him and now he's gonna give you a real reason to scream.",
   "meaningMnemonic": "You wake up in <radical>prison</radical> and there is a <radical>big</radical> <radical>mouth</radical> full of <radical>legs</radical> coming really, really close to your own <radical>mouth</radical> so you <kanji>scream</kanji>! Scream because this is terrifying. Scream because it's all you can think to do.",
-  "vocabularyIds": [
-    7788,
-    7789,
-    7790
-  ],
-  "radicalIds": [
-    16,
-    14,
-    28,
-    18
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%96%9A"
+  "readingMnemonic": "You <kanji>scream</kanji> and scream and scream until a door bursts open. It's Genghis <reading>Khan</reading> (かん) and he looks mad. Apparently your screaming is bothering him and now he's gonna give you a real reason to scream.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%96%9A"
+  },
+  "related": {
+    "radicals": [
+      16,
+      14,
+      28,
+      18
+    ],
+    "vocabularies": [
+      7788,
+      7789,
+      7790
+    ]
+  }
 }

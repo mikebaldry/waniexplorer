@@ -1,28 +1,36 @@
 {
   "id": 1989,
   "type": "kanji",
-  "character": "塀",
-  "primaryMeaning": "Fence",
-  "otherMeanings": [],
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "塀"
+  },
   "primaryReading": "へい",
   "readings": [
     {
-      "reading": "へい",
       "primary": true,
+      "reading": "へい",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "You want to know what this <kanji>fence</kanji> is fencing in, so you take a step closer. As the light from the lantern gets brighter you see that the fence is around a ton of <reading>hay</reading> (へい).",
+  "primaryMeaning": "Fence",
+  "otherMeanings": [],
   "meaningMnemonic": "In the <radical>dirt</radical> there are <radical>flag</radical>s and <radical>horns</radical> lined up with a <radical>lantern</radical> attached to them, making a <kanji>fence</kanji>. It's a little weird looking, but these things are definitely supposed to fence something in.",
-  "vocabularyIds": [
-    7088,
-    7089
-  ],
-  "radicalIds": [
-    17,
-    37,
-    8767,
-    171
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%A1%80"
+  "readingMnemonic": "You want to know what this <kanji>fence</kanji> is fencing in, so you take a step closer. As the light from the lantern gets brighter you see that the fence is around a ton of <reading>hay</reading> (へい).",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%A1%80"
+  },
+  "related": {
+    "radicals": [
+      17,
+      37,
+      8767,
+      171
+    ],
+    "vocabularies": [
+      7088,
+      7089
+    ]
+  }
 }

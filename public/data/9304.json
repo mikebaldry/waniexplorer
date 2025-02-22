@@ -1,41 +1,22 @@
 {
   "id": 9304,
   "type": "vocabulary",
-  "characters": "重なる",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "重なる"
+  },
   "primaryMeaning": "To Be Piled Up",
+  "meaningMnemonic": "If you remember 重ねる, then you'll recognize this as the intransitive version of that verb. Literally, this means <vocabulary>to be piled up</vocabulary>, but it's often used to mean <vocabulary>to coincide</vocabulary>, <vocabulary>to overlap</vocabulary> or <vocabulary>to accumulate</vocabulary>.\n\nAs is often our recommendation for more complicated or hard-to-translate words like this one, check out our common word combinations and context sentences to see how this word is used!",
+  "primaryReading": "かさなる",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You learned that reading with 重ねる, but in case it's slipped your mind, here's a mnemonic to help you remember:\n\nAll these boxes that are <vocabulary>piled up</vocabulary> are here because you've just moved into your new <reading>casa</reading> (かさ). Congratulations! Now it's time to unpack every single box you've <vocabulary>accumulate</vocabulary>d. Have fun.",
   "otherMeanings": [
     "To Coincide",
     "To Overlap",
     "To Accumulate"
   ],
-  "primaryReading": "かさなる",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 735,
-      "character": "重",
-      "readings": [
-        "じゅう",
-        "ちょう",
-        "おも",
-        "かさ",
-        "え"
-      ]
-    }
-  ],
-  "meaningMnemonic": "If you remember 重ねる, then you'll recognize this as the intransitive version of that verb. Literally, this means <vocabulary>to be piled up</vocabulary>, but it's often used to mean <vocabulary>to coincide</vocabulary>, <vocabulary>to overlap</vocabulary> or <vocabulary>to accumulate</vocabulary>.\n\nAs is often our recommendation for more complicated or hard-to-translate words like this one, check out our common word combinations and context sentences to see how this word is used!",
-  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You learned that reading with 重ねる, but in case it's slipped your mind, here's a mnemonic to help you remember:\n\nAll these boxes that are <vocabulary>piled up</vocabulary> are here because you've just moved into your new <reading>casa</reading> (かさ). Congratulations! Now it's time to unpack every single box you've <vocabulary>accumulate</vocabulary>d. Have fun.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%87%8D%E3%81%AA%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "重",
-      "id": 735,
-      "reading": "かさ"
-    },
-    {
-      "type": "kana",
-      "value": "なる"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%87%8D%E3%81%AA%E3%82%8B"
+  }
 }

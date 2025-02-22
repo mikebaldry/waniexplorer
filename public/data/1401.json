@@ -1,27 +1,35 @@
 {
   "id": 1401,
   "type": "kanji",
-  "character": "宗",
-  "primaryMeaning": "Religion",
-  "otherMeanings": [],
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "宗"
+  },
   "primaryReading": "しゅう",
   "readings": [
     {
-      "reading": "しゅう",
       "primary": true,
+      "reading": "しゅう",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "Your <kanji>religion</kanji> requires everyone to take off their <reading>shoe</reading>s (しゅう). Mostly because the shoes will help them resist the jackhammering, so you tell them that to join your religion they have to leave their shoes at the door.",
+  "primaryMeaning": "Religion",
+  "otherMeanings": [],
   "meaningMnemonic": "Under this <radical>roof</radical> you <radical>jackhammer</radical> your <kanji>religion</kanji> into people.",
-  "vocabularyIds": [
-    5225,
-    5226,
-    5227
-  ],
-  "radicalIds": [
-    78,
-    207
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%AE%97"
+  "readingMnemonic": "Your <kanji>religion</kanji> requires everyone to take off their <reading>shoe</reading>s (しゅう). Mostly because the shoes will help them resist the jackhammering, so you tell them that to join your religion they have to leave their shoes at the door.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%AE%97"
+  },
+  "related": {
+    "radicals": [
+      78,
+      207
+    ],
+    "vocabularies": [
+      5225,
+      5226,
+      5227
+    ]
+  }
 }

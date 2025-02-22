@@ -1,48 +1,20 @@
 {
   "id": 8607,
   "type": "vocabulary",
-  "characters": "妄想",
+  "level": 60,
+  "characters": {
+    "type": "text",
+    "value": "妄想"
+  },
   "primaryMeaning": "Delusion",
+  "meaningMnemonic": "<kanji>Reckless</kanji> things you <kanji>imagine</kanji> are just <vocabulary>delusion</vocabulary>s. You shouldn't dwell on them, they probably aren't going to happen.",
+  "primaryReading": "もうそう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Fantasy"
   ],
-  "primaryReading": "もうそう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2463,
-      "character": "妄",
-      "readings": [
-        "もう",
-        "ぼう",
-        "みだ"
-      ]
-    },
-    {
-      "id": 861,
-      "character": "想",
-      "readings": [
-        "そう",
-        "そ",
-        "おも"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Reckless</kanji> things you <kanji>imagine</kanji> are just <vocabulary>delusion</vocabulary>s. You shouldn't dwell on them, they probably aren't going to happen.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A6%84%E6%83%B3",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "妄",
-      "id": 2463,
-      "reading": "もう"
-    },
-    {
-      "type": "kanji",
-      "value": "想",
-      "id": 861,
-      "reading": "そう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A6%84%E6%83%B3"
+  }
 }

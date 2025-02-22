@@ -1,48 +1,20 @@
 {
   "id": 7484,
   "type": "vocabulary",
-  "characters": "火傷",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "火傷"
+  },
   "primaryMeaning": "Burn",
+  "meaningMnemonic": "A <kanji>fire</kanji> <kanji>wound</kanji> is a <vocabulary>burn</vocabulary> or <vocabulary>scald</vocabulary> you got from fire (or other hot things). Ouch!",
+  "primaryReading": "やけど",
+  "readingMnemonic": "The reading for this is unlike anything you've seen with these kanji. Try to think about a <vocabulary>burn</vocabulary> (on your arm) being caused by a <reading>yakky do</reading>do (やけど) bird (which is a dodo bird that has yak-like features). Take a look at how weird it is, and wonder why it is burning you. Feel the pain.",
   "otherMeanings": [
     "Scald"
   ],
-  "primaryReading": "やけど",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 480,
-      "character": "火",
-      "readings": [
-        "か",
-        "ひ",
-        "ほ"
-      ]
-    },
-    {
-      "id": 1499,
-      "character": "傷",
-      "readings": [
-        "しょう",
-        "きず",
-        "いた"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>fire</kanji> <kanji>wound</kanji> is a <vocabulary>burn</vocabulary> or <vocabulary>scald</vocabulary> you got from fire (or other hot things). Ouch!",
-  "readingMnemonic": "The reading for this is unlike anything you've seen with these kanji. Try to think about a <vocabulary>burn</vocabulary> (on your arm) being caused by a <reading>yakky do</reading>do (やけど) bird (which is a dodo bird that has yak-like features). Take a look at how weird it is, and wonder why it is burning you. Feel the pain.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%81%AB%E5%82%B7",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "火",
-      "id": 480,
-      "reading": null
-    },
-    {
-      "type": "kanji",
-      "value": "傷",
-      "id": 1499,
-      "reading": null
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%81%AB%E5%82%B7"
+  }
 }

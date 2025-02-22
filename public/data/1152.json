@@ -1,36 +1,44 @@
 {
   "id": 1152,
   "type": "kanji",
-  "character": "認",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "認"
+  },
+  "primaryReading": "にん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "にん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "みと",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Recognize",
   "otherMeanings": [
     "Acknowledge"
   ],
-  "primaryReading": "にん",
-  "readings": [
-    {
-      "reading": "にん",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "みと",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "Having their words carved into your heart makes you <kanji>recognize</kanji> the authority of many people. But the only one you could ever truly <kanji>acknowledge</kanji>, is <reading>Nin</reading>tendo (にん).",
   "meaningMnemonic": "Whatever people <radical>say</radical> to you will be carved by a <radical>blade</radical> into your <radical>heart</radical>. Sounds cruel, but it's a way to make you <kanji>recognize</kanji> their power.",
-  "vocabularyIds": [
-    4472,
-    4473,
-    4577,
-    5818
-  ],
-  "radicalIds": [
-    117,
-    393,
-    65
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%AA%8D"
+  "readingMnemonic": "Having their words carved into your heart makes you <kanji>recognize</kanji> the authority of many people. But the only one you could ever truly <kanji>acknowledge</kanji>, is <reading>Nin</reading>tendo (にん).",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%AA%8D"
+  },
+  "related": {
+    "radicals": [
+      117,
+      393,
+      65
+    ],
+    "vocabularies": [
+      4472,
+      4473,
+      4577,
+      5818
+    ]
+  }
 }

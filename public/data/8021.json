@@ -1,38 +1,22 @@
 {
   "id": 8021,
   "type": "vocabulary",
-  "characters": "肯く",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "肯く"
+  },
   "primaryMeaning": "To Nod",
+  "meaningMnemonic": "If you want to show your <kanji>agreement</kanji> with someone you need <vocabulary>to nod</vocabulary> at them so they know. ",
+  "primaryReading": "うなずく",
+  "readingMnemonic": "The reading for this word is an exception. Here's a mnemonic to help you remember it:\n\nYou seem <vocabulary>to nod</vocabulary> your head a lot when you're at the <reading>una</reading>gi <reading>zoo</reading> (うなず). Unagi zoos are really rare and hard to get into. So while you're there, keep nodding to everyone because you're so honored to be there!\n\n肯く also has two readings. うなずく is the standard, but うなづく is more and more acceptable these days too. Luckily they sound pretty similar (if not the same), so they should be easy to remember!",
   "otherMeanings": [
     "To Bow One's Head"
   ],
-  "primaryReading": "うなずく",
   "otherReadings": [
     "うなづく"
   ],
-  "kanji": [
-    {
-      "id": 2130,
-      "character": "肯",
-      "readings": [
-        "こう",
-        "がえんじ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "If you want to show your <kanji>agreement</kanji> with someone you need <vocabulary>to nod</vocabulary> at them so they know. ",
-  "readingMnemonic": "The reading for this word is an exception. Here's a mnemonic to help you remember it:\n\nYou seem <vocabulary>to nod</vocabulary> your head a lot when you're at the <reading>una</reading>gi <reading>zoo</reading> (うなず). Unagi zoos are really rare and hard to get into. So while you're there, keep nodding to everyone because you're so honored to be there!\n\n肯く also has two readings. うなずく is the standard, but うなづく is more and more acceptable these days too. Luckily they sound pretty similar (if not the same), so they should be easy to remember!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%82%AF%E3%81%8F",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "肯",
-      "id": 2130,
-      "reading": null
-    },
-    {
-      "type": "kana",
-      "value": "く"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%82%AF%E3%81%8F"
+  }
 }

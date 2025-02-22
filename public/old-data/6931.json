@@ -1,0 +1,36 @@
+{
+  "id": 6931,
+  "type": "vocabulary",
+  "characters": "狂う",
+  "primaryMeaning": "To Go Mad",
+  "otherMeanings": [
+    "To Go Crazy"
+  ],
+  "primaryReading": "くるう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1939,
+      "character": "狂",
+      "readings": [
+        "きょう",
+        "くる"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>lunatic</kanji> or <kanji>crazy</kanji>. The verb version of this is <vocabulary>to go mad</vocabulary> (you don't really \"go lunatic\" now, do you?) or <vocabulary>to go crazy</vocabulary>.",
+  "readingMnemonic": "To remember the reading, just think about how when you go crazy, you are <reading>coming</reading> (来る) to crazy town. Just imagine some voice beckoning you to come. Come here! Please come here! Come to crazy town! Give in to the voices!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%8B%82%E3%81%86",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "狂",
+      "id": 1939,
+      "reading": "くる"
+    },
+    {
+      "type": "kana",
+      "value": "う"
+    }
+  ]
+}

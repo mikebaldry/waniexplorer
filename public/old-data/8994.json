@@ -1,0 +1,33 @@
+{
+  "id": 8994,
+  "type": "kanji",
+  "character": "屁",
+  "primaryMeaning": "Flatulence",
+  "otherMeanings": [
+    "Gas"
+  ],
+  "primaryReading": "へ",
+  "readings": [
+    {
+      "reading": "へ",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "ひ",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "How do you read <kanji>flatulence</kanji>? <reading>Heh</reading>(へ)...heh..heh..heheheh. You can't NOT laugh at the word flatulence.\n\nNote that some dictionaries incorrectly list おなら as a reading for this kanji. While おなら also means \"flatulence\" (as in \"fart\"), you’ll only ever encounter this reading in hiragana, as the kanji can only be read as へ.",
+  "meaningMnemonic": "Use a <radical>flag</radical> to <radical>compare</radical> your <kanji>flatulence</kanji>.\n",
+  "vocabularyIds": [
+    9004,
+    9005
+  ],
+  "radicalIds": [
+    37,
+    161
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%B1%81"
+}

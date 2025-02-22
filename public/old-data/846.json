@@ -1,0 +1,50 @@
+{
+  "id": 846,
+  "type": "kanji",
+  "character": "着",
+  "primaryMeaning": "Wear",
+  "otherMeanings": [
+    "Arrive"
+  ],
+  "primaryReading": "ちゃく",
+  "readings": [
+    {
+      "reading": "ちゃく",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "き",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "つ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "More sheep <kanji>arrive</kanji> every day to admire the clothes you're <kanji>wear</kanji>ing. You use a <reading>chalk</reading> (ちゃく) board to keep count of how many sheep come by each day.",
+  "meaningMnemonic": "There are <radical>sheep</radical> right before your <radical>eye</radical>s, because they just love what you <kanji>wear</kanji>. It's a little known fact that sheep are fashionistas, and they <kanji>arrive</kanji> daily to admire your style. These sheep are so stylish they wear their tail to one side - in the latest fashion (check out the sheep radical - the tail is sweeping stylishly to the left!).",
+  "vocabularyIds": [
+    3393,
+    3394,
+    3395,
+    3396,
+    3397,
+    3798,
+    3885,
+    5037,
+    6068,
+    6571,
+    7062,
+    7394,
+    8225,
+    8817
+  ],
+  "radicalIds": [
+    136,
+    53
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%9D%80"
+}

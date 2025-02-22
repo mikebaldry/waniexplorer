@@ -1,34 +1,18 @@
 {
   "id": 4654,
   "type": "vocabulary",
-  "characters": "違い",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "違い"
+  },
   "primaryMeaning": "Difference",
-  "otherMeanings": [],
-  "primaryReading": "ちがい",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1220,
-      "character": "違",
-      "readings": [
-        "ちが",
-        "い"
-      ]
-    }
-  ],
   "meaningMnemonic": "This is a single kanji with an い on the end, meaning you'd think it's probably an adjective. However in this case, it's a noun. What's the noun form of <kanji>different</kanji>? It's <vocabulary>difference</vocabulary>.",
+  "primaryReading": "ちがい",
   "readingMnemonic": "The reading is the same as the one you learned with the kanji. Not different at all.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%81%95%E3%81%84",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "違",
-      "id": 1220,
-      "reading": "ちが"
-    },
-    {
-      "type": "kana",
-      "value": "い"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%81%95%E3%81%84"
+  }
 }

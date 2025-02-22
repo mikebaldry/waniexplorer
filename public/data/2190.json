@@ -1,33 +1,41 @@
 {
   "id": 2190,
   "type": "kanji",
-  "character": "寛",
-  "primaryMeaning": "Tolerance",
-  "otherMeanings": [],
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "寛"
+  },
   "primaryReading": "かん",
   "readings": [
     {
-      "reading": "かん",
       "primary": true,
+      "reading": "かん",
       "type": "onyomi"
     },
     {
-      "reading": "くつろ",
       "primary": false,
+      "reading": "くつろ",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "<kanji>Tolerance</kanji> is one thing that Genghis <reading>Khan</reading> (かん) had a surprising amount of.",
+  "primaryMeaning": "Tolerance",
+  "otherMeanings": [],
   "meaningMnemonic": "The <radical>roof</radical> <radical>flowers</radical> <radical>see</radical> everything. But, they only see. That is because they learned the art of <kanji>tolerance</kanji>.",
-  "vocabularyIds": [
-    7974,
-    7975,
-    7976
-  ],
-  "radicalIds": [
-    78,
-    90,
-    91
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%AF%9B"
+  "readingMnemonic": "<kanji>Tolerance</kanji> is one thing that Genghis <reading>Khan</reading> (かん) had a surprising amount of.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%AF%9B"
+  },
+  "related": {
+    "radicals": [
+      78,
+      90,
+      91
+    ],
+    "vocabularies": [
+      7974,
+      7975,
+      7976
+    ]
+  }
 }

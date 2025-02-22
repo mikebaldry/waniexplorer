@@ -1,0 +1,45 @@
+{
+  "id": 6448,
+  "type": "vocabulary",
+  "characters": "近隣",
+  "primaryMeaning": "Neighborhood",
+  "otherMeanings": [],
+  "primaryReading": "きんりん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 596,
+      "character": "近",
+      "readings": [
+        "きん",
+        "こん",
+        "ちか"
+      ]
+    },
+    {
+      "id": 1772,
+      "character": "隣",
+      "readings": [
+        "りん",
+        "となり"
+      ]
+    }
+  ],
+  "meaningMnemonic": "All the <kanji>near</kanji> <kanji>neighbor</kanji>s are the people who live around you and near you. They're a part of the <vocabulary>neighborhood</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%BF%91%E9%9A%A3",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "近",
+      "id": 596,
+      "reading": "きん"
+    },
+    {
+      "type": "kanji",
+      "value": "隣",
+      "id": 1772,
+      "reading": "りん"
+    }
+  ]
+}

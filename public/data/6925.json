@@ -1,37 +1,20 @@
 {
   "id": 6925,
   "type": "vocabulary",
-  "characters": "嫁ぐ",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "嫁ぐ"
+  },
   "primaryMeaning": "To Marry",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>bride</kanji> and the verb vocab version is <vocabulary>to marry</vocabulary>, because you can't really \"to bride\" someone.\n\n嫁ぐ is often used when describing how someone has or is going <vocabulary>to marry into</vocabulary> another family.",
+  "primaryReading": "とつぐ",
+  "readingMnemonic": "Imagine you're getting married to a valley girl. You're all like. Hey, I'm gonna marry you! And she's all like <reading>Tots</reading> (とつ), we gonna get, like, married! Imagine her saying more \"tots\" things (tots = short for totally in valley girl speak, at least in my imagination).",
   "otherMeanings": [
     "To Marry Into"
   ],
-  "primaryReading": "とつぐ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1936,
-      "character": "嫁",
-      "readings": [
-        "よめ",
-        "とつ",
-        "か"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>bride</kanji> and the verb vocab version is <vocabulary>to marry</vocabulary>, because you can't really \"to bride\" someone.\n\n嫁ぐ is often used when describing how someone has or is going <vocabulary>to marry into</vocabulary> another family.",
-  "readingMnemonic": "Imagine you're getting married to a valley girl. You're all like. Hey, I'm gonna marry you! And she's all like <reading>Tots</reading> (とつ), we gonna get, like, married! Imagine her saying more \"tots\" things (tots = short for totally in valley girl speak, at least in my imagination).",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AB%81%E3%81%90",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "嫁",
-      "id": 1936,
-      "reading": "とつ"
-    },
-    {
-      "type": "kana",
-      "value": "ぐ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%AB%81%E3%81%90"
+  }
 }

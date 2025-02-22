@@ -1,26 +1,34 @@
 {
   "id": 2079,
   "type": "kanji",
-  "character": "奨",
-  "primaryMeaning": "Encourage",
-  "otherMeanings": [],
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "奨"
+  },
   "primaryReading": "しょう",
   "readings": [
     {
-      "reading": "しょう",
       "primary": true,
+      "reading": "しょう",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "He <kanji>encourage</kanji>s the <reading>Shou</reading>gun (しょう) too! You've never seen the Shougun express any emotion other than intense indifference or intense dislike.",
+  "primaryMeaning": "Encourage",
+  "otherMeanings": [],
   "meaningMnemonic": "A <radical>commander</radical> who's <radical>big</radical> will use his size to <kanji>encourage</kanji> his troops.",
-  "vocabularyIds": [
-    7344,
-    7345
-  ],
-  "radicalIds": [
-    8831,
-    18
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%A5%A8"
+  "readingMnemonic": "He <kanji>encourage</kanji>s the <reading>Shou</reading>gun (しょう) too! You've never seen the Shougun express any emotion other than intense indifference or intense dislike.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%A5%A8"
+  },
+  "related": {
+    "radicals": [
+      8831,
+      18
+    ],
+    "vocabularies": [
+      7344,
+      7345
+    ]
+  }
 }

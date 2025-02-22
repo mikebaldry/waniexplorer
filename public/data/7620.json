@@ -1,46 +1,18 @@
 {
   "id": 7620,
   "type": "vocabulary",
-  "characters": "金星",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "金星"
+  },
   "primaryMeaning": "Venus",
-  "otherMeanings": [],
-  "primaryReading": "きんせい",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 602,
-      "character": "金",
-      "readings": [
-        "きん",
-        "こん",
-        "かね",
-        "かな"
-      ]
-    },
-    {
-      "id": 638,
-      "character": "星",
-      "readings": [
-        "せい",
-        "ほし"
-      ]
-    }
-  ],
   "meaningMnemonic": "The <kanji>gold</kanji> <kanji>star</kanji> is <vocabulary>Venus</vocabulary>. It's the only planet in our solar system that's the same color as gold.",
+  "primaryReading": "きんせい",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%87%91%E6%98%9F",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "金",
-      "id": 602,
-      "reading": "きん"
-    },
-    {
-      "type": "kanji",
-      "value": "星",
-      "id": 638,
-      "reading": "せい"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%87%91%E6%98%9F"
+  }
 }

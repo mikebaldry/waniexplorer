@@ -1,39 +1,47 @@
 {
   "id": 842,
   "type": "kanji",
-  "character": "温",
-  "primaryMeaning": "Warm",
-  "otherMeanings": [],
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "温"
+  },
   "primaryReading": "おん",
   "readings": [
     {
-      "reading": "おん",
       "primary": true,
+      "reading": "おん",
       "type": "onyomi"
     },
     {
-      "reading": "あたた",
       "primary": false,
+      "reading": "あたた",
       "type": "kunyomi"
     }
   ],
+  "primaryMeaning": "Warm",
+  "otherMeanings": [],
+  "meaningMnemonic": "There's a <radical>tsunami</radical> which washes a <radical>plate</radical> out into the <radical>sun</radical>. Because it's in the sun, it becomes  <kanji>warm</kanji>.",
   "readingMnemonic": "The plate starts to get so <kanji>warm</kanji> that you could fry an <reading>on</reading>ion (おん) on it. Who doesn’t love fried onions? That plate sure is warm enough, so start cookin’ ‘em!",
-  "meaningMnemonic": "After a <radical>tsunami</radical>, any <radical>plate</radical> left out in the <radical>sun</radical> will be sure to get <kanji>warm</kanji>. The tsunami knocked this plate out of the kitchen, and now it’s just sitting outside in the sun. The sun heats things, so the plate is getting really warm.",
-  "vocabularyIds": [
-    3385,
-    3386,
-    3387,
-    3888,
-    4847,
-    5594,
-    6581,
-    8954,
-    9065
-  ],
-  "radicalIds": [
-    103,
-    22,
-    84
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%B8%A9"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%B8%A9"
+  },
+  "related": {
+    "radicals": [
+      103,
+      22,
+      84
+    ],
+    "vocabularies": [
+      3385,
+      3386,
+      3387,
+      3888,
+      4847,
+      5594,
+      6581,
+      8954,
+      9065
+    ]
+  }
 }

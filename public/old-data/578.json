@@ -1,0 +1,71 @@
+{
+  "id": 578,
+  "type": "kanji",
+  "character": "自",
+  "primaryMeaning": "Self",
+  "otherMeanings": [
+    "Oneself"
+  ],
+  "primaryReading": "じ",
+  "readings": [
+    {
+      "reading": "じ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "し",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "みずか",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "When we need to remember じ we use the word \"Jesus.\"\n\nWho said you should always look at your <kanji>self</kanji> before tossing stones (or whatever) at others? <reading>Je</reading>sus (じ) did. So, make sure you look at your own self before being a jerk.",
+  "meaningMnemonic": "The <radical>self</radical> radical and <kanji>self</kanji> are the same in looks as well as in meaning. ",
+  "vocabularyIds": [
+    2770,
+    2771,
+    2930,
+    3021,
+    3173,
+    3607,
+    3610,
+    3733,
+    3864,
+    3909,
+    3910,
+    4002,
+    4035,
+    4238,
+    4416,
+    4511,
+    4637,
+    4683,
+    4759,
+    4972,
+    5547,
+    5565,
+    5794,
+    5882,
+    6012,
+    6042,
+    6095,
+    7124,
+    7469,
+    7571,
+    7594,
+    7885,
+    7997,
+    8079,
+    8129,
+    9160
+  ],
+  "radicalIds": [
+    109
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%87%AA"
+}

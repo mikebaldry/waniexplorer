@@ -1,0 +1,45 @@
+{
+  "id": 7448,
+  "type": "vocabulary",
+  "characters": "粘々",
+  "primaryMeaning": "Stickiness",
+  "otherMeanings": [
+    "Sticky"
+  ],
+  "primaryReading": "ねばねば",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1978,
+      "character": "粘",
+      "readings": [
+        "ねん",
+        "ねば"
+      ]
+    },
+    {
+      "id": 856,
+      "character": "々",
+      "readings": [
+        "のま"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Sticky</kanji> <kanji>sticky</kanji> things are really <vocabulary>sticky</vocabulary> and covered with <vocabulary>stickiness</vocabulary>.",
+  "readingMnemonic": "The reading comes from 粘る. I suppose you <reading>never never</reading> want to touch something <vocabulary>sticky</vocabulary>.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B2%98%E3%80%85",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "粘",
+      "id": 1978,
+      "reading": "ねば"
+    },
+    {
+      "type": "kanji",
+      "value": "々",
+      "id": 1978,
+      "reading": "ねば"
+    }
+  ]
+}

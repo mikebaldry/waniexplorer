@@ -1,0 +1,49 @@
+{
+  "id": 8637,
+  "type": "vocabulary",
+  "characters": "煩雑",
+  "primaryMeaning": "Complex",
+  "otherMeanings": [
+    "Intricate",
+    "Complicated"
+  ],
+  "primaryReading": "はんざつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2451,
+      "character": "煩",
+      "readings": [
+        "はん",
+        "ぼん",
+        "うるさ",
+        "わずら"
+      ]
+    },
+    {
+      "id": 1494,
+      "character": "雑",
+      "readings": [
+        "ざつ",
+        "ぞう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you think someone is trying to <kanji>annoy</kanji> you at <kanji>random</kanji>, just pay attention and you'll see that they have a <vocabulary>complex</vocabulary> annoying pattern they're using on you. Once you figure that out, it won't annoy you as much and you'll win!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%85%A9%E9%9B%91",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "煩",
+      "id": 2451,
+      "reading": "はん"
+    },
+    {
+      "type": "kanji",
+      "value": "雑",
+      "id": 1494,
+      "reading": "ざつ"
+    }
+  ]
+}

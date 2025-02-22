@@ -1,12 +1,15 @@
 {
   "id": 35,
   "type": "radical",
-  "primaryMeaning": "Small",
-  "otherMeanings": [],
-  "character": {
+  "level": 2,
+  "characters": {
     "type": "text",
     "value": "小"
   },
-  "meaningMnemonic": "You have fins and you have a barb. A fish that you can stick an entire barb through like this would have to be really <radical>small</radical>, since it's sticking through the whole fish body (which you can imagine by basing the body off the size of the fins compared to the already small barb.)",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/small"
+  "primaryMeaning": "Small",
+  "otherMeanings": [],
+  "meaningMnemonic": "You see two fins around a barb, but when you look closer, you realize those fins are actually two tiny fish. Think how small these fins (and fish) would have to be to look so much smaller than an already small barb. Talk about small fry… Yeah, that's why this is the radical for <radical>small</radical>.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/small"
+  }
 }

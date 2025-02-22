@@ -1,48 +1,22 @@
 {
   "id": 6867,
   "type": "vocabulary",
-  "characters": "元凶",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "元凶"
+  },
   "primaryMeaning": "Ringleader",
+  "meaningMnemonic": "The <kanji>origin</kanji> <kanji>villain</kanji> is the villain who's running everything. They're the person responsible for the villainy going on. They are the <vocabulary>ringleader</vocabulary> or <vocabulary>main culprit</vocabulary>.",
+  "primaryReading": "げんきょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Main Culprit"
   ],
-  "primaryReading": "げんきょう",
   "otherReadings": [
     "がんきょう"
   ],
-  "kanji": [
-    {
-      "id": 498,
-      "character": "元",
-      "readings": [
-        "げん",
-        "がん",
-        "もと"
-      ]
-    },
-    {
-      "id": 1911,
-      "character": "凶",
-      "readings": [
-        "きょう"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The <kanji>origin</kanji> <kanji>villain</kanji> is the villain who's running everything. They're the person responsible for the villainy going on. They are the <vocabulary>ringleader</vocabulary> or <vocabulary>main culprit</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%85%83%E5%87%B6",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "元",
-      "id": 498,
-      "reading": "げん"
-    },
-    {
-      "type": "kanji",
-      "value": "凶",
-      "id": 1911,
-      "reading": "きょう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%85%83%E5%87%B6"
+  }
 }

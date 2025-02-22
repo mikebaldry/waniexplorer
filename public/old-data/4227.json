@@ -1,0 +1,46 @@
+{
+  "id": 4227,
+  "type": "vocabulary",
+  "characters": "続々",
+  "primaryMeaning": "One After Another",
+  "otherMeanings": [
+    "Successively",
+    "In Succession"
+  ],
+  "primaryReading": "ぞくぞく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1083,
+      "character": "続",
+      "readings": [
+        "ぞく",
+        "つづ"
+      ]
+    },
+    {
+      "id": 856,
+      "character": "々",
+      "readings": [
+        "のま"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you <kanji>continue</kanji> and then you <kanji>continue</kanji> again (that's the <kanji>repeater</kanji> kanji), you get things happening <vocabulary>one after another</vocabulary>. Continue continue continue!",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B6%9A%E3%80%85",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "続",
+      "id": 1083,
+      "reading": "ぞく"
+    },
+    {
+      "type": "kanji",
+      "value": "々",
+      "id": 1083,
+      "reading": "ぞく"
+    }
+  ]
+}

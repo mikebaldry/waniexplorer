@@ -1,49 +1,20 @@
 {
   "id": 6445,
   "type": "vocabulary",
-  "characters": "透明",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "透明"
+  },
   "primaryMeaning": "Transparent",
+  "meaningMnemonic": "Something that is <kanji>transparent</kanji> and <kanji>bright</kanji> so that you can see through it is <vocabulary>transparent</vocabulary>.",
+  "primaryReading": "とうめい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Transparency"
   ],
-  "primaryReading": "とうめい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1771,
-      "character": "透",
-      "readings": [
-        "とう",
-        "す"
-      ]
-    },
-    {
-      "id": 626,
-      "character": "明",
-      "readings": [
-        "めい",
-        "みょう",
-        "あ",
-        "あか",
-        "あき"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Something that is <kanji>transparent</kanji> and <kanji>bright</kanji> so that you can see through it is <vocabulary>transparent</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%80%8F%E6%98%8E",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "透",
-      "id": 1771,
-      "reading": "とう"
-    },
-    {
-      "type": "kanji",
-      "value": "明",
-      "id": 626,
-      "reading": "めい"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%80%8F%E6%98%8E"
+  }
 }

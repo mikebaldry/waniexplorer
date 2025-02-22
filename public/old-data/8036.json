@@ -1,0 +1,30 @@
+{
+  "id": 8036,
+  "type": "vocabulary",
+  "characters": "葵",
+  "primaryMeaning": "Hollyhock",
+  "otherMeanings": [],
+  "primaryReading": "あおい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2221,
+      "character": "葵",
+      "readings": [
+        "あおい",
+        "き"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%91%B5",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "葵",
+      "id": 2221,
+      "reading": "あおい"
+    }
+  ]
+}

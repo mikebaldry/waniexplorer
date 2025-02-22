@@ -1,36 +1,20 @@
 {
   "id": 8509,
   "type": "vocabulary",
-  "characters": "飽き",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "飽き"
+  },
   "primaryMeaning": "Weariness",
+  "meaningMnemonic": "If you're <kanji>bored</kanji> all the time it makes you tired and the <vocabulary>weariness</vocabulary> you feel will show on your face. ",
+  "primaryReading": "あき",
+  "readingMnemonic": "Remember how you learned 飽きる? Well just take of the る and it's the same thing. If you can remember that, you'll know this no problem!",
   "otherMeanings": [
     "Tiresomeness"
   ],
-  "primaryReading": "あき",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2316,
-      "character": "飽",
-      "readings": [
-        "ほう",
-        "あ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "If you're <kanji>bored</kanji> all the time it makes you tired and the <vocabulary>weariness</vocabulary> you feel will show on your face. ",
-  "readingMnemonic": "Remember how you learned 飽きる? Well just take of the る and it's the same thing. If you can remember that, you'll know this no problem!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%A3%BD%E3%81%8D",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "飽",
-      "id": 2316,
-      "reading": "あ"
-    },
-    {
-      "type": "kana",
-      "value": "き"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%A3%BD%E3%81%8D"
+  }
 }

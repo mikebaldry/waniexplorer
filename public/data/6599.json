@@ -1,47 +1,21 @@
 {
   "id": 6599,
   "type": "vocabulary",
-  "characters": "動揺",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "動揺"
+  },
   "primaryMeaning": "Emotional Turmoil",
+  "meaningMnemonic": "When your heart <kanji>move</kanji>s then <kanji>shake</kanji>s, you’re in a state of <vocabulary>emotional turmoil</vocabulary> or <vocabulary>unrest</vocabulary>.\n\n動揺 refers to <vocabulary>being emotionally shaken</vocabulary>, or feeling disturbed, agitated, or unsettled.",
+  "primaryReading": "どうよう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Unrest",
     "Being Emotionally Shaken"
   ],
-  "primaryReading": "どうよう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 827,
-      "character": "動",
-      "readings": [
-        "どう",
-        "うご"
-      ]
-    },
-    {
-      "id": 1817,
-      "character": "揺",
-      "readings": [
-        "よう",
-        "ゆ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "When your heart <kanji>move</kanji>s then <kanji>shake</kanji>s, you’re in a state of <vocabulary>emotional turmoil</vocabulary> or <vocabulary>unrest</vocabulary>.\n\n動揺 refers to <vocabulary>being emotionally shaken</vocabulary>, or feeling disturbed, agitated, or unsettled.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8B%95%E6%8F%BA",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "動",
-      "id": 827,
-      "reading": "どう"
-    },
-    {
-      "type": "kanji",
-      "value": "揺",
-      "id": 1817,
-      "reading": "よう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%8B%95%E6%8F%BA"
+  }
 }

@@ -1,0 +1,33 @@
+{
+  "id": 2130,
+  "type": "kanji",
+  "character": "肯",
+  "primaryMeaning": "Agreement",
+  "otherMeanings": [
+    "Consent"
+  ],
+  "primaryReading": "こう",
+  "readings": [
+    {
+      "reading": "こう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "がえんじ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "\"We have <kanji>agreement</kanji>,\" the world's leaders all say. \"We will work together to stop the moon, and we have <kanji>agreement</kanji> on who we will follow, Emperor <reading>こう</reading>いち.",
+  "meaningMnemonic": "We must <radical>stop</radical> the <radical>moon</radical>. That, at least, we can come to an <kanji>agreement</kanji> on.",
+  "vocabularyIds": [
+    7824,
+    8021
+  ],
+  "radicalIds": [
+    44,
+    43
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%82%AF"
+}

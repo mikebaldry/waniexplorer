@@ -1,12 +1,15 @@
 {
   "id": 261,
   "type": "radical",
-  "primaryMeaning": "Conflict",
-  "otherMeanings": [],
-  "character": {
+  "level": 18,
+  "characters": {
     "type": "text",
     "value": "争"
   },
+  "primaryMeaning": "Conflict",
+  "otherMeanings": [],
   "meaningMnemonic": "This radical is the same as the kanji. It means <radical>conflict</radical>.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/conflict"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/conflict"
+  }
 }

@@ -1,0 +1,35 @@
+{
+  "id": 7507,
+  "type": "vocabulary",
+  "characters": "演ずる",
+  "primaryMeaning": "To Perform",
+  "otherMeanings": [
+    "To Play"
+  ],
+  "primaryReading": "えんずる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1196,
+      "character": "演",
+      "readings": [
+        "えん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If 演 is <kanji>performance</kanji> then the verb version of this would be <vocabulary>to perform</vocabulary>.",
+  "readingMnemonic": "The reading looks weird, but it's actually just the reading you learned with the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%BC%94%E3%81%9A%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "演",
+      "id": 1196,
+      "reading": "えん"
+    },
+    {
+      "type": "kana",
+      "value": "ずる"
+    }
+  ]
+}

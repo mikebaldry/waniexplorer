@@ -1,46 +1,20 @@
 {
   "id": 7244,
   "type": "vocabulary",
-  "characters": "塗布",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "塗布"
+  },
   "primaryMeaning": "Application",
+  "meaningMnemonic": "Let's <kanji>paint</kanji> a <kanji>cloth</kanji>'s worth of paint on the wall. This is one <vocabulary>application</vocabulary> or <vocabulary>coating</vocabulary> of paint.",
+  "primaryReading": "とふ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Coating"
   ],
-  "primaryReading": "とふ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2044,
-      "character": "塗",
-      "readings": [
-        "と",
-        "ぬ"
-      ]
-    },
-    {
-      "id": 1062,
-      "character": "布",
-      "readings": [
-        "ふ",
-        "ぬの"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Let's <kanji>paint</kanji> a <kanji>cloth</kanji>'s worth of paint on the wall. This is one <vocabulary>application</vocabulary> or <vocabulary>coating</vocabulary> of paint.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A1%97%E5%B8%83",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "塗",
-      "id": 2044,
-      "reading": "と"
-    },
-    {
-      "type": "kanji",
-      "value": "布",
-      "id": 1062,
-      "reading": "ふ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A1%97%E5%B8%83"
+  }
 }

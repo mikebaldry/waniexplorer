@@ -1,0 +1,37 @@
+{
+  "id": 6783,
+  "type": "vocabulary",
+  "characters": "忍ぶ",
+  "primaryMeaning": "To Endure",
+  "otherMeanings": [
+    "To Conceal",
+    "To Hide"
+  ],
+  "primaryReading": "しのぶ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1878,
+      "character": "忍",
+      "readings": [
+        "にん",
+        "しの"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>endure</kanji> so the verb vocab version is <vocabulary>to endure</vocabulary>.",
+  "readingMnemonic": "Those who are able <vocabulary>to endure</vocabulary> are those who have had a lot of training. Who has had the most training of anyone? Ninjas. What group are they part of? The <reading>shino</reading>bi (しの).",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BF%8D%E3%81%B6",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "忍",
+      "id": 1878,
+      "reading": "しの"
+    },
+    {
+      "type": "kana",
+      "value": "ぶ"
+    }
+  ]
+}

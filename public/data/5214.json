@@ -1,44 +1,18 @@
 {
   "id": 5214,
   "type": "vocabulary",
-  "characters": "乾季",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "乾季"
+  },
   "primaryMeaning": "Dry Season",
-  "otherMeanings": [],
-  "primaryReading": "かんき",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1381,
-      "character": "乾",
-      "readings": [
-        "かん",
-        "かわ",
-        "ほ"
-      ]
-    },
-    {
-      "id": 903,
-      "character": "季",
-      "readings": [
-        "き"
-      ]
-    }
-  ],
   "meaningMnemonic": "The <kanji>dry</kanji> <kanji>seasons</kanji> is the <vocabulary>dry season</vocabulary>.",
+  "primaryReading": "かんき",
   "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B9%BE%E5%AD%A3",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "乾",
-      "id": 1381,
-      "reading": "かん"
-    },
-    {
-      "type": "kanji",
-      "value": "季",
-      "id": 903,
-      "reading": "き"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B9%BE%E5%AD%A3"
+  }
 }

@@ -1,33 +1,41 @@
 {
   "id": 2356,
   "type": "kanji",
-  "character": "遮",
-  "primaryMeaning": "Intercept",
-  "otherMeanings": [],
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "遮"
+  },
   "primaryReading": "しゃ",
   "readings": [
     {
-      "reading": "しゃ",
       "primary": true,
+      "reading": "しゃ",
       "type": "onyomi"
     },
     {
-      "reading": "さえぎ",
       "primary": false,
+      "reading": "さえぎ",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "You manage to <kanji>intercept</kanji> the <reading>sha</reading>man (しゃ) who was just about to open the door to your yurt, and instead you crash right into him.",
+  "primaryMeaning": "Intercept",
+  "otherMeanings": [],
   "meaningMnemonic": "You're riding your <radical>scooter</radical> toward your <radical>yurt</radical> as fast as you can because someone is trying to get in there to <radical>boil</radical> your water and you want to <kanji>intercept</kanji> them.",
-  "vocabularyIds": [
-    8417,
-    8418,
-    8584
-  ],
-  "radicalIds": [
-    114,
-    8787,
-    131
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%81%AE"
+  "readingMnemonic": "You manage to <kanji>intercept</kanji> the <reading>sha</reading>man (しゃ) who was just about to open the door to your yurt, and instead you crash right into him.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%81%AE"
+  },
+  "related": {
+    "radicals": [
+      114,
+      8787,
+      131
+    ],
+    "vocabularies": [
+      8417,
+      8418,
+      8584
+    ]
+  }
 }

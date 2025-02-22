@@ -1,36 +1,44 @@
 {
   "id": 957,
   "type": "kanji",
-  "character": "築",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "築"
+  },
+  "primaryReading": "ちく",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ちく",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "きず",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Construct",
   "otherMeanings": [
     "Build"
   ],
-  "primaryReading": "ちく",
-  "readings": [
-    {
-      "reading": "ちく",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "きず",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "As you <kanji>construct</kanji> and <kanji>build</kanji> this building, you hear a strange cheeping noise. Suddenly a <reading>chick</reading> (ちく) pops out of one of the logs you are building with. Then another, and another. You're surrounded by chicks! Is this because you used the magical(?) bamboo saw??",
   "meaningMnemonic": "You use a <radical>bamboo</radical> <radical>saw</radical> to cut down <radical>tree</radical>s to <kanji>construct</kanji> and <kanji>build</kanji> a building. The bamboo saw was crafted by a master bamboosmith, and cuts through trees with ease so you can quickly construct this new building.",
-  "vocabularyIds": [
-    3757,
-    3781,
-    3933,
-    9027
-  ],
-  "radicalIds": [
-    85,
-    241,
-    23
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%AF%89"
+  "readingMnemonic": "As you <kanji>construct</kanji> and <kanji>build</kanji> this building, you hear a strange cheeping noise. Suddenly a <reading>chick</reading> (ちく) pops out of one of the logs you are building with. Then another, and another. You're surrounded by chicks! Is this because you used the magical(?) bamboo saw??",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%AF%89"
+  },
+  "related": {
+    "radicals": [
+      85,
+      241,
+      23
+    ],
+    "vocabularies": [
+      3757,
+      3781,
+      3933,
+      9027
+    ]
+  }
 }

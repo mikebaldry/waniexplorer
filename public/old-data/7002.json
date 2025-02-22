@@ -1,0 +1,32 @@
+{
+  "id": 7002,
+  "type": "vocabulary",
+  "characters": "鍵",
+  "primaryMeaning": "Key",
+  "otherMeanings": [
+    "Lock"
+  ],
+  "primaryReading": "かぎ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1957,
+      "character": "鍵",
+      "readings": [
+        "かぎ",
+        "けん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%8D%B5",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "鍵",
+      "id": 1957,
+      "reading": "かぎ"
+    }
+  ]
+}

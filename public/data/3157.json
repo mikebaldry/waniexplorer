@@ -1,45 +1,18 @@
 {
   "id": 3157,
   "type": "vocabulary",
-  "characters": "仮名",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "仮名"
+  },
   "primaryMeaning": "Kana",
-  "otherMeanings": [],
-  "primaryReading": "かな",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 739,
-      "character": "仮",
-      "readings": [
-        "か",
-        "かり"
-      ]
-    },
-    {
-      "id": 544,
-      "character": "名",
-      "readings": [
-        "めい",
-        "みょう",
-        "な"
-      ]
-    }
-  ],
   "meaningMnemonic": "The <kanji>temporary</kanji> <kanji>name</kanji>s. These are the <vocabulary>kana</vocabulary> (that's hiragana and katakana). Why are kana the \"temporary names\" though? Maybe they were just meant to be a temporary way to write the names of the kanji you didn't know how to write yet. That's just a guess, but it should help you remember that this word means \"kana.\"",
+  "primaryReading": "かな",
   "readingMnemonic": "Okay, so 仮 uses the rare kun'yomi reading か, which you haven't learned yet, but luckily it's the same as the on'yomi you have learned! And 名 also uses a kun'yomi reading that you learned with the vocab word 名 (な). So you sort of know these readings already, but it's a lot to take in, so here's a mnemonic to help: \n\nThe reading is so tricky for <vocabulary>kana</vocabulary> that it makes you say <reading>かな</reading>… (I wonder…) whenever you try to read it. You keep thinking, \"Is the reading kana, かな? Or could it be something else, かな?\" You're just not sure.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BB%AE%E5%90%8D",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "仮",
-      "id": 739,
-      "reading": "か"
-    },
-    {
-      "type": "kanji",
-      "value": "名",
-      "id": 544,
-      "reading": "な"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BB%AE%E5%90%8D"
+  }
 }

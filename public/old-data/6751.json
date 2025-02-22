@@ -1,0 +1,32 @@
+{
+  "id": 6751,
+  "type": "vocabulary",
+  "characters": "琴",
+  "primaryMeaning": "Koto",
+  "otherMeanings": [
+    "Japanese Harp",
+    "Japanese Zither"
+  ],
+  "primaryReading": "こと",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1871,
+      "character": "琴",
+      "readings": [
+        "こと"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>harp</kanji>, at least in Japan, is the <vocabulary>koto</vocabulary>, also known (to us) as the <vocabulary>Japanese harp</vocabulary> or <vocabulary>Japanese zither</vocabulary>.",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%90%B4",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "琴",
+      "id": 1871,
+      "reading": "こと"
+    }
+  ]
+}

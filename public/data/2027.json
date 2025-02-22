@@ -1,35 +1,43 @@
 {
   "id": 2027,
   "type": "kanji",
-  "character": "尽",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "尽"
+  },
+  "primaryReading": "じん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "じん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "つ",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Use Up",
   "otherMeanings": [
     "Exhaust"
   ],
-  "primaryReading": "じん",
-  "readings": [
-    {
-      "reading": "じん",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "つ",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "How could the store <kanji>use up</kanji> its shrimp supply so quickly? Suddenly you notice the worker behind the fish counter has shrimp stuffed into their <reading>jean</reading>s (じん) . Aha! The culprit! ",
   "meaningMnemonic": "You see <radical>shrimp</radical> on <radical>ice</radical> at the market in the morning. \"I'll get some on the way home\" you think to yourself. Later that evening, you see no shrimp, just ice. The supply of shrimp has been <kanji>exhaust</kanji>ed. It's all gone! You never thought they'd <kanji>use up</kanji> their shrimp supply so quickly.",
-  "vocabularyIds": [
-    7195,
-    7196,
-    7197,
-    7438
-  ],
-  "radicalIds": [
-    215,
-    123
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%B0%BD"
+  "readingMnemonic": "How could the store <kanji>use up</kanji> its shrimp supply so quickly? Suddenly you notice the worker behind the fish counter has shrimp stuffed into their <reading>jean</reading>s (じん) . Aha! The culprit! ",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%B0%BD"
+  },
+  "related": {
+    "radicals": [
+      215,
+      123
+    ],
+    "vocabularies": [
+      7195,
+      7196,
+      7197,
+      7438
+    ]
+  }
 }

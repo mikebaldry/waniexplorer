@@ -1,0 +1,44 @@
+{
+  "id": 4341,
+  "type": "vocabulary",
+  "characters": "地震",
+  "primaryMeaning": "Earthquake",
+  "otherMeanings": [],
+  "primaryReading": "じしん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 608,
+      "character": "地",
+      "readings": [
+        "ち",
+        "じ"
+      ]
+    },
+    {
+      "id": 1099,
+      "character": "震",
+      "readings": [
+        "しん",
+        "ふる"
+      ]
+    }
+  ],
+  "meaningMnemonic": "An <kanji>earth</kanji> <kanji>earthquake</kanji> is just another way to say <vocabulary>earthquake</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Notice that 地 is read as じ instead of ち. You've seen this happen a few times before, so just try to remember that this is the case here.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%9C%B0%E9%9C%87",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "地",
+      "id": 608,
+      "reading": "じ"
+    },
+    {
+      "type": "kanji",
+      "value": "震",
+      "id": 1099,
+      "reading": "しん"
+    }
+  ]
+}

@@ -1,59 +1,18 @@
 {
   "id": 5819,
   "type": "vocabulary",
-  "characters": "歓楽街",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "歓楽街"
+  },
   "primaryMeaning": "Pleasure Quarter",
-  "otherMeanings": [],
-  "primaryReading": "かんらくがい",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1571,
-      "character": "歓",
-      "readings": [
-        "かん"
-      ]
-    },
-    {
-      "id": 704,
-      "character": "楽",
-      "readings": [
-        "らく",
-        "がく",
-        "たの"
-      ]
-    },
-    {
-      "id": 1400,
-      "character": "街",
-      "readings": [
-        "がい",
-        "かい",
-        "まち"
-      ]
-    }
-  ],
   "meaningMnemonic": "The <kanji>delight</kanji> and <kanji>comfort</kanji> <kanji>street</kanji>. Sounds nice. Sounds like the \"<vocabulary>pleasure quarter</vocabulary>.\" You'll see these most often in samurai films, or in sketchier areas.",
+  "primaryReading": "かんらくがい",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%AD%93%E6%A5%BD%E8%A1%97",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "歓",
-      "id": 1571,
-      "reading": "かん"
-    },
-    {
-      "type": "kanji",
-      "value": "楽",
-      "id": 704,
-      "reading": "らく"
-    },
-    {
-      "type": "kanji",
-      "value": "街",
-      "id": 1400,
-      "reading": "がい"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%AD%93%E6%A5%BD%E8%A1%97"
+  }
 }

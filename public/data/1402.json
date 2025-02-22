@@ -1,28 +1,36 @@
 {
   "id": 1402,
   "type": "kanji",
-  "character": "緊",
-  "primaryMeaning": "Tense",
-  "otherMeanings": [],
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "緊"
+  },
   "primaryReading": "きん",
   "readings": [
     {
-      "reading": "きん",
       "primary": true,
+      "reading": "きん",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "You ask the servant why they're so <kanji>tense</kanji>, and they say they've been assigned to assassinate the <reading>Kin</reading>g (きん) of England with this piece of thread.",
+  "primaryMeaning": "Tense",
+  "otherMeanings": [],
   "meaningMnemonic": "The <radical>servant</radical> sits on a <radical>stool</radical>, holding a piece of <radical>thread</radical>, looking very <kanji>tense</kanji>. ",
-  "vocabularyIds": [
-    5231,
-    5271,
-    5407
-  ],
-  "radicalIds": [
-    323,
-    30,
-    86
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%B7%8A"
+  "readingMnemonic": "You ask the servant why they're so <kanji>tense</kanji>, and they say they've been assigned to assassinate the <reading>Kin</reading>g (きん) of England with this piece of thread.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%B7%8A"
+  },
+  "related": {
+    "radicals": [
+      323,
+      30,
+      86
+    ],
+    "vocabularies": [
+      5231,
+      5271,
+      5407
+    ]
+  }
 }

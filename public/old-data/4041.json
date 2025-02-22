@@ -1,0 +1,48 @@
+{
+  "id": 4041,
+  "type": "vocabulary",
+  "characters": "図説",
+  "primaryMeaning": "Illustration",
+  "otherMeanings": [
+    "Explanatory Diagram"
+  ],
+  "primaryReading": "ずせつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 585,
+      "character": "図",
+      "readings": [
+        "ず",
+        "と",
+        "え",
+        "はか"
+      ]
+    },
+    {
+      "id": 1026,
+      "character": "説",
+      "readings": [
+        "せつ",
+        "と"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>diagram</kanji> <kanji>theory</kanji> is an <vocabulary>illustration</vocabulary> that is used as an <vocabulary>explanatory diagram</vocabulary>. Just imagine a chalk board with all sorts of drawings of things, showing how they work, at least in theory.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%9B%B3%E8%AA%AC",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "図",
+      "id": 585,
+      "reading": "ず"
+    },
+    {
+      "type": "kanji",
+      "value": "説",
+      "id": 1026,
+      "reading": "せつ"
+    }
+  ]
+}

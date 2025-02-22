@@ -1,12 +1,15 @@
 {
   "id": 350,
   "type": "radical",
-  "primaryMeaning": "Claw",
-  "otherMeanings": [],
-  "character": {
+  "level": 34,
+  "characters": {
     "type": "text",
     "value": "爪"
   },
+  "primaryMeaning": "Claw",
+  "otherMeanings": [],
   "meaningMnemonic": "This looks like a <radical>claw</radical> of some kind already, making it quite easy!",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/claw"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/claw"
+  }
 }

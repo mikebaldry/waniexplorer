@@ -1,0 +1,47 @@
+{
+  "id": 7307,
+  "type": "vocabulary",
+  "characters": "浸水",
+  "primaryMeaning": "Submersion",
+  "otherMeanings": [
+    "Flood"
+  ],
+  "primaryReading": "しんすい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2065,
+      "character": "浸",
+      "readings": [
+        "しん",
+        "ひた",
+        "つ"
+      ]
+    },
+    {
+      "id": 479,
+      "character": "水",
+      "readings": [
+        "すい",
+        "みず"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Immersed</kanji> in <kanji>water</kanji>. That sounds like <vocabulary>submersion</vocabulary>. Possibly like a <vocabulary>flood</vocabulary>, even.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B5%B8%E6%B0%B4",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "浸",
+      "id": 2065,
+      "reading": "しん"
+    },
+    {
+      "type": "kanji",
+      "value": "水",
+      "id": 479,
+      "reading": "すい"
+    }
+  ]
+}

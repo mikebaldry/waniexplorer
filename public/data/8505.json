@@ -1,33 +1,22 @@
 {
   "id": 8505,
   "type": "vocabulary",
-  "characters": "錠",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "錠"
+  },
   "primaryMeaning": "Lock",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "じょう",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
   "otherMeanings": [
     "Padlock",
     "Tablet",
     "Pill"
   ],
-  "primaryReading": "じょう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2394,
-      "character": "錠",
-      "readings": [
-        "じょう"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
-  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%8C%A0",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "錠",
-      "id": 2394,
-      "reading": "じょう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%8C%A0"
+  }
 }

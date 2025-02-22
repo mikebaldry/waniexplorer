@@ -1,0 +1,62 @@
+{
+  "id": 3246,
+  "type": "vocabulary",
+  "characters": "共通点",
+  "primaryMeaning": "Common Point",
+  "otherMeanings": [
+    "Common Feature",
+    "Commonality"
+  ],
+  "primaryReading": "きょうつうてん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 778,
+      "character": "共",
+      "readings": [
+        "きょう",
+        "とも"
+      ]
+    },
+    {
+      "id": 665,
+      "character": "通",
+      "readings": [
+        "つう",
+        "とお",
+        "かよ"
+      ]
+    },
+    {
+      "id": 641,
+      "character": "点",
+      "readings": [
+        "てん",
+        "つ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "We <kanji>pass through</kanji> this <kanji>point</kanji> <kanji>together</kanji>. This point is our <vocabulary>common point</vocabulary>. It is where our ideas, philosophies, and bodies pass through each other.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%85%B1%E9%80%9A%E7%82%B9",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "共",
+      "id": 778,
+      "reading": "きょう"
+    },
+    {
+      "type": "kanji",
+      "value": "通",
+      "id": 665,
+      "reading": "つう"
+    },
+    {
+      "type": "kanji",
+      "value": "点",
+      "id": 641,
+      "reading": "てん"
+    }
+  ]
+}

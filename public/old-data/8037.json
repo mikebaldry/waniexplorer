@@ -1,0 +1,47 @@
+{
+  "id": 8037,
+  "type": "vocabulary",
+  "characters": "蒙古",
+  "primaryMeaning": "Mongolia",
+  "otherMeanings": [],
+  "primaryReading": "もうこ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2212,
+      "character": "蒙",
+      "readings": [
+        "もう",
+        "ぼう",
+        "おお",
+        "くら",
+        "こうむ"
+      ]
+    },
+    {
+      "id": 519,
+      "character": "古",
+      "readings": [
+        "こ",
+        "ふる"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The region of <kanji>darkness</kanji> in days of <kanji>old</kanji> referred to <vocabulary>Mongolia</vocabulary>. At least in China, where this word comes from. Imagine all those ancient Mongol tribes at the dark, unknown edges of China. Everything beyond the borders was shrouded in (figurative) darkness, I guess. No wonder they picked these kanji back then.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%92%99%E5%8F%A4",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "蒙",
+      "id": 2212,
+      "reading": "もう"
+    },
+    {
+      "type": "kanji",
+      "value": "古",
+      "id": 519,
+      "reading": "こ"
+    }
+  ]
+}

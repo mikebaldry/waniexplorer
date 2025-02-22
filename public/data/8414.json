@@ -1,48 +1,20 @@
 {
   "id": 8414,
   "type": "vocabulary",
-  "characters": "一遍",
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "一遍"
+  },
   "primaryMeaning": "Once",
+  "meaningMnemonic": "<kanji>One</kanji> <kanji>universal</kanji> event can only happen <vocabulary>once</vocabulary>. It's too rare to happen more than that.",
+  "primaryReading": "いっぺん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Just watch out because へん becomes ぺん here.",
   "otherMeanings": [
     "One Time"
   ],
-  "primaryReading": "いっぺん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 440,
-      "character": "一",
-      "readings": [
-        "いち",
-        "いつ",
-        "ひと",
-        "かず"
-      ]
-    },
-    {
-      "id": 2345,
-      "character": "遍",
-      "readings": [
-        "へん",
-        "あまね"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>One</kanji> <kanji>universal</kanji> event can only happen <vocabulary>once</vocabulary>. It's too rare to happen more than that.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Just watch out because へん becomes ぺん here.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%80%E9%81%8D",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "一",
-      "id": 440,
-      "reading": "いっ"
-    },
-    {
-      "type": "kanji",
-      "value": "遍",
-      "id": 2345,
-      "reading": "ぺん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B8%80%E9%81%8D"
+  }
 }

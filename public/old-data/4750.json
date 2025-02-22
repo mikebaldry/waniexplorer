@@ -1,0 +1,47 @@
+{
+  "id": 4750,
+  "type": "vocabulary",
+  "characters": "無限",
+  "primaryMeaning": "Infinite",
+  "otherMeanings": [
+    "Limitless"
+  ],
+  "primaryReading": "むげん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1008,
+      "character": "無",
+      "readings": [
+        "む",
+        "ぶ",
+        "な"
+      ]
+    },
+    {
+      "id": 1248,
+      "character": "限",
+      "readings": [
+        "げん",
+        "かぎ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>limit</kanji> is <kanji>nothing</kanji>. What? No limit? That means it will never stop! It is <vocabulary>infinite</vocabulary>!",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%84%A1%E9%99%90",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "無",
+      "id": 1008,
+      "reading": "む"
+    },
+    {
+      "type": "kanji",
+      "value": "限",
+      "id": 1248,
+      "reading": "げん"
+    }
+  ]
+}

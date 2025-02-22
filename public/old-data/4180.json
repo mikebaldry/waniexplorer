@@ -1,0 +1,48 @@
+{
+  "id": 4180,
+  "type": "vocabulary",
+  "characters": "入団",
+  "primaryMeaning": "Enrollment",
+  "otherMeanings": [
+    "Joining",
+    "Enlistment"
+  ],
+  "primaryReading": "にゅうだん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 445,
+      "character": "入",
+      "readings": [
+        "にゅう",
+        "はい",
+        "い"
+      ]
+    },
+    {
+      "id": 1076,
+      "character": "団",
+      "readings": [
+        "だん",
+        "とん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you <kanji>enter</kanji> a <kanji>group</kanji>, it's called <vocabulary>enrollment</vocabulary> or <vocabulary>enlistment</vocabulary>. You're <vocabulary>joining</vocabulary> the group.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%85%A5%E5%9B%A3",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "入",
+      "id": 445,
+      "reading": "にゅう"
+    },
+    {
+      "type": "kanji",
+      "value": "団",
+      "id": 1076,
+      "reading": "だん"
+    }
+  ]
+}

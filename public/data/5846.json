@@ -1,37 +1,21 @@
 {
   "id": 5846,
   "type": "vocabulary",
-  "characters": "宝くじ",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "宝くじ"
+  },
   "primaryMeaning": "Lottery",
+  "meaningMnemonic": "宝 is a <kanji>treasure</kanji>. くじ is a lottery. So if you have a treasure lottery (you win treasure if you win the lottery) then you have yourself a <vocabulary>lottery</vocabulary>.",
+  "primaryReading": "たからくじ",
+  "readingMnemonic": "The reading uses the 宝 vocab reading, たから.",
   "otherMeanings": [
     "Public Lottery",
     "Lottery Ticket"
   ],
-  "primaryReading": "たからくじ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1520,
-      "character": "宝",
-      "readings": [
-        "ほう",
-        "たから"
-      ]
-    }
-  ],
-  "meaningMnemonic": "宝 is a <kanji>treasure</kanji>. くじ is a lottery. So if you have a treasure lottery (you win treasure if you win the lottery) then you have yourself a <vocabulary>lottery</vocabulary>.",
-  "readingMnemonic": "The reading uses the 宝 vocab reading, たから.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AE%9D%E3%81%8F%E3%81%98",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "宝",
-      "id": 1520,
-      "reading": "たから"
-    },
-    {
-      "type": "kana",
-      "value": "くじ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%AE%9D%E3%81%8F%E3%81%98"
+  }
 }

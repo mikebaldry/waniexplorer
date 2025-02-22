@@ -1,0 +1,26 @@
+{
+  "id": 1994,
+  "type": "kanji",
+  "character": "帽",
+  "primaryMeaning": "Hat",
+  "otherMeanings": [],
+  "primaryReading": "ぼう",
+  "readings": [
+    {
+      "reading": "ぼう",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "People see you wearing this fancy new <kanji>hat</kanji> thing and start asking you to share. You grab all your extra towels, roll them up, and <reading>bow</reading>l (ぼう) them down the street toward everyone who asks for one.",
+  "meaningMnemonic": "You take a <radical>towel</radical> and wrap it around your head to keep the <radical>sun</radical> out of your <radical>eye</radical>s. You've invented... the <kanji>hat</kanji>!",
+  "vocabularyIds": [
+    7100
+  ],
+  "radicalIds": [
+    102,
+    22,
+    53
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%B8%BD"
+}

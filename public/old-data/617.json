@@ -1,0 +1,42 @@
+{
+  "id": 617,
+  "type": "kanji",
+  "character": "死",
+  "primaryMeaning": "Death",
+  "otherMeanings": [],
+  "primaryReading": "し",
+  "readings": [
+    {
+      "reading": "し",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "し",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "<kanji>Death</kanji> comes in the form of a <reading>shee</reading>p (し). The death sheep works for the yakuza, and kills anyone who has their spoon.",
+  "meaningMnemonic": "If the <radical>yakuza</radical> hands you a <radical>spoon</radical>, <kanji>death</kanji> is coming for you. It's the death spoon, a sign that the yakuza is coming to cause your death.",
+  "vocabularyIds": [
+    2874,
+    2875,
+    2876,
+    2944,
+    3750,
+    3840,
+    4138,
+    5125,
+    6058,
+    6692,
+    7186,
+    7525,
+    8605
+  ],
+  "radicalIds": [
+    132,
+    57
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%AD%BB"
+}

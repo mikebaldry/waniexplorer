@@ -1,37 +1,21 @@
 {
   "id": 4843,
   "type": "vocabulary",
-  "characters": "倒れる",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "倒れる"
+  },
   "primaryMeaning": "To Get Knocked Over",
+  "meaningMnemonic": "You've seen how 倒す is \"to knock over.\" But this is when something gets knocked over by itself. You know that you're not doing anything here, because when you're not touching all these fine glass items, it's very <reading>rare</reading> (れる) that anything gets knocked over (because you're not touching anything, you clumsy dumsy). It's also when you or someone else collapses. You didn't push yourself over, you just kind of fell by yourself.",
+  "primaryReading": "たおれる",
+  "readingMnemonic": "The reading is the same like 倒す. If you knew 倒す you will know the reading of this one too.",
   "otherMeanings": [
     "To Get Knocked Down",
     "To Collapse"
   ],
-  "primaryReading": "たおれる",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1110,
-      "character": "倒",
-      "readings": [
-        "とう",
-        "たお"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You've seen how 倒す is \"to knock over.\" But this is when something gets knocked over by itself. You know that you're not doing anything here, because when you're not touching all these fine glass items, it's very <reading>rare</reading> (れる) that anything gets knocked over (because you're not touching anything, you clumsy dumsy). It's also when you or someone else collapses. You didn't push yourself over, you just kind of fell by yourself.",
-  "readingMnemonic": "The reading is the same like 倒す. If you knew 倒す you will know the reading of this one too.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%80%92%E3%82%8C%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "倒",
-      "id": 1110,
-      "reading": "たお"
-    },
-    {
-      "type": "kana",
-      "value": "れる"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%80%92%E3%82%8C%E3%82%8B"
+  }
 }

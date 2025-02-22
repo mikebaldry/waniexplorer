@@ -1,0 +1,46 @@
+{
+  "id": 3026,
+  "type": "vocabulary",
+  "characters": "心身",
+  "primaryMeaning": "Body And Mind",
+  "otherMeanings": [
+    "Mind And Body"
+  ],
+  "primaryReading": "しんしん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 508,
+      "character": "心",
+      "readings": [
+        "しん",
+        "こころ"
+      ]
+    },
+    {
+      "id": 689,
+      "character": "身",
+      "readings": [
+        "しん",
+        "み"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Technically this kanji is <kanji>heart</kanji> and <kanji>somebody</kanji>, but think about it this way. Where does everything come from inside somebody? The heart! It keeps things going by pumping blood, providing the foundation for both a good <vocabulary>mind and body</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BF%83%E8%BA%AB",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "心",
+      "id": 508,
+      "reading": "しん"
+    },
+    {
+      "type": "kanji",
+      "value": "身",
+      "id": 689,
+      "reading": "しん"
+    }
+  ]
+}

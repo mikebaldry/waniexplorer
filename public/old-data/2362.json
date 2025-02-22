@@ -1,0 +1,32 @@
+{
+  "id": 2362,
+  "type": "kanji",
+  "character": "蒼",
+  "primaryMeaning": "Pale",
+  "otherMeanings": [
+    "Blue"
+  ],
+  "primaryReading": "そう",
+  "readings": [
+    {
+      "reading": "そう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "あお",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "When you grow <kanji>pale</kanji> flowers like this, they don't grow a <reading>soul</reading> (そう). Soul adds color to plants and flowers. That's probably why ghosts and dead bodies are pale too.",
+  "meaningMnemonic": "<radical>Flowers</radical> grown in a <radical>warehouse</radical> will be very <kanji>pale</kanji>. They never see the sun, so they don't grow to have bright colors.",
+  "vocabularyIds": [
+    9110
+  ],
+  "radicalIds": [
+    90,
+    8827
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%92%BC"
+}

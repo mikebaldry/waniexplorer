@@ -1,36 +1,44 @@
 {
   "id": 851,
   "type": "kanji",
-  "character": "亡",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "亡"
+  },
+  "primaryReading": "ぼう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ぼう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "な",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Death",
   "otherMeanings": [
     "Deceased"
   ],
-  "primaryReading": "ぼう",
-  "readings": [
-    {
-      "reading": "ぼう",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "な",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "Your <kanji>death</kanji> will be because of a <reading>bow</reading>ling (ぼう) accident. Oh, you didn't know? You're going to be hit by a giant bowling ball and crushed flat.",
   "meaningMnemonic": "The radical <radical>death</radical> and the kanji <kanji>death</kanji> are the same.",
-  "vocabularyIds": [
-    2876,
-    3406,
-    6224,
-    6358,
-    6741,
-    6918
-  ],
-  "radicalIds": [
-    212
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E4%BA%A1"
+  "readingMnemonic": "Your <kanji>death</kanji> will be because of a <reading>bow</reading>ling (ぼう) accident. Oh, you didn't know? You're going to be hit by a giant bowling ball and crushed flat.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E4%BA%A1"
+  },
+  "related": {
+    "radicals": [
+      212
+    ],
+    "vocabularies": [
+      2876,
+      3406,
+      6224,
+      6358,
+      6741,
+      6918
+    ]
+  }
 }

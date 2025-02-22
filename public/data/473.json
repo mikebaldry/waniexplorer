@@ -1,43 +1,51 @@
 {
   "id": 473,
   "type": "kanji",
-  "character": "天",
-  "primaryMeaning": "Heaven",
-  "otherMeanings": [],
+  "level": 2,
+  "characters": {
+    "type": "text",
+    "value": "天"
+  },
   "primaryReading": "てん",
   "readings": [
     {
-      "reading": "てん",
       "primary": true,
+      "reading": "てん",
       "type": "onyomi"
     },
     {
-      "reading": "あま",
       "primary": false,
+      "reading": "あま",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "<kanji>Heaven</kanji>... nowadays, people aren't all that good. Things have gotten bad. That's why the acceptance rate to get into heaven is only <reading>ten</reading> (てん) percent!",
+  "primaryMeaning": "Heaven",
+  "otherMeanings": [],
   "meaningMnemonic": "The radical <radical>heaven</radical> is the same as the kanji <kanji>heaven</kanji>, making this an easy kanji to memorize.",
-  "vocabularyIds": [
-    2535,
-    2536,
-    2676,
-    2883,
-    3986,
-    4795,
-    5661,
-    6884,
-    7406,
-    7464,
-    7762,
-    8676,
-    9009,
-    9267,
-    9273
-  ],
-  "radicalIds": [
-    40
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%A4%A9"
+  "readingMnemonic": "<kanji>Heaven</kanji>... nowadays, people aren't all that good. Things have gotten bad. That's why the acceptance rate to get into heaven is only <reading>ten</reading> (てん) percent!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%A4%A9"
+  },
+  "related": {
+    "radicals": [
+      40
+    ],
+    "vocabularies": [
+      2535,
+      2536,
+      2676,
+      2883,
+      3986,
+      4795,
+      5661,
+      6884,
+      7406,
+      7464,
+      7762,
+      8676,
+      9009,
+      9267,
+      9273
+    ]
+  }
 }

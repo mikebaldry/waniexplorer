@@ -1,0 +1,38 @@
+{
+  "id": 877,
+  "type": "kanji",
+  "character": "士",
+  "primaryMeaning": "Samurai",
+  "otherMeanings": [],
+  "primaryReading": "し",
+  "readings": [
+    {
+      "reading": "し",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "さむらい",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "The most famous <kanji>samurai</kanji> in Japanese history was the illustrious <reading>shee</reading>p (し) samurai. He wasn't JUST a sheep who learned the ways of the sword, he would use the wool from the sheep enemies he killed to create his armor!",
+  "meaningMnemonic": "The <radical>samurai</radical> radical and the <kanji>samurai</kanji> kanji are the same!",
+  "vocabularyIds": [
+    3536,
+    3962,
+    4606,
+    4735,
+    5111,
+    5490,
+    6272,
+    7191,
+    8315,
+    8484
+  ],
+  "radicalIds": [
+    97
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%A3%AB"
+}

@@ -1,52 +1,21 @@
 {
   "id": 3453,
   "type": "vocabulary",
-  "characters": "見直す",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "見直す"
+  },
   "primaryMeaning": "To Reevaluate",
+  "meaningMnemonic": "You know the word 直す from a couple levels ago. It means \"to fix.\" So, when you fix what you see, what are you doing? You're reevaluating something. That's why this word means <vocabulary>to reevaluate</vocabulary>.",
+  "primaryReading": "みなおす",
+  "readingMnemonic": "The readings are all kun'yomi readings, like the vocab you've seen already. This is like two vocab words put together, which is why it's using the kun'yomi reading. The hiragana on the end is a hint!",
   "otherMeanings": [
     "To Look Again",
     "To Reassess"
   ],
-  "primaryReading": "みなおす",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 558,
-      "character": "見",
-      "readings": [
-        "み",
-        "けん"
-      ]
-    },
-    {
-      "id": 630,
-      "character": "直",
-      "readings": [
-        "ちょく",
-        "じき",
-        "なお"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You know the word 直す from a couple levels ago. It means \"to fix.\" So, when you fix what you see, what are you doing? You're reevaluating something. That's why this word means <vocabulary>to reevaluate</vocabulary>.",
-  "readingMnemonic": "The readings are all kun'yomi readings, like the vocab you've seen already. This is like two vocab words put together, which is why it's using the kun'yomi reading. The hiragana on the end is a hint!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A6%8B%E7%9B%B4%E3%81%99",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "見",
-      "id": 558,
-      "reading": "み"
-    },
-    {
-      "type": "kanji",
-      "value": "直",
-      "id": 630,
-      "reading": "なお"
-    },
-    {
-      "type": "kana",
-      "value": "す"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%A6%8B%E7%9B%B4%E3%81%99"
+  }
 }

@@ -1,51 +1,21 @@
 {
   "id": 3945,
   "type": "vocabulary",
-  "characters": "回転ずし",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "回転ずし"
+  },
   "primaryMeaning": "Rotating Sushi",
+  "meaningMnemonic": "You know that 回転 is \"rotation\" and you probably know what すし is (gets rendaku'd in this word to ずし). So, what is \"rotation sushi?\" It's <vocabulary>rotating sushi</vocabulary>, also known as <vocabulary>conveyor belt sushi</vocabulary>. Look it up if you don't know what it is.",
+  "primaryReading": "かいてんずし",
+  "readingMnemonic": "The reading comes from 回転, so be sure to know that to know this one. Also, it's just the readings of the kanji you learned too, so shouldn't be too hard.",
   "otherMeanings": [
     "Conveyor Belt Sushi",
     "Sushi Go Round"
   ],
-  "primaryReading": "かいてんずし",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 569,
-      "character": "回",
-      "readings": [
-        "かい",
-        "まわ"
-      ]
-    },
-    {
-      "id": 747,
-      "character": "転",
-      "readings": [
-        "てん",
-        "ころ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You know that 回転 is \"rotation\" and you probably know what すし is (gets rendaku'd in this word to ずし). So, what is \"rotation sushi?\" It's <vocabulary>rotating sushi</vocabulary>, also known as <vocabulary>conveyor belt sushi</vocabulary>. Look it up if you don't know what it is.",
-  "readingMnemonic": "The reading comes from 回転, so be sure to know that to know this one. Also, it's just the readings of the kanji you learned too, so shouldn't be too hard.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%9B%9E%E8%BB%A2%E3%81%9A%E3%81%97",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "回",
-      "id": 569,
-      "reading": "かい"
-    },
-    {
-      "type": "kanji",
-      "value": "転",
-      "id": 747,
-      "reading": "てん"
-    },
-    {
-      "type": "kana",
-      "value": "ずし"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%9B%9E%E8%BB%A2%E3%81%9A%E3%81%97"
+  }
 }

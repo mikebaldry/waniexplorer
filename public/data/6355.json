@@ -1,57 +1,18 @@
 {
   "id": 6355,
   "type": "vocabulary",
-  "characters": "沖縄県",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "沖縄県"
+  },
   "primaryMeaning": "Okinawa Prefecture",
-  "otherMeanings": [],
-  "primaryReading": "おきなわけん",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1627,
-      "character": "沖",
-      "readings": [
-        "おき",
-        "ちゅう"
-      ]
-    },
-    {
-      "id": 1628,
-      "character": "縄",
-      "readings": [
-        "じょう",
-        "なわ"
-      ]
-    },
-    {
-      "id": 731,
-      "character": "県",
-      "readings": [
-        "けん"
-      ]
-    }
-  ],
   "meaningMnemonic": "Remember how 沖縄 is \"Okinawa\"? This is the prefecture, <vocabulary>Okinawa Prefecture</vocabulary>.",
+  "primaryReading": "おきなわけん",
   "readingMnemonic": "The reading comes from 沖縄 and 県 put together.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B2%96%E7%B8%84%E7%9C%8C",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "沖",
-      "id": 1627,
-      "reading": "おき"
-    },
-    {
-      "type": "kanji",
-      "value": "縄",
-      "id": 1628,
-      "reading": "なわ"
-    },
-    {
-      "type": "kanji",
-      "value": "県",
-      "id": 731,
-      "reading": "けん"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B2%96%E7%B8%84%E7%9C%8C"
+  }
 }

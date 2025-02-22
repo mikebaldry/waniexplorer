@@ -1,0 +1,36 @@
+{
+  "id": 682,
+  "type": "kanji",
+  "character": "君",
+  "primaryMeaning": "Buddy",
+  "otherMeanings": [
+    "Ruler"
+  ],
+  "primaryReading": "くん",
+  "readings": [
+    {
+      "reading": "くん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "きみ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "As you're about to embrace your <kanji>buddy</kanji> wolverine, a rac<reading>coon</reading> (くん) tackles the wolverine off the slide, preventing your mouth embrace.",
+  "meaningMnemonic": "A <radical>wolverine</radical> is going down a <radical>slide</radical> into your <radical>mouth</radical>. Why is he going into your mouth, though? You're opening it really wide, because you're screaming \"<kanji>BUDDY</kanji>\"!!! You're so excited to see your wolverine buddy-pal again. \n\nBut this wolverine isn’t just your buddy, he’s also the local <kanji>ruler</kanji> of these lands. You make it a habit to befriend the local strongmen, so no wonder even the rulers are your buddies.",
+  "vocabularyIds": [
+    3004,
+    3005,
+    3006,
+    5695
+  ],
+  "radicalIds": [
+    105,
+    5,
+    16
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%90%9B"
+}

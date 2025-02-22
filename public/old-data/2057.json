@@ -1,0 +1,34 @@
+{
+  "id": 2057,
+  "type": "kanji",
+  "character": "礎",
+  "primaryMeaning": "Foundation",
+  "otherMeanings": [
+    "Cornerstone"
+  ],
+  "primaryReading": "そ",
+  "readings": [
+    {
+      "reading": "そ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "いしずえ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "After you finish the <kanji>foundation</kanji>, the only step that's left is to wash the entire thing with <reading>so</reading>ap (そ).",
+  "meaningMnemonic": "There’s a <radical>stone</radical>, a <radical>tree</radical>, another <radical>tree</radical>, and a <radical>coat rack</radical>. That stone and two trees will make the perfect <kanji>foundation</kanji>, or <kanji>cornerstone</kanji>, for a house to put that coat rack in! This stone is flat and heavy and both of the trees are flexible and durable.",
+  "vocabularyIds": [
+    7285,
+    7286
+  ],
+  "radicalIds": [
+    54,
+    23,
+    420
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%A4%8E"
+}

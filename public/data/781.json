@@ -1,31 +1,39 @@
 {
   "id": 781,
   "type": "kanji",
-  "character": "老",
-  "primaryMeaning": "Elderly",
-  "otherMeanings": [],
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "老"
+  },
   "primaryReading": "ろう",
   "readings": [
     {
-      "reading": "ろう",
       "primary": true,
+      "reading": "ろう",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "Now that you’re <kanji>elderly</kanji> (and probably about to die) you suddenly crave some delicious <reading>roe</reading> (ろう). Salmon roe, sea urchin roe, tofugu roe, doesn’t matter. Your old, tired bones need roe after all that hard work!",
+  "primaryMeaning": "Elderly",
+  "otherMeanings": [],
   "meaningMnemonic": "By the time you finish digging a <radical>coffin</radical> hole with nothing but a <radical>spoon</radical>, you’ll be an old <kanji>elderly</kanji> person. Digging with nothing but a spoon takes a long time, especially when the hole needs to be big enough for a coffin. You might as well be digging it for yourself at this rate. By the time you finish, you’ll be all wrinkled and elderly and just about ready to keel over.",
-  "vocabularyIds": [
-    3254,
-    5540,
-    6160,
-    7095,
-    7342,
-    8232,
-    8469
-  ],
-  "radicalIds": [
-    104,
-    57
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%80%81"
+  "readingMnemonic": "Now that you’re <kanji>elderly</kanji> (and probably about to die) you suddenly crave some delicious <reading>roe</reading> (ろう). Salmon roe, sea urchin roe, tofugu roe, doesn’t matter. Your old, tired bones need roe after all that hard work!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%80%81"
+  },
+  "related": {
+    "radicals": [
+      104,
+      57
+    ],
+    "vocabularies": [
+      3254,
+      5540,
+      6160,
+      7095,
+      7342,
+      8232,
+      8469
+    ]
+  }
 }

@@ -1,0 +1,47 @@
+{
+  "id": 5277,
+  "type": "vocabulary",
+  "characters": "直航",
+  "primaryMeaning": "Nonstop Flight",
+  "otherMeanings": [
+    "Direct Voyage"
+  ],
+  "primaryReading": "ちょっこう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 630,
+      "character": "直",
+      "readings": [
+        "ちょく",
+        "じき",
+        "なお"
+      ]
+    },
+    {
+      "id": 1397,
+      "character": "航",
+      "readings": [
+        "こう",
+        "わたる"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Remember how 直行 is \"nonstop\"? Well, with 直航 it's the same thing, but it's only used for flights and boat trips, making this a <vocabulary>nonstop flight</vocabulary> or <vocabulary>direct voyage</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%9B%B4%E8%88%AA",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "直",
+      "id": 630,
+      "reading": "ちょっ"
+    },
+    {
+      "type": "kanji",
+      "value": "航",
+      "id": 1397,
+      "reading": "こう"
+    }
+  ]
+}

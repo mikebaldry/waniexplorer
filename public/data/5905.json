@@ -1,32 +1,20 @@
 {
   "id": 5905,
   "type": "vocabulary",
-  "characters": "炎",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "炎"
+  },
   "primaryMeaning": "Flame",
+  "meaningMnemonic": "The kanji and the word are exactly the same!",
+  "primaryReading": "ほのお",
+  "readingMnemonic": "<reading>Ho nooooo</reading> (ほのお), there are flames everywhere! ",
   "otherMeanings": [
     "Blaze"
   ],
-  "primaryReading": "ほのお",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1599,
-      "character": "炎",
-      "readings": [
-        "えん",
-        "ほのお"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The kanji and the word are exactly the same!",
-  "readingMnemonic": "<reading>Ho nooooo</reading> (ほのお), there are flames everywhere! ",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%82%8E",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "炎",
-      "id": 1599,
-      "reading": "ほのお"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%82%8E"
+  }
 }

@@ -1,50 +1,20 @@
 {
   "id": 5741,
   "type": "vocabulary",
-  "characters": "興味がない",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "興味がない"
+  },
   "primaryMeaning": "No Interest",
+  "meaningMnemonic": "興味 is <kanji>interest</kanji> in something. If you do not have (がない) that interest, then you have <vocabulary>no interest</vocabulary> or you're <vocabulary>not interested</vocabulary>.",
+  "primaryReading": "きょうみがない",
+  "readingMnemonic": "You learned that the word 興味 uses the on'yomi readings for both kanji, so all you have to do is add が + ない and you've got a new expression!",
   "otherMeanings": [
     "Not Interested"
   ],
-  "primaryReading": "きょうみがない",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1491,
-      "character": "興",
-      "readings": [
-        "きょう",
-        "こう"
-      ]
-    },
-    {
-      "id": 812,
-      "character": "味",
-      "readings": [
-        "み",
-        "あじ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "興味 is <kanji>interest</kanji> in something. If you do not have (がない) that interest, then you have <vocabulary>no interest</vocabulary> or you're <vocabulary>not interested</vocabulary>.",
-  "readingMnemonic": "You learned that the word 興味 uses the on'yomi readings for both kanji, so all you have to do is add が + ない and you've got a new expression!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%88%88%E5%91%B3%E3%81%8C%E3%81%AA%E3%81%84",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "興",
-      "id": 1491,
-      "reading": "きょう"
-    },
-    {
-      "type": "kanji",
-      "value": "味",
-      "id": 812,
-      "reading": "み"
-    },
-    {
-      "type": "kana",
-      "value": "がない"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%88%88%E5%91%B3%E3%81%8C%E3%81%AA%E3%81%84"
+  }
 }

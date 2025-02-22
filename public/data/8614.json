@@ -1,44 +1,18 @@
 {
   "id": 8614,
   "type": "vocabulary",
-  "characters": "帆柱",
+  "level": 60,
+  "characters": {
+    "type": "text",
+    "value": "帆柱"
+  },
   "primaryMeaning": "Mast",
-  "otherMeanings": [],
-  "primaryReading": "ほばしら",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2389,
-      "character": "帆",
-      "readings": [
-        "はん",
-        "ほ"
-      ]
-    },
-    {
-      "id": 1745,
-      "character": "柱",
-      "readings": [
-        "ちゅう",
-        "はしら"
-      ]
-    }
-  ],
   "meaningMnemonic": "The <kanji>pillar</kanji> the <kanji>sail</kanji> is attached to is called a <vocabulary>mast</vocabulary>. Without it the sail wouldn't do it's job and your sailboat wouldn't move at all.",
+  "primaryReading": "ほばしら",
   "readingMnemonic": "The readings for this word are both kun'yomi readings. You learned these readings with other vocabulary, so you should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B8%86%E6%9F%B1",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "帆",
-      "id": 2389,
-      "reading": "ほ"
-    },
-    {
-      "type": "kanji",
-      "value": "柱",
-      "id": 1745,
-      "reading": "ばしら"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%B8%86%E6%9F%B1"
+  }
 }

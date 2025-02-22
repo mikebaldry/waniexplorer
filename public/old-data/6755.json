@@ -1,0 +1,45 @@
+{
+  "id": 6755,
+  "type": "vocabulary",
+  "characters": "喪服",
+  "primaryMeaning": "Mourning Dress",
+  "otherMeanings": [
+    "Mourning Clothes"
+  ],
+  "primaryReading": "もふく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1808,
+      "character": "喪",
+      "readings": [
+        "そう",
+        "も"
+      ]
+    },
+    {
+      "id": 716,
+      "character": "服",
+      "readings": [
+        "ふく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Your <kanji>mourning</kanji> <kanji>clothes</kanji> is your <vocabulary>mourning dress</vocabulary> or <vocabulary>mourning clothes</vocabulary>.",
+  "readingMnemonic": "The reading comes from the on'yomi for 服 and the kun'yomi for 喪, which you learned with the word 喪. You should know how to read this word!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%96%AA%E6%9C%8D",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "喪",
+      "id": 1808,
+      "reading": "も"
+    },
+    {
+      "type": "kanji",
+      "value": "服",
+      "id": 716,
+      "reading": "ふく"
+    }
+  ]
+}

@@ -1,45 +1,18 @@
 {
   "id": 3392,
   "type": "vocabulary",
-  "characters": "登山",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "登山"
+  },
   "primaryMeaning": "Mountain Climbing",
-  "otherMeanings": [],
-  "primaryReading": "とざん",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 845,
-      "character": "登",
-      "readings": [
-        "とう",
-        "と",
-        "のぼ"
-      ]
-    },
-    {
-      "id": 455,
-      "character": "山",
-      "readings": [
-        "さん",
-        "やま"
-      ]
-    }
-  ],
   "meaningMnemonic": "<kanji>Climb</kanji> a <kanji>mountain</kanji>. That is <vocabulary>mountain climbing</vocabulary>.",
+  "primaryReading": "とざん",
   "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Note this uses the alternative と reading, not to be confused with とう (actually, very confusing, sorry!). Just imagine you cut your <reading>toe</reading> off with an ice pick while mountain climbing. You know it's a short と because your toe is now short. And さん becomes ざん thanks to our old friend rendaku.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%99%BB%E5%B1%B1",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "登",
-      "id": 845,
-      "reading": "と"
-    },
-    {
-      "type": "kanji",
-      "value": "山",
-      "id": 455,
-      "reading": "ざん"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%99%BB%E5%B1%B1"
+  }
 }

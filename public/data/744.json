@@ -1,35 +1,43 @@
 {
   "id": 744,
   "type": "kanji",
-  "character": "院",
-  "primaryMeaning": "Institution",
-  "otherMeanings": [],
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "院"
+  },
   "primaryReading": "いん",
   "readings": [
     {
-      "reading": "いん",
       "primary": true,
+      "reading": "いん",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "What does <kanji>institution</kanji> start with? In (いん)!",
+  "primaryMeaning": "Institution",
+  "otherMeanings": [],
   "meaningMnemonic": "This <radical>building</radical> has a <radical>roof</radical> and will teach you about the <radical>origin</radical> of many things. It's an <kanji>institution</kanji>!",
-  "vocabularyIds": [
-    3165,
-    3166,
-    4068,
-    5093,
-    5194,
-    6273,
-    7628,
-    8087,
-    8666,
-    8668
-  ],
-  "radicalIds": [
-    176,
-    78,
-    64
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%99%A2"
+  "readingMnemonic": "What does <kanji>institution</kanji> start with? In (いん)!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%99%A2"
+  },
+  "related": {
+    "radicals": [
+      176,
+      78,
+      64
+    ],
+    "vocabularies": [
+      3165,
+      3166,
+      4068,
+      5093,
+      5194,
+      6273,
+      7628,
+      8087,
+      8666,
+      8668
+    ]
+  }
 }

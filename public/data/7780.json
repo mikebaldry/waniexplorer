@@ -1,48 +1,20 @@
 {
   "id": 7780,
   "type": "vocabulary",
-  "characters": "一翼",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "一翼"
+  },
   "primaryMeaning": "A Part",
+  "meaningMnemonic": "<kanji>One</kanji> <kanji>wing</kanji> is just <vocabulary>a part </vocabulary>of the bird or plane it's attached to. But that one wing plays <vocabulary>a role</vocabulary> that's very important!\n\nThis word usually comes up in the phrase 〜の一翼を担う (to play a part in…). ",
+  "primaryReading": "いちよく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "A Role"
   ],
-  "primaryReading": "いちよく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 440,
-      "character": "一",
-      "readings": [
-        "いち",
-        "いつ",
-        "ひと",
-        "かず"
-      ]
-    },
-    {
-      "id": 1875,
-      "character": "翼",
-      "readings": [
-        "よく",
-        "つばさ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>One</kanji> <kanji>wing</kanji> is just <vocabulary>a part </vocabulary>of the bird or plane it's attached to. But that one wing plays <vocabulary>a role</vocabulary> that's very important!\n\nThis word usually comes up in the phrase 〜の一翼を担う (to play a part in…). ",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%80%E7%BF%BC",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "一",
-      "id": 440,
-      "reading": "いち"
-    },
-    {
-      "type": "kanji",
-      "value": "翼",
-      "id": 1875,
-      "reading": "よく"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B8%80%E7%BF%BC"
+  }
 }

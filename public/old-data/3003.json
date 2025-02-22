@@ -1,0 +1,45 @@
+{
+  "id": 3003,
+  "type": "vocabulary",
+  "characters": "医者",
+  "primaryMeaning": "Doctor",
+  "otherMeanings": [
+    "Physician"
+  ],
+  "primaryReading": "いしゃ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 681,
+      "character": "医",
+      "readings": [
+        "い"
+      ]
+    },
+    {
+      "id": 690,
+      "character": "者",
+      "readings": [
+        "しゃ",
+        "もの"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Someone</kanji> who works in <kanji>medicine</kanji> is a <vocabulary>doctor</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8C%BB%E8%80%85",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "医",
+      "id": 681,
+      "reading": "い"
+    },
+    {
+      "type": "kanji",
+      "value": "者",
+      "id": 690,
+      "reading": "しゃ"
+    }
+  ]
+}

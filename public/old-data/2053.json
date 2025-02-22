@@ -1,0 +1,32 @@
+{
+  "id": 2053,
+  "type": "kanji",
+  "character": "誓",
+  "primaryMeaning": "Vow",
+  "otherMeanings": [],
+  "primaryReading": "せい",
+  "readings": [
+    {
+      "reading": "せい",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ちか",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "When you finish your <kanji>vow</kanji>, you take out your holy blue <reading>sa</reading>ber (せい) and cut the axe in half! You know you're never going to break your vow, and if you do, you'll use your own saber to cut off your fingers.",
+  "meaningMnemonic": "With your <radical>fingers</radical> under an <radical>axe</radical>, you <radical>say</radical> a <kanji>vow</kanji>. A vow is a sacred promise, so you have to be really serious when you say one. That's why you do it with an axe hovering above your fingers—it's a reminder that if you break this vow your fingers are gonna get chopped off.",
+  "vocabularyIds": [
+    7275,
+    7276
+  ],
+  "radicalIds": [
+    63,
+    115,
+    117
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%AA%93"
+}

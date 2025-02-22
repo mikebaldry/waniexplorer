@@ -1,48 +1,18 @@
 {
   "id": 4872,
   "type": "vocabulary",
-  "characters": "女優",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "女優"
+  },
   "primaryMeaning": "Actress",
-  "otherMeanings": [],
-  "primaryReading": "じょゆう",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 454,
-      "character": "女",
-      "readings": [
-        "じょ",
-        "にょ",
-        "にょう",
-        "おんな",
-        "め"
-      ]
-    },
-    {
-      "id": 1206,
-      "character": "優",
-      "readings": [
-        "ゆう",
-        "やさ",
-        "すぐ"
-      ]
-    }
-  ],
   "meaningMnemonic": "Remember how 男優 was \"actor\"? Well, I bet you can extrapolate what this one means because it now has <kanji>woman</kanji> in it. This is an <vocabulary>actress</vocabulary>.",
+  "primaryReading": "じょゆう",
   "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A5%B3%E5%84%AA",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "女",
-      "id": 454,
-      "reading": "じょ"
-    },
-    {
-      "type": "kanji",
-      "value": "優",
-      "id": 1206,
-      "reading": "ゆう"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A5%B3%E5%84%AA"
+  }
 }

@@ -1,32 +1,40 @@
 {
   "id": 1524,
   "type": "kanji",
-  "character": "拡",
-  "primaryMeaning": "Extend",
-  "otherMeanings": [],
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "拡"
+  },
   "primaryReading": "かく",
   "readings": [
     {
-      "reading": "かく",
       "primary": true,
+      "reading": "かく",
       "type": "onyomi"
     },
     {
-      "reading": "ひろ",
       "primary": false,
+      "reading": "ひろ",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "As you <kanji>extend</kanji> your fingers a <reading>cock</reading> (かく) comes running by and runs straight into them. Bu-COCK!",
+  "primaryMeaning": "Extend",
+  "otherMeanings": [],
   "meaningMnemonic": "To make your <radical>fingers</radical> <radical>wide</radical> you <kanji>extend</kanji> them.",
-  "vocabularyIds": [
-    5640,
-    5641,
-    5642
-  ],
-  "radicalIds": [
-    63,
-    382
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%8B%A1"
+  "readingMnemonic": "As you <kanji>extend</kanji> your fingers a <reading>cock</reading> (かく) comes running by and runs straight into them. Bu-COCK!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%8B%A1"
+  },
+  "related": {
+    "radicals": [
+      63,
+      382
+    ],
+    "vocabularies": [
+      5640,
+      5641,
+      5642
+    ]
+  }
 }

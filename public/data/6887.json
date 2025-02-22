@@ -1,32 +1,20 @@
 {
   "id": 6887,
   "type": "vocabulary",
-  "characters": "暦",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "暦"
+  },
   "primaryMeaning": "Calendar",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "こよみ",
+  "readingMnemonic": "When looking at a calendar, the <reading>子読み</reading> (こよみ) of it is to... well... not be able to read it at all. Because, children can't really read. So, when you look at a calendar you have to explain it to a child, since they cannot read it.",
   "otherMeanings": [
     "Almanac"
   ],
-  "primaryReading": "こよみ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1921,
-      "character": "暦",
-      "readings": [
-        "れき",
-        "こよみ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
-  "readingMnemonic": "When looking at a calendar, the <reading>子読み</reading> (こよみ) of it is to... well... not be able to read it at all. Because, children can't really read. So, when you look at a calendar you have to explain it to a child, since they cannot read it.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9A%A6",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "暦",
-      "id": 1921,
-      "reading": "こよみ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%9A%A6"
+  }
 }

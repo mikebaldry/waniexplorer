@@ -1,38 +1,22 @@
 {
   "id": 7863,
   "type": "vocabulary",
-  "characters": "偏る",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "偏る"
+  },
   "primaryMeaning": "To Be Biased",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>biased</kanji>, so the verb version is <vocabulary>to be biased</vocabulary> or <vocabulary>to be prejudiced</vocabulary>.",
+  "primaryReading": "かたよる",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nYou meet someone who claims <vocabulary>to be biased</vocabulary> about everything. You ask them why and they say, \"I'm a <reading>cutter, yo</reading> (かたよ)! I cut everything in half and only like one of 'em. But I guess if you wanna call that biased go ahead, man.\" Huh okay.",
   "otherMeanings": [
     "To Be One Sided",
     "To Be Partial",
     "To Be Prejudiced"
   ],
-  "primaryReading": "かたよる",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2175,
-      "character": "偏",
-      "readings": [
-        "へん",
-        "かたよ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>biased</kanji>, so the verb version is <vocabulary>to be biased</vocabulary> or <vocabulary>to be prejudiced</vocabulary>.",
-  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nYou meet someone who claims <vocabulary>to be biased</vocabulary> about everything. You ask them why and they say, \"I'm a <reading>cutter, yo</reading> (かたよ)! I cut everything in half and only like one of 'em. But I guess if you wanna call that biased go ahead, man.\" Huh okay.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%81%8F%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "偏",
-      "id": 2175,
-      "reading": "かたよ"
-    },
-    {
-      "type": "kana",
-      "value": "る"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%81%8F%E3%82%8B"
+  }
 }

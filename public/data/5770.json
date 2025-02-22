@@ -1,48 +1,22 @@
 {
   "id": 5770,
   "type": "vocabulary",
-  "characters": "縦横",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "縦横"
+  },
   "primaryMeaning": "Length And Width",
+  "meaningMnemonic": "<kanji>Vertical</kanji> and <kanji>side</kanji> (horizontal). That means you have the <vocabulary>length and width</vocabulary> and the <vocabulary>vertical and horizontal</vocabulary>.",
+  "primaryReading": "たてよこ",
+  "readingMnemonic": "This is a jukugo word that usually uses the kun'yomi readings of the kanji. You should be able to read this on your own.\n\nNote however, that there is a less-common on'yomi reading,  じゅうおう, which is used in some idioms. It's good to know this reading exists, but you probably won't come across it very often. ",
   "otherMeanings": [
     "Vertical And Horizontal"
   ],
-  "primaryReading": "たてよこ",
   "otherReadings": [
     "じゅうおう"
   ],
-  "kanji": [
-    {
-      "id": 1556,
-      "character": "縦",
-      "readings": [
-        "たて",
-        "じゅう"
-      ]
-    },
-    {
-      "id": 768,
-      "character": "横",
-      "readings": [
-        "よこ",
-        "おう"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Vertical</kanji> and <kanji>side</kanji> (horizontal). That means you have the <vocabulary>length and width</vocabulary> and the <vocabulary>vertical and horizontal</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that usually uses the kun'yomi readings of the kanji. You should be able to read this on your own.\n\nNote however, that there is a less-common on'yomi reading,  じゅうおう, which is used in some idioms. It's good to know this reading exists, but you probably won't come across it very often. ",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B8%A6%E6%A8%AA",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "縦",
-      "id": 1556,
-      "reading": "たて"
-    },
-    {
-      "type": "kanji",
-      "value": "横",
-      "id": 768,
-      "reading": "よこ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%B8%A6%E6%A8%AA"
+  }
 }

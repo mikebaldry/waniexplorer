@@ -1,0 +1,33 @@
+{
+  "id": 2119,
+  "type": "kanji",
+  "character": "孔",
+  "primaryMeaning": "Cavity",
+  "otherMeanings": [
+    "Hole"
+  ],
+  "primaryReading": "こう",
+  "readings": [
+    {
+      "reading": "こう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "あな",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "\"Into my <kanji>cavity</kanji> you go!\" yells a voice. It is <reading>こう</reading>いち. ",
+  "meaningMnemonic": "You see a <radical>child</radical> with an <radical>umbrella</radical> in front of you. Suddenly, they fall straight down into a <kanji>cavity</kanji> in the road. It's a big <kanji>hole</kanji>!",
+  "vocabularyIds": [
+    7509,
+    7510
+  ],
+  "radicalIds": [
+    34,
+    211
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%AD%94"
+}

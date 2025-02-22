@@ -1,0 +1,33 @@
+{
+  "id": 5110,
+  "type": "vocabulary",
+  "characters": "並",
+  "primaryMeaning": "Ordinary",
+  "otherMeanings": [
+    "Average"
+  ],
+  "primaryReading": "なみ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1372,
+      "character": "並",
+      "readings": [
+        "へい",
+        "なら",
+        "なみ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The things that <kanji>line up</kanji> are the <vocabulary>ordinary</vocabulary> and <vocabulary>average</vocabulary> things. The extraordinary things skip the line, because they don't have to wait. Sad for all the ordinaries.",
+  "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You did not learn this reading, so here's a mnemonic to help you to remember:\n\nYou're at the coast, looking out at the <reading>波</reading> (なみ), which are all very <vocabulary>ordinary</vocabulary>, <vocabulary>average</vocabulary>. Nothing exceptional about those waves.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%A6",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "並",
+      "id": 1372,
+      "reading": "なみ"
+    }
+  ]
+}

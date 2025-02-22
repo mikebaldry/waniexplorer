@@ -1,0 +1,36 @@
+{
+  "id": 517,
+  "type": "kanji",
+  "character": "北",
+  "primaryMeaning": "North",
+  "otherMeanings": [],
+  "primaryReading": "ほく",
+  "readings": [
+    {
+      "reading": "ほく",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "きた",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You use this technique to go <kanji>north</kanji>, where everyone likes to <reading>hoe</reading> <reading>coo</reading>kies (ほく). You never knew this, but in the north people have to hoe cookies to make their living. They hoe the cookies up and sell 'em. It's like the main industry up north.",
+  "meaningMnemonic": "If you rub an <radical>ice</radical> <radical>stick</radical> against a <radical>spoon</radical>, the spoon will always point <kanji>north</kanji>. This is because the ice stick creates a magnetic field that makes the spoon act like a compass needle. That's science, friends!",
+  "vocabularyIds": [
+    2623,
+    2779,
+    2898,
+    7474,
+    8014,
+    9055
+  ],
+  "radicalIds": [
+    123,
+    8761,
+    57
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%8C%97"
+}

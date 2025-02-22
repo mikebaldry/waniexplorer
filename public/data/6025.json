@@ -1,46 +1,20 @@
 {
   "id": 6025,
   "type": "vocabulary",
-  "characters": "諾否",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "諾否"
+  },
   "primaryMeaning": "Consent Or Refusal",
+  "meaningMnemonic": "Do we have <kanji>agreement</kanji> or <kanji>no</kanji>? Which is it? <vocabulary>consent or refusal</vocabulary>? <vocabulary>Yes or no</vocabulary>? Choose!",
+  "primaryReading": "だくひ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Yes Or No"
   ],
-  "primaryReading": "だくひ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1641,
-      "character": "諾",
-      "readings": [
-        "だく"
-      ]
-    },
-    {
-      "id": 1517,
-      "character": "否",
-      "readings": [
-        "ひ",
-        "いな",
-        "いや"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Do we have <kanji>agreement</kanji> or <kanji>no</kanji>? Which is it? <vocabulary>consent or refusal</vocabulary>? <vocabulary>Yes or no</vocabulary>? Choose!",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%AB%BE%E5%90%A6",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "諾",
-      "id": 1641,
-      "reading": "だく"
-    },
-    {
-      "type": "kanji",
-      "value": "否",
-      "id": 1517,
-      "reading": "ひ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%AB%BE%E5%90%A6"
+  }
 }

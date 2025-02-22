@@ -1,0 +1,46 @@
+{
+  "id": 3366,
+  "type": "vocabulary",
+  "characters": "水深",
+  "primaryMeaning": "Water Depth",
+  "otherMeanings": [
+    "Depth Of Water"
+  ],
+  "primaryReading": "すいしん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 479,
+      "character": "水",
+      "readings": [
+        "すい",
+        "みず"
+      ]
+    },
+    {
+      "id": 831,
+      "character": "深",
+      "readings": [
+        "しん",
+        "ふか"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>water</kanji> <kanji>deep</kanji>ness is the <vocabulary>water depth</vocabulary>. You should check this before diving into the water so you don't hit your face.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B0%B4%E6%B7%B1",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "水",
+      "id": 479,
+      "reading": "すい"
+    },
+    {
+      "type": "kanji",
+      "value": "深",
+      "id": 831,
+      "reading": "しん"
+    }
+  ]
+}

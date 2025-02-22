@@ -1,0 +1,37 @@
+{
+  "id": 8934,
+  "type": "vocabulary",
+  "characters": "痛める",
+  "primaryMeaning": "To Injure Something",
+  "otherMeanings": [
+    "To Hurt Something",
+    "To Hurt Someone"
+  ],
+  "primaryReading": "いためる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1318,
+      "character": "痛",
+      "readings": [
+        "つう",
+        "いた"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. \n\nThe kanji itself means <kanji>pain</kanji>, and this verb is transitive, so it means to inflict pain. In other words, it's <vocabulary>to injure something</vocabulary> or <vocabulary>to hurt someone</vocabulary>.\n\nThis verb focusses on the pain involved in an injury, so it can only be used for things that feel pain, like people and body parts.",
+  "readingMnemonic": "Since this word has okurigana (hiragana attached to the kanji) you know that it's probably going to be the kun'yomi reading. You learned that reading with the word 痛い.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%97%9B%E3%82%81%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "痛",
+      "id": 1318,
+      "reading": "いた"
+    },
+    {
+      "type": "kana",
+      "value": "める"
+    }
+  ]
+}

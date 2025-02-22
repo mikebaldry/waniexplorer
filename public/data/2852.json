@@ -1,46 +1,18 @@
 {
   "id": 2852,
   "type": "vocabulary",
-  "characters": "両日",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "両日"
+  },
   "primaryMeaning": "Both Days",
-  "otherMeanings": [],
-  "primaryReading": "りょうじつ",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 609,
-      "character": "両",
-      "readings": [
-        "りょう"
-      ]
-    },
-    {
-      "id": 476,
-      "character": "日",
-      "readings": [
-        "にち",
-        "じつ",
-        "ひ",
-        "か",
-        "び"
-      ]
-    }
-  ],
   "meaningMnemonic": "Kanji doesn't go together much better than this. <kanji>Both</kanji> plus <kanji>day</kanji> equals <vocabulary>both days</vocabulary>.\n\nThis is a bit of a formal word though, you'll hear important people say it more than your friends.",
+  "primaryReading": "りょうじつ",
   "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 日 has two on'yomi readings, here's a mnemonic to help you remember which one to use:\n\nOn <vocabulary>both days</vocabulary> of your vacation, you get two boats to <reading>row</reading>! <reading>Gee, two</reading> (りょうじつ) boats at once? Try not to fall in!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%A1%E6%97%A5",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "両",
-      "id": 609,
-      "reading": "りょう"
-    },
-    {
-      "type": "kanji",
-      "value": "日",
-      "id": 476,
-      "reading": "じつ"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B8%A1%E6%97%A5"
+  }
 }

@@ -1,0 +1,31 @@
+{
+  "id": 8195,
+  "type": "vocabulary",
+  "characters": "尿",
+  "primaryMeaning": "Urine",
+  "otherMeanings": [
+    "Pee"
+  ],
+  "primaryReading": "にょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2276,
+      "character": "尿",
+      "readings": [
+        "にょう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B0%BF",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "尿",
+      "id": 2276,
+      "reading": "にょう"
+    }
+  ]
+}

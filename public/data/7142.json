@@ -1,34 +1,18 @@
 {
   "id": 7142,
   "type": "vocabulary",
-  "characters": "〜狩り",
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "〜狩り"
+  },
   "primaryMeaning": "Hunting",
-  "otherMeanings": [],
-  "primaryReading": "がり",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1913,
-      "character": "狩",
-      "readings": [
-        "か",
-        "しゅ"
-      ]
-    }
-  ],
   "meaningMnemonic": "You know that 狩り is hunting already. This is the same thing (<vocabulary>hunting</vocabulary>). Difference is this one is attached to other words to specify what kind of hunting you're doing.",
+  "primaryReading": "がり",
   "readingMnemonic": "The reading is the same as 狩り, but since it follows another word, it gets rendaku-ed. Here is a mnemonic to help with remembering the rendaku.\n\nHunting can be <reading>girly</reading> (がり), if you dress up like a girly hunter.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E3%80%9C%E7%8B%A9%E3%82%8A",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "狩",
-      "id": 1913,
-      "reading": "が"
-    },
-    {
-      "type": "kana",
-      "value": "り"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E3%80%9C%E7%8B%A9%E3%82%8A"
+  }
 }

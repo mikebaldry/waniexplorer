@@ -1,0 +1,50 @@
+{
+  "id": 2939,
+  "type": "vocabulary",
+  "characters": "以上",
+  "primaryMeaning": "More Than",
+  "otherMeanings": [
+    "Or More",
+    "That's All"
+  ],
+  "primaryReading": "いじょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 653,
+      "character": "以",
+      "readings": [
+        "い"
+      ]
+    },
+    {
+      "id": 450,
+      "character": "上",
+      "readings": [
+        "じょう",
+        "うえ",
+        "あ",
+        "のぼ",
+        "うわ",
+        "かみ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Compared with</kanji> something else, this is <kanji>above</kanji>. That's another way to say that what you have is <vocabulary>more than</vocabulary> something else. <vocabulary>That's all</vocabulary>. ;)",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BB%A5%E4%B8%8A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "以",
+      "id": 653,
+      "reading": "い"
+    },
+    {
+      "type": "kanji",
+      "value": "上",
+      "id": 450,
+      "reading": "じょう"
+    }
+  ]
+}

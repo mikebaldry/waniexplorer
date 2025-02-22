@@ -1,0 +1,30 @@
+{
+  "id": 8986,
+  "type": "vocabulary",
+  "characters": "咳",
+  "primaryMeaning": "Cough",
+  "otherMeanings": [],
+  "primaryReading": "せき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 8968,
+      "character": "咳",
+      "readings": [
+        "せき",
+        "がい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "The reading for this vocabulary is the same as the reading you learned with the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%92%B3",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "咳",
+      "id": 8968,
+      "reading": "せき"
+    }
+  ]
+}

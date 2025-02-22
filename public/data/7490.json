@@ -1,30 +1,18 @@
 {
   "id": 7490,
   "type": "vocabulary",
-  "characters": "波",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "波"
+  },
   "primaryMeaning": "Wave",
-  "otherMeanings": [],
-  "primaryReading": "なみ",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 793,
-      "character": "波",
-      "readings": [
-        "は",
-        "なみ"
-      ]
-    }
-  ],
   "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "なみ",
   "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You did not learn this reading, so here's a mnemonic to help you to remember:\n\nYou jump on a wave and ride around the world on it. As you ride this wave, it gets bigger and bigger, until it reaches tsu<reading>nami</reading> (なみ) proportions. Imagine looking down from the tsunami at the vast, blue sea all around you. That's quite a wave you're riding.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B3%A2",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "波",
-      "id": 793,
-      "reading": "なみ"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B3%A2"
+  }
 }

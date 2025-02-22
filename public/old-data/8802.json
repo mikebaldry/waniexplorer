@@ -1,0 +1,47 @@
+{
+  "id": 8802,
+  "type": "vocabulary",
+  "characters": "使用",
+  "primaryMeaning": "Use",
+  "otherMeanings": [
+    "Application",
+    "Employment"
+  ],
+  "primaryReading": "しよう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 709,
+      "character": "使",
+      "readings": [
+        "し",
+        "つか"
+      ]
+    },
+    {
+      "id": 525,
+      "character": "用",
+      "readings": [
+        "よう",
+        "もち"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Something you <kanji>use</kanji> that has a <kanji>use</kanji> has... well, <vocabulary>use</vocabulary>. You can even use it for practical <vocabulary>application</vocabulary>s.\n\n使用 has a slightly more formal tone compared to 使う, and it’s preferred in situations that require a more precise and less casual choice of words.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BD%BF%E7%94%A8",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "使",
+      "id": 709,
+      "reading": "し"
+    },
+    {
+      "type": "kanji",
+      "value": "用",
+      "id": 525,
+      "reading": "よう"
+    }
+  ]
+}

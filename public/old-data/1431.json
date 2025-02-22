@@ -1,0 +1,43 @@
+{
+  "id": 1431,
+  "type": "kanji",
+  "character": "更",
+  "primaryMeaning": "Renew",
+  "otherMeanings": [],
+  "primaryReading": "こう",
+  "readings": [
+    {
+      "reading": "こう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "さら",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "ふ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Just as you were getting accustomed to this life <kanji>renew</kanji>ing treasure, <reading>こう</reading>いち comes out of nowhere, stealing your treasure and running off with it.",
+  "meaningMnemonic": "In the <radical>ground</radical> of the <radical>rice paddy</radical> is a <radical>treasure</radical>. As you pull it out of the mucky ground, you can feel your life force being<kanji>renew</kanji>ed.",
+  "vocabularyIds": [
+    5325,
+    5326,
+    5327,
+    5328,
+    5607,
+    6530,
+    8273,
+    8502
+  ],
+  "radicalIds": [
+    1,
+    51,
+    31
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%9B%B4"
+}

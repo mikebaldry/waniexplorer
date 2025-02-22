@@ -1,0 +1,40 @@
+{
+  "id": 9294,
+  "type": "vocabulary",
+  "characters": "重ねる",
+  "primaryMeaning": "To Stack",
+  "otherMeanings": [
+    "To Pile Up",
+    "To Accumulate"
+  ],
+  "primaryReading": "かさねる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 735,
+      "character": "重",
+      "readings": [
+        "じゅう",
+        "ちょう",
+        "おも",
+        "かさ",
+        "え"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You've got lots of <kanji>heavy</kanji> things, so the only logical thing is <vocabulary>to stack</vocabulary> them all up. \n\nBesides heavy physical things, you can also use this word when you're going <vocabulary>to accumulate</vocabulary> things like experience, practice, or years on your back.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you:\n\nAll the things you've <vocabulary>stack</vocabulary>ed up were in preparation for your new <reading>casa</reading> (かさ). With everything inside boxes and neatly piled up, you're finally ready to move into your new casa. Hooray!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%87%8D%E3%81%AD%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "重",
+      "id": 735,
+      "reading": "かさ"
+    },
+    {
+      "type": "kana",
+      "value": "ねる"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 5035,
+  "type": "vocabulary",
+  "characters": "両替",
+  "primaryMeaning": "Change Money",
+  "otherMeanings": [
+    "Money Exchange",
+    "Currency Exchange"
+  ],
+  "primaryReading": "りょうがえ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 609,
+      "character": "両",
+      "readings": [
+        "りょう"
+      ]
+    },
+    {
+      "id": 1279,
+      "character": "替",
+      "readings": [
+        "か",
+        "たい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Coins? Bills? <kanji>Both</kanji> can be <kanji>replace</kanji>d if you want to <vocabulary>change money</vocabulary> at this <vocabulary>money exchange</vocabulary>. Just don’t do your <vocabulary>currency exchange</vocabulary> at the airport — the rates aren’t so great.\n\nYou'll probably see this word the most in arcades where you can go to the 両替 machine and get coins to feed your crane game addiction.",
+  "readingMnemonic": "The reading here is a bit weird. Instead of just being か (it changes to が for the rendaku), it is がえ. Just think that if you want change exchanged, I'm your <reading>guy</reading> (がえ).",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%A1%E6%9B%BF",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "両",
+      "id": 609,
+      "reading": "りょう"
+    },
+    {
+      "type": "kanji",
+      "value": "替",
+      "id": 1279,
+      "reading": "が"
+    }
+  ]
+}

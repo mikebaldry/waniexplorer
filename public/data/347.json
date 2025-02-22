@@ -1,12 +1,15 @@
 {
   "id": 347,
   "type": "radical",
-  "primaryMeaning": "Storehouse",
-  "otherMeanings": [],
-  "character": {
+  "level": 33,
+  "characters": {
     "type": "text",
     "value": "蔵"
   },
+  "primaryMeaning": "Storehouse",
+  "otherMeanings": [],
   "meaningMnemonic": "Your flowers become your servants. You plant them, you water them, you bring them up, then you cut them down and put them in your <radical>storehouse</radical>. They do what you want because they become YOUR servants, not the other way around. That's why you can tell them to sit in the storehouse where they wait until you come to eat them.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/storehouse"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/storehouse"
+  }
 }

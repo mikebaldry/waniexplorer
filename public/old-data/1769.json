@@ -1,0 +1,33 @@
+{
+  "id": 1769,
+  "type": "kanji",
+  "character": "誉",
+  "primaryMeaning": "Honor",
+  "otherMeanings": [],
+  "primaryReading": "よ",
+  "readings": [
+    {
+      "reading": "よ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ほ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Being one of little <kanji>honor</kanji>, you decide to squash these vocal fins with your <reading>yo</reading>-yo (よ). You take out your yo-yo and start bashing each fin with it until they stop talking about what little honor you have.",
+  "meaningMnemonic": "There’s <radical>grass</radical> on the <radical>ground</radical> and the <radical>fins</radical> there <radical>say</radical> you have no <kanji>honor</kanji>. The fins are left over from the fish you dismembered and they do not believe it was an act of honor. Now they are just sitting on the ground on the grass, calling you out for having no honor.",
+  "vocabularyIds": [
+    6439,
+    6440
+  ],
+  "radicalIds": [
+    8783,
+    1,
+    2,
+    117
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%AA%89"
+}

@@ -1,45 +1,18 @@
 {
   "id": 5894,
   "type": "vocabulary",
-  "characters": "喜寿",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "喜寿"
+  },
   "primaryMeaning": "Seventy Seventh Birthday",
-  "otherMeanings": [],
-  "primaryReading": "きじゅ",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 976,
-      "character": "喜",
-      "readings": [
-        "き",
-        "よろこ"
-      ]
-    },
-    {
-      "id": 1593,
-      "character": "寿",
-      "readings": [
-        "じゅ",
-        "す",
-        "ことぶき"
-      ]
-    }
-  ],
   "meaningMnemonic": "You can <kanji>rejoice</kanji> because your <kanji>lifespan</kanji> has reached this special point. That special point is your <vocabulary>seventy seventh birthday</vocabulary>. So many sevens, lucky!",
+  "primaryReading": "きじゅ",
   "readingMnemonic": "The readings are the on'yomi reading. You've seen the on'yomi reading of 喜 before, though it may be hard to remember at this point. Maybe you can think about how when you reach this <vocabulary>seventy seventh birthday</vocabulary>, all you want is a <reading>key</reading> (き) to the city so you can do whatever you want.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%96%9C%E5%AF%BF",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "喜",
-      "id": 976,
-      "reading": "き"
-    },
-    {
-      "type": "kanji",
-      "value": "寿",
-      "id": 1593,
-      "reading": "じゅ"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%96%9C%E5%AF%BF"
+  }
 }

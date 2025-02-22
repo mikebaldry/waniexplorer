@@ -1,0 +1,47 @@
+{
+  "id": 2636,
+  "type": "vocabulary",
+  "characters": "市立",
+  "primaryMeaning": "Municipal",
+  "otherMeanings": [
+    "City"
+  ],
+  "primaryReading": "しりつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 522,
+      "character": "市",
+      "readings": [
+        "し",
+        "いち"
+      ]
+    },
+    {
+      "id": 494,
+      "character": "立",
+      "readings": [
+        "りつ",
+        "りゅう",
+        "た"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>city</kanji> <kanji>stand</kanji> is <vocabulary>municipal</vocabulary> in nature. Municipal means \"of or relating to a city or its governing body\", and this vocabulary means just that. Or just <vocabulary>city</vocabulary>. City is fine too.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B8%82%E7%AB%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "市",
+      "id": 522,
+      "reading": "し"
+    },
+    {
+      "type": "kanji",
+      "value": "立",
+      "id": 494,
+      "reading": "りつ"
+    }
+  ]
+}

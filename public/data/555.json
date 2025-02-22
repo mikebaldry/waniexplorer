@@ -1,39 +1,47 @@
 {
   "id": 555,
   "type": "kanji",
-  "character": "男",
-  "primaryMeaning": "Man",
-  "otherMeanings": [],
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "男"
+  },
   "primaryReading": "だん",
   "readings": [
     {
-      "reading": "だん",
       "primary": true,
+      "reading": "だん",
       "type": "onyomi"
     },
     {
+      "primary": false,
       "reading": "なん",
-      "primary": false,
       "type": "onyomi"
     },
     {
-      "reading": "おとこ",
       "primary": false,
+      "reading": "おとこ",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "When you think of a <kanji>man</kanji>, think of <reading>dawn</reading> (だん), because that man has to get up at dawn to power his rice paddy every day. ",
+  "primaryMeaning": "Man",
+  "otherMeanings": [],
   "meaningMnemonic": "The radical for <radical>man</radical> and the kanji for <kanji>man</kanji> are exactly the same.",
-  "vocabularyIds": [
-    2692,
-    3408,
-    3412,
-    3680,
-    4633,
-    8985
-  ],
-  "radicalIds": [
-    243
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%94%B7"
+  "readingMnemonic": "When you think of a <kanji>man</kanji>, think of <reading>dawn</reading> (だん), because that man has to get up at dawn to power his rice paddy every day. ",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%94%B7"
+  },
+  "related": {
+    "radicals": [
+      243
+    ],
+    "vocabularies": [
+      2692,
+      3408,
+      3412,
+      3680,
+      4633,
+      8985
+    ]
+  }
 }

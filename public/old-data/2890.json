@@ -1,0 +1,47 @@
+{
+  "id": 2890,
+  "type": "vocabulary",
+  "characters": "今夜",
+  "primaryMeaning": "Tonight",
+  "otherMeanings": [
+    "This Evening"
+  ],
+  "primaryReading": "こんや",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 497,
+      "character": "今",
+      "readings": [
+        "こん",
+        "いま"
+      ]
+    },
+    {
+      "id": 622,
+      "character": "夜",
+      "readings": [
+        "や",
+        "よ",
+        "よる"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>now</kanji> <kanji>night</kanji> is the current night, aka <vocabulary>tonight</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BB%8A%E5%A4%9C",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "今",
+      "id": 497,
+      "reading": "こん"
+    },
+    {
+      "type": "kanji",
+      "value": "夜",
+      "id": 622,
+      "reading": "や"
+    }
+  ]
+}

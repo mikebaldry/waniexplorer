@@ -1,0 +1,70 @@
+{
+  "id": 6471,
+  "type": "vocabulary",
+  "characters": "生き甲斐",
+  "primaryMeaning": "Reason For Living",
+  "otherMeanings": [
+    "Something Worth Living For"
+  ],
+  "primaryReading": "いきがい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 850,
+      "character": "生",
+      "readings": [
+        "せい",
+        "しょう",
+        "い",
+        "なま",
+        "う",
+        "は",
+        "き"
+      ]
+    },
+    {
+      "id": 1732,
+      "character": "甲",
+      "readings": [
+        "こう",
+        "かん",
+        "か"
+      ]
+    },
+    {
+      "id": 1733,
+      "character": "斐",
+      "readings": [
+        "い",
+        "ひ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You know that 甲斐 is \"effect\" or \"worth.\" So, the \"worth for being alive\" is your <vocabulary>reason for living</vocabulary>. It gives life worth. It's your reason for living.\n\n生き甲斐 is a noun so usually gets used and translated that way, like 仕事が生き甲斐 (work is a reason for living) or 生き甲斐が欲しい (want something worth living for).",
+  "readingMnemonic": "The readings come from 甲斐 and 生き, so if you know those you may have a <vocabulary>reason for living</vocabulary>, or at least a reason for doing your kanji study.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%94%9F%E3%81%8D%E7%94%B2%E6%96%90",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "生",
+      "id": 850,
+      "reading": "い"
+    },
+    {
+      "type": "kana",
+      "value": "き"
+    },
+    {
+      "type": "kanji",
+      "value": "甲",
+      "id": 1732,
+      "reading": "が"
+    },
+    {
+      "type": "kanji",
+      "value": "斐",
+      "id": 1733,
+      "reading": "い"
+    }
+  ]
+}

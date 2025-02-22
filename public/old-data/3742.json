@@ -1,0 +1,46 @@
+{
+  "id": 3742,
+  "type": "vocabulary",
+  "characters": "地区",
+  "primaryMeaning": "District",
+  "otherMeanings": [
+    "Area",
+    "Zone"
+  ],
+  "primaryReading": "ちく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 608,
+      "character": "地",
+      "readings": [
+        "ち",
+        "じ"
+      ]
+    },
+    {
+      "id": 937,
+      "character": "区",
+      "readings": [
+        "く"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>earth</kanji> <kanji>district</kanji> isn't our solar system or something like that. We're talking about a specific portion of earth, and naming it as a district. So, what is this patch of earth? It's a <vocabulary>district</vocabulary>, <vocabulary>area</vocabulary>, or <vocabulary>zone</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%9C%B0%E5%8C%BA",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "地",
+      "id": 608,
+      "reading": "ち"
+    },
+    {
+      "type": "kanji",
+      "value": "区",
+      "id": 937,
+      "reading": "く"
+    }
+  ]
+}

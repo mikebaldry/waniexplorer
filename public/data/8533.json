@@ -1,48 +1,22 @@
 {
   "id": 8533,
   "type": "vocabulary",
-  "characters": "崇拝",
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "崇拝"
+  },
   "primaryMeaning": "Worship",
+  "meaningMnemonic": "<kanji>Worship</kanji> in the morning, <kanji>worship</kanji> in the night, <vocabulary>worship</vocabulary> all day! Worship that WaniKani poster. Do it.",
+  "primaryReading": "すうはい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Adoration",
     "Admiration",
     "Cult"
   ],
-  "primaryReading": "すうはい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2409,
-      "character": "崇",
-      "readings": [
-        "すう",
-        "あが"
-      ]
-    },
-    {
-      "id": 1563,
-      "character": "拝",
-      "readings": [
-        "はい",
-        "おが"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Worship</kanji> in the morning, <kanji>worship</kanji> in the night, <vocabulary>worship</vocabulary> all day! Worship that WaniKani poster. Do it.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B4%87%E6%8B%9D",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "崇",
-      "id": 2409,
-      "reading": "すう"
-    },
-    {
-      "type": "kanji",
-      "value": "拝",
-      "id": 1563,
-      "reading": "はい"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%B4%87%E6%8B%9D"
+  }
 }

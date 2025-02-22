@@ -1,34 +1,42 @@
 {
   "id": 1507,
   "type": "kanji",
-  "character": "欲",
-  "primaryMeaning": "Want",
-  "otherMeanings": [],
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "欲"
+  },
   "primaryReading": "よく",
   "readings": [
     {
-      "reading": "よく",
       "primary": true,
+      "reading": "よく",
       "type": "onyomi"
     },
     {
-      "reading": "ほ",
       "primary": false,
+      "reading": "ほ",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "Once you get to the valley, you <kanji>want</kanji> some protein. Egg <reading>yolk</reading> (よく) falls from the sky! It’s a miracle! You wanted protein, and egg yolk was presented. It falls right into your open mouth.",
+  "primaryMeaning": "Want",
+  "otherMeanings": [],
   "meaningMnemonic": "In the <radical>valley</radical> you feel a <radical>lack</radical> of <kanji>want</kanji>. You want for nothing in this valley. It is the valley of plenty.",
-  "vocabularyIds": [
-    5589,
-    5590,
-    5591,
-    5592,
-    7488
-  ],
-  "radicalIds": [
-    249,
-    142
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%AC%B2"
+  "readingMnemonic": "Once you get to the valley, you <kanji>want</kanji> some protein. Egg <reading>yolk</reading> (よく) falls from the sky! It’s a miracle! You wanted protein, and egg yolk was presented. It falls right into your open mouth.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%AC%B2"
+  },
+  "related": {
+    "radicals": [
+      249,
+      142
+    ],
+    "vocabularies": [
+      5589,
+      5590,
+      5591,
+      5592,
+      7488
+    ]
+  }
 }

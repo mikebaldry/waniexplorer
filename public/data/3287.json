@@ -1,37 +1,21 @@
 {
   "id": 3287,
   "type": "vocabulary",
-  "characters": "拾う",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "拾う"
+  },
   "primaryMeaning": "To Pick Something Up",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>pick up</kanji> so the verb vocab version is <vocabulary>to pick something up</vocabulary>.",
+  "primaryReading": "ひろう",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji. Nicely done!",
   "otherMeanings": [
     "To Find Something",
     "To Gather Something"
   ],
-  "primaryReading": "ひろう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 796,
-      "character": "拾",
-      "readings": [
-        "ひろ",
-        "しゅう"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>pick up</kanji> so the verb vocab version is <vocabulary>to pick something up</vocabulary>.",
-  "readingMnemonic": "The reading is the same as the one you learned with the kanji. Nicely done!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8B%BE%E3%81%86",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "拾",
-      "id": 796,
-      "reading": "ひろ"
-    },
-    {
-      "type": "kana",
-      "value": "う"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%8B%BE%E3%81%86"
+  }
 }

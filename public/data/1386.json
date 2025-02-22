@@ -1,49 +1,57 @@
 {
   "id": 1386,
   "type": "kanji",
-  "character": "請",
-  "primaryMeaning": "Request",
-  "otherMeanings": [],
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "請"
+  },
   "primaryReading": "せい",
   "readings": [
     {
-      "reading": "せい",
       "primary": true,
+      "reading": "せい",
       "type": "onyomi"
     },
     {
+      "primary": false,
       "reading": "しん",
-      "primary": false,
       "type": "onyomi"
     },
     {
+      "primary": false,
       "reading": "しょう",
-      "primary": false,
       "type": "onyomi"
     },
     {
-      "reading": "う",
       "primary": false,
+      "reading": "う",
       "type": "kunyomi"
     },
     {
-      "reading": "こ",
       "primary": false,
+      "reading": "こ",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "The next time someone <kanji>request</kanji>s something from you, take out your <reading>sa</reading>ber (せい) and slice it in half!",
+  "primaryMeaning": "Request",
+  "otherMeanings": [],
   "meaningMnemonic": "If what you <radical>say</radical> comes out <radical>blue</radical>, everyone knows that means you made a <kanji>request</kanji>. You request a favor and the words slide out of your mouth in a bright, blue blob. They hover in front of you for a few seconds, before splashing onto the person you made the request to.",
-  "vocabularyIds": [
-    5285,
-    5286,
-    5287,
-    5288,
-    9308
-  ],
-  "radicalIds": [
-    117,
-    120
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%AB%8B"
+  "readingMnemonic": "The next time someone <kanji>request</kanji>s something from you, take out your <reading>sa</reading>ber (せい) and slice it in half!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%AB%8B"
+  },
+  "related": {
+    "radicals": [
+      117,
+      120
+    ],
+    "vocabularies": [
+      5285,
+      5286,
+      5287,
+      5288,
+      9308
+    ]
+  }
 }

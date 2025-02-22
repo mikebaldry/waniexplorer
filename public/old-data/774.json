@@ -1,0 +1,42 @@
+{
+  "id": 774,
+  "type": "kanji",
+  "character": "最",
+  "primaryMeaning": "Most",
+  "otherMeanings": [],
+  "primaryReading": "さい",
+  "readings": [
+    {
+      "reading": "さい",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "もっと",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "<kanji>Most</kanji> of this is for your <reading>cy</reading>borg (さい). You're testing out a new way to power it, but if you can't get most of the sun into your ear, it won't be enough to power most of the cyborg's robo-parts.",
+  "meaningMnemonic": "Let the <radical>sun</radical> shine into your <radical>ear</radical> while sitting on a <radical>stool</radical> and make sure <kanji>most</kanji> of it gets in your head. You want to fill your brain with the most sun anyone ever has.",
+  "vocabularyIds": [
+    3170,
+    3233,
+    3234,
+    3235,
+    3236,
+    3259,
+    3261,
+    3360,
+    3367,
+    6566,
+    7708,
+    8154
+  ],
+  "radicalIds": [
+    22,
+    88,
+    30
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%9C%80"
+}

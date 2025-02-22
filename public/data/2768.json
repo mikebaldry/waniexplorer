@@ -1,43 +1,18 @@
 {
   "id": 2768,
   "type": "vocabulary",
-  "characters": "牛肉",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "牛肉"
+  },
   "primaryMeaning": "Beef",
-  "otherMeanings": [],
-  "primaryReading": "ぎゅうにく",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 511,
-      "character": "牛",
-      "readings": [
-        "ぎゅう",
-        "うし"
-      ]
-    },
-    {
-      "id": 577,
-      "character": "肉",
-      "readings": [
-        "にく"
-      ]
-    }
-  ],
   "meaningMnemonic": "What do you call <kanji>cow</kanji> <kanji>meat</kanji>? You call it <vocabulary>beef</vocabulary> (what's for dinner?).",
+  "primaryReading": "ぎゅうにく",
   "readingMnemonic": "Both readings for both kanji are the readings you learned with the kanji so you should be able to read this.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%89%9B%E8%82%89",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "牛",
-      "id": 511,
-      "reading": "ぎゅう"
-    },
-    {
-      "type": "kanji",
-      "value": "肉",
-      "id": 577,
-      "reading": "にく"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%89%9B%E8%82%89"
+  }
 }

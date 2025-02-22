@@ -1,38 +1,21 @@
 {
   "id": 8161,
   "type": "vocabulary",
-  "characters": "酷い",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "酷い"
+  },
   "primaryMeaning": "Cruel",
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>cruel</kanji>? <vocabulary>Cruel</vocabulary> or <vocabulary>awful</vocabulary>. ",
+  "primaryReading": "ひどい",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn this reading yet, so here's a mnemonic to help you:\n\nThink of a man who is <vocabulary>cruel</vocabulary>. Doesn't matter who, but pick one that you know of that is actually cruel. He can be a real person or someone in a movie or on TV. What does this man do? <reading>He do</reading> (ひど) cruel things.",
   "otherMeanings": [
     "Awful",
     "Severe"
   ],
-  "primaryReading": "ひどい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2247,
-      "character": "酷",
-      "readings": [
-        "こく",
-        "ひど",
-        "むご"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>cruel</kanji>? <vocabulary>Cruel</vocabulary> or <vocabulary>awful</vocabulary>. ",
-  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn this reading yet, so here's a mnemonic to help you:\n\nThink of a man who is <vocabulary>cruel</vocabulary>. Doesn't matter who, but pick one that you know of that is actually cruel. He can be a real person or someone in a movie or on TV. What does this man do? <reading>He do</reading> (ひど) cruel things.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%85%B7%E3%81%84",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "酷",
-      "id": 2247,
-      "reading": "ひど"
-    },
-    {
-      "type": "kana",
-      "value": "い"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%85%B7%E3%81%84"
+  }
 }

@@ -1,43 +1,51 @@
 {
   "id": 839,
   "type": "kanji",
-  "character": "期",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "期"
+  },
+  "primaryReading": "き",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "き",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ご",
+      "type": "onyomi"
+    }
+  ],
   "primaryMeaning": "Period Of Time",
   "otherMeanings": [
     "Time Period"
   ],
-  "primaryReading": "き",
-  "readings": [
-    {
-      "reading": "き",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "ご",
-      "primary": false,
-      "type": "onyomi"
-    }
-  ],
-  "readingMnemonic": "In order for this crab to live on the moon for any <kanji>period of time</kanji>, you’re going to need to put him in a special moon aquarium and lock the lid with a <reading>key</reading> (き). This crab is crafty, so after you lock it, take the key with you and don’t let it out of your sight for any period of time. This crab knows how to use a key.",
-  "meaningMnemonic": "A <radical>crab</radical> left on the <radical>moon</radical> for a <kanji>period of time</kanji> will surely die. Crabs aren’t meant for the moon, let alone outer space. Why would you take a crab to the moon? You take it outside the spaceship for any period of time and it will surely die.",
-  "vocabularyIds": [
-    3378,
-    3379,
-    3380,
-    3400,
-    3942,
-    3944,
-    4749,
-    5310,
-    6060,
-    7638,
-    7691,
-    8091
-  ],
-  "radicalIds": [
-    205,
-    43
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%9C%9F"
+  "meaningMnemonic": "A \"<radical>crab</radical> <radical>moon</radical>\" is specific a <kanji>period of time</kanji>.",
+  "readingMnemonic": "When the crab moon <kanji>period of time</kanji> is upon us, we must take a special <reading>key</reading> (き) and lock everything in such a way that crabs cannot get in.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%9C%9F"
+  },
+  "related": {
+    "radicals": [
+      205,
+      43
+    ],
+    "vocabularies": [
+      3378,
+      3379,
+      3380,
+      3400,
+      3942,
+      3944,
+      4749,
+      5310,
+      6060,
+      7638,
+      7691,
+      8091
+    ]
+  }
 }

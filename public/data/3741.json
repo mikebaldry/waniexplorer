@@ -1,47 +1,20 @@
 {
   "id": 3741,
   "type": "vocabulary",
-  "characters": "区分",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "区分"
+  },
   "primaryMeaning": "Division",
+  "meaningMnemonic": "Take a <kanji>district</kanji> and <kanji>divide</kanji> it and you'll end up with many smaller <vocabulary>division</vocabulary>s and <vocabulary>segment</vocabulary>s. \n\n区分 is a formal term that refers to dividing or segmenting things into sections or categories based on specific criteria. For example, 区分 might be used when dividing an area into different zones or segments like residential and commercial, or sorting documents into different categories based on their content.",
+  "primaryReading": "くぶん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Segment"
   ],
-  "primaryReading": "くぶん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 937,
-      "character": "区",
-      "readings": [
-        "く"
-      ]
-    },
-    {
-      "id": 501,
-      "character": "分",
-      "readings": [
-        "ぶん",
-        "ふん",
-        "ぶ",
-        "わ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Take a <kanji>district</kanji> and <kanji>divide</kanji> it and you'll end up with many smaller <vocabulary>division</vocabulary>s and <vocabulary>segment</vocabulary>s. \n\n区分 is a formal term that refers to dividing or segmenting things into sections or categories based on specific criteria. For example, 区分 might be used when dividing an area into different zones or segments like residential and commercial, or sorting documents into different categories based on their content.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8C%BA%E5%88%86",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "区",
-      "id": 937,
-      "reading": "く"
-    },
-    {
-      "type": "kanji",
-      "value": "分",
-      "id": 501,
-      "reading": "ぶん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%8C%BA%E5%88%86"
+  }
 }

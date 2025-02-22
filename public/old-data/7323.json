@@ -1,0 +1,43 @@
+{
+  "id": 7323,
+  "type": "vocabulary",
+  "characters": "隔週",
+  "primaryMeaning": "Every Other Week",
+  "otherMeanings": [],
+  "primaryReading": "かくしゅう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2071,
+      "character": "隔",
+      "readings": [
+        "かく",
+        "へだ"
+      ]
+    },
+    {
+      "id": 672,
+      "character": "週",
+      "readings": [
+        "しゅう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Isolate</kanji> this <kanji>week</kanji> from next week, and do that over and over. That way we have <vocabulary>every other week</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9A%94%E9%80%B1",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "隔",
+      "id": 2071,
+      "reading": "かく"
+    },
+    {
+      "type": "kanji",
+      "value": "週",
+      "id": 672,
+      "reading": "しゅう"
+    }
+  ]
+}

@@ -1,52 +1,21 @@
 {
   "id": 5415,
   "type": "vocabulary",
-  "characters": "壊れ物",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "壊れ物"
+  },
   "primaryMeaning": "Fragile Thing",
+  "meaningMnemonic": "A <kanji>thing</kanji> that could <kanji>break</kanji> easily, is a <vocabulary>fragile thing</vocabulary>. Be careful with things like this.",
+  "primaryReading": "こわれもの",
+  "readingMnemonic": "The reading is 壊れる and 物 put together.",
   "otherMeanings": [
     "Breakables",
     "Fragile Item"
   ],
-  "primaryReading": "こわれもの",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1389,
-      "character": "壊",
-      "readings": [
-        "かい",
-        "こわ"
-      ]
-    },
-    {
-      "id": 718,
-      "character": "物",
-      "readings": [
-        "ぶつ",
-        "もつ",
-        "もの"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>thing</kanji> that could <kanji>break</kanji> easily, is a <vocabulary>fragile thing</vocabulary>. Be careful with things like this.",
-  "readingMnemonic": "The reading is 壊れる and 物 put together.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A3%8A%E3%82%8C%E7%89%A9",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "壊",
-      "id": 1389,
-      "reading": "こわ"
-    },
-    {
-      "type": "kana",
-      "value": "れ"
-    },
-    {
-      "type": "kanji",
-      "value": "物",
-      "id": 718,
-      "reading": "もの"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A3%8A%E3%82%8C%E7%89%A9"
+  }
 }

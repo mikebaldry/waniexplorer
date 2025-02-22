@@ -1,0 +1,52 @@
+{
+  "id": 7004,
+  "type": "vocabulary",
+  "characters": "零下",
+  "primaryMeaning": "Below Zero",
+  "otherMeanings": [
+    "Sub Zero"
+  ],
+  "primaryReading": "れいか",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1958,
+      "character": "零",
+      "readings": [
+        "れい",
+        "こぼ"
+      ]
+    },
+    {
+      "id": 451,
+      "character": "下",
+      "readings": [
+        "か",
+        "げ",
+        "した",
+        "さ",
+        "くだ",
+        "お",
+        "しも",
+        "もと"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Zero</kanji> <kanji>below</kanji> is <vocabulary>below zero</vocabulary>. <vocabulary>Sub zero</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9B%B6%E4%B8%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "零",
+      "id": 1958,
+      "reading": "れい"
+    },
+    {
+      "type": "kanji",
+      "value": "下",
+      "id": 451,
+      "reading": "か"
+    }
+  ]
+}

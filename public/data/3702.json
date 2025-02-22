@@ -1,48 +1,22 @@
 {
   "id": 3702,
   "type": "vocabulary",
-  "characters": "格好",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "格好"
+  },
   "primaryMeaning": "Shape",
+  "meaningMnemonic": "You <kanji>like</kanji> the <kanji>status</kanji> of what's in front of you. It has an excellent <vocabulary>shape</vocabulary> and <vocabulary>form</vocabulary> to it. Imagine something that would be pleasing to you in terms of its shape.",
+  "primaryReading": "かっこう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Just be sure to note the かく reading, which gets changed to かっ.",
   "otherMeanings": [
     "Form",
     "Posture",
     "Appearance"
   ],
-  "primaryReading": "かっこう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 920,
-      "character": "格",
-      "readings": [
-        "かく"
-      ]
-    },
-    {
-      "id": 779,
-      "character": "好",
-      "readings": [
-        "こう",
-        "す",
-        "この"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You <kanji>like</kanji> the <kanji>status</kanji> of what's in front of you. It has an excellent <vocabulary>shape</vocabulary> and <vocabulary>form</vocabulary> to it. Imagine something that would be pleasing to you in terms of its shape.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Just be sure to note the かく reading, which gets changed to かっ.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%A0%BC%E5%A5%BD",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "格",
-      "id": 920,
-      "reading": null
-    },
-    {
-      "type": "kanji",
-      "value": "好",
-      "id": 779,
-      "reading": null
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%A0%BC%E5%A5%BD"
+  }
 }

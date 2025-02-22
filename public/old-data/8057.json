@@ -1,0 +1,50 @@
+{
+  "id": 8057,
+  "type": "vocabulary",
+  "characters": "暴騰",
+  "primaryMeaning": "Sudden Rise",
+  "otherMeanings": [
+    "Sharp Rise",
+    "Boom",
+    "Skyrocketing"
+  ],
+  "primaryReading": "ぼうとう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1077,
+      "character": "暴",
+      "readings": [
+        "ぼう",
+        "ばく",
+        "あば"
+      ]
+    },
+    {
+      "id": 2198,
+      "character": "騰",
+      "readings": [
+        "とう",
+        "あが",
+        "のぼ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Violent</kanji> <kanji>inflation</kanji> causes a <vocabulary>sudden rise</vocabulary> in prices. It sucks. ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9A%B4%E9%A8%B0",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "暴",
+      "id": 1077,
+      "reading": "ぼう"
+    },
+    {
+      "type": "kanji",
+      "value": "騰",
+      "id": 2198,
+      "reading": "とう"
+    }
+  ]
+}

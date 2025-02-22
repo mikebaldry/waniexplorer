@@ -1,33 +1,21 @@
 {
   "id": 6633,
   "type": "vocabulary",
-  "characters": "網",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "網"
+  },
   "primaryMeaning": "Net",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "あみ",
+  "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You did not learn this reading, so here's a mnemonic to help you: \n\nWhen it comes to <vocabulary>net</vocabulary>s, you gotta go talk to <reading>Amy</reading> (あみ) if you want a good one. Only Amy makes good nets.",
   "otherMeanings": [
     "Netting",
     "Web"
   ],
-  "primaryReading": "あみ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1832,
-      "character": "網",
-      "readings": [
-        "もう",
-        "あみ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
-  "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You did not learn this reading, so here's a mnemonic to help you: \n\nWhen it comes to <vocabulary>net</vocabulary>s, you gotta go talk to <reading>Amy</reading> (あみ) if you want a good one. Only Amy makes good nets.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B6%B2",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "網",
-      "id": 1832,
-      "reading": "あみ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%B6%B2"
+  }
 }

@@ -1,0 +1,39 @@
+{
+  "id": 990,
+  "type": "kanji",
+  "character": "存",
+  "primaryMeaning": "Exist",
+  "otherMeanings": [
+    "Suppose"
+  ],
+  "primaryReading": "そん",
+  "readings": [
+    {
+      "reading": "そん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ぞん",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Oh, and the child we had to narwhal stab to prove they <kanji>exist</kanji> - that's your <reading>son</reading> (そん). Maybe you should have listened and kept your son out of the Narwhal Danger <reading>Zone</reading> (ぞん) after we warned you about it.",
+  "meaningMnemonic": "If a <radical>narwhal</radical> <radical>stick</radical>s a <radical>child</radical> with its horn then you have to admit that it <kanji>exist</kanji>s. We know some of you have been doubting narwhals and whether they're real. Well now your kid is a kabob, so do you believe they exist now? I <kanji>suppose</kanji> you do.",
+  "vocabularyIds": [
+    3802,
+    3826,
+    3827,
+    4269,
+    4482,
+    5417,
+    6018
+  ],
+  "radicalIds": [
+    26,
+    8761,
+    34
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%AD%98"
+}

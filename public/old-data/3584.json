@@ -1,0 +1,59 @@
+{
+  "id": 3584,
+  "type": "vocabulary",
+  "characters": "待合室",
+  "primaryMeaning": "Waiting Room",
+  "otherMeanings": [],
+  "primaryReading": "まちあいしつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 726,
+      "character": "待",
+      "readings": [
+        "たい",
+        "ま"
+      ]
+    },
+    {
+      "id": 852,
+      "character": "合",
+      "readings": [
+        "ごう",
+        "がっ",
+        "あ",
+        "あい"
+      ]
+    },
+    {
+      "id": 635,
+      "character": "室",
+      "readings": [
+        "しつ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>room</kanji> where you <kanji>join</kanji> other people to <kanji>wait</kanji>. This is a <vocabulary>waiting room</vocabulary>.",
+  "readingMnemonic": "Remember how you learned 待合 already? Well throw the on'yomi for 室 on the end of that and you have your reading!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BE%85%E5%90%88%E5%AE%A4",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "待",
+      "id": 726,
+      "reading": "ま"
+    },
+    {
+      "type": "kanji",
+      "value": "合",
+      "id": 852,
+      "reading": null
+    },
+    {
+      "type": "kanji",
+      "value": "室",
+      "id": 635,
+      "reading": null
+    }
+  ]
+}

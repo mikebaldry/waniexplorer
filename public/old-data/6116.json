@@ -1,0 +1,48 @@
+{
+  "id": 6116,
+  "type": "vocabulary",
+  "characters": "香水",
+  "primaryMeaning": "Perfume",
+  "otherMeanings": [
+    "Scent"
+  ],
+  "primaryReading": "こうすい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1665,
+      "character": "香",
+      "readings": [
+        "こう",
+        "きょう",
+        "かお",
+        "か"
+      ]
+    },
+    {
+      "id": 479,
+      "character": "水",
+      "readings": [
+        "すい",
+        "みず"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>fragrance</kanji> of <kanji>water</kanji> is a <vocabulary>perfume</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%A6%99%E6%B0%B4",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "香",
+      "id": 1665,
+      "reading": "こう"
+    },
+    {
+      "type": "kanji",
+      "value": "水",
+      "id": 479,
+      "reading": "すい"
+    }
+  ]
+}

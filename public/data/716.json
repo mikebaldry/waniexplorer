@@ -1,39 +1,47 @@
 {
   "id": 716,
   "type": "kanji",
-  "character": "服",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "服"
+  },
+  "primaryReading": "ふく",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ふく",
+      "type": "onyomi"
+    }
+  ],
   "primaryMeaning": "Clothes",
   "otherMeanings": [
     "Clothing"
   ],
-  "primaryReading": "ふく",
-  "readings": [
-    {
-      "reading": "ふく",
-      "primary": true,
-      "type": "onyomi"
-    }
-  ],
-  "readingMnemonic": "A few days later you're with a friend when you recognize the <kanji>clothes</kanji> they're wearing. You grab it, rip it off, and scream, \"<reading>F**k</reading> (ふく) you!\" There is your moon stamp! These are your clothes!!",
   "meaningMnemonic": "Take the <radical>moon</radical> <radical>stamp</radical> on the <radical>stool</radical> in front of you and use it on all of your <kanji>clothes</kanji>. Now even if you sell or lose a piece of <kanji>clothing</kanji>, you'll be able to find it again by checking for your special moon stamp.",
-  "vocabularyIds": [
-    3096,
-    3105,
-    3293,
-    4413,
-    5384,
-    5689,
-    6569,
-    6753,
-    6755,
-    7328,
-    7611,
-    8263
-  ],
-  "radicalIds": [
-    43,
-    145,
-    30
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%9C%8D"
+  "readingMnemonic": "A few days later you're with a friend when you recognize the <kanji>clothes</kanji> they're wearing. You grab it, rip it off, and scream, \"<reading>F**k</reading> (ふく) you!\" There is your moon stamp! These are your clothes!!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%9C%8D"
+  },
+  "related": {
+    "radicals": [
+      43,
+      145,
+      30
+    ],
+    "vocabularies": [
+      3096,
+      3105,
+      3293,
+      4413,
+      5384,
+      5689,
+      6569,
+      6753,
+      6755,
+      7328,
+      7611,
+      8263
+    ]
+  }
 }

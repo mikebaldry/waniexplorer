@@ -1,47 +1,20 @@
 {
   "id": 3874,
   "type": "vocabulary",
-  "characters": "地面",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "地面"
+  },
   "primaryMeaning": "Ground",
+  "meaningMnemonic": "The <kanji>ground</kanji>/<kanji>earth</kanji> <kanji>face</kanji> is the surface that makes up the <vocabulary>ground</vocabulary> or the <vocabulary>Earth's surface</vocabulary>.",
+  "primaryReading": "じめん",
+  "readingMnemonic": "The reading for 面 is what you'd expect. 地 on the other hand is じ, which is a bit different (though close sounding) to what you learned previously. Thank the Chinese and their ever changing language for this one. Think of <reading>Je</reading>sus laying on the ground, telling you how comfortable the ground is. You say \"Jesus, you have to get off the ground, you have a dinner to go to,\" but he doesn't want to leave.",
   "otherMeanings": [
     "Earth's Surface"
   ],
-  "primaryReading": "じめん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 608,
-      "character": "地",
-      "readings": [
-        "ち",
-        "じ"
-      ]
-    },
-    {
-      "id": 974,
-      "character": "面",
-      "readings": [
-        "めん",
-        "おも",
-        "おもて"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The <kanji>ground</kanji>/<kanji>earth</kanji> <kanji>face</kanji> is the surface that makes up the <vocabulary>ground</vocabulary> or the <vocabulary>Earth's surface</vocabulary>.",
-  "readingMnemonic": "The reading for 面 is what you'd expect. 地 on the other hand is じ, which is a bit different (though close sounding) to what you learned previously. Thank the Chinese and their ever changing language for this one. Think of <reading>Je</reading>sus laying on the ground, telling you how comfortable the ground is. You say \"Jesus, you have to get off the ground, you have a dinner to go to,\" but he doesn't want to leave.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%9C%B0%E9%9D%A2",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "地",
-      "id": 608,
-      "reading": "じ"
-    },
-    {
-      "type": "kanji",
-      "value": "面",
-      "id": 974,
-      "reading": "めん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%9C%B0%E9%9D%A2"
+  }
 }

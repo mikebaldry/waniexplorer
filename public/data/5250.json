@@ -1,46 +1,20 @@
 {
   "id": 5250,
   "type": "vocabulary",
-  "characters": "添付",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "添付"
+  },
   "primaryMeaning": "Attachment",
+  "meaningMnemonic": "<kanji>Append</kanji> and <kanji>attach</kanji> this document to your email. That’s called <vocabulary>attachment</vocabulary>.\n\n添付 refers to the <em>act</em> of <vocabulary>attaching</vocabulary> something supplementary to another document, like attaching a file to an email or attaching a map to an invitation. ",
+  "primaryReading": "てんぷ",
+  "readingMnemonic": "The reading for 添 is what you'd expect. The reading for 付 is the on'yomi reading ふ, which you've learned with 付近. But for this word it becomes ぷ from the rendaku fairies. Just think of an <vocabulary>attachment</vocabulary> where instead of a document or something, you get an attachment of <reading>poo</reading>p (ぷ). What a gross attachment. Your friend who likes to send poop attachments is dumb.",
   "otherMeanings": [
     "Attaching"
   ],
-  "primaryReading": "てんぷ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1407,
-      "character": "添",
-      "readings": [
-        "てん",
-        "そ"
-      ]
-    },
-    {
-      "id": 652,
-      "character": "付",
-      "readings": [
-        "つ",
-        "ふ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Append</kanji> and <kanji>attach</kanji> this document to your email. That’s called <vocabulary>attachment</vocabulary>.\n\n添付 refers to the <em>act</em> of <vocabulary>attaching</vocabulary> something supplementary to another document, like attaching a file to an email or attaching a map to an invitation. ",
-  "readingMnemonic": "The reading for 添 is what you'd expect. The reading for 付 is the on'yomi reading ふ, which you've learned with 付近. But for this word it becomes ぷ from the rendaku fairies. Just think of an <vocabulary>attachment</vocabulary> where instead of a document or something, you get an attachment of <reading>poo</reading>p (ぷ). What a gross attachment. Your friend who likes to send poop attachments is dumb.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B7%BB%E4%BB%98",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "添",
-      "id": 1407,
-      "reading": "てん"
-    },
-    {
-      "type": "kanji",
-      "value": "付",
-      "id": 652,
-      "reading": "ぷ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B7%BB%E4%BB%98"
+  }
 }

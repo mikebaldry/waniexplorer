@@ -1,0 +1,50 @@
+{
+  "id": 6169,
+  "type": "vocabulary",
+  "characters": "一致する",
+  "primaryMeaning": "To Match",
+  "otherMeanings": [],
+  "primaryReading": "いっちする",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 440,
+      "character": "一",
+      "readings": [
+        "いち",
+        "いつ",
+        "ひと",
+        "かず"
+      ]
+    },
+    {
+      "id": 1682,
+      "character": "致",
+      "readings": [
+        "ち",
+        "いた"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You do <kanji>one</kanji> <kanji>do</kanji> and I'll do another do. I'll do the same thing <vocabulary>to match</vocabulary> it.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. The いち is shortened to いっ.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%80%E8%87%B4%E3%81%99%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "一",
+      "id": 440,
+      "reading": "いっ"
+    },
+    {
+      "type": "kanji",
+      "value": "致",
+      "id": 1682,
+      "reading": "ち"
+    },
+    {
+      "type": "kana",
+      "value": "する"
+    }
+  ]
+}

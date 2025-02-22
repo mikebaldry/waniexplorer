@@ -1,0 +1,31 @@
+{
+  "id": 8389,
+  "type": "vocabulary",
+  "characters": "紺",
+  "primaryMeaning": "Navy Blue",
+  "otherMeanings": [
+    "Dark Blue"
+  ],
+  "primaryReading": "こん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2338,
+      "character": "紺",
+      "readings": [
+        "こん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B4%BA",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "紺",
+      "id": 2338,
+      "reading": "こん"
+    }
+  ]
+}

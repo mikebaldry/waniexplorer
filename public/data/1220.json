@@ -1,40 +1,48 @@
 {
   "id": 1220,
   "type": "kanji",
-  "character": "違",
-  "primaryMeaning": "Different",
-  "otherMeanings": [],
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "違"
+  },
   "primaryReading": "ちが",
   "readings": [
     {
-      "reading": "ちが",
       "primary": true,
+      "reading": "ちが",
       "type": "kunyomi"
     },
     {
-      "reading": "い",
       "primary": false,
+      "reading": "い",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "What's also <kanji>different</kanji> is that there's a weird tiger bouncing on its tail alongside you yelling that its name is <reading>Tigger</reading> (ちが). You didn't know Tigger was living in Korea these days. That's definitely different.",
+  "primaryMeaning": "Different",
+  "otherMeanings": [],
   "meaningMnemonic": "You take your <radical>scooter</radical> to <radical>Korea</radical> and everything is <kanji>different</kanji>!",
-  "vocabularyIds": [
-    4654,
-    4655,
-    4882,
-    4984,
-    4985,
-    4986,
-    4987,
-    5202,
-    7354,
-    8681,
-    8757
-  ],
-  "radicalIds": [
-    114,
-    294
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%81%95"
+  "readingMnemonic": "What's also <kanji>different</kanji> is that there's a weird tiger bouncing on its tail alongside you yelling that its name is <reading>Tigger</reading> (ちが). You didn't know Tigger was living in Korea these days. That's definitely different.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%81%95"
+  },
+  "related": {
+    "radicals": [
+      114,
+      294
+    ],
+    "vocabularies": [
+      4654,
+      4655,
+      4882,
+      4984,
+      4985,
+      4986,
+      4987,
+      5202,
+      7354,
+      8681,
+      8757
+    ]
+  }
 }

@@ -1,0 +1,47 @@
+{
+  "id": 7173,
+  "type": "vocabulary",
+  "characters": "恥辱",
+  "primaryMeaning": "Disgrace",
+  "otherMeanings": [
+    "Shame"
+  ],
+  "primaryReading": "ちじょく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1595,
+      "character": "恥",
+      "readings": [
+        "は",
+        "はじ",
+        "ち"
+      ]
+    },
+    {
+      "id": 2016,
+      "character": "辱",
+      "readings": [
+        "じょく",
+        "はずかし"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you <kanji>shame</kanji> and <kanji>humiliate</kanji> me, I will have a sense of <vocabulary>disgrace</vocabulary>, <vocabulary>shame</vocabulary>.",
+  "readingMnemonic": "The reading from 恥 is the ち reading, a reading you haven't learned yet. To remember this, just think about how the <reading>chee</reading>se <reading>jock</reading> is the biggest disgrace to this sports team. He is cheese, after all. He falls apart and smells funny.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%81%A5%E8%BE%B1",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "恥",
+      "id": 1595,
+      "reading": "ち"
+    },
+    {
+      "type": "kanji",
+      "value": "辱",
+      "id": 2016,
+      "reading": "じょく"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": 8619,
+  "type": "vocabulary",
+  "characters": "感慨無量",
+  "primaryMeaning": "Deep Emotion",
+  "otherMeanings": [
+    "Deeply Moved",
+    "Filled With Emotion"
+  ],
+  "primaryReading": "かんがいむりょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 862,
+      "character": "感",
+      "readings": [
+        "かん"
+      ]
+    },
+    {
+      "id": 2368,
+      "character": "慨",
+      "readings": [
+        "がい"
+      ]
+    },
+    {
+      "id": 1008,
+      "character": "無",
+      "readings": [
+        "む",
+        "ぶ",
+        "な"
+      ]
+    },
+    {
+      "id": 1238,
+      "character": "量",
+      "readings": [
+        "りょう",
+        "はか"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Remember how you learned that 感慨 means \"strong feelings?\" Well feelings so strong that you can <kanji>not</kanji> even think of a <kanji>quantity</kanji> to measure or explain how much you feel. These are really <vocabulary>deep emotion</vocabulary>s. They fill you all the way up and you can't help but tell everyone about them.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%84%9F%E6%85%A8%E7%84%A1%E9%87%8F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "感",
+      "id": 862,
+      "reading": "かん"
+    },
+    {
+      "type": "kanji",
+      "value": "慨",
+      "id": 2368,
+      "reading": "がい"
+    },
+    {
+      "type": "kanji",
+      "value": "無",
+      "id": 1008,
+      "reading": "む"
+    },
+    {
+      "type": "kanji",
+      "value": "量",
+      "id": 1238,
+      "reading": "りょう"
+    }
+  ]
+}

@@ -1,46 +1,20 @@
 {
   "id": 7420,
   "type": "vocabulary",
-  "characters": "把握",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "把握"
+  },
   "primaryMeaning": "Grasp",
+  "meaningMnemonic": "Using the <kanji>grasp</kanji> meaning of 把 and combining it with <kanji>grip</kanji>, you can tell you're grasping at something and then gripping it. I usually grasp then grip at things flying at me, which makes this word mean <vocabulary>grasp</vocabulary> or <vocabulary>understand</vocabulary>.",
+  "primaryReading": "はあく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Understand"
   ],
-  "primaryReading": "はあく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2113,
-      "character": "把",
-      "readings": [
-        "は",
-        "わ"
-      ]
-    },
-    {
-      "id": 1816,
-      "character": "握",
-      "readings": [
-        "あく",
-        "にぎ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Using the <kanji>grasp</kanji> meaning of 把 and combining it with <kanji>grip</kanji>, you can tell you're grasping at something and then gripping it. I usually grasp then grip at things flying at me, which makes this word mean <vocabulary>grasp</vocabulary> or <vocabulary>understand</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8A%8A%E6%8F%A1",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "把",
-      "id": 2113,
-      "reading": "は"
-    },
-    {
-      "type": "kanji",
-      "value": "握",
-      "id": 1816,
-      "reading": "あく"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%8A%8A%E6%8F%A1"
+  }
 }

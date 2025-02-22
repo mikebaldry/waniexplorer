@@ -1,46 +1,20 @@
 {
   "id": 8565,
   "type": "vocabulary",
-  "characters": "禍根",
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "禍根"
+  },
   "primaryMeaning": "Root Of Evil",
+  "meaningMnemonic": "<kanji>Evil</kanji>'s <kanji>root</kanji> is the <vocabulary>root of evil</vocabulary>. It's the <vocabulary>source of evil</vocabulary> things.",
+  "primaryReading": "かこん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Source Of Evil"
   ],
-  "primaryReading": "かこん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2427,
-      "character": "禍",
-      "readings": [
-        "か",
-        "わざわい"
-      ]
-    },
-    {
-      "id": 817,
-      "character": "根",
-      "readings": [
-        "こん",
-        "ね"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Evil</kanji>'s <kanji>root</kanji> is the <vocabulary>root of evil</vocabulary>. It's the <vocabulary>source of evil</vocabulary> things.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A6%8D%E6%A0%B9",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "禍",
-      "id": 2427,
-      "reading": "か"
-    },
-    {
-      "type": "kanji",
-      "value": "根",
-      "id": 817,
-      "reading": "こん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%A6%8D%E6%A0%B9"
+  }
 }

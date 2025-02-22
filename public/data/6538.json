@@ -1,43 +1,18 @@
 {
   "id": 6538,
   "type": "vocabulary",
-  "characters": "鉄鉱",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "鉄鉱"
+  },
   "primaryMeaning": "Iron Ore",
-  "otherMeanings": [],
-  "primaryReading": "てっこう",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 760,
-      "character": "鉄",
-      "readings": [
-        "てつ"
-      ]
-    },
-    {
-      "id": 1798,
-      "character": "鉱",
-      "readings": [
-        "こう",
-        "あらがね"
-      ]
-    }
-  ],
   "meaningMnemonic": "The <kanji>iron</kanji> <kanji>mineral</kanji> is <vocabulary>iron ore</vocabulary>.",
+  "primaryReading": "てっこう",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%89%84%E9%89%B1",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "鉄",
-      "id": 760,
-      "reading": null
-    },
-    {
-      "type": "kanji",
-      "value": "鉱",
-      "id": 1798,
-      "reading": null
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%89%84%E9%89%B1"
+  }
 }

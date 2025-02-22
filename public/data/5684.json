@@ -1,62 +1,20 @@
 {
   "id": 5684,
   "type": "vocabulary",
-  "characters": "冷蔵庫",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "冷蔵庫"
+  },
   "primaryMeaning": "Refrigerator",
+  "meaningMnemonic": "A <kanji>cool</kanji> <kanji>storehouse</kanji> <kanji>storage</kanji> is a place you put things (like food) to keep them cool. This is a <vocabulary>refrigerator</vocabulary>.",
+  "primaryReading": "れいぞうこ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Fridge"
   ],
-  "primaryReading": "れいぞうこ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1350,
-      "character": "冷",
-      "readings": [
-        "れい",
-        "つめ",
-        "ひ",
-        "さ"
-      ]
-    },
-    {
-      "id": 1540,
-      "character": "蔵",
-      "readings": [
-        "ぞう",
-        "くら"
-      ]
-    },
-    {
-      "id": 1348,
-      "character": "庫",
-      "readings": [
-        "こ",
-        "くら"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>cool</kanji> <kanji>storehouse</kanji> <kanji>storage</kanji> is a place you put things (like food) to keep them cool. This is a <vocabulary>refrigerator</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%86%B7%E8%94%B5%E5%BA%AB",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "冷",
-      "id": 1350,
-      "reading": "れい"
-    },
-    {
-      "type": "kanji",
-      "value": "蔵",
-      "id": 1540,
-      "reading": "ぞう"
-    },
-    {
-      "type": "kanji",
-      "value": "庫",
-      "id": 1348,
-      "reading": "こ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%86%B7%E8%94%B5%E5%BA%AB"
+  }
 }

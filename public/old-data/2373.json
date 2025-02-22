@@ -1,0 +1,34 @@
+{
+  "id": 2373,
+  "type": "kanji",
+  "character": "奔",
+  "primaryMeaning": "Run",
+  "otherMeanings": [
+    "Bustle"
+  ],
+  "primaryReading": "ほん",
+  "readings": [
+    {
+      "reading": "ほん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "はし",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You figure since you're already on the <kanji>run</kanji> that you might as well <reading>hone</reading> (ほん) your running skills while you make your way down this scary, cross lined street. ",
+  "meaningMnemonic": "You're walking down the street when you see <radical>twenty</radical> <radical>big</radical> <radical>cross</radical>es lined up in front of you. Crosses creep you out and this is way too many for you to keep walking so you decide to <kanji>run</kanji> as fast as you can to get past them.",
+  "vocabularyIds": [
+    8443,
+    8444
+  ],
+  "radicalIds": [
+    18,
+    15,
+    106
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%A5%94"
+}

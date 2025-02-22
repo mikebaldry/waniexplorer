@@ -1,65 +1,73 @@
 {
   "id": 1008,
   "type": "kanji",
-  "character": "無",
-  "primaryMeaning": "Nothing",
-  "otherMeanings": [],
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "無"
+  },
   "primaryReading": "む",
   "readings": [
     {
-      "reading": "む",
       "primary": true,
+      "reading": "む",
       "type": "onyomi"
     },
     {
+      "primary": false,
       "reading": "ぶ",
-      "primary": false,
       "type": "onyomi"
     },
     {
-      "reading": "な",
       "primary": false,
+      "reading": "な",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "<kanji>Nothing</kanji> can <reading>moo</reading> (む) quite like a cow can moo. Cows are the best at going moo. That’s a fact.",
+  "primaryMeaning": "Nothing",
+  "otherMeanings": [],
   "meaningMnemonic": "The <radical>nothing</radical> radical and the <kanji>nothing</kanji> kanji are exactly the same! Woah!",
-  "vocabularyIds": [
-    4018,
-    4019,
-    4020,
-    4021,
-    4022,
-    4023,
-    4024,
-    4239,
-    4290,
-    4406,
-    4463,
-    4595,
-    4710,
-    4750,
-    4923,
-    5157,
-    5671,
-    6776,
-    6912,
-    7180,
-    7318,
-    7373,
-    7547,
-    7590,
-    7644,
-    7727,
-    8128,
-    8330,
-    8547,
-    8619,
-    9085,
-    9086
-  ],
-  "radicalIds": [
-    252
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%84%A1"
+  "readingMnemonic": "<kanji>Nothing</kanji> can <reading>moo</reading> (む) quite like a cow can moo. Cows are the best at going moo. That’s a fact.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%84%A1"
+  },
+  "related": {
+    "radicals": [
+      252
+    ],
+    "vocabularies": [
+      4018,
+      4019,
+      4020,
+      4021,
+      4022,
+      4023,
+      4024,
+      4239,
+      4290,
+      4406,
+      4463,
+      4595,
+      4710,
+      4750,
+      4923,
+      5157,
+      5671,
+      6776,
+      6912,
+      7180,
+      7318,
+      7373,
+      7547,
+      7590,
+      7644,
+      7727,
+      8128,
+      8330,
+      8547,
+      8619,
+      9085,
+      9086
+    ]
+  }
 }

@@ -1,46 +1,21 @@
 {
   "id": 8071,
   "type": "vocabulary",
-  "characters": "勲章",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "勲章"
+  },
   "primaryMeaning": "Decoration",
+  "meaningMnemonic": "To show that you had <kanji>merit</kanji> for a <kanji>chapter</kanji> of your life you will be given a <vocabulary>decoration</vocabulary> or a <vocabulary>medal</vocabulary>. Especially if you're a soldier or an athlete.",
+  "primaryReading": "くんしょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Order",
     "Medal"
   ],
-  "primaryReading": "くんしょう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2230,
-      "character": "勲",
-      "readings": [
-        "くん",
-        "いさお"
-      ]
-    },
-    {
-      "id": 824,
-      "character": "章",
-      "readings": [
-        "しょう"
-      ]
-    }
-  ],
-  "meaningMnemonic": "To show that you had <kanji>merit</kanji> for a <kanji>chapter</kanji> of your life you will be given a <vocabulary>decoration</vocabulary> or a <vocabulary>medal</vocabulary>. Especially if you're a soldier or an athlete.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8B%B2%E7%AB%A0",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "勲",
-      "id": 2230,
-      "reading": "くん"
-    },
-    {
-      "type": "kanji",
-      "value": "章",
-      "id": 824,
-      "reading": "しょう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%8B%B2%E7%AB%A0"
+  }
 }

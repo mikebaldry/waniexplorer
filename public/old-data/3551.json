@@ -1,0 +1,48 @@
+{
+  "id": 3551,
+  "type": "vocabulary",
+  "characters": "父親",
+  "primaryMeaning": "Father",
+  "otherMeanings": [
+    "Dad"
+  ],
+  "primaryReading": "ちちおや",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 512,
+      "character": "父",
+      "readings": [
+        "ちち",
+        "とう",
+        "ふ"
+      ]
+    },
+    {
+      "id": 770,
+      "character": "親",
+      "readings": [
+        "しん",
+        "おや",
+        "した"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Your <kanji>father</kanji> <kanji>parent</kanji> is your <vocabulary>father</vocabulary>.",
+  "readingMnemonic": "The reading here is pretty weird. It's all kun'yomi. My guess is this translates literally to \"father parent\" (two different words, therefore uses the other readings). You should know the readings of these two separate words, though. It is 父 (ちち) and 親 (おや).",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%88%B6%E8%A6%AA",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "父",
+      "id": 512,
+      "reading": "ちち"
+    },
+    {
+      "type": "kanji",
+      "value": "親",
+      "id": 770,
+      "reading": "おや"
+    }
+  ]
+}

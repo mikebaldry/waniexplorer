@@ -1,0 +1,37 @@
+{
+  "id": 4407,
+  "type": "vocabulary",
+  "characters": "済む",
+  "primaryMeaning": "To Come To An End",
+  "otherMeanings": [
+    "To Be Finished",
+    "To Be Completed"
+  ],
+  "primaryReading": "すむ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1124,
+      "character": "済",
+      "readings": [
+        "さい",
+        "す"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>come to an end</kanji> so the verb vocab version is <vocabulary>to come to an end</vocabulary>.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: Your romp finally has <vocabulary>to come to an end</vocabulary> when someone decides to <reading>sue</reading> (す) you for all your romping.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B8%88%E3%82%80",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "済",
+      "id": 1124,
+      "reading": "す"
+    },
+    {
+      "type": "kana",
+      "value": "む"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 2702,
+  "type": "vocabulary",
+  "characters": "月見",
+  "primaryMeaning": "Moon Viewing",
+  "otherMeanings": [],
+  "primaryReading": "つきみ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 477,
+      "character": "月",
+      "readings": [
+        "げつ",
+        "がつ",
+        "つき"
+      ]
+    },
+    {
+      "id": 558,
+      "character": "見",
+      "readings": [
+        "み",
+        "けん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you <kanji>moon</kanji> <kanji>see</kanji> something, you're doing a <vocabulary>moon viewing</vocabulary>.",
+  "readingMnemonic": "The readings for this word are both kun'yomi readings. For 見 you already learned the kun'yomi reading when you learned the kanji. For 月 you'll have to think back to the vocab word 月 which uses the つき reading. Combine these two together and you have <reading>つきみ</reading>.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9C%88%E8%A6%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "月",
+      "id": 477,
+      "reading": "つき"
+    },
+    {
+      "type": "kanji",
+      "value": "見",
+      "id": 558,
+      "reading": "み"
+    }
+  ]
+}

@@ -1,51 +1,20 @@
 {
   "id": 8712,
   "type": "vocabulary",
-  "characters": "目覚める",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "目覚める"
+  },
   "primaryMeaning": "To Wake Up",
+  "meaningMnemonic": "If your <kanji>eye</kanji>s are <kanji>awake</kanji> then you're going <vocabulary>to wake up</vocabulary>. Your eyes are usually the first thing to awaken when you're waking up, you know? \n\nThis word can also mean <vocabulary>to awaken</vocabulary> but it's like when you to come to your senses, not literally waking up.",
+  "primaryReading": "めざめる",
+  "readingMnemonic": "The readings for this word are both kun'yomi readings. You haven’t learned this reading for 覚 yet, and in this case it also gets rendaku’d, so bear that in mind. Anyway, here’s a mnemonic to help you:\n\nIf you start <vocabulary>to wake up</vocabulary> in the middle of the night, it’s because of the <reading>Czar</reading> (ざ) you met that had banned sitting. This cruel, ruthless Czar keeps appearing in your nightmares, causing you to wake up incessantly. Terrifying.",
   "otherMeanings": [
     "To Awaken"
   ],
-  "primaryReading": "めざめる",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 492,
-      "character": "目",
-      "readings": [
-        "め",
-        "もく"
-      ]
-    },
-    {
-      "id": 1025,
-      "character": "覚",
-      "readings": [
-        "かく",
-        "おぼ",
-        "さ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "If your <kanji>eye</kanji>s are <kanji>awake</kanji> then you're going <vocabulary>to wake up</vocabulary>. Your eyes are usually the first thing to awaken when you're waking up, you know? \n\nThis word can also mean <vocabulary>to awaken</vocabulary> but it's like when you to come to your senses, not literally waking up.",
-  "readingMnemonic": "The readings for this word are both kun'yomi readings. You haven’t learned this reading for 覚 yet, and in this case it also gets rendaku’d, so bear that in mind. Anyway, here’s a mnemonic to help you:\n\nIf you start <vocabulary>to wake up</vocabulary> in the middle of the night, it’s because of the <reading>Czar</reading> (ざ) you met that had banned sitting. This cruel, ruthless Czar keeps appearing in your nightmares, causing you to wake up incessantly. Terrifying.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%9B%AE%E8%A6%9A%E3%82%81%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "目",
-      "id": 492,
-      "reading": "め"
-    },
-    {
-      "type": "kanji",
-      "value": "覚",
-      "id": 1025,
-      "reading": "ざ"
-    },
-    {
-      "type": "kana",
-      "value": "める"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%9B%AE%E8%A6%9A%E3%82%81%E3%82%8B"
+  }
 }

@@ -1,64 +1,21 @@
 {
   "id": 9331,
   "type": "vocabulary",
-  "characters": "第一弾",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "第一弾"
+  },
   "primaryMeaning": "First Installment",
+  "meaningMnemonic": "The <kanji>ordinal number prefix</kanji> <kanji>one</kanji> <kanji>bullet</kanji> is actually the <vocabulary>first installment</vocabulary> of something. Picture someone firing a gun to let everyone know that, yes, this is indeed the <vocabulary>first round</vocabulary> of… whatever you're doing.\n\nNote that this is quite similar to 第一段. While 第一段 refers to the first phase or step within one larger, continuous process or structure, 第一弾 is used to refer to the first installment or part of a series of events or releases.",
+  "primaryReading": "だいいちだん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "First Round",
     "First Wave"
   ],
-  "primaryReading": "だいいちだん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 825,
-      "character": "第",
-      "readings": [
-        "だい"
-      ]
-    },
-    {
-      "id": 440,
-      "character": "一",
-      "readings": [
-        "いち",
-        "いつ",
-        "ひと",
-        "かず"
-      ]
-    },
-    {
-      "id": 1659,
-      "character": "弾",
-      "readings": [
-        "だん",
-        "ひ",
-        "はず",
-        "たま"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The <kanji>ordinal number prefix</kanji> <kanji>one</kanji> <kanji>bullet</kanji> is actually the <vocabulary>first installment</vocabulary> of something. Picture someone firing a gun to let everyone know that, yes, this is indeed the <vocabulary>first round</vocabulary> of… whatever you're doing.\n\nNote that this is quite similar to 第一段. While 第一段 refers to the first phase or step within one larger, continuous process or structure, 第一弾 is used to refer to the first installment or part of a series of events or releases.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%AC%AC%E4%B8%80%E5%BC%BE",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "第",
-      "id": 825,
-      "reading": "だい"
-    },
-    {
-      "type": "kanji",
-      "value": "一",
-      "id": 440,
-      "reading": "いち"
-    },
-    {
-      "type": "kanji",
-      "value": "弾",
-      "id": 1659,
-      "reading": "だん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%AC%AC%E4%B8%80%E5%BC%BE"
+  }
 }

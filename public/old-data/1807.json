@@ -1,0 +1,27 @@
+{
+  "id": 1807,
+  "type": "kanji",
+  "character": "哲",
+  "primaryMeaning": "Philosophy",
+  "otherMeanings": [],
+  "primaryReading": "てつ",
+  "readings": [
+    {
+      "reading": "てつ",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Your <kanji>philosophy</kanji> on weapons in mouths means you're always tasting <reading>鉄</reading> (てつ). They say blood tastes like copper, well weapons taste like iron.",
+  "meaningMnemonic": "Put an <radical>axe</radical> in your <radical>mouth</radical> with your <radical>fingers</radical> to express your <kanji>philosophy</kanji>. Your philosophy of putting weapons in your mouth. Everyone else seems to think it's a stupid philosophy, so you're showing them that it's not with actions!",
+  "vocabularyIds": [
+    6575,
+    6754
+  ],
+  "radicalIds": [
+    63,
+    115,
+    16
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%93%B2"
+}

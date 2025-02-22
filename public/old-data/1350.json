@@ -1,0 +1,50 @@
+{
+  "id": 1350,
+  "type": "kanji",
+  "character": "冷",
+  "primaryMeaning": "Cool",
+  "otherMeanings": [
+    "Cold"
+  ],
+  "primaryReading": "れい",
+  "readings": [
+    {
+      "reading": "れい",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "つめ",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "ひ",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "さ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "How will you make things <kanji>cool</kanji> and <kanji>cold</kanji>? You'll use a special <reading>ray</reading> (れい) gun that shoots a cold ray.",
+  "meaningMnemonic": "You got your <radical>ice</radical> <radical>orders</radical>. Of course, your ice orders are to make things <kanji>cool</kanji> and <kanji>cold</kanji>.",
+  "vocabularyIds": [
+    5121,
+    5122,
+    5123,
+    5300,
+    5511,
+    5684,
+    6194,
+    7937,
+    8164
+  ],
+  "radicalIds": [
+    123,
+    189
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%86%B7"
+}

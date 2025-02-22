@@ -1,0 +1,45 @@
+{
+  "id": 7090,
+  "type": "vocabulary",
+  "characters": "撃墜",
+  "primaryMeaning": "Shooting Down",
+  "otherMeanings": [
+    "Shooting Down An Aircraft"
+  ],
+  "primaryReading": "げきつい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1377,
+      "character": "撃",
+      "readings": [
+        "げき",
+        "う"
+      ]
+    },
+    {
+      "id": 1990,
+      "character": "墜",
+      "readings": [
+        "つい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "An <kanji>attack</kanji> that causes a <kanji>crash</kanji> is when you're <vocabulary>shooting down</vocabulary> something, usually an aircraft.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%92%83%E5%A2%9C",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "撃",
+      "id": 1377,
+      "reading": "げき"
+    },
+    {
+      "type": "kanji",
+      "value": "墜",
+      "id": 1990,
+      "reading": "つい"
+    }
+  ]
+}

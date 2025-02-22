@@ -1,30 +1,38 @@
 {
   "id": 1427,
   "type": "kanji",
-  "character": "翌",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "翌"
+  },
+  "primaryReading": "よく",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "よく",
+      "type": "onyomi"
+    }
+  ],
   "primaryMeaning": "The Next",
   "otherMeanings": [
     "The Following"
   ],
-  "primaryReading": "よく",
-  "readings": [
-    {
-      "reading": "よく",
-      "primary": true,
-      "type": "onyomi"
-    }
-  ],
-  "readingMnemonic": "With <kanji>the next</kanji> day approaching and all feathers standing up, you get ready to drink your usual liter of <reading>yolk</reading> (よく). Yes, you heard that right.",
   "meaningMnemonic": "Whenever all the <radical>feathers</radical> start <radical>stand</radical>ing, you know it's time for <kanji>the next</kanji> day. Once the day comes to its end, all feathers start standing up like clockwork.",
-  "vocabularyIds": [
-    5357,
-    5358,
-    5359,
-    5360
-  ],
-  "radicalIds": [
-    213,
-    55
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%BF%8C"
+  "readingMnemonic": "With <kanji>the next</kanji> day approaching and all feathers standing up, you get ready to drink your usual liter of <reading>yolk</reading> (よく). Yes, you heard that right.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%BF%8C"
+  },
+  "related": {
+    "radicals": [
+      213,
+      55
+    ],
+    "vocabularies": [
+      5357,
+      5358,
+      5359,
+      5360
+    ]
+  }
 }

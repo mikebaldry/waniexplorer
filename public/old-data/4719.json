@@ -1,0 +1,46 @@
+{
+  "id": 4719,
+  "type": "vocabulary",
+  "characters": "管理",
+  "primaryMeaning": "Management",
+  "otherMeanings": [
+    "Administration"
+  ],
+  "primaryReading": "かんり",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1236,
+      "character": "管",
+      "readings": [
+        "かん",
+        "くだ"
+      ]
+    },
+    {
+      "id": 669,
+      "character": "理",
+      "readings": [
+        "り",
+        "ことわり"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>pipe</kanji> of <kanji>reason</kanji>. Imagine someone holding this pipe. It always leads to the correct decision because it is the pipe of reason. Those who have this pipe are in a higher rank than you. They are the <vocabulary>management</vocabulary>, and by using this pipe of reason they're able to make good management decisions.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%AE%A1%E7%90%86",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "管",
+      "id": 1236,
+      "reading": "かん"
+    },
+    {
+      "type": "kanji",
+      "value": "理",
+      "id": 669,
+      "reading": "り"
+    }
+  ]
+}

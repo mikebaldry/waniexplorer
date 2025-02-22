@@ -1,0 +1,43 @@
+{
+  "id": 6567,
+  "type": "vocabulary",
+  "characters": "犠飛",
+  "primaryMeaning": "Sacrifice Fly",
+  "otherMeanings": [],
+  "primaryReading": "ぎひ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1761,
+      "character": "犠",
+      "readings": [
+        "ぎ"
+      ]
+    },
+    {
+      "id": 1092,
+      "character": "飛",
+      "readings": [
+        "ひ",
+        "と"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>sacrifice</kanji> <kanji>fly</kanji> is a <vocabulary>sacrifice fly</vocabulary>. In baseball, this is when you hit the ball in the air so the runner can tag up and move up a base.",
+  "readingMnemonic": "The reading is the on'yomi readings. For 飛 just think about how <reading>he</reading> (ひ) hit a sacrifice fly, and he hit it so hard the ball <reading>he</reading>ated up.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%8A%A0%E9%A3%9B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "犠",
+      "id": 1761,
+      "reading": "ぎ"
+    },
+    {
+      "type": "kanji",
+      "value": "飛",
+      "id": 1092,
+      "reading": "ひ"
+    }
+  ]
+}

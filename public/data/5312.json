@@ -1,45 +1,20 @@
 {
   "id": 5312,
   "type": "vocabulary",
-  "characters": "快感",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "快感"
+  },
   "primaryMeaning": "Pleasure",
+  "meaningMnemonic": "When you have the <kanji>feeling</kanji> of <kanji>pleasant</kanji>ness, you are experiencing <vocabulary>pleasure</vocabulary>.\n\nWhile 快感 can describe the thrill of achieving something satisfying, it's often associated with <vocabulary>pleasurable feeling</vocabulary>s from taboo or unusual experiences. For example, it might refer to the pleasure of teasing someone, indulging in a bad habit like picking earwax, or feeling sensual delight.",
+  "primaryReading": "かいかん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Pleasurable Feeling"
   ],
-  "primaryReading": "かいかん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1420,
-      "character": "快",
-      "readings": [
-        "かい",
-        "こころよ"
-      ]
-    },
-    {
-      "id": 862,
-      "character": "感",
-      "readings": [
-        "かん"
-      ]
-    }
-  ],
-  "meaningMnemonic": "When you have the <kanji>feeling</kanji> of <kanji>pleasant</kanji>ness, you are experiencing <vocabulary>pleasure</vocabulary>.\n\nWhile 快感 can describe the thrill of achieving something satisfying, it's often associated with <vocabulary>pleasurable feeling</vocabulary>s from taboo or unusual experiences. For example, it might refer to the pleasure of teasing someone, indulging in a bad habit like picking earwax, or feeling sensual delight.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BF%AB%E6%84%9F",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "快",
-      "id": 1420,
-      "reading": "かい"
-    },
-    {
-      "type": "kanji",
-      "value": "感",
-      "id": 862,
-      "reading": "かん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%BF%AB%E6%84%9F"
+  }
 }

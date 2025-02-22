@@ -1,31 +1,20 @@
 {
   "id": 6626,
   "type": "vocabulary",
-  "characters": "範",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "範"
+  },
   "primaryMeaning": "Example",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "はん",
+  "readingMnemonic": "The reading is the same as the one you learned as well!",
   "otherMeanings": [
     "Model"
   ],
-  "primaryReading": "はん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1828,
-      "character": "範",
-      "readings": [
-        "はん"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
-  "readingMnemonic": "The reading is the same as the one you learned as well!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%AF%84",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "範",
-      "id": 1828,
-      "reading": "はん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%AF%84"
+  }
 }

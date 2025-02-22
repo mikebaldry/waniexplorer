@@ -1,0 +1,38 @@
+{
+  "id": 6241,
+  "type": "vocabulary",
+  "characters": "跳ねる",
+  "primaryMeaning": "To Jump",
+  "otherMeanings": [
+    "To Leap",
+    "To Hop"
+  ],
+  "primaryReading": "はねる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1643,
+      "character": "跳",
+      "readings": [
+        "ちょう",
+        "と",
+        "は"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Not to be confused with 跳ぶ, this word has the same meaning. The reading is different, however.",
+  "readingMnemonic": "The reading for this one is は because you're laughing (<reading>HAHAHA!</reading>!) at the person who put <reading>Nair</reading> (ねる) on their legs, then only finding it to be really painful, so they have <vocabulary>to jump</vocabulary> around to get the pain to go away.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%B7%B3%E3%81%AD%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "跳",
+      "id": 1643,
+      "reading": "は"
+    },
+    {
+      "type": "kana",
+      "value": "ねる"
+    }
+  ]
+}

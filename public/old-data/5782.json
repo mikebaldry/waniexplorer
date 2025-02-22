@@ -1,0 +1,50 @@
+{
+  "id": 5782,
+  "type": "vocabulary",
+  "characters": "注射",
+  "primaryMeaning": "Shot",
+  "otherMeanings": [
+    "Injection"
+  ],
+  "primaryReading": "ちゅうしゃ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 794,
+      "character": "注",
+      "readings": [
+        "ちゅう",
+        "そそ",
+        "さ",
+        "つ"
+      ]
+    },
+    {
+      "id": 1561,
+      "character": "射",
+      "readings": [
+        "しゃ",
+        "い",
+        "さ",
+        "う"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you <kanji>shoot</kanji> something into someone that you actually have to <kanji>pour</kanji> (aka a liquid), you're shooting them up with a needle, giving them a <vocabulary>shot</vocabulary> / <vocabulary>injection</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B3%A8%E5%B0%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "注",
+      "id": 794,
+      "reading": "ちゅう"
+    },
+    {
+      "type": "kanji",
+      "value": "射",
+      "id": 1561,
+      "reading": "しゃ"
+    }
+  ]
+}

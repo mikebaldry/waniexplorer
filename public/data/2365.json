@@ -1,29 +1,37 @@
 {
   "id": 2365,
   "type": "kanji",
-  "character": "硫",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "硫"
+  },
+  "primaryReading": "りゅう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "りゅう",
+      "type": "onyomi"
+    }
+  ],
   "primaryMeaning": "Sulfur",
   "otherMeanings": [
     "Sulphur"
   ],
-  "primaryReading": "りゅう",
-  "readings": [
-    {
-      "reading": "りゅう",
-      "primary": true,
-      "type": "onyomi"
-    }
-  ],
-  "readingMnemonic": "You throw the <kanji>sulfur</kanji> rock as hard as you can, but it hits someone in the back of the head. Oh no, it's <reading>Ryu</reading> (りゅう) from Street Fighter. You try to apologize and explain that you just didn't want this stinky trash rock, I mean, sulfur rock near you. You didn't know he was there.",
   "meaningMnemonic": "There are <radical>stone</radical>s that smell like <radical>trash</radical> in the <radical>river</radical>. You reach in and realize these rocks are made of <kanji>sulfur</kanji>. Even the flow of this water can't hide the stink of these sulfur rocks.",
-  "vocabularyIds": [
-    8482,
-    8643
-  ],
-  "radicalIds": [
-    54,
-    8776,
-    21
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%A1%AB"
+  "readingMnemonic": "You throw the <kanji>sulfur</kanji> rock as hard as you can, but it hits someone in the back of the head. Oh no, it's <reading>Ryu</reading> (りゅう) from Street Fighter. You try to apologize and explain that you just didn't want this stinky trash rock, I mean, sulfur rock near you. You didn't know he was there.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%A1%AB"
+  },
+  "related": {
+    "radicals": [
+      54,
+      8776,
+      21
+    ],
+    "vocabularies": [
+      8482,
+      8643
+    ]
+  }
 }

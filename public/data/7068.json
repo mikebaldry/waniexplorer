@@ -1,32 +1,20 @@
 {
   "id": 7068,
   "type": "vocabulary",
-  "characters": "霧",
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "霧"
+  },
   "primaryMeaning": "Fog",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "きり",
+  "readingMnemonic": "The reading of the vocab is the same as the one you learned with the kanji.",
   "otherMeanings": [
     "Mist"
   ],
-  "primaryReading": "きり",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1982,
-      "character": "霧",
-      "readings": [
-        "きり",
-        "む"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
-  "readingMnemonic": "The reading of the vocab is the same as the one you learned with the kanji.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9C%A7",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "霧",
-      "id": 1982,
-      "reading": "きり"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%9C%A7"
+  }
 }

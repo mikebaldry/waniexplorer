@@ -1,0 +1,32 @@
+{
+  "id": 2075,
+  "type": "kanji",
+  "character": "桑",
+  "primaryMeaning": "Mulberry",
+  "otherMeanings": [],
+  "primaryReading": "くわ",
+  "readings": [
+    {
+      "reading": "くわ",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "そう",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Your <kanji>mulberry</kanji> tree then produces a <reading>qua</reading>ntity (くわ) of mulberries. Yum.",
+  "meaningMnemonic": "You take a <radical>stool</radical>, another <radical>stool</radical>, and yet another <radical>stool</radical> and stack them on top of a <radical>tree</radical> to make a <kanji>mulberry</kanji> bush. This is how mulberry bushes are made. You take three stools and you put them atop a tree.",
+  "vocabularyIds": [
+    7333,
+    7334,
+    7335
+  ],
+  "radicalIds": [
+    30,
+    23
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%A1%91"
+}

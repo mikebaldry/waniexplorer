@@ -1,0 +1,25 @@
+{
+  "id": 2428,
+  "type": "kanji",
+  "character": "酪",
+  "primaryMeaning": "Dairy",
+  "otherMeanings": [],
+  "primaryReading": "らく",
+  "readings": [
+    {
+      "reading": "らく",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "<kanji>Dairy</kanji> isn't kept with other drinks, it needs to be placed on a <reading>rack</reading> (らく). I hope you've been using your dairy rack to store your dairy. If you haven't you should get one right away!",
+  "meaningMnemonic": "You can only give a <radical>kiss</radical> of <radical>alcohol</radical> to <kanji>dairy</kanji>. If you add anymore than a kiss the dairy will curdle and you won't be able to drink it anymore. Bleh.",
+  "vocabularyIds": [
+    8588
+  ],
+  "radicalIds": [
+    182,
+    180
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%85%AA"
+}

@@ -1,34 +1,42 @@
 {
   "id": 1290,
   "type": "kanji",
-  "character": "貯",
-  "primaryMeaning": "Savings",
-  "otherMeanings": [],
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "貯"
+  },
   "primaryReading": "ちょ",
   "readings": [
     {
-      "reading": "ちょ",
       "primary": true,
+      "reading": "ちょ",
       "type": "onyomi"
     },
     {
-      "reading": "たくわ",
       "primary": false,
+      "reading": "たくわ",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "When you want to withdraw from your <kanji>savings</kanji> you force yourself to use <reading>cho</reading>psticks (ちょ) to pick up the shellfish. They're especially slippery, hard to use chopsticks too, that way it's really hard to take too much out of your savings.",
+  "primaryMeaning": "Savings",
+  "otherMeanings": [],
   "meaningMnemonic": "You keep all of your <radical>shellfish</radical> under a <radical>roof</radical> down the <radical>street</radical> and it's your <kanji>savings</kanji>. Shellfish used to be used as money way back, and these aren't shellfish you're spending, they're ones you're saving up for later.",
-  "vocabularyIds": [
-    4974,
-    4975,
-    5195,
-    7162
-  ],
-  "radicalIds": [
-    94,
-    78,
-    27
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%B2%AF"
+  "readingMnemonic": "When you want to withdraw from your <kanji>savings</kanji> you force yourself to use <reading>cho</reading>psticks (ちょ) to pick up the shellfish. They're especially slippery, hard to use chopsticks too, that way it's really hard to take too much out of your savings.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%B2%AF"
+  },
+  "related": {
+    "radicals": [
+      94,
+      78,
+      27
+    ],
+    "vocabularies": [
+      4974,
+      4975,
+      5195,
+      7162
+    ]
+  }
 }

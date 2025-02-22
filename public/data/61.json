@@ -1,12 +1,15 @@
 {
   "id": 61,
   "type": "radical",
-  "primaryMeaning": "Dry",
-  "otherMeanings": [],
-  "character": {
+  "level": 3,
+  "characters": {
     "type": "text",
     "value": "干"
   },
-  "meaningMnemonic": "You have two on a stick. Two what? Well, you can't tell because they're too <radical>dry</radical>. Someone put two somethings on this stick to dry, but they seem to have left them out for way too long. Was it meat? Fish? Cucumbers? You have no clue, but they're two very dry somethings, that's for sure.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/dry"
+  "primaryMeaning": "Dry",
+  "otherMeanings": [],
+  "meaningMnemonic": "This looks like a clothesline pole you would <radical>dry</radical> clothes on. It's got two very straight horizontal poles, for maximum drying efficiency. If you were gonna dry your clothes, you'd dry them on this thing.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/dry"
+  }
 }

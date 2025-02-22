@@ -1,0 +1,31 @@
+{
+  "id": 1790,
+  "type": "kanji",
+  "character": "艦",
+  "primaryMeaning": "Warship",
+  "otherMeanings": [],
+  "primaryReading": "かん",
+  "readings": [
+    {
+      "reading": "かん",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "This huge <kanji>warship</kanji> is run by Genghis <reading>Khan</reading> (かん), the famous warlord. Really, what did you expect? Who else is strong enough to captain a warship but him?",
+  "meaningMnemonic": "The <radical>boat</radical> that <radical>oversee</radical>s other boats, land, and people is usually a <kanji>warship</kanji>. They're the big boats that oversee everything around them. And if anyone steps out of line, a warship can take care of it.",
+  "vocabularyIds": [
+    6509,
+    6510,
+    6511,
+    6512,
+    6513,
+    6648,
+    8032
+  ],
+  "radicalIds": [
+    149,
+    328
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%89%A6"
+}

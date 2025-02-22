@@ -1,0 +1,32 @@
+{
+  "id": 1666,
+  "type": "kanji",
+  "character": "兆",
+  "primaryMeaning": "Omen",
+  "otherMeanings": [
+    "Trillion"
+  ],
+  "primaryReading": "ちょう",
+  "readings": [
+    {
+      "reading": "ちょう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "きざ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You listen to the <kanji>omen</kanji>, in it, it tells of an event in the future when Mrs. <reading>Chou</reading> (ちょう) will destroy the world.",
+  "meaningMnemonic": "The <radical>omen</radical> radical and the <kanji>omen</kanji> kanji are the same!",
+  "vocabularyIds": [
+    6118,
+    6119
+  ],
+  "radicalIds": [
+    363
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%85%86"
+}

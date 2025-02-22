@@ -1,0 +1,49 @@
+{
+  "id": 2602,
+  "type": "vocabulary",
+  "characters": "大切",
+  "primaryMeaning": "Important",
+  "otherMeanings": [
+    "Precious",
+    "Valuable"
+  ],
+  "primaryReading": "たいせつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 453,
+      "character": "大",
+      "readings": [
+        "たい",
+        "だい",
+        "おお",
+        "ひろ"
+      ]
+    },
+    {
+      "id": 502,
+      "character": "切",
+      "readings": [
+        "せつ",
+        "き"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Think back to the old old olden days. Back when decisions were made with swords. A <kanji>big</kanji> <kanji>cut</kanji> is going to be <vocabulary>important</vocabulary>. Just imagine a couple samurai squaring off, then charging, then making one big cut. It's the most important thing they'll do in their lives (if they live!).",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 大 has two on'yomi readings, here's a mnemonic to help you remember which one to use:\n\nIt's extremely <vocabulary>important</vocabulary> to keep your <reading>tie</reading>s in <reading>sets</reading> (たいせつ). If you don't arrange them neatly in sets, the tie police might just come knocking at your door and take you with them!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A4%A7%E5%88%87",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "大",
+      "id": 453,
+      "reading": "たい"
+    },
+    {
+      "type": "kanji",
+      "value": "切",
+      "id": 502,
+      "reading": "せつ"
+    }
+  ]
+}

@@ -1,32 +1,40 @@
 {
   "id": 2045,
   "type": "kanji",
-  "character": "斜",
-  "primaryMeaning": "Diagonal",
-  "otherMeanings": [],
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "斜"
+  },
   "primaryReading": "しゃ",
   "readings": [
     {
-      "reading": "しゃ",
       "primary": true,
+      "reading": "しゃ",
       "type": "onyomi"
     },
     {
-      "reading": "なな",
       "primary": false,
+      "reading": "なな",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "In front of this <kanji>diagonal</kanji> pattern is a <reading>sha</reading>man (しゃ) who is currently staring at you. You slowly reach down and turn one of the ladles around, diagonally, and look back up. The shaman's eyes are wide, and now they're scribbling on in a notebook.",
+  "primaryMeaning": "Diagonal",
+  "otherMeanings": [],
   "meaningMnemonic": "You have a <radical>surplus</radical> of <radical>ladle</radical>s laid out <kanji>diagonally</kanji> in front of you. Why are they diagonal? And why do you have so many ladles? Why the surplus? Hang on, we'll get there.",
-  "vocabularyIds": [
-    7248,
-    7249,
-    7250
-  ],
-  "radicalIds": [
-    313,
-    129
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%96%9C"
+  "readingMnemonic": "In front of this <kanji>diagonal</kanji> pattern is a <reading>sha</reading>man (しゃ) who is currently staring at you. You slowly reach down and turn one of the ladles around, diagonally, and look back up. The shaman's eyes are wide, and now they're scribbling on in a notebook.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%96%9C"
+  },
+  "related": {
+    "radicals": [
+      313,
+      129
+    ],
+    "vocabularies": [
+      7248,
+      7249,
+      7250
+    ]
+  }
 }

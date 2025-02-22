@@ -1,32 +1,40 @@
 {
   "id": 1112,
   "type": "kanji",
-  "character": "厚",
-  "primaryMeaning": "Thick",
-  "otherMeanings": [],
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "厚"
+  },
   "primaryReading": "あつ",
   "readings": [
     {
-      "reading": "あつ",
       "primary": true,
+      "reading": "あつ",
       "type": "kunyomi"
     },
     {
-      "reading": "こう",
       "primary": false,
+      "reading": "こう",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "The child's <kanji>thick</kanji> unibrow can't wait any longer and gives up. It hops off the child's face and says, \"Hey dude, I'll be <reading>at Sue's</reading> (あつ).\" She'll appreciate my thick, luxuriousness more than a weakling like you.",
+  "primaryMeaning": "Thick",
+  "otherMeanings": [],
   "meaningMnemonic": "Hanging off the edge of a <radical>cliff</radical> is a <radical>sun</radical> worshipping <radical>child</radical> with a <kanji>thick</kanji> unibrow. Hanging off the cliff, the child cries at the sun for cursing him to this cruel fate. Even the thickness of his unibrow is not enough to give the child the strength to pull himself back up.",
-  "vocabularyIds": [
-    4265,
-    9065
-  ],
-  "radicalIds": [
-    116,
-    22,
-    34
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%8E%9A"
+  "readingMnemonic": "The child's <kanji>thick</kanji> unibrow can't wait any longer and gives up. It hops off the child's face and says, \"Hey dude, I'll be <reading>at Sue's</reading> (あつ).\" She'll appreciate my thick, luxuriousness more than a weakling like you.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%8E%9A"
+  },
+  "related": {
+    "radicals": [
+      116,
+      22,
+      34
+    ],
+    "vocabularies": [
+      4265,
+      9065
+    ]
+  }
 }

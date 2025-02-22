@@ -1,0 +1,48 @@
+{
+  "id": 5256,
+  "type": "vocabulary",
+  "characters": "省略",
+  "primaryMeaning": "Abbreviation",
+  "otherMeanings": [
+    "Omission",
+    "Abbreviate",
+    "Leave Out"
+  ],
+  "primaryReading": "しょうりゃく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1147,
+      "character": "省",
+      "readings": [
+        "しょう",
+        "せい",
+        "はぶ"
+      ]
+    },
+    {
+      "id": 1396,
+      "character": "略",
+      "readings": [
+        "りゃく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Conserve</kanji> those letters with <kanji>abbreviation</kanji> and it's... an <vocabulary>abbreviation</vocabulary>! By using <vocabulary>omission</vocabulary> you were able to abbreviate that word into a smaller word.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%9C%81%E7%95%A5",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "省",
+      "id": 1147,
+      "reading": "しょう"
+    },
+    {
+      "type": "kanji",
+      "value": "略",
+      "id": 1396,
+      "reading": "りゃく"
+    }
+  ]
+}

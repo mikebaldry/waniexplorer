@@ -1,0 +1,33 @@
+{
+  "id": 7364,
+  "type": "vocabulary",
+  "characters": "峰",
+  "primaryMeaning": "Summit",
+  "otherMeanings": [
+    "Peak",
+    "Ridge"
+  ],
+  "primaryReading": "みね",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2084,
+      "character": "峰",
+      "readings": [
+        "ほう",
+        "みね"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well. Can also be <vocabulary>peak</vocabulary> or <vocabulary>ridge</vocabulary>.",
+  "readingMnemonic": "Look up at the <vocabulary>summit</vocabulary>. It's such a <reading>mean</reading> (みね) summit. So big, so stormy, so mean.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B3%B0",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "峰",
+      "id": 2084,
+      "reading": "みね"
+    }
+  ]
+}

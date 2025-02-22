@@ -1,0 +1,31 @@
+{
+  "id": 693,
+  "type": "kanji",
+  "character": "森",
+  "primaryMeaning": "Forest",
+  "otherMeanings": [
+    "Woods"
+  ],
+  "primaryReading": "もり",
+  "readings": [
+    {
+      "reading": "もり",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "しん",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "One tree? No. Two trees? Not enough. I want <reading>more</reading> (もり) trees, please!",
+  "meaningMnemonic": "This kanji is just the <radical>tree</radical> radical three times. Just based off this, you should be able to figure it out. This kanji means \"<kanji>forest</kanji>.\"",
+  "vocabularyIds": [
+    3029
+  ],
+  "radicalIds": [
+    23
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%A3%AE"
+}

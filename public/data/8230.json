@@ -1,46 +1,21 @@
 {
   "id": 8230,
   "type": "vocabulary",
-  "characters": "累進",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "累進"
+  },
   "primaryMeaning": "Successive Promotion",
+  "meaningMnemonic": "<kanji>Accumulate</kanji> enough of a good reputation at your company in <kanji>advance</kanji> and you'll be able to have <vocabulary>successive promotion</vocabulary>s. You'll be boss in no time! ",
+  "primaryReading": "るいしん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Gradual Promotion",
     "Graduated"
   ],
-  "primaryReading": "るいしん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2273,
-      "character": "累",
-      "readings": [
-        "るい"
-      ]
-    },
-    {
-      "id": 748,
-      "character": "進",
-      "readings": [
-        "しん",
-        "すす"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Accumulate</kanji> enough of a good reputation at your company in <kanji>advance</kanji> and you'll be able to have <vocabulary>successive promotion</vocabulary>s. You'll be boss in no time! ",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B4%AF%E9%80%B2",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "累",
-      "id": 2273,
-      "reading": "るい"
-    },
-    {
-      "type": "kanji",
-      "value": "進",
-      "id": 748,
-      "reading": "しん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%B4%AF%E9%80%B2"
+  }
 }

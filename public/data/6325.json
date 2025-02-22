@@ -1,46 +1,20 @@
 {
   "id": 6325,
   "type": "vocabulary",
-  "characters": "躍進",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "躍進"
+  },
   "primaryMeaning": "Rapid Progress",
+  "meaningMnemonic": "When you <kanji>leap</kanji> and <kanji>advance</kanji>, you make <vocabulary>rapid progress</vocabulary> and <vocabulary>great advancement</vocabulary>.\n\nYou might recall that 飛躍 also means \"rapid progress,\" but what sets them apart? 躍進 emphasizes the subject's perspective as it advances at a rapid pace, whereas 飛躍 conveys significant progress or leaps more neutrally, without highlighting pace or perspective.",
+  "primaryReading": "やくしん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Great Advancement"
   ],
-  "primaryReading": "やくしん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1738,
-      "character": "躍",
-      "readings": [
-        "やく",
-        "おど"
-      ]
-    },
-    {
-      "id": 748,
-      "character": "進",
-      "readings": [
-        "しん",
-        "すす"
-      ]
-    }
-  ],
-  "meaningMnemonic": "When you <kanji>leap</kanji> and <kanji>advance</kanji>, you make <vocabulary>rapid progress</vocabulary> and <vocabulary>great advancement</vocabulary>.\n\nYou might recall that 飛躍 also means \"rapid progress,\" but what sets them apart? 躍進 emphasizes the subject's perspective as it advances at a rapid pace, whereas 飛躍 conveys significant progress or leaps more neutrally, without highlighting pace or perspective.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%BA%8D%E9%80%B2",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "躍",
-      "id": 1738,
-      "reading": "やく"
-    },
-    {
-      "type": "kanji",
-      "value": "進",
-      "id": 748,
-      "reading": "しん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%BA%8D%E9%80%B2"
+  }
 }

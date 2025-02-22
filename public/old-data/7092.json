@@ -1,0 +1,46 @@
+{
+  "id": 7092,
+  "type": "vocabulary",
+  "characters": "欠如",
+  "primaryMeaning": "Lack",
+  "otherMeanings": [
+    "Deficiency"
+  ],
+  "primaryReading": "けつじょ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 646,
+      "character": "欠",
+      "readings": [
+        "けつ",
+        "か"
+      ]
+    },
+    {
+      "id": 1991,
+      "character": "如",
+      "readings": [
+        "じょ",
+        "ごと"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You <kanji>lack</kanji> <kanji>likeness</kanji> to anything out there. You totally <vocabulary>lack</vocabulary> something that gives you likeness. It's a <vocabulary>deficiency</vocabulary>, or something.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%AC%A0%E5%A6%82",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "欠",
+      "id": 646,
+      "reading": "けつ"
+    },
+    {
+      "type": "kanji",
+      "value": "如",
+      "id": 1991,
+      "reading": "じょ"
+    }
+  ]
+}

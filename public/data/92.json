@@ -1,12 +1,15 @@
 {
   "id": 92,
   "type": "radical",
-  "primaryMeaning": "Red",
-  "otherMeanings": [],
-  "character": {
+  "level": 4,
+  "characters": {
     "type": "text",
     "value": "赤"
   },
+  "primaryMeaning": "Red",
+  "otherMeanings": [],
   "meaningMnemonic": "There are some legs and fins under the dirt. Imagine yourself looking at all of these severed limbs... there's blood everywhere. No matter how deep you dig, everything is stained <radical>red</radical>.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/red"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/red"
+  }
 }

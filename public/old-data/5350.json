@@ -1,0 +1,61 @@
+{
+  "id": 5350,
+  "type": "vocabulary",
+  "characters": "精神的",
+  "primaryMeaning": "Mental",
+  "otherMeanings": [
+    "Emotional",
+    "Spiritual"
+  ],
+  "primaryReading": "せいしんてき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1370,
+      "character": "精",
+      "readings": [
+        "せい"
+      ]
+    },
+    {
+      "id": 799,
+      "character": "神",
+      "readings": [
+        "しん",
+        "じん",
+        "かみ"
+      ]
+    },
+    {
+      "id": 914,
+      "character": "的",
+      "readings": [
+        "てき",
+        "まと"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Your 精神 is your spirit or your mind. If you add 的 to it, you get <vocabulary>mental</vocabulary>. It can mean <vocabulary>spiritual</vocabulary> too, but it more often shows up in reference to a person's mental or <vocabulary>emotional</vocabulary> state.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B2%BE%E7%A5%9E%E7%9A%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "精",
+      "id": 1370,
+      "reading": "せい"
+    },
+    {
+      "type": "kanji",
+      "value": "神",
+      "id": 799,
+      "reading": "しん"
+    },
+    {
+      "type": "kanji",
+      "value": "的",
+      "id": 914,
+      "reading": "てき"
+    }
+  ]
+}

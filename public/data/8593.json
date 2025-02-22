@@ -1,47 +1,18 @@
 {
   "id": 8593,
   "type": "vocabulary",
-  "characters": "雌花",
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "雌花"
+  },
   "primaryMeaning": "Female Flower",
-  "otherMeanings": [],
-  "primaryReading": "めばな",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2405,
-      "character": "雌",
-      "readings": [
-        "めす",
-        "め",
-        "めん",
-        "し"
-      ]
-    },
-    {
-      "id": 557,
-      "character": "花",
-      "readings": [
-        "はな",
-        "か",
-        "け"
-      ]
-    }
-  ],
   "meaningMnemonic": "A <kanji>female</kanji> <kanji>flower</kanji> is a <vocabulary>female flower</vocabulary>!",
+  "primaryReading": "めばな",
   "readingMnemonic": "The readings for this word are both kun'yomi, but you haven't learned this kun'yomi for 雌 yet, so here's a mnemonic to help you:\n\nJust think of someone asking you to differentiate female flowers from male flowers. Can you? \"<reading>Meh</reading> (め), probably not.\"\n\nThe reading of 花 is the rendaku version, so watch out for that too.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9B%8C%E8%8A%B1",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "雌",
-      "id": 2405,
-      "reading": "め"
-    },
-    {
-      "type": "kanji",
-      "value": "花",
-      "id": 557,
-      "reading": "ばな"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%9B%8C%E8%8A%B1"
+  }
 }

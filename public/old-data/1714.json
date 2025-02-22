@@ -1,0 +1,31 @@
+{
+  "id": 1714,
+  "type": "kanji",
+  "character": "控",
+  "primaryMeaning": "Abstain",
+  "otherMeanings": [],
+  "primaryReading": "ひか",
+  "readings": [
+    {
+      "reading": "ひか",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "こう",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "This symbol to <kanji>abstain</kanji> comes from the <reading>hica</reading>tee (ひか) turtle. The hicatee is a Central American river turtle hunted for its meat, eggs, and shell. Therefore, the poor hicatee are endangered. So people started to rally around them, abstaining from hurting them anymore. They raised their fingers to the sky and shouted, \"I abstain from harming these hicatee!\"",
+  "meaningMnemonic": "Raise your <radical>fingers</radical> to the <radical>sky</radical> to symbolize that you <kanji>abstain</kanji> from something. If someone offers you fur coats, raise your fingers to abstain. If someone tries to get you to bully someone, raise your fingers to abstain.",
+  "vocabularyIds": [
+    6454,
+    8690
+  ],
+  "radicalIds": [
+    63,
+    370
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%8E%A7"
+}

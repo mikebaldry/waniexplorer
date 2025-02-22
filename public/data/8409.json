@@ -1,43 +1,18 @@
 {
   "id": 8409,
   "type": "vocabulary",
-  "characters": "海賊",
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "海賊"
+  },
   "primaryMeaning": "Pirate",
-  "otherMeanings": [],
-  "primaryReading": "かいぞく",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 640,
-      "character": "海",
-      "readings": [
-        "かい",
-        "うみ"
-      ]
-    },
-    {
-      "id": 2330,
-      "character": "賊",
-      "readings": [
-        "ぞく"
-      ]
-    }
-  ],
   "meaningMnemonic": "<kanji>Robber</kanji>s who sail on the high <kanji>sea</kanji>s are <vocabulary>pirate</vocabulary>s! Arrr!",
+  "primaryReading": "かいぞく",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B5%B7%E8%B3%8A",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "海",
-      "id": 640,
-      "reading": "かい"
-    },
-    {
-      "type": "kanji",
-      "value": "賊",
-      "id": 2330,
-      "reading": "ぞく"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B5%B7%E8%B3%8A"
+  }
 }

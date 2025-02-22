@@ -1,51 +1,21 @@
 {
   "id": 8034,
   "type": "vocabulary",
-  "characters": "苗木",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "苗木"
+  },
   "primaryMeaning": "Seedling",
+  "meaningMnemonic": "A <kanji>seedling</kanji> <kanji>tree</kanji> is still a <vocabulary>seedling</vocabulary>.",
+  "primaryReading": "なえぎ",
+  "readingMnemonic": "The readings for this word are both kun'yomi readings. You've learned both of these readings by now so you should be able to read this on your own.",
   "otherMeanings": [
     "Sapling",
     "Young Tree"
   ],
-  "primaryReading": "なえぎ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2146,
-      "character": "苗",
-      "readings": [
-        "みょう",
-        "びょう",
-        "なえ",
-        "なわ"
-      ]
-    },
-    {
-      "id": 478,
-      "character": "木",
-      "readings": [
-        "もく",
-        "ぼく",
-        "き",
-        "こ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>seedling</kanji> <kanji>tree</kanji> is still a <vocabulary>seedling</vocabulary>.",
-  "readingMnemonic": "The readings for this word are both kun'yomi readings. You've learned both of these readings by now so you should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%8B%97%E6%9C%A8",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "苗",
-      "id": 2146,
-      "reading": "なえ"
-    },
-    {
-      "type": "kanji",
-      "value": "木",
-      "id": 478,
-      "reading": "ぎ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%8B%97%E6%9C%A8"
+  }
 }

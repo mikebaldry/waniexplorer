@@ -1,0 +1,66 @@
+{
+  "id": 5202,
+  "type": "vocabulary",
+  "characters": "大間違い",
+  "primaryMeaning": "Big Mistake",
+  "otherMeanings": [],
+  "primaryReading": "おおまちがい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 453,
+      "character": "大",
+      "readings": [
+        "たい",
+        "だい",
+        "おお",
+        "ひろ"
+      ]
+    },
+    {
+      "id": 701,
+      "character": "間",
+      "readings": [
+        "かん",
+        "けん",
+        "あいだ",
+        "ま"
+      ]
+    },
+    {
+      "id": 1220,
+      "character": "違",
+      "readings": [
+        "ちが",
+        "い"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A 間違い is a mistake. A <kanji>big</kanji> <kanji>mistake</kanji> is a <vocabulary>big mistake</vocabulary>.\n\n大間違い is less about factual errors and more about someone being way off in their assumptions or expectations. It suggests things didn't go according to plan — like you assumed a smile would fix everything or expected a date to go well, only for things to turn out completely wrong.",
+  "readingMnemonic": "The reading is 大 and 間違い put together into one not so mistaken word.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A4%A7%E9%96%93%E9%81%95%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "大",
+      "id": 453,
+      "reading": "おお"
+    },
+    {
+      "type": "kanji",
+      "value": "間",
+      "id": 701,
+      "reading": "ま"
+    },
+    {
+      "type": "kanji",
+      "value": "違",
+      "id": 1220,
+      "reading": "ちが"
+    },
+    {
+      "type": "kana",
+      "value": "い"
+    }
+  ]
+}

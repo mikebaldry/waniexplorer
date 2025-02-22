@@ -1,0 +1,44 @@
+{
+  "id": 5914,
+  "type": "vocabulary",
+  "characters": "入獄",
+  "primaryMeaning": "Imprisonment",
+  "otherMeanings": [],
+  "primaryReading": "にゅうごく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 445,
+      "character": "入",
+      "readings": [
+        "にゅう",
+        "はい",
+        "い"
+      ]
+    },
+    {
+      "id": 1602,
+      "character": "獄",
+      "readings": [
+        "ごく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you <kanji>enter</kanji> <kanji>prison</kanji> that's <vocabulary>imprisonment</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%85%A5%E7%8D%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "入",
+      "id": 445,
+      "reading": "にゅう"
+    },
+    {
+      "type": "kanji",
+      "value": "獄",
+      "id": 1602,
+      "reading": "ごく"
+    }
+  ]
+}

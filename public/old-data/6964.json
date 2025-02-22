@@ -1,0 +1,31 @@
+{
+  "id": 6964,
+  "type": "vocabulary",
+  "characters": "墨",
+  "primaryMeaning": "Ink",
+  "otherMeanings": [
+    "Black Ink"
+  ],
+  "primaryReading": "すみ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1941,
+      "character": "墨",
+      "readings": [
+        "すみ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A2%A8",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "墨",
+      "id": 1941,
+      "reading": "すみ"
+    }
+  ]
+}

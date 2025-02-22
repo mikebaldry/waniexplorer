@@ -1,44 +1,18 @@
 {
   "id": 4355,
   "type": "vocabulary",
-  "characters": "書類",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "書類"
+  },
   "primaryMeaning": "Document",
-  "otherMeanings": [],
-  "primaryReading": "しょるい",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 962,
-      "character": "書",
-      "readings": [
-        "しょ",
-        "か"
-      ]
-    },
-    {
-      "id": 1034,
-      "character": "類",
-      "readings": [
-        "るい",
-        "たぐ"
-      ]
-    }
-  ],
   "meaningMnemonic": "If you put <kanji>writing</kanji> into a <kanji>category</kanji>, you'd have to write it down after you've chosen what category it is in. Where would you write that down? Into a <vocabulary>document</vocabulary>, probably.",
+  "primaryReading": "しょるい",
   "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9B%B8%E9%A1%9E",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "書",
-      "id": 962,
-      "reading": "しょ"
-    },
-    {
-      "type": "kanji",
-      "value": "類",
-      "id": 1034,
-      "reading": "るい"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%9B%B8%E9%A1%9E"
+  }
 }

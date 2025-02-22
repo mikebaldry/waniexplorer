@@ -1,0 +1,37 @@
+{
+  "id": 6405,
+  "type": "vocabulary",
+  "characters": "携わる",
+  "primaryMeaning": "To Engage In",
+  "otherMeanings": [
+    "To Participate",
+    "To Take Part In"
+  ],
+  "primaryReading": "たずさわる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1756,
+      "character": "携",
+      "readings": [
+        "けい",
+        "たずさ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Somehow the kanji <kanji>portable</kanji> turns into the verb <vocabulary>to engage in</vocabulary> or <vocabulary>to participate</vocabulary> or <vocabulary>to take part in</vocabulary>. I suppose if you are portable, you're able to engage in all kinds of things, since you can move all over the place, participating everywhere you can (rather than being not portable and being stuck in one place).",
+  "readingMnemonic": "A <reading>Taz saw</reading> (たずさ) is a saw owned by a Tazmanian, and it is particularly portable. It allows you <vocabulary>to participate</vocabulary> in all kinds of things, like  cutting down trees, or being in a horror film.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%90%BA%E3%82%8F%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "携",
+      "id": 1756,
+      "reading": "たずさ"
+    },
+    {
+      "type": "kana",
+      "value": "わる"
+    }
+  ]
+}

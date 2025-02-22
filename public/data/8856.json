@@ -1,12 +1,15 @@
 {
   "id": 8856,
   "type": "radical",
-  "primaryMeaning": "Wife",
-  "otherMeanings": [],
-  "character": {
+  "level": 41,
+  "characters": {
     "type": "text",
     "value": "妻"
   },
+  "primaryMeaning": "Wife",
+  "otherMeanings": [],
   "meaningMnemonic": "This radical is the same as the kanji. It means <radical>wife</radical>.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/wife"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/wife"
+  }
 }

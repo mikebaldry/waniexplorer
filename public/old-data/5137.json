@@ -1,0 +1,58 @@
+{
+  "id": 5137,
+  "type": "vocabulary",
+  "characters": "博物館",
+  "primaryMeaning": "Museum",
+  "otherMeanings": [],
+  "primaryReading": "はくぶつかん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1355,
+      "character": "博",
+      "readings": [
+        "はく",
+        "ばく"
+      ]
+    },
+    {
+      "id": 718,
+      "character": "物",
+      "readings": [
+        "ぶつ",
+        "もつ",
+        "もの"
+      ]
+    },
+    {
+      "id": 873,
+      "character": "館",
+      "readings": [
+        "かん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "An <kanji>exhibition</kanji> for <kanji>thing</kanji>s is put in a <kanji>public building</kanji> for anyone to see. This place is a <vocabulary>museum</vocabulary>.\n\nNote that 博物館 isn't used for art museums, but for museums that focus on a wide range of other subjects, like natural history, science, history, and technology. ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8D%9A%E7%89%A9%E9%A4%A8",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "博",
+      "id": 1355,
+      "reading": "はく"
+    },
+    {
+      "type": "kanji",
+      "value": "物",
+      "id": 718,
+      "reading": "ぶつ"
+    },
+    {
+      "type": "kanji",
+      "value": "館",
+      "id": 873,
+      "reading": "かん"
+    }
+  ]
+}

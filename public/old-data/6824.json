@@ -1,0 +1,45 @@
+{
+  "id": 6824,
+  "type": "vocabulary",
+  "characters": "感涙",
+  "primaryMeaning": "Tears Of Gratitude",
+  "otherMeanings": [
+    "Being Moved To Tears"
+  ],
+  "primaryReading": "かんるい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 862,
+      "character": "感",
+      "readings": [
+        "かん"
+      ]
+    },
+    {
+      "id": 1897,
+      "character": "涙",
+      "readings": [
+        "なみだ",
+        "るい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>feeling</kanji> of <kanji>teardrop</kanji>s is a feeling that makes you cry. But it's not a bad feeling because these are <vocabulary>tears of gratitude</vocabulary>, or because you're <vocabulary>being moved to tears</vocabulary>.\n\n感涙 is an advanced word primarily used in writing. It refers to the kind of tears you might shed when you're profoundly touched with emotion, like when you're truly grateful for something or moved by a song or movie.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You haven't learned this reading for 涙 yet, so here's a mnemonic to help you:\n\nYour excessive <vocabulary>tears of gratitude</vocabulary> have <reading>rui</reading>ned (るい) your life. Your friends didn't like being cried at for the smallest compliment or favor, so now they don't even return your calls. No one else you know is <vocabulary>being moved to tears</vocabulary> on a daily basis like this. It's ruining your life!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%84%9F%E6%B6%99",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "感",
+      "id": 862,
+      "reading": "かん"
+    },
+    {
+      "type": "kanji",
+      "value": "涙",
+      "id": 1897,
+      "reading": "るい"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 1368,
+  "type": "kanji",
+  "character": "移",
+  "primaryMeaning": "Shift",
+  "otherMeanings": [],
+  "primaryReading": "い",
+  "readings": [
+    {
+      "reading": "い",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "うつ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "This <kanji>shift</kanji> is caused by the <reading>ea</reading>gle (い) that wants to eat the grains. Every other evening, the eagle swoops down, shifts the grains (eating a few) and then flies off.",
+  "meaningMnemonic": "A <radical>grain</radical>, from one <radical>evening</radical> to the next <radical>evening</radical>, experiences a <kanji>shift</kanji>. After two evenings, the grain has shifted from one location to another.",
+  "vocabularyIds": [
+    5178,
+    5179,
+    5180,
+    5181,
+    5504,
+    6319,
+    8758
+  ],
+  "radicalIds": [
+    135,
+    33
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%A7%BB"
+}

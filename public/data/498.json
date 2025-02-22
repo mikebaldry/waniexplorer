@@ -1,44 +1,52 @@
 {
   "id": 498,
   "type": "kanji",
-  "character": "元",
-  "primaryMeaning": "Origin",
-  "otherMeanings": [],
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "元"
+  },
   "primaryReading": "げん",
   "readings": [
     {
-      "reading": "げん",
       "primary": true,
+      "reading": "げん",
       "type": "onyomi"
     },
     {
+      "primary": false,
       "reading": "がん",
-      "primary": false,
       "type": "onyomi"
     },
     {
-      "reading": "もと",
       "primary": false,
+      "reading": "もと",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "The <kanji>origin</kanji> of everything can be found in <reading>Gen</reading>ji (げん). Genji is the name of the main character in the world's first ever novel, \"The Tale of Genji.\" \n\nPicture him as a rich, pretty boy who cares a ton about his looks and gets along really well with all the ladies. He's also really great at poetry, which helps the lady situation.",
+  "primaryMeaning": "Origin",
+  "otherMeanings": [],
   "meaningMnemonic": "The <radical>origin</radical> radical and the <kanji>origin</kanji> kanji are the same!",
-  "vocabularyIds": [
-    2596,
-    2675,
-    3783,
-    3934,
-    6227,
-    6867,
-    7960,
-    7977,
-    8215,
-    9142,
-    9143
-  ],
-  "radicalIds": [
-    64
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%85%83"
+  "readingMnemonic": "The <kanji>origin</kanji> of everything can be found in <reading>Gen</reading>ji (げん). Genji is the name of the main character in the world's first ever novel, \"The Tale of Genji.\" \n\nPicture him as a rich, pretty boy who cares a ton about his looks and gets along really well with all the ladies. He's also really great at poetry, which helps the lady situation.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%85%83"
+  },
+  "related": {
+    "radicals": [
+      64
+    ],
+    "vocabularies": [
+      2596,
+      2675,
+      3783,
+      3934,
+      6227,
+      6867,
+      7960,
+      7977,
+      8215,
+      9142,
+      9143
+    ]
+  }
 }

@@ -1,47 +1,20 @@
 {
   "id": 3298,
   "type": "vocabulary",
-  "characters": "神道",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "神道"
+  },
   "primaryMeaning": "Shinto",
+  "meaningMnemonic": "The <kanji>way</kanji>/<kanji>road</kanji> of the <kanji>god</kanji>(s) is, as you can probably guess, a big Japanese religion. There's two, and I'll give you a hint, this one isn't Buddhism (that would probably have the kanji for Buddha in it, no?). So what's the other big one? It's <vocabulary>Shinto</vocabulary>. If you're having trouble remembering this because you've never heard of it before, skip to the reading. The reading will help.",
+  "primaryReading": "しんとう",
+  "readingMnemonic": "The reading is a bit wonky. 神 should be no problem. 道 on the other hand is almost the one you learned (どう) but now it's とう for some reason. Perhaps the gods took away the dakuten to make it とう, who knows. All I know is that it's best not to question said gods. If you already know of Shinto in English, though, this reading should be really easy. If you don't, perhaps you can use this reading to help you to remember Shinto the religion.",
   "otherMeanings": [
     "Shintou"
   ],
-  "primaryReading": "しんとう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 799,
-      "character": "神",
-      "readings": [
-        "しん",
-        "じん",
-        "かみ"
-      ]
-    },
-    {
-      "id": 700,
-      "character": "道",
-      "readings": [
-        "どう",
-        "みち"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The <kanji>way</kanji>/<kanji>road</kanji> of the <kanji>god</kanji>(s) is, as you can probably guess, a big Japanese religion. There's two, and I'll give you a hint, this one isn't Buddhism (that would probably have the kanji for Buddha in it, no?). So what's the other big one? It's <vocabulary>Shinto</vocabulary>. If you're having trouble remembering this because you've never heard of it before, skip to the reading. The reading will help.",
-  "readingMnemonic": "The reading is a bit wonky. 神 should be no problem. 道 on the other hand is almost the one you learned (どう) but now it's とう for some reason. Perhaps the gods took away the dakuten to make it とう, who knows. All I know is that it's best not to question said gods. If you already know of Shinto in English, though, this reading should be really easy. If you don't, perhaps you can use this reading to help you to remember Shinto the religion.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A5%9E%E9%81%93",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "神",
-      "id": 799,
-      "reading": "しん"
-    },
-    {
-      "type": "kanji",
-      "value": "道",
-      "id": 700,
-      "reading": null
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%A5%9E%E9%81%93"
+  }
 }

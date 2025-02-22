@@ -1,0 +1,64 @@
+{
+  "id": 4350,
+  "type": "vocabulary",
+  "characters": "説明書",
+  "primaryMeaning": "Written Explanation",
+  "otherMeanings": [
+    "Instructions",
+    "Manual"
+  ],
+  "primaryReading": "せつめいしょ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1026,
+      "character": "説",
+      "readings": [
+        "せつ",
+        "と"
+      ]
+    },
+    {
+      "id": 626,
+      "character": "明",
+      "readings": [
+        "めい",
+        "みょう",
+        "あ",
+        "あか",
+        "あき"
+      ]
+    },
+    {
+      "id": 962,
+      "character": "書",
+      "readings": [
+        "しょ",
+        "か"
+      ]
+    }
+  ],
+  "meaningMnemonic": "An <kanji>explanation</kanji> (説明) in <kanji>writing</kanji> is a <vocabulary>written explanation</vocabulary>. I guess sometimes you don't want to do your explanations in person, huh?",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%AA%AC%E6%98%8E%E6%9B%B8",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "説",
+      "id": 1026,
+      "reading": "せつ"
+    },
+    {
+      "type": "kanji",
+      "value": "明",
+      "id": 626,
+      "reading": "めい"
+    },
+    {
+      "type": "kanji",
+      "value": "書",
+      "id": 962,
+      "reading": "しょ"
+    }
+  ]
+}

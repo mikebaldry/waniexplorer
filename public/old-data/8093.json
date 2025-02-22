@@ -1,0 +1,43 @@
+{
+  "id": 8093,
+  "type": "vocabulary",
+  "characters": "庶務",
+  "primaryMeaning": "General Affairs",
+  "otherMeanings": [],
+  "primaryReading": "しょむ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2240,
+      "character": "庶",
+      "readings": [
+        "しょ"
+      ]
+    },
+    {
+      "id": 1129,
+      "character": "務",
+      "readings": [
+        "む",
+        "つと"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Common</kanji> <kanji>task</kanji>s are a part of the <vocabulary>general affairs</vocabulary> of the people. That's why they're general, they're the ones everyone is involved in.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BA%B6%E5%8B%99",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "庶",
+      "id": 2240,
+      "reading": "しょ"
+    },
+    {
+      "type": "kanji",
+      "value": "務",
+      "id": 1129,
+      "reading": "む"
+    }
+  ]
+}

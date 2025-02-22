@@ -1,32 +1,40 @@
 {
   "id": 1412,
   "type": "kanji",
-  "character": "詳",
-  "primaryMeaning": "Detailed",
-  "otherMeanings": [],
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "詳"
+  },
   "primaryReading": "しょう",
   "readings": [
     {
-      "reading": "しょう",
       "primary": true,
+      "reading": "しょう",
       "type": "onyomi"
     },
     {
-      "reading": "くわ",
       "primary": false,
+      "reading": "くわ",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "The reason these sheep are so <kanji>detailed</kanji> is that they are trying to impress the <reading>Shou</reading>gun (しょう). If they're fancy enough, perhaps the Shougun won’t kill them for their meat and make their wool into clothing.",
+  "primaryMeaning": "Detailed",
+  "otherMeanings": [],
   "meaningMnemonic": "They <radical>say</radical> <radical>sheep</radical> are <kanji>detailed</kanji> creatures. I mean, I never thought sheep were very detailed, but that’s what they say.",
-  "vocabularyIds": [
-    5365,
-    5366,
-    5367
-  ],
-  "radicalIds": [
-    117,
-    136
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%A9%B3"
+  "readingMnemonic": "The reason these sheep are so <kanji>detailed</kanji> is that they are trying to impress the <reading>Shou</reading>gun (しょう). If they're fancy enough, perhaps the Shougun won’t kill them for their meat and make their wool into clothing.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%A9%B3"
+  },
+  "related": {
+    "radicals": [
+      117,
+      136
+    ],
+    "vocabularies": [
+      5365,
+      5366,
+      5367
+    ]
+  }
 }

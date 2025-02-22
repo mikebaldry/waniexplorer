@@ -1,45 +1,20 @@
 {
   "id": 8105,
   "type": "vocabulary",
-  "characters": "栽培",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "栽培"
+  },
   "primaryMeaning": "Cultivation",
+  "meaningMnemonic": "<kanji>Planting</kanji> seeds in land to <kanji>cultivate</kanji> crops is called <vocabulary>cultivation</vocabulary>.",
+  "primaryReading": "さいばい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Growing"
   ],
-  "primaryReading": "さいばい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2227,
-      "character": "栽",
-      "readings": [
-        "さい"
-      ]
-    },
-    {
-      "id": 2039,
-      "character": "培",
-      "readings": [
-        "ばい",
-        "つちか"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Planting</kanji> seeds in land to <kanji>cultivate</kanji> crops is called <vocabulary>cultivation</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%A0%BD%E5%9F%B9",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "栽",
-      "id": 2227,
-      "reading": "さい"
-    },
-    {
-      "type": "kanji",
-      "value": "培",
-      "id": 2039,
-      "reading": "ばい"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%A0%BD%E5%9F%B9"
+  }
 }

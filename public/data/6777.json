@@ -1,44 +1,18 @@
 {
   "id": 6777,
   "type": "vocabulary",
-  "characters": "縁談",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "縁談"
+  },
   "primaryMeaning": "Marriage Proposal",
-  "otherMeanings": [],
-  "primaryReading": "えんだん",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1874,
-      "character": "縁",
-      "readings": [
-        "えん",
-        "ねん",
-        "ふち"
-      ]
-    },
-    {
-      "id": 736,
-      "character": "談",
-      "readings": [
-        "だん"
-      ]
-    }
-  ],
   "meaningMnemonic": "Let's take the <kanji>edge</kanji> and <kanji>discuss</kanji> it. That edge is the edge of getting married. But, when you reach that edge, before you jump over, you have to do a <vocabulary>marriage proposal</vocabulary>.",
+  "primaryReading": "えんだん",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B8%81%E8%AB%87",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "縁",
-      "id": 1874,
-      "reading": "えん"
-    },
-    {
-      "type": "kanji",
-      "value": "談",
-      "id": 736,
-      "reading": "だん"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%B8%81%E8%AB%87"
+  }
 }

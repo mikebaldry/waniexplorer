@@ -1,0 +1,46 @@
+{
+  "id": 6118,
+  "type": "vocabulary",
+  "characters": "兆候",
+  "primaryMeaning": "Sign",
+  "otherMeanings": [
+    "Indication"
+  ],
+  "primaryReading": "ちょうこう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1666,
+      "character": "兆",
+      "readings": [
+        "ちょう",
+        "きざ"
+      ]
+    },
+    {
+      "id": 1262,
+      "character": "候",
+      "readings": [
+        "こう",
+        "そうろう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "An <kanji>omen</kanji> for the <kanji>climate</kanji> of things is a <vocabulary>sign</vocabulary> or <vocabulary>indication</vocabulary> of change. If there's an omen, there's going to be a sign as well.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%85%86%E5%80%99",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "兆",
+      "id": 1666,
+      "reading": "ちょう"
+    },
+    {
+      "type": "kanji",
+      "value": "候",
+      "id": 1262,
+      "reading": "こう"
+    }
+  ]
+}

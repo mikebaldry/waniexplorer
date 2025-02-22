@@ -1,26 +1,34 @@
 {
   "id": 1583,
   "type": "kanji",
-  "character": "舎",
-  "primaryMeaning": "Cottage",
-  "otherMeanings": [],
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "舎"
+  },
   "primaryReading": "しゃ",
   "readings": [
     {
-      "reading": "しゃ",
       "primary": true,
+      "reading": "しゃ",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "You got this <kanji>cottage</kanji> from a <reading>sha</reading>man (しゃ). In fact, everyone you know got their cottage from a shaman. One day you're just walking in the woods, and the next thing you know, a shaman is giving you the keys to their old cottage.",
+  "primaryMeaning": "Cottage",
+  "otherMeanings": [],
   "meaningMnemonic": "The kanji and the radical that look like this are exactly the same. They are both <kanji>cottage</kanji>.",
-  "vocabularyIds": [
-    5871,
-    5872,
-    5873
-  ],
-  "radicalIds": [
-    433
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%88%8E"
+  "readingMnemonic": "You got this <kanji>cottage</kanji> from a <reading>sha</reading>man (しゃ). In fact, everyone you know got their cottage from a shaman. One day you're just walking in the woods, and the next thing you know, a shaman is giving you the keys to their old cottage.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%88%8E"
+  },
+  "related": {
+    "radicals": [
+      433
+    ],
+    "vocabularies": [
+      5871,
+      5872,
+      5873
+    ]
+  }
 }

@@ -1,48 +1,20 @@
 {
   "id": 5150,
   "type": "vocabulary",
-  "characters": "金庫",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "金庫"
+  },
   "primaryMeaning": "A Safe",
+  "meaningMnemonic": "<kanji>Gold</kanji> <kanji>storage</kanji> is where you put your gold. You want it to be safe, so you put it in <vocabulary>a safe</vocabulary>.",
+  "primaryReading": "きんこ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Safe"
   ],
-  "primaryReading": "きんこ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 602,
-      "character": "金",
-      "readings": [
-        "きん",
-        "こん",
-        "かね",
-        "かな"
-      ]
-    },
-    {
-      "id": 1348,
-      "character": "庫",
-      "readings": [
-        "こ",
-        "くら"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Gold</kanji> <kanji>storage</kanji> is where you put your gold. You want it to be safe, so you put it in <vocabulary>a safe</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%87%91%E5%BA%AB",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "金",
-      "id": 602,
-      "reading": "きん"
-    },
-    {
-      "type": "kanji",
-      "value": "庫",
-      "id": 1348,
-      "reading": "こ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%87%91%E5%BA%AB"
+  }
 }

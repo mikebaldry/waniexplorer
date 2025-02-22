@@ -1,0 +1,37 @@
+{
+  "id": 3465,
+  "type": "vocabulary",
+  "characters": "当てる",
+  "primaryMeaning": "To Guess",
+  "otherMeanings": [
+    "To Hit",
+    "To Put"
+  ],
+  "primaryReading": "あてる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 571,
+      "character": "当",
+      "readings": [
+        "とう",
+        "あ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You know that the kanji 当 means <kanji>right</kanji> or <kanji>success</kanji>. So since this is a verb, you're doing right and success (which doesn't make much sense). Instead, you're guessing something and getting it right. So, this word means <vocabulary>to guess</vocabulary> something. Hopefully you don't have to guess too hard when it comes to the meaning of this word as well.",
+  "readingMnemonic": "The reading can be remembered via the word 当たる which you learned a few levels ago. Use that knowledge to remember that this word is read as あてる. The important part is the あ.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BD%93%E3%81%A6%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "当",
+      "id": 571,
+      "reading": "あ"
+    },
+    {
+      "type": "kana",
+      "value": "てる"
+    }
+  ]
+}

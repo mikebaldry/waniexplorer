@@ -1,48 +1,20 @@
 {
   "id": 7937,
   "type": "vocabulary",
-  "characters": "冷遇",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "冷遇"
+  },
   "primaryMeaning": "Cold Reception",
+  "meaningMnemonic": "When you are given <kanji>cool</kanji> <kanji>treatment</kanji> it's called a <vocabulary>cold reception</vocabulary> or <vocabulary>inhospitality</vocabulary>. This sucks.",
+  "primaryReading": "れいぐう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Inhospitality"
   ],
-  "primaryReading": "れいぐう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1350,
-      "character": "冷",
-      "readings": [
-        "れい",
-        "つめ",
-        "ひ",
-        "さ"
-      ]
-    },
-    {
-      "id": 2176,
-      "character": "遇",
-      "readings": [
-        "ぐう",
-        "あ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "When you are given <kanji>cool</kanji> <kanji>treatment</kanji> it's called a <vocabulary>cold reception</vocabulary> or <vocabulary>inhospitality</vocabulary>. This sucks.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%86%B7%E9%81%87",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "冷",
-      "id": 1350,
-      "reading": "れい"
-    },
-    {
-      "type": "kanji",
-      "value": "遇",
-      "id": 2176,
-      "reading": "ぐう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%86%B7%E9%81%87"
+  }
 }

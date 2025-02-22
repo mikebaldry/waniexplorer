@@ -1,0 +1,40 @@
+{
+  "id": 885,
+  "type": "kanji",
+  "character": "輪",
+  "primaryMeaning": "Wheel",
+  "otherMeanings": [
+    "Ring",
+    "Loop",
+    "Circle"
+  ],
+  "primaryReading": "りん",
+  "readings": [
+    {
+      "reading": "りん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "わ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Your <kanji>wheel</kanji> is... generally <reading>rin</reading>g (りん) shaped, so that's good.",
+  "meaningMnemonic": "For your <radical>car</radical> you use a <radical>hat</radical>, some <radical>ground</radical> and a <radical>bookshelf</radical> to build a new <kanji>wheel</kanji>. I mean, it's generally <kanji>ring</kanji> and <kanji>loop</kanji> shaped, it just needs to be a <kanji>circle</kanji>, so it should work, right?",
+  "vocabularyIds": [
+    3626,
+    3627,
+    3900,
+    3901,
+    8243
+  ],
+  "radicalIds": [
+    93,
+    8764,
+    1,
+    226
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%BC%AA"
+}

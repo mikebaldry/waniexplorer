@@ -1,49 +1,21 @@
 {
   "id": 7665,
   "type": "vocabulary",
-  "characters": "小柄",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "小柄"
+  },
   "primaryMeaning": "Small Build",
+  "meaningMnemonic": "Someone built from a <kanji>small</kanji> <kanji>pattern</kanji> has a <vocabulary>small build</vocabulary>. I know lots of little old ladies that were built from these small patterns.",
+  "primaryReading": "こがら",
+  "readingMnemonic": "The readings for this word are both kun'yomi readings. You've learned both of these readings by now so you should be able to read this on your own.",
   "otherMeanings": [
     "Small Stature",
     "Petite"
   ],
-  "primaryReading": "こがら",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 463,
-      "character": "小",
-      "readings": [
-        "しょう",
-        "ちい",
-        "こ",
-        "お"
-      ]
-    },
-    {
-      "id": 1823,
-      "character": "柄",
-      "readings": [
-        "がら",
-        "へい"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Someone built from a <kanji>small</kanji> <kanji>pattern</kanji> has a <vocabulary>small build</vocabulary>. I know lots of little old ladies that were built from these small patterns.",
-  "readingMnemonic": "The readings for this word are both kun'yomi readings. You've learned both of these readings by now so you should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B0%8F%E6%9F%84",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "小",
-      "id": 463,
-      "reading": "こ"
-    },
-    {
-      "type": "kanji",
-      "value": "柄",
-      "id": 1823,
-      "reading": "がら"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%B0%8F%E6%9F%84"
+  }
 }

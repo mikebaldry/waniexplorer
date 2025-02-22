@@ -1,46 +1,20 @@
 {
   "id": 4465,
   "type": "vocabulary",
-  "characters": "解決",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "解決"
+  },
   "primaryMeaning": "Solution",
+  "meaningMnemonic": "To <kanji>solve</kanji> the problem we <kanji>decide</kanji>d to come up with a <vocabulary>solution</vocabulary>, a way of <vocabulary>solving</vocabulary> the problem.",
+  "primaryReading": "かいけつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Solving"
   ],
-  "primaryReading": "かいけつ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1150,
-      "character": "解",
-      "readings": [
-        "かい",
-        "と"
-      ]
-    },
-    {
-      "id": 687,
-      "character": "決",
-      "readings": [
-        "けつ",
-        "き"
-      ]
-    }
-  ],
-  "meaningMnemonic": "To <kanji>solve</kanji> the problem we <kanji>decide</kanji>d to come up with a <vocabulary>solution</vocabulary>, a way of <vocabulary>solving</vocabulary> the problem.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A7%A3%E6%B1%BA",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "解",
-      "id": 1150,
-      "reading": "かい"
-    },
-    {
-      "type": "kanji",
-      "value": "決",
-      "id": 687,
-      "reading": "けつ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%A7%A3%E6%B1%BA"
+  }
 }

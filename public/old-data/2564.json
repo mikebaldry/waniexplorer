@@ -1,0 +1,35 @@
+{
+  "id": 2564,
+  "type": "vocabulary",
+  "characters": "四つ",
+  "primaryMeaning": "Four Things",
+  "otherMeanings": [],
+  "primaryReading": "よっつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 485,
+      "character": "四",
+      "readings": [
+        "し",
+        "よん",
+        "よ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Any number with a つ attached is a word that means \"NUMBER Things.\" In this case, it's <vocabulary>four things</vocabulary>.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can assume it uses the kun'yomi reading. The ん part of よん gets converted to a small っ though, so watch out for that.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%9B%9B%E3%81%A4",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "四",
+      "id": 485,
+      "reading": "よ"
+    },
+    {
+      "type": "kana",
+      "value": "つ"
+    }
+  ]
+}

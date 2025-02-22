@@ -1,37 +1,20 @@
 {
   "id": 4668,
   "type": "vocabulary",
-  "characters": "担ぐ",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "担ぐ"
+  },
   "primaryMeaning": "To Carry",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>carry</kanji> so the verb vocab version is <vocabulary>to carry</vocabulary>. This has to do with carrying something literal, unlike 担う which is not necessarily literal (you'll learn it later). And in this case, you carry it on your shoulder(s). You can remember that it's literal from the reading mnemonic, which has you carrying literal cats on your shoulders.",
+  "primaryReading": "かつぐ",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nYou love <vocabulary>to carry</vocabulary> things, especially <reading>cats</reading> (かつ). You hoist them up onto your shoulders and carry them all around town.",
   "otherMeanings": [
     "To Shoulder"
   ],
-  "primaryReading": "かつぐ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1217,
-      "character": "担",
-      "readings": [
-        "たん",
-        "にな",
-        "かつ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>carry</kanji> so the verb vocab version is <vocabulary>to carry</vocabulary>. This has to do with carrying something literal, unlike 担う which is not necessarily literal (you'll learn it later). And in this case, you carry it on your shoulder(s). You can remember that it's literal from the reading mnemonic, which has you carrying literal cats on your shoulders.",
-  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nYou love <vocabulary>to carry</vocabulary> things, especially <reading>cats</reading> (かつ). You hoist them up onto your shoulders and carry them all around town.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8B%85%E3%81%90",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "担",
-      "id": 1217,
-      "reading": "かつ"
-    },
-    {
-      "type": "kana",
-      "value": "ぐ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%8B%85%E3%81%90"
+  }
 }

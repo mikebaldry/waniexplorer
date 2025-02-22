@@ -1,51 +1,59 @@
 {
   "id": 579,
   "type": "kanji",
-  "character": "色",
-  "primaryMeaning": "Color",
-  "otherMeanings": [],
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "色"
+  },
   "primaryReading": "いろ",
   "readings": [
     {
-      "reading": "いろ",
       "primary": true,
+      "reading": "いろ",
       "type": "kunyomi"
     },
     {
-      "reading": "しき",
       "primary": false,
+      "reading": "しき",
       "type": "onyomi"
     },
     {
-      "reading": "しょく",
       "primary": false,
+      "reading": "しょく",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "You already have <kanji>color</kanji> on the mind because you know the meaning of this kanji, so think of something colorful about yourself. Imagine your <reading>ear</reading> (いろ) being a weird color... green, purple, red, whatever. Just make it really bright and standing out.",
+  "primaryMeaning": "Color",
+  "otherMeanings": [],
   "meaningMnemonic": "The <radical>color</radical> radical and <kanji>color</kanji> are the same in looks as well as in meaning.",
-  "vocabularyIds": [
-    2772,
-    2773,
-    2774,
-    2922,
-    2987,
-    3618,
-    3632,
-    4880,
-    5533,
-    5651,
-    6789,
-    6861,
-    7137,
-    7199,
-    7271,
-    8387,
-    9106,
-    9109
-  ],
-  "radicalIds": [
-    110
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%89%B2"
+  "readingMnemonic": "You already have <kanji>color</kanji> on the mind because you know the meaning of this kanji, so think of something colorful about yourself. Imagine your <reading>ear</reading> (いろ) being a weird color... green, purple, red, whatever. Just make it really bright and standing out.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%89%B2"
+  },
+  "related": {
+    "radicals": [
+      110
+    ],
+    "vocabularies": [
+      2772,
+      2773,
+      2774,
+      2922,
+      2987,
+      3618,
+      3632,
+      4880,
+      5533,
+      5651,
+      6789,
+      6861,
+      7137,
+      7199,
+      7271,
+      8387,
+      9106,
+      9109
+    ]
+  }
 }

@@ -1,0 +1,39 @@
+{
+  "id": 1270,
+  "type": "kanji",
+  "character": "豊",
+  "primaryMeaning": "Plentiful",
+  "otherMeanings": [
+    "Abundant"
+  ],
+  "primaryReading": "ほう",
+  "readings": [
+    {
+      "reading": "ほう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ゆた",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "とよ",
+      "primary": false,
+      "type": "nanori"
+    }
+  ],
+  "readingMnemonic": "Your music bean farts are too <kanji>plentiful</kanji> to leave your <reading>ho</reading>me (ほう). If you tried to leave your home you'd definitely fart all over people outside, so you keep your plentiful farts to yourself.",
+  "meaningMnemonic": "<radical>Music</radical> <radical>beans</radical> make farts <kanji>plentiful</kanji>. And lucky for you, you have an <kanji>abundant</kanji> stock of these music beans, so you can eat plenty of them to power your musical bean toots.\n",
+  "vocabularyIds": [
+    4814,
+    4815,
+    9076
+  ],
+  "radicalIds": [
+    185,
+    181
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%B1%8A"
+}

@@ -1,0 +1,48 @@
+{
+  "id": 2802,
+  "type": "vocabulary",
+  "characters": "青年",
+  "primaryMeaning": "Youth",
+  "otherMeanings": [
+    "Young Man",
+    "Young Adult"
+  ],
+  "primaryReading": "せいねん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 604,
+      "character": "青",
+      "readings": [
+        "せい",
+        "しょう",
+        "あお"
+      ]
+    },
+    {
+      "id": 546,
+      "character": "年",
+      "readings": [
+        "ねん",
+        "とし"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Someone who is in their <kanji>young</kanji> <kanji>year</kanji>s is a <vocabulary>youth</vocabulary>, or <vocabulary>young man</vocabulary>. \n\n青年 refers to <vocabulary>young adult</vocabulary>s, usually in their late teens to early twenties. The word is gender-neutral in legal or official contexts, but in everyday use 青年 usually refers to young men.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. That said, this reading can be easy to confuse with other similar words, so here's a mnemonic to help you out:\n\nThe <vocabulary>youth</vocabulary> like to play with <reading>sa</reading>bers (せい) and <reading>nen</reading>doroids (ねん). Think about it: as you leave childhood and become a 青年, you want more mature and dangerous hobbies, right? So you move on from plastic swords and soft toys to playing with real sabers and nendoroid action figures. You're such a cool 青年.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9D%92%E5%B9%B4",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "青",
+      "id": 604,
+      "reading": "せい"
+    },
+    {
+      "type": "kanji",
+      "value": "年",
+      "id": 546,
+      "reading": "ねん"
+    }
+  ]
+}

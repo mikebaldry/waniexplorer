@@ -1,36 +1,20 @@
 {
   "id": 5022,
   "type": "vocabulary",
-  "characters": "惑う",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "惑う"
+  },
   "primaryMeaning": "To Be At A Loss",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>misguided</kanji>, but the verb version is usually used to describe how you feel after being misguided — <vocabulary>to be at a loss</vocabulary>!\n\n惑う usually refers to being in a quandary or a state of confusion. Using 惑う is kind of old-fashioned, but other forms like 惑わせる and 逃げ惑う (to flee frantically) are still fairly common in modern Japanese.",
+  "primaryReading": "まどう",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: If you are going <vocabulary>to be at a loss</vocabulary> you're going to be <reading>mad</reading> (まど) about it, most likely. Nobody likes to feel at a loss, so imagine how mad you feel when you are.",
   "otherMeanings": [
     "To Be Bewildered"
   ],
-  "primaryReading": "まどう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1326,
-      "character": "惑",
-      "readings": [
-        "わく",
-        "まど"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>misguided</kanji>, but the verb version is usually used to describe how you feel after being misguided — <vocabulary>to be at a loss</vocabulary>!\n\n惑う usually refers to being in a quandary or a state of confusion. Using 惑う is kind of old-fashioned, but other forms like 惑わせる and 逃げ惑う (to flee frantically) are still fairly common in modern Japanese.",
-  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: If you are going <vocabulary>to be at a loss</vocabulary> you're going to be <reading>mad</reading> (まど) about it, most likely. Nobody likes to feel at a loss, so imagine how mad you feel when you are.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%83%91%E3%81%86",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "惑",
-      "id": 1326,
-      "reading": "まど"
-    },
-    {
-      "type": "kana",
-      "value": "う"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%83%91%E3%81%86"
+  }
 }

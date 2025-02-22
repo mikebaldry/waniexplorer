@@ -1,37 +1,45 @@
 {
   "id": 755,
   "type": "kanji",
-  "character": "飲",
-  "primaryMeaning": "Drink",
-  "otherMeanings": [],
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "飲"
+  },
   "primaryReading": "の",
   "readings": [
     {
-      "reading": "の",
       "primary": true,
+      "reading": "の",
       "type": "kunyomi"
     },
     {
-      "reading": "いん",
       "primary": false,
+      "reading": "いん",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "You get desperate for a <kanji>drink</kanji> and put some <reading>no</reading>ri (の) seaweed in a blender, trying to create a drink of your own.",
+  "primaryMeaning": "Drink",
+  "otherMeanings": [],
   "meaningMnemonic": "You can <radical>eat</radical> all you want, but you'll still <radical>lack</radical> something to <kanji>drink</kanji>. You can't live just from eating, you have to drink things too!",
-  "vocabularyIds": [
-    3192,
-    3516,
-    3518,
-    3548,
-    3895,
-    7536,
-    9018,
-    9019
-  ],
-  "radicalIds": [
-    139,
-    142
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%A3%B2"
+  "readingMnemonic": "You get desperate for a <kanji>drink</kanji> and put some <reading>no</reading>ri (の) seaweed in a blender, trying to create a drink of your own.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%A3%B2"
+  },
+  "related": {
+    "radicals": [
+      139,
+      142
+    ],
+    "vocabularies": [
+      3192,
+      3516,
+      3518,
+      3548,
+      3895,
+      7536,
+      9018,
+      9019
+    ]
+  }
 }

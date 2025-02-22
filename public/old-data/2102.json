@@ -1,0 +1,32 @@
+{
+  "id": 2102,
+  "type": "kanji",
+  "character": "翻",
+  "primaryMeaning": "Flip",
+  "otherMeanings": [],
+  "primaryReading": "ほん",
+  "readings": [
+    {
+      "reading": "ほん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ひるがえ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You're pretty good at your <kanji>flip</kanji> technique, but you're not that good. You really need to practice and <reading>hone</reading> (ほん) your skills and get better.",
+  "meaningMnemonic": "You have a <radical>number</radical>ed <radical>feather</radical>. Pick your favorite number and put it on the feather. Then, put the numbered feather on your head. When you put it on, you're able to <kanji>flip</kanji> and <kanji>flip</kanji> over and over.",
+  "vocabularyIds": [
+    7395,
+    7396,
+    7397
+  ],
+  "radicalIds": [
+    280,
+    213
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%BF%BB"
+}

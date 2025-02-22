@@ -1,32 +1,40 @@
 {
   "id": 1996,
   "type": "kanji",
-  "character": "恨",
-  "primaryMeaning": "Grudge",
-  "otherMeanings": [],
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "恨"
+  },
   "primaryReading": "こん",
   "readings": [
     {
-      "reading": "こん",
       "primary": true,
+      "reading": "こん",
       "type": "onyomi"
     },
     {
-      "reading": "うら",
       "primary": false,
+      "reading": "うら",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "If you see one of these <kanji>grudge</kanji> trees, it's probably inhabited by the soul of a <reading>con</reading>dor (こん). Humans tend to kill condors and take their trees away to build houses and make toilet paper. So condors hold pretty bad grudges against us, and so their souls end up stuck in a lot of trees.",
+  "primaryMeaning": "Grudge",
+  "otherMeanings": [],
   "meaningMnemonic": "A <radical>soul</radical> will only inhabit a <radical>root</radical> if it's holding a <kanji>grudge</kanji>. Have you ever seen a nice, haunted tree? No! They're always angry and trying to get someone back for something.",
-  "vocabularyIds": [
-    7103,
-    7104,
-    7433
-  ],
-  "radicalIds": [
-    232,
-    196
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%81%A8"
+  "readingMnemonic": "If you see one of these <kanji>grudge</kanji> trees, it's probably inhabited by the soul of a <reading>con</reading>dor (こん). Humans tend to kill condors and take their trees away to build houses and make toilet paper. So condors hold pretty bad grudges against us, and so their souls end up stuck in a lot of trees.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%81%A8"
+  },
+  "related": {
+    "radicals": [
+      232,
+      196
+    ],
+    "vocabularies": [
+      7103,
+      7104,
+      7433
+    ]
+  }
 }

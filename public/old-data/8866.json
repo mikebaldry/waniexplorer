@@ -1,0 +1,44 @@
+{
+  "id": 8866,
+  "type": "vocabulary",
+  "characters": "諦観",
+  "primaryMeaning": "Resignation",
+  "otherMeanings": [],
+  "primaryReading": "ていかん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 8859,
+      "character": "諦",
+      "readings": [
+        "あきら",
+        "てい"
+      ]
+    },
+    {
+      "id": 1175,
+      "character": "観",
+      "readings": [
+        "かん",
+        "み"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you <kanji>give up</kanji> and just try to enjoy the <kanji>view</kanji>, that's <vocabulary>resignation</vocabulary>. You know things aren't going well, and you know you can't do anything about it now, so you resign yourself to what's to come.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You didn't learn this reading for 諦, so here's a mnemonic to help you:\n\nIn <vocabulary>resignation</vocabulary>, you throw all of your <reading>ta</reading>ter (てい) tots onto the ground. Look at the tater tots at your feet. Now they're lying scattered there, a symbol of your feelings of resignation.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%AB%A6%E8%A6%B3",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "諦",
+      "id": 8859,
+      "reading": "てい"
+    },
+    {
+      "type": "kanji",
+      "value": "観",
+      "id": 1175,
+      "reading": "かん"
+    }
+  ]
+}

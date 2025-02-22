@@ -1,47 +1,21 @@
 {
   "id": 7377,
   "type": "vocabulary",
-  "characters": "名簿",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "名簿"
+  },
   "primaryMeaning": "Register Of Names",
+  "meaningMnemonic": "A <kanji>name</kanji> <kanji>record book</kanji> is a book that contains names. That is a <vocabulary>register of names</vocabulary> or a <vocabulary>list of names</vocabulary>. Is your name on the list?",
+  "primaryReading": "めいぼ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "List Of Names",
     "Roll"
   ],
-  "primaryReading": "めいぼ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 544,
-      "character": "名",
-      "readings": [
-        "めい",
-        "みょう",
-        "な"
-      ]
-    },
-    {
-      "id": 2093,
-      "character": "簿",
-      "readings": [
-        "ぼ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>name</kanji> <kanji>record book</kanji> is a book that contains names. That is a <vocabulary>register of names</vocabulary> or a <vocabulary>list of names</vocabulary>. Is your name on the list?",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%90%8D%E7%B0%BF",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "名",
-      "id": 544,
-      "reading": "めい"
-    },
-    {
-      "type": "kanji",
-      "value": "簿",
-      "id": 2093,
-      "reading": "ぼ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%90%8D%E7%B0%BF"
+  }
 }

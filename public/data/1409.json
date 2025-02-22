@@ -1,35 +1,43 @@
 {
   "id": 1409,
   "type": "kanji",
-  "character": "烈",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "烈"
+  },
+  "primaryReading": "れつ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "れつ",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "はげ",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Violent",
   "otherMeanings": [
     "Intense"
   ],
-  "primaryReading": "れつ",
-  "readings": [
-    {
-      "reading": "れつ",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "はげ",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "When someone gets <kanji>violent</kanji> or <kanji>intense</kanji>, they always yell \"<reading>Let's</reading> (れつ) get violent and intense!\"",
   "meaningMnemonic": "When a <radical>yakuza</radical>'s <radical>knife</radical> <radical>boil</radical>s, you know something very <kanji>violent</kanji> and <kanji>intense</kanji> is about to happen.",
-  "vocabularyIds": [
-    5251,
-    5252,
-    5253
-  ],
-  "radicalIds": [
-    132,
-    128,
-    131
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%83%88"
+  "readingMnemonic": "When someone gets <kanji>violent</kanji> or <kanji>intense</kanji>, they always yell \"<reading>Let's</reading> (れつ) get violent and intense!\"",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%83%88"
+  },
+  "related": {
+    "radicals": [
+      132,
+      128,
+      131
+    ],
+    "vocabularies": [
+      5251,
+      5252,
+      5253
+    ]
+  }
 }

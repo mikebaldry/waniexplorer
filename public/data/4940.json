@@ -1,30 +1,18 @@
 {
   "id": 4940,
   "type": "vocabulary",
-  "characters": "汗",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "汗"
+  },
   "primaryMeaning": "Sweat",
-  "otherMeanings": [],
-  "primaryReading": "あせ",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1308,
-      "character": "汗",
-      "readings": [
-        "あせ",
-        "かん"
-      ]
-    }
-  ],
   "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "あせ",
   "readingMnemonic": "The reading is the same one you learned with the kanji. Also, your <vocabulary>sweat</vocabulary> smells like <reading>ass</reading> (あせ).",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B1%97",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "汗",
-      "id": 1308,
-      "reading": "あせ"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B1%97"
+  }
 }

@@ -1,0 +1,49 @@
+{
+  "id": 4209,
+  "type": "vocabulary",
+  "characters": "容易",
+  "primaryMeaning": "Ease",
+  "otherMeanings": [
+    "Easily",
+    "Easy",
+    "Simple"
+  ],
+  "primaryReading": "ようい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1061,
+      "character": "容",
+      "readings": [
+        "よう",
+        "い"
+      ]
+    },
+    {
+      "id": 1063,
+      "character": "易",
+      "readings": [
+        "い",
+        "えき",
+        "やさ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>form</kanji> in front of you is <kanji>easy</kanji>. Whatever it is, you'll be able to do it with <vocabulary>ease</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AE%B9%E6%98%93",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "容",
+      "id": 1061,
+      "reading": "よう"
+    },
+    {
+      "type": "kanji",
+      "value": "易",
+      "id": 1063,
+      "reading": "い"
+    }
+  ]
+}

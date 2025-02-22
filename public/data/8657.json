@@ -1,46 +1,18 @@
 {
   "id": 8657,
   "type": "vocabulary",
-  "characters": "醜聞",
+  "level": 60,
+  "characters": {
+    "type": "text",
+    "value": "醜聞"
+  },
   "primaryMeaning": "Scandal",
-  "otherMeanings": [],
-  "primaryReading": "しゅうぶん",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2448,
-      "character": "醜",
-      "readings": [
-        "しゅう",
-        "しこ",
-        "みにく"
-      ]
-    },
-    {
-      "id": 763,
-      "character": "聞",
-      "readings": [
-        "ぶん",
-        "もん",
-        "き"
-      ]
-    }
-  ],
   "meaningMnemonic": "What do you <kanji>hear</kanji> that is really <kanji>ugly</kanji>? A <vocabulary>scandal</vocabulary>. Scandals are the ugliest topics for gossip.",
+  "primaryReading": "しゅうぶん",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%86%9C%E8%81%9E",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "醜",
-      "id": 2448,
-      "reading": "しゅう"
-    },
-    {
-      "type": "kanji",
-      "value": "聞",
-      "id": 763,
-      "reading": "ぶん"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%86%9C%E8%81%9E"
+  }
 }

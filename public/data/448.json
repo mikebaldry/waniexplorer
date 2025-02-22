@@ -1,42 +1,50 @@
 {
   "id": 448,
   "type": "kanji",
-  "character": "十",
-  "primaryMeaning": "Ten",
-  "otherMeanings": [],
+  "level": 1,
+  "characters": {
+    "type": "text",
+    "value": "十"
+  },
   "primaryReading": "じゅう",
   "readings": [
     {
-      "reading": "じゅう",
       "primary": true,
+      "reading": "じゅう",
       "type": "onyomi"
     },
     {
-      "reading": "とお",
       "primary": false,
+      "reading": "とお",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "This cross in particular has <kanji>ten</kanji> <reading>jew</reading>els (じゅう) on it. Two on each arm and two in the middle. That's ten jewels!",
+  "primaryMeaning": "Ten",
+  "otherMeanings": [],
   "meaningMnemonic": "This <radical>cross</radical> is the symbol for the number <kanji>ten</kanji>. A good way to remember this is to think about all the religions that have crosses and also important sets of tens. ",
-  "vocabularyIds": [
-    2485,
-    2524,
-    2530,
-    2543,
-    2566,
-    2590,
-    2630,
-    3237,
-    3374,
-    4253,
-    6992,
-    7565,
-    7616,
-    9255
-  ],
-  "radicalIds": [
-    15
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%8D%81"
+  "readingMnemonic": "This cross in particular has <kanji>ten</kanji> <reading>jew</reading>els (じゅう) on it. Two on each arm and two in the middle. That's ten jewels!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%8D%81"
+  },
+  "related": {
+    "radicals": [
+      15
+    ],
+    "vocabularies": [
+      2485,
+      2524,
+      2530,
+      2543,
+      2566,
+      2590,
+      2630,
+      3237,
+      3374,
+      4253,
+      6992,
+      7565,
+      7616,
+      9255
+    ]
+  }
 }

@@ -1,12 +1,15 @@
 {
   "id": 3,
   "type": "radical",
-  "primaryMeaning": "Drop",
-  "otherMeanings": [],
-  "character": {
+  "level": 1,
+  "characters": {
     "type": "text",
     "value": "丶"
   },
+  "primaryMeaning": "Drop",
+  "otherMeanings": [],
   "meaningMnemonic": "This little radical is a <radical>drop</radical>, maybe of water or some other liquid. Notice how it's only one drop? Sometimes radicals and kanji will have more than one drop in them, but don't let that throw you off.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/drop"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/drop"
+  }
 }

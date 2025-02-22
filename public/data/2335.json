@@ -1,43 +1,51 @@
 {
   "id": 2335,
   "type": "kanji",
-  "character": "伐",
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "伐"
+  },
+  "primaryReading": "ばつ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ばつ",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "う",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "き",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "そむ",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Fell",
   "otherMeanings": [
     "Attack"
   ],
-  "primaryReading": "ばつ",
-  "readings": [
-    {
-      "reading": "ばつ",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "う",
-      "primary": false,
-      "type": "kunyomi"
-    },
-    {
-      "reading": "き",
-      "primary": false,
-      "type": "kunyomi"
-    },
-    {
-      "reading": "そむ",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "As you <kanji>attack</kanji> the innocent trees with your chains and sticks, a bunch of <reading>bats</reading> (ばつ) come flying out and attack YOU! You have your own kind of bats so now you're all trying to fell the bats with YOUR bats!",
   "meaningMnemonic": "If the <radical>leader</radical> of your gang is a <radical>drunkard</radical> he'll try to have you <kanji>fell</kanji> trees thinking they're rival gang members. You all know they aren't but you can't argue with your leader, especially if he's drunk. Go ahead and <kanji>attack</kanji> the trees anyway.",
-  "vocabularyIds": [
-    8344,
-    8345
-  ],
-  "radicalIds": [
-    75,
-    194
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E4%BC%90"
+  "readingMnemonic": "As you <kanji>attack</kanji> the innocent trees with your chains and sticks, a bunch of <reading>bats</reading> (ばつ) come flying out and attack YOU! You have your own kind of bats so now you're all trying to fell the bats with YOUR bats!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E4%BC%90"
+  },
+  "related": {
+    "radicals": [
+      75,
+      194
+    ],
+    "vocabularies": [
+      8344,
+      8345
+    ]
+  }
 }

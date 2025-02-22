@@ -1,35 +1,43 @@
 {
   "id": 1301,
   "type": "kanji",
-  "character": "徴",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "徴"
+  },
+  "primaryReading": "ちょう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ちょう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "しるし",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Indication",
   "otherMeanings": [
     "Sign"
   ],
-  "primaryReading": "ちょう",
-  "readings": [
-    {
-      "reading": "ちょう",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "しるし",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "When you spot a loitering mountain king in the winter, you know it's an <kanji>indication</kanji> that soon Mrs. <reading>Chou</reading> (ちょう) will appear. It's like a Groundhog's Day kind of situation, but instead it means Mrs. Chou is about to come out, perhaps early for the season.",
   "meaningMnemonic": "A <radical>loiter</radical>ing <radical>mountain</radical> <radical>king</radical> in the <radical>winter</radical> is an <kanji>indication</kanji> or <kanji>sign</kanji> of something to come.",
-  "vocabularyIds": [
-    4917,
-    4918
-  ],
-  "radicalIds": [
-    99,
-    20,
-    48,
-    60
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%BE%B4"
+  "readingMnemonic": "When you spot a loitering mountain king in the winter, you know it's an <kanji>indication</kanji> that soon Mrs. <reading>Chou</reading> (ちょう) will appear. It's like a Groundhog's Day kind of situation, but instead it means Mrs. Chou is about to come out, perhaps early for the season.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%BE%B4"
+  },
+  "related": {
+    "radicals": [
+      99,
+      20,
+      48,
+      60
+    ],
+    "vocabularies": [
+      4917,
+      4918
+    ]
+  }
 }

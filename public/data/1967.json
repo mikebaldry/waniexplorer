@@ -1,34 +1,42 @@
 {
   "id": 1967,
   "type": "kanji",
-  "character": "帝",
-  "primaryMeaning": "Sovereign",
-  "otherMeanings": [],
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "帝"
+  },
   "primaryReading": "てい",
   "readings": [
     {
-      "reading": "てい",
       "primary": true,
+      "reading": "てい",
       "type": "onyomi"
     },
     {
-      "reading": "みかど",
       "primary": false,
+      "reading": "みかど",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "As the <kanji>sovereign</kanji> ruler of this bathroom, you must choose a monogram to represent your rule. For this, you choose the symbol of the food that passes through you the most: The mighty <reading>ta</reading>ter (てい) tot!",
+  "primaryMeaning": "Sovereign",
+  "otherMeanings": [],
   "meaningMnemonic": "You <radical>stand</radical> your <radical>towel</radical> up so everyone can see it. This announces that you are the <kanji>sovereign</kanji> ruler of this bathroom.",
-  "vocabularyIds": [
-    7027,
-    7028,
-    7029,
-    7030,
-    7153
-  ],
-  "radicalIds": [
-    55,
-    102
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%B8%9D"
+  "readingMnemonic": "As the <kanji>sovereign</kanji> ruler of this bathroom, you must choose a monogram to represent your rule. For this, you choose the symbol of the food that passes through you the most: The mighty <reading>ta</reading>ter (てい) tot!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%B8%9D"
+  },
+  "related": {
+    "radicals": [
+      55,
+      102
+    ],
+    "vocabularies": [
+      7027,
+      7028,
+      7029,
+      7030,
+      7153
+    ]
+  }
 }

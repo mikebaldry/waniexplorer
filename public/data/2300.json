@@ -1,35 +1,43 @@
 {
   "id": 2300,
   "type": "kanji",
-  "character": "呉",
-  "primaryMeaning": "Give",
-  "otherMeanings": [],
+  "level": 56,
+  "characters": {
+    "type": "text",
+    "value": "呉"
+  },
   "primaryReading": "ご",
   "readings": [
     {
-      "reading": "ご",
       "primary": true,
+      "reading": "ご",
       "type": "onyomi"
     },
     {
-      "reading": "くれ",
       "primary": false,
+      "reading": "くれ",
       "type": "kunyomi"
     },
     {
-      "reading": "く",
       "primary": false,
+      "reading": "く",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "<kanji>Give</kanji> food to your new friend <reading>Go</reading>dzilla (ご) with the catapult! You and Godzilla understand each other now. He's just hungry.",
+  "primaryMeaning": "Give",
+  "otherMeanings": [],
   "meaningMnemonic": "You've learned that you can <radical>catapult</radical> things to <kanji>give</kanji> them to other people! Don't catapult rocks at buildings and walls, catapult gifts to the people you love.",
-  "vocabularyIds": [
-    8263,
-    8264
-  ],
-  "radicalIds": [
-    348
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%91%89"
+  "readingMnemonic": "<kanji>Give</kanji> food to your new friend <reading>Go</reading>dzilla (ご) with the catapult! You and Godzilla understand each other now. He's just hungry.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%91%89"
+  },
+  "related": {
+    "radicals": [
+      348
+    ],
+    "vocabularies": [
+      8263,
+      8264
+    ]
+  }
 }

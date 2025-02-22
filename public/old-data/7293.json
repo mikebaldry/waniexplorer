@@ -1,0 +1,51 @@
+{
+  "id": 7293,
+  "type": "vocabulary",
+  "characters": "唯一",
+  "primaryMeaning": "Only",
+  "otherMeanings": [
+    "Sole",
+    "Unique"
+  ],
+  "primaryReading": "ゆいつ",
+  "otherReadings": [
+    "ゆいいつ"
+  ],
+  "kanji": [
+    {
+      "id": 2061,
+      "character": "唯",
+      "readings": [
+        "ゆい",
+        "ただ"
+      ]
+    },
+    {
+      "id": 440,
+      "character": "一",
+      "readings": [
+        "いち",
+        "いつ",
+        "ひと",
+        "かず"
+      ]
+    }
+  ],
+  "meaningMnemonic": "It's <kanji>solely</kanji> <kanji>one</kanji>. The <vocabulary>only</vocabulary> one. The <vocabulary>sole</vocabulary> one. Totally <vocabulary>unique</vocabulary>.",
+  "readingMnemonic": "The reading for 唯 is the same as the one you learned with the kanji, though there is also a shortened version which has ゆい shortened to ゆ. The reading for 一 is the one you learned with 統一, so you should be able to read it already!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%94%AF%E4%B8%80",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "唯",
+      "id": 2061,
+      "reading": "ゆい"
+    },
+    {
+      "type": "kanji",
+      "value": "一",
+      "id": 440,
+      "reading": null
+    }
+  ]
+}

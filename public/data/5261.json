@@ -1,53 +1,18 @@
 {
   "id": 5261,
   "type": "vocabulary",
-  "characters": "痛み止め",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "痛み止め"
+  },
   "primaryMeaning": "Painkiller",
-  "otherMeanings": [],
-  "primaryReading": "いたみどめ",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1318,
-      "character": "痛",
-      "readings": [
-        "つう",
-        "いた"
-      ]
-    },
-    {
-      "id": 514,
-      "character": "止",
-      "readings": [
-        "し",
-        "と",
-        "や"
-      ]
-    }
-  ],
   "meaningMnemonic": "痛み is \"pain.\" 止める is \"to stop.\" What stops pain if you use it? How about a <vocabulary>painkiller</vocabulary>.",
+  "primaryReading": "いたみどめ",
   "readingMnemonic": "The reading is 痛み and 止める put together into one word. Not too painful, right? Just remember the rendaku on the ど.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%97%9B%E3%81%BF%E6%AD%A2%E3%82%81",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "痛",
-      "id": 1318,
-      "reading": "いた"
-    },
-    {
-      "type": "kana",
-      "value": "み"
-    },
-    {
-      "type": "kanji",
-      "value": "止",
-      "id": 514,
-      "reading": "ど"
-    },
-    {
-      "type": "kana",
-      "value": "め"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%97%9B%E3%81%BF%E6%AD%A2%E3%82%81"
+  }
 }

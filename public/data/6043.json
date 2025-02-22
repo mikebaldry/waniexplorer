@@ -1,47 +1,18 @@
 {
   "id": 6043,
   "type": "vocabulary",
-  "characters": "紹介する",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "紹介する"
+  },
   "primaryMeaning": "To Introduce",
-  "otherMeanings": [],
-  "primaryReading": "しょうかいする",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1586,
-      "character": "紹",
-      "readings": [
-        "しょう"
-      ]
-    },
-    {
-      "id": 1587,
-      "character": "介",
-      "readings": [
-        "かい",
-        "すけ"
-      ]
-    }
-  ],
   "meaningMnemonic": "A 紹介 is an introduction. So the verb version is <vocabulary>to introduce</vocabulary>.",
+  "primaryReading": "しょうかいする",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Helps that I introduced introduction to you earlier.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B4%B9%E4%BB%8B%E3%81%99%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "紹",
-      "id": 1586,
-      "reading": "しょう"
-    },
-    {
-      "type": "kanji",
-      "value": "介",
-      "id": 1587,
-      "reading": "かい"
-    },
-    {
-      "type": "kana",
-      "value": "する"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%B4%B9%E4%BB%8B%E3%81%99%E3%82%8B"
+  }
 }

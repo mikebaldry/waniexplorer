@@ -1,37 +1,21 @@
 {
   "id": 5338,
   "type": "vocabulary",
-  "characters": "照れる",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "照れる"
+  },
   "primaryMeaning": "To Feel Shy",
+  "meaningMnemonic": "Your feel as if your cheeks are <kanji>illuminate</kanji>d when you start <vocabulary>to feel shy</vocabulary>. Probably illuminated in red, which is why this also means <vocabulary>to blush</vocabulary>. \n\n照れる means <vocabulary>to be bashful</vocabulary>, often in situations where the embarrassment stems from modesty rather than serious discomfort. It's used to describe feeling self-conscious in an endearing way, such as blushing due to praise, attention, or being teased in a lighthearted manner.",
+  "primaryReading": "てれる",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: The thing you feel the most embarrassed about is your <reading>手</reading> (て). It's all blue and scary looking.",
   "otherMeanings": [
     "To Blush",
     "To Be Bashful"
   ],
-  "primaryReading": "てれる",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1419,
-      "character": "照",
-      "readings": [
-        "しょう",
-        "て"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Your feel as if your cheeks are <kanji>illuminate</kanji>d when you start <vocabulary>to feel shy</vocabulary>. Probably illuminated in red, which is why this also means <vocabulary>to blush</vocabulary>. \n\n照れる means <vocabulary>to be bashful</vocabulary>, often in situations where the embarrassment stems from modesty rather than serious discomfort. It's used to describe feeling self-conscious in an endearing way, such as blushing due to praise, attention, or being teased in a lighthearted manner.",
-  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: The thing you feel the most embarrassed about is your <reading>手</reading> (て). It's all blue and scary looking.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%85%A7%E3%82%8C%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "照",
-      "id": 1419,
-      "reading": "て"
-    },
-    {
-      "type": "kana",
-      "value": "れる"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%85%A7%E3%82%8C%E3%82%8B"
+  }
 }

@@ -1,24 +1,32 @@
 {
   "id": 534,
   "type": "kanji",
-  "character": "央",
-  "primaryMeaning": "Center",
-  "otherMeanings": [],
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "央"
+  },
   "primaryReading": "おう",
   "readings": [
     {
-      "reading": "おう",
       "primary": true,
+      "reading": "おう",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "This is the <kanji>center</kanji> of the <reading>王</reading>'s (おう) head so you have to be extra careful not to look anywhere else.",
+  "primaryMeaning": "Center",
+  "otherMeanings": [],
   "meaningMnemonic": "The radical for <radical>center</radical> and the kanji for <kanji>center</kanji> are exactly the same.",
-  "vocabularyIds": [
-    2726
-  ],
-  "radicalIds": [
-    231
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%A4%AE"
+  "readingMnemonic": "This is the <kanji>center</kanji> of the <reading>王</reading>'s (おう) head so you have to be extra careful not to look anywhere else.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%A4%AE"
+  },
+  "related": {
+    "radicals": [
+      231
+    ],
+    "vocabularies": [
+      2726
+    ]
+  }
 }

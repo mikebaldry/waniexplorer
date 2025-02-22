@@ -1,38 +1,46 @@
 {
   "id": 1588,
   "type": "kanji",
-  "character": "己",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "己"
+  },
+  "primaryReading": "こ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "こ",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "き",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "おのれ",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Oneself",
   "otherMeanings": [
     "Self"
   ],
-  "primaryReading": "こ",
-  "readings": [
-    {
-      "reading": "こ",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "き",
-      "primary": false,
-      "type": "onyomi"
-    },
-    {
-      "reading": "おのれ",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "<kanji>Oneself</kanji>. Who only thinks of oneself? Every <reading>子</reading> (こ) in the world.",
   "meaningMnemonic": "The kanji and the radical are the same, so remembering the meaning of this kanji is as simple as making sure you know the radical for <radical>oneself</radical> first! If you know the radical, you know this kanji means <kanji>oneself</kanji> as well.",
-  "vocabularyIds": [
-    5881,
-    5882,
-    6042
-  ],
-  "radicalIds": [
-    228
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%B7%B1"
+  "readingMnemonic": "<kanji>Oneself</kanji>. Who only thinks of oneself? Every <reading>子</reading> (こ) in the world.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%B7%B1"
+  },
+  "related": {
+    "radicals": [
+      228
+    ],
+    "vocabularies": [
+      5881,
+      5882,
+      6042
+    ]
+  }
 }

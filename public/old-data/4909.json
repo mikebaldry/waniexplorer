@@ -1,0 +1,67 @@
+{
+  "id": 4909,
+  "type": "vocabulary",
+  "characters": "人差し指",
+  "primaryMeaning": "Index Finger",
+  "otherMeanings": [
+    "Pointer Finger"
+  ],
+  "primaryReading": "ひとさしゆび",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 444,
+      "character": "人",
+      "readings": [
+        "にん",
+        "じん",
+        "ひと",
+        "と"
+      ]
+    },
+    {
+      "id": 1235,
+      "character": "差",
+      "readings": [
+        "さ",
+        "さ"
+      ]
+    },
+    {
+      "id": 797,
+      "character": "指",
+      "readings": [
+        "し",
+        "ゆび",
+        "さ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Your <kanji>person</kanji> <kanji>distinction</kanji> <kanji>finger</kanji> is the finger you use to point at people to distinguish them from other people. This is your <vocabulary>pointer finger</vocabulary>... your <vocabulary>index finger</vocabulary>.",
+  "readingMnemonic": "The readings are all the kun'yomi readings of everything. The word 人, the word 差す, and the word 指. Take your time with this one, it's kind of weird.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BA%BA%E5%B7%AE%E3%81%97%E6%8C%87",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "人",
+      "id": 444,
+      "reading": "ひと"
+    },
+    {
+      "type": "kanji",
+      "value": "差",
+      "id": 1235,
+      "reading": "さ"
+    },
+    {
+      "type": "kana",
+      "value": "し"
+    },
+    {
+      "type": "kanji",
+      "value": "指",
+      "id": 797,
+      "reading": "ゆび"
+    }
+  ]
+}

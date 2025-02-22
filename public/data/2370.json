@@ -1,50 +1,58 @@
 {
   "id": 2370,
   "type": "kanji",
-  "character": "戯",
-  "primaryMeaning": "Play",
-  "otherMeanings": [],
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "戯"
+  },
   "primaryReading": "ぎ",
   "readings": [
     {
-      "reading": "ぎ",
       "primary": true,
+      "reading": "ぎ",
       "type": "onyomi"
     },
     {
+      "primary": false,
       "reading": "げ",
-      "primary": false,
       "type": "onyomi"
     },
     {
+      "primary": false,
       "reading": "ざ",
-      "primary": false,
       "type": "kunyomi"
     },
     {
+      "primary": false,
       "reading": "じゃ",
-      "primary": false,
       "type": "kunyomi"
     },
     {
-      "reading": "たわむ",
       "primary": false,
+      "reading": "たわむ",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "If you aren't the tiger, watching it <kanji>play</kanji> is a little like watching someone's head get cut off with a <reading>gui</reading>llotine (ぎ). In fact, you don't want to watch it play at all anymore.",
+  "primaryMeaning": "Play",
+  "otherMeanings": [],
   "meaningMnemonic": "Throw a <radical>drunkard</radical> in a cage with a <radical>tiger</radical> and some <radical>spikes</radical> and the tiger will have the time of its life <kanji>play</kanji>ing with them! Think of all the tiger play time possibilities! ",
-  "vocabularyIds": [
-    8461,
-    8462,
-    8463,
-    8621,
-    8622
-  ],
-  "radicalIds": [
-    254,
-    8768,
-    194
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%88%AF"
+  "readingMnemonic": "If you aren't the tiger, watching it <kanji>play</kanji> is a little like watching someone's head get cut off with a <reading>gui</reading>llotine (ぎ). In fact, you don't want to watch it play at all anymore.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%88%AF"
+  },
+  "related": {
+    "radicals": [
+      254,
+      8768,
+      194
+    ],
+    "vocabularies": [
+      8461,
+      8462,
+      8463,
+      8621,
+      8622
+    ]
+  }
 }

@@ -1,36 +1,44 @@
 {
   "id": 1504,
   "type": "kanji",
-  "character": "込",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "込"
+  },
+  "primaryReading": "こ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "こ",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Into",
   "otherMeanings": [
     "Included"
   ],
-  "primaryReading": "こ",
-  "readings": [
-    {
-      "reading": "こ",
-      "primary": true,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "Once you’ve gone <kanji>into</kanji> this place, what do you see? Your <reading>子</reading> (こ)!",
   "meaningMnemonic": "If you get on your <radical>scooter</radical> and <radical>enter</radical> somewhere, you’re going <kanji>into</kanji> that place.",
-  "vocabularyIds": [
-    5729,
-    5730,
-    5732,
-    5733,
-    5738,
-    6232,
-    6560,
-    6937,
-    7442,
-    9332
-  ],
-  "radicalIds": [
-    114,
-    12
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%BE%BC"
+  "readingMnemonic": "Once you’ve gone <kanji>into</kanji> this place, what do you see? Your <reading>子</reading> (こ)!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%BE%BC"
+  },
+  "related": {
+    "radicals": [
+      114,
+      12
+    ],
+    "vocabularies": [
+      5729,
+      5730,
+      5732,
+      5733,
+      5738,
+      6232,
+      6560,
+      6937,
+      7442,
+      9332
+    ]
+  }
 }

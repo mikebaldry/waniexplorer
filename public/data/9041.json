@@ -1,58 +1,18 @@
 {
   "id": 9041,
   "type": "vocabulary",
-  "characters": "岡山城",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "岡山城"
+  },
   "primaryMeaning": "Okayama Castle",
-  "otherMeanings": [],
-  "primaryReading": "おかやまじょう",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1137,
-      "character": "岡",
-      "readings": [
-        "おか",
-        "こう"
-      ]
-    },
-    {
-      "id": 455,
-      "character": "山",
-      "readings": [
-        "さん",
-        "やま"
-      ]
-    },
-    {
-      "id": 1214,
-      "character": "城",
-      "readings": [
-        "しろ",
-        "じょう"
-      ]
-    }
-  ],
   "meaningMnemonic": "This is the same 岡山 that you learned with 岡山県. So what's Okayama <kanji>castle</kanji>? Yep, <vocabulary>Okayama Castle</vocabulary>!",
+  "primaryReading": "おかやまじょう",
   "readingMnemonic": "When 城 is added to a place name like this, it takes the on'yomi. You haven't learned this yet, so here's a mnemonic to help you:\n\nThe lord of <vocabulary>Okayama Castle</vocabulary> is none other than <reading>Joe</reading> (じょう), your local farmhand friend. How a farmhand like Joe managed to become the lord of a Japanese castle is beyond even us, but it's Lord Joe to you now.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B2%A1%E5%B1%B1%E5%9F%8E",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "岡",
-      "id": 1137,
-      "reading": "おか"
-    },
-    {
-      "type": "kanji",
-      "value": "山",
-      "id": 455,
-      "reading": "やま"
-    },
-    {
-      "type": "kanji",
-      "value": "城",
-      "id": 1214,
-      "reading": "じょう"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%B2%A1%E5%B1%B1%E5%9F%8E"
+  }
 }

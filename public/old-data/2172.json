@@ -1,0 +1,30 @@
+{
+  "id": 2172,
+  "type": "kanji",
+  "character": "倫",
+  "primaryMeaning": "Ethics",
+  "otherMeanings": [],
+  "primaryReading": "りん",
+  "readings": [
+    {
+      "reading": "りん",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "To test your <kanji>ethics</kanji> even more, the leader puts down a <reading>rin</reading>g (りん) as well.",
+  "meaningMnemonic": "A <radical>leader</radical> puts their <radical>hat</radical> on the <radical>ground</radical> next to a <radical>bookshelf</radical>. This is a test in <kanji>ethics</kanji>.",
+  "vocabularyIds": [
+    7861,
+    7862,
+    8064,
+    8065
+  ],
+  "radicalIds": [
+    75,
+    8764,
+    1,
+    226
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%80%AB"
+}

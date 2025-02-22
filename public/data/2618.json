@@ -1,42 +1,21 @@
 {
   "id": 2618,
   "type": "vocabulary",
-  "characters": "お父さん",
+  "level": 3,
+  "characters": {
+    "type": "text",
+    "value": "お父さん"
+  },
   "primaryMeaning": "Father",
+  "meaningMnemonic": "This word begins with an honorific (お), making whatever comes after it more elevated. Then there's 父, which you know means <kanji>father</kanji>. Lastly, we have the honorific name ender さん. So this is a nice way to say <vocabulary>father</vocabulary>. You use it when you're talking to your own <vocabulary>dad</vocabulary> or talking about him with friends. You can also use this when you're talking about your friends' dads.\n\nIn more formal settings, you'll want to use 父 (pronounced ちち) to talk about your own dad and お父様 to talk about someone else's dad. Don't worry, you'll learn that last kanji in a few lessons. Until then, it's pronounced, おとうさま.",
+  "primaryReading": "おとうさん",
+  "readingMnemonic": "The part you have to learn to read is the 父 portion. This uses the kun'yomi, which you didn't learn when doing the kanji. \n\nImagine you are taking your venerable <vocabulary>father</vocabulary> to <reading>とう</reading>きょう. He's always wanted to go and this is the trip of a lifetime! Imagine walking through the streets of Tokyo with your Dad, taking in all the sights.",
   "otherMeanings": [
     "Dad",
     "Papa"
   ],
-  "primaryReading": "おとうさん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 512,
-      "character": "父",
-      "readings": [
-        "ちち",
-        "とう",
-        "ふ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This word begins with an honorific (お), making whatever comes after it more elevated. Then there's 父, which you know means <kanji>father</kanji>. Lastly, we have the honorific name ender さん. So this is a nice way to say <vocabulary>father</vocabulary>. You use it when you're talking to your own <vocabulary>dad</vocabulary> or talking about him with friends. You can also use this when you're talking about your friends' dads.\n\nIn more formal settings, you'll want to use 父 (pronounced ちち) to talk about your own dad and お父様 to talk about someone else's dad. Don't worry, you'll learn that last kanji in a few lessons. Until then, it's pronounced, おとうさま.",
-  "readingMnemonic": "The part you have to learn to read is the 父 portion. This uses the kun'yomi, which you didn't learn when doing the kanji. \n\nImagine you are taking your venerable <vocabulary>father</vocabulary> to <reading>とう</reading>きょう. He's always wanted to go and this is the trip of a lifetime! Imagine walking through the streets of Tokyo with your Dad, taking in all the sights.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E3%81%8A%E7%88%B6%E3%81%95%E3%82%93",
-  "elements": [
-    {
-      "type": "kana",
-      "value": "お"
-    },
-    {
-      "type": "kanji",
-      "value": "父",
-      "id": 512,
-      "reading": "とう"
-    },
-    {
-      "type": "kana",
-      "value": "さん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E3%81%8A%E7%88%B6%E3%81%95%E3%82%93"
+  }
 }

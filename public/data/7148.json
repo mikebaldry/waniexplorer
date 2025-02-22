@@ -1,40 +1,20 @@
 {
   "id": 7148,
   "type": "vocabulary",
-  "characters": "お陰で",
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "お陰で"
+  },
   "primaryMeaning": "Thanks To",
+  "meaningMnemonic": "陰 is a shadow, and adding お to it and makes it honorific. It becomes the shadow of someone very important, and means <vocabulary>thanks to</vocabulary>, as in \"thanks to you, I was able to pass the test.\" This originally comes from the idea of being in the shadow of the gods, who are protecting you and helping you out!\n\nIf that's hard to remember, think about shade helping you out. Perhaps <vocabulary>thanks to</vocabulary> the <kanji>shade</kanji> you were able to survive the heat of the desert.",
+  "primaryReading": "おかげで",
+  "readingMnemonic": "The reading comes from the word 陰. <vocabulary>Thanks to</vocabulary> that other vocab word, you can read this one!",
   "otherMeanings": [
     "Because Of"
   ],
-  "primaryReading": "おかげで",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1931,
-      "character": "陰",
-      "readings": [
-        "いん",
-        "かげ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "陰 is a shadow, and adding お to it and makes it honorific. It becomes the shadow of someone very important, and means <vocabulary>thanks to</vocabulary>, as in \"thanks to you, I was able to pass the test.\" This originally comes from the idea of being in the shadow of the gods, who are protecting you and helping you out!\n\nIf that's hard to remember, think about shade helping you out. Perhaps <vocabulary>thanks to</vocabulary> the <kanji>shade</kanji> you were able to survive the heat of the desert.",
-  "readingMnemonic": "The reading comes from the word 陰. <vocabulary>Thanks to</vocabulary> that other vocab word, you can read this one!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E3%81%8A%E9%99%B0%E3%81%A7",
-  "elements": [
-    {
-      "type": "kana",
-      "value": "お"
-    },
-    {
-      "type": "kanji",
-      "value": "陰",
-      "id": 1931,
-      "reading": "かげ"
-    },
-    {
-      "type": "kana",
-      "value": "で"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E3%81%8A%E9%99%B0%E3%81%A7"
+  }
 }

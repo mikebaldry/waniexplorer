@@ -1,0 +1,48 @@
+{
+  "id": 8226,
+  "type": "vocabulary",
+  "characters": "粗野",
+  "primaryMeaning": "Rustic",
+  "otherMeanings": [
+    "Rough",
+    "Rude",
+    "Vulgar"
+  ],
+  "primaryReading": "そや",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2281,
+      "character": "粗",
+      "readings": [
+        "そ",
+        "あら"
+      ]
+    },
+    {
+      "id": 848,
+      "character": "野",
+      "readings": [
+        "や",
+        "の"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Your home is out in the middle of a <kanji>coarse</kanji> looking <kanji>field</kanji>. Whenever you bring friends over the only word they say to describe your dirt and grass home is that it's <vocabulary>rustic</vocabulary>. That's pretty <vocabulary>rude</vocabulary> of them, you love your dirt home! Even if it is kinda small and stinky and in a field.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B2%97%E9%87%8E",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "粗",
+      "id": 2281,
+      "reading": "そ"
+    },
+    {
+      "type": "kanji",
+      "value": "野",
+      "id": 848,
+      "reading": "や"
+    }
+  ]
+}

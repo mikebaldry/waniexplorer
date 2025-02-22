@@ -1,0 +1,31 @@
+{
+  "id": 801,
+  "type": "kanji",
+  "character": "級",
+  "primaryMeaning": "Level",
+  "otherMeanings": [
+    "Grade",
+    "Rank"
+  ],
+  "primaryReading": "きゅう",
+  "readings": [
+    {
+      "reading": "きゅう",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "You want to see what the highest <kanji>level</kanji> is, so you go up the wrong escalator. At the top you find a giant <reading>cu</reading>cumber (きゅう).",
+  "meaningMnemonic": "There are pieces of <radical>thread</radical> on each <radical>escalator</radical> showing you what <kanji>level</kanji> they go to in your school. Each escalator takes you to a different <kanji>grade</kanji>, so make sure you follow the right thread or you'll end up in a class that's either way above or way below your level.",
+  "vocabularyIds": [
+    3301,
+    3302,
+    3303,
+    3304
+  ],
+  "radicalIds": [
+    86,
+    193
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%B4%9A"
+}

@@ -1,46 +1,21 @@
 {
   "id": 6409,
   "type": "vocabulary",
-  "characters": "鋭敏",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "鋭敏"
+  },
   "primaryMeaning": "Sharpness",
+  "meaningMnemonic": "Someone on <kanji>sharp</kanji> <kanji>alert</kanji> has a <vocabulary>sharpness</vocabulary> about them. They are <vocabulary>quick witted</vocabulary> and have a strong <vocabulary>keenness</vocabulary> to them.\n\nThis word is formal and literary.",
+  "primaryReading": "えいびん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Quick Witted",
     "Keenness"
   ],
-  "primaryReading": "えいびん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1758,
-      "character": "鋭",
-      "readings": [
-        "えい",
-        "するど"
-      ]
-    },
-    {
-      "id": 1757,
-      "character": "敏",
-      "readings": [
-        "びん"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Someone on <kanji>sharp</kanji> <kanji>alert</kanji> has a <vocabulary>sharpness</vocabulary> about them. They are <vocabulary>quick witted</vocabulary> and have a strong <vocabulary>keenness</vocabulary> to them.\n\nThis word is formal and literary.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%8B%AD%E6%95%8F",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "鋭",
-      "id": 1758,
-      "reading": "えい"
-    },
-    {
-      "type": "kanji",
-      "value": "敏",
-      "id": 1757,
-      "reading": "びん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%8B%AD%E6%95%8F"
+  }
 }

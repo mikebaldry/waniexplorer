@@ -1,48 +1,22 @@
 {
   "id": 8198,
   "type": "vocabulary",
-  "characters": "哀悼",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "哀悼"
+  },
   "primaryMeaning": "Condolence",
+  "meaningMnemonic": "<kanji>Grieve</kanji> for a <kanji>pathetic</kanji> situation by offering your <vocabulary>condolence</vocabulary>s. Showing <vocabulary>regret</vocabulary> is the best way to handle it.",
+  "primaryReading": "あいとう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Regret",
     "Sympathy",
     "Lament"
   ],
-  "primaryReading": "あいとう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1987,
-      "character": "哀",
-      "readings": [
-        "あい",
-        "あわ"
-      ]
-    },
-    {
-      "id": 2268,
-      "character": "悼",
-      "readings": [
-        "とう",
-        "いた"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Grieve</kanji> for a <kanji>pathetic</kanji> situation by offering your <vocabulary>condolence</vocabulary>s. Showing <vocabulary>regret</vocabulary> is the best way to handle it.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%93%80%E6%82%BC",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "哀",
-      "id": 1987,
-      "reading": "あい"
-    },
-    {
-      "type": "kanji",
-      "value": "悼",
-      "id": 2268,
-      "reading": "とう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%93%80%E6%82%BC"
+  }
 }

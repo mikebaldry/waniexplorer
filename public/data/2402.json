@@ -1,28 +1,36 @@
 {
   "id": 2402,
   "type": "kanji",
-  "character": "峠",
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "峠"
+  },
+  "primaryReading": "とうげ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "とうげ",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Mountain Pass",
   "otherMeanings": [
     "The Worst"
   ],
-  "primaryReading": "とうげ",
-  "readings": [
-    {
-      "reading": "とうげ",
-      "primary": true,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "It's only on this type of <kanji>mountain pass</kanji> that you'll be able to find the rare and adorable <reading>To</reading>kyo <reading>ge</reading>cko (とうげ). These tiny little critters can only be found on the ridges going above and below the mountains in Tokyo. There are like six mountains in Tokyo, so the next time you're scaling the ridges keep your eyes open for the Tokyo gecko!",
   "meaningMnemonic": "If there are <radical>mountain</radical>s <radical>above</radical> and <radical>below</radical> you, that means you're on a <kanji>mountain pass</kanji>.",
-  "vocabularyIds": [
-    8531
-  ],
-  "radicalIds": [
-    20,
-    325,
-    436
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%B3%A0"
+  "readingMnemonic": "It's only on this type of <kanji>mountain pass</kanji> that you'll be able to find the rare and adorable <reading>To</reading>kyo <reading>ge</reading>cko (とうげ). These tiny little critters can only be found on the ridges going above and below the mountains in Tokyo. There are like six mountains in Tokyo, so the next time you're scaling the ridges keep your eyes open for the Tokyo gecko!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%B3%A0"
+  },
+  "related": {
+    "radicals": [
+      20,
+      325,
+      436
+    ],
+    "vocabularies": [
+      8531
+    ]
+  }
 }

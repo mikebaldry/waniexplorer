@@ -1,47 +1,21 @@
 {
   "id": 7238,
   "type": "vocabulary",
-  "characters": "脇役",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "脇役"
+  },
   "primaryMeaning": "Supporting Actor",
+  "meaningMnemonic": "If you're on <kanji>armpit</kanji> <kanji>duty</kanji> you're definitely not the lead. You're standing next to the lead's armpit, because you're the <vocabulary>supporting actor</vocabulary>. You're in a <vocabulary>supporting role</vocabulary>.",
+  "primaryReading": "わきやく",
+  "readingMnemonic": "The reading is 脇's reading and 役's reading, put together.",
   "otherMeanings": [
     "Supporting Role",
     "Minor Role"
   ],
-  "primaryReading": "わきやく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2041,
-      "character": "脇",
-      "readings": [
-        "わき",
-        "きょう"
-      ]
-    },
-    {
-      "id": 685,
-      "character": "役",
-      "readings": [
-        "やく",
-        "えき"
-      ]
-    }
-  ],
-  "meaningMnemonic": "If you're on <kanji>armpit</kanji> <kanji>duty</kanji> you're definitely not the lead. You're standing next to the lead's armpit, because you're the <vocabulary>supporting actor</vocabulary>. You're in a <vocabulary>supporting role</vocabulary>.",
-  "readingMnemonic": "The reading is 脇's reading and 役's reading, put together.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%84%87%E5%BD%B9",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "脇",
-      "id": 2041,
-      "reading": "わき"
-    },
-    {
-      "type": "kanji",
-      "value": "役",
-      "id": 685,
-      "reading": "やく"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%84%87%E5%BD%B9"
+  }
 }

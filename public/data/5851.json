@@ -1,49 +1,18 @@
 {
   "id": 5851,
   "type": "vocabulary",
-  "characters": "尊敬する",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "尊敬する"
+  },
   "primaryMeaning": "To Respect",
-  "otherMeanings": [],
-  "primaryReading": "そんけいする",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1522,
-      "character": "尊",
-      "readings": [
-        "そん",
-        "とうと",
-        "たっと"
-      ]
-    },
-    {
-      "id": 1526,
-      "character": "敬",
-      "readings": [
-        "けい",
-        "うやま"
-      ]
-    }
-  ],
   "meaningMnemonic": "If 尊敬 is \"respect\" then the verb version would be <vocabulary>to respect</vocabulary>.",
+  "primaryReading": "そんけいする",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B0%8A%E6%95%AC%E3%81%99%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "尊",
-      "id": 1522,
-      "reading": "そん"
-    },
-    {
-      "type": "kanji",
-      "value": "敬",
-      "id": 1526,
-      "reading": "けい"
-    },
-    {
-      "type": "kana",
-      "value": "する"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%B0%8A%E6%95%AC%E3%81%99%E3%82%8B"
+  }
 }

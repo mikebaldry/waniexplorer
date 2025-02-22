@@ -1,0 +1,26 @@
+{
+  "id": 2318,
+  "type": "kanji",
+  "character": "庸",
+  "primaryMeaning": "Commonplace",
+  "otherMeanings": [],
+  "primaryReading": "よう",
+  "readings": [
+    {
+      "reading": "よう",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "This is so <kanji>commonplace</kanji> and familiar to you that you finish your task early and eat some <reading>yo</reading>gurt (よう) while you wait for the guy to come back.",
+  "meaningMnemonic": "Under this <radical>canopy</radical> you have a <radical>brush</radical> (in its 肀 form) and a <radical>task</radical> to complete with it. This is totally <kanji>commonplace</kanji>.",
+  "vocabularyIds": [
+    8257
+  ],
+  "radicalIds": [
+    62,
+    220,
+    71
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%BA%B8"
+}

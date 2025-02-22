@@ -1,55 +1,21 @@
 {
   "id": 9279,
   "type": "vocabulary",
-  "characters": "受け取る",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "受け取る"
+  },
   "primaryMeaning": "To Receive Something",
+  "meaningMnemonic": "You know that 受ける means \"to receive something.\" Combine it with 取る (to take something), and 受け取る… still means <vocabulary>to receive something</vocabulary>.\n\nHowever, while 受ける generally implies passive reception, 受け取る carries a stronger connotation of actively taking possession of something. It is used when receiving a package or gift, or even when interpreting someone's words as having a specific meaning, such as an insult or compliment.",
+  "primaryReading": "うけとる",
+  "readingMnemonic": "If you know how to read 受ける and 取る, you should be good to go.",
   "otherMeanings": [
     "To Take Something",
     "To Get Something"
   ],
-  "primaryReading": "うけとる",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 711,
-      "character": "受",
-      "readings": [
-        "じゅ",
-        "う"
-      ]
-    },
-    {
-      "id": 966,
-      "character": "取",
-      "readings": [
-        "と",
-        "しゅ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You know that 受ける means \"to receive something.\" Combine it with 取る (to take something), and 受け取る… still means <vocabulary>to receive something</vocabulary>.\n\nHowever, while 受ける generally implies passive reception, 受け取る carries a stronger connotation of actively taking possession of something. It is used when receiving a package or gift, or even when interpreting someone's words as having a specific meaning, such as an insult or compliment.",
-  "readingMnemonic": "If you know how to read 受ける and 取る, you should be good to go.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8F%97%E3%81%91%E5%8F%96%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "受",
-      "id": 711,
-      "reading": "う"
-    },
-    {
-      "type": "kana",
-      "value": "け"
-    },
-    {
-      "type": "kanji",
-      "value": "取",
-      "id": 966,
-      "reading": "と"
-    },
-    {
-      "type": "kana",
-      "value": "る"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%8F%97%E3%81%91%E5%8F%96%E3%82%8B"
+  }
 }

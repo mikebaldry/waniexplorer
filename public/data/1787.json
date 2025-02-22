@@ -1,35 +1,43 @@
 {
   "id": 1787,
   "type": "kanji",
-  "character": "酎",
-  "primaryMeaning": "Hard Liquor",
-  "otherMeanings": [],
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "酎"
+  },
   "primaryReading": "ちゅう",
   "readings": [
     {
-      "reading": "ちゅう",
       "primary": true,
+      "reading": "ちゅう",
       "type": "onyomi"
     },
     {
+      "primary": false,
       "reading": "ちゅ",
-      "primary": false,
       "type": "onyomi"
     },
     {
-      "reading": "かも",
       "primary": false,
+      "reading": "かも",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "You know who enjoyed <kanji>hard liquor</kanji> a lot? <reading>Chew</reading>bacca (ちゅう). He was always drinking, which is concerning when you think about all the driving he did.",
+  "primaryMeaning": "Hard Liquor",
+  "otherMeanings": [],
   "meaningMnemonic": "The <radical>alcohol</radical> that needs <radical>measurement</radical> is <kanji>hard liquor</kanji>. Drinking too much hard liquor isn't good for you, so you must make sure to measure it out in precise quantities.",
-  "vocabularyIds": [
-    6506
-  ],
-  "radicalIds": [
-    182,
-    74
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%85%8E"
+  "readingMnemonic": "You know who enjoyed <kanji>hard liquor</kanji> a lot? <reading>Chew</reading>bacca (ちゅう). He was always drinking, which is concerning when you think about all the driving he did.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%85%8E"
+  },
+  "related": {
+    "radicals": [
+      182,
+      74
+    ],
+    "vocabularies": [
+      6506
+    ]
+  }
 }

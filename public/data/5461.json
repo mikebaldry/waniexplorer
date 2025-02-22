@@ -1,46 +1,20 @@
 {
   "id": 5461,
   "type": "vocabulary",
-  "characters": "地帯",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "地帯"
+  },
   "primaryMeaning": "Zone",
+  "meaningMnemonic": "This <kanji>earth</kanji> <kanji>belt</kanji> is the area within the belt, which holds this area of earth in. It is separate from the rest of the earth, making it its own <vocabulary>zone</vocabulary> or <vocabulary>district</vocabulary>.",
+  "primaryReading": "ちたい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "District"
   ],
-  "primaryReading": "ちたい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 608,
-      "character": "地",
-      "readings": [
-        "ち",
-        "じ"
-      ]
-    },
-    {
-      "id": 1463,
-      "character": "帯",
-      "readings": [
-        "たい",
-        "おび"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This <kanji>earth</kanji> <kanji>belt</kanji> is the area within the belt, which holds this area of earth in. It is separate from the rest of the earth, making it its own <vocabulary>zone</vocabulary> or <vocabulary>district</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%9C%B0%E5%B8%AF",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "地",
-      "id": 608,
-      "reading": "ち"
-    },
-    {
-      "type": "kanji",
-      "value": "帯",
-      "id": 1463,
-      "reading": "たい"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%9C%B0%E5%B8%AF"
+  }
 }

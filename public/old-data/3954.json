@@ -1,0 +1,47 @@
+{
+  "id": 3954,
+  "type": "vocabulary",
+  "characters": "左側",
+  "primaryMeaning": "Left Side",
+  "otherMeanings": [
+    "Left-hand Side"
+  ],
+  "primaryReading": "ひだりがわ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 486,
+      "character": "左",
+      "readings": [
+        "さ",
+        "ひだり"
+      ]
+    },
+    {
+      "id": 999,
+      "character": "側",
+      "readings": [
+        "がわ",
+        "そば",
+        "そく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>left</kanji> <kanji>side</kanji> is the <vocabulary>left side</vocabulary>. Simple as that.",
+  "readingMnemonic": "The reading for this is vocab kun'yomi readings. Just take the vocab 左 and add it to 側 to have yourself <reading>ひだりがわ</reading>.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B7%A6%E5%81%B4",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "左",
+      "id": 486,
+      "reading": "ひだり"
+    },
+    {
+      "type": "kanji",
+      "value": "側",
+      "id": 999,
+      "reading": "がわ"
+    }
+  ]
+}

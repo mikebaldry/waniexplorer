@@ -1,0 +1,38 @@
+{
+  "id": 2159,
+  "type": "kanji",
+  "character": "茨",
+  "primaryMeaning": "Briar",
+  "otherMeanings": [
+    "Thorn"
+  ],
+  "primaryReading": "いばら",
+  "readings": [
+    {
+      "reading": "いばら",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "し",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "じ",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "When you see the <kanji>briar</kanji>s you can't help but yell, <reading>Eee! Ba riars</reading>! (いばら)! You pause funny because you prick your finger on one while you're yelling. Ouch!",
+  "meaningMnemonic": "If you look at <radical>flowers</radical> the first thing you notice are the leaves and petals themselves, then the <radical>next</radical> thing you notice are the <kanji>briar</kanji>s. You never see <kanji>thorn</kanji>s first, only after you've looked at the flowers. ",
+  "vocabularyIds": [
+    7920,
+    8139
+  ],
+  "radicalIds": [
+    90,
+    278
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%8C%A8"
+}

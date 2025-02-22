@@ -1,0 +1,47 @@
+{
+  "id": 3632,
+  "type": "vocabulary",
+  "characters": "銀色",
+  "primaryMeaning": "Silver",
+  "otherMeanings": [
+    "Silver Color",
+    "Color Silver"
+  ],
+  "primaryReading": "ぎんいろ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 871,
+      "character": "銀",
+      "readings": [
+        "ぎん"
+      ]
+    },
+    {
+      "id": 579,
+      "character": "色",
+      "readings": [
+        "いろ",
+        "しき",
+        "しょく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>silver</kanji> <kanji>color</kanji> is just <vocabulary>silver</vocabulary> (the color).",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%8A%80%E8%89%B2",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "銀",
+      "id": 871,
+      "reading": "ぎん"
+    },
+    {
+      "type": "kanji",
+      "value": "色",
+      "id": 579,
+      "reading": "いろ"
+    }
+  ]
+}

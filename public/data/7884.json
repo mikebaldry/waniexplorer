@@ -1,49 +1,23 @@
 {
   "id": 7884,
   "type": "vocabulary",
-  "characters": "我慢",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "我慢"
+  },
   "primaryMeaning": "Endurance",
+  "meaningMnemonic": "<kanji>I</kanji> get <kanji>ridiculed</kanji> a lot, but it makes me have really strong <vocabulary>endurance</vocabulary>. If you get picked on a lot, just say, \"I have <vocabulary>patience</vocabulary> and <vocabulary>self control</vocabulary>, and I can make it through this.\"",
+  "primaryReading": "がまん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Perseverance",
     "Tolerance",
     "Patience",
     "Self Control"
   ],
-  "primaryReading": "がまん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1294,
-      "character": "我",
-      "readings": [
-        "が",
-        "われ",
-        "わ"
-      ]
-    },
-    {
-      "id": 2179,
-      "character": "慢",
-      "readings": [
-        "まん"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>I</kanji> get <kanji>ridiculed</kanji> a lot, but it makes me have really strong <vocabulary>endurance</vocabulary>. If you get picked on a lot, just say, \"I have <vocabulary>patience</vocabulary> and <vocabulary>self control</vocabulary>, and I can make it through this.\"",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%88%91%E6%85%A2",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "我",
-      "id": 1294,
-      "reading": "が"
-    },
-    {
-      "type": "kanji",
-      "value": "慢",
-      "id": 2179,
-      "reading": "まん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%88%91%E6%85%A2"
+  }
 }

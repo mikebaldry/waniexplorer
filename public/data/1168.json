@@ -1,39 +1,47 @@
 {
   "id": 1168,
   "type": "kanji",
-  "character": "営",
-  "primaryMeaning": "Manage",
-  "otherMeanings": [],
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "営"
+  },
   "primaryReading": "えい",
   "readings": [
     {
-      "reading": "えい",
       "primary": true,
+      "reading": "えい",
       "type": "onyomi"
     },
     {
-      "reading": "いとな",
       "primary": false,
+      "reading": "いとな",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "The poor Viking trying to <kanji>manage</kanji> all the others keeps having to confiscate <reading>a</reading>corns (えい). \"You can't take baths in acorns and wood, it has to be water!\" he shouts.",
+  "primaryMeaning": "Manage",
+  "otherMeanings": [],
   "meaningMnemonic": "A <radical>Viking</radical> who knows how to use a <radical>bathtub</radical> will have to <kanji>manage</kanji> all the baths for the other Vikings. Vikings aren't so great with bathing... if you can get one Viking to figure it out he has to manage the rest of them.",
-  "vocabularyIds": [
-    4526,
-    4527,
-    4528,
-    4529,
-    4530,
-    4531,
-    4532,
-    4657,
-    4862,
-    6113
-  ],
-  "radicalIds": [
-    8769,
-    282
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%96%B6"
+  "readingMnemonic": "The poor Viking trying to <kanji>manage</kanji> all the others keeps having to confiscate <reading>a</reading>corns (えい). \"You can't take baths in acorns and wood, it has to be water!\" he shouts.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%96%B6"
+  },
+  "related": {
+    "radicals": [
+      8769,
+      282
+    ],
+    "vocabularies": [
+      4526,
+      4527,
+      4528,
+      4529,
+      4530,
+      4531,
+      4532,
+      4657,
+      4862,
+      6113
+    ]
+  }
 }

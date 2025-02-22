@@ -1,51 +1,21 @@
 {
   "id": 3415,
   "type": "vocabulary",
-  "characters": "冬休み",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "冬休み"
+  },
   "primaryMeaning": "Winter Holiday",
+  "meaningMnemonic": "The <kanji>winter</kanji> <kanji>rest</kanji>! Wait, nobody calls it that. This is a <vocabulary>winter holiday</vocabulary> or <vocabulary>winter break</vocabulary>.",
+  "primaryReading": "ふゆやすみ",
+  "readingMnemonic": "The readings for these are both the kun'yomi readings. Hopefully you learned them when you were doing vocab in the previous levels so that all you have to do now is combine the two separate words into one bigger word. Please don't take a winter break until you figure this word out.",
   "otherMeanings": [
     "Winter Break",
     "Winter Vacation"
   ],
-  "primaryReading": "ふゆやすみ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 516,
-      "character": "冬",
-      "readings": [
-        "ふゆ",
-        "とう"
-      ]
-    },
-    {
-      "id": 542,
-      "character": "休",
-      "readings": [
-        "きゅう",
-        "やす"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The <kanji>winter</kanji> <kanji>rest</kanji>! Wait, nobody calls it that. This is a <vocabulary>winter holiday</vocabulary> or <vocabulary>winter break</vocabulary>.",
-  "readingMnemonic": "The readings for these are both the kun'yomi readings. Hopefully you learned them when you were doing vocab in the previous levels so that all you have to do now is combine the two separate words into one bigger word. Please don't take a winter break until you figure this word out.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%86%AC%E4%BC%91%E3%81%BF",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "冬",
-      "id": 516,
-      "reading": "ふゆ"
-    },
-    {
-      "type": "kanji",
-      "value": "休",
-      "id": 542,
-      "reading": "やす"
-    },
-    {
-      "type": "kana",
-      "value": "み"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%86%AC%E4%BC%91%E3%81%BF"
+  }
 }

@@ -1,46 +1,20 @@
 {
   "id": 7885,
   "type": "vocabulary",
-  "characters": "自慢",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "自慢"
+  },
   "primaryMeaning": "Pride",
+  "meaningMnemonic": "You <kanji>ridicule</kanji> everyone but your<kanji>self</kanji> because you have so much <vocabulary>pride</vocabulary>. When you talk about yourself you only <vocabulary>boast</vocabulary> because there's nothing to ridicule. That's how great you think you are.",
+  "primaryReading": "じまん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Boast"
   ],
-  "primaryReading": "じまん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 578,
-      "character": "自",
-      "readings": [
-        "じ",
-        "し",
-        "みずか"
-      ]
-    },
-    {
-      "id": 2179,
-      "character": "慢",
-      "readings": [
-        "まん"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You <kanji>ridicule</kanji> everyone but your<kanji>self</kanji> because you have so much <vocabulary>pride</vocabulary>. When you talk about yourself you only <vocabulary>boast</vocabulary> because there's nothing to ridicule. That's how great you think you are.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%87%AA%E6%85%A2",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "自",
-      "id": 578,
-      "reading": "じ"
-    },
-    {
-      "type": "kanji",
-      "value": "慢",
-      "id": 2179,
-      "reading": "まん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%87%AA%E6%85%A2"
+  }
 }

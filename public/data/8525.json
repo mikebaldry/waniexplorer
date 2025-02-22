@@ -1,45 +1,18 @@
 {
   "id": 8525,
   "type": "vocabulary",
-  "characters": "叔母",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "叔母"
+  },
   "primaryMeaning": "Aunt",
-  "otherMeanings": [],
-  "primaryReading": "おば",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2404,
-      "character": "叔",
-      "readings": [
-        "お",
-        "しゅく"
-      ]
-    },
-    {
-      "id": 524,
-      "character": "母",
-      "readings": [
-        "はは",
-        "かあ",
-        "ぼ"
-      ]
-    }
-  ],
   "meaningMnemonic": "An <kanji>aunt</kanji> feels like a <kanji>mother</kanji> sometimes, but she's still an <vocabulary>aunt</vocabulary> after all.",
+  "primaryReading": "おば",
   "readingMnemonic": "The reading for the 母 part is just the first は in はは, rendaku'd. You can also think of your aunt as a sheep, too, if you'd like. Baaaah!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8F%94%E6%AF%8D",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "叔",
-      "id": 2404,
-      "reading": "お"
-    },
-    {
-      "type": "kanji",
-      "value": "母",
-      "id": 524,
-      "reading": null
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%8F%94%E6%AF%8D"
+  }
 }

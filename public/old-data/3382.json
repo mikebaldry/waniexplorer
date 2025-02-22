@@ -1,0 +1,57 @@
+{
+  "id": 3382,
+  "type": "vocabulary",
+  "characters": "歯医者",
+  "primaryMeaning": "Dentist",
+  "otherMeanings": [],
+  "primaryReading": "はいしゃ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 841,
+      "character": "歯",
+      "readings": [
+        "は",
+        "し"
+      ]
+    },
+    {
+      "id": 681,
+      "character": "医",
+      "readings": [
+        "い"
+      ]
+    },
+    {
+      "id": 690,
+      "character": "者",
+      "readings": [
+        "しゃ",
+        "もの"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You know that a 医者 is a doctor. So what is a <kanji>tooth</kanji> doctor? A <vocabulary>dentist</vocabulary>. Seriously, don't forget to floss. 歯医者 hate when you forget to floss.",
+  "readingMnemonic": "You know how to read 歯 and 医者, so you should be good to go!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%AD%AF%E5%8C%BB%E8%80%85",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "歯",
+      "id": 841,
+      "reading": "は"
+    },
+    {
+      "type": "kanji",
+      "value": "医",
+      "id": 681,
+      "reading": "い"
+    },
+    {
+      "type": "kanji",
+      "value": "者",
+      "id": 690,
+      "reading": "しゃ"
+    }
+  ]
+}

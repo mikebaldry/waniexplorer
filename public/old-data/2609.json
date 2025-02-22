@@ -1,0 +1,36 @@
+{
+  "id": 2609,
+  "type": "vocabulary",
+  "characters": "引く",
+  "primaryMeaning": "To Pull",
+  "otherMeanings": [
+    "To Withdraw"
+  ],
+  "primaryReading": "ひく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 507,
+      "character": "引",
+      "readings": [
+        "ひ",
+        "いん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>pull</kanji> and the verb version vocab means <vocabulary>to pull</vocabulary>.\n\nThis word can be transitive or intransitive. You use 引く in a transitive way to say you pull something, for example. But it can also mean <vocabulary>to withdraw</vocabulary> when you talk about things that pull back, like water that recedes, pain that subsides, soldiers that withdraw, or even your body recoiling when something puts you off.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. The reading (ひ) is the same as the one you learned for the kanji, meaning you should already know it!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BC%95%E3%81%8F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "引",
+      "id": 507,
+      "reading": "ひ"
+    },
+    {
+      "type": "kana",
+      "value": "く"
+    }
+  ]
+}

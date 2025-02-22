@@ -1,34 +1,22 @@
 {
   "id": 2866,
   "type": "vocabulary",
-  "characters": "曲",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "曲"
+  },
   "primaryMeaning": "Tune",
+  "meaningMnemonic": "This almost shares the meaning with the kanji. It's essentially the same thing, though when it's alone it refers to a specific <vocabulary>piece of music</vocabulary> (aka a <vocabulary>tune</vocabulary>).",
+  "primaryReading": "きょく",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji as well, so you should be able to read it.",
   "otherMeanings": [
     "Piece Of Music",
     "Song",
     "Melody"
   ],
-  "primaryReading": "きょく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 614,
-      "character": "曲",
-      "readings": [
-        "きょく",
-        "ま"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This almost shares the meaning with the kanji. It's essentially the same thing, though when it's alone it refers to a specific <vocabulary>piece of music</vocabulary> (aka a <vocabulary>tune</vocabulary>).",
-  "readingMnemonic": "The reading is the same as the one you learned with the kanji as well, so you should be able to read it.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9B%B2",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "曲",
-      "id": 614,
-      "reading": "きょく"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%9B%B2"
+  }
 }

@@ -1,0 +1,37 @@
+{
+  "id": 3985,
+  "type": "vocabulary",
+  "characters": "干す",
+  "primaryMeaning": "To Dry Something",
+  "otherMeanings": [
+    "To Hang Dry Something"
+  ],
+  "primaryReading": "ほす",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1014,
+      "character": "干",
+      "readings": [
+        "かん",
+        "ほ",
+        "ひ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>dry</kanji> and the verb vocab version is <vocabulary>to dry something</vocabulary>.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: Why do you need <vocabulary>to dry something</vocabulary>? Because someone used a <reading>hose</reading> (ほす) and got everything all wet. Ugh, you shouldn't leave that hose out anymore...",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B9%B2%E3%81%99",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "干",
+      "id": 1014,
+      "reading": "ほ"
+    },
+    {
+      "type": "kana",
+      "value": "す"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 4797,
+  "type": "vocabulary",
+  "characters": "構う",
+  "primaryMeaning": "To Care About",
+  "otherMeanings": [
+    "To Mind"
+  ],
+  "primaryReading": "かまう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1263,
+      "character": "構",
+      "readings": [
+        "こう",
+        "かま"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>care</kanji> so the verb vocab version is <vocabulary>to care about</vocabulary>.\n\nThis word generally implies a more direct physical or verbal expression of care, rather than just mentally caring about someone or something. The exception is when it's used in the negative, like 構わない (I don't mind).",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: Do you care a lot about grammar? I don't care, unless it has to do with <reading>comma</reading>s (かま). Then I do flip out.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%A7%8B%E3%81%86",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "構",
+      "id": 1263,
+      "reading": "かま"
+    },
+    {
+      "type": "kana",
+      "value": "う"
+    }
+  ]
+}

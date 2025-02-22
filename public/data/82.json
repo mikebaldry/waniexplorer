@@ -1,12 +1,15 @@
 {
   "id": 82,
   "type": "radical",
-  "primaryMeaning": "Energy",
-  "otherMeanings": [],
-  "character": {
+  "level": 4,
+  "characters": {
     "type": "text",
     "value": "气"
   },
+  "primaryMeaning": "Energy",
+  "otherMeanings": [],
   "meaningMnemonic": "This radical is shaped kind of like a dam. See the wall and the water pushing over the top? If this radical is a dam, then it must create a ton of <radical>energy</radical> as well!",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/energy"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/energy"
+  }
 }

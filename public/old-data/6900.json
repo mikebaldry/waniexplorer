@@ -1,0 +1,46 @@
+{
+  "id": 6900,
+  "type": "vocabulary",
+  "characters": "疲労",
+  "primaryMeaning": "Fatigue",
+  "otherMeanings": [
+    "Weariness"
+  ],
+  "primaryReading": "ひろう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1926,
+      "character": "疲",
+      "readings": [
+        "ひ",
+        "つか"
+      ]
+    },
+    {
+      "id": 788,
+      "character": "労",
+      "readings": [
+        "ろう",
+        "いたわ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You're <kanji>tired</kanji> from <kanji>labor</kanji>. From this, you're showing <vocabulary>fatigue</vocabulary> and <vocabulary>weariness</vocabulary>.\n\n疲労 is a little formal, so you might encounter it more often in writing than in conversation.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%96%B2%E5%8A%B4",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "疲",
+      "id": 1926,
+      "reading": "ひ"
+    },
+    {
+      "type": "kanji",
+      "value": "労",
+      "id": 788,
+      "reading": "ろう"
+    }
+  ]
+}

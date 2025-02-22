@@ -1,47 +1,21 @@
 {
   "id": 3805,
   "type": "vocabulary",
-  "characters": "保証",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "保証"
+  },
   "primaryMeaning": "Guarantee",
+  "meaningMnemonic": "Giving <kanji>evidence</kanji> (or a <kanji>guarantee</kanji>) that you will <kanji>preserve</kanji> something, is giving a <vocabulary>guarantee</vocabulary>, <vocabulary>assurance</vocabulary>, or <vocabulary>warranty</vocabulary>.\n\nThis word is used when the emphasis is on taking responsibility for something, as in a guarantor, a product warranty, or quality assurance.",
+  "primaryReading": "ほしょう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Assurance",
     "Warranty"
   ],
-  "primaryReading": "ほしょう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 983,
-      "character": "保",
-      "readings": [
-        "ほ",
-        "たも"
-      ]
-    },
-    {
-      "id": 987,
-      "character": "証",
-      "readings": [
-        "しょう",
-        "あかし"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Giving <kanji>evidence</kanji> (or a <kanji>guarantee</kanji>) that you will <kanji>preserve</kanji> something, is giving a <vocabulary>guarantee</vocabulary>, <vocabulary>assurance</vocabulary>, or <vocabulary>warranty</vocabulary>.\n\nThis word is used when the emphasis is on taking responsibility for something, as in a guarantor, a product warranty, or quality assurance.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BF%9D%E8%A8%BC",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "保",
-      "id": 983,
-      "reading": "ほ"
-    },
-    {
-      "type": "kanji",
-      "value": "証",
-      "id": 987,
-      "reading": "しょう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BF%9D%E8%A8%BC"
+  }
 }

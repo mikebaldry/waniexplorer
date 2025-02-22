@@ -1,51 +1,23 @@
 {
   "id": 7944,
   "type": "vocabulary",
-  "characters": "閉鎖",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "閉鎖"
+  },
   "primaryMeaning": "Closing",
+  "meaningMnemonic": "A <kanji>closed</kanji> <kanji>chain</kanji> lets everyone know that a building or store is <vocabulary>closing</vocabulary> for good. It's got to <vocabulary>lockout</vocabulary> everyone so they won't try to get in anymore.",
+  "primaryReading": "へいさ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Closure",
     "Shutdown",
     "Lockout",
     "Unsociable"
   ],
-  "primaryReading": "へいさ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1514,
-      "character": "閉",
-      "readings": [
-        "へい",
-        "し",
-        "と"
-      ]
-    },
-    {
-      "id": 2163,
-      "character": "鎖",
-      "readings": [
-        "さ",
-        "くさり",
-        "とざ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>closed</kanji> <kanji>chain</kanji> lets everyone know that a building or store is <vocabulary>closing</vocabulary> for good. It's got to <vocabulary>lockout</vocabulary> everyone so they won't try to get in anymore.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%96%89%E9%8E%96",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "閉",
-      "id": 1514,
-      "reading": "へい"
-    },
-    {
-      "type": "kanji",
-      "value": "鎖",
-      "id": 2163,
-      "reading": "さ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%96%89%E9%8E%96"
+  }
 }

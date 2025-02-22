@@ -1,0 +1,30 @@
+{
+  "id": 6502,
+  "type": "vocabulary",
+  "characters": "虎",
+  "primaryMeaning": "Tiger",
+  "otherMeanings": [],
+  "primaryReading": "とら",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1784,
+      "character": "虎",
+      "readings": [
+        "とら",
+        "こ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%99%8E",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "虎",
+      "id": 1784,
+      "reading": "とら"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 6004,
+  "type": "vocabulary",
+  "characters": "維新",
+  "primaryMeaning": "Restoration",
+  "otherMeanings": [
+    "Meiji Restoration"
+  ],
+  "primaryReading": "いしん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1633,
+      "character": "維",
+      "readings": [
+        "い"
+      ]
+    },
+    {
+      "id": 857,
+      "character": "新",
+      "readings": [
+        "しん",
+        "あたら",
+        "あら",
+        "にい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "We must <kanji>maintain</kanji> the <kanji>new</kanji> and get rid of the old. It's time for a <vocabulary>restoration</vocabulary> of policy! This also refers to the <vocabulary>Meiji Restoration</vocabulary> too. In fact, it probably mostly refers to this, though you'll learn a more full version of this later.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B6%AD%E6%96%B0",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "維",
+      "id": 1633,
+      "reading": "い"
+    },
+    {
+      "type": "kanji",
+      "value": "新",
+      "id": 857,
+      "reading": "しん"
+    }
+  ]
+}

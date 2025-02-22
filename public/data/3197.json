@@ -1,48 +1,21 @@
 {
   "id": 3197,
   "type": "vocabulary",
-  "characters": "路地",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "路地"
+  },
   "primaryMeaning": "Alley",
+  "meaningMnemonic": "If you think about it, an <kanji>earth</kanji> <kanji>road</kanji> isn't going to be the main road. It will be the road less traveled. You could call it a <vocabulary>path</vocabulary> (you know, like a dirt path!) or a <vocabulary>dirt road</vocabulary>. Alternatively, another less traveled street that would probably be made out of dirt back in the day (before everything was paved) would be an <vocabulary>alley</vocabulary>. Imagine yourself walking down a dirt alley at night with no shoes. Scary!",
+  "primaryReading": "ろじ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. You've learned these readings already, so you should be able to read this word too! And remember, that it's the じ reading that you learned with 生地 here. ",
   "otherMeanings": [
     "Path",
     "Dirt Road"
   ],
-  "primaryReading": "ろじ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 758,
-      "character": "路",
-      "readings": [
-        "ろ",
-        "じ",
-        "みち"
-      ]
-    },
-    {
-      "id": 608,
-      "character": "地",
-      "readings": [
-        "ち",
-        "じ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "If you think about it, an <kanji>earth</kanji> <kanji>road</kanji> isn't going to be the main road. It will be the road less traveled. You could call it a <vocabulary>path</vocabulary> (you know, like a dirt path!) or a <vocabulary>dirt road</vocabulary>. Alternatively, another less traveled street that would probably be made out of dirt back in the day (before everything was paved) would be an <vocabulary>alley</vocabulary>. Imagine yourself walking down a dirt alley at night with no shoes. Scary!",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. You've learned these readings already, so you should be able to read this word too! And remember, that it's the じ reading that you learned with 生地 here. ",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%B7%AF%E5%9C%B0",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "路",
-      "id": 758,
-      "reading": "ろ"
-    },
-    {
-      "type": "kanji",
-      "value": "地",
-      "id": 608,
-      "reading": "じ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%B7%AF%E5%9C%B0"
+  }
 }

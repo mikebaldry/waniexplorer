@@ -1,0 +1,48 @@
+{
+  "id": 3886,
+  "type": "vocabulary",
+  "characters": "勉強する",
+  "primaryMeaning": "To Study",
+  "otherMeanings": [],
+  "primaryReading": "べんきょうする",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 813,
+      "character": "勉",
+      "readings": [
+        "べん"
+      ]
+    },
+    {
+      "id": 667,
+      "character": "強",
+      "readings": [
+        "きょう",
+        "ごう",
+        "つよ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You've seen 勉強 (study) by now, right? Well, this is the verb version of that. This is <vocabulary>to study</vocabulary>.",
+  "readingMnemonic": "The reading is the same as 勉強. It's also the readings you learned with these kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8B%89%E5%BC%B7%E3%81%99%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "勉",
+      "id": 813,
+      "reading": "べん"
+    },
+    {
+      "type": "kanji",
+      "value": "強",
+      "id": 667,
+      "reading": "きょう"
+    },
+    {
+      "type": "kana",
+      "value": "する"
+    }
+  ]
+}

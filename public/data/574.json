@@ -1,43 +1,51 @@
 {
   "id": 574,
   "type": "kanji",
-  "character": "米",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "米"
+  },
+  "primaryReading": "べい",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "べい",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "まい",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "こめ",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Rice",
   "otherMeanings": [
     "America"
   ],
-  "primaryReading": "べい",
-  "readings": [
-    {
-      "reading": "べい",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "まい",
-      "primary": false,
-      "type": "onyomi"
-    },
-    {
-      "reading": "こめ",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "You've got tons of dry grains of <kanji>rice</kanji>. You have no idea what you're going to do with it. Then, you come up with a solution. All this dry rice could go towards filling up the <reading>bay</reading> (べい), so you have more land to farm on!",
   "meaningMnemonic": "The <radical>rice</radical> radical and <kanji>rice</kanji> are the same in looks as well as in meaning. This also refers to \"America,\" maybe because America is covered in rice or fields or something?",
-  "vocabularyIds": [
-    2762,
-    2888,
-    3430,
-    3431,
-    3963,
-    5244,
-    7812,
-    8307
-  ],
-  "radicalIds": [
-    98
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%B1%B3"
+  "readingMnemonic": "You've got tons of dry grains of <kanji>rice</kanji>. You have no idea what you're going to do with it. Then, you come up with a solution. All this dry rice could go towards filling up the <reading>bay</reading> (べい), so you have more land to farm on!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%B1%B3"
+  },
+  "related": {
+    "radicals": [
+      98
+    ],
+    "vocabularies": [
+      2762,
+      2888,
+      3430,
+      3431,
+      3963,
+      5244,
+      7812,
+      8307
+    ]
+  }
 }

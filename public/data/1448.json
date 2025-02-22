@@ -1,29 +1,37 @@
 {
   "id": 1448,
   "type": "kanji",
-  "character": "普",
-  "primaryMeaning": "Normal",
-  "otherMeanings": [],
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "普"
+  },
   "primaryReading": "ふ",
   "readings": [
     {
-      "reading": "ふ",
       "primary": true,
+      "reading": "ふ",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "Soon you see something that doesn’t look so <kanji>normal</kanji>. It’s a <reading>foo</reading>l (ふ), a jester. Dressed all in fool’s garb, this fool is dancing up towards you with a ridiculously unsettling grin on his face.",
+  "primaryMeaning": "Normal",
+  "otherMeanings": [],
   "meaningMnemonic": "You <radical>line up</radical> your body with the <radical>sun</radical> and everything looks <kanji>normal</kanji>.  The sun is lined up behind you, and you’re looking at all the things the sun has lit up. Everything looks normal.",
-  "vocabularyIds": [
-    5419,
-    5420,
-    5975,
-    8413,
-    8582
-  ],
-  "radicalIds": [
-    334,
-    22
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%99%AE"
+  "readingMnemonic": "Soon you see something that doesn’t look so <kanji>normal</kanji>. It’s a <reading>foo</reading>l (ふ), a jester. Dressed all in fool’s garb, this fool is dancing up towards you with a ridiculously unsettling grin on his face.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%99%AE"
+  },
+  "related": {
+    "radicals": [
+      334,
+      22
+    ],
+    "vocabularies": [
+      5419,
+      5420,
+      5975,
+      8413,
+      8582
+    ]
+  }
 }

@@ -1,32 +1,40 @@
 {
   "id": 2279,
   "type": "kanji",
-  "character": "憾",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "憾"
+  },
+  "primaryReading": "かん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "かん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "うら",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Remorse",
   "otherMeanings": [
     "Regret"
   ],
-  "primaryReading": "かん",
-  "readings": [
-    {
-      "reading": "かん",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "うら",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "The soul with the most <kanji>regret</kanji>s is Genghis <reading>Khan</reading> (かん). Everyone knows to stay away from him in the spirit world because he's so sad. Not because of his own actions, but because of the state of his people now.",
   "meaningMnemonic": "The only <radical>feeling</radical> a dead <radical>soul</radical> will have is <kanji>remorse</kanji>. Remorse for the people it left behind. <kanji>Regret</kanji>s for the things it did and didn't do.",
-  "vocabularyIds": [
-    8207
-  ],
-  "radicalIds": [
-    232,
-    423
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%86%BE"
+  "readingMnemonic": "The soul with the most <kanji>regret</kanji>s is Genghis <reading>Khan</reading> (かん). Everyone knows to stay away from him in the spirit world because he's so sad. Not because of his own actions, but because of the state of his people now.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%86%BE"
+  },
+  "related": {
+    "radicals": [
+      232,
+      423
+    ],
+    "vocabularies": [
+      8207
+    ]
+  }
 }

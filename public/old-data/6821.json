@@ -1,0 +1,32 @@
+{
+  "id": 6821,
+  "type": "vocabulary",
+  "characters": "笠",
+  "primaryMeaning": "Conical Hat",
+  "otherMeanings": [
+    "Bamboo Hat"
+  ],
+  "primaryReading": "かさ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1896,
+      "character": "笠",
+      "readings": [
+        "かさ",
+        "りゅう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%AC%A0",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "笠",
+      "id": 1896,
+      "reading": "かさ"
+    }
+  ]
+}

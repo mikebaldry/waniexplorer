@@ -1,0 +1,45 @@
+{
+  "id": 7509,
+  "type": "vocabulary",
+  "characters": "瞳孔",
+  "primaryMeaning": "Pupil",
+  "otherMeanings": [],
+  "primaryReading": "どうこう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1956,
+      "character": "瞳",
+      "readings": [
+        "どう",
+        "とう",
+        "ひとみ"
+      ]
+    },
+    {
+      "id": 2119,
+      "character": "孔",
+      "readings": [
+        "こう",
+        "あな"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Your <kanji>pupil</kanji> <kanji>hole</kanji> is still your <vocabulary>pupil</vocabulary>. It can also be called your <vocabulary>pupillary</vocabulary>.",
+  "readingMnemonic": "The readings are the same as the ones you learned with the kanji!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%9E%B3%E5%AD%94",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "瞳",
+      "id": 1956,
+      "reading": "どう"
+    },
+    {
+      "type": "kanji",
+      "value": "孔",
+      "id": 2119,
+      "reading": "こう"
+    }
+  ]
+}

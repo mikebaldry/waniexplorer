@@ -1,0 +1,57 @@
+{
+  "id": 8087,
+  "type": "vocabulary",
+  "characters": "孤児院",
+  "primaryMeaning": "Orphanage",
+  "otherMeanings": [],
+  "primaryReading": "こじいん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2161,
+      "character": "孤",
+      "readings": [
+        "こ"
+      ]
+    },
+    {
+      "id": 1349,
+      "character": "児",
+      "readings": [
+        "じ",
+        "に",
+        "こ"
+      ]
+    },
+    {
+      "id": 744,
+      "character": "院",
+      "readings": [
+        "いん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You already learned that the word 孤児 means \"orphan,\" so when you put a bunch of orphans in an <kanji>institution</kanji> it's called an <vocabulary>orphanage</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AD%A4%E5%85%90%E9%99%A2",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "孤",
+      "id": 2161,
+      "reading": "こ"
+    },
+    {
+      "type": "kanji",
+      "value": "児",
+      "id": 1349,
+      "reading": "じ"
+    },
+    {
+      "type": "kanji",
+      "value": "院",
+      "id": 744,
+      "reading": "いん"
+    }
+  ]
+}

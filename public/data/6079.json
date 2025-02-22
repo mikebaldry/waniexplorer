@@ -1,36 +1,20 @@
 {
   "id": 6079,
   "type": "vocabulary",
-  "characters": "戻る",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "戻る"
+  },
   "primaryMeaning": "To Return",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>return</kanji> and the verb vocab version is <vocabulary>to return</vocabulary> or <vocabulary>to be returned</vocabulary>. This is when something does this on its own. You aren't doing the returning of something in this case.",
+  "primaryReading": "もどる",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
   "otherMeanings": [
     "To Be Returned"
   ],
-  "primaryReading": "もどる",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1653,
-      "character": "戻",
-      "readings": [
-        "もど",
-        "れい"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>return</kanji> and the verb vocab version is <vocabulary>to return</vocabulary> or <vocabulary>to be returned</vocabulary>. This is when something does this on its own. You aren't doing the returning of something in this case.",
-  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%88%BB%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "戻",
-      "id": 1653,
-      "reading": "もど"
-    },
-    {
-      "type": "kana",
-      "value": "る"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%88%BB%E3%82%8B"
+  }
 }

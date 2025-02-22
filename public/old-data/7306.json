@@ -1,0 +1,38 @@
+{
+  "id": 7306,
+  "type": "vocabulary",
+  "characters": "浸る",
+  "primaryMeaning": "To Be Soaked In",
+  "otherMeanings": [
+    "To Be Submerged",
+    "To Be Flooded"
+  ],
+  "primaryReading": "ひたる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2065,
+      "character": "浸",
+      "readings": [
+        "しん",
+        "ひた",
+        "つ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>immersed</kanji>. Things that are immersed are described by verbs like <vocabulary>to be soaked in</vocabulary> or <vocabulary>to be submerged</vocabulary> or <vocabulary>to be flooded</vocabulary>.",
+  "readingMnemonic": "What is soaked and submerged in water (that shouldn't be)? It is your <reading>heater</reading> (ひた). It's all soaked and doesn't work anymore :(",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B5%B8%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "浸",
+      "id": 2065,
+      "reading": "ひた"
+    },
+    {
+      "type": "kana",
+      "value": "る"
+    }
+  ]
+}

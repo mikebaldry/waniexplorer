@@ -1,32 +1,20 @@
 {
   "id": 5903,
   "type": "vocabulary",
-  "characters": "汁",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "汁"
+  },
   "primaryMeaning": "Soup",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "しる",
+  "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You did not learn this reading, so here's a mnemonic to help you: \n\nYou are given some soup. You take a bite and your mouth is cut clean off. That is because you're eating <reading>sheer</reading> (しる) soup.",
   "otherMeanings": [
     "Juice"
   ],
-  "primaryReading": "しる",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1597,
-      "character": "汁",
-      "readings": [
-        "じゅう",
-        "しる"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
-  "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You did not learn this reading, so here's a mnemonic to help you: \n\nYou are given some soup. You take a bite and your mouth is cut clean off. That is because you're eating <reading>sheer</reading> (しる) soup.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B1%81",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "汁",
-      "id": 1597,
-      "reading": "しる"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B1%81"
+  }
 }

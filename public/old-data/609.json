@@ -1,0 +1,34 @@
+{
+  "id": 609,
+  "type": "kanji",
+  "character": "両",
+  "primaryMeaning": "Both",
+  "otherMeanings": [],
+  "primaryReading": "りょう",
+  "readings": [
+    {
+      "reading": "りょう",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "But, you dig too deep and water flows into where you are. Your only hope is a <reading>row</reading> (りょう) boat floating off in the distance.",
+  "meaningMnemonic": "Under the <radical>ground</radical>, which you dug into, you found two great finds. You found <kanji>both</kanji> a <radical>mountain</radical> and a <radical>head</radical>, two strange things to find underground.",
+  "vocabularyIds": [
+    2851,
+    2852,
+    2853,
+    3030,
+    3957,
+    5035,
+    7482,
+    7781,
+    8715
+  ],
+  "radicalIds": [
+    1,
+    29,
+    20
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E4%B8%A1"
+}

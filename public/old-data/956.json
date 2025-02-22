@@ -1,0 +1,37 @@
+{
+  "id": 956,
+  "type": "kanji",
+  "character": "仏",
+  "primaryMeaning": "Buddha",
+  "otherMeanings": [],
+  "primaryReading": "ぶつ",
+  "readings": [
+    {
+      "reading": "ぶつ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ほとけ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Your private <kanji>Buddha</kanji> is a little different than other people's idea of him. Your Buddha is wearing <reading>boots</reading> (ぶつ). They're big and rubber, and they look fabulous on him.",
+  "meaningMnemonic": "Your <radical>private</radical> <radical>leader</radical> is <kanji>Buddha</kanji>. You don't feel the need to tell everyone. But when you're alone you give your time to Buddha and let him lead your life.",
+  "vocabularyIds": [
+    3729,
+    3730,
+    3731,
+    3808,
+    3810,
+    4069,
+    4196,
+    7297
+  ],
+  "radicalIds": [
+    75,
+    140
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E4%BB%8F"
+}

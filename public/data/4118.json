@@ -1,50 +1,21 @@
 {
   "id": 4118,
   "type": "vocabulary",
-  "characters": "焼き肉",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "焼き肉"
+  },
   "primaryMeaning": "Grilled Meat",
+  "meaningMnemonic": "Nicely <kanji>bake</kanji>d <kanji>meat</kanji> is <vocabulary>grilled meat</vocabulary> or <vocabulary>yakiniku</vocabulary>. Mmm, yum! If you go to Japan look out for 焼肉 places (same meaning and reading). They're pretty tasty, if you're into meat at least.",
+  "primaryReading": "やきにく",
+  "readingMnemonic": "焼き uses the reading you learned with the kanji. 肉 does too. Put them on the grill and enjoy!",
   "otherMeanings": [
     "Roast Meat",
     "Yakiniku"
   ],
-  "primaryReading": "やきにく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1040,
-      "character": "焼",
-      "readings": [
-        "や",
-        "しょう"
-      ]
-    },
-    {
-      "id": 577,
-      "character": "肉",
-      "readings": [
-        "にく"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Nicely <kanji>bake</kanji>d <kanji>meat</kanji> is <vocabulary>grilled meat</vocabulary> or <vocabulary>yakiniku</vocabulary>. Mmm, yum! If you go to Japan look out for 焼肉 places (same meaning and reading). They're pretty tasty, if you're into meat at least.",
-  "readingMnemonic": "焼き uses the reading you learned with the kanji. 肉 does too. Put them on the grill and enjoy!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%84%BC%E3%81%8D%E8%82%89",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "焼",
-      "id": 1040,
-      "reading": "や"
-    },
-    {
-      "type": "kana",
-      "value": "き"
-    },
-    {
-      "type": "kanji",
-      "value": "肉",
-      "id": 577,
-      "reading": "にく"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%84%BC%E3%81%8D%E8%82%89"
+  }
 }

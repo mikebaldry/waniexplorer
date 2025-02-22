@@ -1,0 +1,33 @@
+{
+  "id": 814,
+  "type": "kanji",
+  "character": "庭",
+  "primaryMeaning": "Garden",
+  "otherMeanings": [],
+  "primaryReading": "てい",
+  "readings": [
+    {
+      "reading": "てい",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "にわ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Not only is this Yoga King taking over your <kanji>garden</kanji>, but he's ordering you to serve food to his class. \"You there, peasant, fetch these people your freshest <reading>ta</reading>ter (てい) tots from this puny garden to give them strength.\"",
+  "meaningMnemonic": "There's a <radical>canopy</radical> and a man called the <radical>Yoga</radical> <radical>King</radical> standing in the middle of your <kanji>garden</kanji>.",
+  "vocabularyIds": [
+    3321,
+    3322,
+    7712
+  ],
+  "radicalIds": [
+    62,
+    206,
+    48
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%BA%AD"
+}

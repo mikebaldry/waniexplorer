@@ -1,0 +1,48 @@
+{
+  "id": 6723,
+  "type": "vocabulary",
+  "characters": "一斉",
+  "primaryMeaning": "Simultaneous",
+  "otherMeanings": [
+    "All At Once"
+  ],
+  "primaryReading": "いっせい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 440,
+      "character": "一",
+      "readings": [
+        "いち",
+        "いつ",
+        "ひと",
+        "かず"
+      ]
+    },
+    {
+      "id": 1862,
+      "character": "斉",
+      "readings": [
+        "せい",
+        "さい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "At <kanji>one</kanji> moment it happened <kanji>simultaneous</kanji>ly. It was <vocabulary>simultaneous</vocabulary>. It was <vocabulary>all at once</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Watch out for the shortening of 一.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%80%E6%96%89",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "一",
+      "id": 440,
+      "reading": "いっ"
+    },
+    {
+      "type": "kanji",
+      "value": "斉",
+      "id": 1862,
+      "reading": "せい"
+    }
+  ]
+}

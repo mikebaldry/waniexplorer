@@ -1,65 +1,20 @@
 {
   "id": 3451,
   "type": "vocabulary",
-  "characters": "中学生",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "中学生"
+  },
   "primaryMeaning": "Middle School Student",
+  "meaningMnemonic": "You've seen 学生 (means student). Now let's look at a student who's in the middle. Perhaps we can call this a <vocabulary>middle school student</vocabulary> or a <vocabulary>junior high school student</vocabulary>, depending on where you're from.",
+  "primaryReading": "ちゅうがくせい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Junior High School Student"
   ],
-  "primaryReading": "ちゅうがくせい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 469,
-      "character": "中",
-      "readings": [
-        "ちゅう",
-        "なか"
-      ]
-    },
-    {
-      "id": 599,
-      "character": "学",
-      "readings": [
-        "がく",
-        "まな"
-      ]
-    },
-    {
-      "id": 850,
-      "character": "生",
-      "readings": [
-        "せい",
-        "しょう",
-        "い",
-        "なま",
-        "う",
-        "は",
-        "き"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You've seen 学生 (means student). Now let's look at a student who's in the middle. Perhaps we can call this a <vocabulary>middle school student</vocabulary> or a <vocabulary>junior high school student</vocabulary>, depending on where you're from.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%AD%E5%AD%A6%E7%94%9F",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "中",
-      "id": 469,
-      "reading": "ちゅう"
-    },
-    {
-      "type": "kanji",
-      "value": "学",
-      "id": 599,
-      "reading": "がく"
-    },
-    {
-      "type": "kanji",
-      "value": "生",
-      "id": 850,
-      "reading": "せい"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B8%AD%E5%AD%A6%E7%94%9F"
+  }
 }

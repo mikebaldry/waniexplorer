@@ -1,0 +1,48 @@
+{
+  "id": 3694,
+  "type": "vocabulary",
+  "characters": "材木",
+  "primaryMeaning": "Lumber",
+  "otherMeanings": [
+    "Timber",
+    "Wood"
+  ],
+  "primaryReading": "ざいもく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 909,
+      "character": "材",
+      "readings": [
+        "ざい"
+      ]
+    },
+    {
+      "id": 478,
+      "character": "木",
+      "readings": [
+        "もく",
+        "ぼく",
+        "き",
+        "こ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Lumber</kanji> <kanji>tree</kanji>s are what you use to make <vocabulary>lumber</vocabulary> and <vocabulary>timber</vocabulary>.\n\n材木 is typically for lumber or timber that's been processed — the stuff that's cut into planks and ready to use in your next DIY project, for example.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9D%90%E6%9C%A8",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "材",
+      "id": 909,
+      "reading": "ざい"
+    },
+    {
+      "type": "kanji",
+      "value": "木",
+      "id": 478,
+      "reading": "もく"
+    }
+  ]
+}

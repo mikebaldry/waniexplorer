@@ -1,47 +1,21 @@
 {
   "id": 9065,
   "type": "vocabulary",
-  "characters": "温厚",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "温厚"
+  },
   "primaryMeaning": "Mild-Mannered",
+  "meaningMnemonic": "When a <kanji>warm</kanji> temper is applied extra <kanji>thick</kanji>, it leads to a person having a <vocabulary>mild-mannered</vocabulary> or <vocabulary>gentle</vocabulary> personality.\n\nNote that this is a more formal term, so you'll usually encounter it in writing.",
+  "primaryReading": "おんこう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You already know the on'yomi for 温, but not for 厚, so here's a mnemonic to help you remember it:\n\nThe most <vocabulary>mild-mannered</vocabulary> Tofugu staff has to be <reading>on</reading>ion <reading>こう</reading>いち. It's an onion that jumps in for こういち whenever he's not at the office. He's the most <vocabulary>gentle</vocabulary> soul you could imagine, never yelling at anyone. The ideal boss, really.",
   "otherMeanings": [
     "Gentle",
     "Good-Natured"
   ],
-  "primaryReading": "おんこう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 842,
-      "character": "温",
-      "readings": [
-        "おん",
-        "あたた"
-      ]
-    },
-    {
-      "id": 1112,
-      "character": "厚",
-      "readings": [
-        "あつ",
-        "こう"
-      ]
-    }
-  ],
-  "meaningMnemonic": "When a <kanji>warm</kanji> temper is applied extra <kanji>thick</kanji>, it leads to a person having a <vocabulary>mild-mannered</vocabulary> or <vocabulary>gentle</vocabulary> personality.\n\nNote that this is a more formal term, so you'll usually encounter it in writing.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You already know the on'yomi for 温, but not for 厚, so here's a mnemonic to help you remember it:\n\nThe most <vocabulary>mild-mannered</vocabulary> Tofugu staff has to be <reading>on</reading>ion <reading>こう</reading>いち. It's an onion that jumps in for こういち whenever he's not at the office. He's the most <vocabulary>gentle</vocabulary> soul you could imagine, never yelling at anyone. The ideal boss, really.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B8%A9%E5%8E%9A",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "温",
-      "id": 842,
-      "reading": "おん"
-    },
-    {
-      "type": "kanji",
-      "value": "厚",
-      "id": 1112,
-      "reading": "こう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B8%A9%E5%8E%9A"
+  }
 }

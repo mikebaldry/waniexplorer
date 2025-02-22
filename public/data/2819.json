@@ -1,51 +1,20 @@
 {
   "id": 2819,
   "type": "vocabulary",
-  "characters": "売り手",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "売り手"
+  },
   "primaryMeaning": "Seller",
+  "meaningMnemonic": "Remember how 手 can mean “doer”? Here, we have a <kanji>sell</kanji> <kanji>doer</kanji>. Who might that be? It’s someone who does selling – a <vocabulary>seller</vocabulary> or <vocabulary>vendor</vocabulary>.\n\n売り手 is usually used when talking about sellers versus buyers.",
+  "primaryReading": "うりて",
+  "readingMnemonic": "This word uses the kun'yomi readings for both kanji, but you know them both now, so you should be able to read this too! One hint that this is a kun'yomi reading word is the hiragana in the center. It's like two separate words combined together, and when a word is a single kanji / a single kanji with hiragana attached it is usually kun'yomi. This is like two of those, combined.",
   "otherMeanings": [
     "Vendor"
   ],
-  "primaryReading": "うりて",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 587,
-      "character": "売",
-      "readings": [
-        "ばい",
-        "う"
-      ]
-    },
-    {
-      "id": 474,
-      "character": "手",
-      "readings": [
-        "て",
-        "しゅ",
-        "ず"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Remember how 手 can mean “doer”? Here, we have a <kanji>sell</kanji> <kanji>doer</kanji>. Who might that be? It’s someone who does selling – a <vocabulary>seller</vocabulary> or <vocabulary>vendor</vocabulary>.\n\n売り手 is usually used when talking about sellers versus buyers.",
-  "readingMnemonic": "This word uses the kun'yomi readings for both kanji, but you know them both now, so you should be able to read this too! One hint that this is a kun'yomi reading word is the hiragana in the center. It's like two separate words combined together, and when a word is a single kanji / a single kanji with hiragana attached it is usually kun'yomi. This is like two of those, combined.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A3%B2%E3%82%8A%E6%89%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "売",
-      "id": 587,
-      "reading": "う"
-    },
-    {
-      "type": "kana",
-      "value": "り"
-    },
-    {
-      "type": "kanji",
-      "value": "手",
-      "id": 474,
-      "reading": "て"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A3%B2%E3%82%8A%E6%89%8B"
+  }
 }

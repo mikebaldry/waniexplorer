@@ -1,30 +1,38 @@
 {
   "id": 1726,
   "type": "kanji",
-  "character": "埼",
-  "primaryMeaning": "Cape",
-  "otherMeanings": [],
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "埼"
+  },
   "primaryReading": "さい",
   "readings": [
     {
-      "reading": "さい",
       "primary": true,
+      "reading": "さい",
       "type": "kunyomi"
     },
     {
-      "reading": "き",
       "primary": false,
+      "reading": "き",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "The <kanji>cape</kanji> below looks just like your <reading>cy</reading>borg (さい). Or rather, the cyborg you once had, before you had to give him up. It's kinda cross-shaped, it has a slide part, and lots of little fleshy bits. Ah, the memories.",
+  "primaryMeaning": "Cape",
+  "otherMeanings": [],
   "meaningMnemonic": "There is something <radical>odd</radical> sticking out of the <radical>dirt</radical>. Oh wait, it's just the <kanji>cape</kanji> jutting out into the water below. Phew.",
-  "vocabularyIds": [
-    6302
-  ],
-  "radicalIds": [
-    17,
-    326
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%9F%BC"
+  "readingMnemonic": "The <kanji>cape</kanji> below looks just like your <reading>cy</reading>borg (さい). Or rather, the cyborg you once had, before you had to give him up. It's kinda cross-shaped, it has a slide part, and lots of little fleshy bits. Ah, the memories.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%9F%BC"
+  },
+  "related": {
+    "radicals": [
+      17,
+      326
+    ],
+    "vocabularies": [
+      6302
+    ]
+  }
 }

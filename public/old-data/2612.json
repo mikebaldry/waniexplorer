@@ -1,0 +1,34 @@
+{
+  "id": 2612,
+  "type": "vocabulary",
+  "characters": "方",
+  "primaryMeaning": "Direction",
+  "otherMeanings": [
+    "Way"
+  ],
+  "primaryReading": "ほう",
+  "otherReadings": [
+    "かた"
+  ],
+  "kanji": [
+    {
+      "id": 510,
+      "character": "方",
+      "readings": [
+        "ほう",
+        "かた"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.\n\nYou learned 方 means <vocabulary>direction</vocabulary>, but it can also mean <vocabulary>way</vocabulary>, as in この方がいい (this <vocabulary>way</vocabulary> is better) or やり方 (the <vocabulary>way</vocabulary> of doing something). \n\nInterestingly, 方 can also be used to refer to people politely, like こちらの方 (this person). This is because, in traditional Japanese, people—especially noble ones—were often referred to indirectly, as if indicating their presence from a direction.",
+  "readingMnemonic": "Since this word is made up of a single kanji, it should use the kun'yomi reading, but it can actually use kun'yomi or on'yomi depending on the context. Here are a couple mnemonics to help you remember both readings and how they're most often used:\n\nYou can always remember which <vocabulary>direction</vocabulary> your <reading>ho</reading>me (ほう) is in. It's in こっちの方 (this direction)!\n\nAnd the best <vocabulary>way</vocabulary> to get there is with a <reading>cata</reading>pult (かた). Just climb in the catapult and launch yourself there — it's the best やり方.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%96%B9",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "方",
+      "id": 510,
+      "reading": "ほう"
+    }
+  ]
+}

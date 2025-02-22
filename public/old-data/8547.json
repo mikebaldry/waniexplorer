@@ -1,0 +1,70 @@
+{
+  "id": 8547,
+  "type": "vocabulary",
+  "characters": "ご無沙汰",
+  "primaryMeaning": "Neglecting To Contact",
+  "otherMeanings": [
+    "Long Silence"
+  ],
+  "primaryReading": "ごぶさた",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1008,
+      "character": "無",
+      "readings": [
+        "む",
+        "ぶ",
+        "な"
+      ]
+    },
+    {
+      "id": 2434,
+      "character": "沙",
+      "readings": [
+        "さ",
+        "しゃ",
+        "すな",
+        "よなげる"
+      ]
+    },
+    {
+      "id": 2432,
+      "character": "汰",
+      "readings": [
+        "た",
+        "たい",
+        "おご",
+        "にご",
+        "よな"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you <kanji>select</kanji> to talk to <kanji>nothing</kanji> but <kanji>sand</kanji> for a really long time, you're <vocabulary>neglecting to contact</vocabulary> anyone else. Your relatives miss you! Stop talking to sand and call them!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E3%81%94%E7%84%A1%E6%B2%99%E6%B1%B0",
+  "elements": [
+    {
+      "type": "kana",
+      "value": "ご"
+    },
+    {
+      "type": "kanji",
+      "value": "無",
+      "id": 1008,
+      "reading": "ぶ"
+    },
+    {
+      "type": "kanji",
+      "value": "沙",
+      "id": 2434,
+      "reading": "さ"
+    },
+    {
+      "type": "kanji",
+      "value": "汰",
+      "id": 2432,
+      "reading": "た"
+    }
+  ]
+}

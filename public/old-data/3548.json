@@ -1,0 +1,48 @@
+{
+  "id": 3548,
+  "type": "vocabulary",
+  "characters": "飲み会",
+  "primaryMeaning": "Drinking Party",
+  "otherMeanings": [],
+  "primaryReading": "のみかい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 755,
+      "character": "飲",
+      "readings": [
+        "の",
+        "いん"
+      ]
+    },
+    {
+      "id": 566,
+      "character": "会",
+      "readings": [
+        "かい",
+        "あ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You know that 飲む is drink, so this has to do with <kanji>drink</kanji>ing. Also, 会 means <kanji>meet</kanji>, so when you meet to drink you're getting together with others to drink. It's a <vocabulary>drinking party</vocabulary>!",
+  "readingMnemonic": "The readings come from the 飲む vocabulary word and the regular kanji reading for 会. Hopefully you know both of those by now so you can apply them to the reading of this word, too!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%A3%B2%E3%81%BF%E4%BC%9A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "飲",
+      "id": 755,
+      "reading": "の"
+    },
+    {
+      "type": "kana",
+      "value": "み"
+    },
+    {
+      "type": "kanji",
+      "value": "会",
+      "id": 566,
+      "reading": "かい"
+    }
+  ]
+}

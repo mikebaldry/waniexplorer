@@ -1,32 +1,40 @@
 {
   "id": 1900,
   "type": "kanji",
-  "character": "棚",
-  "primaryMeaning": "Shelf",
-  "otherMeanings": [],
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "棚"
+  },
   "primaryReading": "たな",
   "readings": [
     {
-      "reading": "たな",
       "primary": true,
+      "reading": "たな",
       "type": "kunyomi"
     },
     {
-      "reading": "ほう",
       "primary": false,
+      "reading": "ほう",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "To match the moon radical shape, this would have to be a pretty tall <kanji>shelf</kanji>, meaning you can store a <reading>ton-a</reading>-stuff (たな) on it. ",
+  "primaryMeaning": "Shelf",
+  "otherMeanings": [],
   "meaningMnemonic": "Take a <radical>tree</radical> and make two <radical>moon</radical>-shaped <kanji>shelf</kanji> units with it. Moon radical-shaped, that is. Those moon radicals standing side by side kinda look like a shelf, don't you think? The tree on the left is just there to remind you it's made of wood, I guess. A lovely wooden shelf.",
-  "vocabularyIds": [
-    6831,
-    6832,
-    6833
-  ],
-  "radicalIds": [
-    23,
-    43
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%A3%9A"
+  "readingMnemonic": "To match the moon radical shape, this would have to be a pretty tall <kanji>shelf</kanji>, meaning you can store a <reading>ton-a</reading>-stuff (たな) on it. ",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%A3%9A"
+  },
+  "related": {
+    "radicals": [
+      23,
+      43
+    ],
+    "vocabularies": [
+      6831,
+      6832,
+      6833
+    ]
+  }
 }

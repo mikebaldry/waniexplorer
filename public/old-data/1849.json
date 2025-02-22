@@ -1,0 +1,36 @@
+{
+  "id": 1849,
+  "type": "kanji",
+  "character": "潮",
+  "primaryMeaning": "Tide",
+  "otherMeanings": [],
+  "primaryReading": "ちょう",
+  "readings": [
+    {
+      "reading": "ちょう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "しお",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You go check out the <kanji>tide</kanji>. The water is coming in a little stronger, and something washes up on the shore. It's a body! You roll the body over and it is Mrs. <reading>Chou</reading> (ちょう)!",
+  "meaningMnemonic": "A small <radical>tsunami</radical> comes in the <radical>morning</radical> with the <radical>moon</radical>. That just means the ocean gets bigger when the moon's out, and that my friends is simply the <kanji>tide</kanji>.",
+  "vocabularyIds": [
+    6685,
+    6686,
+    6687,
+    6688,
+    6953,
+    6954
+  ],
+  "radicalIds": [
+    103,
+    8793,
+    43
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%BD%AE"
+}

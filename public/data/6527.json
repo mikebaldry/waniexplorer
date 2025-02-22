@@ -1,45 +1,18 @@
 {
   "id": 6527,
   "type": "vocabulary",
-  "characters": "包丁",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "包丁"
+  },
   "primaryMeaning": "Kitchen Knife",
-  "otherMeanings": [],
-  "primaryReading": "ほうちょう",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1795,
-      "character": "包",
-      "readings": [
-        "ほう",
-        "つつ",
-        "くる"
-      ]
-    },
-    {
-      "id": 464,
-      "character": "丁",
-      "readings": [
-        "ちょう",
-        "てい"
-      ]
-    }
-  ],
   "meaningMnemonic": "Something you have to <kanji>wrap</kanji> up when you go into the <kanji>street</kanji> is your <vocabulary>kitchen knife</vocabulary>. Why would you wrap up your kitchen knife? Well, both to keep it from getting damaged and to keep it from accidentally cutting people, obviously.\n\nOkay, the kanji don't really seem related to the meaning here. But that's because this word actually derives from the name of a skilled butcher character in ancient Chinese literature. The more you know!",
+  "primaryReading": "ほうちょう",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8C%85%E4%B8%81",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "包",
-      "id": 1795,
-      "reading": "ほう"
-    },
-    {
-      "type": "kanji",
-      "value": "丁",
-      "id": 464,
-      "reading": "ちょう"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%8C%85%E4%B8%81"
+  }
 }

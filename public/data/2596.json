@@ -1,34 +1,21 @@
 {
   "id": 2596,
   "type": "vocabulary",
-  "characters": "元",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "元"
+  },
   "primaryMeaning": "Origin",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well. When it's used as a prefix, it takes on the related meaning of <vocabulary>ex-</vocabulary> or <vocabulary>former</vocabulary>.",
+  "primaryReading": "もと",
+  "readingMnemonic": "Since this word is made up of a single kanji, it should use the kun'yomi reading. When learning the kanji, you didn't learn that reading, so here's a mnemonic to help you with this word: \n\nYou're trying to trace a person back to their origin so you can learn more about them. You finally get there - it's a castle. The problem is that it's surrounded by a huge <reading>moat</reading> (もと) and you can't get past it because the drawbridge is up. Feel the frustration of this. Think about your goal and how close you are to getting to it if it wasn't for this lousy moat.",
   "otherMeanings": [
     "Ex",
     "Former"
   ],
-  "primaryReading": "もと",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 498,
-      "character": "元",
-      "readings": [
-        "げん",
-        "がん",
-        "もと"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well. When it's used as a prefix, it takes on the related meaning of <vocabulary>ex-</vocabulary> or <vocabulary>former</vocabulary>.",
-  "readingMnemonic": "Since this word is made up of a single kanji, it should use the kun'yomi reading. When learning the kanji, you didn't learn that reading, so here's a mnemonic to help you with this word: \n\nYou're trying to trace a person back to their origin so you can learn more about them. You finally get there - it's a castle. The problem is that it's surrounded by a huge <reading>moat</reading> (もと) and you can't get past it because the drawbridge is up. Feel the frustration of this. Think about your goal and how close you are to getting to it if it wasn't for this lousy moat.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%85%83",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "元",
-      "id": 498,
-      "reading": "もと"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%85%83"
+  }
 }

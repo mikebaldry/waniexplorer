@@ -1,0 +1,44 @@
+{
+  "id": 4575,
+  "type": "vocabulary",
+  "characters": "賀状",
+  "primaryMeaning": "New Year's Card",
+  "otherMeanings": [
+    "Greeting Card"
+  ],
+  "primaryReading": "がじょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1185,
+      "character": "賀",
+      "readings": [
+        "が"
+      ]
+    },
+    {
+      "id": 1183,
+      "character": "状",
+      "readings": [
+        "じょう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji> Congratulations</kanji> on your <kanji>condition</kanji>. I'll send you a <vocabulary>greeting card</vocabulary> to make it official. Though this kind of card is almost always in the form of a <vocabulary>New Year's Card</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%B3%80%E7%8A%B6-4575",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "賀",
+      "id": 1185,
+      "reading": "が"
+    },
+    {
+      "type": "kanji",
+      "value": "状",
+      "id": 1183,
+      "reading": "じょう"
+    }
+  ]
+}

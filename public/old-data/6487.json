@@ -1,0 +1,46 @@
+{
+  "id": 6487,
+  "type": "vocabulary",
+  "characters": "措辞",
+  "primaryMeaning": "Wording",
+  "otherMeanings": [
+    "Phrasing",
+    "Diction"
+  ],
+  "primaryReading": "そじ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1779,
+      "character": "措",
+      "readings": [
+        "そ"
+      ]
+    },
+    {
+      "id": 981,
+      "character": "辞",
+      "readings": [
+        "じ",
+        "や"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You <kanji>set aside</kanji> these <kanji>word</kanji>s specifically so you could get the <vocabulary>wording</vocabulary> right. Wording is important sometimes, like when you're trying to communicate something sensitive, or when you're writing a poem. Sometimes only certain words will do.\n\nNote that 措辞 usually refers to the <vocabulary>phrasing</vocabulary> or <vocabulary>diction</vocabulary> of writing, not speech.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8E%AA%E8%BE%9E",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "措",
+      "id": 1779,
+      "reading": "そ"
+    },
+    {
+      "type": "kanji",
+      "value": "辞",
+      "id": 981,
+      "reading": "じ"
+    }
+  ]
+}

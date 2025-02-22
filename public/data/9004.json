@@ -1,33 +1,21 @@
 {
   "id": 9004,
   "type": "vocabulary",
-  "characters": "屁",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "屁"
+  },
   "primaryMeaning": "Flatulence",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "へ",
+  "readingMnemonic": "You already learned this reading with the kanji, so you should be good to go!",
   "otherMeanings": [
     "Gas",
     "Fart"
   ],
-  "primaryReading": "へ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 8994,
-      "character": "屁",
-      "readings": [
-        "へ",
-        "ひ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
-  "readingMnemonic": "You already learned this reading with the kanji, so you should be good to go!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B1%81",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "屁",
-      "id": 8994,
-      "reading": "へ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%B1%81"
+  }
 }

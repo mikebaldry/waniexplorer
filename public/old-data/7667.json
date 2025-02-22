@@ -1,0 +1,39 @@
+{
+  "id": 7667,
+  "type": "vocabulary",
+  "characters": "灯る",
+  "primaryMeaning": "To Burn",
+  "otherMeanings": [
+    "To Be Lighted",
+    "To Be Lit",
+    "To Be Burning"
+  ],
+  "primaryReading": "ともる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2037,
+      "character": "灯",
+      "readings": [
+        "とう",
+        "あかり",
+        "とも"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>lamp</kanji>, so the verb version is <vocabulary>to burn</vocabulary> or <vocabulary>to be lit</vocabulary>. Just like what you'd do with a lamp.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You haven't learned this reading yet, so here's a mnemonic to help you:\n\nWho wanted the candle <vocabulary>to be lit</vocabulary>? <reading>Tom</reading> (とも) Cruise. He's afraid of the dark so he always wants all the lights and candles in the house to be burning at all times.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%81%AF%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "灯",
+      "id": 2037,
+      "reading": "とも"
+    },
+    {
+      "type": "kana",
+      "value": "る"
+    }
+  ]
+}

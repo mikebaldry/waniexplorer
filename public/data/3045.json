@@ -1,34 +1,18 @@
 {
   "id": 3045,
   "type": "vocabulary",
-  "characters": "朝ごはん",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "朝ごはん"
+  },
   "primaryMeaning": "Breakfast",
-  "otherMeanings": [],
-  "primaryReading": "あさごはん",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 695,
-      "character": "朝",
-      "readings": [
-        "あさ",
-        "ちょう"
-      ]
-    }
-  ],
   "meaningMnemonic": "ごはん is a food or meal (maybe you'll learn the kanji for it later, but it's not usually used, so you're learning it this way now). What is your <kanji>morning</kanji> meal? That is <vocabulary>breakfast</vocabulary> (not to be confused with second breakfast, you hobbit).",
+  "primaryReading": "あさごはん",
   "readingMnemonic": "The reading for 朝 is the same as the one you learned with the kanji, meaning you should be able to read everything here.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9C%9D%E3%81%94%E3%81%AF%E3%82%93",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "朝",
-      "id": 695,
-      "reading": "あさ"
-    },
-    {
-      "type": "kana",
-      "value": "ごはん"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%9C%9D%E3%81%94%E3%81%AF%E3%82%93"
+  }
 }

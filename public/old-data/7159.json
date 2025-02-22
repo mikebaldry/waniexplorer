@@ -1,0 +1,63 @@
+{
+  "id": 7159,
+  "type": "vocabulary",
+  "characters": "魔法使い",
+  "primaryMeaning": "Wizard",
+  "otherMeanings": [
+    "Witch",
+    "Sorcerer"
+  ],
+  "primaryReading": "まほうつかい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1945,
+      "character": "魔",
+      "readings": [
+        "ま"
+      ]
+    },
+    {
+      "id": 949,
+      "character": "法",
+      "readings": [
+        "ほう"
+      ]
+    },
+    {
+      "id": 709,
+      "character": "使",
+      "readings": [
+        "し",
+        "つか"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You know that 魔法 is \"magic\" so what about someone who <kanji>use</kanji>s <kanji>magic</kanji>? What are they called? How about a <vocabulary>wizard</vocabulary>, <vocabulary>witch</vocabulary>, or <vocabulary>sorcerer</vocabulary>?",
+  "readingMnemonic": "The reading for 魔法 is what you learned with the kanji. The reading for 使い is the same as 使う.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%AD%94%E6%B3%95%E4%BD%BF%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "魔",
+      "id": 1945,
+      "reading": "ま"
+    },
+    {
+      "type": "kanji",
+      "value": "法",
+      "id": 949,
+      "reading": "ほう"
+    },
+    {
+      "type": "kanji",
+      "value": "使",
+      "id": 709,
+      "reading": "つか"
+    },
+    {
+      "type": "kana",
+      "value": "い"
+    }
+  ]
+}

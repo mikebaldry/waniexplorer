@@ -1,57 +1,18 @@
 {
   "id": 8974,
   "type": "vocabulary",
-  "characters": "中華麺",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "中華麺"
+  },
   "primaryMeaning": "Chinese Noodles",
-  "otherMeanings": [],
-  "primaryReading": "ちゅうかめん",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 469,
-      "character": "中",
-      "readings": [
-        "ちゅう",
-        "なか"
-      ]
-    },
-    {
-      "id": 1446,
-      "character": "華",
-      "readings": [
-        "か",
-        "はな"
-      ]
-    },
-    {
-      "id": 8955,
-      "character": "麺",
-      "readings": [
-        "めん"
-      ]
-    }
-  ],
   "meaningMnemonic": "You already know that 中華 means Chinese, and <kanji>麺</kanji> means noodles. Put them together and what have you got? That's right, <vocabulary>Chinese noodles</vocabulary>! Yum!",
+  "primaryReading": "ちゅうかめん",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%AD%E8%8F%AF%E9%BA%BA",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "中",
-      "id": 469,
-      "reading": "ちゅう"
-    },
-    {
-      "type": "kanji",
-      "value": "華",
-      "id": 1446,
-      "reading": "か"
-    },
-    {
-      "type": "kanji",
-      "value": "麺",
-      "id": 8955,
-      "reading": "めん"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B8%AD%E8%8F%AF%E9%BA%BA"
+  }
 }

@@ -1,66 +1,21 @@
 {
   "id": 7632,
   "type": "vocabulary",
-  "characters": "文字通り",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "文字通り"
+  },
   "primaryMeaning": "Literal",
+  "meaningMnemonic": "Remember how you learned the words 文字 and 通り? Well an \"avenue\" made of \"letters\" is <vocabulary>literally</vocabulary> <vocabulary>to the letter</vocabulary>. Wink.",
+  "primaryReading": "もじどおり",
+  "readingMnemonic": "This is a combination of the words 文字 and 通り, which you learned already, so you should be able to read this one. Just make sure you remember that とおり becomes どおり because of rendaku.",
   "otherMeanings": [
     "Literally",
     "To The Letter"
   ],
-  "primaryReading": "もじどおり",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 475,
-      "character": "文",
-      "readings": [
-        "ぶん",
-        "もん",
-        "ふみ"
-      ]
-    },
-    {
-      "id": 545,
-      "character": "字",
-      "readings": [
-        "じ"
-      ]
-    },
-    {
-      "id": 665,
-      "character": "通",
-      "readings": [
-        "つう",
-        "とお",
-        "かよ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Remember how you learned the words 文字 and 通り? Well an \"avenue\" made of \"letters\" is <vocabulary>literally</vocabulary> <vocabulary>to the letter</vocabulary>. Wink.",
-  "readingMnemonic": "This is a combination of the words 文字 and 通り, which you learned already, so you should be able to read this one. Just make sure you remember that とおり becomes どおり because of rendaku.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%96%87%E5%AD%97%E9%80%9A%E3%82%8A",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "文",
-      "id": 475,
-      "reading": "も"
-    },
-    {
-      "type": "kanji",
-      "value": "字",
-      "id": 545,
-      "reading": "じ"
-    },
-    {
-      "type": "kanji",
-      "value": "通",
-      "id": 665,
-      "reading": "どお"
-    },
-    {
-      "type": "kana",
-      "value": "り"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%96%87%E5%AD%97%E9%80%9A%E3%82%8A"
+  }
 }

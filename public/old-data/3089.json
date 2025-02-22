@@ -1,0 +1,43 @@
+{
+  "id": 3089,
+  "type": "vocabulary",
+  "characters": "道具",
+  "primaryMeaning": "Tool",
+  "otherMeanings": [],
+  "primaryReading": "どうぐ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 700,
+      "character": "道",
+      "readings": [
+        "どう",
+        "みち"
+      ]
+    },
+    {
+      "id": 710,
+      "character": "具",
+      "readings": [
+        "ぐ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>tool</kanji>s you use on the <kanji>road</kanji> of life are important to have. What is your most important <vocabulary>tool</vocabulary>?",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%81%93%E5%85%B7",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "道",
+      "id": 700,
+      "reading": "どう"
+    },
+    {
+      "type": "kanji",
+      "value": "具",
+      "id": 710,
+      "reading": "ぐ"
+    }
+  ]
+}

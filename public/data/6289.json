@@ -1,38 +1,22 @@
 {
   "id": 6289,
   "type": "vocabulary",
-  "characters": "免れる",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "免れる"
+  },
   "primaryMeaning": "To Escape Something",
+  "meaningMnemonic": "You are going to <kanji>excuse</kanji> yourself from the situation, and in order to do that, you have <vocabulary>to escape from</vocabulary> the person / thing trying to hold you there in order <vocabulary>to avoid</vocabulary> them.",
+  "primaryReading": "まぬかれる",
+  "readingMnemonic": "In order to do that, you jump inside your <reading>man(u) car</reading> (まぬか) which is a car for a tough man(u) that needs to drive fast, just like you.",
   "otherMeanings": [
     "To Avoid Something"
   ],
-  "primaryReading": "まぬかれる",
   "otherReadings": [
     "まぬがれる"
   ],
-  "kanji": [
-    {
-      "id": 1722,
-      "character": "免",
-      "readings": [
-        "めん",
-        "まぬか"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You are going to <kanji>excuse</kanji> yourself from the situation, and in order to do that, you have <vocabulary>to escape from</vocabulary> the person / thing trying to hold you there in order <vocabulary>to avoid</vocabulary> them.",
-  "readingMnemonic": "In order to do that, you jump inside your <reading>man(u) car</reading> (まぬか) which is a car for a tough man(u) that needs to drive fast, just like you.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%85%8D%E3%82%8C%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "免",
-      "id": 1722,
-      "reading": "まぬか"
-    },
-    {
-      "type": "kana",
-      "value": "れる"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%85%8D%E3%82%8C%E3%82%8B"
+  }
 }

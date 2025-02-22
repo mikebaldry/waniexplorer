@@ -1,46 +1,20 @@
 {
   "id": 7094,
   "type": "vocabulary",
-  "characters": "躍如",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "躍如"
+  },
   "primaryMeaning": "Vividly Depicted",
+  "meaningMnemonic": "A <kanji>leap</kanji> of <kanji>likeness</kanji> is when something that's not real takes a big leap towards the likeness to reality. This happens when something is <vocabulary>vividly depicted</vocabulary> or <vocabulary>clearly expressed</vocabulary>.\n\nThis word is generally used in the phrase 面目躍如たる, which functions as an adjective to exemplify someone’s honor.",
+  "primaryReading": "やくじょ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Clearly Expressed"
   ],
-  "primaryReading": "やくじょ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1738,
-      "character": "躍",
-      "readings": [
-        "やく",
-        "おど"
-      ]
-    },
-    {
-      "id": 1991,
-      "character": "如",
-      "readings": [
-        "じょ",
-        "ごと"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>leap</kanji> of <kanji>likeness</kanji> is when something that's not real takes a big leap towards the likeness to reality. This happens when something is <vocabulary>vividly depicted</vocabulary> or <vocabulary>clearly expressed</vocabulary>.\n\nThis word is generally used in the phrase 面目躍如たる, which functions as an adjective to exemplify someone’s honor.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%BA%8D%E5%A6%82",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "躍",
-      "id": 1738,
-      "reading": "やく"
-    },
-    {
-      "type": "kanji",
-      "value": "如",
-      "id": 1991,
-      "reading": "じょ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%BA%8D%E5%A6%82"
+  }
 }

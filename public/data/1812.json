@@ -1,26 +1,34 @@
 {
   "id": 1812,
   "type": "kanji",
-  "character": "弧",
-  "primaryMeaning": "Arc",
-  "otherMeanings": [],
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "弧"
+  },
   "primaryReading": "こ",
   "readings": [
     {
-      "reading": "こ",
       "primary": true,
+      "reading": "こ",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "Shooting melons in an <kanji>arc</kanji> is something little <reading>子</reading>'s (こ) love to do. It also helps that when they come down from the arc they smash all over the place.",
+  "primaryMeaning": "Arc",
+  "otherMeanings": [],
   "meaningMnemonic": "Shoot a <radical>melon</radical> out of a <radical>bow</radical> and it will fly in a steep <kanji>arc</kanji>. Melons are too heavy to fly straight, after all.",
-  "vocabularyIds": [
-    6587,
-    6588
-  ],
-  "radicalIds": [
-    36,
-    384
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%BC%A7"
+  "readingMnemonic": "Shooting melons in an <kanji>arc</kanji> is something little <reading>子</reading>'s (こ) love to do. It also helps that when they come down from the arc they smash all over the place.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%BC%A7"
+  },
+  "related": {
+    "radicals": [
+      36,
+      384
+    ],
+    "vocabularies": [
+      6587,
+      6588
+    ]
+  }
 }

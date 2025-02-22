@@ -1,39 +1,21 @@
 {
   "id": 3466,
   "type": "vocabulary",
-  "characters": "交わる",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "交わる"
+  },
   "primaryMeaning": "To Intersect",
+  "meaningMnemonic": "You know that the kanji means <kanji>mix</kanji> and the word 交ぜる means \"to mix,\" so it probably has something to do with that. This word means <vocabulary>to intersect</vocabulary>, which is kind of like mixing. When two things intersect with each other, they're getting mixed up, so that's where this word gets its meaning. \n\nTo remember that this one means \"to intersect,\" remember the わ as <reading>wa</reading>lk. You're walking around, and then you intersect with some people on the street.",
+  "primaryReading": "まじわる",
+  "readingMnemonic": "The reading is almost the same as 交ぜる which you should be familiar with by now. It has the ま but it also has an extra じ in there. That じ is there because you intersect with a group of <reading>mage</reading>s (まじ) that catch you on fire as you walk past.",
   "otherMeanings": [
     "To Cross",
     "To Mingle"
   ],
-  "primaryReading": "まじわる",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 565,
-      "character": "交",
-      "readings": [
-        "こう",
-        "まじ",
-        "ま",
-        "か"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You know that the kanji means <kanji>mix</kanji> and the word 交ぜる means \"to mix,\" so it probably has something to do with that. This word means <vocabulary>to intersect</vocabulary>, which is kind of like mixing. When two things intersect with each other, they're getting mixed up, so that's where this word gets its meaning. \n\nTo remember that this one means \"to intersect,\" remember the わ as <reading>wa</reading>lk. You're walking around, and then you intersect with some people on the street.",
-  "readingMnemonic": "The reading is almost the same as 交ぜる which you should be familiar with by now. It has the ま but it also has an extra じ in there. That じ is there because you intersect with a group of <reading>mage</reading>s (まじ) that catch you on fire as you walk past.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BA%A4%E3%82%8F%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "交",
-      "id": 565,
-      "reading": "まじ"
-    },
-    {
-      "type": "kana",
-      "value": "わる"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BA%A4%E3%82%8F%E3%82%8B"
+  }
 }

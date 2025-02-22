@@ -1,36 +1,22 @@
 {
   "id": 8342,
   "type": "vocabulary",
-  "characters": "乙",
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "乙"
+  },
   "primaryMeaning": "Second",
+  "meaningMnemonic": "If something is the <kanji>latter</kanji>, it can't be first, it has to be at least <vocabulary>second</vocabulary>. This works for lists too. So if you have A through D, it's going to be <vocabulary>B</vocabulary>.\n\nThis word is also used as slang for おつかれさま, which is where the <vocabulary>thanks</vocabulary> meaning comes from. It can also be used as a prefix to mean <vocabulary>chic</vocabulary>.",
+  "primaryReading": "おつ",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
   "otherMeanings": [
     "B",
     "Thanks",
     "Chic"
   ],
-  "primaryReading": "おつ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2344,
-      "character": "乙",
-      "readings": [
-        "おつ",
-        "いつ",
-        "おと",
-        "きのと"
-      ]
-    }
-  ],
-  "meaningMnemonic": "If something is the <kanji>latter</kanji>, it can't be first, it has to be at least <vocabulary>second</vocabulary>. This works for lists too. So if you have A through D, it's going to be <vocabulary>B</vocabulary>.\n\nThis word is also used as slang for おつかれさま, which is where the <vocabulary>thanks</vocabulary> meaning comes from. It can also be used as a prefix to mean <vocabulary>chic</vocabulary>.",
-  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B9%99",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "乙",
-      "id": 2344,
-      "reading": "おつ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B9%99"
+  }
 }

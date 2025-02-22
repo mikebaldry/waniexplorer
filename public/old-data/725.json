@@ -1,0 +1,59 @@
+{
+  "id": 725,
+  "type": "kanji",
+  "character": "度",
+  "primaryMeaning": "Degree",
+  "otherMeanings": [
+    "Occurrence"
+  ],
+  "primaryReading": "ど",
+  "readings": [
+    {
+      "reading": "ど",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "たく",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "たび",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Also angled at exact <kanji>degree</kanji>s is the <reading>do</reading>g (ど).",
+  "meaningMnemonic": "A <radical>yurt</radical>'s <radical>stool</radical> is always placed at certain <kanji>degree</kanji>s. The degrees change depending on specific <kanji>occurrence</kanji>s.",
+  "vocabularyIds": [
+    3123,
+    3124,
+    3125,
+    3126,
+    3127,
+    3161,
+    3387,
+    4342,
+    4414,
+    4573,
+    4746,
+    4893,
+    5052,
+    5183,
+    5188,
+    6429,
+    7222,
+    7493,
+    7578,
+    7605,
+    7682,
+    8012,
+    9022
+  ],
+  "radicalIds": [
+    8787,
+    30
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%BA%A6"
+}

@@ -1,0 +1,43 @@
+{
+  "id": 5718,
+  "type": "vocabulary",
+  "characters": "心臓",
+  "primaryMeaning": "Heart",
+  "otherMeanings": [],
+  "primaryReading": "しんぞう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 508,
+      "character": "心",
+      "readings": [
+        "しん",
+        "こころ"
+      ]
+    },
+    {
+      "id": 1546,
+      "character": "臓",
+      "readings": [
+        "ぞう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>heart</kanji> <kanji>internal organs</kanji> is the <vocabulary>heart</vocabulary>, of course.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BF%83%E8%87%93",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "心",
+      "id": 508,
+      "reading": "しん"
+    },
+    {
+      "type": "kanji",
+      "value": "臓",
+      "id": 1546,
+      "reading": "ぞう"
+    }
+  ]
+}

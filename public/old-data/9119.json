@@ -1,0 +1,48 @@
+{
+  "id": 9119,
+  "type": "vocabulary",
+  "characters": "詠嘆",
+  "primaryMeaning": "Deep Feeling",
+  "otherMeanings": [
+    "Exclamation",
+    "Marvel"
+  ],
+  "primaryReading": "えいたん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2420,
+      "character": "詠",
+      "readings": [
+        "えい",
+        "よ",
+        "うた"
+      ]
+    },
+    {
+      "id": 1459,
+      "character": "嘆",
+      "readings": [
+        "たん",
+        "なげ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you <kanji>compose</kanji> something with a <kanji>sigh</kanji>, it's because you're experiencing a <vocabulary>deep feeling</vocabulary>. You might express this deep feeling with an <vocabulary>exclamation</vocabulary>, as you <vocabulary>marvel</vocabulary> at the wonders of the world.\n\nThis word can be used for a range of deep feelings, good or bad, and can also be used for the expression of those feelings, so you'll notice that the English translation varies quite a bit depending on the context.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi for both kanji. You should be able to read it on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A9%A0%E5%98%86",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "詠",
+      "id": 2420,
+      "reading": "えい"
+    },
+    {
+      "type": "kanji",
+      "value": "嘆",
+      "id": 1459,
+      "reading": "たん"
+    }
+  ]
+}

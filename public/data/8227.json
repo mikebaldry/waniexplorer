@@ -1,36 +1,20 @@
 {
   "id": 8227,
   "type": "vocabulary",
-  "characters": "粗い",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "粗い"
+  },
   "primaryMeaning": "Coarse",
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>coarse</kanji>? <vocabulary>Coarse</vocabulary> or <vocabulary>rough</vocabulary>. ",
+  "primaryReading": "あらい",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn this reading yet, so here's a mnemonic to help you:\n\nThe most <vocabulary>coarse</vocabulary> thing you can think of is <reading>a ro</reading>ck (あら). You rubbed it on your face and it was really <vocabulary>rough</vocabulary> and kinda painful. You probably shouldn't be rubbing a rock on your face, actually.",
   "otherMeanings": [
     "Rough"
   ],
-  "primaryReading": "あらい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2281,
-      "character": "粗",
-      "readings": [
-        "そ",
-        "あら"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>coarse</kanji>? <vocabulary>Coarse</vocabulary> or <vocabulary>rough</vocabulary>. ",
-  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn this reading yet, so here's a mnemonic to help you:\n\nThe most <vocabulary>coarse</vocabulary> thing you can think of is <reading>a ro</reading>ck (あら). You rubbed it on your face and it was really <vocabulary>rough</vocabulary> and kinda painful. You probably shouldn't be rubbing a rock on your face, actually.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B2%97%E3%81%84",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "粗",
-      "id": 2281,
-      "reading": "あら"
-    },
-    {
-      "type": "kana",
-      "value": "い"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%B2%97%E3%81%84"
+  }
 }

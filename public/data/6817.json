@@ -1,46 +1,18 @@
 {
   "id": 6817,
   "type": "vocabulary",
-  "characters": "金髪",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "金髪"
+  },
   "primaryMeaning": "Blonde",
-  "otherMeanings": [],
-  "primaryReading": "きんぱつ",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 602,
-      "character": "金",
-      "readings": [
-        "きん",
-        "こん",
-        "かね",
-        "かな"
-      ]
-    },
-    {
-      "id": 1894,
-      "character": "髪",
-      "readings": [
-        "かみ",
-        "はつ"
-      ]
-    }
-  ],
   "meaningMnemonic": "<kanji>Gold</kanji> <kanji>hair</kanji> is <vocabulary>blonde</vocabulary> hair. Makes sense!",
+  "primaryReading": "きんぱつ",
   "readingMnemonic": "The reading for 髪 isn't the one you learned. It's actually はつ, but it's getting rendaku'd here. So, to remember the reading of it for this word, just think about how if you were <vocabulary>blonde</vocabulary>, you'd wear many <reading>hats</reading> (はつ) to hide it. I have no idea why you'd hide it, but you can come up with a compelling reason that makes sense to you.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%87%91%E9%AB%AA",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "金",
-      "id": 602,
-      "reading": "きん"
-    },
-    {
-      "type": "kanji",
-      "value": "髪",
-      "id": 1894,
-      "reading": "ぱつ"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%87%91%E9%AB%AA"
+  }
 }

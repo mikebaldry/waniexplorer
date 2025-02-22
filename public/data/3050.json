@@ -1,49 +1,20 @@
 {
   "id": 3050,
   "type": "vocabulary",
-  "characters": "交番",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "交番"
+  },
   "primaryMeaning": "Police Box",
+  "meaningMnemonic": "This word is a little tricky — at first, the combination of <kanji>mix</kanji> and <kanji>number in a series</kanji> doesn't seem to add up to <vocabulary>police box</vocabulary>, but there's a catch. This word is actually an abbreviated combo of two other words: The 交 comes from 交替 (in rotation) and the 番 comes from 立番 (standing watch).\n\nA <vocabulary>police box</vocabulary> is basically a tiny community police station staffed by one or two officers. It's something that is not common in many Western countries, but it is pretty much all over Japan. \n\n",
+  "primaryReading": "こうばん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Koban"
   ],
-  "primaryReading": "こうばん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 565,
-      "character": "交",
-      "readings": [
-        "こう",
-        "まじ",
-        "ま",
-        "か"
-      ]
-    },
-    {
-      "id": 696,
-      "character": "番",
-      "readings": [
-        "ばん",
-        "つが",
-        "つがい"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This word is a little tricky — at first, the combination of <kanji>mix</kanji> and <kanji>number in a series</kanji> doesn't seem to add up to <vocabulary>police box</vocabulary>, but there's a catch. This word is actually an abbreviated combo of two other words: The 交 comes from 交替 (in rotation) and the 番 comes from 立番 (standing watch).\n\nA <vocabulary>police box</vocabulary> is basically a tiny community police station staffed by one or two officers. It's something that is not common in many Western countries, but it is pretty much all over Japan. \n\n",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BA%A4%E7%95%AA",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "交",
-      "id": 565,
-      "reading": "こう"
-    },
-    {
-      "type": "kanji",
-      "value": "番",
-      "id": 696,
-      "reading": "ばん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BA%A4%E7%95%AA"
+  }
 }

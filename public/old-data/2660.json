@@ -1,0 +1,60 @@
+{
+  "id": 2660,
+  "type": "vocabulary",
+  "characters": "一文字",
+  "primaryMeaning": "Straight Line",
+  "otherMeanings": [],
+  "primaryReading": "いちもんじ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 440,
+      "character": "一",
+      "readings": [
+        "いち",
+        "いつ",
+        "ひと",
+        "かず"
+      ]
+    },
+    {
+      "id": 475,
+      "character": "文",
+      "readings": [
+        "ぶん",
+        "もん",
+        "ふみ"
+      ]
+    },
+    {
+      "id": 545,
+      "character": "字",
+      "readings": [
+        "じ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you have <kanji>one</kanji> <kanji>writing</kanji> <kanji>letter</kanji> what do you have? Here's a hint, there's one kanji in this word that consists of one writing letter (aka a <vocabulary>straight line</vocabulary>). ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 文 has two on'yomi readings, here's a mnemonic to help you remember which one to use:\n\n<vocabulary>Straight line</vocabulary>s are for <reading>mon</reading>sters (もん). Only a monster would ever draw a perfectly straight line. You're no monster, so no straight lines for you!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%80%E6%96%87%E5%AD%97",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "一",
+      "id": 440,
+      "reading": "いち"
+    },
+    {
+      "type": "kanji",
+      "value": "文",
+      "id": 475,
+      "reading": "もん"
+    },
+    {
+      "type": "kanji",
+      "value": "字",
+      "id": 545,
+      "reading": "じ"
+    }
+  ]
+}

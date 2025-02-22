@@ -1,45 +1,18 @@
 {
   "id": 2961,
   "type": "vocabulary",
-  "characters": "何時",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "何時"
+  },
   "primaryMeaning": "What Time",
-  "otherMeanings": [],
-  "primaryReading": "なんじ",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 582,
-      "character": "何",
-      "readings": [
-        "なに",
-        "なん",
-        "か"
-      ]
-    },
-    {
-      "id": 662,
-      "character": "時",
-      "readings": [
-        "じ",
-        "とき"
-      ]
-    }
-  ],
   "meaningMnemonic": "This is a good word to know to ask for the time. <kanji>What</kanji> is the <kanji>time</kanji>? This is how you ask <vocabulary>what time</vocabulary> it is.",
+  "primaryReading": "なんじ",
   "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BD%95%E6%99%82",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "何",
-      "id": 582,
-      "reading": "なん"
-    },
-    {
-      "type": "kanji",
-      "value": "時",
-      "id": 662,
-      "reading": "じ"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BD%95%E6%99%82"
+  }
 }

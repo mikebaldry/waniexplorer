@@ -1,32 +1,40 @@
 {
   "id": 1992,
   "type": "kanji",
-  "character": "婆",
-  "primaryMeaning": "Old Woman",
-  "otherMeanings": [],
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "婆"
+  },
   "primaryReading": "ば",
   "readings": [
     {
-      "reading": "ば",
       "primary": true,
+      "reading": "ば",
       "type": "onyomi"
     },
     {
-      "reading": "ばあ",
       "primary": false,
+      "reading": "ばあ",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "In an attempt to distract you from the fact that she is actually an <kanji>old woman</kanji>, the old woman starts to <reading>baa</reading> (ば) and act like a sheep. The old woman goes \"Baa! Baa!\" and hops around on all fours like a sheep.",
+  "primaryMeaning": "Old Woman",
+  "otherMeanings": [],
   "meaningMnemonic": "A <radical>wave</radical> crashes into a <radical>woman</radical>, transforming her into an <kanji>old woman</kanji>! The wave washes away all of the woman's makeup, revealing her to be an old woman. The makeup she had on made her appear to be a much younger woman, but once the wave washed away her makeup, she was revealed for the old woman she is.",
-  "vocabularyIds": [
-    7095,
-    7096,
-    7261
-  ],
-  "radicalIds": [
-    402,
-    19
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%A9%86"
+  "readingMnemonic": "In an attempt to distract you from the fact that she is actually an <kanji>old woman</kanji>, the old woman starts to <reading>baa</reading> (ば) and act like a sheep. The old woman goes \"Baa! Baa!\" and hops around on all fours like a sheep.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%A9%86"
+  },
+  "related": {
+    "radicals": [
+      402,
+      19
+    ],
+    "vocabularies": [
+      7095,
+      7096,
+      7261
+    ]
+  }
 }

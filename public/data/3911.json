@@ -1,61 +1,21 @@
 {
   "id": 3911,
   "type": "vocabulary",
-  "characters": "基本的",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "基本的"
+  },
   "primaryMeaning": "Fundamental",
+  "meaningMnemonic": "The things that are <kanji>basics</kanji> (基本) <kanji>like</kanji> (的) are <vocabulary>basic</vocabulary> and <vocabulary>fundamental</vocabulary>. ",
+  "primaryReading": "きほんてき",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Knowing how to read the word 基本 will be helpful too.",
   "otherMeanings": [
     "Basic",
     "Standard"
   ],
-  "primaryReading": "きほんてき",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 917,
-      "character": "基",
-      "readings": [
-        "き",
-        "もと"
-      ]
-    },
-    {
-      "id": 487,
-      "character": "本",
-      "readings": [
-        "ほん",
-        "もと"
-      ]
-    },
-    {
-      "id": 914,
-      "character": "的",
-      "readings": [
-        "てき",
-        "まと"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The things that are <kanji>basics</kanji> (基本) <kanji>like</kanji> (的) are <vocabulary>basic</vocabulary> and <vocabulary>fundamental</vocabulary>. ",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Knowing how to read the word 基本 will be helpful too.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%9F%BA%E6%9C%AC%E7%9A%84",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "基",
-      "id": 917,
-      "reading": "き"
-    },
-    {
-      "type": "kanji",
-      "value": "本",
-      "id": 487,
-      "reading": "ほん"
-    },
-    {
-      "type": "kanji",
-      "value": "的",
-      "id": 914,
-      "reading": "てき"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%9F%BA%E6%9C%AC%E7%9A%84"
+  }
 }

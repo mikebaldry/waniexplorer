@@ -1,60 +1,20 @@
 {
   "id": 8208,
   "type": "vocabulary",
-  "characters": "披露宴",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "披露宴"
+  },
   "primaryMeaning": "Wedding Reception",
+  "meaningMnemonic": "You already learned that 披露 means \"announcement\" or \"display,\" so add a <kanji>banquet</kanji> to that and you're at a <vocabulary>wedding reception</vocabulary>! Or if no one's getting married but they're showing off something at a big place with food and stuff it's a just a normal <vocabulary>reception</vocabulary>.",
+  "primaryReading": "ひろうえん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Reception"
   ],
-  "primaryReading": "ひろうえん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2201,
-      "character": "披",
-      "readings": [
-        "ひ"
-      ]
-    },
-    {
-      "id": 1845,
-      "character": "露",
-      "readings": [
-        "ろ",
-        "ろう",
-        "つゆ"
-      ]
-    },
-    {
-      "id": 1404,
-      "character": "宴",
-      "readings": [
-        "えん",
-        "うたげ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You already learned that 披露 means \"announcement\" or \"display,\" so add a <kanji>banquet</kanji> to that and you're at a <vocabulary>wedding reception</vocabulary>! Or if no one's getting married but they're showing off something at a big place with food and stuff it's a just a normal <vocabulary>reception</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8A%AB%E9%9C%B2%E5%AE%B4",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "披",
-      "id": 2201,
-      "reading": "ひ"
-    },
-    {
-      "type": "kanji",
-      "value": "露",
-      "id": 1845,
-      "reading": "ろう"
-    },
-    {
-      "type": "kanji",
-      "value": "宴",
-      "id": 1404,
-      "reading": "えん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%8A%AB%E9%9C%B2%E5%AE%B4"
+  }
 }

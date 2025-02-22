@@ -1,0 +1,47 @@
+{
+  "id": 2948,
+  "type": "vocabulary",
+  "characters": "年末",
+  "primaryMeaning": "Year End",
+  "otherMeanings": [
+    "End Of The Year",
+    "End Of Year"
+  ],
+  "primaryReading": "ねんまつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 546,
+      "character": "年",
+      "readings": [
+        "ねん",
+        "とし"
+      ]
+    },
+    {
+      "id": 657,
+      "character": "末",
+      "readings": [
+        "まつ",
+        "すえ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>year</kanji> <kanji>end</kanji> is the <vocabulary>year end</vocabulary> aka the <vocabulary>end of the year</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B9%B4%E6%9C%AB",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "年",
+      "id": 546,
+      "reading": "ねん"
+    },
+    {
+      "type": "kanji",
+      "value": "末",
+      "id": 657,
+      "reading": "まつ"
+    }
+  ]
+}

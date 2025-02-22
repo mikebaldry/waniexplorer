@@ -1,12 +1,15 @@
 {
   "id": 134,
   "type": "radical",
-  "primaryMeaning": "Jet",
-  "otherMeanings": [],
-  "character": {
+  "level": 6,
+  "characters": {
     "type": "text",
     "value": "未"
   },
+  "primaryMeaning": "Jet",
+  "otherMeanings": [],
   "meaningMnemonic": "This is like one of those <radical>jet</radical>s that have the little nose-wings going on too. Imagine you're looking at the jet from the top down, this is what it would look like. It's also why this is the jet radical.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/jet"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/jet"
+  }
 }

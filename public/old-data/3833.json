@@ -1,0 +1,36 @@
+{
+  "id": 3833,
+  "type": "vocabulary",
+  "characters": "幸せ",
+  "primaryMeaning": "Happiness",
+  "otherMeanings": [],
+  "primaryReading": "しあわせ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 969,
+      "character": "幸",
+      "readings": [
+        "こう",
+        "しあわ",
+        "さいわ",
+        "さち"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This is the noun version of the kanji 幸. The kanji means <kanji>happiness</kanji> and the vocab word means <vocabulary>happiness</vocabulary>.\n\nCompared to 幸福, 幸せ is more commonly used in everyday language and refers to a more immediate, personal sense of happiness or contentment.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nOn your quest for true <vocabulary>happiness</vocabulary>, you meet a happiness guru. <reading>She always says</reading> (しあわせ), \"just be happy!\" She always says that, and you always listen. You can't believe how simple yet profound her approach is! \n",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B9%B8%E3%81%9B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "幸",
+      "id": 969,
+      "reading": "しあわ"
+    },
+    {
+      "type": "kana",
+      "value": "せ"
+    }
+  ]
+}

@@ -1,35 +1,43 @@
 {
   "id": 1002,
   "type": "kanji",
-  "character": "塩",
-  "primaryMeaning": "Salt",
-  "otherMeanings": [],
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "塩"
+  },
   "primaryReading": "しお",
   "readings": [
     {
-      "reading": "しお",
       "primary": true,
+      "reading": "しお",
       "type": "kunyomi"
     },
     {
-      "reading": "えん",
       "primary": false,
+      "reading": "えん",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "When you see the <kanji>salt</kanji>, you think to yourself, \"<reading>She owe</reading>s (しお) me big time, so I'm going to go ahead and snatch her salt!\" Who is she, you ask? She's the lady who owns the salt. And the gun in the dirt, of course.",
+  "primaryMeaning": "Salt",
+  "otherMeanings": [],
   "meaningMnemonic": "In the <radical>dirt</radical>, there's a <radical>gun</radical>. Its <radical>mouth</radical> points toward a <radical>plate</radical>. What's on the plate? Why, it's <kanji>salt</kanji>!",
-  "vocabularyIds": [
-    3971,
-    3972,
-    3973,
-    8388
-  ],
-  "radicalIds": [
-    17,
-    8762,
-    16,
-    84
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%A1%A9"
+  "readingMnemonic": "When you see the <kanji>salt</kanji>, you think to yourself, \"<reading>She owe</reading>s (しお) me big time, so I'm going to go ahead and snatch her salt!\" Who is she, you ask? She's the lady who owns the salt. And the gun in the dirt, of course.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%A1%A9"
+  },
+  "related": {
+    "radicals": [
+      17,
+      8762,
+      16,
+      84
+    ],
+    "vocabularies": [
+      3971,
+      3972,
+      3973,
+      8388
+    ]
+  }
 }

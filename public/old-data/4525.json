@@ -1,0 +1,49 @@
+{
+  "id": 4525,
+  "type": "vocabulary",
+  "characters": "大勢",
+  "primaryMeaning": "Crowd",
+  "otherMeanings": [
+    "A Large Number"
+  ],
+  "primaryReading": "おおぜい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 453,
+      "character": "大",
+      "readings": [
+        "たい",
+        "だい",
+        "おお",
+        "ひろ"
+      ]
+    },
+    {
+      "id": 1167,
+      "character": "勢",
+      "readings": [
+        "せい",
+        "せ",
+        "いきお"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>large</kanji> <kanji>force</kanji> is a group of people. Just think about when this word was probably made up... a long time ago, and the biggest force you could have was a huge group of people. This group of people force is also known as a <vocabulary>crowd</vocabulary>, or <vocabulary>a large number</vocabulary> of people.",
+  "readingMnemonic": "The reading for 大 is the おお reading (like 大きい). Nothing you can do about that but remember it. Then, 勢 is rendaku'd to become ぜい. Also something you'll just have to remember. Say this word a few times in your head, then you'll be able to come up with an idea of what sounds right and what sounds wrong so that you can figure it out next time this word comes up.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A4%A7%E5%8B%A2",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "大",
+      "id": 453,
+      "reading": "おお"
+    },
+    {
+      "type": "kanji",
+      "value": "勢",
+      "id": 1167,
+      "reading": "ぜい"
+    }
+  ]
+}

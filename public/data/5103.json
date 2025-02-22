@@ -1,51 +1,21 @@
 {
   "id": 5103,
   "type": "vocabulary",
-  "characters": "隠居する",
+  "level": 27,
+  "characters": {
+    "type": "text",
+    "value": "隠居する"
+  },
   "primaryMeaning": "To Retire",
+  "meaningMnemonic": "隠居 is \"retirement\". Make that a verb and you have <vocabulary>to retire</vocabulary>, <vocabulary>to be retired</vocabulary>, or <vocabulary>to go into retirement</vocabulary>.\n\nLike 隠居, this word emphasizes life after retiring, and usually implies having a quiet, maybe secluded, lifestyle. It's a bit of an old-fashioned word, but you'll still see it in modern writing.",
+  "primaryReading": "いんきょする",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "To Be Retired",
     "To Go Into Retirement"
   ],
-  "primaryReading": "いんきょする",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1277,
-      "character": "隠",
-      "readings": [
-        "いん",
-        "かく"
-      ]
-    },
-    {
-      "id": 1280,
-      "character": "居",
-      "readings": [
-        "きょ",
-        "い"
-      ]
-    }
-  ],
-  "meaningMnemonic": "隠居 is \"retirement\". Make that a verb and you have <vocabulary>to retire</vocabulary>, <vocabulary>to be retired</vocabulary>, or <vocabulary>to go into retirement</vocabulary>.\n\nLike 隠居, this word emphasizes life after retiring, and usually implies having a quiet, maybe secluded, lifestyle. It's a bit of an old-fashioned word, but you'll still see it in modern writing.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9A%A0%E5%B1%85%E3%81%99%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "隠",
-      "id": 1277,
-      "reading": "いん"
-    },
-    {
-      "type": "kanji",
-      "value": "居",
-      "id": 1280,
-      "reading": "きょ"
-    },
-    {
-      "type": "kana",
-      "value": "する"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%9A%A0%E5%B1%85%E3%81%99%E3%82%8B"
+  }
 }

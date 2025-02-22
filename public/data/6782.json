@@ -1,49 +1,22 @@
 {
   "id": 6782,
   "type": "vocabulary",
-  "characters": "不吉",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "不吉"
+  },
   "primaryMeaning": "Ominous",
+  "meaningMnemonic": "Something that is <kanji>not</kanji> <kanji>good luck</kanji> is <vocabulary>ominous</vocabulary> and <vocabulary>sinister</vocabulary>. It's also <vocabulary>bad luck</vocabulary> and an <vocabulary>ill omen</vocabulary>.",
+  "primaryReading": "ふきつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Sinister",
     "Bad Luck",
     "Ill Omen"
   ],
-  "primaryReading": "ふきつ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 563,
-      "character": "不",
-      "readings": [
-        "ふ",
-        "ぶ"
-      ]
-    },
-    {
-      "id": 1876,
-      "character": "吉",
-      "readings": [
-        "きつ",
-        "きち",
-        "よし"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Something that is <kanji>not</kanji> <kanji>good luck</kanji> is <vocabulary>ominous</vocabulary> and <vocabulary>sinister</vocabulary>. It's also <vocabulary>bad luck</vocabulary> and an <vocabulary>ill omen</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%8D%E5%90%89",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "不",
-      "id": 563,
-      "reading": "ふ"
-    },
-    {
-      "type": "kanji",
-      "value": "吉",
-      "id": 1876,
-      "reading": "きつ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B8%8D%E5%90%89"
+  }
 }

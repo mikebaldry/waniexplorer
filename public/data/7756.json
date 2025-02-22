@@ -1,31 +1,18 @@
 {
   "id": 7756,
   "type": "vocabulary",
-  "characters": "門",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "門"
+  },
   "primaryMeaning": "Gate",
-  "otherMeanings": [],
-  "primaryReading": "もん",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 964,
-      "character": "門",
-      "readings": [
-        "もん",
-        "と",
-        "かど"
-      ]
-    }
-  ],
   "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "もん",
   "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%96%80",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "門",
-      "id": 964,
-      "reading": "もん"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%96%80"
+  }
 }

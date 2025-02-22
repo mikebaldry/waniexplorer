@@ -1,35 +1,43 @@
 {
   "id": 523,
   "type": "kanji",
-  "character": "広",
-  "primaryMeaning": "Wide",
-  "otherMeanings": [],
+  "level": 3,
+  "characters": {
+    "type": "text",
+    "value": "広"
+  },
   "primaryReading": "ひろ",
   "readings": [
     {
-      "reading": "ひろ",
       "primary": true,
+      "reading": "ひろ",
       "type": "kunyomi"
     },
     {
-      "reading": "こう",
       "primary": false,
+      "reading": "こう",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "You like being <kanji>wide</kanji> because it makes you feel like a different person. But not just any person, like a super <reading>hero</reading> (ひろ)!",
+  "primaryMeaning": "Wide",
+  "otherMeanings": [],
   "meaningMnemonic": "The <radical>canopy</radical> you use in <radical>private</radical> is very <kanji>wide</kanji>.",
-  "vocabularyIds": [
-    2638,
-    3344,
-    4083,
-    4378,
-    8760,
-    8945
-  ],
-  "radicalIds": [
-    62,
-    140
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%BA%83"
+  "readingMnemonic": "You like being <kanji>wide</kanji> because it makes you feel like a different person. But not just any person, like a super <reading>hero</reading> (ひろ)!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%BA%83"
+  },
+  "related": {
+    "radicals": [
+      62,
+      140
+    ],
+    "vocabularies": [
+      2638,
+      3344,
+      4083,
+      4378,
+      8760,
+      8945
+    ]
+  }
 }

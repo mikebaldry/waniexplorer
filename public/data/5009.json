@@ -1,36 +1,20 @@
 {
   "id": 5009,
   "type": "vocabulary",
-  "characters": "就く",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "就く"
+  },
   "primaryMeaning": "To Get A Position",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>get a position</kanji>. The verb vocab version is <vocabulary>to get a position</vocabulary>, or <vocabulary>to get a job</vocabulary>.\n\nNote that 就く is used with another word that indicates a position or a job, like 王位に就く(becoming a king) or 仕事に就く (finding employment).",
+  "primaryReading": "つく",
+  "readingMnemonic": "If you want <vocabulary>to get a position</vocabulary>, there are <reading>two</reading> (つ) interviews. Just pass the two interviews to get a job!",
   "otherMeanings": [
     "To Get A Job"
   ],
-  "primaryReading": "つく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1328,
-      "character": "就",
-      "readings": [
-        "しゅう",
-        "つ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>get a position</kanji>. The verb vocab version is <vocabulary>to get a position</vocabulary>, or <vocabulary>to get a job</vocabulary>.\n\nNote that 就く is used with another word that indicates a position or a job, like 王位に就く(becoming a king) or 仕事に就く (finding employment).",
-  "readingMnemonic": "If you want <vocabulary>to get a position</vocabulary>, there are <reading>two</reading> (つ) interviews. Just pass the two interviews to get a job!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B0%B1%E3%81%8F",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "就",
-      "id": 1328,
-      "reading": "つ"
-    },
-    {
-      "type": "kana",
-      "value": "く"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%B0%B1%E3%81%8F"
+  }
 }

@@ -1,49 +1,21 @@
 {
   "id": 8727,
   "type": "vocabulary",
-  "characters": "依然",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "依然"
+  },
   "primaryMeaning": "Still",
+  "meaningMnemonic": "If you have a <kanji>dependent</kanji> <kanji>nature</kanji>, then even if you go off on your own, you're <vocabulary>still</vocabulary> going to ask for help. Dependent people still need help because that's just how they are.\n\nNote that you need to add と to the end of this word to make it an adverb, and たる to make it an adjective!",
+  "primaryReading": "いぜん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "As Yet",
     "As It Was"
   ],
-  "primaryReading": "いぜん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1639,
-      "character": "依",
-      "readings": [
-        "い",
-        "よ"
-      ]
-    },
-    {
-      "id": 881,
-      "character": "然",
-      "readings": [
-        "ぜん",
-        "ねん",
-        "しか",
-        "さ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "If you have a <kanji>dependent</kanji> <kanji>nature</kanji>, then even if you go off on your own, you're <vocabulary>still</vocabulary> going to ask for help. Dependent people still need help because that's just how they are.\n\nNote that you need to add と to the end of this word to make it an adverb, and たる to make it an adjective!",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BE%9D%E7%84%B6",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "依",
-      "id": 1639,
-      "reading": "い"
-    },
-    {
-      "type": "kanji",
-      "value": "然",
-      "id": 881,
-      "reading": "ぜん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BE%9D%E7%84%B6"
+  }
 }

@@ -1,36 +1,22 @@
 {
   "id": 8235,
   "type": "vocabulary",
-  "characters": "虜",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "虜"
+  },
   "primaryMeaning": "Captive",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "とりこ",
+  "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You did not learn this reading, so here's a mnemonic to help you: \n\nThe worst thing to see as a <vocabulary>captive</vocabulary> is a <reading>鳥子</reading> (とりこ), a bird child. Imagine seeing a baby bird held captive in a cage. So sad!",
   "otherMeanings": [
     "Prisoner",
     "Victim To Love",
     "Slave To Lust"
   ],
-  "primaryReading": "とりこ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2278,
-      "character": "虜",
-      "readings": [
-        "りょ",
-        "ろ",
-        "とりく",
-        "とりこ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
-  "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You did not learn this reading, so here's a mnemonic to help you: \n\nThe worst thing to see as a <vocabulary>captive</vocabulary> is a <reading>鳥子</reading> (とりこ), a bird child. Imagine seeing a baby bird held captive in a cage. So sad!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%99%9C",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "虜",
-      "id": 2278,
-      "reading": "とりこ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%99%9C"
+  }
 }

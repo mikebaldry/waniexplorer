@@ -1,0 +1,47 @@
+{
+  "id": 9094,
+  "type": "vocabulary",
+  "characters": "激怒",
+  "primaryMeaning": "Rage",
+  "otherMeanings": [
+    "Be Enraged"
+  ],
+  "primaryReading": "げきど",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1295,
+      "character": "激",
+      "readings": [
+        "げき",
+        "はげ"
+      ]
+    },
+    {
+      "id": 1330,
+      "character": "怒",
+      "readings": [
+        "ど",
+        "おこ",
+        "いか"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Being <kanji>fierce</kanji> and <kanji>angry</kanji> means you're filled with <vocabulary>rage</vocabulary>, or for you to <vocabulary>be enraged</vocabulary>.\n\n激怒 is a relatively formal word, often used in literature to describe someone flying into a rage or experiencing intense, uncontrollable anger. Therefore, you’ll frequently encounter this as a suru-verb in the form of 激怒する.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%BF%80%E6%80%92",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "激",
+      "id": 1295,
+      "reading": "げき"
+    },
+    {
+      "type": "kanji",
+      "value": "怒",
+      "id": 1330,
+      "reading": "ど"
+    }
+  ]
+}

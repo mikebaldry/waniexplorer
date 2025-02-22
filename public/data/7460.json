@@ -1,48 +1,21 @@
 {
   "id": 7460,
   "type": "vocabulary",
-  "characters": "全部",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "全部"
+  },
   "primaryMeaning": "All",
+  "meaningMnemonic": "If you take <kanji>all</kanji> <kanji>part</kanji>s and put them together, you have <vocabulary>all</vocabulary> things. The <vocabulary>entire</vocabulary> collection. It is <vocabulary>whole</vocabulary>.",
+  "primaryReading": "ぜんぶ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Entire",
     "Whole"
   ],
-  "primaryReading": "ぜんぶ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 610,
-      "character": "全",
-      "readings": [
-        "ぜん",
-        "すべ",
-        "まった"
-      ]
-    },
-    {
-      "id": 721,
-      "character": "部",
-      "readings": [
-        "ぶ",
-        "へ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "If you take <kanji>all</kanji> <kanji>part</kanji>s and put them together, you have <vocabulary>all</vocabulary> things. The <vocabulary>entire</vocabulary> collection. It is <vocabulary>whole</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%85%A8%E9%83%A8",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "全",
-      "id": 610,
-      "reading": "ぜん"
-    },
-    {
-      "type": "kanji",
-      "value": "部",
-      "id": 721,
-      "reading": "ぶ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%85%A8%E9%83%A8"
+  }
 }

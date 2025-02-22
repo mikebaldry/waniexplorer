@@ -1,39 +1,47 @@
 {
   "id": 564,
   "type": "kanji",
-  "character": "仕",
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "仕"
+  },
+  "primaryReading": "し",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "し",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "つか",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Doing",
   "otherMeanings": [
     "Do"
   ],
-  "primaryReading": "し",
-  "readings": [
-    {
-      "reading": "し",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "つか",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "He was <kanji>doing</kanji> things with <reading>shee</reading>p (し). He is the leader of the sheep clan, and he was able to do more with sheep than anyone else. That's why he's the leader.",
   "meaningMnemonic": "The <radical>leader</radical> <radical>samurai</radical> didn't become leader by sitting around not taking action. He got to where he is by <kanji>doing</kanji>.",
-  "vocabularyIds": [
-    2716,
-    2717,
-    3482,
-    3500,
-    7670,
-    8191,
-    9034,
-    9278
-  ],
-  "radicalIds": [
-    75,
-    97
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E4%BB%95"
+  "readingMnemonic": "He was <kanji>doing</kanji> things with <reading>shee</reading>p (し). He is the leader of the sheep clan, and he was able to do more with sheep than anyone else. That's why he's the leader.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E4%BB%95"
+  },
+  "related": {
+    "radicals": [
+      75,
+      97
+    ],
+    "vocabularies": [
+      2716,
+      2717,
+      3482,
+      3500,
+      7670,
+      8191,
+      9034,
+      9278
+    ]
+  }
 }

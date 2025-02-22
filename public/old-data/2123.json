@@ -1,0 +1,37 @@
+{
+  "id": 2123,
+  "type": "kanji",
+  "character": "挟",
+  "primaryMeaning": "Between",
+  "otherMeanings": [],
+  "primaryReading": "はさ",
+  "readings": [
+    {
+      "reading": "はさ",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "きょう",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "しょう",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "What is <kanji>between</kanji> your fingers? Your <reading>hus</reading>band (はさ) horns.",
+  "meaningMnemonic": "Your <radical>fingers</radical> have <radical>husband</radical> <radical>horns</radical>. They are there right <kanji>between</kanji> each of your fingers.",
+  "vocabularyIds": [
+    7796,
+    7988
+  ],
+  "radicalIds": [
+    63,
+    146,
+    8767
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%8C%9F"
+}

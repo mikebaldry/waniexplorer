@@ -1,0 +1,48 @@
+{
+  "id": 4571,
+  "type": "vocabulary",
+  "characters": "変態",
+  "primaryMeaning": "Pervert",
+  "otherMeanings": [
+    "Abnormal",
+    "Transformation",
+    "Metamorphosis"
+  ],
+  "primaryReading": "へんたい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 944,
+      "character": "変",
+      "readings": [
+        "へん",
+        "か"
+      ]
+    },
+    {
+      "id": 1184,
+      "character": "態",
+      "readings": [
+        "たい",
+        "わざ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Your <kanji>appearance</kanji> is <kanji>strange</kanji>. You're <vocabulary>abnormal</vocabulary>. Oh, and you're a <vocabulary>pervert</vocabulary> because you look so abnormal. Though you could just be a caterpillar going through your <vocabulary>metamorphosis</vocabulary> to become a butterfly. You just look really weird while the changing is going on.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A4%89%E6%85%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "変",
+      "id": 944,
+      "reading": "へん"
+    },
+    {
+      "type": "kanji",
+      "value": "態",
+      "id": 1184,
+      "reading": "たい"
+    }
+  ]
+}

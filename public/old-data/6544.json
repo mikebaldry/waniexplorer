@@ -1,0 +1,48 @@
+{
+  "id": 6544,
+  "type": "vocabulary",
+  "characters": "至上",
+  "primaryMeaning": "Supremacy",
+  "otherMeanings": [],
+  "primaryReading": "しじょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1799,
+      "character": "至",
+      "readings": [
+        "し",
+        "いた"
+      ]
+    },
+    {
+      "id": 450,
+      "character": "上",
+      "readings": [
+        "じょう",
+        "うえ",
+        "あ",
+        "のぼ",
+        "うわ",
+        "かみ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you <kanji>attain</kanji> <kanji>above</kanji> it means you're up above everyone, and you're looking down on them. You have <vocabulary>supremacy</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%87%B3%E4%B8%8A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "至",
+      "id": 1799,
+      "reading": "し"
+    },
+    {
+      "type": "kanji",
+      "value": "上",
+      "id": 450,
+      "reading": "じょう"
+    }
+  ]
+}

@@ -1,12 +1,15 @@
 {
   "id": 393,
   "type": "radical",
-  "primaryMeaning": "Blade",
-  "otherMeanings": [],
-  "character": {
+  "level": 21,
+  "characters": {
     "type": "text",
     "value": "刃"
   },
+  "primaryMeaning": "Blade",
+  "otherMeanings": [],
   "meaningMnemonic": "You have a sword that has a drop of something on it. That drop is a drop of blood. Sure, a sword will cut someone to spill some blood, but all you really need is any kind of <radical>blade</radical> to cut someone. Sword, knife, whatever, as long as it's a blade.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/blade"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/blade"
+  }
 }

@@ -1,0 +1,45 @@
+{
+  "id": 4811,
+  "type": "vocabulary",
+  "characters": "金属",
+  "primaryMeaning": "Metal",
+  "otherMeanings": [],
+  "primaryReading": "きんぞく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 602,
+      "character": "金",
+      "readings": [
+        "きん",
+        "こん",
+        "かね",
+        "かな"
+      ]
+    },
+    {
+      "id": 1268,
+      "character": "属",
+      "readings": [
+        "ぞく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Even <kanji>gold</kanji> <kanji>belong</kanji>s to a family... the family of <vocabulary>metal</vocabulary>s!",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%87%91%E5%B1%9E",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "金",
+      "id": 602,
+      "reading": "きん"
+    },
+    {
+      "type": "kanji",
+      "value": "属",
+      "id": 1268,
+      "reading": "ぞく"
+    }
+  ]
+}

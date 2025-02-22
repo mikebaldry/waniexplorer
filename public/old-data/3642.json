@@ -1,0 +1,45 @@
+{
+  "id": 3642,
+  "type": "vocabulary",
+  "characters": "本館",
+  "primaryMeaning": "Main Building",
+  "otherMeanings": [
+    "This Building"
+  ],
+  "primaryReading": "ほんかん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 487,
+      "character": "本",
+      "readings": [
+        "ほん",
+        "もと"
+      ]
+    },
+    {
+      "id": 873,
+      "character": "館",
+      "readings": [
+        "かん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "One of the meanings of 本 is <kanji>main</kanji> (which is what we're using here). The <kanji>main</kanji> <kanji>public building</kanji> is the <vocabulary>main building</vocabulary>.\n\nSometimes 本館 can also mean <vocabulary>this building</vocabulary>, as in the one you're in. I guess whatever building you're in sort of becomes the main one to you, right?",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.\n\nFor you advanced learners out there, you might want to know that saying that this word like Kyoko gets you the <vocabulary>main building</vocabulary> meaning, while saying it like Kenichi gets you the <vocabulary>this building</vocabulary> meaning! Isn't pitch accent fun? But you'll probably never have to worry about this — context clues will be enough to tell you which meaning is being used. ",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9C%AC%E9%A4%A8",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "本",
+      "id": 487,
+      "reading": "ほん"
+    },
+    {
+      "type": "kanji",
+      "value": "館",
+      "id": 873,
+      "reading": "かん"
+    }
+  ]
+}

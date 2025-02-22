@@ -1,48 +1,20 @@
 {
   "id": 3191,
   "type": "vocabulary",
-  "characters": "集金",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "集金"
+  },
   "primaryMeaning": "Collecting Money",
+  "meaningMnemonic": "When you <kanji>collect</kanji> <kanji>gold</kanji> you are <vocabulary>collecting money</vocabulary> (or doing <vocabulary>money collection</vocabulary>). Of course, back in the day gold was like money, which is why this word works the way it does. Hopefully you don't have to deal with too much 集金 in your daily life. We'll try to keep WaniKani nice and reasonably priced for you.\n\n集金 often refers to collecting bills, dues, or fees in person or through a designated representative. This can be carried out by a business, an organization, or even just a small group of people.\n",
+  "primaryReading": "しゅうきん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Money Collection"
   ],
-  "primaryReading": "しゅうきん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 754,
-      "character": "集",
-      "readings": [
-        "しゅう",
-        "あつ"
-      ]
-    },
-    {
-      "id": 602,
-      "character": "金",
-      "readings": [
-        "きん",
-        "こん",
-        "かね",
-        "かな"
-      ]
-    }
-  ],
-  "meaningMnemonic": "When you <kanji>collect</kanji> <kanji>gold</kanji> you are <vocabulary>collecting money</vocabulary> (or doing <vocabulary>money collection</vocabulary>). Of course, back in the day gold was like money, which is why this word works the way it does. Hopefully you don't have to deal with too much 集金 in your daily life. We'll try to keep WaniKani nice and reasonably priced for you.\n\n集金 often refers to collecting bills, dues, or fees in person or through a designated representative. This can be carried out by a business, an organization, or even just a small group of people.\n",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9B%86%E9%87%91",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "集",
-      "id": 754,
-      "reading": "しゅう"
-    },
-    {
-      "type": "kanji",
-      "value": "金",
-      "id": 602,
-      "reading": "きん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%9B%86%E9%87%91"
+  }
 }

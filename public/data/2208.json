@@ -1,34 +1,42 @@
 {
   "id": 2208,
   "type": "kanji",
-  "character": "虐",
-  "primaryMeaning": "Oppress",
-  "otherMeanings": [],
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "虐"
+  },
   "primaryReading": "ぎゃく",
   "readings": [
     {
-      "reading": "ぎゃく",
       "primary": true,
+      "reading": "ぎゃく",
       "type": "onyomi"
     },
     {
-      "reading": "しいた",
       "primary": false,
+      "reading": "しいた",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "Tiger and wolverine people are so <kanji>oppress</kanji>ed that the only thing they're allowed to amuse themselves with is <reading>Gak</reading> (ぎゃく). You know, that weird goo they made us play with when we were kids? Well that's not so fun when it's all you have.",
+  "primaryMeaning": "Oppress",
+  "otherMeanings": [],
   "meaningMnemonic": "<radical>Tiger</radical>s and <radical>wolverine</radical>s have one big thing in common and it's that the government likes to <kanji>oppress</kanji> them. It doesn't matter if you're the animal or a mutant X-Men hybrid. The government will go out of its way to oppress you if you are one. ",
-  "vocabularyIds": [
-    8039,
-    8040,
-    8041,
-    8042,
-    8043
-  ],
-  "radicalIds": [
-    254,
-    105
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%99%90"
+  "readingMnemonic": "Tiger and wolverine people are so <kanji>oppress</kanji>ed that the only thing they're allowed to amuse themselves with is <reading>Gak</reading> (ぎゃく). You know, that weird goo they made us play with when we were kids? Well that's not so fun when it's all you have.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%99%90"
+  },
+  "related": {
+    "radicals": [
+      254,
+      105
+    ],
+    "vocabularies": [
+      8039,
+      8040,
+      8041,
+      8042,
+      8043
+    ]
+  }
 }

@@ -1,0 +1,58 @@
+{
+  "id": 7294,
+  "type": "vocabulary",
+  "characters": "唯物論",
+  "primaryMeaning": "Materialism",
+  "otherMeanings": [],
+  "primaryReading": "ゆいぶつろん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2061,
+      "character": "唯",
+      "readings": [
+        "ゆい",
+        "ただ"
+      ]
+    },
+    {
+      "id": 718,
+      "character": "物",
+      "readings": [
+        "ぶつ",
+        "もつ",
+        "もの"
+      ]
+    },
+    {
+      "id": 1119,
+      "character": "論",
+      "readings": [
+        "ろん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>solely</kanji> <kanji>things</kanji> <kanji>theory</kanji> is the theory that only things are important. This is also known as <vocabulary>materialism</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%94%AF%E7%89%A9%E8%AB%96",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "唯",
+      "id": 2061,
+      "reading": "ゆい"
+    },
+    {
+      "type": "kanji",
+      "value": "物",
+      "id": 718,
+      "reading": "ぶつ"
+    },
+    {
+      "type": "kanji",
+      "value": "論",
+      "id": 1119,
+      "reading": "ろん"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 6522,
+  "type": "vocabulary",
+  "characters": "石炭",
+  "primaryMeaning": "Coal",
+  "otherMeanings": [],
+  "primaryReading": "せきたん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 493,
+      "character": "石",
+      "readings": [
+        "せき",
+        "いし"
+      ]
+    },
+    {
+      "id": 1793,
+      "character": "炭",
+      "readings": [
+        "たん",
+        "すみ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>stone</kanji> <kanji>charcoal</kanji> is charcoal shaped like a little stone. Or, maybe it's often found in stone. That's <vocabulary>coal</vocabulary>.",
+  "readingMnemonic": "This uses the on'yomi for both kanji, so you should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%9F%B3%E7%82%AD",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "石",
+      "id": 493,
+      "reading": "せき"
+    },
+    {
+      "type": "kanji",
+      "value": "炭",
+      "id": 1793,
+      "reading": "たん"
+    }
+  ]
+}

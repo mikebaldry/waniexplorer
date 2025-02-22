@@ -1,32 +1,40 @@
 {
   "id": 783,
   "type": "kanji",
-  "character": "低",
-  "primaryMeaning": "Low",
-  "otherMeanings": [],
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "低"
+  },
   "primaryReading": "てい",
   "readings": [
     {
-      "reading": "てい",
       "primary": true,
+      "reading": "てい",
       "type": "onyomi"
     },
     {
-      "reading": "ひく",
       "primary": false,
+      "reading": "ひく",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "<kanji>Low</kanji> people like you can only eat low food like potatoes. But that's boring, so you low people learned to make <reading>ta</reading>ter (てい) tots. You roll them to each other and eat them without lifting your heads.",
+  "primaryMeaning": "Low",
+  "otherMeanings": [],
   "meaningMnemonic": "The <radical>leader</radical> of your <radical>clan</radical> wants to live close to the <radical>ground</radical> so he demands you get <kanji>low</kanji>. Low, low, with your belly to the ground. That way you're always below him, since he's the leader.",
-  "vocabularyIds": [
-    3258,
-    3259
-  ],
-  "radicalIds": [
-    75,
-    147,
-    1
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E4%BD%8E"
+  "readingMnemonic": "<kanji>Low</kanji> people like you can only eat low food like potatoes. But that's boring, so you low people learned to make <reading>ta</reading>ter (てい) tots. You roll them to each other and eat them without lifting your heads.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E4%BD%8E"
+  },
+  "related": {
+    "radicals": [
+      75,
+      147,
+      1
+    ],
+    "vocabularies": [
+      3258,
+      3259
+    ]
+  }
 }

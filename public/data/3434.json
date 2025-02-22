@@ -1,40 +1,23 @@
 {
   "id": 3434,
   "type": "vocabulary",
-  "characters": "近づく",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "近づく"
+  },
   "primaryMeaning": "To Get Close",
+  "meaningMnemonic": "Because this word ends with an う sound, you can tell it's probably a verb. The kanji portion means <kanji>near</kanji>. The verb version of that is <vocabulary>to draw near</vocabulary>, <vocabulary>to get close</vocabulary> or <vocabulary>to approach</vocabulary>. Essentially, the general idea is that you're getting closer to something. You're becoming more nearby. You're approaching.",
+  "primaryReading": "ちかづく",
+  "readingMnemonic": "There's hiragana attached to this kanji, which means it's probably the kun'yomi reading (and it is). You've seen the kun'yomi reading via the word 近い. So, as long as you know that word, you should be able to read this one as well.",
   "otherMeanings": [
     "To Approach",
     "To Draw Near",
     "To Near",
     "To Bring Near"
   ],
-  "primaryReading": "ちかづく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 596,
-      "character": "近",
-      "readings": [
-        "きん",
-        "こん",
-        "ちか"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Because this word ends with an う sound, you can tell it's probably a verb. The kanji portion means <kanji>near</kanji>. The verb version of that is <vocabulary>to draw near</vocabulary>, <vocabulary>to get close</vocabulary> or <vocabulary>to approach</vocabulary>. Essentially, the general idea is that you're getting closer to something. You're becoming more nearby. You're approaching.",
-  "readingMnemonic": "There's hiragana attached to this kanji, which means it's probably the kun'yomi reading (and it is). You've seen the kun'yomi reading via the word 近い. So, as long as you know that word, you should be able to read this one as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%BF%91%E3%81%A5%E3%81%8F",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "近",
-      "id": 596,
-      "reading": "ちか"
-    },
-    {
-      "type": "kana",
-      "value": "づく"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%BF%91%E3%81%A5%E3%81%8F"
+  }
 }

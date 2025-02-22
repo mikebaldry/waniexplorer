@@ -1,38 +1,46 @@
 {
   "id": 1123,
   "type": "kanji",
-  "character": "敵",
-  "primaryMeaning": "Enemy",
-  "otherMeanings": [],
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "敵"
+  },
   "primaryReading": "てき",
   "readings": [
     {
-      "reading": "てき",
       "primary": true,
+      "reading": "てき",
       "type": "onyomi"
     },
     {
-      "reading": "かな",
       "primary": false,
+      "reading": "かな",
       "type": "kunyomi"
     },
     {
-      "reading": "かたき",
       "primary": false,
+      "reading": "かたき",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "You’re kind of a <reading>techie</reading> (てき), so you have an advantage over your <kanji>enemy</kanji>. You’re armed with night vision goggles and other cool tech gear as well. Being a techie certainly has its advantages.",
+  "primaryMeaning": "Enemy",
+  "otherMeanings": [],
   "meaningMnemonic": "Seeing a <radical>mohawk</radical> in the <radical>winter</radical> means the <kanji>enemy</kanji> is nearby. You are from the dreadlock tribe and the mohawk tribe is your enemy. You’re deep in the heart of battle and winter has fallen. Now is the time to take out the enemy.",
-  "vocabularyIds": [
-    4403,
-    4404,
-    4405,
-    4406
-  ],
-  "radicalIds": [
-    276,
-    60
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%95%B5"
+  "readingMnemonic": "You're kind of a <reading>techie</reading> (てき), so you have an advantage over your <kanji>enemy</kanji>. You're armed with night vision goggles and other cool tech gear as well. Being a techie certainly has its advantages.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%95%B5"
+  },
+  "related": {
+    "radicals": [
+      276,
+      60
+    ],
+    "vocabularies": [
+      4403,
+      4404,
+      4405,
+      4406
+    ]
+  }
 }

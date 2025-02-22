@@ -1,46 +1,18 @@
 {
   "id": 2651,
   "type": "vocabulary",
-  "characters": "先月",
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "先月"
+  },
   "primaryMeaning": "Last Month",
-  "otherMeanings": [],
-  "primaryReading": "せんげつ",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 543,
-      "character": "先",
-      "readings": [
-        "せん",
-        "さき",
-        "ま"
-      ]
-    },
-    {
-      "id": 477,
-      "character": "月",
-      "readings": [
-        "げつ",
-        "がつ",
-        "つき"
-      ]
-    }
-  ],
   "meaningMnemonic": "The <kanji>previous</kanji> <kanji>month</kanji> is <vocabulary>last month</vocabulary>.",
+  "primaryReading": "せんげつ",
   "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 月 has two on'yomi readings, here's a mnemonic to help you remember which one to use:\n\nAs of <vocabulary>last month</vocabulary>, your <reading>cen</reading>taur <reading>gets</reading> (せんげつ) up every night and comes to sleep in your bed. Apparently, he gets really bad nightmares. Poor little centaur.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%85%88%E6%9C%88",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "先",
-      "id": 543,
-      "reading": "せん"
-    },
-    {
-      "type": "kanji",
-      "value": "月",
-      "id": 477,
-      "reading": "げつ"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%85%88%E6%9C%88"
+  }
 }

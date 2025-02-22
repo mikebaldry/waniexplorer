@@ -1,31 +1,18 @@
 {
   "id": 5644,
   "type": "vocabulary",
-  "characters": "操",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "操"
+  },
   "primaryMeaning": "Chastity",
-  "otherMeanings": [],
-  "primaryReading": "みさお",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1525,
-      "character": "操",
-      "readings": [
-        "そう",
-        "あやつ",
-        "みさお"
-      ]
-    }
-  ],
   "meaningMnemonic": "This takes the second meaning of the kanji you learned, <vocabulary>chastity</vocabulary>.",
+  "primaryReading": "みさお",
   "readingMnemonic": "Who is doing the <vocabulary>chastity</vocabulary> thing? That <reading>missa, oh</reading> (みさお), yes she is.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%93%8D",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "操",
-      "id": 1525,
-      "reading": "みさお"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%93%8D"
+  }
 }

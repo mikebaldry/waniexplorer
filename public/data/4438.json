@@ -1,47 +1,21 @@
 {
   "id": 4438,
   "type": "vocabulary",
-  "characters": "派手",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "派手"
+  },
   "primaryMeaning": "Showy",
+  "meaningMnemonic": "This is a weird one. Just think about the <kanji>sect</kanji> of <kanji>hand</kanji>s. They are always doing jazz hands and things like that, trying to be all <vocabulary>showy</vocabulary> and <vocabulary>flashy</vocabulary>. Ugh, what a dumb sect, you think.",
+  "primaryReading": "はで",
+  "readingMnemonic": "The readings are the ones you learned with the kanji, though て goes to で.",
   "otherMeanings": [
     "Flashy",
     "Gaudy"
   ],
-  "primaryReading": "はで",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1136,
-      "character": "派",
-      "readings": [
-        "は"
-      ]
-    },
-    {
-      "id": 474,
-      "character": "手",
-      "readings": [
-        "て",
-        "しゅ",
-        "ず"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This is a weird one. Just think about the <kanji>sect</kanji> of <kanji>hand</kanji>s. They are always doing jazz hands and things like that, trying to be all <vocabulary>showy</vocabulary> and <vocabulary>flashy</vocabulary>. Ugh, what a dumb sect, you think.",
-  "readingMnemonic": "The readings are the ones you learned with the kanji, though て goes to で.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B4%BE%E6%89%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "派",
-      "id": 1136,
-      "reading": "は"
-    },
-    {
-      "type": "kanji",
-      "value": "手",
-      "id": 474,
-      "reading": "で"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B4%BE%E6%89%8B"
+  }
 }

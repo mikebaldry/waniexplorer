@@ -1,0 +1,39 @@
+{
+  "id": 493,
+  "type": "kanji",
+  "character": "石",
+  "primaryMeaning": "Stone",
+  "otherMeanings": [],
+  "primaryReading": "せき",
+  "readings": [
+    {
+      "reading": "せき",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "いし",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You throw a <kanji>stone</kanji> through a window... and, now you can see something very <reading>sexy</reading> (せき).",
+  "meaningMnemonic": "The <radical>stone</radical> radical and <kanji>stone</kanji> kanji are the same thing!",
+  "vocabularyIds": [
+    2585,
+    5632,
+    5778,
+    6522,
+    6535,
+    6697,
+    7058,
+    8302,
+    8573,
+    8726,
+    9151
+  ],
+  "radicalIds": [
+    54
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%9F%B3"
+}

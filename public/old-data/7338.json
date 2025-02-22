@@ -1,0 +1,47 @@
+{
+  "id": 7338,
+  "type": "vocabulary",
+  "characters": "数珠",
+  "primaryMeaning": "Rosary",
+  "otherMeanings": [
+    "Prayer Beads"
+  ],
+  "primaryReading": "じゅず",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 703,
+      "character": "数",
+      "readings": [
+        "すう",
+        "かぞ",
+        "かず"
+      ]
+    },
+    {
+      "id": 2077,
+      "character": "珠",
+      "readings": [
+        "しゅ",
+        "たま"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>number</kanji> of <kanji>pearls</kanji>, put together on a string. This refers to a <vocabulary>rosary</vocabulary> or <vocabulary>prayer beads</vocabulary>. You'll see these a lot in Japan, for sale or with monks wearing them.",
+  "readingMnemonic": "The reading for this word is different from both of the kanji readings you learned. This word sounds a lot like <reading>Jews</reading> (じゅず), so we'll have to go with that. Just imagine a Jewish rosary or prayer beads, with a Jewish person using it.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%95%B0%E7%8F%A0",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "数",
+      "id": 703,
+      "reading": null
+    },
+    {
+      "type": "kanji",
+      "value": "珠",
+      "id": 2077,
+      "reading": "じゅ"
+    }
+  ]
+}

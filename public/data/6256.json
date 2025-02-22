@@ -1,75 +1,18 @@
 {
   "id": 6256,
   "type": "vocabulary",
-  "characters": "原子爆弾",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "原子爆弾"
+  },
   "primaryMeaning": "Atomic Bomb",
-  "otherMeanings": [],
-  "primaryReading": "げんしばくだん",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 995,
-      "character": "原",
-      "readings": [
-        "げん",
-        "はら"
-      ]
-    },
-    {
-      "id": 462,
-      "character": "子",
-      "readings": [
-        "し",
-        "す",
-        "こ"
-      ]
-    },
-    {
-      "id": 1658,
-      "character": "爆",
-      "readings": [
-        "ばく",
-        "は"
-      ]
-    },
-    {
-      "id": 1659,
-      "character": "弾",
-      "readings": [
-        "だん",
-        "ひ",
-        "はず",
-        "たま"
-      ]
-    }
-  ],
   "meaningMnemonic": "原子 is atom and 爆弾 is bomb. What is an atom bomb? An <vocabulary>atomic bomb</vocabulary>.",
+  "primaryReading": "げんしばくだん",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8E%9F%E5%AD%90%E7%88%86%E5%BC%BE",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "原",
-      "id": 995,
-      "reading": "げん"
-    },
-    {
-      "type": "kanji",
-      "value": "子",
-      "id": 462,
-      "reading": "し"
-    },
-    {
-      "type": "kanji",
-      "value": "爆",
-      "id": 1658,
-      "reading": "ばく"
-    },
-    {
-      "type": "kanji",
-      "value": "弾",
-      "id": 1659,
-      "reading": "だん"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%8E%9F%E5%AD%90%E7%88%86%E5%BC%BE"
+  }
 }

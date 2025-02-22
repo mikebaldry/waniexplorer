@@ -1,0 +1,31 @@
+{
+  "id": 2058,
+  "type": "kanji",
+  "character": "鶴",
+  "primaryMeaning": "Crane",
+  "otherMeanings": [],
+  "primaryReading": "つる",
+  "readings": [
+    {
+      "reading": "つる",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "かく",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "The <kanji>crane</kanji> leans down toward you from its roof perch and squawks, \"<reading>Too ru</reading>de (つる)!\" You're shocked! You didn't know the crane could speak English, but even worse, it knew you called it a turkey bird.",
+  "meaningMnemonic": "On the <radical>roof</radical> there's some type of <radical>turkey</radical> <radical>bird</radical>, but thinner and longer. You look closer and realize it's a <kanji>crane</kanji>.",
+  "vocabularyIds": [
+    7287
+  ],
+  "radicalIds": [
+    78,
+    240,
+    151
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%B6%B4"
+}

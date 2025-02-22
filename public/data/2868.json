@@ -1,37 +1,20 @@
 {
   "id": 2868,
   "type": "vocabulary",
-  "characters": "有る",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "有る"
+  },
   "primaryMeaning": "To Have",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>have</kanji> and so the verb version means <vocabulary>to have</vocabulary>. An alternative meaning is <vocabulary>to exist</vocabulary>, though this refers only to non-living inanimate things, not moving and living things.\n\nThe kanji isn't used too often for this word, so just use the kana when you write it. But you'll see the kanji used sometimes, so it's important to be able to recognize it!",
+  "primaryReading": "ある",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\n<vocabulary>To have</vocabulary> something is very nice. But now, the only thing you possess are screams. Imagine this. You are in a totally empty room with no possessions. You open a little box and look inside. It contains screams that yell: \"<reading>AAAAHHHH</reading>\" (あ).",
   "otherMeanings": [
     "To Exist"
   ],
-  "primaryReading": "ある",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 615,
-      "character": "有",
-      "readings": [
-        "ゆう",
-        "う",
-        "あ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>have</kanji> and so the verb version means <vocabulary>to have</vocabulary>. An alternative meaning is <vocabulary>to exist</vocabulary>, though this refers only to non-living inanimate things, not moving and living things.\n\nThe kanji isn't used too often for this word, so just use the kana when you write it. But you'll see the kanji used sometimes, so it's important to be able to recognize it!",
-  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\n<vocabulary>To have</vocabulary> something is very nice. But now, the only thing you possess are screams. Imagine this. You are in a totally empty room with no possessions. You open a little box and look inside. It contains screams that yell: \"<reading>AAAAHHHH</reading>\" (あ).",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9C%89%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "有",
-      "id": 615,
-      "reading": "あ"
-    },
-    {
-      "type": "kana",
-      "value": "る"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%9C%89%E3%82%8B"
+  }
 }

@@ -1,0 +1,43 @@
+{
+  "id": 729,
+  "type": "kanji",
+  "character": "発",
+  "primaryMeaning": "Departure",
+  "otherMeanings": [],
+  "primaryReading": "はつ",
+  "readings": [
+    {
+      "reading": "はつ",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Oh! Don’t forget your <reading>hats</reading> (はつ) either. Wouldn’t want to start a <kanji>departure</kanji> without hats or a lantern. That’d be a short journey.",
+  "meaningMnemonic": "Once you remove the <radical>lantern</radical> from the <radical>tent</radical>, we will be ready for <kanji>departure</kanji>. We can’t leave the lantern inside of the tent; that’s a fire hazard. We’d best take it with us before the departure. Don’t you agree?",
+  "vocabularyIds": [
+    3134,
+    3135,
+    3136,
+    3188,
+    4376,
+    4380,
+    4755,
+    5784,
+    5796,
+    5988,
+    6092,
+    6430,
+    6591,
+    6593,
+    7017,
+    7466,
+    7911,
+    7970,
+    8421
+  ],
+  "radicalIds": [
+    168,
+    171
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%99%BA"
+}

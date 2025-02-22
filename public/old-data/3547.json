@@ -1,0 +1,48 @@
+{
+  "id": 3547,
+  "type": "vocabulary",
+  "characters": "同感",
+  "primaryMeaning": "Sympathy",
+  "otherMeanings": [
+    "Same Sentiment",
+    "Concurrence",
+    "Agree",
+    "Empathy"
+  ],
+  "primaryReading": "どうかん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 568,
+      "character": "同",
+      "readings": [
+        "どう",
+        "おな"
+      ]
+    },
+    {
+      "id": 862,
+      "character": "感",
+      "readings": [
+        "かん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you have the <kanji>same</kanji> <kanji>feeling</kanji> as someone else, you have <vocabulary>sympathy</vocabulary> for them, because you know how they feel. How kind of you!",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%90%8C%E6%84%9F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "同",
+      "id": 568,
+      "reading": "どう"
+    },
+    {
+      "type": "kanji",
+      "value": "感",
+      "id": 862,
+      "reading": "かん"
+    }
+  ]
+}

@@ -1,42 +1,18 @@
 {
   "id": 7430,
   "type": "vocabulary",
-  "characters": "検疫",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "検疫"
+  },
   "primaryMeaning": "Quarantine",
-  "otherMeanings": [],
-  "primaryReading": "けんえき",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1143,
-      "character": "検",
-      "readings": [
-        "けん"
-      ]
-    },
-    {
-      "id": 2118,
-      "character": "疫",
-      "readings": [
-        "えき"
-      ]
-    }
-  ],
   "meaningMnemonic": "We have to <kanji>examine</kanji> you during this <kanji>epidemic</kanji>... soooo, if you could come over here and just stay here for a long time, that'd be great. Yeah, it's kind of a <vocabulary>quarantine</vocabulary>, sorry about that.",
+  "primaryReading": "けんえき",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%A4%9C%E7%96%AB",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "検",
-      "id": 1143,
-      "reading": "けん"
-    },
-    {
-      "type": "kanji",
-      "value": "疫",
-      "id": 2118,
-      "reading": "えき"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%A4%9C%E7%96%AB"
+  }
 }

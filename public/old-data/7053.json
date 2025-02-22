@@ -1,0 +1,47 @@
+{
+  "id": 7053,
+  "type": "vocabulary",
+  "characters": "担架",
+  "primaryMeaning": "Stretcher",
+  "otherMeanings": [
+    "Litter"
+  ],
+  "primaryReading": "たんか",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1217,
+      "character": "担",
+      "readings": [
+        "たん",
+        "にな",
+        "かつ"
+      ]
+    },
+    {
+      "id": 1976,
+      "character": "架",
+      "readings": [
+        "か",
+        "か"
+      ]
+    }
+  ],
+  "meaningMnemonic": "It will <kanji>carry</kanji> or <kanji>bear</kanji> people like a <kanji>shelf</kanji>. This thing that carries people is a <vocabulary>stretcher</vocabulary> or <vocabulary>litter</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8B%85%E6%9E%B6",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "担",
+      "id": 1217,
+      "reading": "たん"
+    },
+    {
+      "type": "kanji",
+      "value": "架",
+      "id": 1976,
+      "reading": "か"
+    }
+  ]
+}

@@ -1,23 +1,31 @@
 {
   "id": 9312,
   "type": "kanji",
-  "character": "肢",
-  "primaryMeaning": "Limb",
-  "otherMeanings": [],
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "肢"
+  },
   "primaryReading": "し",
   "readings": [
     {
-      "reading": "し",
       "primary": true,
+      "reading": "し",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "After some consideration, you know who put all those <vocabulary>limb</vocabulary>s on the moon. It must've been none other than the moon <reading>shee</reading>p (し)!",
+  "primaryMeaning": "Limb",
+  "otherMeanings": [],
   "meaningMnemonic": "Looking at the <radical>moon</radical>, you notice it's grown a bunch of <radical>branch</radical>es. Wait, are those all… <kanji>limbs</kanji>?!",
-  "vocabularyIds": [],
-  "radicalIds": [
-    43,
-    81
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%82%A2"
+  "readingMnemonic": "After some consideration, you know who put all those <vocabulary>limb</vocabulary>s on the moon. It must've been none other than the moon <reading>shee</reading>p (し)!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%82%A2"
+  },
+  "related": {
+    "radicals": [
+      43,
+      81
+    ],
+    "vocabularies": []
+  }
 }

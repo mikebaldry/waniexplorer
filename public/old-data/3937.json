@@ -1,0 +1,49 @@
+{
+  "id": 3937,
+  "type": "vocabulary",
+  "characters": "泣き虫",
+  "primaryMeaning": "Crybaby",
+  "otherMeanings": [],
+  "primaryReading": "なきむし",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 950,
+      "character": "泣",
+      "readings": [
+        "な",
+        "きゅう"
+      ]
+    },
+    {
+      "id": 553,
+      "character": "虫",
+      "readings": [
+        "むし",
+        "ちゅう",
+        "き"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You've seen that 泣く is to cry, so you can probably guess that 泣き is just \"cry.\" You've also seen how 虫 is rarely a nice thing to call someone. So what's a mean thing you can call someone who cries? How about a <vocabulary>crybaby</vocabulary>?",
+  "readingMnemonic": "The readings come from 泣く and 虫. So long as you're okay with those two words you should be able to read this one too.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B3%A3%E3%81%8D%E8%99%AB",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "泣",
+      "id": 950,
+      "reading": "な"
+    },
+    {
+      "type": "kana",
+      "value": "き"
+    },
+    {
+      "type": "kanji",
+      "value": "虫",
+      "id": 553,
+      "reading": "むし"
+    }
+  ]
+}

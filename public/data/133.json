@@ -1,12 +1,15 @@
 {
   "id": 133,
   "type": "radical",
-  "primaryMeaning": "Cyclops",
-  "otherMeanings": [],
-  "character": {
+  "level": 6,
+  "characters": {
     "type": "text",
     "value": "向"
   },
+  "primaryMeaning": "Cyclops",
+  "otherMeanings": [],
   "meaningMnemonic": "There's a head with a little bit of hair on the top. There's also one big eye in the middle. Only one creature has a head like this, and that creature is the <radical>cyclops</radical>.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/cyclops-133"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/cyclops-133"
+  }
 }

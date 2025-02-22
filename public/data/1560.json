@@ -1,45 +1,53 @@
 {
   "id": 1560,
   "type": "kanji",
-  "character": "紅",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "紅"
+  },
+  "primaryReading": "こう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "こう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "く",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "べに",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "くれない",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Deep Red",
   "otherMeanings": [
     "Crimson"
   ],
-  "primaryReading": "こう",
-  "readings": [
-    {
-      "reading": "こう",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "く",
-      "primary": false,
-      "type": "onyomi"
-    },
-    {
-      "reading": "べに",
-      "primary": false,
-      "type": "kunyomi"
-    },
-    {
-      "reading": "くれない",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "You're done, and the whole building is a <kanji>deep red</kanji> <kanji>crimson</kanji> color (it takes a lot of thread to hold a whole building in place). It's time to show the client, Emperor <reading>こう</reading>いち, the finished product. ",
   "meaningMnemonic": "In this <radical>construction</radical> project, they will be using <radical>thread</radical> to hold everything together. The color of the thread is a <kanji>deep red</kanji>, and it gives everything a <kanji>crimson</kanji> look.",
-  "vocabularyIds": [
-    5780,
-    5781,
-    5942,
-    9291
-  ],
-  "radicalIds": [
-    25,
-    86
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%B4%85"
+  "readingMnemonic": "You're done, and the whole building is a <kanji>deep red</kanji> <kanji>crimson</kanji> color (it takes a lot of thread to hold a whole building in place). It's time to show the client, Emperor <reading>こう</reading>いち, the finished product. ",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%B4%85"
+  },
+  "related": {
+    "radicals": [
+      25,
+      86
+    ],
+    "vocabularies": [
+      5780,
+      5781,
+      5942,
+      9291
+    ]
+  }
 }

@@ -1,0 +1,50 @@
+{
+  "id": 6086,
+  "type": "vocabulary",
+  "characters": "上旬",
+  "primaryMeaning": "First Ten Days Of The Month",
+  "otherMeanings": [
+    "Beginning Of The Month"
+  ],
+  "primaryReading": "じょうじゅん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 450,
+      "character": "上",
+      "readings": [
+        "じょう",
+        "うえ",
+        "あ",
+        "のぼ",
+        "うわ",
+        "かみ"
+      ]
+    },
+    {
+      "id": 1656,
+      "character": "旬",
+      "readings": [
+        "しゅん",
+        "じゅん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "What are the <kanji>above</kanji> <kanji>ten days</kanji> of the month? They're the <vocabulary>first ten days of the month</vocabulary>, of course, or even just the <vocabulary>beginning of the month</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%8A%E6%97%AC",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "上",
+      "id": 450,
+      "reading": "じょう"
+    },
+    {
+      "type": "kanji",
+      "value": "旬",
+      "id": 1656,
+      "reading": "じゅん"
+    }
+  ]
+}

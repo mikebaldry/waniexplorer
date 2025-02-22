@@ -1,0 +1,46 @@
+{
+  "id": 5556,
+  "type": "vocabulary",
+  "characters": "賛成",
+  "primaryMeaning": "Agreement",
+  "otherMeanings": [
+    "Approval",
+    "Support"
+  ],
+  "primaryReading": "さんせい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1495,
+      "character": "賛",
+      "readings": [
+        "さん"
+      ]
+    },
+    {
+      "id": 780,
+      "character": "成",
+      "readings": [
+        "せい",
+        "な"
+      ]
+    }
+  ],
+  "meaningMnemonic": "It has <kanji>become</kanji> that we <kanji>agree</kanji>. We have <vocabulary>agreement</vocabulary>!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%B3%9B%E6%88%90",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "賛",
+      "id": 1495,
+      "reading": "さん"
+    },
+    {
+      "type": "kanji",
+      "value": "成",
+      "id": 780,
+      "reading": "せい"
+    }
+  ]
+}

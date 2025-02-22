@@ -1,0 +1,61 @@
+{
+  "id": 5510,
+  "type": "vocabulary",
+  "characters": "貧乏人",
+  "primaryMeaning": "Poor Person",
+  "otherMeanings": [],
+  "primaryReading": "びんぼうにん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1422,
+      "character": "貧",
+      "readings": [
+        "びん",
+        "ひん",
+        "まず"
+      ]
+    },
+    {
+      "id": 1423,
+      "character": "乏",
+      "readings": [
+        "ぼう",
+        "とぼ"
+      ]
+    },
+    {
+      "id": 444,
+      "character": "人",
+      "readings": [
+        "にん",
+        "じん",
+        "ひと",
+        "と"
+      ]
+    }
+  ],
+  "meaningMnemonic": "貧乏 is <kanji>poor</kanji>, so a poor <kanji>person</kanji> is a <vocabulary>poor person</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Will help to know 貧乏 already.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%B2%A7%E4%B9%8F%E4%BA%BA",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "貧",
+      "id": 1422,
+      "reading": "びん"
+    },
+    {
+      "type": "kanji",
+      "value": "乏",
+      "id": 1423,
+      "reading": "ぼう"
+    },
+    {
+      "type": "kanji",
+      "value": "人",
+      "id": 444,
+      "reading": "にん"
+    }
+  ]
+}

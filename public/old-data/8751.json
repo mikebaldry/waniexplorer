@@ -1,0 +1,43 @@
+{
+  "id": 8751,
+  "type": "vocabulary",
+  "characters": "昨年",
+  "primaryMeaning": "Last Year",
+  "otherMeanings": [],
+  "primaryReading": "さくねん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 947,
+      "character": "昨",
+      "readings": [
+        "さく"
+      ]
+    },
+    {
+      "id": 546,
+      "character": "年",
+      "readings": [
+        "ねん",
+        "とし"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Yesterday</kanji>'s <kanji>year</kanji> was actually <vocabulary>last year</vocabulary>. Today must be New Years then!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%98%A8%E5%B9%B4",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "昨",
+      "id": 947,
+      "reading": "さく"
+    },
+    {
+      "type": "kanji",
+      "value": "年",
+      "id": 546,
+      "reading": "ねん"
+    }
+  ]
+}

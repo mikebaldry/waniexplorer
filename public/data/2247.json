@@ -1,45 +1,53 @@
 {
   "id": 2247,
   "type": "kanji",
-  "character": "酷",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "酷"
+  },
+  "primaryReading": "こく",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "こく",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ひど",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "むご",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Cruel",
   "otherMeanings": [
     "Unjust"
   ],
-  "primaryReading": "こく",
-  "readings": [
-    {
-      "reading": "こく",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "ひど",
-      "primary": false,
-      "type": "kunyomi"
-    },
-    {
-      "reading": "むご",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "After this <kanji>cruel</kanji> announcement is made everyone will turn to the next best thing after alcohol. <reading>Coke</reading> (こく)! It's not a replacement, but if this unjust law won't change, then coke sales are going to go through the roof.",
   "meaningMnemonic": "If you <radical>announce</radical> that <radical>alcohol</radical> is illegal you're just being <kanji>cruel</kanji>. Honestly, saying no one can have any alcohol at all is totally <kanji>unjust</kanji>. They tried that in the 1920s and it didn't work then either, so cut it out! Let people drink what they want to drink!",
-  "vocabularyIds": [
-    8157,
-    8158,
-    8159,
-    8160,
-    8161,
-    8162,
-    8163,
-    8164,
-    8165
-  ],
-  "radicalIds": [
-    182,
-    306
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%85%B7"
+  "readingMnemonic": "After this <kanji>cruel</kanji> announcement is made everyone will turn to the next best thing after alcohol. <reading>Coke</reading> (こく)! It's not a replacement, but if this unjust law won't change, then coke sales are going to go through the roof.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%85%B7"
+  },
+  "related": {
+    "radicals": [
+      182,
+      306
+    ],
+    "vocabularies": [
+      8157,
+      8158,
+      8159,
+      8160,
+      8161,
+      8162,
+      8163,
+      8164,
+      8165
+    ]
+  }
 }

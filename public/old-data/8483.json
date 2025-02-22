@@ -1,0 +1,47 @@
+{
+  "id": 8483,
+  "type": "vocabulary",
+  "characters": "窃盗",
+  "primaryMeaning": "Theft",
+  "otherMeanings": [
+    "Stealing"
+  ],
+  "primaryReading": "せっとう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2367,
+      "character": "窃",
+      "readings": [
+        "せつ",
+        "ぬす",
+        "ひそ"
+      ]
+    },
+    {
+      "id": 1442,
+      "character": "盗",
+      "readings": [
+        "とう",
+        "ぬす"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You decided to <kanji>steal</kanji>... and then you <kanji>steal</kanji> again a few minutes later! Now you're wanted for <vocabulary>theft</vocabulary>. <vocabulary>Stealing</vocabulary> is wrong, you should have known better!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%AA%83%E7%9B%97",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "窃",
+      "id": 2367,
+      "reading": "せっ"
+    },
+    {
+      "type": "kanji",
+      "value": "盗",
+      "id": 1442,
+      "reading": "とう"
+    }
+  ]
+}

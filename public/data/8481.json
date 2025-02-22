@@ -1,54 +1,23 @@
 {
   "id": 8481,
   "type": "vocabulary",
-  "characters": "瑞々しい",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "瑞々しい"
+  },
   "primaryMeaning": "Fresh",
+  "meaningMnemonic": "You give your <kanji>congratulations</kanji> to someone a few times because they seem so <vocabulary>fresh</vocabulary> and <vocabulary>vibrant</vocabulary>. You feel like you should because it must be nice to be like that still. Someday it will be gone, so make sure you say it a few times right away.",
+  "primaryReading": "みずみずしい",
+  "readingMnemonic": "The reading is just the kun'yomi reading (which you learned with the kanji) twice in a row.",
   "otherMeanings": [
     "Young",
     "Juicy",
     "Lively",
     "Vibrant"
   ],
-  "primaryReading": "みずみずしい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2396,
-      "character": "瑞",
-      "readings": [
-        "みず",
-        "しるし",
-        "すい",
-        "ずい"
-      ]
-    },
-    {
-      "id": 856,
-      "character": "々",
-      "readings": [
-        "のま"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You give your <kanji>congratulations</kanji> to someone a few times because they seem so <vocabulary>fresh</vocabulary> and <vocabulary>vibrant</vocabulary>. You feel like you should because it must be nice to be like that still. Someday it will be gone, so make sure you say it a few times right away.",
-  "readingMnemonic": "The reading is just the kun'yomi reading (which you learned with the kanji) twice in a row.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%91%9E%E3%80%85%E3%81%97%E3%81%84",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "瑞",
-      "id": 2396,
-      "reading": "みず"
-    },
-    {
-      "type": "kanji",
-      "value": "々",
-      "id": 2396,
-      "reading": "みず"
-    },
-    {
-      "type": "kana",
-      "value": "しい"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%91%9E%E3%80%85%E3%81%97%E3%81%84"
+  }
 }

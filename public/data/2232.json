@@ -1,28 +1,36 @@
 {
   "id": 2232,
   "type": "kanji",
-  "character": "紋",
-  "primaryMeaning": "Family Crest",
-  "otherMeanings": [],
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "紋"
+  },
   "primaryReading": "もん",
   "readings": [
     {
-      "reading": "もん",
       "primary": true,
+      "reading": "もん",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "Your <kanji>family crest</kanji> is of a <reading>mon</reading>ster! (もん) And the writing says \"Our Family Monster.\"",
+  "primaryMeaning": "Family Crest",
+  "otherMeanings": [],
   "meaningMnemonic": "You use <radical>thread</radical> and <radical>writing</radical> to sew our <kanji>family crest</kanji>. You've been sewing your family crest since you were a kid, you could do it today with your eyes closed.",
-  "vocabularyIds": [
-    8133,
-    8134,
-    8135,
-    8136
-  ],
-  "radicalIds": [
-    86,
-    42
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%B4%8B"
+  "readingMnemonic": "Your <kanji>family crest</kanji> is of a <reading>mon</reading>ster! (もん) And the writing says \"Our Family Monster.\"",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%B4%8B"
+  },
+  "related": {
+    "radicals": [
+      86,
+      42
+    ],
+    "vocabularies": [
+      8133,
+      8134,
+      8135,
+      8136
+    ]
+  }
 }

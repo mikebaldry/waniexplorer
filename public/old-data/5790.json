@@ -1,0 +1,50 @@
+{
+  "id": 5790,
+  "type": "vocabulary",
+  "characters": "拝見する",
+  "primaryMeaning": "To Have A Look At",
+  "otherMeanings": [
+    "To See"
+  ],
+  "primaryReading": "はいけんする",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1563,
+      "character": "拝",
+      "readings": [
+        "はい",
+        "おが"
+      ]
+    },
+    {
+      "id": 558,
+      "character": "見",
+      "readings": [
+        "み",
+        "けん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You <kanji>worship</kanji> only the things you <kanji>see</kanji>. So, in order to see if something is worth worshiping, you'll go <vocabulary>to have a look at</vocabulary> that thing.\n\nAnd just so you know, this is a very formal word used when you're trying to be polite. So keep that in mind, please!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8B%9D%E8%A6%8B%E3%81%99%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "拝",
+      "id": 1563,
+      "reading": "はい"
+    },
+    {
+      "type": "kanji",
+      "value": "見",
+      "id": 558,
+      "reading": "けん"
+    },
+    {
+      "type": "kana",
+      "value": "する"
+    }
+  ]
+}

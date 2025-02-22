@@ -1,63 +1,20 @@
 {
   "id": 5700,
   "type": "vocabulary",
-  "characters": "小麦粉",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "小麦粉"
+  },
   "primaryMeaning": "Wheat Flour",
+  "meaningMnemonic": "<kanji>Small</kanji> <kanji>wheat</kanji> <kanji>powder</kanji> is <vocabulary>wheat flour</vocabulary>, or <vocabulary>flour</vocabulary>.",
+  "primaryReading": "こむぎこ",
+  "readingMnemonic": "This word uses the kun'yomi readings of all three kanji. The 小 and the 粉 both use kun'yomi that you haven't learned yet, but luckily they are both the same! Just think about how \"small\" things are like <reading>子</reading> (こ), and \"powder\" is also small. So both 小 and 粉 are read こ.",
   "otherMeanings": [
     "Flour"
   ],
-  "primaryReading": "こむぎこ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 463,
-      "character": "小",
-      "readings": [
-        "しょう",
-        "ちい",
-        "こ",
-        "お"
-      ]
-    },
-    {
-      "id": 598,
-      "character": "麦",
-      "readings": [
-        "むぎ",
-        "ばく"
-      ]
-    },
-    {
-      "id": 1467,
-      "character": "粉",
-      "readings": [
-        "ふん",
-        "こな",
-        "こ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Small</kanji> <kanji>wheat</kanji> <kanji>powder</kanji> is <vocabulary>wheat flour</vocabulary>, or <vocabulary>flour</vocabulary>.",
-  "readingMnemonic": "This word uses the kun'yomi readings of all three kanji. The 小 and the 粉 both use kun'yomi that you haven't learned yet, but luckily they are both the same! Just think about how \"small\" things are like <reading>子</reading> (こ), and \"powder\" is also small. So both 小 and 粉 are read こ.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B0%8F%E9%BA%A6%E7%B2%89",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "小",
-      "id": 463,
-      "reading": "こ"
-    },
-    {
-      "type": "kanji",
-      "value": "麦",
-      "id": 598,
-      "reading": "むぎ"
-    },
-    {
-      "type": "kanji",
-      "value": "粉",
-      "id": 1467,
-      "reading": "こ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%B0%8F%E9%BA%A6%E7%B2%89"
+  }
 }

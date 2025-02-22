@@ -1,0 +1,46 @@
+{
+  "id": 4186,
+  "type": "vocabulary",
+  "characters": "容疑",
+  "primaryMeaning": "Suspicion",
+  "otherMeanings": [
+    "Charge"
+  ],
+  "primaryReading": "ようぎ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1061,
+      "character": "容",
+      "readings": [
+        "よう",
+        "い"
+      ]
+    },
+    {
+      "id": 894,
+      "character": "疑",
+      "readings": [
+        "ぎ",
+        "うたが"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You have the <kanji>appearance</kanji> of <kanji>doubt</kanji> about you. That's because you're under <vocabulary>suspicion</vocabulary>. There's a <vocabulary>charge</vocabulary> against you. Oh no!",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AE%B9%E7%96%91",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "容",
+      "id": 1061,
+      "reading": "よう"
+    },
+    {
+      "type": "kanji",
+      "value": "疑",
+      "id": 894,
+      "reading": "ぎ"
+    }
+  ]
+}

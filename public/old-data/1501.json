@@ -1,0 +1,32 @@
+{
+  "id": 1501,
+  "type": "kanji",
+  "character": "卵",
+  "primaryMeaning": "Egg",
+  "otherMeanings": [],
+  "primaryReading": "たまご",
+  "readings": [
+    {
+      "reading": "たまご",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "らん",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "You remember <reading>Tamago</reading>tchi (たまご), right? Well, Tamagotchi is an <kanji>egg</kanji>, and the toy looks like an egg, so it’s pretty easy to remember that tamago means egg.",
+  "meaningMnemonic": "Two <radical>pool</radical>s, both altered and not quite like a pool you’ve seen before are put together and flipped around – this is an <kanji>egg</kanji>. One pool is the egg white, the other pool is the egg yolk. They’re different, but similar.",
+  "vocabularyIds": [
+    5570,
+    5571,
+    5572,
+    8513
+  ],
+  "radicalIds": [
+    236
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%8D%B5"
+}

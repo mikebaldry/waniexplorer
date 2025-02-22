@@ -1,0 +1,44 @@
+{
+  "id": 4980,
+  "type": "vocabulary",
+  "characters": "造園",
+  "primaryMeaning": "Landscape Gardening",
+  "otherMeanings": [],
+  "primaryReading": "ぞうえん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1281,
+      "character": "造",
+      "readings": [
+        "ぞう",
+        "つく"
+      ]
+    },
+    {
+      "id": 960,
+      "character": "園",
+      "readings": [
+        "えん",
+        "その"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Create</kanji> a <kanji>garden</kanji>? You'll have to know a lot about <vocabulary>landscape gardening</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%80%A0%E5%9C%92",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "造",
+      "id": 1281,
+      "reading": "ぞう"
+    },
+    {
+      "type": "kanji",
+      "value": "園",
+      "id": 960,
+      "reading": "えん"
+    }
+  ]
+}

@@ -1,32 +1,20 @@
 {
   "id": 7269,
   "type": "vocabulary",
-  "characters": "紫",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "紫"
+  },
   "primaryMeaning": "Purple",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "むらさき",
+  "readingMnemonic": "The reading is different from the one you learned with the kanji. To remember this reading, think about how the previous village you went to was all purple. It was the \"<reading>村先</reading>\" (むらさき) that you went to. Everything. Absolutely everything was purple.",
   "otherMeanings": [
     "Violet"
   ],
-  "primaryReading": "むらさき",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2051,
-      "character": "紫",
-      "readings": [
-        "し",
-        "むらさき"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
-  "readingMnemonic": "The reading is different from the one you learned with the kanji. To remember this reading, think about how the previous village you went to was all purple. It was the \"<reading>村先</reading>\" (むらさき) that you went to. Everything. Absolutely everything was purple.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B4%AB",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "紫",
-      "id": 2051,
-      "reading": "むらさき"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%B4%AB"
+  }
 }

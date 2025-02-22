@@ -1,33 +1,20 @@
 {
   "id": 4507,
   "type": "vocabulary",
-  "characters": "宮",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "宮"
+  },
   "primaryMeaning": "Imperial Palace",
+  "meaningMnemonic": "This <kanji>Shinto shrine</kanji> you're visiting? Turns out if you go inside it's magically turned into the <vocabulary>imperial palace</vocabulary>. Wow! Feels like I’m a member of the <vocabulary>imperial family</vocabulary> now.\n\n宮 is a historical word that generally refers to Japanese imperial palaces, the Japanese imperial family, or the imperial family members. Depending on the context, it can also refer to a Shinto shrine or its buildings.",
+  "primaryReading": "みや",
+  "readingMnemonic": "The reading is the same as the kanji reading you learned.",
   "otherMeanings": [
     "Imperial Family"
   ],
-  "primaryReading": "みや",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1161,
-      "character": "宮",
-      "readings": [
-        "みや",
-        "きゅう",
-        "ぐう"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This <kanji>Shinto shrine</kanji> you're visiting? Turns out if you go inside it's magically turned into the <vocabulary>imperial palace</vocabulary>. Wow! Feels like I’m a member of the <vocabulary>imperial family</vocabulary> now.\n\n宮 is a historical word that generally refers to Japanese imperial palaces, the Japanese imperial family, or the imperial family members. Depending on the context, it can also refer to a Shinto shrine or its buildings.",
-  "readingMnemonic": "The reading is the same as the kanji reading you learned.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AE%AE",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "宮",
-      "id": 1161,
-      "reading": "みや"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%AE%AE"
+  }
 }

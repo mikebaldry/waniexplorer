@@ -1,32 +1,40 @@
 {
   "id": 728,
   "type": "kanji",
-  "character": "界",
-  "primaryMeaning": "World",
-  "otherMeanings": [],
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "界"
+  },
   "primaryReading": "かい",
   "readings": [
     {
-      "reading": "かい",
       "primary": true,
+      "reading": "かい",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "To get around this <kanji>world</kanji> of rice paddies, you need to use a <reading>kay</reading>ak (かい).",
+  "primaryMeaning": "World",
+  "otherMeanings": [],
   "meaningMnemonic": "All the <radical>rice paddies</radical> are <radical>jammed in</radical>to the <kanji>world</kanji>.",
-  "vocabularyIds": [
-    3133,
-    3723,
-    4731,
-    4744,
-    7012,
-    7446,
-    8893,
-    9014
-  ],
-  "radicalIds": [
-    51,
-    166
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%95%8C"
+  "readingMnemonic": "To get around this <kanji>world</kanji> of rice paddies, you need to use a <reading>kay</reading>ak (かい).",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%95%8C"
+  },
+  "related": {
+    "radicals": [
+      51,
+      166
+    ],
+    "vocabularies": [
+      3133,
+      3723,
+      4731,
+      4744,
+      7012,
+      7446,
+      8893,
+      9014
+    ]
+  }
 }

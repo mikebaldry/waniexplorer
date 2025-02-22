@@ -1,12 +1,15 @@
 {
   "id": 24,
   "type": "radical",
-  "primaryMeaning": "Sword",
-  "otherMeanings": [],
-  "character": {
+  "level": 2,
+  "characters": {
     "type": "text",
     "value": "刀"
   },
-  "meaningMnemonic": "If you look at this radical, it looks like the bottom part of a <radical>sword</radical>—the handle, more specifically. This radical also looks a lot like the power radical (力), so don't get them confused. It's missing the little nubbin at the top, because 90% of the power comes from the sword to cut your enemies down (which is why the sword radical is 90% of the power radical).",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/sword"
+  "primaryMeaning": "Sword",
+  "otherMeanings": [],
+  "meaningMnemonic": "This is the <radical>sword</radical> radical. The ノ part is the curvy sword, while the rest is a samurai bowing deeply, like 90 degrees, as he holds that sword — probably before a sword fight. By the way, don't confuse this with the power radical (力). See the difference? In the sword radical (刀), the ノ doesn't pierce through the bowing samurai. (Lucky for him.)",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/sword"
+  }
 }

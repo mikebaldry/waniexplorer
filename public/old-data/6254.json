@@ -1,0 +1,50 @@
+{
+  "id": 6254,
+  "type": "vocabulary",
+  "characters": "戻り道",
+  "primaryMeaning": "Way Back",
+  "otherMeanings": [
+    "The Way Back"
+  ],
+  "primaryReading": "もどりみち",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1653,
+      "character": "戻",
+      "readings": [
+        "もど",
+        "れい"
+      ]
+    },
+    {
+      "id": 700,
+      "character": "道",
+      "readings": [
+        "どう",
+        "みち"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If 戻る is \"to <kanji>return</kanji>\" then you return on the <kanji>street</kanji> you came from, you are taking the <vocabulary>way back</vocabulary>.",
+  "readingMnemonic": "The reading is the kun'yomi vocab readings of everything. Think 戻る for the 戻り portion.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%88%BB%E3%82%8A%E9%81%93",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "戻",
+      "id": 1653,
+      "reading": "もど"
+    },
+    {
+      "type": "kana",
+      "value": "り"
+    },
+    {
+      "type": "kanji",
+      "value": "道",
+      "id": 700,
+      "reading": "みち"
+    }
+  ]
+}

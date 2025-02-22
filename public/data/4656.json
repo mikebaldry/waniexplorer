@@ -1,52 +1,23 @@
 {
   "id": 4656,
   "type": "vocabulary",
-  "characters": "可燃ゴミ",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "可燃ゴミ"
+  },
   "primaryMeaning": "Burnable Garbage",
+  "meaningMnemonic": "<kanji>Possible</kanji> to <kanji>burn</kanji> ゴミ (garbage). This is <vocabulary>burnable garbage</vocabulary>.",
+  "primaryReading": "かねんごみ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Burnable Trash",
     "Burnable Rubbish"
   ],
-  "primaryReading": "かねんごみ",
   "otherReadings": [
     "かねんゴミ"
   ],
-  "kanji": [
-    {
-      "id": 1049,
-      "character": "可",
-      "readings": [
-        "か"
-      ]
-    },
-    {
-      "id": 1222,
-      "character": "燃",
-      "readings": [
-        "ねん",
-        "も"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Possible</kanji> to <kanji>burn</kanji> ゴミ (garbage). This is <vocabulary>burnable garbage</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8F%AF%E7%87%83%E3%82%B4%E3%83%9F",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "可",
-      "id": 1049,
-      "reading": "か"
-    },
-    {
-      "type": "kanji",
-      "value": "燃",
-      "id": 1222,
-      "reading": "ねん"
-    },
-    {
-      "type": "kana",
-      "value": "ゴミ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%8F%AF%E7%87%83%E3%82%B4%E3%83%9F"
+  }
 }

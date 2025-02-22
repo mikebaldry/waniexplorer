@@ -1,45 +1,18 @@
 {
   "id": 5954,
   "type": "vocabulary",
-  "characters": "姓名",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "姓名"
+  },
   "primaryMeaning": "Full Name",
-  "otherMeanings": [],
-  "primaryReading": "せいめい",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1612,
-      "character": "姓",
-      "readings": [
-        "せい",
-        "しょう"
-      ]
-    },
-    {
-      "id": 544,
-      "character": "名",
-      "readings": [
-        "めい",
-        "みょう",
-        "な"
-      ]
-    }
-  ],
   "meaningMnemonic": "Your <kanji>surname</kanji> and your <kanji>name</kanji> put together create your <vocabulary>full name</vocabulary>.",
+  "primaryReading": "せいめい",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A7%93%E5%90%8D",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "姓",
-      "id": 1612,
-      "reading": "せい"
-    },
-    {
-      "type": "kanji",
-      "value": "名",
-      "id": 544,
-      "reading": "めい"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A7%93%E5%90%8D"
+  }
 }

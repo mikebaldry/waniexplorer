@@ -1,38 +1,21 @@
 {
   "id": 7832,
   "type": "vocabulary",
-  "characters": "覆う",
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "覆う"
+  },
   "primaryMeaning": "To Cover",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>cover</kanji>, so the verb version is <vocabulary>to cover</vocabulary> or <vocabulary>to hide</vocabulary>.",
+  "primaryReading": "おおう",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn this reading yet, so here's a mnemonic to help you:\n\nYou decide <vocabulary>to cover</vocabulary> yourself with a sheet because you want to pretend to be a ghost. But covering yourself isn't enough. If you really want people to believe in your disguise you have to say, \"<reading>おお</reading>!\" Otherwise they'll think you're a covered chair or a bush. If you おお at them they'll definitely know you're a ghost covered in that sheet.",
   "otherMeanings": [
     "To Hide",
     "To Conceal"
   ],
-  "primaryReading": "おおう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2068,
-      "character": "覆",
-      "readings": [
-        "ふく",
-        "おお",
-        "くつがえ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>cover</kanji>, so the verb version is <vocabulary>to cover</vocabulary> or <vocabulary>to hide</vocabulary>.",
-  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn this reading yet, so here's a mnemonic to help you:\n\nYou decide <vocabulary>to cover</vocabulary> yourself with a sheet because you want to pretend to be a ghost. But covering yourself isn't enough. If you really want people to believe in your disguise you have to say, \"<reading>おお</reading>!\" Otherwise they'll think you're a covered chair or a bush. If you おお at them they'll definitely know you're a ghost covered in that sheet.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A6%86%E3%81%86",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "覆",
-      "id": 2068,
-      "reading": "おお"
-    },
-    {
-      "type": "kana",
-      "value": "う"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%A6%86%E3%81%86"
+  }
 }

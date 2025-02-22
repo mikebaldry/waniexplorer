@@ -1,0 +1,33 @@
+{
+  "id": 849,
+  "type": "kanji",
+  "character": "泉",
+  "primaryMeaning": "Spring",
+  "otherMeanings": [
+    "Fountain"
+  ],
+  "primaryReading": "せん",
+  "readings": [
+    {
+      "reading": "せん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "いずみ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "The only creature powerful enough to withstand the force of these white water <kanji>spring</kanji>s is the mythical <reading>cen</reading>taur (せん). His horse body allows him to be stable and withstand the white water shooting up from the spring. Centaurs are pretty impressive creatures.",
+  "meaningMnemonic": "<radical>White</radical> <radical>water</radical> shoots out from a <kanji>spring</kanji> in the ground. Due to the force the water shoots from the spring, the water looks white with all the air bubbles.",
+  "vocabularyIds": [
+    3386,
+    3401
+  ],
+  "radicalIds": [
+    52,
+    45
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%B3%89"
+}

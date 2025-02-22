@@ -1,42 +1,50 @@
 {
   "id": 622,
   "type": "kanji",
-  "character": "夜",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "夜"
+  },
+  "primaryReading": "や",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "や",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "よ",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "よる",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Night",
   "otherMeanings": [
     "Evening"
   ],
-  "primaryReading": "や",
-  "readings": [
-    {
-      "reading": "や",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "よ",
-      "primary": false,
-      "type": "kunyomi"
-    },
-    {
-      "reading": "よる",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "Question is, what is she protecting them from during the <kanji>night</kanji>? Turns out, it's the <reading>Ya</reading>nkees (や) baseball team. They're out for blood, and only the leader can protect us.",
   "meaningMnemonic": "A <radical>leader</radical> is wearing a <radical>lid</radical> and is standing outside in <radical>winter</radical>. Plus it's raining and she's covered in <radical>drop</radical>s of water. On top of all this, it's <kanji>night</kanji>.",
-  "vocabularyIds": [
-    2889,
-    2890,
-    3365,
-    6477
-  ],
-  "radicalIds": [
-    8,
-    75,
-    60,
-    3
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%A4%9C"
+  "readingMnemonic": "Question is, what is she protecting them from during the <kanji>night</kanji>? Turns out, it's the <reading>Ya</reading>nkees (や) baseball team. They're out for blood, and only the leader can protect us.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%A4%9C"
+  },
+  "related": {
+    "radicals": [
+      8,
+      75,
+      60,
+      3
+    ],
+    "vocabularies": [
+      2889,
+      2890,
+      3365,
+      6477
+    ]
+  }
 }

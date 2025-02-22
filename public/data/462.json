@@ -1,78 +1,86 @@
 {
   "id": 462,
   "type": "kanji",
-  "character": "子",
+  "level": 2,
+  "characters": {
+    "type": "text",
+    "value": "子"
+  },
+  "primaryReading": "し",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "し",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "す",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "こ",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Child",
   "otherMeanings": [
     "Kid"
   ],
-  "primaryReading": "し",
-  "readings": [
-    {
-      "reading": "し",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "す",
-      "primary": false,
-      "type": "onyomi"
-    },
-    {
-      "reading": "こ",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "To remember the sounds  し and す we'll use these mnemonics:\n\nThere is a <kanji>child</kanji> standing in front of you. You look closely at the child but something seems wrong. You rub your eyes and when you open them again there is a <reading>shee</reading>p (し) in a <reading>su</reading>it (す) in front of you. You yelp, blink, and it's back to being a child. Are... all children really just sheep in suits?!",
   "meaningMnemonic": "The <radical>child</radical> radical and the <kanji>child</kanji> kanji are exactly the same.",
-  "vocabularyIds": [
-    2512,
-    2513,
-    2514,
-    2551,
-    2553,
-    2684,
-    3080,
-    3220,
-    3324,
-    3403,
-    3408,
-    3640,
-    3779,
-    3965,
-    4176,
-    4281,
-    4316,
-    4371,
-    4411,
-    4753,
-    4965,
-    4995,
-    5089,
-    5192,
-    5454,
-    5662,
-    5938,
-    6140,
-    6256,
-    6572,
-    6750,
-    6792,
-    6835,
-    6957,
-    6989,
-    7100,
-    7111,
-    7154,
-    7356,
-    7702,
-    8022,
-    8466,
-    9104
-  ],
-  "radicalIds": [
-    34
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%AD%90"
+  "readingMnemonic": "To remember the sounds  し and す we'll use these mnemonics:\n\nThere is a <kanji>child</kanji> standing in front of you. You look closely at the child but something seems wrong. You rub your eyes and when you open them again there is a <reading>shee</reading>p (し) in a <reading>su</reading>it (す) in front of you. You yelp, blink, and it's back to being a child. Are... all children really just sheep in suits?!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%AD%90"
+  },
+  "related": {
+    "radicals": [
+      34
+    ],
+    "vocabularies": [
+      2512,
+      2513,
+      2514,
+      2551,
+      2553,
+      2684,
+      3080,
+      3220,
+      3324,
+      3403,
+      3408,
+      3640,
+      3779,
+      3965,
+      4176,
+      4281,
+      4316,
+      4371,
+      4411,
+      4753,
+      4965,
+      4995,
+      5089,
+      5192,
+      5454,
+      5662,
+      5938,
+      6140,
+      6256,
+      6572,
+      6750,
+      6792,
+      6835,
+      6957,
+      6989,
+      7100,
+      7111,
+      7154,
+      7356,
+      7702,
+      8022,
+      8466,
+      9104
+    ]
+  }
 }

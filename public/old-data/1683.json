@@ -1,0 +1,29 @@
+{
+  "id": 1683,
+  "type": "kanji",
+  "character": "刊",
+  "primaryMeaning": "Edition",
+  "otherMeanings": [],
+  "primaryReading": "かん",
+  "readings": [
+    {
+      "reading": "かん",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "In this <kanji>edition</kanji> of \"The Dry Knife,\" there is a huge article written by Genghis <reading>Khan</reading> (かん) on how he kept his knives dry while campaigning.",
+  "meaningMnemonic": "You got your copy of \"The <radical>Dry</radical> <radical>Knife</radical>.\" It's the newest <kanji>edition</kanji> of the magazine you love on keeping your knives dry.",
+  "vocabularyIds": [
+    6171,
+    6172,
+    6173,
+    6174,
+    6175
+  ],
+  "radicalIds": [
+    61,
+    128
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%88%8A"
+}

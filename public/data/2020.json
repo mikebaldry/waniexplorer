@@ -1,31 +1,39 @@
 {
   "id": 2020,
   "type": "kanji",
-  "character": "霜",
-  "primaryMeaning": "Frost",
-  "otherMeanings": [],
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "霜"
+  },
   "primaryReading": "しも",
   "readings": [
     {
-      "reading": "しも",
       "primary": true,
+      "reading": "しも",
       "type": "kunyomi"
     },
     {
-      "reading": "そう",
       "primary": false,
+      "reading": "そう",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "This whole description is pretty emo. You came up with this whole emo <kanji>frost</kanji> idea because you are a <reading>shemo</reading> (しも). An emo who goes by she pronouns. ",
+  "primaryMeaning": "Frost",
+  "otherMeanings": [],
   "meaningMnemonic": "<radical>Rain</radical> falls off a <radical>tree</radical> and lands in your <radical>eye</radical> where it turns to <kanji>frost</kanji>. It turns to frost because it’s super cold outside and your body is freezing. The rain that fell off the tree turns to frost as soon as it hits your eye.",
-  "vocabularyIds": [
-    7183
-  ],
-  "radicalIds": [
-    119,
-    23,
-    53
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%9C%9C"
+  "readingMnemonic": "This whole description is pretty emo. You came up with this whole emo <kanji>frost</kanji> idea because you are a <reading>shemo</reading> (しも). An emo who goes by she pronouns. ",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%9C%9C"
+  },
+  "related": {
+    "radicals": [
+      119,
+      23,
+      53
+    ],
+    "vocabularies": [
+      7183
+    ]
+  }
 }

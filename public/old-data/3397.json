@@ -1,0 +1,48 @@
+{
+  "id": 3397,
+  "type": "vocabulary",
+  "characters": "水着",
+  "primaryMeaning": "Swimsuit",
+  "otherMeanings": [
+    "Bathing Suit",
+    "Swimwear"
+  ],
+  "primaryReading": "みずぎ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 479,
+      "character": "水",
+      "readings": [
+        "すい",
+        "みず"
+      ]
+    },
+    {
+      "id": 846,
+      "character": "着",
+      "readings": [
+        "ちゃく",
+        "き",
+        "つ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Water</kanji> <kanji>wear</kanji> is a <vocabulary>swimsuit</vocabulary>, <vocabulary>bathing suit</vocabulary>, or <vocabulary>swimwear</vocabulary>.",
+  "readingMnemonic": "The reading for this one is all kun'yomi vocab reading, but you should know these by now. 着 uses the reading you learned with the vocab word 着る, but this word employs that pesky rendaku, so remember that き becomes ぎ here.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B0%B4%E7%9D%80",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "水",
+      "id": 479,
+      "reading": "みず"
+    },
+    {
+      "type": "kanji",
+      "value": "着",
+      "id": 846,
+      "reading": "ぎ"
+    }
+  ]
+}

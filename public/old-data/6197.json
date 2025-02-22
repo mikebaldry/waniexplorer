@@ -1,0 +1,43 @@
+{
+  "id": 6197,
+  "type": "vocabulary",
+  "characters": "抑圧",
+  "primaryMeaning": "Oppression",
+  "otherMeanings": [],
+  "primaryReading": "よくあつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1694,
+      "character": "抑",
+      "readings": [
+        "よく",
+        "おさ"
+      ]
+    },
+    {
+      "id": 1106,
+      "character": "圧",
+      "readings": [
+        "あつ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "I want to <kanji>suppress</kanji> and <kanji>pressure</kanji> you! Muahaha! This is <vocabulary>oppression</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8A%91%E5%9C%A7",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "抑",
+      "id": 1694,
+      "reading": "よく"
+    },
+    {
+      "type": "kanji",
+      "value": "圧",
+      "id": 1106,
+      "reading": "あつ"
+    }
+  ]
+}

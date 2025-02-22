@@ -1,0 +1,46 @@
+{
+  "id": 3059,
+  "type": "vocabulary",
+  "characters": "時間",
+  "primaryMeaning": "Time",
+  "otherMeanings": [],
+  "primaryReading": "じかん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 662,
+      "character": "時",
+      "readings": [
+        "じ",
+        "とき"
+      ]
+    },
+    {
+      "id": 701,
+      "character": "間",
+      "readings": [
+        "かん",
+        "けん",
+        "あいだ",
+        "ま"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>time</kanji> <kanji>interval of time</kanji> is just the <vocabulary>time</vocabulary>. As is often the case, if two similar meaning kanji are combined into one word, they tend to produce a word with a similar meaning. Excuse me, friend, what's the 時間?",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%99%82%E9%96%93",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "時",
+      "id": 662,
+      "reading": "じ"
+    },
+    {
+      "type": "kanji",
+      "value": "間",
+      "id": 701,
+      "reading": "かん"
+    }
+  ]
+}

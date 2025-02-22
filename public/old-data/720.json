@@ -1,0 +1,43 @@
+{
+  "id": 720,
+  "type": "kanji",
+  "character": "表",
+  "primaryMeaning": "Express",
+  "otherMeanings": [
+    "Surface"
+  ],
+  "primaryReading": "ひょう",
+  "readings": [
+    {
+      "reading": "ひょう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "あらわ",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "おもて",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You need to <kanji>express</kanji> yourself, so you call up a friend and say \"<reading>Heyo</reading>!\" (ひょう).",
+  "meaningMnemonic": "Sometimes <radical>life</radical> gives you a <radical>kick</radical>, and you have to <kanji>express</kanji> yourself to deal with it! How do you express yourself? On the <kanji>surface</kanji> (of your face)!",
+  "vocabularyIds": [
+    4376,
+    4377,
+    4643,
+    5835,
+    7379,
+    7538,
+    7573
+  ],
+  "radicalIds": [
+    210,
+    8770
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%A1%A8"
+}

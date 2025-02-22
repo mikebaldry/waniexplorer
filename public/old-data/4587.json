@@ -1,0 +1,58 @@
+{
+  "id": 4587,
+  "type": "vocabulary",
+  "characters": "吸血鬼",
+  "primaryMeaning": "Vampire",
+  "otherMeanings": [],
+  "primaryReading": "きゅうけつき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1177,
+      "character": "吸",
+      "readings": [
+        "きゅう",
+        "す"
+      ]
+    },
+    {
+      "id": 619,
+      "character": "血",
+      "readings": [
+        "けつ",
+        "ち"
+      ]
+    },
+    {
+      "id": 1190,
+      "character": "鬼",
+      "readings": [
+        "き",
+        "おに"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>demon</kanji> that <kanji>suck</kanji>s <kanji>blood</kanji>? What mythological creature can you think of that sucks blood? How about a <vocabulary>vampire</vocabulary>? Them Sparklzzzz!",
+  "readingMnemonic": "吸血 should be easy for you to read. The 鬼 part uses the reading you already learned with the kanji, き. Easy, no?",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%90%B8%E8%A1%80%E9%AC%BC",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "吸",
+      "id": 1177,
+      "reading": "きゅう"
+    },
+    {
+      "type": "kanji",
+      "value": "血",
+      "id": 619,
+      "reading": "けつ"
+    },
+    {
+      "type": "kanji",
+      "value": "鬼",
+      "id": 1190,
+      "reading": "き"
+    }
+  ]
+}

@@ -1,40 +1,48 @@
 {
   "id": 1111,
   "type": "kanji",
-  "character": "臭",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "臭"
+  },
+  "primaryReading": "くさ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "くさ",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "にお",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "しゅう",
+      "type": "onyomi"
+    }
+  ],
   "primaryMeaning": "Stinking",
   "otherMeanings": [
     "Stinky",
     "Smelly"
   ],
-  "primaryReading": "くさ",
-  "readings": [
-    {
-      "reading": "くさ",
-      "primary": true,
-      "type": "kunyomi"
-    },
-    {
-      "reading": "にお",
-      "primary": false,
-      "type": "kunyomi"
-    },
-    {
-      "reading": "しゅう",
-      "primary": false,
-      "type": "onyomi"
-    }
-  ],
-  "readingMnemonic": "You're <kanji>stinking</kanji> up the room because you spent your day rolling in <reading>草</reading> (くさ). And based on this particular stench, I'd say an animal left something in that 草 too...",
   "meaningMnemonic": "Wash your<radical>self</radical> with a <radical>big</radical> bar of soap if you're <kanji>stinking</kanji> everything up.",
-  "vocabularyIds": [
-    4323,
-    4846,
-    4941
-  ],
-  "radicalIds": [
-    109,
-    18
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%87%AD"
+  "readingMnemonic": "You're <kanji>stinking</kanji> up the room because you spent your day rolling in <reading>草</reading> (くさ). And based on this particular stench, I'd say an animal left something in that 草 too...",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%87%AD"
+  },
+  "related": {
+    "radicals": [
+      109,
+      18
+    ],
+    "vocabularies": [
+      4323,
+      4846,
+      4941
+    ]
+  }
 }

@@ -1,12 +1,15 @@
 {
   "id": 120,
   "type": "radical",
-  "primaryMeaning": "Blue",
-  "otherMeanings": [],
-  "character": {
+  "level": 5,
+  "characters": {
     "type": "text",
     "value": "青"
   },
+  "primaryMeaning": "Blue",
+  "otherMeanings": [],
   "meaningMnemonic": "You have life on top of the moon (ignore that life is missing its little slide on the left side). What would life on the moon look like? Well, first of all, they have no air, so they probably look pretty <radical>blue</radical> from asphyxiation. When you meet them, it turns out you're right. They're a civilization of blue people. Imagine them all living up there, being blue and Smurfy.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/blue"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/blue"
+  }
 }

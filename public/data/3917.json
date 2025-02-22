@@ -1,51 +1,20 @@
 {
   "id": 3917,
   "type": "vocabulary",
-  "characters": "折り紙",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "折り紙"
+  },
   "primaryMeaning": "Origami",
+  "meaningMnemonic": "You know that 折る is \"to fold,\" so what about \"to fold <kanji>paper</kanji>\"? Ever heard of something that involves lots of folding of paper that is Japanese? Most likely you have. This is <vocabulary>origami</vocabulary>, aka the <vocabulary>art of paper folding</vocabulary>.",
+  "primaryReading": "おりがみ",
+  "readingMnemonic": "The reading comes from 折る and the vocab word 紙. As long as you know those you should be able to read this. Also, you probably already know this reading because it's an English word, too.",
   "otherMeanings": [
     "Art Of Paper Folding"
   ],
-  "primaryReading": "おりがみ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 907,
-      "character": "折",
-      "readings": [
-        "せつ",
-        "お",
-        "おり"
-      ]
-    },
-    {
-      "id": 663,
-      "character": "紙",
-      "readings": [
-        "かみ",
-        "し"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You know that 折る is \"to fold,\" so what about \"to fold <kanji>paper</kanji>\"? Ever heard of something that involves lots of folding of paper that is Japanese? Most likely you have. This is <vocabulary>origami</vocabulary>, aka the <vocabulary>art of paper folding</vocabulary>.",
-  "readingMnemonic": "The reading comes from 折る and the vocab word 紙. As long as you know those you should be able to read this. Also, you probably already know this reading because it's an English word, too.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8A%98%E3%82%8A%E7%B4%99",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "折",
-      "id": 907,
-      "reading": "おり"
-    },
-    {
-      "type": "kana",
-      "value": "り"
-    },
-    {
-      "type": "kanji",
-      "value": "紙",
-      "id": 663,
-      "reading": null
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%8A%98%E3%82%8A%E7%B4%99"
+  }
 }

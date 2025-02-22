@@ -1,45 +1,20 @@
 {
   "id": 4325,
   "type": "vocabulary",
-  "characters": "余裕",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "余裕"
+  },
   "primaryMeaning": "Leeway",
+  "meaningMnemonic": "When your <kanji>surplus</kanji> is <kanji>abundant</kanji>, you have <vocabulary>leeway</vocabulary> for a lot of things. You have plenty of <vocabulary>room to spare</vocabulary>.\n\n余裕 is used to describe a state of having ample leeway for something. It means you can handle things comfortably, without feeling stressed or overwhelmed, whether it's about money, time, or just mentally.",
+  "primaryReading": "よゆう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Room To Spare"
   ],
-  "primaryReading": "よゆう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1094,
-      "character": "余",
-      "readings": [
-        "よ",
-        "あま"
-      ]
-    },
-    {
-      "id": 1098,
-      "character": "裕",
-      "readings": [
-        "ゆう"
-      ]
-    }
-  ],
-  "meaningMnemonic": "When your <kanji>surplus</kanji> is <kanji>abundant</kanji>, you have <vocabulary>leeway</vocabulary> for a lot of things. You have plenty of <vocabulary>room to spare</vocabulary>.\n\n余裕 is used to describe a state of having ample leeway for something. It means you can handle things comfortably, without feeling stressed or overwhelmed, whether it's about money, time, or just mentally.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BD%99%E8%A3%95",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "余",
-      "id": 1094,
-      "reading": "よ"
-    },
-    {
-      "type": "kanji",
-      "value": "裕",
-      "id": 1098,
-      "reading": "ゆう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BD%99%E8%A3%95"
+  }
 }

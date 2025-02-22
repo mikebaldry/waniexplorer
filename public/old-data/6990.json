@@ -1,0 +1,47 @@
+{
+  "id": 6990,
+  "type": "vocabulary",
+  "characters": "歳月",
+  "primaryMeaning": "Time",
+  "otherMeanings": [
+    "Years"
+  ],
+  "primaryReading": "さいげつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1953,
+      "character": "歳",
+      "readings": [
+        "さい",
+        "せい"
+      ]
+    },
+    {
+      "id": 477,
+      "character": "月",
+      "readings": [
+        "げつ",
+        "がつ",
+        "つき"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Years old</kanji> in <kanji>month</kanji>s shows <vocabulary>time</vocabulary> in <vocabulary>years</vocabulary>. Just imagine counting time by months and years... You kind of do anyways, right? How old are you? 5 years old. Or, 5 and a half years old (that's five years six months). So, it makes some sense.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%AD%B3%E6%9C%88",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "歳",
+      "id": 1953,
+      "reading": "さい"
+    },
+    {
+      "type": "kanji",
+      "value": "月",
+      "id": 477,
+      "reading": "げつ"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 5810,
+  "type": "vocabulary",
+  "characters": "劇団",
+  "primaryMeaning": "Drama Troupe",
+  "otherMeanings": [
+    "Theatrical Company"
+  ],
+  "primaryReading": "げきだん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1569,
+      "character": "劇",
+      "readings": [
+        "げき"
+      ]
+    },
+    {
+      "id": 1076,
+      "character": "団",
+      "readings": [
+        "だん",
+        "とん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>drama</kanji> <kanji>group</kanji> is a <vocabulary>drama troupe</vocabulary> or <vocabulary>theatrical company</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8A%87%E5%9B%A3",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "劇",
+      "id": 1569,
+      "reading": "げき"
+    },
+    {
+      "type": "kanji",
+      "value": "団",
+      "id": 1076,
+      "reading": "だん"
+    }
+  ]
+}

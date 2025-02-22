@@ -1,0 +1,47 @@
+{
+  "id": 6953,
+  "type": "vocabulary",
+  "characters": "潮時",
+  "primaryMeaning": "Tidal Hour",
+  "otherMeanings": [
+    "The Right Time",
+    "High Time"
+  ],
+  "primaryReading": "しおどき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1849,
+      "character": "潮",
+      "readings": [
+        "ちょう",
+        "しお"
+      ]
+    },
+    {
+      "id": 662,
+      "character": "時",
+      "readings": [
+        "じ",
+        "とき"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>tide</kanji> <kanji>time</kanji> is the <vocabulary>tidal hour</vocabulary>.\n\nThis word is often used figuratively, as in “the perfect time to act”, especially in reference to quitting something or backing away from a situation.",
+  "readingMnemonic": "The reading comes from the individual words, 潮 and 時. Watch out for the rendaku.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%BD%AE%E6%99%82",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "潮",
+      "id": 1849,
+      "reading": "しお"
+    },
+    {
+      "type": "kanji",
+      "value": "時",
+      "id": 662,
+      "reading": "どき"
+    }
+  ]
+}

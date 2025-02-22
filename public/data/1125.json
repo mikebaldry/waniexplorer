@@ -1,32 +1,40 @@
 {
   "id": 1125,
   "type": "kanji",
-  "character": "委",
-  "primaryMeaning": "Committee",
-  "otherMeanings": [],
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "委"
+  },
   "primaryReading": "い",
   "readings": [
     {
-      "reading": "い",
       "primary": true,
+      "reading": "い",
       "type": "onyomi"
     },
     {
-      "reading": "ゆだ",
       "primary": false,
+      "reading": "ゆだ",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "Well, grains need a <kanji>committee</kanji> because the <reading>ea</reading>gles (い) have been eating them all. The women know this, so they're meeting and trying to come up with a way to stop these pesky eagles from eating all the grains and leaving none for the humans.",
+  "primaryMeaning": "Committee",
+  "otherMeanings": [],
   "meaningMnemonic": "<radical>Women</radical> who get together to talk about <radical>grain</radical>s are a <kanji>committee</kanji>. They're the Committee of Women for Grains (tm tm tm). What does this committee discuss, you wonder.",
-  "vocabularyIds": [
-    4408,
-    4580,
-    6215
-  ],
-  "radicalIds": [
-    135,
-    19
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%A7%94"
+  "readingMnemonic": "Well, grains need a <kanji>committee</kanji> because the <reading>ea</reading>gles (い) have been eating them all. The women know this, so they're meeting and trying to come up with a way to stop these pesky eagles from eating all the grains and leaving none for the humans.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%A7%94"
+  },
+  "related": {
+    "radicals": [
+      135,
+      19
+    ],
+    "vocabularies": [
+      4408,
+      4580,
+      6215
+    ]
+  }
 }

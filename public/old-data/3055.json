@@ -1,0 +1,34 @@
+{
+  "id": 3055,
+  "type": "vocabulary",
+  "characters": "道",
+  "primaryMeaning": "Road",
+  "otherMeanings": [
+    "Street",
+    "Path",
+    "Way"
+  ],
+  "primaryReading": "みち",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 700,
+      "character": "道",
+      "readings": [
+        "どう",
+        "みち"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well. \n\nDon't confuse this with the word 〜道, though. This one doesn't have a 〜 at the beginning, meaning it's not attached to other words. This word is just plain old road. It has its own meaning!",
+  "readingMnemonic": "Since this word is made up of a single kanji, it should use the kun'yomi reading. When learning the kanji, you didn't learn that reading, so here's a mnemonic to help you with this word: \n\nYou're walking down the road. On the <vocabulary>road</vocabulary>, you bump into your friend, <reading>Mitch</reading> (みち). Imagine saying hello, then continuing down the road. What's weird is you're both walking down a paved road with cars on it. Seems dangerous, but you and Mitch, you know what you're doing. \n\nIf you don't know anyone named Mitch, think of a famous Mitch or a Mitch you've made up.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%81%93",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "道",
+      "id": 700,
+      "reading": "みち"
+    }
+  ]
+}

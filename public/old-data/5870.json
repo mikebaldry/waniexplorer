@@ -1,0 +1,46 @@
+{
+  "id": 5870,
+  "type": "vocabulary",
+  "characters": "破産",
+  "primaryMeaning": "Bankruptcy",
+  "otherMeanings": [
+    "Go Bankrupt"
+  ],
+  "primaryReading": "はさん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1582,
+      "character": "破",
+      "readings": [
+        "は",
+        "やぶ"
+      ]
+    },
+    {
+      "id": 1109,
+      "character": "産",
+      "readings": [
+        "さん",
+        "う"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If someone <kanji>tear</kanji>s all your <kanji>property</kanji> it'll lead to <vocabulary>bankruptcy</vocabulary>. With all your property torn, you're going to <vocabulary>go bankrupt</vocabulary>. What mean person did that?",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A0%B4%E7%94%A3",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "破",
+      "id": 1582,
+      "reading": "は"
+    },
+    {
+      "type": "kanji",
+      "value": "産",
+      "id": 1109,
+      "reading": "さん"
+    }
+  ]
+}

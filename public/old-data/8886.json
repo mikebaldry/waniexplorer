@@ -1,0 +1,36 @@
+{
+  "id": 8886,
+  "type": "kanji",
+  "character": "凄",
+  "primaryMeaning": "Amazing",
+  "otherMeanings": [
+    "Wonderful",
+    "Terrible",
+    "Awful"
+  ],
+  "primaryReading": "せい",
+  "readings": [
+    {
+      "reading": "せい",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "すご",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "She turns her <kanji>amazing</kanji> gaze onto your <reading>sa</reading>ber (せい) and hits it with an ice beam. Woah! Instead of turning to ice or shattering, it steals her awful powers. Now your saber is amazing and terrible too!",
+  "meaningMnemonic": "Your <radical>ice</radical> <radical>wife</radical> is <kanji>amazing</kanji>. She's also <kanji>terrible</kanji>, because she's very cold and has many ice powers, but that's also part of what makes her amazing!",
+  "vocabularyIds": [
+    8902,
+    8903,
+    8904
+  ],
+  "radicalIds": [
+    123,
+    8856
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%87%84"
+}

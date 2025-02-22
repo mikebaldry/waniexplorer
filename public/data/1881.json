@@ -1,32 +1,40 @@
 {
   "id": 1881,
   "type": "kanji",
-  "character": "謎",
-  "primaryMeaning": "Riddle",
-  "otherMeanings": [],
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "謎"
+  },
   "primaryReading": "なぞ",
   "readings": [
     {
-      "reading": "なぞ",
       "primary": true,
+      "reading": "なぞ",
       "type": "kunyomi"
     },
     {
-      "reading": "めい",
       "primary": false,
+      "reading": "めい",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "Did you figure out the answer to this <kanji>riddle</kanji>? Say your answer aloud to the screen right now.... <reading>not so</reading> (なぞ)! You're wrong.",
+  "primaryMeaning": "Riddle",
+  "otherMeanings": [],
   "meaningMnemonic": "I <radical>say</radical>, which weighs more: a kilogram of <radical>scooter</radical>s or a kilogram of <radical>rice</radical>? This is a <kanji>riddle</kanji>!",
-  "vocabularyIds": [
-    6795,
-    6796
-  ],
-  "radicalIds": [
-    117,
-    114,
-    98
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%AC%8E"
+  "readingMnemonic": "Did you figure out the answer to this <kanji>riddle</kanji>? Say your answer aloud to the screen right now.... <reading>not so</reading> (なぞ)! You're wrong.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%AC%8E"
+  },
+  "related": {
+    "radicals": [
+      117,
+      114,
+      98
+    ],
+    "vocabularies": [
+      6795,
+      6796
+    ]
+  }
 }

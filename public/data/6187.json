@@ -1,34 +1,18 @@
 {
   "id": 6187,
   "type": "vocabulary",
-  "characters": "奥さん",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "奥さん"
+  },
   "primaryMeaning": "Wife",
-  "otherMeanings": [],
-  "primaryReading": "おくさん",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1689,
-      "character": "奥",
-      "readings": [
-        "おく",
-        "おう"
-      ]
-    }
-  ],
   "meaningMnemonic": "The <kanji>interior</kanji> person (the honorific さん shows it's a person) is the person who stands in the interior of the house and doesn't leave, making that person your <vocabulary>wife</vocabulary>. Ouch. Sexist kanji strikes again.",
+  "primaryReading": "おくさん",
   "readingMnemonic": "The reading comes from what you learned in the kanji.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A5%A5%E3%81%95%E3%82%93",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "奥",
-      "id": 1689,
-      "reading": "おく"
-    },
-    {
-      "type": "kana",
-      "value": "さん"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A5%A5%E3%81%95%E3%82%93"
+  }
 }

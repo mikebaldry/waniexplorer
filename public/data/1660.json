@@ -1,35 +1,43 @@
 {
   "id": 1660,
   "type": "kanji",
-  "character": "聴",
-  "primaryMeaning": "Listen",
-  "otherMeanings": [],
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "聴"
+  },
   "primaryReading": "ちょう",
   "readings": [
     {
-      "reading": "ちょう",
       "primary": true,
+      "reading": "ちょう",
       "type": "onyomi"
     },
     {
-      "reading": "き",
       "primary": false,
+      "reading": "き",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "You are <kanji>listen</kanji>ing so well to what someone is saying. What are they telling you that is so important? They are telling you of the omen of Mrs. <reading>Chou</reading> (ちょう), who will destroy the earth.",
+  "primaryMeaning": "Listen",
+  "otherMeanings": [],
   "meaningMnemonic": "When your <radical>ear</radical> is <radical>cross</radical>ed with sound, it catches it like a <radical>net</radical>, and sends it to your <radical>heart</radical> for processing. Because you're using your heart to process this sound, it means you're giving it a proper <kanji>listen</kanji>.",
-  "vocabularyIds": [
-    6100,
-    6101,
-    6102,
-    6103
-  ],
-  "radicalIds": [
-    88,
-    15,
-    163,
-    65
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%81%B4"
+  "readingMnemonic": "You are <kanji>listen</kanji>ing so well to what someone is saying. What are they telling you that is so important? They are telling you of the omen of Mrs. <reading>Chou</reading> (ちょう), who will destroy the earth.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%81%B4"
+  },
+  "related": {
+    "radicals": [
+      88,
+      15,
+      163,
+      65
+    ],
+    "vocabularies": [
+      6100,
+      6101,
+      6102,
+      6103
+    ]
+  }
 }

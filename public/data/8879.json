@@ -1,47 +1,21 @@
 {
   "id": 8879,
   "type": "vocabulary",
-  "characters": "痩身",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "痩身"
+  },
   "primaryMeaning": "Lean",
+  "meaningMnemonic": "A <kanji>thin</kanji> <kanji>body</kanji> type is called <vocabulary>lean</vocabulary> or <vocabulary>slim</vocabulary>. These days this is usually used in the context of <vocabulary>slimming</vocabulary> salons and massages you can get that may or may not work.",
+  "primaryReading": "そうしん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You've learned them already, so you should be able to read this on your own!",
   "otherMeanings": [
     "Slim",
     "Slimming"
   ],
-  "primaryReading": "そうしん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 8864,
-      "character": "痩",
-      "readings": [
-        "そう",
-        "や"
-      ]
-    },
-    {
-      "id": 689,
-      "character": "身",
-      "readings": [
-        "しん",
-        "み"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>thin</kanji> <kanji>body</kanji> type is called <vocabulary>lean</vocabulary> or <vocabulary>slim</vocabulary>. These days this is usually used in the context of <vocabulary>slimming</vocabulary> salons and massages you can get that may or may not work.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You've learned them already, so you should be able to read this on your own!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%97%A9%E8%BA%AB",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "痩",
-      "id": 8864,
-      "reading": "そう"
-    },
-    {
-      "type": "kanji",
-      "value": "身",
-      "id": 689,
-      "reading": "しん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%97%A9%E8%BA%AB"
+  }
 }

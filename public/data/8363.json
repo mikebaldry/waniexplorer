@@ -1,62 +1,22 @@
 {
   "id": 8363,
   "type": "vocabulary",
-  "characters": "不愉快",
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "不愉快"
+  },
   "primaryMeaning": "Unpleasant",
+  "meaningMnemonic": "You already learned that 愉快 means \"pleasant\" or \"happy,\" so add <kanji>not</kanji> to that and you're <vocabulary>unpleasant</vocabulary> and <vocabulary>unhappy</vocabulary>.",
+  "primaryReading": "ふゆかい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Unhappy",
     "Discomfort",
     "Disagreeable"
   ],
-  "primaryReading": "ふゆかい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 563,
-      "character": "不",
-      "readings": [
-        "ふ",
-        "ぶ"
-      ]
-    },
-    {
-      "id": 2287,
-      "character": "愉",
-      "readings": [
-        "ゆ",
-        "たの"
-      ]
-    },
-    {
-      "id": 1420,
-      "character": "快",
-      "readings": [
-        "かい",
-        "こころよ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You already learned that 愉快 means \"pleasant\" or \"happy,\" so add <kanji>not</kanji> to that and you're <vocabulary>unpleasant</vocabulary> and <vocabulary>unhappy</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%8D%E6%84%89%E5%BF%AB",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "不",
-      "id": 563,
-      "reading": "ふ"
-    },
-    {
-      "type": "kanji",
-      "value": "愉",
-      "id": 2287,
-      "reading": "ゆ"
-    },
-    {
-      "type": "kanji",
-      "value": "快",
-      "id": 1420,
-      "reading": "かい"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B8%8D%E6%84%89%E5%BF%AB"
+  }
 }

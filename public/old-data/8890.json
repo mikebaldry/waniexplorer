@@ -1,0 +1,38 @@
+{
+  "id": 8890,
+  "type": "vocabulary",
+  "characters": "慌てる",
+  "primaryMeaning": "To Panic",
+  "otherMeanings": [
+    "To Hurry",
+    "To Rush",
+    "To Be Upset"
+  ],
+  "primaryReading": "あわてる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 8881,
+      "character": "慌",
+      "readings": [
+        "こう",
+        "あわ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>confused</kanji> or <kanji>bewildered</kanji> but this is usually just used when someone starts <vocabulary>to panic</vocabulary>. They're so confused and bewildered that they try <vocabulary>to hurry</vocabulary> through things.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You haven't learned this reading yet, so here's a mnemonic to help you:\n\nWhenever you start <vocabulary>to panic</vocabulary> you can't help but blurt out, \"<reading>A wha-</reading> (あわ)?\" to everything people say and ask. For example, \"Would you like a mint?\" \"A WHA?!\" Yeah, you really do sound upset.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%85%8C%E3%81%A6%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "慌",
+      "id": 8881,
+      "reading": "あわ"
+    },
+    {
+      "type": "kana",
+      "value": "てる"
+    }
+  ]
+}

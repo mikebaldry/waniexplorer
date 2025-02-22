@@ -1,50 +1,20 @@
 {
   "id": 3946,
   "type": "vocabulary",
-  "characters": "回転する",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "回転する"
+  },
   "primaryMeaning": "To Rotate",
+  "meaningMnemonic": "You know that 回転 means \"rotation\" or \"revolution.\" So, what happens when you make it into a verb? It becomes <vocabulary>to rotate</vocabulary> and <vocabulary>to revolve</vocabulary>.",
+  "primaryReading": "かいてんする",
+  "readingMnemonic": "The reading comes from 回転 of level 10. Alternatively, you can just use the readings of the kanji as well. EZPZ.",
   "otherMeanings": [
     "To Revolve"
   ],
-  "primaryReading": "かいてんする",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 569,
-      "character": "回",
-      "readings": [
-        "かい",
-        "まわ"
-      ]
-    },
-    {
-      "id": 747,
-      "character": "転",
-      "readings": [
-        "てん",
-        "ころ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You know that 回転 means \"rotation\" or \"revolution.\" So, what happens when you make it into a verb? It becomes <vocabulary>to rotate</vocabulary> and <vocabulary>to revolve</vocabulary>.",
-  "readingMnemonic": "The reading comes from 回転 of level 10. Alternatively, you can just use the readings of the kanji as well. EZPZ.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%9B%9E%E8%BB%A2%E3%81%99%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "回",
-      "id": 569,
-      "reading": "かい"
-    },
-    {
-      "type": "kanji",
-      "value": "転",
-      "id": 747,
-      "reading": "てん"
-    },
-    {
-      "type": "kana",
-      "value": "する"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%9B%9E%E8%BB%A2%E3%81%99%E3%82%8B"
+  }
 }

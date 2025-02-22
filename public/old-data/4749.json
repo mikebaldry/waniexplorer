@@ -1,0 +1,47 @@
+{
+  "id": 4749,
+  "type": "vocabulary",
+  "characters": "期限",
+  "primaryMeaning": "Deadline",
+  "otherMeanings": [
+    "Term",
+    "Due Date"
+  ],
+  "primaryReading": "きげん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 839,
+      "character": "期",
+      "readings": [
+        "き",
+        "ご"
+      ]
+    },
+    {
+      "id": 1248,
+      "character": "限",
+      "readings": [
+        "げん",
+        "かぎ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>period of time</kanji> <kanji>limit</kanji> is the <vocabulary>deadline</vocabulary> for a certain thing. Alternatively, this can describe a <vocabulary>term</vocabulary> for something, like the repayment of debts, or some sort of <vocabulary>due date</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9C%9F%E9%99%90",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "期",
+      "id": 839,
+      "reading": "き"
+    },
+    {
+      "type": "kanji",
+      "value": "限",
+      "id": 1248,
+      "reading": "げん"
+    }
+  ]
+}

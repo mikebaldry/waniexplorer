@@ -1,0 +1,45 @@
+{
+  "id": 3784,
+  "type": "vocabulary",
+  "characters": "英語",
+  "primaryMeaning": "English Language",
+  "otherMeanings": [
+    "English"
+  ],
+  "primaryReading": "えいご",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 953,
+      "character": "英",
+      "readings": [
+        "えい"
+      ]
+    },
+    {
+      "id": 764,
+      "character": "語",
+      "readings": [
+        "ご",
+        "かた"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>English</kanji> <kanji>language</kanji> is the language you're reading right here and now. This is the <vocabulary>English language</vocabulary>. It is <vocabulary>English</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%8B%B1%E8%AA%9E",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "英",
+      "id": 953,
+      "reading": "えい"
+    },
+    {
+      "type": "kanji",
+      "value": "語",
+      "id": 764,
+      "reading": "ご"
+    }
+  ]
+}

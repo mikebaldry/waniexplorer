@@ -1,0 +1,37 @@
+{
+  "id": 4189,
+  "type": "vocabulary",
+  "characters": "履く",
+  "primaryMeaning": "To Put On Shoes",
+  "otherMeanings": [
+    "To Put On Pants",
+    "To Put On A Skirt"
+  ],
+  "primaryReading": "はく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1075,
+      "character": "履",
+      "readings": [
+        "り",
+        "は"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>footwear</kanji>. And what do you do with footwear, usually? You put it on! That's why this word is <vocabulary>to put on shoes</vocabulary> or <vocabulary>to put on pants</vocabulary> or <vocabulary>to put on a skirt</vocabulary>.\n\nOkay, pants and skirts aren't exactly footwear. But 履く is basically used for any garment you wear from the waist down, including socks, shoes, boots, pants, skirts, shorts, and even underpants.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nYou decide <vocabulary>to put on shoes</vocabulary>, and then <vocabulary>to put on pants</vocabulary>. \"<reading>Ha</reading>hahaha!\" (は) you laugh. What a ridiculous idea to put on shoes <em>before</em> you put on pants! But you do it every morning, and every morning it makes you laugh. You really crack yourself up. ",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B1%A5%E3%81%8F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "履",
+      "id": 1075,
+      "reading": "は"
+    },
+    {
+      "type": "kana",
+      "value": "く"
+    }
+  ]
+}

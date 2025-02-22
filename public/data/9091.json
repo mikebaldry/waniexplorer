@@ -1,37 +1,21 @@
 {
   "id": 9091,
   "type": "vocabulary",
-  "characters": "〜毎に",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "〜毎に"
+  },
   "primaryMeaning": "For Every",
+  "meaningMnemonic": "Add a に to <kanji>every</kanji> and you get <vocabulary>for every</vocabulary>. This means something happens <vocabulary>at intervals of</vocabulary> a certain time frame or milestone, like <vocabulary>once every</vocabulary> year, month, day, etc.!\n\nNote that this is very frequently written in hiragana, but you'll encounter the kanji version as well, especially when it follows a number.",
+  "primaryReading": "ごとに",
+  "readingMnemonic": "This uses the kun'yomi reading of 毎, which you haven't learned yet, so here's a mnemonic to help you:\n\n<vocabulary>For every</vocabulary> kanji you burn, you <reading>go to</reading> (ごと) Tokyo Disneyland as a reward. It's a bit of an expensive habit, but I think you deserve it.",
   "otherMeanings": [
     "At Intervals Of",
     "Once Every"
   ],
-  "primaryReading": "ごとに",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 572,
-      "character": "毎",
-      "readings": [
-        "まい",
-        "ごと"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Add a に to <kanji>every</kanji> and you get <vocabulary>for every</vocabulary>. This means something happens <vocabulary>at intervals of</vocabulary> a certain time frame or milestone, like <vocabulary>once every</vocabulary> year, month, day, etc.!\n\nNote that this is very frequently written in hiragana, but you'll encounter the kanji version as well, especially when it follows a number.",
-  "readingMnemonic": "This uses the kun'yomi reading of 毎, which you haven't learned yet, so here's a mnemonic to help you:\n\n<vocabulary>For every</vocabulary> kanji you burn, you <reading>go to</reading> (ごと) Tokyo Disneyland as a reward. It's a bit of an expensive habit, but I think you deserve it.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E3%80%9C%E6%AF%8E%E3%81%AB",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "毎",
-      "id": 572,
-      "reading": "ごと"
-    },
-    {
-      "type": "kana",
-      "value": "に"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E3%80%9C%E6%AF%8E%E3%81%AB"
+  }
 }

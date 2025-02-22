@@ -1,0 +1,34 @@
+{
+  "id": 3252,
+  "type": "vocabulary",
+  "characters": "成る",
+  "primaryMeaning": "To Become",
+  "otherMeanings": [],
+  "primaryReading": "なる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 780,
+      "character": "成",
+      "readings": [
+        "せい",
+        "な"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>become</kanji> so the vocab verb version would be <vocabulary>to become</vocabulary>.\n\nWhile the kanji version is worth knowing, be aware that you'll usually see this verb written in hiragana.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: You are starting <vocabulary>to become</vocabulary> something else. You're transforming, but you're not sure what it is. First, you get fins... uh oh, something in the water. Then, you gain a tail and rubbery skin... hmm, something sea mammal-like. Oh, and then a huge horn flies out of your nose. You are going to become a <reading>na</reading>rwhal (な).",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%88%90%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "成",
+      "id": 780,
+      "reading": "な"
+    },
+    {
+      "type": "kana",
+      "value": "る"
+    }
+  ]
+}

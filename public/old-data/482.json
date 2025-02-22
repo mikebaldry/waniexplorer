@@ -1,0 +1,34 @@
+{
+  "id": 482,
+  "type": "kanji",
+  "character": "王",
+  "primaryMeaning": "King",
+  "otherMeanings": [],
+  "primaryReading": "おう",
+  "readings": [
+    {
+      "reading": "おう",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "When you see the <kanji>king</kanji> you need to say, \"<reading>Oh</reading> (おう) King! Oh King, oh no, oh why are you looking at me like that? Oh King... you aren't going to chop off my head are you? OH NO!\"",
+  "meaningMnemonic": "The <radical>king</radical> radical and the <kanji>king</kanji> kanji are the same!",
+  "vocabularyIds": [
+    2552,
+    2553,
+    2554,
+    2555,
+    7355,
+    7618,
+    7751,
+    8068,
+    8662,
+    9009,
+    9013
+  ],
+  "radicalIds": [
+    48
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%8E%8B"
+}

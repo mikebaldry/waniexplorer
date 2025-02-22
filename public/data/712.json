@@ -1,62 +1,70 @@
 {
   "id": 712,
   "type": "kanji",
-  "character": "和",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "和"
+  },
+  "primaryReading": "わ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "わ",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "お",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "なご",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "やわ",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "かず",
+      "type": "nanori"
+    },
+    {
+      "primary": false,
+      "reading": "より",
+      "type": "nanori"
+    }
+  ],
   "primaryMeaning": "Peace",
   "otherMeanings": [
     "Japanese Style"
   ],
-  "primaryReading": "わ",
-  "readings": [
-    {
-      "reading": "わ",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "お",
-      "primary": false,
-      "type": "onyomi"
-    },
-    {
-      "reading": "なご",
-      "primary": false,
-      "type": "kunyomi"
-    },
-    {
-      "reading": "やわ",
-      "primary": false,
-      "type": "kunyomi"
-    },
-    {
-      "reading": "かず",
-      "primary": false,
-      "type": "nanori"
-    },
-    {
-      "reading": "より",
-      "primary": false,
-      "type": "nanori"
-    }
-  ],
-  "readingMnemonic": "<kanji>Peace</kanji> is the <kanji>Japanese style</kanji>. The <reading>wa</reading>lruses (わ) living off of Japan see this, and start to emulate.",
   "meaningMnemonic": "When everyone has <radical>grain</radical> in their <radical>mouth</radical>, you will have <kanji>peace</kanji>. That is the <kanji>Japanese style</kanji> of doing things.",
-  "vocabularyIds": [
-    3092,
-    3093,
-    3094,
-    3095,
-    3096,
-    3788,
-    5605,
-    6051,
-    6730,
-    8089,
-    8338
-  ],
-  "radicalIds": [
-    135,
-    16
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%92%8C"
+  "readingMnemonic": "<kanji>Peace</kanji> is the <kanji>Japanese style</kanji>. The <reading>wa</reading>lruses (わ) living off of Japan see this, and start to emulate.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%92%8C"
+  },
+  "related": {
+    "radicals": [
+      135,
+      16
+    ],
+    "vocabularies": [
+      3092,
+      3093,
+      3094,
+      3095,
+      3096,
+      3788,
+      5605,
+      6051,
+      6730,
+      8089,
+      8338
+    ]
+  }
 }

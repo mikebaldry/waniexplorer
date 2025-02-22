@@ -1,12 +1,15 @@
 {
   "id": 43,
   "type": "radical",
-  "primaryMeaning": "Moon",
-  "otherMeanings": [],
-  "character": {
+  "level": 2,
+  "characters": {
     "type": "text",
     "value": "月"
   },
-  "meaningMnemonic": "The <radical>moon</radical> is actually made of the sun, but it has little legs coming off of it leaning towards the left. Why? Because the moon is always running away from the sun as fast as it can. It doesn't want to get caught on fire, so it has to run to stay ahead!",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/moon"
+  "primaryMeaning": "Moon",
+  "otherMeanings": [],
+  "meaningMnemonic": "This is the <radical>moon</radical> radical. See how it looks like a crescent moon with a couple of little clouds floating by? Try not to mix this up with the evening radical 夕 — you can see the whole crescent moon this time, so obviously this should be the radical for moon!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/moon"
+  }
 }

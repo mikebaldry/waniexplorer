@@ -1,0 +1,36 @@
+{
+  "id": 3479,
+  "type": "vocabulary",
+  "characters": "欠ける",
+  "primaryMeaning": "To Get Chipped",
+  "otherMeanings": [
+    "To Be Lacking"
+  ],
+  "primaryReading": "かける",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 646,
+      "character": "欠",
+      "readings": [
+        "けつ",
+        "か"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb.\n\nThe kanji itself means <kanji>lack</kanji>, and this verb has a few meanings related to that. You'll often see it meaning <vocabulary>to get chipped</vocabulary>, like when talking about a teacup or your teeth. I guess a chipped teacup is lacking... a piece of itself?\n\n欠ける can also literally mean <vocabulary>to be lacking</vocabulary>, as in \"a good goalie is lacking from their team.\" You can use it like this when you're short of something, or when something is missing that would complete a set. In these situations, you'll usually see it as 欠けている!",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nSomething is lacking... it's a <reading>ca</reading>r (か). You can't stop thinking about this because you have to walk 40 miles to get to your destination. If only that car wasn't missing, this would be easier. Imagine the sweat... the pain... the thirst... all because that car's not present.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%AC%A0%E3%81%91%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "欠",
+      "id": 646,
+      "reading": "か"
+    },
+    {
+      "type": "kana",
+      "value": "ける"
+    }
+  ]
+}

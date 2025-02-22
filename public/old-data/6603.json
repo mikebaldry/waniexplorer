@@ -1,0 +1,47 @@
+{
+  "id": 6603,
+  "type": "vocabulary",
+  "characters": "暫定",
+  "primaryMeaning": "Tentative",
+  "otherMeanings": [
+    "Temporary"
+  ],
+  "primaryReading": "ざんてい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1819,
+      "character": "暫",
+      "readings": [
+        "ざん",
+        "しばら"
+      ]
+    },
+    {
+      "id": 714,
+      "character": "定",
+      "readings": [
+        "てい",
+        "じょう",
+        "さだ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Temporarily</kanji> <kanji>determine</kanji> something. That makes it <vocabulary>tentative</vocabulary> and <vocabulary>temporary</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9A%AB%E5%AE%9A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "暫",
+      "id": 1819,
+      "reading": "ざん"
+    },
+    {
+      "type": "kanji",
+      "value": "定",
+      "id": 714,
+      "reading": "てい"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 4692,
+  "type": "vocabulary",
+  "characters": "腕",
+  "primaryMeaning": "Arm",
+  "otherMeanings": [],
+  "primaryReading": "うで",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1227,
+      "character": "腕",
+      "readings": [
+        "うで",
+        "わん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%85%95",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "腕",
+      "id": 1227,
+      "reading": "うで"
+    }
+  ]
+}

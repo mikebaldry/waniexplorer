@@ -1,0 +1,44 @@
+{
+  "id": 3118,
+  "type": "vocabulary",
+  "characters": "部屋",
+  "primaryMeaning": "Room",
+  "otherMeanings": [],
+  "primaryReading": "へや",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 721,
+      "character": "部",
+      "readings": [
+        "ぶ",
+        "へ"
+      ]
+    },
+    {
+      "id": 724,
+      "character": "屋",
+      "readings": [
+        "や",
+        "おく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you have a <kanji>part</kanji> of a <kanji>roof</kanji>, that part is your <vocabulary>room</vocabulary>. Just imagine a roof divided into sections in a house, with the sections going all the way down to the ground. Each section is its own room, right?",
+  "readingMnemonic": "部屋 is a bit tricky because it's one of the few Japanese words that use the へ reading for 部. You'll just have to remember this one is special. Here's a mnemonic to help you out:\n\nImagine you're renting out a <vocabulary>room</vocabulary>, but all you hear at night is a constant \"<reading>heh</reading> (<ja>へ</ja>)… heh... heh... hehehe\". An incessant snickering, coming from somewhere inside your room. Hehehe.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%83%A8%E5%B1%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "部",
+      "id": 721,
+      "reading": "へ"
+    },
+    {
+      "type": "kanji",
+      "value": "屋",
+      "id": 724,
+      "reading": "や"
+    }
+  ]
+}

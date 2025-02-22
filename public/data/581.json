@@ -1,41 +1,49 @@
 {
   "id": 581,
   "type": "kanji",
-  "character": "西",
-  "primaryMeaning": "West",
-  "otherMeanings": [],
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "西"
+  },
   "primaryReading": "せい",
   "readings": [
     {
-      "reading": "せい",
       "primary": true,
+      "reading": "せい",
       "type": "onyomi"
     },
     {
+      "primary": false,
       "reading": "さい",
-      "primary": false,
       "type": "onyomi"
     },
     {
-      "reading": "にし",
       "primary": false,
+      "reading": "にし",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "People are attacking from the <kanji>West</kanji>, so you pull out your <reading>sa</reading>ber (せい) and beat them back. You keep pushing further and further West until you reach the ocean and there's nowhere left for them to run.",
+  "primaryMeaning": "West",
+  "otherMeanings": [],
   "meaningMnemonic": "The <radical>west</radical> radical and the <kanji>west</kanji> kanji are the same. Isn't that nice?",
-  "vocabularyIds": [
-    2778,
-    2779,
-    3951,
-    3959,
-    4053,
-    6889,
-    7690,
-    8007
-  ],
-  "radicalIds": [
-    112
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%A5%BF"
+  "readingMnemonic": "People are attacking from the <kanji>west</kanji>, so you pull out your <reading>sa</reading>ber (せい) and beat them back. You keep pushing further and further west until you reach the ocean and there's nowhere left for them to run.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%A5%BF"
+  },
+  "related": {
+    "radicals": [
+      112
+    ],
+    "vocabularies": [
+      2778,
+      2779,
+      3951,
+      3959,
+      4053,
+      6889,
+      7690,
+      8007
+    ]
+  }
 }

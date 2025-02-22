@@ -1,0 +1,34 @@
+{
+  "id": 4942,
+  "type": "vocabulary",
+  "characters": "河",
+  "primaryMeaning": "River",
+  "otherMeanings": [
+    "Large River"
+  ],
+  "primaryReading": "かわ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1306,
+      "character": "河",
+      "readings": [
+        "か",
+        "かわ",
+        "こう",
+        "こお"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well. \n\n河 originally referred to the Yellow River in ancient China, so it's usually associated with very <vocabulary>large river</vocabulary>s. 河 is a lot less common than 川, but you might still find it in literature, where it can emphasize the grand and powerful nature of a river or its cultural significance.",
+  "readingMnemonic": "The reading is the same like the word 川 which has the same meaning. Associate the two to remember!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B2%B3",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "河",
+      "id": 1306,
+      "reading": "かわ"
+    }
+  ]
+}

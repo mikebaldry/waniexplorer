@@ -1,29 +1,37 @@
 {
   "id": 2304,
   "type": "kanji",
-  "character": "穀",
-  "primaryMeaning": "Grain",
-  "otherMeanings": [],
+  "level": 56,
+  "characters": {
+    "type": "text",
+    "value": "穀"
+  },
   "primaryReading": "こく",
   "readings": [
     {
-      "reading": "こく",
       "primary": true,
+      "reading": "こく",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "Phew, all of this <kanji>grain</kanji> is making the samurai thirsty, so he reaches in his bag and pulls out an ice cold, refreshing <reading>Coke</reading> (こく).",
+  "primaryMeaning": "Grain",
+  "otherMeanings": [],
   "meaningMnemonic": "A <radical>samurai</radical> hits the <radical>forehead</radical>s of <radical>grain</radical>s with his <radical>weapon</radical> so the <kanji>grain</kanji>s will pop off and into his mouth. He doesn't want to kill the plants, so he's just skimming the grain's foreheads so they'll fall off and he can eat them.",
-  "vocabularyIds": [
-    8305,
-    8306,
-    8307
-  ],
-  "radicalIds": [
-    97,
-    76,
-    135,
-    160
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%A9%80"
+  "readingMnemonic": "Phew, all of this <kanji>grain</kanji> is making the samurai thirsty, so he reaches in his bag and pulls out an ice cold, refreshing <reading>Coke</reading> (こく).",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%A9%80"
+  },
+  "related": {
+    "radicals": [
+      97,
+      76,
+      135,
+      160
+    ],
+    "vocabularies": [
+      8305,
+      8306,
+      8307
+    ]
+  }
 }

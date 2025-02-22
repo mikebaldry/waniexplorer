@@ -1,44 +1,18 @@
 {
   "id": 5422,
   "type": "vocabulary",
-  "characters": "編集",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "編集"
+  },
   "primaryMeaning": "Edit",
-  "otherMeanings": [],
-  "primaryReading": "へんしゅう",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1445,
-      "character": "編",
-      "readings": [
-        "へん",
-        "あ"
-      ]
-    },
-    {
-      "id": 754,
-      "character": "集",
-      "readings": [
-        "しゅう",
-        "あつ"
-      ]
-    }
-  ],
   "meaningMnemonic": "<kanji>Knit</kanji> and <kanji>gather</kanji> everything back together, which you knit. When you do this to fix things and bring it back together, this is an <vocabulary>edit</vocabulary>.",
+  "primaryReading": "へんしゅう",
   "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B7%A8%E9%9B%86",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "編",
-      "id": 1445,
-      "reading": "へん"
-    },
-    {
-      "type": "kanji",
-      "value": "集",
-      "id": 754,
-      "reading": "しゅう"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%B7%A8%E9%9B%86"
+  }
 }

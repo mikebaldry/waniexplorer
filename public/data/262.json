@@ -1,12 +1,15 @@
 {
   "id": 262,
   "type": "radical",
-  "primaryMeaning": "Treasure Chest",
-  "otherMeanings": [],
-  "character": {
+  "level": 18,
+  "characters": {
     "type": "text",
     "value": "凶"
   },
+  "primaryMeaning": "Treasure Chest",
+  "otherMeanings": [],
   "meaningMnemonic": "There's a treasure radical inside this box. What holds treasures? A <radical>treasure chest</radical>.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/treasure-chest"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/treasure-chest"
+  }
 }

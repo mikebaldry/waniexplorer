@@ -1,44 +1,20 @@
 {
   "id": 4543,
   "type": "vocabulary",
-  "characters": "政策",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "政策"
+  },
   "primaryMeaning": "Policy",
+  "meaningMnemonic": "A <kanji>plan</kanji> made by the <kanji>government</kanji> is usually known as a <vocabulary>policy</vocabulary>. \"The government passed a policy prohibiting the use of guns on zombies, dooming us all.\"",
+  "primaryReading": "せいさく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "A Policy"
   ],
-  "primaryReading": "せいさく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 985,
-      "character": "政",
-      "readings": [
-        "せい"
-      ]
-    },
-    {
-      "id": 1172,
-      "character": "策",
-      "readings": [
-        "さく"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>plan</kanji> made by the <kanji>government</kanji> is usually known as a <vocabulary>policy</vocabulary>. \"The government passed a policy prohibiting the use of guns on zombies, dooming us all.\"",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%94%BF%E7%AD%96",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "政",
-      "id": 985,
-      "reading": "せい"
-    },
-    {
-      "type": "kanji",
-      "value": "策",
-      "id": 1172,
-      "reading": "さく"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%94%BF%E7%AD%96"
+  }
 }

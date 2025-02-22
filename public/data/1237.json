@@ -1,39 +1,47 @@
 {
   "id": 1237,
   "type": "kanji",
-  "character": "象",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "象"
+  },
+  "primaryReading": "ぞう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ぞう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "しょう",
+      "type": "onyomi"
+    }
+  ],
   "primaryMeaning": "Elephant",
   "otherMeanings": [
     "Phenomenon"
   ],
-  "primaryReading": "ぞう",
-  "readings": [
-    {
-      "reading": "ぞう",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "しょう",
-      "primary": false,
-      "type": "onyomi"
-    }
-  ],
-  "readingMnemonic": "<kanji>Elephant</kanji>s are great and all, except that when they die they turn into elephant <reading>zo</reading>mbies (ぞう). But you never see these zombies because the <reading>shou</reading>gun (しょう) has a special project in place that destroys all elephant bodies when they die.\n\nHint: The readings and meanings for this kanji match up really nicely. ぞう is always for elephant and しょう is always for phenomenon. Remember it like this, the elephant is the zombie and the shougun keeps everyone from finding out about this phenomenon.",
   "meaningMnemonic": "The <radical>elephant</radical> radical and the <kanji>elephant</kanji> kanji are the same. But! This kanji has another meaning: <kanji>phenomenon</kanji>. If you were the first person to see an elephant, you'd call it that too.",
-  "vocabularyIds": [
-    4721,
-    4722,
-    4723,
-    4724,
-    4884,
-    4906,
-    4918,
-    6026,
-    7272
-  ],
-  "radicalIds": [
-    8823
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%B1%A1"
+  "readingMnemonic": "<kanji>Elephant</kanji>s are great and all, except that when they die they turn into elephant <reading>zo</reading>mbies (ぞう). But you never see these zombies because the <reading>shou</reading>gun (しょう) has a special project in place that destroys all elephant bodies when they die.\n\nHint: The readings and meanings for this kanji match up really nicely. ぞう is always for elephant and しょう is always for phenomenon. Remember it like this, the elephant is the zombie and the shougun keeps everyone from finding out about this phenomenon.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%B1%A1"
+  },
+  "related": {
+    "radicals": [
+      8823
+    ],
+    "vocabularies": [
+      4721,
+      4722,
+      4723,
+      4724,
+      4884,
+      4906,
+      4918,
+      6026,
+      7272
+    ]
+  }
 }

@@ -1,26 +1,34 @@
 {
   "id": 2228,
   "type": "kanji",
-  "character": "拐",
-  "primaryMeaning": "Kidnap",
-  "otherMeanings": [],
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "拐"
+  },
   "primaryReading": "かい",
   "readings": [
     {
-      "reading": "かい",
       "primary": true,
+      "reading": "かい",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "You've been <kanji>kidnap</kanji>ped and your kidnapper has asked for one thing in exchange for your safe return: a <reading>kay</reading>ak (かい). Kayaks are expensive. And it's way easier for this dude to kidnap you and demand your family buy one and give it to them than for them to work for one.",
+  "primaryMeaning": "Kidnap",
+  "otherMeanings": [],
   "meaningMnemonic": "A <radical>mouth</radical> with a <radical>sword</radical> is threatening to cut off your <radical>fingers</radical> because they've <kanji>kidnap</kanji>ped you! You can't see anything about them, since they're all covered up. All you see is their angry mouth and the sword they keep putting near your fingers. ",
-  "vocabularyIds": [
-    8101
-  ],
-  "radicalIds": [
-    63,
-    16,
-    24
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%8B%90"
+  "readingMnemonic": "You've been <kanji>kidnap</kanji>ped and your kidnapper has asked for one thing in exchange for your safe return: a <reading>kay</reading>ak (かい). Kayaks are expensive. And it's way easier for this dude to kidnap you and demand your family buy one and give it to them than for them to work for one.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%8B%90"
+  },
+  "related": {
+    "radicals": [
+      63,
+      16,
+      24
+    ],
+    "vocabularies": [
+      8101
+    ]
+  }
 }

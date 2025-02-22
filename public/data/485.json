@@ -1,48 +1,56 @@
 {
   "id": 485,
   "type": "kanji",
-  "character": "四",
-  "primaryMeaning": "Four",
-  "otherMeanings": [],
+  "level": 2,
+  "characters": {
+    "type": "text",
+    "value": "四"
+  },
   "primaryReading": "し",
   "readings": [
     {
-      "reading": "し",
       "primary": true,
+      "reading": "し",
       "type": "onyomi"
     },
     {
-      "reading": "よん",
       "primary": false,
+      "reading": "よん",
       "type": "kunyomi"
     },
     {
-      "reading": "よ",
       "primary": false,
+      "reading": "よ",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "This amazing feat, which turned you into a <kanji>four</kanji> sided square, has you looking like a four sided animal: the <reading>shee</reading>p (し). Look at yourself in the mirror and see an adorable four-sided sheep looking back at you. (You can't see the other sides because mirrors aren't 3D and whatnot. So you're a bit cartoonish.)",
+  "primaryMeaning": "Four",
+  "otherMeanings": [],
   "meaningMnemonic": "Imagine contorting yourself in such a way that your <radical>legs</radical> end up inside your <radical>mouth</radical>. You have bent your body in all the wrong ways in order to achieve this. In fact, if you look at yourself, you look like a square now... You're just a person with <kanji>four</kanji> sides.",
-  "vocabularyIds": [
-    2561,
-    2562,
-    2563,
-    2564,
-    2565,
-    2566,
-    2681,
-    2837,
-    2885,
-    3237,
-    3374,
-    3671,
-    6810,
-    7854
-  ],
-  "radicalIds": [
-    16,
-    28
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%9B%9B"
+  "readingMnemonic": "This amazing feat, which turned you into a <kanji>four</kanji> sided square, has you looking like a four sided animal: the <reading>shee</reading>p (し). Look at yourself in the mirror and see an adorable four-sided sheep looking back at you. (You can't see the other sides because mirrors aren't 3D and whatnot. So you're a bit cartoonish.)",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%9B%9B"
+  },
+  "related": {
+    "radicals": [
+      16,
+      28
+    ],
+    "vocabularies": [
+      2561,
+      2562,
+      2563,
+      2564,
+      2565,
+      2566,
+      2681,
+      2837,
+      2885,
+      3237,
+      3374,
+      3671,
+      6810,
+      7854
+    ]
+  }
 }

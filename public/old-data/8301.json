@@ -1,0 +1,46 @@
+{
+  "id": 8301,
+  "type": "vocabulary",
+  "characters": "墓碑",
+  "primaryMeaning": "Gravestone",
+  "otherMeanings": [
+    "Tombstone"
+  ],
+  "primaryReading": "ぼひ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1474,
+      "character": "墓",
+      "readings": [
+        "ぼ",
+        "はか"
+      ]
+    },
+    {
+      "id": 2323,
+      "character": "碑",
+      "readings": [
+        "ひ",
+        "いしぶみ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Combine a <kanji>grave</kanji> and a <kanji>tombstone</kanji> and you make a <vocabulary>gravestone</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A2%93%E7%A2%91",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "墓",
+      "id": 1474,
+      "reading": "ぼ"
+    },
+    {
+      "type": "kanji",
+      "value": "碑",
+      "id": 2323,
+      "reading": "ひ"
+    }
+  ]
+}

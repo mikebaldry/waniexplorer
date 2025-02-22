@@ -1,32 +1,20 @@
 {
   "id": 3326,
   "type": "vocabulary",
-  "characters": "旅",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "旅"
+  },
   "primaryMeaning": "Trip",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "たび",
+  "readingMnemonic": "Since this word is made up of a single kanji, it should use the kun'yomi reading. When learning the kanji, you didn't learn that reading, so here's a mnemonic to help you with this word: You are going on your <vocabulary>trip</vocabulary> but you need to bring your little <reading>tabby</reading> (たび) cat with you to keep you company. This cat keeps you calm and lets you leave your house, but the airlines won't let you take it on this trip. What to do?",
   "otherMeanings": [
     "Travel"
   ],
-  "primaryReading": "たび",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 816,
-      "character": "旅",
-      "readings": [
-        "りょ",
-        "たび"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
-  "readingMnemonic": "Since this word is made up of a single kanji, it should use the kun'yomi reading. When learning the kanji, you didn't learn that reading, so here's a mnemonic to help you with this word: You are going on your <vocabulary>trip</vocabulary> but you need to bring your little <reading>tabby</reading> (たび) cat with you to keep you company. This cat keeps you calm and lets you leave your house, but the airlines won't let you take it on this trip. What to do?",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%97%85",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "旅",
-      "id": 816,
-      "reading": "たび"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%97%85"
+  }
 }

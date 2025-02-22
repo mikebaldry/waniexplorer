@@ -1,37 +1,45 @@
 {
   "id": 1283,
   "type": "kanji",
-  "character": "印",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "印"
+  },
+  "primaryReading": "いん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "いん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "しるし",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Seal",
   "otherMeanings": [
     "Mark"
   ],
-  "primaryReading": "いん",
-  "readings": [
-    {
-      "reading": "いん",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "しるし",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "You need this <kanji>seal</kanji> to stay at an <reading>inn</reading> (いん). All inns require official paperwork, so you had to improvise and make a seal on the fly.",
   "meaningMnemonic": "You take this <radical>comb</radical>, break the handle off, and use it to <radical>stamp</radical> your official <kanji>seal</kanji> of approval onto a document. It's kind of a messy <kanji>mark</kanji>ing process, but it gets the job done.",
-  "vocabularyIds": [
-    4905,
-    4906,
-    5105,
-    5413,
-    6680,
-    6805
-  ],
-  "radicalIds": [
-    8792,
-    145
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%8D%B0"
+  "readingMnemonic": "You need this <kanji>seal</kanji> to stay at an <reading>inn</reading> (いん). All inns require official paperwork, so you had to improvise and make a seal on the fly.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%8D%B0"
+  },
+  "related": {
+    "radicals": [
+      8792,
+      145
+    ],
+    "vocabularies": [
+      4905,
+      4906,
+      5105,
+      5413,
+      6680,
+      6805
+    ]
+  }
 }

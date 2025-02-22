@@ -1,33 +1,41 @@
 {
   "id": 1750,
   "type": "kanji",
-  "character": "剤",
-  "primaryMeaning": "Dose",
-  "otherMeanings": [],
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "剤"
+  },
   "primaryReading": "ざい",
   "readings": [
     {
-      "reading": "ざい",
       "primary": true,
+      "reading": "ざい",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "\"I need a <kanji>dose</kanji> of the antidote!\" you yell, and the other guy looks you dead in the eyes. They slowly pull a tiny <reading>xy</reading>lophone (ざい) out of their pocket, play a few notes, and then eat it. \"Ah, you'd like a dose of the xylophone cure, wouldn't you?\"",
+  "primaryMeaning": "Dose",
+  "otherMeanings": [],
   "meaningMnemonic": "<radical>Simultaneous</radical>ly, you throw your <radical>knife</radical> at another person who's throwing a knife at you and you both get a <kanji>dose</kanji> of your own medicine. Literally, there's poison on these knives and now you've both been stabbed.",
-  "vocabularyIds": [
-    6381,
-    6382,
-    6383,
-    6384,
-    6385,
-    8221,
-    8248,
-    8507,
-    9040
-  ],
-  "radicalIds": [
-    277,
-    128
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%89%A4"
+  "readingMnemonic": "\"I need a <kanji>dose</kanji> of the antidote!\" you yell, and the other guy looks you dead in the eyes. They slowly pull a tiny <reading>xy</reading>lophone (ざい) out of their pocket, play a few notes, and then eat it. \"Ah, you'd like a dose of the xylophone cure, wouldn't you?\"",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%89%A4"
+  },
+  "related": {
+    "radicals": [
+      277,
+      128
+    ],
+    "vocabularies": [
+      6381,
+      6382,
+      6383,
+      6384,
+      6385,
+      8221,
+      8248,
+      8507,
+      9040
+    ]
+  }
 }

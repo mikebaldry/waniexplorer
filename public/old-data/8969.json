@@ -1,0 +1,28 @@
+{
+  "id": 8969,
+  "type": "kanji",
+  "character": "拉",
+  "primaryMeaning": "Abduct",
+  "otherMeanings": [
+    "Pull"
+  ],
+  "primaryReading": "ら",
+  "readings": [
+    {
+      "reading": "ら",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Suddenly, someone really is trying to <kanji>abduct</kanji> you. They're <kanji>pull</kanji>ling you away. It's the ancient Egyptian god <reading>Ra</reading> (ら). Help!",
+  "meaningMnemonic": "Your <radical>fingers</radical> have to <radical>stand</radical> up straight, to protect you from being <kanji>abduct</kanji>ed, or <kanji>pull</kanji>ed away against your will.",
+  "vocabularyIds": [
+    8972,
+    8989
+  ],
+  "radicalIds": [
+    63,
+    55
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%8B%89"
+}

@@ -1,47 +1,21 @@
 {
   "id": 4880,
   "type": "vocabulary",
-  "characters": "景色",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "景色"
+  },
   "primaryMeaning": "Scenery",
+  "meaningMnemonic": "The <kanji>scene</kanji>'s <kanji>color</kanji> is the <vocabulary>scenery</vocabulary>, <vocabulary>landscape</vocabulary>, and <vocabulary>view</vocabulary>. Looking good, scenery!",
+  "primaryReading": "けしき",
+  "readingMnemonic": "You haven't learned either of these readings yet. Here's a mnemonic to help you remember them:\n\nYou're admiring the <vocabulary>scenery</vocabulary> and you notice key marks all over everything. You realize it's that girl who keys everything and you say to yourself <reading>kay she key</reading>ed (けしき) that, <reading>kay she key</reading>ed (けしき) this.",
   "otherMeanings": [
     "Landscape",
     "View"
   ],
-  "primaryReading": "けしき",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1256,
-      "character": "景",
-      "readings": [
-        "けい"
-      ]
-    },
-    {
-      "id": 579,
-      "character": "色",
-      "readings": [
-        "いろ",
-        "しき",
-        "しょく"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The <kanji>scene</kanji>'s <kanji>color</kanji> is the <vocabulary>scenery</vocabulary>, <vocabulary>landscape</vocabulary>, and <vocabulary>view</vocabulary>. Looking good, scenery!",
-  "readingMnemonic": "You haven't learned either of these readings yet. Here's a mnemonic to help you remember them:\n\nYou're admiring the <vocabulary>scenery</vocabulary> and you notice key marks all over everything. You realize it's that girl who keys everything and you say to yourself <reading>kay she key</reading>ed (けしき) that, <reading>kay she key</reading>ed (けしき) this.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%99%AF%E8%89%B2",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "景",
-      "id": 1256,
-      "reading": null
-    },
-    {
-      "type": "kanji",
-      "value": "色",
-      "id": 579,
-      "reading": null
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%99%AF%E8%89%B2"
+  }
 }

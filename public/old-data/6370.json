@@ -1,0 +1,46 @@
+{
+  "id": 6370,
+  "type": "vocabulary",
+  "characters": "主唱",
+  "primaryMeaning": "Advocate",
+  "otherMeanings": [],
+  "primaryReading": "しゅしょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 528,
+      "character": "主",
+      "readings": [
+        "しゅ",
+        "おも",
+        "ぬし",
+        "あるじ"
+      ]
+    },
+    {
+      "id": 1746,
+      "character": "唱",
+      "readings": [
+        "しょう",
+        "とな"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>master</kanji> <kanji>chant</kanji>er is the one who is the loudest. He makes sure everyone hears his chants. He's the main <vocabulary>advocate</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%BB%E5%94%B1",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "主",
+      "id": 528,
+      "reading": "しゅ"
+    },
+    {
+      "type": "kanji",
+      "value": "唱",
+      "id": 1746,
+      "reading": "しょう"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": 3887,
+  "type": "vocabulary",
+  "characters": "旅行する",
+  "primaryMeaning": "To Travel",
+  "otherMeanings": [
+    "To Take A Trip"
+  ],
+  "primaryReading": "りょこうする",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 816,
+      "character": "旅",
+      "readings": [
+        "りょ",
+        "たび"
+      ]
+    },
+    {
+      "id": 580,
+      "character": "行",
+      "readings": [
+        "こう",
+        "ぎょう",
+        "い",
+        "おこな",
+        "ゆ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You've hopefully seen 旅行 by this point. This is the verb version of that. Instead of \"trip\" it's <vocabulary>to travel</vocabulary> or <vocabulary>to take a trip</vocabulary>. These are fun to do. You should do them!",
+  "readingMnemonic": "The reading is the same as 旅行, but it also happens to use the reading you learned with the kanji anyways, so you should be able to read it.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%97%85%E8%A1%8C%E3%81%99%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "旅",
+      "id": 816,
+      "reading": "りょ"
+    },
+    {
+      "type": "kanji",
+      "value": "行",
+      "id": 580,
+      "reading": "こう"
+    },
+    {
+      "type": "kana",
+      "value": "する"
+    }
+  ]
+}

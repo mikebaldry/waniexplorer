@@ -1,0 +1,32 @@
+{
+  "id": 1607,
+  "type": "kanji",
+  "character": "銅",
+  "primaryMeaning": "Copper",
+  "otherMeanings": [],
+  "primaryReading": "どう",
+  "readings": [
+    {
+      "reading": "どう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "あかがね",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Smashing the <kanji>copper</kanji> against the gold has made you tired. You should eat a <reading>dou</reading>ghnut (どう). Go get yourself a doughnut.",
+  "meaningMnemonic": "<radical>Gold</radical> is not the <radical>same</radical> as <kanji>copper</kanji>. They are two different metals. Gold is not the same as copper.",
+  "vocabularyIds": [
+    5924,
+    5925,
+    5926
+  ],
+  "radicalIds": [
+    118,
+    341
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%8A%85"
+}

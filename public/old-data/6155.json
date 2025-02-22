@@ -1,0 +1,51 @@
+{
+  "id": 6155,
+  "type": "vocabulary",
+  "characters": "馬鹿らしい",
+  "primaryMeaning": "Absurd",
+  "otherMeanings": [],
+  "primaryReading": "ばからしい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 692,
+      "character": "馬",
+      "readings": [
+        "ば",
+        "め",
+        "うま",
+        "ま"
+      ]
+    },
+    {
+      "id": 1640,
+      "character": "鹿",
+      "readings": [
+        "か",
+        "ろく",
+        "しか"
+      ]
+    }
+  ],
+  "meaningMnemonic": "馬鹿 is \"stupid\" so if you hear a rumor about something (らしい) that's stupid, you'll just respond by saying \"that's <vocabulary>absurd</vocabulary>.\"",
+  "readingMnemonic": "The reading comes from 馬鹿.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%A6%AC%E9%B9%BF%E3%82%89%E3%81%97%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "馬",
+      "id": 692,
+      "reading": "ば"
+    },
+    {
+      "type": "kanji",
+      "value": "鹿",
+      "id": 1640,
+      "reading": "か"
+    },
+    {
+      "type": "kana",
+      "value": "らしい"
+    }
+  ]
+}

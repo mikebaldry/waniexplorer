@@ -1,36 +1,20 @@
 {
   "id": 7044,
   "type": "vocabulary",
-  "characters": "黙る",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "黙る"
+  },
   "primaryMeaning": "To Shut Up",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>shut up</kanji> so the verb vocab version is <vocabulary>to shut up</vocabulary>.",
+  "primaryReading": "だまる",
+  "readingMnemonic": "You need to <reading>dam</reading> (だま) your mouth shut and shut up.",
   "otherMeanings": [
     "To Be Silent"
   ],
-  "primaryReading": "だまる",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1973,
-      "character": "黙",
-      "readings": [
-        "もく",
-        "だま"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>shut up</kanji> so the verb vocab version is <vocabulary>to shut up</vocabulary>.",
-  "readingMnemonic": "You need to <reading>dam</reading> (だま) your mouth shut and shut up.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%BB%99%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "黙",
-      "id": 1973,
-      "reading": "だま"
-    },
-    {
-      "type": "kana",
-      "value": "る"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%BB%99%E3%82%8B"
+  }
 }

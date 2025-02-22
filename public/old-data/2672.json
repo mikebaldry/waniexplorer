@@ -1,0 +1,49 @@
+{
+  "id": 2672,
+  "type": "vocabulary",
+  "characters": "一気",
+  "primaryMeaning": "One Breath",
+  "otherMeanings": [
+    "One Go",
+    "One Sitting"
+  ],
+  "primaryReading": "いっき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 440,
+      "character": "一",
+      "readings": [
+        "いち",
+        "いつ",
+        "ひと",
+        "かず"
+      ]
+    },
+    {
+      "id": 548,
+      "character": "気",
+      "readings": [
+        "き",
+        "け"
+      ]
+    }
+  ],
+  "meaningMnemonic": "It's weird to think of having <kanji>one</kanji> <kanji>energy</kanji>. But, what gives you energy? You do it one time every couple of seconds. That would be taking breaths. So, \"one energy\" is <vocabulary>one breath</vocabulary>.",
+  "readingMnemonic": "The reading is the same as the ones you learned with the individual kanji, though いち from 一 is shortened to いっ.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%80%E6%B0%97",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "一",
+      "id": 440,
+      "reading": "いっ"
+    },
+    {
+      "type": "kanji",
+      "value": "気",
+      "id": 548,
+      "reading": "き"
+    }
+  ]
+}

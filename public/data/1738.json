@@ -1,38 +1,46 @@
 {
   "id": 1738,
   "type": "kanji",
-  "character": "躍",
-  "primaryMeaning": "Leap",
-  "otherMeanings": [],
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "躍"
+  },
   "primaryReading": "やく",
   "readings": [
     {
-      "reading": "やく",
       "primary": true,
+      "reading": "やく",
       "type": "onyomi"
     },
     {
-      "reading": "おど",
       "primary": false,
+      "reading": "おど",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "After you kick Wolverine and the turkey is safe, you <kanji>leap</kanji> onto a <reading>yak</reading> (やく) to make your getaway. This yak is really fast so you’ll have no problem outrunning Wolverine while riding it.",
+  "primaryMeaning": "Leap",
+  "otherMeanings": [],
   "meaningMnemonic": "You use your <radical>foot</radical> to kick <radical>Wolverine</radical> in the face so a <radical>turkey</radical> can <kanji>leap</kanji> to freedom. This turkey is trying to escape from Wolverine by leaping over a fence. Wolverine doesn’t want the turkey to escape, but you kick him with your foot and the turkey is then free to leap to safety.",
-  "vocabularyIds": [
-    6322,
-    6323,
-    6324,
-    6325,
-    6326,
-    6327,
-    6474,
-    7094
-  ],
-  "radicalIds": [
-    95,
-    105,
-    240
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%BA%8D"
+  "readingMnemonic": "After you kick Wolverine and the turkey is safe, you <kanji>leap</kanji> onto a <reading>yak</reading> (やく) to make your getaway. This yak is really fast so you’ll have no problem outrunning Wolverine while riding it.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%BA%8D"
+  },
+  "related": {
+    "radicals": [
+      95,
+      105,
+      240
+    ],
+    "vocabularies": [
+      6322,
+      6323,
+      6324,
+      6325,
+      6326,
+      6327,
+      6474,
+      7094
+    ]
+  }
 }

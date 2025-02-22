@@ -1,0 +1,39 @@
+{
+  "id": 1782,
+  "type": "kanji",
+  "character": "樹",
+  "primaryMeaning": "Wood",
+  "otherMeanings": [],
+  "primaryReading": "じゅ",
+  "readings": [
+    {
+      "reading": "じゅ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "き",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "いつき",
+      "primary": false,
+      "type": "nanori"
+    }
+  ],
+  "readingMnemonic": "If you're still not sure if the tree is really made of <kanji>wood</kanji>, just take out a small <reading>ju</reading>ice (じゅ) box and start drinking it. A wooden tree will show no interest in the juice box at all.",
+  "meaningMnemonic": "Each <radical>tree</radical> needs its <radical>drum</radical> <radical>measurement</radical> done before you can say it's really made of <kanji>wood</kanji>.",
+  "vocabularyIds": [
+    6496,
+    6497,
+    6498,
+    7826
+  ],
+  "radicalIds": [
+    23,
+    421,
+    74
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%A8%B9"
+}

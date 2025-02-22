@@ -1,32 +1,40 @@
 {
   "id": 1693,
   "type": "kanji",
-  "character": "扱",
-  "primaryMeaning": "Handle",
-  "otherMeanings": [],
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "扱"
+  },
   "primaryReading": "あつか",
   "readings": [
     {
-      "reading": "あつか",
       "primary": true,
+      "reading": "あつか",
       "type": "kunyomi"
     },
     {
-      "reading": "きゅう",
       "primary": false,
+      "reading": "きゅう",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "You put your hand on the <kanji>handle</kanji> and an old person leans in close to you and says, \"<reading>暑か</reading>?\" (あつか). He wants to know if the handle is ... hot? Before you can respond he says it again, and again! “暑か？！ 暑か？！？！ 暑か？！？！？！” he's shouting as you slowly ride the escalator away from him.",
+  "primaryMeaning": "Handle",
+  "otherMeanings": [],
   "meaningMnemonic": "Where do you put your <radical>fingers</radical> when you're on an <radical>escalator</radical>? On the <kanji>handle</kanji>! Okay, so maybe it's not a handle and more of a railing, but for the sake of this kanji, picture a handle instead.",
-  "vocabularyIds": [
-    6196,
-    6347,
-    6348
-  ],
-  "radicalIds": [
-    63,
-    193
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%89%B1"
+  "readingMnemonic": "You put your hand on the <kanji>handle</kanji> and an old person leans in close to you and says, \"<reading>暑か</reading>?\" (あつか). He wants to know if the handle is ... hot? Before you can respond he says it again, and again! “暑か？！ 暑か？！？！ 暑か？！？！？！” he's shouting as you slowly ride the escalator away from him.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%89%B1"
+  },
+  "related": {
+    "radicals": [
+      63,
+      193
+    ],
+    "vocabularies": [
+      6196,
+      6347,
+      6348
+    ]
+  }
 }

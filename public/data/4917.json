@@ -1,45 +1,20 @@
 {
   "id": 4917,
   "type": "vocabulary",
-  "characters": "特徴",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "特徴"
+  },
   "primaryMeaning": "Characteristic",
+  "meaningMnemonic": "A <kanji>special</kanji> <kanji>indication</kanji> on something or yourself is a special <vocabulary>characteristic</vocabulary>. It's a <vocabulary>distinctive feature</vocabulary> that exists.",
+  "primaryReading": "とくちょう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Distinctive Feature"
   ],
-  "primaryReading": "とくちょう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 807,
-      "character": "特",
-      "readings": [
-        "とく"
-      ]
-    },
-    {
-      "id": 1301,
-      "character": "徴",
-      "readings": [
-        "ちょう",
-        "しるし"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>special</kanji> <kanji>indication</kanji> on something or yourself is a special <vocabulary>characteristic</vocabulary>. It's a <vocabulary>distinctive feature</vocabulary> that exists.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%89%B9%E5%BE%B4",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "特",
-      "id": 807,
-      "reading": "とく"
-    },
-    {
-      "type": "kanji",
-      "value": "徴",
-      "id": 1301,
-      "reading": "ちょう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%89%B9%E5%BE%B4"
+  }
 }

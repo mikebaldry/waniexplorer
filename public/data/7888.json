@@ -1,43 +1,18 @@
 {
   "id": 7888,
   "type": "vocabulary",
-  "characters": "慢性",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "慢性"
+  },
   "primaryMeaning": "Chronic",
-  "otherMeanings": [],
-  "primaryReading": "まんせい",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2179,
-      "character": "慢",
-      "readings": [
-        "まん"
-      ]
-    },
-    {
-      "id": 918,
-      "character": "性",
-      "readings": [
-        "せい",
-        "しょう"
-      ]
-    }
-  ],
   "meaningMnemonic": "If it's in your <kanji>nature</kanji> to <kanji>ridicule</kanji> people, it will become a <vocabulary>chronic</vocabulary> problem. You can't change something that's so embedded in who you are, which is a shame, since you're a jerk.",
+  "primaryReading": "まんせい",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%85%A2%E6%80%A7",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "慢",
-      "id": 2179,
-      "reading": "まん"
-    },
-    {
-      "type": "kanji",
-      "value": "性",
-      "id": 918,
-      "reading": "せい"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%85%A2%E6%80%A7"
+  }
 }

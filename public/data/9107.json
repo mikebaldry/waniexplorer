@@ -1,66 +1,20 @@
 {
   "id": 9107,
   "type": "vocabulary",
-  "characters": "那智の滝",
+  "level": 56,
+  "characters": {
+    "type": "text",
+    "value": "那智の滝"
+  },
   "primaryMeaning": "Nachi Falls",
+  "meaningMnemonic": "<kanji>What</kanji> <kanji>wisdom</kanji> <kanji>waterfall</kanji> is <vocabulary>Nachi Falls</vocabulary>, one of the most famous (and wisest) waterfalls in Japan. ",
+  "primaryReading": "なちのたき",
+  "readingMnemonic": "You learned all three of these readings with the kanji, so you should be able to read this on your own.",
   "otherMeanings": [
     "Nachinotaki"
   ],
-  "primaryReading": "なちのたき",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2294,
-      "character": "那",
-      "readings": [
-        "な",
-        "だ",
-        "いかん",
-        "なに",
-        "なんぞ"
-      ]
-    },
-    {
-      "id": 2328,
-      "character": "智",
-      "readings": [
-        "ち",
-        "とも"
-      ]
-    },
-    {
-      "id": 1938,
-      "character": "滝",
-      "readings": [
-        "たき"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>What</kanji> <kanji>wisdom</kanji> <kanji>waterfall</kanji> is <vocabulary>Nachi Falls</vocabulary>, one of the most famous (and wisest) waterfalls in Japan. ",
-  "readingMnemonic": "You learned all three of these readings with the kanji, so you should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%82%A3%E6%99%BA%E3%81%AE%E6%BB%9D",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "那",
-      "id": 2294,
-      "reading": "な"
-    },
-    {
-      "type": "kanji",
-      "value": "智",
-      "id": 2328,
-      "reading": "ち"
-    },
-    {
-      "type": "kana",
-      "value": "の"
-    },
-    {
-      "type": "kanji",
-      "value": "滝",
-      "id": 1938,
-      "reading": "たき"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%82%A3%E6%99%BA%E3%81%AE%E6%BB%9D"
+  }
 }

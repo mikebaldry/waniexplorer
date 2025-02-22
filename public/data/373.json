@@ -1,12 +1,15 @@
 {
   "id": 373,
   "type": "radical",
-  "primaryMeaning": "Buddy",
-  "otherMeanings": [],
-  "character": {
+  "level": 39,
+  "characters": {
     "type": "text",
     "value": "君"
   },
+  "primaryMeaning": "Buddy",
+  "otherMeanings": [],
   "meaningMnemonic": "This radical is the same as the kanji. It means <radical>buddy</radical>.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/buddy"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/buddy"
+  }
 }

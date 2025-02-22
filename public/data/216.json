@@ -1,12 +1,15 @@
 {
   "id": 216,
   "type": "radical",
-  "primaryMeaning": "Suit",
-  "otherMeanings": [],
-  "character": {
+  "level": 8,
+  "characters": {
     "type": "text",
     "value": "合"
   },
+  "primaryMeaning": "Suit",
+  "otherMeanings": [],
   "meaningMnemonic": "You find a hat on the ground with a mouth as the design on the front. You think it looks weird, but when you put it on, you find it <radical>suit</radical>s you quite well. Imagine yourself feeling not so sure about this hat at first. But, once you put it on, you feel pleasantly surprised.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/suit"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/suit"
+  }
 }

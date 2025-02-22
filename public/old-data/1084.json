@@ -1,0 +1,47 @@
+{
+  "id": 1084,
+  "type": "kanji",
+  "character": "連",
+  "primaryMeaning": "Take Along",
+  "otherMeanings": [
+    "Connect"
+  ],
+  "primaryReading": "れん",
+  "readings": [
+    {
+      "reading": "れん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "つ",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "つら",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You <kanji>take along</kanji> your scooter and your car. Anything else, you can do a <reading>ren</reading>tal (れん) for! ",
+  "meaningMnemonic": "Your <radical>scooter</radical> and your <radical>car</radical> is what you always <kanji>take along</kanji> with you. Make sure they're <kanji>connect</kanji>ed well so you don't lose them! ",
+  "vocabularyIds": [
+    4242,
+    4243,
+    4372,
+    5964,
+    6261,
+    7365,
+    7551,
+    7593,
+    7647,
+    7925,
+    7945
+  ],
+  "radicalIds": [
+    114,
+    93
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%80%A3"
+}

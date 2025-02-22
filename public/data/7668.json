@@ -1,41 +1,23 @@
 {
   "id": 7668,
   "type": "vocabulary",
-  "characters": "大いに",
+  "level": 2,
+  "characters": {
+    "type": "text",
+    "value": "大いに"
+  },
   "primaryMeaning": "Very",
+  "meaningMnemonic": "This words is all about doing something in a <kanji>big</kanji> way. Particle に on the end tells us its an adverb, meaning that it describes <i>how</i> an action is carried out. It can mean <vocabulary>very</vocabulary>, <vocabulary>a lot of</vocabulary>, or <vocabulary>greatly</vocabulary>, depending on the context. \n",
+  "primaryReading": "おおいに",
+  "readingMnemonic": "You learned this reading when you learned 大きい. If you can remember that, you should be able to remember this one too!",
   "otherMeanings": [
     "Much",
     "Greatly",
     "A Lot Of",
     "Very Much"
   ],
-  "primaryReading": "おおいに",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 453,
-      "character": "大",
-      "readings": [
-        "たい",
-        "だい",
-        "おお",
-        "ひろ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This words is all about doing something in a <kanji>big</kanji> way. Particle に on the end tells us its an adverb, meaning that it describes <i>how</i> an action is carried out. It can mean <vocabulary>very</vocabulary>, <vocabulary>a lot of</vocabulary>, or <vocabulary>greatly</vocabulary>, depending on the context. \n",
-  "readingMnemonic": "You learned this reading when you learned 大きい. If you can remember that, you should be able to remember this one too!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A4%A7%E3%81%84%E3%81%AB-7668",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "大",
-      "id": 453,
-      "reading": "おお"
-    },
-    {
-      "type": "kana",
-      "value": "いに"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A4%A7%E3%81%84%E3%81%AB-7668"
+  }
 }

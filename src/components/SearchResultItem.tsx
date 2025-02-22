@@ -1,5 +1,6 @@
 import clsx from "clsx";
-import { SearchResult, SearchResultCharactersType } from "../gen/search_result";
+import { SearchResult } from "../db/search_result";
+import { CharactersType } from "../db/characters";
 
 import styles from "./SearchResultItem.module.scss";
 import { useEffect } from "react";
@@ -33,8 +34,8 @@ function SearchResultItem({ searchResult, selected, onClick, onSelect }: SearchR
         
       </div>
       <div className={styles.characters}>
-        {searchResult.characters.type == SearchResultCharactersType.TEXT && <span>{searchResult.characters.value}</span>}
-        {searchResult.characters.type == SearchResultCharactersType.SVG && <div className={styles.radicalSvg} dangerouslySetInnerHTML={ { __html: searchResult.characters.value } } />}
+        {searchResult.characters.type == CharactersType.TEXT && <span>{searchResult.characters.value}</span>}
+        {searchResult.characters.type == CharactersType.SVG && <div className={styles.radicalSvg} dangerouslySetInnerHTML={ { __html: searchResult.characters.value } } />}
       </div>
     </button>
   );

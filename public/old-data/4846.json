@@ -1,0 +1,69 @@
+{
+  "id": 4846,
+  "type": "vocabulary",
+  "characters": "面倒臭い",
+  "primaryMeaning": "Troublesome",
+  "otherMeanings": [
+    "A Bother",
+    "Annoying"
+  ],
+  "primaryReading": "めんどうくさい",
+  "otherReadings": [
+    "めんどくさい"
+  ],
+  "kanji": [
+    {
+      "id": 974,
+      "character": "面",
+      "readings": [
+        "めん",
+        "おも",
+        "おもて"
+      ]
+    },
+    {
+      "id": 1110,
+      "character": "倒",
+      "readings": [
+        "とう",
+        "たお"
+      ]
+    },
+    {
+      "id": 1111,
+      "character": "臭",
+      "readings": [
+        "くさ",
+        "にお",
+        "しゅう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Something is a trouble (面倒) and it is smelly (臭い). So what is something that's smelly and a trouble? Well, something that's <vocabulary>troublesome</vocabulary> or <vocabulary>a bother</vocabulary>, I suppose. Basically you can ignore the smelly part. For some reason someone threw that back in, but smelly things are a bother, I suppose.",
+  "readingMnemonic": "The reading is the words 面倒 plus 臭い added together. Just make sure you know those words and you'll know this one too!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9D%A2%E5%80%92%E8%87%AD%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "面",
+      "id": 974,
+      "reading": "めん"
+    },
+    {
+      "type": "kanji",
+      "value": "倒",
+      "id": 1110,
+      "reading": "どう"
+    },
+    {
+      "type": "kanji",
+      "value": "臭",
+      "id": 1111,
+      "reading": "くさ"
+    },
+    {
+      "type": "kana",
+      "value": "い"
+    }
+  ]
+}

@@ -1,44 +1,52 @@
 {
   "id": 2451,
   "type": "kanji",
-  "character": "煩",
+  "level": 60,
+  "characters": {
+    "type": "text",
+    "value": "煩"
+  },
+  "primaryReading": "はん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "はん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ぼん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "うるさ",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "わずら",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Annoy",
   "otherMeanings": [
     "Annoying"
   ],
-  "primaryReading": "はん",
-  "readings": [
-    {
-      "reading": "はん",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "ぼん",
-      "primary": false,
-      "type": "onyomi"
-    },
-    {
-      "reading": "うるさ",
-      "primary": false,
-      "type": "kunyomi"
-    },
-    {
-      "reading": "わずら",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "You know who loves <kanji>annoying</kanji> geoducks more than anyone else in the universe? <reading>Han</reading> (はん) Solo! If you watch Star Wars closely enough you can see him shooting geoducks with his blaster and catching them on fire for fun. ",
   "meaningMnemonic": "Set <radical>fire</radical> to a <radical>geoduck</radical> if you want to <kanji>annoy</kanji> it. Fire won't kill a geoduck, but have you ever been on fire? It's not really pleasant. So you'll just annoy it pretty badly.",
-  "vocabularyIds": [
-    8636,
-    8637,
-    8638
-  ],
-  "radicalIds": [
-    46,
-    184
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%85%A9"
+  "readingMnemonic": "You know who loves <kanji>annoying</kanji> geoducks more than anyone else in the universe? <reading>Han</reading> (はん) Solo! If you watch Star Wars closely enough you can see him shooting geoducks with his blaster and catching them on fire for fun. ",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%85%A9"
+  },
+  "related": {
+    "radicals": [
+      46,
+      184
+    ],
+    "vocabularies": [
+      8636,
+      8637,
+      8638
+    ]
+  }
 }

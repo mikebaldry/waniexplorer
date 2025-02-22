@@ -1,0 +1,31 @@
+{
+  "id": 6021,
+  "type": "vocabulary",
+  "characters": "鹿",
+  "primaryMeaning": "Deer",
+  "otherMeanings": [],
+  "primaryReading": "しか",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1640,
+      "character": "鹿",
+      "readings": [
+        "か",
+        "ろく",
+        "しか"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You did not learn this reading, so here's a mnemonic to help you to remember: \n\nYou're staring really closely at this <vocabulary>deer</vocabulary>, but something looks off. You get closer, slowly, and you realize it's a <reading>shee</reading>p in a <reading>ca</reading>r (しか) shaped like a deer. The sheep car deer suddenly turns toward you rushing forward, legs raised. Ahh, get outta there! (The lesson here is to never get too close to a deer. You never know its true form until it's too late.)",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%B9%BF",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "鹿",
+      "id": 1640,
+      "reading": "しか"
+    }
+  ]
+}

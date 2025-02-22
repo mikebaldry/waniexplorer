@@ -1,38 +1,46 @@
 {
   "id": 1630,
   "type": "kanji",
-  "character": "献",
-  "primaryMeaning": "Offer",
-  "otherMeanings": [],
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "献"
+  },
   "primaryReading": "けん",
   "readings": [
     {
-      "reading": "けん",
       "primary": true,
+      "reading": "けん",
       "type": "onyomi"
     },
     {
+      "primary": false,
       "reading": "こん",
-      "primary": false,
       "type": "onyomi"
     },
     {
-      "reading": "たてまつ",
       "primary": false,
+      "reading": "たてまつ",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "The South Dog <kanji>offer</kanji>s you the services of <reading>Ken</reading> (けん) the samurai as you traverse his lands.",
+  "primaryMeaning": "Offer",
+  "otherMeanings": [],
   "meaningMnemonic": "The <radical>South</radical> <radical>Dog</radical> gives you an <kanji>offer</kanji>. None of the other dogs in the North, East, or West offered you anything.",
-  "vocabularyIds": [
-    5996,
-    5997,
-    6666,
-    9081
-  ],
-  "radicalIds": [
-    361,
-    47
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%8C%AE"
+  "readingMnemonic": "The South Dog <kanji>offer</kanji>s you the services of <reading>Ken</reading> (けん) the samurai as you traverse his lands.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%8C%AE"
+  },
+  "related": {
+    "radicals": [
+      361,
+      47
+    ],
+    "vocabularies": [
+      5996,
+      5997,
+      6666,
+      9081
+    ]
+  }
 }

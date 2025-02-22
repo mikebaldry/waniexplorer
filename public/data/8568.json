@@ -1,36 +1,20 @@
 {
   "id": 8568,
   "type": "vocabulary",
-  "characters": "紡ぐ",
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "紡ぐ"
+  },
   "primaryMeaning": "To Spin",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>spinning</kanji>, so the verb version is <vocabulary>to spin</vocabulary> and <vocabulary>to make yarn</vocabulary>.",
+  "primaryReading": "つむぐ",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nBefore you start <vocabulary>to spin</vocabulary> you have to let out <reading>two moo</reading>s (つむ) as tribute to the cows that gave you their fur <vocabulary>to make yarn</vocabulary> out of. Go on, two moos, right now. Hey, out loud, not in your head!",
   "otherMeanings": [
     "To Make Yarn"
   ],
-  "primaryReading": "つむぐ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2412,
-      "character": "紡",
-      "readings": [
-        "ぼう",
-        "つむ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>spinning</kanji>, so the verb version is <vocabulary>to spin</vocabulary> and <vocabulary>to make yarn</vocabulary>.",
-  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nBefore you start <vocabulary>to spin</vocabulary> you have to let out <reading>two moo</reading>s (つむ) as tribute to the cows that gave you their fur <vocabulary>to make yarn</vocabulary> out of. Go on, two moos, right now. Hey, out loud, not in your head!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B4%A1%E3%81%90",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "紡",
-      "id": 2412,
-      "reading": "つむ"
-    },
-    {
-      "type": "kana",
-      "value": "ぐ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%B4%A1%E3%81%90"
+  }
 }

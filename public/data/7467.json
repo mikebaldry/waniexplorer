@@ -1,57 +1,22 @@
 {
   "id": 7467,
   "type": "vocabulary",
-  "characters": "お手洗い",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "お手洗い"
+  },
   "primaryMeaning": "Toilet",
+  "meaningMnemonic": "You know that 手洗い is \"handwashing\" (and also a not as polite way to mention a bathroom). When you add お you're suddenly making it polite. Why? Because you're talking about something a little more crass than handwashing. You're talking about the <vocabulary>toilet</vocabulary> or <vocabulary>restroom</vocabulary> or <vocabulary>bathroom</vocabulary>. Ewww. Poop goes there.",
+  "primaryReading": "おてあらい",
+  "readingMnemonic": "The reading comes from 手洗い, so if you know that you'll know this too!",
   "otherMeanings": [
     "Restroom",
     "Bathroom",
     "Lavatory"
   ],
-  "primaryReading": "おてあらい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 474,
-      "character": "手",
-      "readings": [
-        "て",
-        "しゅ",
-        "ず"
-      ]
-    },
-    {
-      "id": 1043,
-      "character": "洗",
-      "readings": [
-        "せん",
-        "あら"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You know that 手洗い is \"handwashing\" (and also a not as polite way to mention a bathroom). When you add お you're suddenly making it polite. Why? Because you're talking about something a little more crass than handwashing. You're talking about the <vocabulary>toilet</vocabulary> or <vocabulary>restroom</vocabulary> or <vocabulary>bathroom</vocabulary>. Ewww. Poop goes there.",
-  "readingMnemonic": "The reading comes from 手洗い, so if you know that you'll know this too!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E3%81%8A%E6%89%8B%E6%B4%97%E3%81%84",
-  "elements": [
-    {
-      "type": "kana",
-      "value": "お"
-    },
-    {
-      "type": "kanji",
-      "value": "手",
-      "id": 474,
-      "reading": "て"
-    },
-    {
-      "type": "kanji",
-      "value": "洗",
-      "id": 1043,
-      "reading": "あら"
-    },
-    {
-      "type": "kana",
-      "value": "い"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E3%81%8A%E6%89%8B%E6%B4%97%E3%81%84"
+  }
 }

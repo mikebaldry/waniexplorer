@@ -1,31 +1,39 @@
 {
   "id": 1181,
   "type": "kanji",
-  "character": "提",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "提"
+  },
+  "primaryReading": "てい",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "てい",
+      "type": "onyomi"
+    }
+  ],
   "primaryMeaning": "Present",
   "otherMeanings": [
     "Submit"
   ],
-  "primaryReading": "てい",
-  "readings": [
-    {
-      "reading": "てい",
-      "primary": true,
-      "type": "onyomi"
-    }
-  ],
-  "readingMnemonic": "You want to <kanji>present</kanji> your show and tell of <reading>ta</reading>ter tots (てい) to the class. You raise your hand, the teacher calls on you, and you <kanji>submit</kanji> the tater tots for her and the class's approval. \"Oh my!\" the teacher exclaims, \"I hope you brought enough tater tots to present to the whole class!\" You raise your hand once more to the sky, and in it you submit a whole tray of tater tots!",
   "meaningMnemonic": "Pointing your <radical>fingers</radical> to the <radical>sun</radical> is the <radical>correct</radical> way to <kanji>present</kanji> yourself or offer to <kanji>submit</kanji> your ideas. You're really just raising your hand. And when you want to present yourself, your ideas, or offer anything, the correct way is to raise your fingers to the sun. You definitely learned this in school.",
-  "vocabularyIds": [
-    4565,
-    4566,
-    4751,
-    4869
-  ],
-  "radicalIds": [
-    63,
-    22,
-    229
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%8F%90"
+  "readingMnemonic": "You want to <kanji>present</kanji> your show and tell of <reading>ta</reading>ter tots (てい) to the class. You raise your hand, the teacher calls on you, and you <kanji>submit</kanji> the tater tots for her and the class's approval. \"Oh my!\" the teacher exclaims, \"I hope you brought enough tater tots to present to the whole class!\" You raise your hand once more to the sky, and in it you submit a whole tray of tater tots!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%8F%90"
+  },
+  "related": {
+    "radicals": [
+      63,
+      22,
+      229
+    ],
+    "vocabularies": [
+      4565,
+      4566,
+      4751,
+      4869
+    ]
+  }
 }

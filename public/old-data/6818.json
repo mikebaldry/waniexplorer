@@ -1,0 +1,48 @@
+{
+  "id": 6818,
+  "type": "vocabulary",
+  "characters": "髪の毛",
+  "primaryMeaning": "Head Hair",
+  "otherMeanings": [],
+  "primaryReading": "かみのけ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1894,
+      "character": "髪",
+      "readings": [
+        "かみ",
+        "はつ"
+      ]
+    },
+    {
+      "id": 513,
+      "character": "毛",
+      "readings": [
+        "もう",
+        "け"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Your <kanji>hair</kanji> <kanji>fur</kanji> is the hair fur that's specifically on your head. It's your <vocabulary>head hair</vocabulary>.",
+  "readingMnemonic": "The readings are the vocab kun'yomi readings, 髪 and 毛, put together.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%AB%AA%E3%81%AE%E6%AF%9B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "髪",
+      "id": 1894,
+      "reading": "かみ"
+    },
+    {
+      "type": "kana",
+      "value": "の"
+    },
+    {
+      "type": "kanji",
+      "value": "毛",
+      "id": 513,
+      "reading": "け"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 709,
+  "type": "kanji",
+  "character": "使",
+  "primaryMeaning": "Use",
+  "otherMeanings": [],
+  "primaryReading": "し",
+  "readings": [
+    {
+      "reading": "し",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "つか",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You <kanji>use</kanji> the ground to raise <reading>shee</reading>p (し). When you were down there sniffing around you realized that your people will flourish best if you use this land for grazing and raising sheep. ",
+  "meaningMnemonic": "A good <radical>leader</radical> can put the <radical>ground</radical>'s <radical>history</radical> to great <kanji>use</kanji>. You are a good leader. You have studied the ground and dirt of the earth your entire life. You know the history of the ground and you know how to use it to lead your people.",
+  "vocabularyIds": [
+    3088,
+    3499,
+    5727,
+    7159,
+    7464,
+    8159,
+    8802
+  ],
+  "radicalIds": [
+    75,
+    1,
+    167
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E4%BD%BF"
+}

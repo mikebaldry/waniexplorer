@@ -1,0 +1,37 @@
+{
+  "id": 1052,
+  "type": "kanji",
+  "character": "静",
+  "primaryMeaning": "Quiet",
+  "otherMeanings": [],
+  "primaryReading": "せい",
+  "readings": [
+    {
+      "reading": "せい",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "しず",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "As you watch below the <kanji>quiet</kanji> water, every once in a while a <reading>sa</reading>ber (せい) breaches the surface and quietly slices back down.",
+  "meaningMnemonic": "<radical>Conflict</radical> in <radical>blue</radical> water is made <kanji>quiet</kanji> by the muffling power of water. Under this blue water is a great conflict between two sea monsters, but on the surface it appears peaceful and quiet as the water prevents sound from rising above the surface.",
+  "vocabularyIds": [
+    4155,
+    4156,
+    4157,
+    4366,
+    5122,
+    8131,
+    8269,
+    8591
+  ],
+  "radicalIds": [
+    120,
+    261
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%9D%99"
+}

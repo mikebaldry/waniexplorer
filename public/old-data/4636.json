@@ -1,0 +1,32 @@
+{
+  "id": 4636,
+  "type": "vocabulary",
+  "characters": "〜宅",
+  "primaryMeaning": "House",
+  "otherMeanings": [
+    "Home",
+    "Household"
+  ],
+  "primaryReading": "たく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1207,
+      "character": "宅",
+      "readings": [
+        "たく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Just like its kanji, this word means <vocabulary>house</vocabulary> or <vocabulary>home</vocabulary>. By extension, it also sometimes means <vocabulary>household</vocabulary>. It can go after someone’s name to say whose house it is, as in 山田宅 (Yamada’s house), and after words that give more information about the house, such as 女性宅 (women’s homes).",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji. Go home now.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E3%80%9C%E5%AE%85",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "宅",
+      "id": 1207,
+      "reading": "たく"
+    }
+  ]
+}

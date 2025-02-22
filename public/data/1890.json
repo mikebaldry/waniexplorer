@@ -1,27 +1,35 @@
 {
   "id": 1890,
   "type": "kanji",
-  "character": "僕",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "僕"
+  },
+  "primaryReading": "ぼく",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ぼく",
+      "type": "onyomi"
+    }
+  ],
   "primaryMeaning": "I",
   "otherMeanings": [
     "Me"
   ],
-  "primaryReading": "ぼく",
-  "readings": [
-    {
-      "reading": "ぼく",
-      "primary": true,
-      "type": "onyomi"
-    }
-  ],
-  "readingMnemonic": "You use the word <kanji>I</kanji> a lot. You say it so much, you just start referring to yourself with the french <reading>beaucoup</reading> (ぼく) for a lot. Because you love yourself a lot.",
   "meaningMnemonic": "A <radical>leader</radical> of <radical>business</radical>? Ha! That's <kanji>me</kanji>! That's <kanji>I</kanji>!",
-  "vocabularyIds": [
-    7498
-  ],
-  "radicalIds": [
-    75,
-    390
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%83%95"
+  "readingMnemonic": "You use the word <kanji>I</kanji> a lot. You say it so much, you just start referring to yourself with the french <reading>beaucoup</reading> (ぼく) for a lot. Because you love yourself a lot.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%83%95"
+  },
+  "related": {
+    "radicals": [
+      75,
+      390
+    ],
+    "vocabularies": [
+      7498
+    ]
+  }
 }

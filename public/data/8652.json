@@ -1,49 +1,20 @@
 {
   "id": 8652,
   "type": "vocabulary",
-  "characters": "容赦なく",
+  "level": 60,
+  "characters": {
+    "type": "text",
+    "value": "容赦なく"
+  },
   "primaryMeaning": "Relentlessly",
+  "meaningMnemonic": "Remember how 容赦 can mean \"forgiveness\" and \"mercy?\" Well add なく (basically making it NOT that), and it becomes <vocabulary>relentlessly</vocabulary> and <vocabulary>mercilessly</vocabulary>. The exact opposite of what it was before!",
+  "primaryReading": "ようしゃなく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji (with なく attached to it). You should be able to read this on your own.",
   "otherMeanings": [
     "Mercilessly"
   ],
-  "primaryReading": "ようしゃなく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1061,
-      "character": "容",
-      "readings": [
-        "よう",
-        "い"
-      ]
-    },
-    {
-      "id": 2366,
-      "character": "赦",
-      "readings": [
-        "しゃ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Remember how 容赦 can mean \"forgiveness\" and \"mercy?\" Well add なく (basically making it NOT that), and it becomes <vocabulary>relentlessly</vocabulary> and <vocabulary>mercilessly</vocabulary>. The exact opposite of what it was before!",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji (with なく attached to it). You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AE%B9%E8%B5%A6%E3%81%AA%E3%81%8F",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "容",
-      "id": 1061,
-      "reading": "よう"
-    },
-    {
-      "type": "kanji",
-      "value": "赦",
-      "id": 2366,
-      "reading": "しゃ"
-    },
-    {
-      "type": "kana",
-      "value": "なく"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%AE%B9%E8%B5%A6%E3%81%AA%E3%81%8F"
+  }
 }

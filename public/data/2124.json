@@ -1,33 +1,41 @@
 {
   "id": 2124,
   "type": "kanji",
-  "character": "枯",
-  "primaryMeaning": "Wither",
-  "otherMeanings": [],
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "枯"
+  },
   "primaryReading": "こ",
   "readings": [
     {
-      "reading": "こ",
       "primary": true,
+      "reading": "こ",
       "type": "onyomi"
     },
     {
-      "reading": "か",
       "primary": false,
+      "reading": "か",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "This <kanji>wither</kanji>ed tree's best friend is a human <reading>子</reading> (こ). Imagine the child hugging the tree.",
+  "primaryMeaning": "Wither",
+  "otherMeanings": [],
   "meaningMnemonic": "When a <radical>tree</radical> grows <radical>old</radical>, it will <kanji>wither</kanji>.",
-  "vocabularyIds": [
-    7797,
-    7798,
-    7993,
-    7994
-  ],
-  "radicalIds": [
-    23,
-    69
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%9E%AF"
+  "readingMnemonic": "This <kanji>wither</kanji>ed tree's best friend is a human <reading>子</reading> (こ). Imagine the child hugging the tree.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%9E%AF"
+  },
+  "related": {
+    "radicals": [
+      23,
+      69
+    ],
+    "vocabularies": [
+      7797,
+      7798,
+      7993,
+      7994
+    ]
+  }
 }

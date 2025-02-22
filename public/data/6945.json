@@ -1,42 +1,24 @@
 {
   "id": 6945,
   "type": "vocabulary",
-  "characters": "潜る",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "潜る"
+  },
   "primaryMeaning": "To Go Under",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>conceal</kanji>, but as a verb, this word means <vocabulary>to go under</vocabulary> or <vocabulary>to pass through</vocabulary>. Most commonly, this word means <vocabulary>to dive underwater</vocabulary> or <vocabulary>to go underground</vocabulary>. Can you see why the kanji for conceal kind of makes sense in these cases? If you're underwater or underground, no one can see you!",
+  "primaryReading": "もぐる",
+  "readingMnemonic": "潜る has two possible readings: もぐる and くぐる. The first is used when you mean to dive underwater or go underground.  The second is used when you pass through or under something, sometimes with difficulty, such as crawling under a fence. We want you to focus on もぐる, so here's a mnemonic to help you:\n\nWhy are you trying to dive underwater again and again? It's to get <reading>mo' goo</reading> (もぐ) to sell on the black goo market. Who knew that sea goo was such a commodity?",
   "otherMeanings": [
     "To Dive Underwater",
     "To Go Underground",
     "To Pass Through"
   ],
-  "primaryReading": "もぐる",
   "otherReadings": [
     "くぐる"
   ],
-  "kanji": [
-    {
-      "id": 1791,
-      "character": "潜",
-      "readings": [
-        "せん",
-        "くぐ",
-        "ひそ",
-        "もぐ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>conceal</kanji>, but as a verb, this word means <vocabulary>to go under</vocabulary> or <vocabulary>to pass through</vocabulary>. Most commonly, this word means <vocabulary>to dive underwater</vocabulary> or <vocabulary>to go underground</vocabulary>. Can you see why the kanji for conceal kind of makes sense in these cases? If you're underwater or underground, no one can see you!",
-  "readingMnemonic": "潜る has two possible readings: もぐる and くぐる. The first is used when you mean to dive underwater or go underground.  The second is used when you pass through or under something, sometimes with difficulty, such as crawling under a fence. We want you to focus on もぐる, so here's a mnemonic to help you:\n\nWhy are you trying to dive underwater again and again? It's to get <reading>mo' goo</reading> (もぐ) to sell on the black goo market. Who knew that sea goo was such a commodity?",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%BD%9C%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "潜",
-      "id": 1791,
-      "reading": "もぐ"
-    },
-    {
-      "type": "kana",
-      "value": "る"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%BD%9C%E3%82%8B"
+  }
 }

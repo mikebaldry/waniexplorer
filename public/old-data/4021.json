@@ -1,0 +1,49 @@
+{
+  "id": 4021,
+  "type": "vocabulary",
+  "characters": "無事",
+  "primaryMeaning": "Safe And Sound",
+  "otherMeanings": [
+    "Safe",
+    "Without A Hitch"
+  ],
+  "primaryReading": "ぶじ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1008,
+      "character": "無",
+      "readings": [
+        "む",
+        "ぶ",
+        "な"
+      ]
+    },
+    {
+      "id": 708,
+      "character": "事",
+      "readings": [
+        "じ",
+        "こと",
+        "つか"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>nothing</kanji> <kanji>occurrence</kanji> is an occurrence where nothing happens to you, or at least nothing too bad — that means you're <vocabulary>safe and sound</vocabulary>. Phew! \n\nIn addition to meaning <vocabulary>safe</vocabulary>, 無事 can also describe a situation where everything goes off <vocabulary>without a hitch</vocabulary>.",
+  "readingMnemonic": "One thing that's not safe and sound is the reading of the 無 in this word. Instead of む it's ぶ. Why? Because you thought it was safe and sound, but you were fooled. There are ghosts everywhere, all jumping out and screaming <reading>Boo!</reading> (ぶ) at you. Feel the surprise. You thought it was safe and sound!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%84%A1%E4%BA%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "無",
+      "id": 1008,
+      "reading": "ぶ"
+    },
+    {
+      "type": "kanji",
+      "value": "事",
+      "id": 708,
+      "reading": "じ"
+    }
+  ]
+}

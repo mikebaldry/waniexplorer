@@ -1,46 +1,20 @@
 {
   "id": 8082,
   "type": "vocabulary",
-  "characters": "露呈",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "露呈"
+  },
   "primaryMeaning": "Exposure",
+  "meaningMnemonic": "<kanji>Present</kanji> and <kanji>expose</kanji> wrongdoing to get proper <vocabulary>exposure</vocabulary>. The world needs <vocabulary>disclosure</vocabulary> and so do you!",
+  "primaryReading": "ろてい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Disclosure"
   ],
-  "primaryReading": "ろてい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1845,
-      "character": "露",
-      "readings": [
-        "ろ",
-        "ろう",
-        "つゆ"
-      ]
-    },
-    {
-      "id": 2242,
-      "character": "呈",
-      "readings": [
-        "てい"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Present</kanji> and <kanji>expose</kanji> wrongdoing to get proper <vocabulary>exposure</vocabulary>. The world needs <vocabulary>disclosure</vocabulary> and so do you!",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9C%B2%E5%91%88",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "露",
-      "id": 1845,
-      "reading": "ろ"
-    },
-    {
-      "type": "kanji",
-      "value": "呈",
-      "id": 2242,
-      "reading": "てい"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%9C%B2%E5%91%88"
+  }
 }

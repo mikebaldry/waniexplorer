@@ -1,48 +1,20 @@
 {
   "id": 7603,
   "type": "vocabulary",
-  "characters": "居間",
+  "level": 27,
+  "characters": {
+    "type": "text",
+    "value": "居間"
+  },
   "primaryMeaning": "Living Room",
+  "meaningMnemonic": "A room that comes <kanji>alive</kanji> in <kanji>interval</kanji>s is your <vocabulary>living room</vocabulary>, or <vocabulary>sitting room</vocabulary>. You don't spend all your time in there, so it can only be alive sometimes.\n\nNote that 居間 is a little old-fashioned. These days, the more common word for a living room is リビングルーム.",
+  "primaryReading": "いま",
+  "readingMnemonic": "The readings for this word are both kun'yomi readings. You've learned both of these readings by now so you should be able to read this on your own.",
   "otherMeanings": [
     "Sitting Room"
   ],
-  "primaryReading": "いま",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1280,
-      "character": "居",
-      "readings": [
-        "きょ",
-        "い"
-      ]
-    },
-    {
-      "id": 701,
-      "character": "間",
-      "readings": [
-        "かん",
-        "けん",
-        "あいだ",
-        "ま"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A room that comes <kanji>alive</kanji> in <kanji>interval</kanji>s is your <vocabulary>living room</vocabulary>, or <vocabulary>sitting room</vocabulary>. You don't spend all your time in there, so it can only be alive sometimes.\n\nNote that 居間 is a little old-fashioned. These days, the more common word for a living room is リビングルーム.",
-  "readingMnemonic": "The readings for this word are both kun'yomi readings. You've learned both of these readings by now so you should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B1%85%E9%96%93",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "居",
-      "id": 1280,
-      "reading": "い"
-    },
-    {
-      "type": "kanji",
-      "value": "間",
-      "id": 701,
-      "reading": "ま"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%B1%85%E9%96%93"
+  }
 }

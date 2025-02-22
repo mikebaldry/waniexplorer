@@ -1,0 +1,39 @@
+{
+  "id": 1868,
+  "type": "kanji",
+  "character": "滅",
+  "primaryMeaning": "Destroy",
+  "otherMeanings": [],
+  "primaryReading": "めつ",
+  "readings": [
+    {
+      "reading": "めつ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ほろ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "One could say this drunkard <reading>met</reading> (めつ) his fate. ",
+  "meaningMnemonic": "Hit by a <radical>tsunami</radical> the <radical>drunkard</radical> is propelled down a <radical>slide</radical> where he hits the <radical>ground</radical> which is covered in <radical>fire</radical>. He is immediately <kanji>destroy</kanji>ed.",
+  "vocabularyIds": [
+    6740,
+    6741,
+    6742,
+    6743,
+    6744,
+    6745,
+    6852
+  ],
+  "radicalIds": [
+    103,
+    5,
+    194,
+    1,
+    46
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%BB%85"
+}

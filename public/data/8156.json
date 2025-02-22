@@ -1,48 +1,20 @@
 {
   "id": 8156,
   "type": "vocabulary",
-  "characters": "報酬",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "報酬"
+  },
   "primaryMeaning": "Reward",
+  "meaningMnemonic": "<kanji>Repay</kanji> people for the <kanji>news</kanji> they tell you by <vocabulary>reward</vocabulary>ing them! Everyone deserves <vocabulary>compensation</vocabulary> for the time they take to pass information to you.",
+  "primaryReading": "ほうしゅう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Compensation"
   ],
-  "primaryReading": "ほうしゅう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1035,
-      "character": "報",
-      "readings": [
-        "ほう",
-        "むく"
-      ]
-    },
-    {
-      "id": 2231,
-      "character": "酬",
-      "readings": [
-        "しゅう",
-        "しゅ",
-        "とう",
-        "むく"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Repay</kanji> people for the <kanji>news</kanji> they tell you by <vocabulary>reward</vocabulary>ing them! Everyone deserves <vocabulary>compensation</vocabulary> for the time they take to pass information to you.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A0%B1%E9%85%AC",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "報",
-      "id": 1035,
-      "reading": "ほう"
-    },
-    {
-      "type": "kanji",
-      "value": "酬",
-      "id": 2231,
-      "reading": "しゅう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A0%B1%E9%85%AC"
+  }
 }

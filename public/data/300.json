@@ -1,12 +1,15 @@
 {
   "id": 300,
   "type": "radical",
-  "primaryMeaning": "Wedding",
-  "otherMeanings": [],
-  "character": {
+  "level": 25,
+  "characters": {
     "type": "text",
     "value": "甫"
   },
+  "primaryMeaning": "Wedding",
+  "otherMeanings": [],
   "meaningMnemonic": "This radical looks like someone wearing a giant dress who has a tear in their eye. This is a person at their <radical>wedding</radical>. That explains the big dress and the tear (of happiness!) in their eye.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/wedding"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/wedding"
+  }
 }

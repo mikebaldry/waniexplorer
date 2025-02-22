@@ -1,43 +1,18 @@
 {
   "id": 4267,
   "type": "vocabulary",
-  "characters": "血圧",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "血圧"
+  },
   "primaryMeaning": "Blood Pressure",
-  "otherMeanings": [],
-  "primaryReading": "けつあつ",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 619,
-      "character": "血",
-      "readings": [
-        "けつ",
-        "ち"
-      ]
-    },
-    {
-      "id": 1106,
-      "character": "圧",
-      "readings": [
-        "あつ"
-      ]
-    }
-  ],
   "meaningMnemonic": "Check the <kanji>pressure</kanji> of your <kanji>blood</kanji>. It's your <vocabulary>blood pressure</vocabulary>.",
+  "primaryReading": "けつあつ",
   "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A1%80%E5%9C%A7",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "血",
-      "id": 619,
-      "reading": "けつ"
-    },
-    {
-      "type": "kanji",
-      "value": "圧",
-      "id": 1106,
-      "reading": "あつ"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%A1%80%E5%9C%A7"
+  }
 }

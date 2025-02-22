@@ -1,0 +1,49 @@
+{
+  "id": 5680,
+  "type": "vocabulary",
+  "characters": "著作",
+  "primaryMeaning": "Writing",
+  "otherMeanings": [
+    "Authorship",
+    "A Work"
+  ],
+  "primaryReading": "ちょさく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1538,
+      "character": "著",
+      "readings": [
+        "ちょ",
+        "いちじる",
+        "あらわ"
+      ]
+    },
+    {
+      "id": 584,
+      "character": "作",
+      "readings": [
+        "さく",
+        "さ",
+        "つく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "An <kanji>author</kanji> <kanji>make</kanji>s <vocabulary>writing</vocabulary> in an activity known as <vocabulary>authorship</vocabulary>.\n\nNote that this word isn't a general term for writing! 著作 has a more specific nuance — it's mostly used to talk about a work or the writings of a particular author.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%91%97%E4%BD%9C",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "著",
+      "id": 1538,
+      "reading": "ちょ"
+    },
+    {
+      "type": "kanji",
+      "value": "作",
+      "id": 584,
+      "reading": "さく"
+    }
+  ]
+}

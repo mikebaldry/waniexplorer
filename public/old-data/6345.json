@@ -1,0 +1,37 @@
+{
+  "id": 6345,
+  "type": "vocabulary",
+  "characters": "懸かる",
+  "primaryMeaning": "To Hang",
+  "otherMeanings": [
+    "To Depend On",
+    "To Be At Stake"
+  ],
+  "primaryReading": "かかる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1691,
+      "character": "懸",
+      "readings": [
+        "けん",
+        "か"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If something is <kanji>suspend</kanji>ed, it is going <vocabulary>to hang</vocabulary> or <vocabulary>to depend on</vocabulary> your actions. We need you to make sure it goes right! Your actions are what we're suspended on!",
+  "readingMnemonic": "We're depending on you to help us to get this <reading>ca</reading>r (か), okay?",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%87%B8%E3%81%8B%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "懸",
+      "id": 1691,
+      "reading": "か"
+    },
+    {
+      "type": "kana",
+      "value": "かる"
+    }
+  ]
+}

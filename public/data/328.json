@@ -1,12 +1,15 @@
 {
   "id": 328,
   "type": "radical",
-  "primaryMeaning": "Oversee",
-  "otherMeanings": [],
-  "character": {
+  "level": 30,
+  "characters": {
     "type": "text",
     "value": "監"
   },
+  "primaryMeaning": "Oversee",
+  "otherMeanings": [],
   "meaningMnemonic": "This radical is the same as the kanji. It means <radical>oversee</radical>.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/oversee"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/oversee"
+  }
 }

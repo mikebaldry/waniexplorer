@@ -1,0 +1,29 @@
+{
+  "id": 1342,
+  "type": "kanji",
+  "character": "健",
+  "primaryMeaning": "Healthy",
+  "otherMeanings": [],
+  "primaryReading": "けん",
+  "readings": [
+    {
+      "reading": "けん",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Not everyone wants to be <kanji>healthy</kanji>, but <reading>Ken</reading> (けん) the samurai sure does. He needs to be ready at a moment's notice so he can do tasks for other people. He's at every class, rubbing himself down with the brush.",
+  "meaningMnemonic": "The <radical>leader</radical> of your <radical>yoga</radical> class uses a special <radical>brush</radical> to stay <kanji>healthy</kanji>. She rubs the brush on her long arms and legs, and she never ever gets sick.",
+  "vocabularyIds": [
+    5006,
+    5007,
+    5230,
+    7291
+  ],
+  "radicalIds": [
+    75,
+    206,
+    220
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%81%A5"
+}

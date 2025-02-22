@@ -1,0 +1,34 @@
+{
+  "id": 2148,
+  "type": "kanji",
+  "character": "慈",
+  "primaryMeaning": "Mercy",
+  "otherMeanings": [],
+  "primaryReading": "じ",
+  "readings": [
+    {
+      "reading": "じ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "いつく",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "As you shout \"<kanji>Mercy</kanji>!\" one more time, suddenly <reading>Je</reading>sus (じ) appears out of no where and punches the horned guy into the stratosphere. Jesus snaps his fingers and the poop is gone and you're off the ground. Your heart is safe.",
+  "meaningMnemonic": "A person with <radical>horns</radical> has you on the <radical>ground</radical> and lets loose two <radical>poops</radical> over your <radical>heart</radical>. \"<kanji>Mercy</kanji>! Mercy!\" You cry, but the horned dude doesn't stop until there are two gross poops sitting on your heart. \"M-mercy...\" is the only thing you can think to say.",
+  "vocabularyIds": [
+    7793,
+    7794,
+    7795
+  ],
+  "radicalIds": [
+    8767,
+    1,
+    87,
+    65
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%85%88"
+}

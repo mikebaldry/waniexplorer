@@ -1,47 +1,20 @@
 {
   "id": 2949,
   "type": "vocabulary",
-  "characters": "月末",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "月末"
+  },
   "primaryMeaning": "End Of The Month",
+  "meaningMnemonic": "You know how 月 can also mean <kanji>month</kanji>? If you add 末 on there you have the \"month end\" aka the <vocabulary>end of the month</vocabulary>.",
+  "primaryReading": "げつまつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 月 has two on'yomi readings, here's a mnemonic to help you remember which one to use:\n\nWhen it's the <vocabulary>end of the month</vocabulary>, everybody <reading>gets</reading> <reading>mats</reading> (げつまつ). We don't pay people in money at Tofugu, but everyone gets mats at the <vocabulary>month end</vocabulary> instead.",
   "otherMeanings": [
     "Month End"
   ],
-  "primaryReading": "げつまつ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 477,
-      "character": "月",
-      "readings": [
-        "げつ",
-        "がつ",
-        "つき"
-      ]
-    },
-    {
-      "id": 657,
-      "character": "末",
-      "readings": [
-        "まつ",
-        "すえ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You know how 月 can also mean <kanji>month</kanji>? If you add 末 on there you have the \"month end\" aka the <vocabulary>end of the month</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 月 has two on'yomi readings, here's a mnemonic to help you remember which one to use:\n\nWhen it's the <vocabulary>end of the month</vocabulary>, everybody <reading>gets</reading> <reading>mats</reading> (げつまつ). We don't pay people in money at Tofugu, but everyone gets mats at the <vocabulary>month end</vocabulary> instead.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9C%88%E6%9C%AB",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "月",
-      "id": 477,
-      "reading": "げつ"
-    },
-    {
-      "type": "kanji",
-      "value": "末",
-      "id": 657,
-      "reading": "まつ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%9C%88%E6%9C%AB"
+  }
 }

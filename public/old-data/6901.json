@@ -1,0 +1,32 @@
+{
+  "id": 6901,
+  "type": "vocabulary",
+  "characters": "塾",
+  "primaryMeaning": "Cram School",
+  "otherMeanings": [
+    "Coaching School",
+    "Juku"
+  ],
+  "primaryReading": "じゅく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1927,
+      "character": "塾",
+      "readings": [
+        "じゅく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "The reading is the same as the one you learned in the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A1%BE",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "塾",
+      "id": 1927,
+      "reading": "じゅく"
+    }
+  ]
+}

@@ -1,33 +1,41 @@
 {
   "id": 1526,
   "type": "kanji",
-  "character": "敬",
-  "primaryMeaning": "Respect",
-  "otherMeanings": [],
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "敬"
+  },
   "primaryReading": "けい",
   "readings": [
     {
-      "reading": "けい",
       "primary": true,
+      "reading": "けい",
       "type": "onyomi"
     },
     {
-      "reading": "うやま",
       "primary": false,
+      "reading": "うやま",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "Once you have their <kanji>respect</kanji> you get <reading>ca</reading>ke (けい)!",
+  "primaryMeaning": "Respect",
+  "otherMeanings": [],
   "meaningMnemonic": "Writing a <radical>poem</radical> about <radical>winter</radical> is the only way to get <kanji>respect</kanji> from other poets.",
-  "vocabularyIds": [
-    5637,
-    5647,
-    5851,
-    5852
-  ],
-  "radicalIds": [
-    255,
-    60
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%95%AC"
+  "readingMnemonic": "Once you have their <kanji>respect</kanji> you get <reading>ca</reading>ke (けい)!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%95%AC"
+  },
+  "related": {
+    "radicals": [
+      255,
+      60
+    ],
+    "vocabularies": [
+      5637,
+      5647,
+      5851,
+      5852
+    ]
+  }
 }

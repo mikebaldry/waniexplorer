@@ -1,27 +1,35 @@
 {
   "id": 8992,
   "type": "kanji",
-  "character": "戚",
-  "primaryMeaning": "Relatives",
-  "otherMeanings": [],
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "戚"
+  },
   "primaryReading": "せき",
   "readings": [
     {
-      "reading": "せき",
       "primary": true,
+      "reading": "せき",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "As if things couldn't get worse, your relative seems to think they're <reading>sexy</reading> (せき) when they're on the slide drunk. Sexy? More like irresponsible!",
+  "primaryMeaning": "Relatives",
+  "otherMeanings": [],
   "meaningMnemonic": "There's a <radical>slide</radical> with a <radical>drunkard</radical> <radical>above</radical> it, and they're making you feel <radical>small</radical>. And the worst part is that the drunkard is one of your <kanji>relatives</kanji>.",
-  "vocabularyIds": [
-    9002
-  ],
-  "radicalIds": [
-    5,
-    194,
-    325,
-    35
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%88%9A"
+  "readingMnemonic": "As if things couldn't get worse, your relative seems to think they're <reading>sexy</reading> (せき) when they're on the slide drunk. Sexy? More like irresponsible!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%88%9A"
+  },
+  "related": {
+    "radicals": [
+      5,
+      194,
+      325,
+      35
+    ],
+    "vocabularies": [
+      9002
+    ]
+  }
 }

@@ -1,0 +1,49 @@
+{
+  "id": 3179,
+  "type": "vocabulary",
+  "characters": "進行",
+  "primaryMeaning": "Advance",
+  "otherMeanings": [
+    "Progress"
+  ],
+  "primaryReading": "しんこう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 748,
+      "character": "進",
+      "readings": [
+        "しん",
+        "すす"
+      ]
+    },
+    {
+      "id": 580,
+      "character": "行",
+      "readings": [
+        "こう",
+        "ぎょう",
+        "い",
+        "おこな",
+        "ゆ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When something <kanji>advance</kanji>s and <kanji>go</kanji>es, it is moving forward. So this means <vocabulary>advance</vocabulary> or <vocabulary>progress</vocabulary>.\n\n進行 can be used to describe various situations, like when a project progresses; but also when an illness advances to a more serious stage.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%80%B2%E8%A1%8C",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "進",
+      "id": 748,
+      "reading": "しん"
+    },
+    {
+      "type": "kanji",
+      "value": "行",
+      "id": 580,
+      "reading": "こう"
+    }
+  ]
+}

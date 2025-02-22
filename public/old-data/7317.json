@@ -1,0 +1,36 @@
+{
+  "id": 7317,
+  "type": "vocabulary",
+  "characters": "謀る",
+  "primaryMeaning": "To Conspire",
+  "otherMeanings": [
+    "To Plot"
+  ],
+  "primaryReading": "はかる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2069,
+      "character": "謀",
+      "readings": [
+        "ぼう",
+        "はか"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>conspire</kanji> and the verb vocab version is <vocabulary>to conspire</vocabulary> or <vocabulary>to plot</vocabulary>.",
+  "readingMnemonic": "A group of <reading>hacker</reading>s (はか) are getting together and trying to conspire and plot to take down the mainframe! Those hackers!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%AC%80%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "謀",
+      "id": 2069,
+      "reading": "はか"
+    },
+    {
+      "type": "kana",
+      "value": "る"
+    }
+  ]
+}

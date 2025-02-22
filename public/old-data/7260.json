@@ -1,0 +1,34 @@
+{
+  "id": 7260,
+  "type": "vocabulary",
+  "characters": "粘り",
+  "primaryMeaning": "Stickiness",
+  "otherMeanings": [],
+  "primaryReading": "ねばり",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1978,
+      "character": "粘",
+      "readings": [
+        "ねん",
+        "ねば"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If 粘る is \"to be sticky\" then the noun version is <vocabulary>stickiness</vocabulary>.",
+  "readingMnemonic": "The reading comes from 粘る.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B2%98%E3%82%8A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "粘",
+      "id": 1978,
+      "reading": "ねば"
+    },
+    {
+      "type": "kana",
+      "value": "り"
+    }
+  ]
+}

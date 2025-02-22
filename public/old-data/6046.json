@@ -1,0 +1,57 @@
+{
+  "id": 6046,
+  "type": "vocabulary",
+  "characters": "味噌汁",
+  "primaryMeaning": "Miso Soup",
+  "otherMeanings": [],
+  "primaryReading": "みそしる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 812,
+      "character": "味",
+      "readings": [
+        "み",
+        "あじ"
+      ]
+    },
+    {
+      "id": 1598,
+      "character": "噌",
+      "readings": [
+        "そ"
+      ]
+    },
+    {
+      "id": 1597,
+      "character": "汁",
+      "readings": [
+        "じゅう",
+        "しる"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You know that 味噌 is \"miso,\" and that 汁 is \"soup.\" So, combine them together and you have <vocabulary>Miso Soup</vocabulary>.",
+  "readingMnemonic": "The reading is 味噌 plus the vocab 汁 put together.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%91%B3%E5%99%8C%E6%B1%81",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "味",
+      "id": 812,
+      "reading": "み"
+    },
+    {
+      "type": "kanji",
+      "value": "噌",
+      "id": 1598,
+      "reading": "そ"
+    },
+    {
+      "type": "kanji",
+      "value": "汁",
+      "id": 1597,
+      "reading": "しる"
+    }
+  ]
+}

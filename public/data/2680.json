@@ -1,46 +1,20 @@
 {
   "id": 2680,
   "type": "vocabulary",
-  "characters": "百万",
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "百万"
+  },
   "primaryMeaning": "Million",
+  "meaningMnemonic": "<kanji>one hundred</kanji> <kanji>ten thousand</kanji>s is how much? Multiply the two together and you get a <vocabulary>million</vocabulary>.",
+  "primaryReading": "ひゃくまん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "One Million"
   ],
-  "primaryReading": "ひゃくまん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 549,
-      "character": "百",
-      "readings": [
-        "ひゃく",
-        "もも"
-      ]
-    },
-    {
-      "id": 495,
-      "character": "万",
-      "readings": [
-        "まん",
-        "ばん"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>one hundred</kanji> <kanji>ten thousand</kanji>s is how much? Multiply the two together and you get a <vocabulary>million</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%99%BE%E4%B8%87",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "百",
-      "id": 549,
-      "reading": "ひゃく"
-    },
-    {
-      "type": "kanji",
-      "value": "万",
-      "id": 495,
-      "reading": "まん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%99%BE%E4%B8%87"
+  }
 }

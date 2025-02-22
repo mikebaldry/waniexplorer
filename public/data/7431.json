@@ -1,45 +1,20 @@
 {
   "id": 7431,
   "type": "vocabulary",
-  "characters": "免疫",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "免疫"
+  },
   "primaryMeaning": "Immunity",
+  "meaningMnemonic": "To <kanji>excuse</kanji> yourself from the <kanji>epidemic</kanji>, you'll have to have <vocabulary>immunity</vocabulary> or <vocabulary>immunization</vocabulary> from the disease.",
+  "primaryReading": "めんえき",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Immunization"
   ],
-  "primaryReading": "めんえき",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1722,
-      "character": "免",
-      "readings": [
-        "めん",
-        "まぬか"
-      ]
-    },
-    {
-      "id": 2118,
-      "character": "疫",
-      "readings": [
-        "えき"
-      ]
-    }
-  ],
-  "meaningMnemonic": "To <kanji>excuse</kanji> yourself from the <kanji>epidemic</kanji>, you'll have to have <vocabulary>immunity</vocabulary> or <vocabulary>immunization</vocabulary> from the disease.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%85%8D%E7%96%AB",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "免",
-      "id": 1722,
-      "reading": "めん"
-    },
-    {
-      "type": "kanji",
-      "value": "疫",
-      "id": 2118,
-      "reading": "えき"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%85%8D%E7%96%AB"
+  }
 }

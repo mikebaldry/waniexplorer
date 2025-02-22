@@ -1,0 +1,33 @@
+{
+  "id": 623,
+  "type": "kanji",
+  "character": "妹",
+  "primaryMeaning": "Younger Sister",
+  "otherMeanings": [
+    "Little Sister"
+  ],
+  "primaryReading": "まい",
+  "readings": [
+    {
+      "reading": "まい",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "いもうと",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Your <kanji>younger sister</kanji> is giving some <reading>mi</reading>ce (まい) a ride on her back like a jet. ",
+  "meaningMnemonic": "Who's that <radical>woman</radical> pretending to be a <radical>jet</radical>? That's my <kanji>younger sister</kanji>. *Sigh*",
+  "vocabularyIds": [
+    2891,
+    2892
+  ],
+  "radicalIds": [
+    19,
+    134
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%A6%B9"
+}

@@ -1,39 +1,47 @@
 {
   "id": 1161,
   "type": "kanji",
-  "character": "宮",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "宮"
+  },
+  "primaryReading": "みや",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "みや",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "きゅう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ぐう",
+      "type": "onyomi"
+    }
+  ],
   "primaryMeaning": "Shinto Shrine",
   "otherMeanings": [
     "Shrine",
     "Palace"
   ],
-  "primaryReading": "みや",
-  "readings": [
-    {
-      "reading": "みや",
-      "primary": true,
-      "type": "kunyomi"
-    },
-    {
-      "reading": "きゅう",
-      "primary": false,
-      "type": "onyomi"
-    },
-    {
-      "reading": "ぐう",
-      "primary": false,
-      "type": "onyomi"
-    }
-  ],
-  "readingMnemonic": "What god does this <kanji>Shinto shrine</kanji> hold? You see that \"It's a-<reading>me-ya</reading> (みや)! (Mario!)\"",
   "meaningMnemonic": "It may just be a <radical>roof</radical> over a <radical>bathtub</radical>, but this here is actually a <kanji>Shinto shrine</kanji>.",
-  "vocabularyIds": [
-    4507,
-    7376
-  ],
-  "radicalIds": [
-    78,
-    282
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%AE%AE"
+  "readingMnemonic": "What god does this <kanji>Shinto shrine</kanji> hold? You see that \"It's a-<reading>me-ya</reading> (みや)! (Mario!)\"",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%AE%AE"
+  },
+  "related": {
+    "radicals": [
+      78,
+      282
+    ],
+    "vocabularies": [
+      4507,
+      7376
+    ]
+  }
 }

@@ -1,0 +1,36 @@
+{
+  "id": 7105,
+  "type": "vocabulary",
+  "characters": "憎む",
+  "primaryMeaning": "To Hate",
+  "otherMeanings": [
+    "To Detest"
+  ],
+  "primaryReading": "にくむ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1997,
+      "character": "憎",
+      "readings": [
+        "ぞう",
+        "にく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>hate</kanji> and the verb vocab version is <vocabulary>to hate</vocabulary> or <vocabulary>to detest</vocabulary>.",
+  "readingMnemonic": "What do you hate and detest more than anything? <reading>肉</reading> (にく). That stuff is gross, and you detest it.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%86%8E%E3%82%80",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "憎",
+      "id": 1997,
+      "reading": "にく"
+    },
+    {
+      "type": "kana",
+      "value": "む"
+    }
+  ]
+}

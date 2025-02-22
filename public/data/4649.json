@@ -1,30 +1,18 @@
 {
   "id": 4649,
   "type": "vocabulary",
-  "characters": "城",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "城"
+  },
   "primaryMeaning": "Castle",
-  "otherMeanings": [],
-  "primaryReading": "しろ",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1214,
-      "character": "城",
-      "readings": [
-        "しろ",
-        "じょう"
-      ]
-    }
-  ],
   "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "しろ",
   "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%9F%8E",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "城",
-      "id": 1214,
-      "reading": "しろ"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%9F%8E"
+  }
 }

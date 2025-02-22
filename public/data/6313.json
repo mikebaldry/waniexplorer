@@ -1,48 +1,21 @@
 {
   "id": 6313,
   "type": "vocabulary",
-  "characters": "甲斐",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "甲斐"
+  },
   "primaryMeaning": "Effect",
+  "meaningMnemonic": "A <kanji>turtle shell</kanji> that is <kanji>patterned</kanji> has much more <vocabulary>effect</vocabulary> and <vocabulary>result</vocabulary> and <vocabulary>worth</vocabulary> than a non-patterned turtle shell.",
+  "primaryReading": "かい",
+  "readingMnemonic": "You haven't learned this reading for 甲 yet, so here's a mnemonic to help you:\n\nIf you want to know how much you're <vocabulary>worth</vocabulary>, just take a look at your <reading>ca</reading>r (か). Cars are the <vocabulary>result</vocabulary> of money and hard work. So basically, they say how much you're worth!",
   "otherMeanings": [
     "Result",
     "Worth"
   ],
-  "primaryReading": "かい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1732,
-      "character": "甲",
-      "readings": [
-        "こう",
-        "かん",
-        "か"
-      ]
-    },
-    {
-      "id": 1733,
-      "character": "斐",
-      "readings": [
-        "い",
-        "ひ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>turtle shell</kanji> that is <kanji>patterned</kanji> has much more <vocabulary>effect</vocabulary> and <vocabulary>result</vocabulary> and <vocabulary>worth</vocabulary> than a non-patterned turtle shell.",
-  "readingMnemonic": "You haven't learned this reading for 甲 yet, so here's a mnemonic to help you:\n\nIf you want to know how much you're <vocabulary>worth</vocabulary>, just take a look at your <reading>ca</reading>r (か). Cars are the <vocabulary>result</vocabulary> of money and hard work. So basically, they say how much you're worth!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%94%B2%E6%96%90",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "甲",
-      "id": 1732,
-      "reading": "か"
-    },
-    {
-      "type": "kanji",
-      "value": "斐",
-      "id": 1733,
-      "reading": "い"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%94%B2%E6%96%90"
+  }
 }

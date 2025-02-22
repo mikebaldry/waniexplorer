@@ -1,0 +1,41 @@
+{
+  "id": 858,
+  "type": "kanji",
+  "character": "返",
+  "primaryMeaning": "Return",
+  "otherMeanings": [],
+  "primaryReading": "へん",
+  "readings": [
+    {
+      "reading": "へん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "かえ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You <kanji>return</kanji> to the store and wait in line to return the scooter but the person working returns doesn't want you to return it. He stares you dead in the eyes, waves his hand, and turns you into a <reading>hen</reading> (へん)!",
+  "meaningMnemonic": "Your <radical>scooter</radical> is <radical>anti</radical> scoot. It doesn't want to run. So you have to <kanji>return</kanji> it.",
+  "vocabularyIds": [
+    3086,
+    3482,
+    3490,
+    3523,
+    3554,
+    3738,
+    5857,
+    6226,
+    6340,
+    7231,
+    7540,
+    8441
+  ],
+  "radicalIds": [
+    114,
+    218
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%BF%94"
+}

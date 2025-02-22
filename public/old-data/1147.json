@@ -1,0 +1,38 @@
+{
+  "id": 1147,
+  "type": "kanji",
+  "character": "省",
+  "primaryMeaning": "Conserve",
+  "otherMeanings": [],
+  "primaryReading": "しょう",
+  "readings": [
+    {
+      "reading": "しょう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "せい",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "はぶ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You're trying to <kanji>conserve</kanji> your eyes, when the <reading>Shou</reading>gun (しょう) marches by. He stops, sees you, and demands you give him your remaining eyes! But sir, I'm conserving what little I have left!",
+  "meaningMnemonic": "You only have a <radical>few</radical> <radical>eye</radical>s so you need to <kanji>conserve</kanji> what's left.",
+  "vocabularyIds": [
+    4456,
+    4457,
+    4850,
+    5256
+  ],
+  "radicalIds": [
+    198,
+    53
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%9C%81"
+}

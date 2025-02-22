@@ -1,36 +1,20 @@
 {
   "id": 5713,
   "type": "vocabulary",
-  "characters": "離す",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "離す"
+  },
   "primaryMeaning": "To Separate",
+  "meaningMnemonic": "Remember how 離れる is \"to separate,\" where something is just separating and you're not doing the separating? Well, this one has the same meaning, but now you're doing the separating. This word is 離す, and you know that you're doing the separating because if you don't, that person will <reading>sue</reading> (す) you for grabbing onto them and not letting go.",
+  "primaryReading": "はなす",
+  "readingMnemonic": "The reading comes from 離れる.",
   "otherMeanings": [
     "To Keep Apart"
   ],
-  "primaryReading": "はなす",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1443,
-      "character": "離",
-      "readings": [
-        "り",
-        "はな"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Remember how 離れる is \"to separate,\" where something is just separating and you're not doing the separating? Well, this one has the same meaning, but now you're doing the separating. This word is 離す, and you know that you're doing the separating because if you don't, that person will <reading>sue</reading> (す) you for grabbing onto them and not letting go.",
-  "readingMnemonic": "The reading comes from 離れる.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9B%A2%E3%81%99",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "離",
-      "id": 1443,
-      "reading": "はな"
-    },
-    {
-      "type": "kana",
-      "value": "す"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%9B%A2%E3%81%99"
+  }
 }

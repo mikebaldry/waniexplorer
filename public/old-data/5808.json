@@ -1,0 +1,43 @@
+{
+  "id": 5808,
+  "type": "vocabulary",
+  "characters": "悲劇",
+  "primaryMeaning": "Tragedy",
+  "otherMeanings": [],
+  "primaryReading": "ひげき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 837,
+      "character": "悲",
+      "readings": [
+        "ひ",
+        "かな"
+      ]
+    },
+    {
+      "id": 1569,
+      "character": "劇",
+      "readings": [
+        "げき"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>sad</kanji> <kanji>drama</kanji> always ends in <vocabulary>tragedy</vocabulary>. That's what makes it sad.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%82%B2%E5%8A%87",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "悲",
+      "id": 837,
+      "reading": "ひ"
+    },
+    {
+      "type": "kanji",
+      "value": "劇",
+      "id": 1569,
+      "reading": "げき"
+    }
+  ]
+}

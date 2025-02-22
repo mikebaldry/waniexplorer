@@ -1,0 +1,46 @@
+{
+  "id": 7242,
+  "type": "vocabulary",
+  "characters": "首班",
+  "primaryMeaning": "Head",
+  "otherMeanings": [
+    "Leader",
+    "Prime Minister"
+  ],
+  "primaryReading": "しゅはん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 645,
+      "character": "首",
+      "readings": [
+        "くび",
+        "しゅ"
+      ]
+    },
+    {
+      "id": 2043,
+      "character": "班",
+      "readings": [
+        "はん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>neck</kanji> of the <kanji>squad</kanji> is the most important part of the squad, for if you lose the neck you lose the head (they're all one thing). This person is the <vocabulary>head</vocabulary> or <vocabulary>leader</vocabulary> of a group.\n\nThis is a very formal word to refer to someone in a top role, especially a <vocabulary>Prime Minister</vocabulary> (aka the head of the cabinet).",
+  "readingMnemonic": "This is a jukugo word so it uses the on'yomi readings. You learned the on'yomi for 首 in the words 部首 and 首位, and you learned the on'yomi for 班 with the kanji. Go you!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%A6%96%E7%8F%AD",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "首",
+      "id": 645,
+      "reading": "しゅ"
+    },
+    {
+      "type": "kanji",
+      "value": "班",
+      "id": 2043,
+      "reading": "はん"
+    }
+  ]
+}

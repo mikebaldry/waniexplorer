@@ -1,12 +1,15 @@
 {
   "id": 390,
   "type": "radical",
-  "primaryMeaning": "Business",
-  "otherMeanings": [],
-  "character": {
+  "level": 12,
+  "characters": {
     "type": "text",
     "value": "業"
   },
+  "primaryMeaning": "Business",
+  "otherMeanings": [],
   "meaningMnemonic": "This radical is the same as the kanji. It means <radical>business</radical>.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/business"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/business"
+  }
 }

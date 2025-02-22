@@ -1,0 +1,55 @@
+{
+  "id": 3577,
+  "type": "vocabulary",
+  "characters": "追い付く",
+  "primaryMeaning": "To Catch Up With",
+  "otherMeanings": [
+    "To Overtake",
+    "To Keep Up With"
+  ],
+  "primaryReading": "おいつく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 802,
+      "character": "追",
+      "readings": [
+        "お",
+        "つい"
+      ]
+    },
+    {
+      "id": 652,
+      "character": "付",
+      "readings": [
+        "つ",
+        "ふ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "To <kanji>follow</kanji> then <kanji>attach</kanji> yourself to the whoever you're following is <vocabulary>to catch up with</vocabulary> someone.",
+  "readingMnemonic": "The readings are the ones you learned with the kanji, but you can also just notice that this word includes 追う and 付く combined.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%BF%BD%E3%81%84%E4%BB%98%E3%81%8F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "追",
+      "id": 802,
+      "reading": "お"
+    },
+    {
+      "type": "kana",
+      "value": "い"
+    },
+    {
+      "type": "kanji",
+      "value": "付",
+      "id": 652,
+      "reading": "つ"
+    },
+    {
+      "type": "kana",
+      "value": "く"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": 2243,
+  "type": "kanji",
+  "character": "疎",
+  "primaryMeaning": "Neglect",
+  "otherMeanings": [
+    "Sparse"
+  ],
+  "primaryReading": "そ",
+  "readings": [
+    {
+      "reading": "そ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "しょ",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "うと",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "まば",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You go up to the <kanji>neglect</kanji>ed coat rack and try to make things right by cleaning it with <reading>so</reading>ap (そ). But no matter how much you scrub, it won't get clean, the arms won't go back on.",
+  "meaningMnemonic": "A <radical>coat rack</radical> will turn into a <radical>bundle</radical> of sticks if you <kanji>neglect</kanji> it. When you neglect a coat rack, the weight from the coats will pull all of the arms off, leaving it as a <kanji>sparse</kanji> stick.",
+  "vocabularyIds": [
+    8114,
+    8115,
+    8116,
+    8117,
+    8118,
+    8119,
+    8120,
+    8299
+  ],
+  "radicalIds": [
+    420,
+    219
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%96%8E"
+}

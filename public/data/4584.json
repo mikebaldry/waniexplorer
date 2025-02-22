@@ -1,35 +1,20 @@
 {
   "id": 4584,
   "type": "vocabulary",
-  "characters": "バス停",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "バス停"
+  },
   "primaryMeaning": "Bus Stop",
-  "otherMeanings": [],
+  "meaningMnemonic": "This is where the <kanji>bus</kanji> (バス) halts. It's the <vocabulary>bus stop</vocabulary>.",
   "primaryReading": "ばすてい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
   "otherReadings": [
     "バスてい"
   ],
-  "kanji": [
-    {
-      "id": 1187,
-      "character": "停",
-      "readings": [
-        "てい"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This is where the <kanji>bus</kanji> (バス) halts. It's the <vocabulary>bus stop</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E3%83%90%E3%82%B9%E5%81%9C",
-  "elements": [
-    {
-      "type": "kana",
-      "value": "バス"
-    },
-    {
-      "type": "kanji",
-      "value": "停",
-      "id": 1187,
-      "reading": "てい"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E3%83%90%E3%82%B9%E5%81%9C"
+  }
 }

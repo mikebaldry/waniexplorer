@@ -1,45 +1,20 @@
 {
   "id": 4622,
   "type": "vocabulary",
-  "characters": "基準",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "基準"
+  },
   "primaryMeaning": "Standard",
+  "meaningMnemonic": "The <kanji>foundation</kanji> of your <kanji>standard</kanji> is where you place your <vocabulary>standard</vocabulary>. No more, no less. This foundation is where the standard is all based off of.\n\nThis word generally refers to a quantitative \"standard\" that’s a basis for evaluation.",
+  "primaryReading": "きじゅん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "A Standard"
   ],
-  "primaryReading": "きじゅん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 917,
-      "character": "基",
-      "readings": [
-        "き",
-        "もと"
-      ]
-    },
-    {
-      "id": 1200,
-      "character": "準",
-      "readings": [
-        "じゅん"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The <kanji>foundation</kanji> of your <kanji>standard</kanji> is where you place your <vocabulary>standard</vocabulary>. No more, no less. This foundation is where the standard is all based off of.\n\nThis word generally refers to a quantitative \"standard\" that’s a basis for evaluation.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%9F%BA%E6%BA%96",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "基",
-      "id": 917,
-      "reading": "き"
-    },
-    {
-      "type": "kanji",
-      "value": "準",
-      "id": 1200,
-      "reading": "じゅん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%9F%BA%E6%BA%96"
+  }
 }

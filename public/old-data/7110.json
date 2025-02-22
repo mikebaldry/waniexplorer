@@ -1,0 +1,62 @@
+{
+  "id": 7110,
+  "type": "vocabulary",
+  "characters": "扇風機",
+  "primaryMeaning": "Electric Fan",
+  "otherMeanings": [
+    "Electronic Fan"
+  ],
+  "primaryReading": "せんぷうき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1999,
+      "character": "扇",
+      "readings": [
+        "せん",
+        "おうぎ",
+        "あお"
+      ]
+    },
+    {
+      "id": 853,
+      "character": "風",
+      "readings": [
+        "ふう",
+        "ふ",
+        "かぜ"
+      ]
+    },
+    {
+      "id": 1090,
+      "character": "機",
+      "readings": [
+        "き",
+        "はた"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>folding fan</kanji> <kanji>wind</kanji> <kanji>machine</kanji> is a machine that blows wind like a folding fan. That's an <vocabulary>electric fan</vocabulary> or an <vocabulary>electronic fan</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Careful of the rendaku.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%89%87%E9%A2%A8%E6%A9%9F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "扇",
+      "id": 1999,
+      "reading": "せん"
+    },
+    {
+      "type": "kanji",
+      "value": "風",
+      "id": 853,
+      "reading": "ぷう"
+    },
+    {
+      "type": "kanji",
+      "value": "機",
+      "id": 1090,
+      "reading": "き"
+    }
+  ]
+}

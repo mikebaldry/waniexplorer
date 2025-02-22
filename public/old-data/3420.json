@@ -1,0 +1,50 @@
+{
+  "id": 3420,
+  "type": "vocabulary",
+  "characters": "人形",
+  "primaryMeaning": "Doll",
+  "otherMeanings": [
+    "Puppet"
+  ],
+  "primaryReading": "にんぎょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 444,
+      "character": "人",
+      "readings": [
+        "にん",
+        "じん",
+        "ひと",
+        "と"
+      ]
+    },
+    {
+      "id": 589,
+      "character": "形",
+      "readings": [
+        "けい",
+        "ぎょう",
+        "かた",
+        "かたち"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Something that is <kanji>person</kanji> <kanji>shape</kanji>d that isn't a person? That has to be some kind of <vocabulary>doll</vocabulary> or <vocabulary>puppet</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 人 has two on'yomi readings, and the reading of 形 is a bit of an oddball, here's a mnemonic to help you:\n\nDid you know that all <vocabulary>doll</vocabulary>s at <reading>Nin</reading>tendo are made out of <reading>gyo</reading>za dumplings (にんぎょう)? They'll also regularly try to get you to eat them... Mmmm, gyoza dolls. Don't be afraid to take a bite!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BA%BA%E5%BD%A2",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "人",
+      "id": 444,
+      "reading": "にん"
+    },
+    {
+      "type": "kanji",
+      "value": "形",
+      "id": 589,
+      "reading": "ぎょう"
+    }
+  ]
+}

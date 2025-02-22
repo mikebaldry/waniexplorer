@@ -1,29 +1,37 @@
 {
   "id": 1637,
   "type": "kanji",
-  "character": "般",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "般"
+  },
+  "primaryReading": "はん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "はん",
+      "type": "onyomi"
+    }
+  ],
   "primaryMeaning": "Generally",
   "otherMeanings": [
     "General"
   ],
-  "primaryReading": "はん",
-  "readings": [
-    {
-      "reading": "はん",
-      "primary": true,
-      "type": "onyomi"
-    }
-  ],
-  "readingMnemonic": "<kanji>Generally</kanji> a boat with a weapon will be owned by <reading>Han</reading> (はん) Solo. ",
   "meaningMnemonic": "A <radical>boat</radical> will have at least one <radical>weapon</radical>, <kanji>generally</kanji>.",
-  "vocabularyIds": [
-    6010,
-    6150,
-    6151
-  ],
-  "radicalIds": [
-    149,
-    160
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%88%AC"
+  "readingMnemonic": "<kanji>Generally</kanji> a boat with a weapon will be owned by <reading>Han</reading> (はん) Solo. ",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%88%AC"
+  },
+  "related": {
+    "radicals": [
+      149,
+      160
+    ],
+    "vocabularies": [
+      6010,
+      6150,
+      6151
+    ]
+  }
 }

@@ -1,0 +1,37 @@
+{
+  "id": 1327,
+  "type": "kanji",
+  "character": "誘",
+  "primaryMeaning": "Invite",
+  "otherMeanings": [
+    "Lure"
+  ],
+  "primaryReading": "ゆう",
+  "readings": [
+    {
+      "reading": "ゆう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "さそ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You've <kanji>invite</kanji>d people in by leaving grain on the stairs but some <reading>you</reading>ths (ゆう) have ended up eating all the grain.",
+  "meaningMnemonic": "You <radical>say</radical> you've left some <radical>grain</radical> on the <radical>stairs</radical>. This is how you <kanji>invite</kanji> people into your place.",
+  "vocabularyIds": [
+    5024,
+    5081,
+    5284,
+    6297,
+    8101
+  ],
+  "radicalIds": [
+    117,
+    135,
+    200
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%AA%98"
+}

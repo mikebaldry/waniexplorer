@@ -1,32 +1,40 @@
 {
   "id": 1557,
   "type": "kanji",
-  "character": "粋",
-  "primaryMeaning": "Stylish",
-  "otherMeanings": [],
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "粋"
+  },
   "primaryReading": "すい",
   "readings": [
     {
-      "reading": "すい",
       "primary": true,
+      "reading": "すい",
       "type": "onyomi"
     },
     {
-      "reading": "いき",
       "primary": false,
+      "reading": "いき",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "It’s also <kanji>stylish</kanji> to <reading>swi</reading>ng (すい) the cross around while you wait for things. You’re waiting at a bus stop so you swing the cross around violently. You swing it so violently that the rice comes flying off!",
+  "primaryMeaning": "Stylish",
+  "otherMeanings": [],
   "meaningMnemonic": "There’s some <radical>rice</radical> in the shape of a <radical>nine</radical> on a <radical>cross</radical> and this is <kanji>stylish</kanji>. The rice grains are arranged to form the number nine. This number nine is prominently displayed on the cross, and it’s stylish to carry it around and be seen with it.",
-  "vocabularyIds": [
-    5771,
-    5772
-  ],
-  "radicalIds": [
-    98,
-    11,
-    15
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%B2%8B"
+  "readingMnemonic": "It’s also <kanji>stylish</kanji> to <reading>swi</reading>ng (すい) the cross around while you wait for things. You’re waiting at a bus stop so you swing the cross around violently. You swing it so violently that the rice comes flying off!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%B2%8B"
+  },
+  "related": {
+    "radicals": [
+      98,
+      11,
+      15
+    ],
+    "vocabularies": [
+      5771,
+      5772
+    ]
+  }
 }

@@ -1,37 +1,21 @@
 {
   "id": 8956,
   "type": "vocabulary",
-  "characters": "預かる",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "預かる"
+  },
   "primaryMeaning": "To Look After",
+  "meaningMnemonic": "Because the hiragana ends with an <ja>う</ja> sound, you know this word is a verb. The kanji itself means <kanji>deposit</kanji>, and this word is for when someone is depositing something (or someone) with you, because they want you <vocabulary>to look after</vocabulary>, <vocabulary>to take care of</vocabulary>, or <vocabulary>to hold on to</vocabulary> it.\n\nRemember that 預ける is used when you leave something with someone else to take care of temporarily. 預かる, on the other hand, is used when you're the one receiving something to look after. You can remember this because you're great at taking care of cargo (かる). You're always looking after everyone's cargo, but you're happy to hold on to it for them.\n\nAlso note that even though 預かる ends with かる and kind of looks intransitive, it's actually an exception! It'll pretty much always have a direct object to specify what you're looking after.",
+  "primaryReading": "あずかる",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You learned this before with the pair verb 預ける, but here's a mnemonic to remind you just in case:\n\nYou need someone <vocabulary>to look after</vocabulary> your kids for the day. Hey, I have an idea! Leave them with the monkeys at <reading>a zoo</reading> (あず)! Monkeys love kids, and kids love monkeys. Now you can zoom off in your <reading>car</reading>s (か) for the day!",
   "otherMeanings": [
     "To Take Care Of",
     "To Hold On To"
   ],
-  "primaryReading": "あずかる",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1425,
-      "character": "預",
-      "readings": [
-        "よ",
-        "あず"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Because the hiragana ends with an <ja>う</ja> sound, you know this word is a verb. The kanji itself means <kanji>deposit</kanji>, and this word is for when someone is depositing something (or someone) with you, because they want you <vocabulary>to look after</vocabulary>, <vocabulary>to take care of</vocabulary>, or <vocabulary>to hold on to</vocabulary> it.\n\nRemember that 預ける is used when you leave something with someone else to take care of temporarily. 預かる, on the other hand, is used when you're the one receiving something to look after. You can remember this because you're great at taking care of cargo (かる). You're always looking after everyone's cargo, but you're happy to hold on to it for them.\n\nAlso note that even though 預かる ends with かる and kind of looks intransitive, it's actually an exception! It'll pretty much always have a direct object to specify what you're looking after.",
-  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You learned this before with the pair verb 預ける, but here's a mnemonic to remind you just in case:\n\nYou need someone <vocabulary>to look after</vocabulary> your kids for the day. Hey, I have an idea! Leave them with the monkeys at <reading>a zoo</reading> (あず)! Monkeys love kids, and kids love monkeys. Now you can zoom off in your <reading>car</reading>s (か) for the day!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%A0%90%E3%81%8B%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "預",
-      "id": 1425,
-      "reading": "あず"
-    },
-    {
-      "type": "kana",
-      "value": "かる"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%A0%90%E3%81%8B%E3%82%8B"
+  }
 }

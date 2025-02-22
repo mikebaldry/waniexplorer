@@ -1,35 +1,43 @@
 {
   "id": 1918,
   "type": "kanji",
-  "character": "井",
-  "primaryMeaning": "Well",
-  "otherMeanings": [],
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "井"
+  },
   "primaryReading": "い",
   "readings": [
     {
-      "reading": "い",
       "primary": true,
+      "reading": "い",
       "type": "kunyomi"
     },
     {
-      "reading": "しょう",
       "primary": false,
+      "reading": "しょう",
       "type": "onyomi"
     },
     {
-      "reading": "せい",
       "primary": false,
+      "reading": "せい",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "Each time you go to the town <kanji>well</kanji>, there's a giant <reading>ea</reading>gle (い) hiding inside, just waiting for you to show up. ",
+  "primaryMeaning": "Well",
+  "otherMeanings": [],
   "meaningMnemonic": "The <radical>well</radical> radical and the <kanji>well</kanji> kanji are the same.",
-  "vocabularyIds": [
-    6883,
-    6884
-  ],
-  "radicalIds": [
-    246
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E4%BA%95"
+  "readingMnemonic": "Each time you go to the town <kanji>well</kanji>, there's a giant <reading>ea</reading>gle (い) hiding inside, just waiting for you to show up. ",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E4%BA%95"
+  },
+  "related": {
+    "radicals": [
+      246
+    ],
+    "vocabularies": [
+      6883,
+      6884
+    ]
+  }
 }

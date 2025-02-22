@@ -1,0 +1,28 @@
+{
+  "id": 2095,
+  "type": "kanji",
+  "character": "漫",
+  "primaryMeaning": "Comic",
+  "otherMeanings": [],
+  "primaryReading": "まん",
+  "readings": [
+    {
+      "reading": "まん",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "<kanji>Comic</kanji>s are <reading>man</reading>ga (まん) in Japan, whether they're comic or serious.",
+  "meaningMnemonic": "A <radical>tsunami</radical> crashes into the <radical>sun</radical>, which is then caught in a <radical>net</radical> and tied to a <radical>stool</radical>! Wait a second... this doesn't sound realistic, it sounds really <kanji>comic</kanji>! That's because it's from that comic book about a pirate you're always reading!",
+  "vocabularyIds": [
+    7380,
+    7381
+  ],
+  "radicalIds": [
+    103,
+    22,
+    163,
+    30
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%BC%AB"
+}

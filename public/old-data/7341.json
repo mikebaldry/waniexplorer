@@ -1,0 +1,38 @@
+{
+  "id": 7341,
+  "type": "vocabulary",
+  "characters": "衰える",
+  "primaryMeaning": "To Decline",
+  "otherMeanings": [
+    "To Decay",
+    "To Become Weak",
+    "To Wither"
+  ],
+  "primaryReading": "おとろえる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2078,
+      "character": "衰",
+      "readings": [
+        "すい",
+        "おとろ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>decline</kanji> and the verb vocab version is <vocabulary>to decline</vocabulary>.",
+  "readingMnemonic": "You're wandering through the jungle exploring, when you come upon a deep pit. Since you're looking for treasure, you decide to go down into the pit to look for some. You take out your handy <reading>auto ro</reading>pe (おとろ), made of organic, environment friendly materials, and easily rappel down into the pit. Unfortunately, you get lost down there, and it takes you fifty years to get back to the pit you came in from. But your auto rope is gone! This is the last time you buy an organic rope, made <vocabulary>to decay</vocabulary> and <vocabulary>to wither</vocabulary> away when left in the wild.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A1%B0%E3%81%88%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "衰",
+      "id": 2078,
+      "reading": "おとろ"
+    },
+    {
+      "type": "kana",
+      "value": "える"
+    }
+  ]
+}

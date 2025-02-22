@@ -1,0 +1,65 @@
+{
+  "id": 5938,
+  "type": "vocabulary",
+  "characters": "親子丼",
+  "primaryMeaning": "Chicken And Egg Rice Bowl",
+  "otherMeanings": [
+    "Parent And Child Rice Bowl",
+    "Oyako-Don"
+  ],
+  "primaryReading": "おやこどんぶり",
+  "otherReadings": [
+    "おやこどん"
+  ],
+  "kanji": [
+    {
+      "id": 770,
+      "character": "親",
+      "readings": [
+        "しん",
+        "おや",
+        "した"
+      ]
+    },
+    {
+      "id": 462,
+      "character": "子",
+      "readings": [
+        "し",
+        "す",
+        "こ"
+      ]
+    },
+    {
+      "id": 1549,
+      "character": "丼",
+      "readings": [
+        "どん",
+        "どんぶり"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This very common food is <kanji>parent</kanji> and <kanji>child</kanji> <kanji>rice bowl</kanji>, aka a <vocabulary>parent and child rice bowl</vocabulary>. The parent is a chicken. The child is an egg. This can also be called <vocabulary>chicken and egg rice bowl</vocabulary>, or simply <vocabulary>oyako-don</vocabulary>.",
+  "readingMnemonic": "The reading is 親 and 子 and 丼 combined together.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A6%AA%E5%AD%90%E4%B8%BC",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "親",
+      "id": 770,
+      "reading": "おや"
+    },
+    {
+      "type": "kanji",
+      "value": "子",
+      "id": 462,
+      "reading": "こ"
+    },
+    {
+      "type": "kanji",
+      "value": "丼",
+      "id": 1549,
+      "reading": "どんぶり"
+    }
+  ]
+}

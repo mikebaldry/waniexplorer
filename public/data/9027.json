@@ -1,36 +1,20 @@
 {
   "id": 9027,
   "type": "vocabulary",
-  "characters": "築く",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "築く"
+  },
   "primaryMeaning": "To Build Something",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>construct</kanji> and the verb version is <vocabulary>to build something</vocabulary> or <vocabulary>to construct something</vocabulary>.",
+  "primaryReading": "きずく",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you:\n\nYou want <vocabulary>to build something</vocabulary> called a <reading>key zoo</reading> (きず). Which is a zoo for keys instead of animals. So it's a bunch of keys in cages, basically. Hmm, how artsy of you... Hopefully people get it. Isn't it a bit avant-garde <vocabulary>to construct something</vocabulary> like a key zoo?",
   "otherMeanings": [
     "To Construct Something"
   ],
-  "primaryReading": "きずく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 957,
-      "character": "築",
-      "readings": [
-        "ちく",
-        "きず"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>construct</kanji> and the verb version is <vocabulary>to build something</vocabulary> or <vocabulary>to construct something</vocabulary>.",
-  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you:\n\nYou want <vocabulary>to build something</vocabulary> called a <reading>key zoo</reading> (きず). Which is a zoo for keys instead of animals. So it's a bunch of keys in cages, basically. Hmm, how artsy of you... Hopefully people get it. Isn't it a bit avant-garde <vocabulary>to construct something</vocabulary> like a key zoo?",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%AF%89%E3%81%8F",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "築",
-      "id": 957,
-      "reading": "きず"
-    },
-    {
-      "type": "kana",
-      "value": "く"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%AF%89%E3%81%8F"
+  }
 }

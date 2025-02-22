@@ -1,0 +1,30 @@
+{
+  "id": 6520,
+  "type": "vocabulary",
+  "characters": "炭",
+  "primaryMeaning": "Charcoal",
+  "otherMeanings": [],
+  "primaryReading": "すみ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1793,
+      "character": "炭",
+      "readings": [
+        "たん",
+        "すみ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "I'm gonna put <vocabulary>charcoal</vocabulary> in your mouth. Whatchoo gonna do? <reading>Sue me</reading> (すみ)?",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%82%AD",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "炭",
+      "id": 1793,
+      "reading": "すみ"
+    }
+  ]
+}

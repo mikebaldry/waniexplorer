@@ -1,0 +1,46 @@
+{
+  "id": 7102,
+  "type": "vocabulary",
+  "characters": "紙幣",
+  "primaryMeaning": "Paper Money",
+  "otherMeanings": [
+    "Notes",
+    "Bills"
+  ],
+  "primaryReading": "しへい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 663,
+      "character": "紙",
+      "readings": [
+        "かみ",
+        "し"
+      ]
+    },
+    {
+      "id": 1995,
+      "character": "幣",
+      "readings": [
+        "へい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Paper</kanji> <kanji>cash</kanji> is <vocabulary>paper money</vocabulary>.",
+  "readingMnemonic": "This word uses the on'yomi reading for 紙 even though you went through all that trouble to learn the kun'yomi reading. Did you know <vocabulary>paper money</vocabulary> is made of <reading>shee</reading>p (し)? Well, part sheep, but there's sheep in there for sure. That's why you can wash your paper money with your t-shirts in the washing machine.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B4%99%E5%B9%A3",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "紙",
+      "id": 663,
+      "reading": "し"
+    },
+    {
+      "type": "kanji",
+      "value": "幣",
+      "id": 1995,
+      "reading": "へい"
+    }
+  ]
+}

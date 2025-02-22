@@ -1,12 +1,15 @@
 {
   "id": 8821,
   "type": "radical",
-  "primaryMeaning": "Fix",
-  "otherMeanings": [],
-  "character": {
+  "level": 12,
+  "characters": {
     "type": "text",
     "value": "直"
   },
+  "primaryMeaning": "Fix",
+  "otherMeanings": [],
   "meaningMnemonic": "This radical is the same as the kanji. It means <radical>fix</radical>.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/fix"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/fix"
+  }
 }

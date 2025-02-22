@@ -1,31 +1,18 @@
 {
   "id": 5786,
   "type": "vocabulary",
-  "characters": "幕",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "幕"
+  },
   "primaryMeaning": "Curtain",
-  "otherMeanings": [],
-  "primaryReading": "まく",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1562,
-      "character": "幕",
-      "readings": [
-        "まく",
-        "ばく",
-        "とばり"
-      ]
-    }
-  ],
   "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "まく",
   "readingMnemonic": "The reading is the same as the one you learned with the kanji, you lucky duck.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B9%95",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "幕",
-      "id": 1562,
-      "reading": "まく"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%B9%95"
+  }
 }

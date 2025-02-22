@@ -1,0 +1,45 @@
+{
+  "id": 7030,
+  "type": "vocabulary",
+  "characters": "帝政",
+  "primaryMeaning": "Imperial Government",
+  "otherMeanings": [
+    "Imperialism"
+  ],
+  "primaryReading": "ていせい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1967,
+      "character": "帝",
+      "readings": [
+        "てい",
+        "みかど"
+      ]
+    },
+    {
+      "id": 985,
+      "character": "政",
+      "readings": [
+        "せい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Sovereign</kanji> <kanji>government</kanji> and <kanji>Politics</kanji> are those who are part of the <vocabulary>imperial government</vocabulary>. This type of government is <vocabulary>imperialism</vocabulary>. Of course, back in the day there weren't as many sovereign governments out there, so imperialism is the one that fits the bill in this word's case.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B8%9D%E6%94%BF",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "帝",
+      "id": 1967,
+      "reading": "てい"
+    },
+    {
+      "type": "kanji",
+      "value": "政",
+      "id": 985,
+      "reading": "せい"
+    }
+  ]
+}

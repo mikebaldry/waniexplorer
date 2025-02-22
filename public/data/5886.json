@@ -1,38 +1,22 @@
 {
   "id": 5886,
   "type": "vocabulary",
-  "characters": "互い",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "互い"
+  },
   "primaryMeaning": "Mutual",
+  "meaningMnemonic": "Despite it looking like an adjective, this is the noun version of the kanji, making it <vocabulary>mutual</vocabulary>. It also means <vocabulary>each other</vocabulary> and <vocabulary>reciprocal</vocabulary> and <vocabulary>together</vocabulary>, too.",
+  "primaryReading": "たがい",
+  "readingMnemonic": "Let's help <vocabulary>each other</vocabulary>. Maybe if we work <vocabulary>together</vocabulary> we can get rid of this <reading>tagger</reading> (たが) tagging graffiti all over our neighborhood.",
   "otherMeanings": [
     "Each Other",
     "Reciprocal",
     "Together"
   ],
-  "primaryReading": "たがい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1591,
-      "character": "互",
-      "readings": [
-        "ご",
-        "たが"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Despite it looking like an adjective, this is the noun version of the kanji, making it <vocabulary>mutual</vocabulary>. It also means <vocabulary>each other</vocabulary> and <vocabulary>reciprocal</vocabulary> and <vocabulary>together</vocabulary>, too.",
-  "readingMnemonic": "Let's help <vocabulary>each other</vocabulary>. Maybe if we work <vocabulary>together</vocabulary> we can get rid of this <reading>tagger</reading> (たが) tagging graffiti all over our neighborhood.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BA%92%E3%81%84",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "互",
-      "id": 1591,
-      "reading": "たが"
-    },
-    {
-      "type": "kana",
-      "value": "い"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BA%92%E3%81%84"
+  }
 }

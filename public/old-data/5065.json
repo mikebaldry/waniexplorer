@@ -1,0 +1,48 @@
+{
+  "id": 5065,
+  "type": "vocabulary",
+  "characters": "給与",
+  "primaryMeaning": "Salary",
+  "otherMeanings": [
+    "Wages",
+    "Pay",
+    "Compensation"
+  ],
+  "primaryReading": "きゅうよ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1345,
+      "character": "給",
+      "readings": [
+        "きゅう",
+        "たま"
+      ]
+    },
+    {
+      "id": 1249,
+      "character": "与",
+      "readings": [
+        "よ",
+        "あた"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>salary</kanji> I <kanji>give</kanji> you is your <vocabulary>salary</vocabulary>, or <vocabulary>wages</vocabulary>. It is the <vocabulary>pay</vocabulary> you earn.\n\nCurious about the difference between 給与 and 給料? 給与 is generally considered the formal version of 給料, but there is another minor difference in nuance. 給料 often refers to your base pay, while 給与 refers to the total amount of <vocabulary>compensation</vocabulary> you receive, including overtime, bonuses, etc.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B5%A6%E4%B8%8E",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "給",
+      "id": 1345,
+      "reading": "きゅう"
+    },
+    {
+      "type": "kanji",
+      "value": "与",
+      "id": 1249,
+      "reading": "よ"
+    }
+  ]
+}

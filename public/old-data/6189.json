@@ -1,0 +1,47 @@
+{
+  "id": 6189,
+  "type": "vocabulary",
+  "characters": "配慮",
+  "primaryMeaning": "Consideration",
+  "otherMeanings": [
+    "Care"
+  ],
+  "primaryReading": "はいりょ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 742,
+      "character": "配",
+      "readings": [
+        "はい",
+        "くば"
+      ]
+    },
+    {
+      "id": 1690,
+      "character": "慮",
+      "readings": [
+        "りょ",
+        "おもんぱく",
+        "おもんぱか"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you <kanji>distribute</kanji> your <kanji>consider</kanji>s, you will be giving <vocabulary>consideration</vocabulary> and <vocabulary>care</vocabulary> to whatever you're distributing these cares to.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%85%8D%E6%85%AE",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "配",
+      "id": 742,
+      "reading": "はい"
+    },
+    {
+      "type": "kanji",
+      "value": "慮",
+      "id": 1690,
+      "reading": "りょ"
+    }
+  ]
+}

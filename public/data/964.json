@@ -1,39 +1,47 @@
 {
   "id": 964,
   "type": "kanji",
-  "character": "門",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "門"
+  },
+  "primaryReading": "もん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "もん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "と",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "かど",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Gates",
   "otherMeanings": [
     "Gate"
   ],
-  "primaryReading": "もん",
-  "readings": [
-    {
-      "reading": "もん",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "と",
-      "primary": false,
-      "type": "kunyomi"
-    },
-    {
-      "reading": "かど",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "You want to pass through this <kanji>gate</kanji> but it’s guarded by… a <reading>mon</reading>ster (もん)! ",
   "meaningMnemonic": "The radical for <radical>gate</radical> and the kanji for <kanji>gates</kanji> are the same!",
-  "vocabularyIds": [
-    3831,
-    3869,
-    7113,
-    7756
-  ],
-  "radicalIds": [
-    214
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%96%80"
+  "readingMnemonic": "You want to pass through this <kanji>gate</kanji> but it’s guarded by… a <reading>mon</reading>ster (もん)! ",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%96%80"
+  },
+  "related": {
+    "radicals": [
+      214
+    ],
+    "vocabularies": [
+      3831,
+      3869,
+      7113,
+      7756
+    ]
+  }
 }

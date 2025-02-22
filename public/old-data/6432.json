@@ -1,0 +1,49 @@
+{
+  "id": 6432,
+  "type": "vocabulary",
+  "characters": "生殖",
+  "primaryMeaning": "Reproduction",
+  "otherMeanings": [],
+  "primaryReading": "せいしょく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 850,
+      "character": "生",
+      "readings": [
+        "せい",
+        "しょう",
+        "い",
+        "なま",
+        "う",
+        "は",
+        "き"
+      ]
+    },
+    {
+      "id": 1766,
+      "character": "殖",
+      "readings": [
+        "しょく",
+        "ふ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Life</kanji>, when it <kanji>multipl</kanji>ies (multiply), is doing <vocabulary>reproduction</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%94%9F%E6%AE%96",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "生",
+      "id": 850,
+      "reading": "せい"
+    },
+    {
+      "type": "kanji",
+      "value": "殖",
+      "id": 1766,
+      "reading": "しょく"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 5111,
+  "type": "vocabulary",
+  "characters": "修士",
+  "primaryMeaning": "Master's Degree",
+  "otherMeanings": [],
+  "primaryReading": "しゅうし",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1360,
+      "character": "修",
+      "readings": [
+        "しゅう",
+        "おさ"
+      ]
+    },
+    {
+      "id": 877,
+      "character": "士",
+      "readings": [
+        "し",
+        "さむらい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A degree of <kanji>mastering</kanji> equal to a <kanji>samurai</kanji> is required for a <vocabulary>master's degree</vocabulary>. You'll have to master your chosen skill to the level of a samurai in order to obtain such a degree… Sounds tough.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BF%AE%E5%A3%AB",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "修",
+      "id": 1360,
+      "reading": "しゅう"
+    },
+    {
+      "type": "kanji",
+      "value": "士",
+      "id": 877,
+      "reading": "し"
+    }
+  ]
+}

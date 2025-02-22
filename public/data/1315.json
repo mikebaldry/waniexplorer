@@ -1,32 +1,40 @@
 {
   "id": 1315,
   "type": "kanji",
-  "character": "段",
+  "level": 27,
+  "characters": {
+    "type": "text",
+    "value": "段"
+  },
+  "primaryReading": "だん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "だん",
+      "type": "onyomi"
+    }
+  ],
   "primaryMeaning": "Steps",
   "otherMeanings": [
     "Stairs"
   ],
-  "primaryReading": "だん",
-  "readings": [
-    {
-      "reading": "だん",
-      "primary": true,
-      "type": "onyomi"
-    }
-  ],
-  "readingMnemonic": "You slowly work to create these <kanji>stairs</kanji>, you have to slice up a lot of combs, and at <reading>dawn</reading> (だん) they are done!",
   "meaningMnemonic": "Cut this <radical>comb</radical> up with your <radical>weapon</radical> and turn it into the <kanji>steps</kanji> for some <kanji>stairs</kanji>.",
-  "vocabularyIds": [
-    5005,
-    5047,
-    5048,
-    5049,
-    5050,
-    5420
-  ],
-  "radicalIds": [
-    8792,
-    160
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%AE%B5"
+  "readingMnemonic": "You slowly work to create these <kanji>stairs</kanji>, you have to slice up a lot of combs, and at <reading>dawn</reading> (だん) they are done!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%AE%B5"
+  },
+  "related": {
+    "radicals": [
+      8792,
+      160
+    ],
+    "vocabularies": [
+      5005,
+      5047,
+      5048,
+      5049,
+      5050,
+      5420
+    ]
+  }
 }

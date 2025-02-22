@@ -1,47 +1,20 @@
 {
   "id": 6489,
   "type": "vocabulary",
-  "characters": "拠点",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "拠点"
+  },
   "primaryMeaning": "Position",
+  "meaningMnemonic": "Something <kanji>based on</kanji> <kanji>points</kanji> has a ranking, meaning you'll know where your <vocabulary>position</vocabulary> or <vocabulary>location</vocabulary> is, compared to everyone else.",
+  "primaryReading": "きょてん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Location"
   ],
-  "primaryReading": "きょてん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1780,
-      "character": "拠",
-      "readings": [
-        "きょ",
-        "こ",
-        "よ"
-      ]
-    },
-    {
-      "id": 641,
-      "character": "点",
-      "readings": [
-        "てん",
-        "つ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Something <kanji>based on</kanji> <kanji>points</kanji> has a ranking, meaning you'll know where your <vocabulary>position</vocabulary> or <vocabulary>location</vocabulary> is, compared to everyone else.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8B%A0%E7%82%B9",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "拠",
-      "id": 1780,
-      "reading": "きょ"
-    },
-    {
-      "type": "kanji",
-      "value": "点",
-      "id": 641,
-      "reading": "てん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%8B%A0%E7%82%B9"
+  }
 }

@@ -1,0 +1,34 @@
+{
+  "id": 1894,
+  "type": "kanji",
+  "character": "髪",
+  "primaryMeaning": "Hair",
+  "otherMeanings": [],
+  "primaryReading": "かみ",
+  "readings": [
+    {
+      "reading": "かみ",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "はつ",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Who gave you this hair? Probably the great <reading>神</reading> (かみ) of hair. You deserve this great hair.",
+  "meaningMnemonic": "Your <radical>long</radical> <radical>hair</radical> is your <radical>friend</radical>. It's your <kanji>hair</kanji> and you're so proud of it.",
+  "vocabularyIds": [
+    6816,
+    6817,
+    6818,
+    6819
+  ],
+  "radicalIds": [
+    138,
+    38,
+    301
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%AB%AA"
+}

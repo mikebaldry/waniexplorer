@@ -1,0 +1,46 @@
+{
+  "id": 8644,
+  "type": "vocabulary",
+  "characters": "罷免",
+  "primaryMeaning": "Dismissal",
+  "otherMeanings": [
+    "Discharge"
+  ],
+  "primaryReading": "ひめん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2456,
+      "character": "罷",
+      "readings": [
+        "ひ",
+        "や"
+      ]
+    },
+    {
+      "id": 1722,
+      "character": "免",
+      "readings": [
+        "めん",
+        "まぬか"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You <kanji>quit</kanji> your job but with a pretty good <kanji>excuse</kanji> to back it up, so you get a <vocabulary>dismissal</vocabulary> instead of just quitting outright. If you're in the army and you do this it's called a <vocabulary>discharge</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%BD%B7%E5%85%8D",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "罷",
+      "id": 2456,
+      "reading": "ひ"
+    },
+    {
+      "type": "kanji",
+      "value": "免",
+      "id": 1722,
+      "reading": "めん"
+    }
+  ]
+}

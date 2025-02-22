@@ -1,0 +1,30 @@
+{
+  "id": 1003,
+  "type": "kanji",
+  "character": "席",
+  "primaryMeaning": "Seat",
+  "otherMeanings": [],
+  "primaryReading": "せき",
+  "readings": [
+    {
+      "reading": "せき",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Something about using a towel for a <kanji>seat</kanji> is very <reading>sexy</reading> (せき) to you. Probably because you associate it with sexy people using towel seats on the beach.",
+  "meaningMnemonic": "In a <radical>yurt</radical> you use a <radical>towel</radical> as a <kanji>seat</kanji>.",
+  "vocabularyIds": [
+    3978,
+    3979,
+    3980,
+    3981,
+    4097,
+    4251
+  ],
+  "radicalIds": [
+    8787,
+    102
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%B8%AD"
+}

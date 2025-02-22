@@ -1,0 +1,39 @@
+{
+  "id": 1223,
+  "type": "kanji",
+  "character": "祝",
+  "primaryMeaning": "Celebrate",
+  "otherMeanings": [],
+  "primaryReading": "しゅく",
+  "readings": [
+    {
+      "reading": "しゅく",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "しゅう",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "いわ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Unfortunately, the two of you <kanji>celebrate</kanji>d too much, and you went a little crazy. The spirit grabbed your brother and <reading>shook</reading> (しゅく) him. Shook him so hard his head popped off.",
+  "meaningMnemonic": "If a <radical>spirit</radical> blesses your <radical>older brother</radical> it's time to <kanji>celebrate</kanji>! This isn't something that happens every day to everyone's older brother. Yours is very good and very lucky. So celebrate with him!",
+  "vocabularyIds": [
+    4687,
+    4688,
+    6494,
+    7714,
+    8537
+  ],
+  "radicalIds": [
+    80,
+    191
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%A5%9D"
+}

@@ -1,0 +1,35 @@
+{
+  "id": 1092,
+  "type": "kanji",
+  "character": "飛",
+  "primaryMeaning": "Fly",
+  "otherMeanings": [],
+  "primaryReading": "ひ",
+  "readings": [
+    {
+      "reading": "ひ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "と",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "When you <kanji>fly</kanji>, you generate a lot of <reading>he</reading>at (ひ) because you’re moving so fast through the atmosphere. Normally this heat would be a nuisance, but you’re a superhero so it doesn’t bother you. This is actually the reason you’re able to fly – you’re a superhero and super resistant to heat.",
+  "meaningMnemonic": "The <radical>fly</radical> radical and the <kanji>fly</kanji> kanji are exactly the same! Awesome!",
+  "vocabularyIds": [
+    4296,
+    4345,
+    4844,
+    6323,
+    6567,
+    6942,
+    9332
+  ],
+  "radicalIds": [
+    270
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%A3%9B"
+}

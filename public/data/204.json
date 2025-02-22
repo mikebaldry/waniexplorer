@@ -1,12 +1,15 @@
 {
   "id": 204,
   "type": "radical",
-  "primaryMeaning": "Asia",
-  "otherMeanings": [],
-  "character": {
+  "level": 12,
+  "characters": {
     "type": "text",
     "value": "亜"
   },
+  "primaryMeaning": "Asia",
+  "otherMeanings": [],
   "meaningMnemonic": "This radical looks like a helicopter on the ground. Or a TIE fighter from above (going to the side). Either way, it's okay because you know where both helicopters and TIE fighters are made: <radical>Asia</radical>! Most aircraft are made in Asia these days, ya know?",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/asia"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/asia"
+  }
 }

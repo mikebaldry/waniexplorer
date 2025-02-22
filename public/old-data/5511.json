@@ -1,0 +1,38 @@
+{
+  "id": 5511,
+  "type": "vocabulary",
+  "characters": "冷える",
+  "primaryMeaning": "To Be Chilled",
+  "otherMeanings": [
+    "To Get Cold"
+  ],
+  "primaryReading": "ひえる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1350,
+      "character": "冷",
+      "readings": [
+        "れい",
+        "つめ",
+        "ひ",
+        "さ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If 冷やす is \"to chill something,\" then this would be the version where something is just chilled. You're not doing the action of chilling anything, it's just that way. You know this because if you get involved, there's always some kind of chilling <reading>err</reading>or (える). So, you step back and let the fridge do its job without messing.",
+  "readingMnemonic": "The reading comes from 冷やす. Know that and you know this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%86%B7%E3%81%88%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "冷",
+      "id": 1350,
+      "reading": "ひ"
+    },
+    {
+      "type": "kana",
+      "value": "える"
+    }
+  ]
+}

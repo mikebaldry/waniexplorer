@@ -1,53 +1,20 @@
 {
   "id": 3898,
   "type": "vocabulary",
-  "characters": "人殺し",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "人殺し"
+  },
   "primaryMeaning": "Murder",
+  "meaningMnemonic": "When you <kanji>kill</kanji> a <kanji>person</kanji> that's <vocabulary>murder</vocabulary>.",
+  "primaryReading": "ひとごろし",
+  "readingMnemonic": "The readings are the kun'yomi vocab readings. So, if you know 人's reading as a vocab word and 殺す's reading, you should be able to read this word. Just note that ころし goes to ごろし due to rendaku.",
   "otherMeanings": [
     "Murderer"
   ],
-  "primaryReading": "ひとごろし",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 444,
-      "character": "人",
-      "readings": [
-        "にん",
-        "じん",
-        "ひと",
-        "と"
-      ]
-    },
-    {
-      "id": 880,
-      "character": "殺",
-      "readings": [
-        "さつ",
-        "さい",
-        "ころ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "When you <kanji>kill</kanji> a <kanji>person</kanji> that's <vocabulary>murder</vocabulary>.",
-  "readingMnemonic": "The readings are the kun'yomi vocab readings. So, if you know 人's reading as a vocab word and 殺す's reading, you should be able to read this word. Just note that ころし goes to ごろし due to rendaku.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BA%BA%E6%AE%BA%E3%81%97",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "人",
-      "id": 444,
-      "reading": "ひと"
-    },
-    {
-      "type": "kanji",
-      "value": "殺",
-      "id": 880,
-      "reading": "ごろ"
-    },
-    {
-      "type": "kana",
-      "value": "し"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BA%BA%E6%AE%BA%E3%81%97"
+  }
 }

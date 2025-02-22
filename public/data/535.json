@@ -1,60 +1,68 @@
 {
   "id": 535,
   "type": "kanji",
-  "character": "平",
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "平"
+  },
+  "primaryReading": "へい",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "へい",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ひょう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "びょう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "たい",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ひら",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Flat",
   "otherMeanings": [
     "Peace"
   ],
-  "primaryReading": "へい",
-  "readings": [
-    {
-      "reading": "へい",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "ひょう",
-      "primary": false,
-      "type": "onyomi"
-    },
-    {
-      "reading": "びょう",
-      "primary": false,
-      "type": "onyomi"
-    },
-    {
-      "reading": "たい",
-      "primary": false,
-      "type": "kunyomi"
-    },
-    {
-      "reading": "ひら",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "Being <kanji>flat</kanji> isn't enough, so you cover the whole thing in <reading>hay</reading> (へい). Hay absorbs water, so you add a flat layer of it.",
   "meaningMnemonic": "If you want to <radical>dry</radical> your <radical>horns</radical> you need to lay them <kanji>flat</kanji>. If they aren't flat they'll always be a little damp somewhere and you'll never have a moment's <kanji>peace</kanji>.",
-  "vocabularyIds": [
-    2678,
-    2727,
-    2728,
-    2862,
-    3093,
-    3294,
-    4157,
-    5485,
-    6970,
-    7631,
-    7973,
-    8256,
-    8407,
-    9100
-  ],
-  "radicalIds": [
-    61,
-    8767
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%B9%B3"
+  "readingMnemonic": "Being <kanji>flat</kanji> isn't enough, so you cover the whole thing in <reading>hay</reading> (へい). Hay absorbs water, so you add a flat layer of it.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%B9%B3"
+  },
+  "related": {
+    "radicals": [
+      61,
+      8767
+    ],
+    "vocabularies": [
+      2678,
+      2727,
+      2728,
+      2862,
+      3093,
+      3294,
+      4157,
+      5485,
+      6970,
+      7631,
+      7973,
+      8256,
+      8407,
+      9100
+    ]
+  }
 }

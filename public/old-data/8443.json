@@ -1,0 +1,47 @@
+{
+  "id": 8443,
+  "type": "vocabulary",
+  "characters": "奔走",
+  "primaryMeaning": "Running About",
+  "otherMeanings": [
+    "Efforts",
+    "Be Busy"
+  ],
+  "primaryReading": "ほんそう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2373,
+      "character": "奔",
+      "readings": [
+        "ほん",
+        "はし"
+      ]
+    },
+    {
+      "id": 595,
+      "character": "走",
+      "readings": [
+        "そう",
+        "はし"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you <kanji>bustle</kanji> and <kanji>run</kanji> around all day from being busy you end up <vocabulary>running about</vocabulary> to get them all done. You'll <vocabulary>be busy</vocabulary> getting it all done, but your <vocabulary>efforts</vocabulary> won't be in vain!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A5%94%E8%B5%B0",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "奔",
+      "id": 2373,
+      "reading": "ほん"
+    },
+    {
+      "type": "kanji",
+      "value": "走",
+      "id": 595,
+      "reading": "そう"
+    }
+  ]
+}

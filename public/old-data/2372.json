@@ -1,0 +1,42 @@
+{
+  "id": 2372,
+  "type": "kanji",
+  "character": "濁",
+  "primaryMeaning": "Muddy",
+  "otherMeanings": [
+    "Impure"
+  ],
+  "primaryReading": "だく",
+  "readings": [
+    {
+      "reading": "だく",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "じょく",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "にご",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Unfortunately for the insects, these <kanji>muddy</kanji> conditions have created the perfect habitat for <reading>duck</reading>s (だく). And muddy insects already imprisoned in a muddy net is a duck's favorite treat!",
+  "meaningMnemonic": "If a <radical>tsunami</radical> gets into a <radical>net</radical> that's im<radical>prison</radical>ing a bunch of <radical>insect</radical>s, the insects are going to get all <kanji>muddy</kanji>. The net gets dragged along with the tsunami water and the insects can't escape, so they just get covered in the yucky stuff.",
+  "vocabularyIds": [
+    8476,
+    8477,
+    8478,
+    8635
+  ],
+  "radicalIds": [
+    103,
+    163,
+    14,
+    89
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%BF%81"
+}

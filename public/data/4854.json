@@ -1,50 +1,20 @@
 {
   "id": 4854,
   "type": "vocabulary",
-  "characters": "理解する",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "理解する"
+  },
   "primaryMeaning": "To Understand",
+  "meaningMnemonic": "理解 is understanding, so the verb version would be...? How about <vocabulary>to understand</vocabulary> or <vocabulary>to comprehend</vocabulary>? Well, do you?",
+  "primaryReading": "りかいする",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Of course, if you know 理解 already this one is easy <vocabulary>to comprehend</vocabulary>.",
   "otherMeanings": [
     "To Comprehend"
   ],
-  "primaryReading": "りかいする",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 669,
-      "character": "理",
-      "readings": [
-        "り",
-        "ことわり"
-      ]
-    },
-    {
-      "id": 1150,
-      "character": "解",
-      "readings": [
-        "かい",
-        "と"
-      ]
-    }
-  ],
-  "meaningMnemonic": "理解 is understanding, so the verb version would be...? How about <vocabulary>to understand</vocabulary> or <vocabulary>to comprehend</vocabulary>? Well, do you?",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Of course, if you know 理解 already this one is easy <vocabulary>to comprehend</vocabulary>.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%90%86%E8%A7%A3%E3%81%99%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "理",
-      "id": 669,
-      "reading": "り"
-    },
-    {
-      "type": "kanji",
-      "value": "解",
-      "id": 1150,
-      "reading": "かい"
-    },
-    {
-      "type": "kana",
-      "value": "する"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%90%86%E8%A7%A3%E3%81%99%E3%82%8B"
+  }
 }

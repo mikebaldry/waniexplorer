@@ -1,12 +1,15 @@
 {
   "id": 123,
   "type": "radical",
-  "primaryMeaning": "Ice",
-  "otherMeanings": [],
-  "character": {
+  "level": 3,
+  "characters": {
     "type": "text",
     "value": "冫"
   },
-  "meaningMnemonic": "Remember the radical for drop (of liquid)? This is two drops instead of one. When you see two drops, you should think, \"the next stage of water.\" What is the next stage? Why, that is <radical>ice</radical>.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/ice"
+  "primaryMeaning": "Ice",
+  "otherMeanings": [],
+  "meaningMnemonic": "Remember the radical for drop (of liquid)? Looks like it's shattered into two pieces here, which means it must be <radical>ice</radical> now. You know, since a drop could only break in two after turning into ice.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/ice"
+  }
 }

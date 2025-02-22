@@ -1,0 +1,32 @@
+{
+  "id": 2021,
+  "type": "kanji",
+  "character": "飢",
+  "primaryMeaning": "Starve",
+  "otherMeanings": [],
+  "primaryReading": "き",
+  "readings": [
+    {
+      "reading": "き",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "う",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "After you finish the table, you still feel like you might <kanji>starve</kanji> so you decide to eat every <reading>key</reading> (き) off your key ring. One by one, you eat each and every key so you don’t starve.",
+  "meaningMnemonic": "You’re so hungry that you <radical>eat</radical> a <radical>table</radical> so you won’t <kanji>starve</kanji>. If you don’t eat this table, you will most definitely starve, so you eat the table to stay alive.",
+  "vocabularyIds": [
+    7184,
+    7185,
+    7437
+  ],
+  "radicalIds": [
+    139,
+    177
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%A3%A2"
+}

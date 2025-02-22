@@ -1,12 +1,15 @@
 {
   "id": 87,
   "type": "radical",
-  "primaryMeaning": "Poop",
-  "otherMeanings": [],
-  "character": {
+  "level": 3,
+  "characters": {
     "type": "text",
     "value": "幺"
   },
-  "meaningMnemonic": "There's something sticking out of you while you're in private. It's <radical>poop</radical>! You can't just poop in public, that's illegal and gross in this day and age. So the next time something starts to come out of you when you're in private, think, \"Ah yes, it's poop.\"",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/poop"
+  "primaryMeaning": "Poop",
+  "otherMeanings": [],
+  "meaningMnemonic": "For better or worse, this looks enough like the poop emoji (💩) to make this the <radical>poop</radical> radical. Try to remember it for its distinct outline. If it helps you can also note the private radical on the bottom of this one, since you should probably be in private when you poop…",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/poop"
+  }
 }

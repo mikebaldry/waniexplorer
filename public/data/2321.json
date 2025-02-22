@@ -1,33 +1,41 @@
 {
   "id": 2321,
   "type": "kanji",
-  "character": "搾",
-  "primaryMeaning": "Squeeze",
-  "otherMeanings": [],
+  "level": 56,
+  "characters": {
+    "type": "text",
+    "value": "搾"
+  },
   "primaryReading": "さく",
   "readings": [
     {
-      "reading": "さく",
       "primary": true,
+      "reading": "さく",
       "type": "onyomi"
     },
     {
-      "reading": "しぼ",
       "primary": false,
+      "reading": "しぼ",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "Once you've <kanji>squeeze</kanji>d your finger in the key hole to unlock this door you squeeze all the money and jewels and treasures you can fit into your <reading>sack</reading> (さく). Your stealing sack.",
+  "primaryMeaning": "Squeeze",
+  "otherMeanings": [],
   "meaningMnemonic": "If you want to fit your <radical>fingers</radical> into a <radical>key</radical> <radical>hole</radical>, you have to <kanji>squeeze</kanji> them in. Fingers aren't exactly supposed to fit in key holes... they're for keys, after all. But you want to squeeze your finger on in there anyway to unlock the door.",
-  "vocabularyIds": [
-    8288,
-    8289,
-    8290
-  ],
-  "radicalIds": [
-    63,
-    170,
-    122
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%90%BE"
+  "readingMnemonic": "Once you've <kanji>squeeze</kanji>d your finger in the key hole to unlock this door you squeeze all the money and jewels and treasures you can fit into your <reading>sack</reading> (さく). Your stealing sack.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%90%BE"
+  },
+  "related": {
+    "radicals": [
+      63,
+      170,
+      122
+    ],
+    "vocabularies": [
+      8288,
+      8289,
+      8290
+    ]
+  }
 }

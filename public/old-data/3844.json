@@ -1,0 +1,46 @@
+{
+  "id": 3844,
+  "type": "vocabulary",
+  "characters": "残品",
+  "primaryMeaning": "Unsold Merchandise",
+  "otherMeanings": [
+    "Remaining Stock"
+  ],
+  "primaryReading": "ざんぴん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 912,
+      "character": "残",
+      "readings": [
+        "ざん",
+        "のこ"
+      ]
+    },
+    {
+      "id": 967,
+      "character": "品",
+      "readings": [
+        "ひん",
+        "しな"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>remainder</kanji> <kanji>product</kanji>s are the things that haven't been sold. They're the <vocabulary>unsold merchandise</vocabulary>. They're the <vocabulary>remaining stock</vocabulary>.\n\nThis is a very specific word that is mainly used in the context of inventory management or retail sales.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Note that ひん changes to ぴん.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%AE%8B%E5%93%81",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "残",
+      "id": 912,
+      "reading": "ざん"
+    },
+    {
+      "type": "kanji",
+      "value": "品",
+      "id": 967,
+      "reading": "ぴん"
+    }
+  ]
+}

@@ -1,29 +1,18 @@
 {
   "id": 5901,
   "type": "vocabulary",
-  "characters": "杉",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "杉"
+  },
   "primaryMeaning": "Cedar",
-  "otherMeanings": [],
-  "primaryReading": "すぎ",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1596,
-      "character": "杉",
-      "readings": [
-        "すぎ"
-      ]
-    }
-  ],
   "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "すぎ",
   "readingMnemonic": "The reading is the same as the one you learned with the kanji. This will be particularly useful for names, as there's a lot of names with 杉.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9D%89",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "杉",
-      "id": 1596,
-      "reading": "すぎ"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%9D%89"
+  }
 }

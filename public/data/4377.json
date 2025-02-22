@@ -1,37 +1,20 @@
 {
   "id": 4377,
   "type": "vocabulary",
-  "characters": "表す",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "表す"
+  },
   "primaryMeaning": "To Express Something",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>express</kanji> and the verb vocab version is transitive, meaning that it's done to something. So this verb means <vocabulary>to express something</vocabulary> or <vocabulary>to show something</vocabulary>.",
+  "primaryReading": "あらわす",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you:\n\nYou're trying not to say it directly, but trying to figure out how <vocabulary>to express something</vocabulary>. That something is that you <reading>are a wuss</reading> (あらわす). Sorry, had to be expressed.",
   "otherMeanings": [
     "To Show Something"
   ],
-  "primaryReading": "あらわす",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 720,
-      "character": "表",
-      "readings": [
-        "ひょう",
-        "あらわ",
-        "おもて"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>express</kanji> and the verb vocab version is transitive, meaning that it's done to something. So this verb means <vocabulary>to express something</vocabulary> or <vocabulary>to show something</vocabulary>.",
-  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you:\n\nYou're trying not to say it directly, but trying to figure out how <vocabulary>to express something</vocabulary>. That something is that you <reading>are a wuss</reading> (あらわす). Sorry, had to be expressed.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A1%A8%E3%81%99",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "表",
-      "id": 720,
-      "reading": "あらわ"
-    },
-    {
-      "type": "kana",
-      "value": "す"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%A1%A8%E3%81%99"
+  }
 }

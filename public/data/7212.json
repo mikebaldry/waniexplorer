@@ -1,59 +1,18 @@
 {
   "id": 7212,
   "type": "vocabulary",
-  "characters": "耐久性",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "耐久性"
+  },
   "primaryMeaning": "Durability",
-  "otherMeanings": [],
-  "primaryReading": "たいきゅうせい",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2031,
-      "character": "耐",
-      "readings": [
-        "たい",
-        "た"
-      ]
-    },
-    {
-      "id": 496,
-      "character": "久",
-      "readings": [
-        "きゅう",
-        "く",
-        "ひさ"
-      ]
-    },
-    {
-      "id": 918,
-      "character": "性",
-      "readings": [
-        "せい",
-        "しょう"
-      ]
-    }
-  ],
   "meaningMnemonic": "I have the <kanji>nature</kanji> of being <kanji>resistant</kanji> for a <kanji>long time</kanji>. Things that are resistant for a long time have good <vocabulary>durability</vocabulary>.",
+  "primaryReading": "たいきゅうせい",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%80%90%E4%B9%85%E6%80%A7",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "耐",
-      "id": 2031,
-      "reading": "たい"
-    },
-    {
-      "type": "kanji",
-      "value": "久",
-      "id": 496,
-      "reading": "きゅう"
-    },
-    {
-      "type": "kanji",
-      "value": "性",
-      "id": 918,
-      "reading": "せい"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%80%90%E4%B9%85%E6%80%A7"
+  }
 }

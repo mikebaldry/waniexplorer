@@ -1,0 +1,33 @@
+{
+  "id": 4471,
+  "type": "vocabulary",
+  "characters": "際",
+  "primaryMeaning": "Side",
+  "otherMeanings": [
+    "Edge",
+    "Brink"
+  ],
+  "primaryReading": "きわ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1151,
+      "character": "際",
+      "readings": [
+        "さい",
+        "きわ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Even though the kanji mainly means <kanji> occasion</kanji>, for some reason this word means <vocabulary>side</vocabulary> or <vocabulary>edge</vocabulary>. I suppose on <kanji>occasion</kanji> kanji takes you to the <vocabulary>edge</vocabulary> of what ought to make sense when it comes to kanji.",
+  "readingMnemonic": "You're on the very <vocabulary>edge</vocabulary> of the world. You heard that at the edge of the world are the <reading>key wo</reading>rds (きわ) written there in big fiery letters, telling you the meaning of life. Supposedly these are the words of God himself. They say: \"We apologize for the inconvenience.\" WHAT? THESE ARE THE <reading>KEY WO</reading>RDS???\n\nNote that when 際 is used in this word to mean \"edge,\" it's often written as きわ or キワ to avoid confusion with other 際 words that use different readings.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9A%9B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "際",
+      "id": 1151,
+      "reading": "きわ"
+    }
+  ]
+}

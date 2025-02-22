@@ -1,0 +1,49 @@
+{
+  "id": 5764,
+  "type": "vocabulary",
+  "characters": "縮小",
+  "primaryMeaning": "Reduction",
+  "otherMeanings": [
+    "Cut"
+  ],
+  "primaryReading": "しゅくしょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1554,
+      "character": "縮",
+      "readings": [
+        "しゅく",
+        "ちぢ",
+        "ちじ"
+      ]
+    },
+    {
+      "id": 463,
+      "character": "小",
+      "readings": [
+        "しょう",
+        "ちい",
+        "こ",
+        "お"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Shrink</kanji> what you have into something <kanji>small</kanji>. It was big, now it's small. This is a <vocabulary>reduction</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B8%AE%E5%B0%8F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "縮",
+      "id": 1554,
+      "reading": "しゅく"
+    },
+    {
+      "type": "kanji",
+      "value": "小",
+      "id": 463,
+      "reading": "しょう"
+    }
+  ]
+}

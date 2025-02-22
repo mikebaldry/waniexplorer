@@ -1,0 +1,47 @@
+{
+  "id": 6770,
+  "type": "vocabulary",
+  "characters": "荒波",
+  "primaryMeaning": "Stormy Seas",
+  "otherMeanings": [
+    "Raging Waves"
+  ],
+  "primaryReading": "あらなみ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1835,
+      "character": "荒",
+      "readings": [
+        "あ",
+        "あら",
+        "こう"
+      ]
+    },
+    {
+      "id": 793,
+      "character": "波",
+      "readings": [
+        "は",
+        "なみ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>wild</kanji> <kanji>wave</kanji> will make for some <vocabulary>stormy seas</vocabulary> or <vocabulary>raging waves</vocabulary>. Don't go out in these kinds of waves.",
+  "readingMnemonic": "The readings come from the kun'yomi readings of the kanji, 荒 (the secondary reading you learned with this kanji) and 波 (just the vocab version).",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%8D%92%E6%B3%A2",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "荒",
+      "id": 1835,
+      "reading": "あら"
+    },
+    {
+      "type": "kanji",
+      "value": "波",
+      "id": 793,
+      "reading": "なみ"
+    }
+  ]
+}

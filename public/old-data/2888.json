@@ -1,0 +1,49 @@
+{
+  "id": 2888,
+  "type": "vocabulary",
+  "characters": "米国",
+  "primaryMeaning": "United States Of America",
+  "otherMeanings": [
+    "United States",
+    "America",
+    "USA"
+  ],
+  "primaryReading": "べいこく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 574,
+      "character": "米",
+      "readings": [
+        "べい",
+        "まい",
+        "こめ"
+      ]
+    },
+    {
+      "id": 621,
+      "character": "国",
+      "readings": [
+        "こく",
+        "くに"
+      ]
+    }
+  ],
+  "meaningMnemonic": "America is the <kanji>country</kanji> of <kanji>rice</kanji>. I guess this is from all those rolling plains and such we have. Another way to say America in Japanese is アメリカ, but this is another more formal (and older) way. \"Rice Country\" aka <vocabulary>United States Of America</vocabulary>, <vocabulary>United States</vocabulary>, <vocabulary>America</vocabulary>, or <vocabulary>USA</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B1%B3%E5%9B%BD",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "米",
+      "id": 574,
+      "reading": "べい"
+    },
+    {
+      "type": "kanji",
+      "value": "国",
+      "id": 621,
+      "reading": "こく"
+    }
+  ]
+}

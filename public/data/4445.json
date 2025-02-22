@@ -1,8 +1,15 @@
 {
   "id": 4445,
   "type": "vocabulary",
-  "characters": "評価",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "評価"
+  },
   "primaryMeaning": "Evaluation",
+  "meaningMnemonic": "Let's <kanji>evaluate</kanji> the <kanji>value</kanji>. What is this also known as? An <vocabulary>evaluation</vocabulary>.",
+  "primaryReading": "ひょうか",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Appraisal",
     "Verdict",
@@ -10,40 +17,8 @@
     "Assessment",
     "Rating"
   ],
-  "primaryReading": "ひょうか",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1140,
-      "character": "評",
-      "readings": [
-        "ひょう"
-      ]
-    },
-    {
-      "id": 1166,
-      "character": "価",
-      "readings": [
-        "か",
-        "あたい"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Let's <kanji>evaluate</kanji> the <kanji>value</kanji>. What is this also known as? An <vocabulary>evaluation</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A9%95%E4%BE%A1",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "評",
-      "id": 1140,
-      "reading": "ひょう"
-    },
-    {
-      "type": "kanji",
-      "value": "価",
-      "id": 1166,
-      "reading": "か"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%A9%95%E4%BE%A1"
+  }
 }

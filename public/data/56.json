@@ -1,12 +1,15 @@
 {
   "id": 56,
   "type": "radical",
-  "primaryMeaning": "Lion",
-  "otherMeanings": [],
-  "character": {
+  "level": 6,
+  "characters": {
     "type": "text",
     "value": "L"
   },
+  "primaryMeaning": "Lion",
+  "otherMeanings": [],
   "meaningMnemonic": "This L-shaped radical is the <radical>lion</radical> radical, because \"L is for Lion.\" It also looks like a lion's mouth being opened really, really wide. Imagine a lion opening its mouth to yawn. It looks like this radical!",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/lion"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/lion"
+  }
 }

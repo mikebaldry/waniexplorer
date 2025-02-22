@@ -1,33 +1,20 @@
 {
   "id": 7178,
   "type": "vocabulary",
-  "characters": "闇",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "闇"
+  },
   "primaryMeaning": "Darkness",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "やみ",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
   "otherMeanings": [
     "The Dark"
   ],
-  "primaryReading": "やみ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2018,
-      "character": "闇",
-      "readings": [
-        "やみ",
-        "あん",
-        "おん"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
-  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%97%87",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "闇",
-      "id": 2018,
-      "reading": "やみ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%97%87"
+  }
 }

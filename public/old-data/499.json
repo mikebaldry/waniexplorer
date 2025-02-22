@@ -1,0 +1,37 @@
+{
+  "id": 499,
+  "type": "kanji",
+  "character": "公",
+  "primaryMeaning": "Public",
+  "otherMeanings": [],
+  "primaryReading": "こう",
+  "readings": [
+    {
+      "reading": "こう",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "You head out into the <kanji>public</kanji> where everyone can see your fins, but... things have changed. All people are the same. There are thousands of <reading>こう</reading>いちs walking around, and they all stare at you (though they pretend like they aren't).",
+  "meaningMnemonic": "You have <radical>fins</radical> in <radical>private</radical>. But, you want the world to see them, so you take them <kanji>public</kanji>.",
+  "vocabularyIds": [
+    2642,
+    2832,
+    3186,
+    3248,
+    3824,
+    4085,
+    4288,
+    4427,
+    4528,
+    4535,
+    5176,
+    7842,
+    8193
+  ],
+  "radicalIds": [
+    2,
+    140
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%85%AC"
+}

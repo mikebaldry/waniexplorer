@@ -1,0 +1,32 @@
+{
+  "id": 658,
+  "type": "kanji",
+  "character": "校",
+  "primaryMeaning": "School",
+  "otherMeanings": [],
+  "primaryReading": "こう",
+  "readings": [
+    {
+      "reading": "こう",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Your new <kanji>school</kanji> has other students too. They are all <reading>こう</reading>いちs, though.",
+  "meaningMnemonic": "Next to the <radical>tree</radical>, a <radical>lid</radical> is put on your <radical>father</radical>. \"Hello child,\" he says. \"This is your new <kanji>school</kanji>.\" ",
+  "vocabularyIds": [
+    2950,
+    2951,
+    3469,
+    3473,
+    3474,
+    8428,
+    8711
+  ],
+  "radicalIds": [
+    23,
+    8,
+    68
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%A0%A1"
+}

@@ -1,32 +1,40 @@
 {
   "id": 2456,
   "type": "kanji",
-  "character": "罷",
+  "level": 60,
+  "characters": {
+    "type": "text",
+    "value": "罷"
+  },
+  "primaryReading": "ひ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ひ",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "や",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Quit",
   "otherMeanings": [
     "Leave"
   ],
-  "primaryReading": "ひ",
-  "readings": [
-    {
-      "reading": "ひ",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "や",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "You don't know if you want to <kanji>quit</kanji> this charade until you feel an uncomfortable <reading>hea</reading>t (ひ). You look down and the net you're in is being hung above a large fire.",
   "meaningMnemonic": "You're in a <radical>net</radical> but you have the <radical>ability</radical> to quit playing along and <kanji>leave</kanji> at any time. ",
-  "vocabularyIds": [
-    8644
-  ],
-  "radicalIds": [
-    163,
-    287
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%BD%B7"
+  "readingMnemonic": "You don't know if you want to <kanji>quit</kanji> this charade until you feel an uncomfortable <reading>hea</reading>t (ひ). You look down and the net you're in is being hung above a large fire.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%BD%B7"
+  },
+  "related": {
+    "radicals": [
+      163,
+      287
+    ],
+    "vocabularies": [
+      8644
+    ]
+  }
 }

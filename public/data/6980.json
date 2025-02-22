@@ -1,50 +1,20 @@
 {
   "id": 6980,
   "type": "vocabulary",
-  "characters": "寮生",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "寮生"
+  },
   "primaryMeaning": "Boarding Student",
+  "meaningMnemonic": "A <kanji>dormitory</kanji> <kanji>student</kanji> (comes from 学生) is a <vocabulary>boarding student</vocabulary> or a <vocabulary>boarder</vocabulary>. This is a student who lives in a dormitory.",
+  "primaryReading": "りょうせい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Boarder"
   ],
-  "primaryReading": "りょうせい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1946,
-      "character": "寮",
-      "readings": [
-        "りょう"
-      ]
-    },
-    {
-      "id": 850,
-      "character": "生",
-      "readings": [
-        "せい",
-        "しょう",
-        "い",
-        "なま",
-        "う",
-        "は",
-        "き"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>dormitory</kanji> <kanji>student</kanji> (comes from 学生) is a <vocabulary>boarding student</vocabulary> or a <vocabulary>boarder</vocabulary>. This is a student who lives in a dormitory.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AF%AE%E7%94%9F",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "寮",
-      "id": 1946,
-      "reading": "りょう"
-    },
-    {
-      "type": "kanji",
-      "value": "生",
-      "id": 850,
-      "reading": "せい"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%AF%AE%E7%94%9F"
+  }
 }

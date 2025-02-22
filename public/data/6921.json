@@ -1,44 +1,18 @@
 {
   "id": 6921,
   "type": "vocabulary",
-  "characters": "湿地",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "湿地"
+  },
   "primaryMeaning": "Wetlands",
-  "otherMeanings": [],
-  "primaryReading": "しっち",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1933,
-      "character": "湿",
-      "readings": [
-        "しつ",
-        "しめ"
-      ]
-    },
-    {
-      "id": 608,
-      "character": "地",
-      "readings": [
-        "ち",
-        "じ"
-      ]
-    }
-  ],
   "meaningMnemonic": "The <kanji>damp</kanji> <kanji>earth</kanji> is where water seems to congregate, but not so much that there's a lake or ocean or anything like that. Just damp. This is a <vocabulary>wetlands</vocabulary>.",
+  "primaryReading": "しっち",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B9%BF%E5%9C%B0",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "湿",
-      "id": 1933,
-      "reading": "しっ"
-    },
-    {
-      "type": "kanji",
-      "value": "地",
-      "id": 608,
-      "reading": "ち"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B9%BF%E5%9C%B0"
+  }
 }

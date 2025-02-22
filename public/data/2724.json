@@ -1,36 +1,20 @@
 {
   "id": 2724,
   "type": "vocabulary",
-  "characters": "写る",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "写る"
+  },
   "primaryMeaning": "To Be Photographed",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>copy</kanji>, but what is a copy? It is basically a photograph, which is why this word means <vocabulary>to be photographed</vocabulary>, or <vocabulary>to be in a photograph</vocabulary>. You know this one is \"to be photographed\" because it ends with a る. Someone thinks you're \"<reading>ru</reading>de\" so they're photographing you.",
+  "primaryReading": "うつる",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nYou have to remember the うつ part. You're being rude, right? That's why you got photographed. Why are you rude? You're doing beatboxing, constantly saying <reading>うつ</reading>うつうつ over and over again. Say it out loud, too.",
   "otherMeanings": [
     "To Be In A Photograph"
   ],
-  "primaryReading": "うつる",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 531,
-      "character": "写",
-      "readings": [
-        "しゃ",
-        "うつ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>copy</kanji>, but what is a copy? It is basically a photograph, which is why this word means <vocabulary>to be photographed</vocabulary>, or <vocabulary>to be in a photograph</vocabulary>. You know this one is \"to be photographed\" because it ends with a る. Someone thinks you're \"<reading>ru</reading>de\" so they're photographing you.",
-  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nYou have to remember the うつ part. You're being rude, right? That's why you got photographed. Why are you rude? You're doing beatboxing, constantly saying <reading>うつ</reading>うつうつ over and over again. Say it out loud, too.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%86%99%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "写",
-      "id": 531,
-      "reading": "うつ"
-    },
-    {
-      "type": "kana",
-      "value": "る"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%86%99%E3%82%8B"
+  }
 }

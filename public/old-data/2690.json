@@ -1,0 +1,32 @@
+{
+  "id": 2690,
+  "type": "vocabulary",
+  "characters": "村",
+  "primaryMeaning": "Village",
+  "otherMeanings": [
+    "Rural Town"
+  ],
+  "primaryReading": "むら",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 554,
+      "character": "村",
+      "readings": [
+        "むら",
+        "そん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "Since this word is made up of a single kanji, it should use the kun'yomi reading. This is the reading you learned already with the kanji. Huzzah!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9D%91",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "村",
+      "id": 554,
+      "reading": "むら"
+    }
+  ]
+}

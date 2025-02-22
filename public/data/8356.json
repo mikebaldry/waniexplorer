@@ -1,50 +1,21 @@
 {
   "id": 8356,
   "type": "vocabulary",
-  "characters": "峡谷",
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "峡谷"
+  },
   "primaryMeaning": "Ravine",
+  "meaningMnemonic": "A <kanji>ravine</kanji> in a <kanji>valley</kanji> is still a <vocabulary>ravine</vocabulary>. It can also be a <vocabulary>gorge</vocabulary> or a <vocabulary>canyon</vocabulary>. They're usually really big. Like the Grand Canyon!",
+  "primaryReading": "きょうこく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You haven't learned this reading for 谷 yet, so here's a mnemonic to help you:\n\nIf you're going to travel through a huge <vocabulary>ravine</vocabulary> you have to stay hydrated. The best thing to bring is some taste, cold <reading>Coke</reading> (こく). Nothing quenches your thirst from sweating through a long, rough ravine like delicious Coke!",
   "otherMeanings": [
     "Gorge",
     "Canyon"
   ],
-  "primaryReading": "きょうこく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2340,
-      "character": "峡",
-      "readings": [
-        "きょう",
-        "こう",
-        "はざま"
-      ]
-    },
-    {
-      "id": 594,
-      "character": "谷",
-      "readings": [
-        "たに",
-        "や",
-        "こく",
-        "せ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>ravine</kanji> in a <kanji>valley</kanji> is still a <vocabulary>ravine</vocabulary>. It can also be a <vocabulary>gorge</vocabulary> or a <vocabulary>canyon</vocabulary>. They're usually really big. Like the Grand Canyon!",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You haven't learned this reading for 谷 yet, so here's a mnemonic to help you:\n\nIf you're going to travel through a huge <vocabulary>ravine</vocabulary> you have to stay hydrated. The best thing to bring is some taste, cold <reading>Coke</reading> (こく). Nothing quenches your thirst from sweating through a long, rough ravine like delicious Coke!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B3%A1%E8%B0%B7",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "峡",
-      "id": 2340,
-      "reading": "きょう"
-    },
-    {
-      "type": "kanji",
-      "value": "谷",
-      "id": 594,
-      "reading": "こく"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%B3%A1%E8%B0%B7"
+  }
 }

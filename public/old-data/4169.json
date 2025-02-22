@@ -1,0 +1,48 @@
+{
+  "id": 4169,
+  "type": "vocabulary",
+  "characters": "乱交",
+  "primaryMeaning": "Orgy",
+  "otherMeanings": [
+    "Promiscuity"
+  ],
+  "primaryReading": "らんこう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1079,
+      "character": "乱",
+      "readings": [
+        "らん",
+        "みだ"
+      ]
+    },
+    {
+      "id": 565,
+      "character": "交",
+      "readings": [
+        "こう",
+        "まじ",
+        "ま",
+        "か"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A big <kanji>mix</kanji> of folks forming a kind of <kanji>riot</kanji>. You'd think this would be something more violent, but it's really just an <vocabulary>orgy</vocabulary>. Lots of mixing, I guess, and not very much organization on the orgy-organizer's part, at least according to this kanji sequence.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B9%B1%E4%BA%A4-4169",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "乱",
+      "id": 1079,
+      "reading": "らん"
+    },
+    {
+      "type": "kanji",
+      "value": "交",
+      "id": 565,
+      "reading": "こう"
+    }
+  ]
+}

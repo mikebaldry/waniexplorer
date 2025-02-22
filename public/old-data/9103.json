@@ -1,0 +1,60 @@
+{
+  "id": 9103,
+  "type": "vocabulary",
+  "characters": "諒一郎",
+  "primaryMeaning": "Ryoichiro",
+  "otherMeanings": [],
+  "primaryReading": "りょういちろう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2223,
+      "character": "諒",
+      "readings": [
+        "りょう",
+        "あきら",
+        "まことに"
+      ]
+    },
+    {
+      "id": 440,
+      "character": "一",
+      "readings": [
+        "いち",
+        "いつ",
+        "ひと",
+        "かず"
+      ]
+    },
+    {
+      "id": 1344,
+      "character": "郎",
+      "readings": [
+        "ろう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you only <kanji>comprehend</kanji> <kanji>one</kanji> <kanji>guy</kanji>, make that guy <vocabulary>Ryoichiro</vocabulary>.\n\nThe name 諒一郎 isn't very common, but it's worth learning because the kanji 諒 is used in lots of names, and both 諒 and 一郎 are names in their own right. So by learning this name, you should be able to read a whole lot of other names, too.",
+  "readingMnemonic": "You learned all the readings in this name with the kanji. What could be easier to comprehend?",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%AB%92%E4%B8%80%E9%83%8E",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "諒",
+      "id": 2223,
+      "reading": "りょう"
+    },
+    {
+      "type": "kanji",
+      "value": "一",
+      "id": 440,
+      "reading": "いち"
+    },
+    {
+      "type": "kanji",
+      "value": "郎",
+      "id": 1344,
+      "reading": "ろう"
+    }
+  ]
+}

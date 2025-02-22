@@ -1,0 +1,47 @@
+{
+  "id": 4531,
+  "type": "vocabulary",
+  "characters": "官営",
+  "primaryMeaning": "Government Management",
+  "otherMeanings": [
+    "Government Operation",
+    "Run By The Government",
+    "Government Run"
+  ],
+  "primaryReading": "かんえい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1018,
+      "character": "官",
+      "readings": [
+        "かん"
+      ]
+    },
+    {
+      "id": 1168,
+      "character": "営",
+      "readings": [
+        "えい",
+        "いとな"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Manage</kanji>d by the <kanji>government</kanji>? Then it is run by <vocabulary>government management</vocabulary> or it is a  <vocabulary>government operation</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AE%98%E5%96%B6",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "官",
+      "id": 1018,
+      "reading": "かん"
+    },
+    {
+      "type": "kanji",
+      "value": "営",
+      "id": 1168,
+      "reading": "えい"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 5737,
+  "type": "vocabulary",
+  "characters": "言い訳",
+  "primaryMeaning": "Excuse",
+  "otherMeanings": [
+    "Explanation"
+  ],
+  "primaryReading": "いいわけ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 593,
+      "character": "言",
+      "readings": [
+        "げん",
+        "ごん",
+        "い",
+        "こと"
+      ]
+    },
+    {
+      "id": 1511,
+      "character": "訳",
+      "readings": [
+        "やく",
+        "わけ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You <kanji>say</kanji> a <kanji>reason</kanji> for your actions, but really it's just an <vocabulary>excuse</vocabulary>.",
+  "readingMnemonic": "The reading is 言う and 訳 combined.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A8%80%E3%81%84%E8%A8%B3",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "言",
+      "id": 593,
+      "reading": "い"
+    },
+    {
+      "type": "kana",
+      "value": "い"
+    },
+    {
+      "type": "kanji",
+      "value": "訳",
+      "id": 1511,
+      "reading": "わけ"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 3841,
+  "type": "vocabulary",
+  "characters": "急行",
+  "primaryMeaning": "Express",
+  "otherMeanings": [],
+  "primaryReading": "きゅうこう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 970,
+      "character": "急",
+      "readings": [
+        "きゅう",
+        "いそ"
+      ]
+    },
+    {
+      "id": 580,
+      "character": "行",
+      "readings": [
+        "こう",
+        "ぎょう",
+        "い",
+        "おこな",
+        "ゆ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Things that <kanji>hurry</kanji> and <kanji>go</kanji> faster than the other things are <vocabulary>express</vocabulary>. This is often used with trains or subways, so look out for it if you're looking to get somewhere in a hurry. Also be careful in case it doesn't stop at your stop, because 急行 trains don't stop at every station (which is what makes them express!).",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%80%A5%E8%A1%8C",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "急",
+      "id": 970,
+      "reading": "きゅう"
+    },
+    {
+      "type": "kanji",
+      "value": "行",
+      "id": 580,
+      "reading": "こう"
+    }
+  ]
+}

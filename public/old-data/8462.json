@@ -1,0 +1,49 @@
+{
+  "id": 8462,
+  "type": "vocabulary",
+  "characters": "戯曲",
+  "primaryMeaning": "Drama",
+  "otherMeanings": [
+    "Play"
+  ],
+  "primaryReading": "ぎきょく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2370,
+      "character": "戯",
+      "readings": [
+        "ぎ",
+        "げ",
+        "ざ",
+        "じゃ",
+        "たわむ"
+      ]
+    },
+    {
+      "id": 614,
+      "character": "曲",
+      "readings": [
+        "きょく",
+        "ま"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>play</kanji> that uses lots of intense, emotional <kanji>music</kanji> is a <vocabulary>drama</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%88%AF%E6%9B%B2",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "戯",
+      "id": 2370,
+      "reading": "ぎ"
+    },
+    {
+      "type": "kanji",
+      "value": "曲",
+      "id": 614,
+      "reading": "きょく"
+    }
+  ]
+}

@@ -1,61 +1,21 @@
 {
   "id": 8855,
   "type": "vocabulary",
-  "characters": "飴細工",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "飴細工"
+  },
   "primaryMeaning": "Sugar Sculpture",
+  "meaningMnemonic": "<kanji>Candy</kanji> made into a <kanji>thin</kanji> <kanji>construction</kanji> is a <vocabulary>sugar sculpture</vocabulary> or a <vocabulary>candy sculpture</vocabulary>. It's usually a <vocabulary>sugar animal</vocabulary>, but it can be anything, really.",
+  "primaryReading": "あめざいく",
+  "readingMnemonic": "This word uses the kun'yomi reading for the first kanji and the on'yomi readings for the second two. You haven't learned this reading for 工 yet, so here's a mnemonic to help you:\n\nYou want your <vocabulary>sugar sculptures</vocabulary> to be made into <reading>coo</reading>kies (く)! Cookies are your other favorite snack, so having a cookie that's really just entirely made of sugar is the absolute best.\n\nAlso, watch out for the rendaku on 細, it's easy to miss if you're focusing on remembering this new on'yomi reading.",
   "otherMeanings": [
     "Candy Sculpture",
     "Sugar Animal"
   ],
-  "primaryReading": "あめざいく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 8840,
-      "character": "飴",
-      "readings": [
-        "あめ"
-      ]
-    },
-    {
-      "id": 996,
-      "character": "細",
-      "readings": [
-        "さい",
-        "ほそ",
-        "こま"
-      ]
-    },
-    {
-      "id": 457,
-      "character": "工",
-      "readings": [
-        "こう",
-        "く"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Candy</kanji> made into a <kanji>thin</kanji> <kanji>construction</kanji> is a <vocabulary>sugar sculpture</vocabulary> or a <vocabulary>candy sculpture</vocabulary>. It's usually a <vocabulary>sugar animal</vocabulary>, but it can be anything, really.",
-  "readingMnemonic": "This word uses the kun'yomi reading for the first kanji and the on'yomi readings for the second two. You haven't learned this reading for 工 yet, so here's a mnemonic to help you:\n\nYou want your <vocabulary>sugar sculptures</vocabulary> to be made into <reading>coo</reading>kies (く)! Cookies are your other favorite snack, so having a cookie that's really just entirely made of sugar is the absolute best.\n\nAlso, watch out for the rendaku on 細, it's easy to miss if you're focusing on remembering this new on'yomi reading.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%A3%B4%E7%B4%B0%E5%B7%A5",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "飴",
-      "id": 8840,
-      "reading": "あめ"
-    },
-    {
-      "type": "kanji",
-      "value": "細",
-      "id": 996,
-      "reading": "ざい"
-    },
-    {
-      "type": "kanji",
-      "value": "工",
-      "id": 457,
-      "reading": "く"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%A3%B4%E7%B4%B0%E5%B7%A5"
+  }
 }

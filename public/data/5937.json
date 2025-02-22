@@ -1,37 +1,20 @@
 {
   "id": 5937,
   "type": "vocabulary",
-  "characters": "降りる",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "降りる"
+  },
   "primaryMeaning": "To Get Off",
+  "meaningMnemonic": "The kanji is <kanji>descend</kanji>, but this verb vocab word is <vocabulary>to get off</vocabulary>, as in, to get off the train, or to get out of the car. If you think about trains back in the day, you had to descend down to the platform to get out of them, which is how this word became what it is. You know that this word is the \"to get off\" word because once you get off the train, you enter the <reading>real</reading> (りる) world, where hardships are real and not as comfy as the train.\n\nFiguratively, this word also means <vocabulary>to step down</vocabulary>, as in \"to give up\" or \"to resign” from something. For example, you can say ニュース番組を降りる (to step down from a news program) or ゲームを降りる (to drop out of a game).",
+  "primaryReading": "おりる",
+  "readingMnemonic": "The reading is unlike anything you've seen with this kanji. Just think about how you have <vocabulary>to get off</vocabulary> at <reading>O</reading>-station. None of the other letters are your stop. Just <reading>O</reading>-Station (お).",
   "otherMeanings": [
     "To Step Down"
   ],
-  "primaryReading": "おりる",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1548,
-      "character": "降",
-      "readings": [
-        "こう",
-        "お",
-        "ふ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The kanji is <kanji>descend</kanji>, but this verb vocab word is <vocabulary>to get off</vocabulary>, as in, to get off the train, or to get out of the car. If you think about trains back in the day, you had to descend down to the platform to get out of them, which is how this word became what it is. You know that this word is the \"to get off\" word because once you get off the train, you enter the <reading>real</reading> (りる) world, where hardships are real and not as comfy as the train.\n\nFiguratively, this word also means <vocabulary>to step down</vocabulary>, as in \"to give up\" or \"to resign” from something. For example, you can say ニュース番組を降りる (to step down from a news program) or ゲームを降りる (to drop out of a game).",
-  "readingMnemonic": "The reading is unlike anything you've seen with this kanji. Just think about how you have <vocabulary>to get off</vocabulary> at <reading>O</reading>-station. None of the other letters are your stop. Just <reading>O</reading>-Station (お).",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%99%8D%E3%82%8A%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "降",
-      "id": 1548,
-      "reading": "お"
-    },
-    {
-      "type": "kana",
-      "value": "りる"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%99%8D%E3%82%8A%E3%82%8B"
+  }
 }

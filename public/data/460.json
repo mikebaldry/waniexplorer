@@ -1,35 +1,43 @@
 {
   "id": 460,
   "type": "kanji",
-  "character": "千",
-  "primaryMeaning": "Thousand",
-  "otherMeanings": [],
+  "level": 2,
+  "characters": {
+    "type": "text",
+    "value": "千"
+  },
   "primaryReading": "せん",
   "readings": [
     {
-      "reading": "せん",
       "primary": true,
+      "reading": "せん",
       "type": "onyomi"
     },
     {
-      "reading": "ち",
       "primary": false,
+      "reading": "ち",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "Remember the thousand crosses you got stuck under while learning the radical 千? You're still under it. Then, suddenly, someone pops his head over you and says \"Hey, I'll save you... but only for a <kanji>thousand</kanji> <reading>cents</reading> (せん). Go ahead and try to calculate what that would come out to. It's not that expensive, actually.",
+  "primaryMeaning": "Thousand",
+  "otherMeanings": [],
   "meaningMnemonic": "This kanji looks like and means the same thing as the radical, which makes it particularly easy to remember.",
-  "vocabularyIds": [
-    2509,
-    2510,
-    2533,
-    2565,
-    2780,
-    2933,
-    7534
-  ],
-  "radicalIds": [
-    32
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%8D%83"
+  "readingMnemonic": "Remember the thousand people going down the slide on a cross in the radical 千? Turns out each one of them was carrying a <kanji>thousand</kanji> <reading>cen</reading>ts (せん). Go ahead and try to calculate what a thousand times a thousand cents would come out to. It's quite a lot, actually.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%8D%83"
+  },
+  "related": {
+    "radicals": [
+      32
+    ],
+    "vocabularies": [
+      2509,
+      2510,
+      2533,
+      2565,
+      2780,
+      2933,
+      7534
+    ]
+  }
 }

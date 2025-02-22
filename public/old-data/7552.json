@@ -1,0 +1,44 @@
+{
+  "id": 7552,
+  "type": "vocabulary",
+  "characters": "多忙",
+  "primaryMeaning": "Busy",
+  "otherMeanings": [],
+  "primaryReading": "たぼう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 570,
+      "character": "多",
+      "readings": [
+        "た",
+        "おお"
+      ]
+    },
+    {
+      "id": 1074,
+      "character": "忙",
+      "readings": [
+        "ぼう",
+        "いそが"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you've had <kanji>many</kanji> <kanji>busy</kanji> days, then you're even more <vocabulary>busy</vocabulary> than you thought!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A4%9A%E5%BF%99",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "多",
+      "id": 570,
+      "reading": "た"
+    },
+    {
+      "type": "kanji",
+      "value": "忙",
+      "id": 1074,
+      "reading": "ぼう"
+    }
+  ]
+}

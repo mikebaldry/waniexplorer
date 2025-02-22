@@ -1,46 +1,20 @@
 {
   "id": 3175,
   "type": "vocabulary",
-  "characters": "転送",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "転送"
+  },
   "primaryMeaning": "Transfer",
+  "meaningMnemonic": "You <kanji>revolve</kanji> something, making it roll, and then <kanji>send</kanji> it off somewhere. This means you’re <vocabulary>transfer</vocabulary>ring or forwarding it to someone else.\n\n転送 is often used in the context of logistics or communication systems, like transferring packages or forwarding e-mails.",
+  "primaryReading": "てんそう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Forwarding"
   ],
-  "primaryReading": "てんそう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 747,
-      "character": "転",
-      "readings": [
-        "てん",
-        "ころ"
-      ]
-    },
-    {
-      "id": 734,
-      "character": "送",
-      "readings": [
-        "そう",
-        "おく"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You <kanji>revolve</kanji> something, making it roll, and then <kanji>send</kanji> it off somewhere. This means you’re <vocabulary>transfer</vocabulary>ring or forwarding it to someone else.\n\n転送 is often used in the context of logistics or communication systems, like transferring packages or forwarding e-mails.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%BB%A2%E9%80%81",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "転",
-      "id": 747,
-      "reading": "てん"
-    },
-    {
-      "type": "kanji",
-      "value": "送",
-      "id": 734,
-      "reading": "そう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%BB%A2%E9%80%81"
+  }
 }

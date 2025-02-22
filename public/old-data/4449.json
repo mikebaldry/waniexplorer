@@ -1,0 +1,46 @@
+{
+  "id": 4449,
+  "type": "vocabulary",
+  "characters": "任意",
+  "primaryMeaning": "Optional",
+  "otherMeanings": [
+    "Voluntary",
+    "Arbitrary"
+  ],
+  "primaryReading": "にんい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1142,
+      "character": "任",
+      "readings": [
+        "にん",
+        "まか"
+      ]
+    },
+    {
+      "id": 811,
+      "character": "意",
+      "readings": [
+        "い"
+      ]
+    }
+  ],
+  "meaningMnemonic": "My <kanji>idea</kanji> of <kanji>duty</kanji> is that you don't really have to do it. It's <vocabulary>optional</vocabulary>, you know?",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BB%BB%E6%84%8F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "任",
+      "id": 1142,
+      "reading": "にん"
+    },
+    {
+      "type": "kanji",
+      "value": "意",
+      "id": 811,
+      "reading": "い"
+    }
+  ]
+}

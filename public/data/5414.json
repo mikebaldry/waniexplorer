@@ -1,36 +1,20 @@
 {
   "id": 5414,
   "type": "vocabulary",
-  "characters": "壊れる",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "壊れる"
+  },
   "primaryMeaning": "To Be Broken",
+  "meaningMnemonic": "壊す is \"to break something.\" 壊れる is when something just gets broken or is broken, and you're not doing the breaking. This is <vocabulary>to be broken</vocabulary>.",
+  "primaryReading": "こわれる",
+  "readingMnemonic": "The reading comes from 壊す, so try not to break any of your memories and remember this.",
   "otherMeanings": [
     "To Get Broken"
   ],
-  "primaryReading": "こわれる",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1389,
-      "character": "壊",
-      "readings": [
-        "かい",
-        "こわ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "壊す is \"to break something.\" 壊れる is when something just gets broken or is broken, and you're not doing the breaking. This is <vocabulary>to be broken</vocabulary>.",
-  "readingMnemonic": "The reading comes from 壊す, so try not to break any of your memories and remember this.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A3%8A%E3%82%8C%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "壊",
-      "id": 1389,
-      "reading": "こわ"
-    },
-    {
-      "type": "kana",
-      "value": "れる"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A3%8A%E3%82%8C%E3%82%8B"
+  }
 }

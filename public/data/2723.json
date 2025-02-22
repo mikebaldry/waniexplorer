@@ -1,37 +1,21 @@
 {
   "id": 2723,
   "type": "vocabulary",
-  "characters": "写す",
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "写す"
+  },
   "primaryMeaning": "To Copy",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>copy</kanji> so you know this means <vocabulary>to copy</vocabulary>. You know this word means \"to copy\" because it ends with す. You're copying the documents you need to <reading>sue</reading> (す) someone who screwed you over.",
+  "primaryReading": "うつす",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nYou have to remember the うつ part. To remember that, think of yourself as a beatboxer. You're saying <reading>うつ</reading>うつうつ over and over again. Thing is, the other beatboxer is going <vocabulary>to copy</vocabulary> everything you do. That's why you're suing him.",
   "otherMeanings": [
     "To Photograph",
     "To Take A Picture"
   ],
-  "primaryReading": "うつす",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 531,
-      "character": "写",
-      "readings": [
-        "しゃ",
-        "うつ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>copy</kanji> so you know this means <vocabulary>to copy</vocabulary>. You know this word means \"to copy\" because it ends with す. You're copying the documents you need to <reading>sue</reading> (す) someone who screwed you over.",
-  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nYou have to remember the うつ part. To remember that, think of yourself as a beatboxer. You're saying <reading>うつ</reading>うつうつ over and over again. Thing is, the other beatboxer is going <vocabulary>to copy</vocabulary> everything you do. That's why you're suing him.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%86%99%E3%81%99",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "写",
-      "id": 531,
-      "reading": "うつ"
-    },
-    {
-      "type": "kana",
-      "value": "す"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%86%99%E3%81%99"
+  }
 }

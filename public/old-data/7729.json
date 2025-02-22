@@ -1,0 +1,38 @@
+{
+  "id": 7729,
+  "type": "vocabulary",
+  "characters": "丸ごと",
+  "primaryMeaning": "In Its Entirety",
+  "otherMeanings": [
+    "Whole",
+    "Wholly",
+    "Entirely"
+  ],
+  "primaryReading": "まるごと",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 467,
+      "character": "丸",
+      "readings": [
+        "まる",
+        "がん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you go to (ごと) a <kanji>circle</kanji>, you need to go to it <vocabulary>in its entirety</vocabulary>. That means you have to circle around the <vocabulary>whole</vocabulary> thing. Otherwise, it isn't even a circle. It's like a line or a squiggle or something.\n\nYou often hear this word when talking about food – like when biting into a whole apple or accidentally swallowing a grape without chewing. But it's not just for food: you can also use it to talk about memorizing a whole book from beginning to end, for example.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You learned this reading, so you should be able to read this too!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%B8%E3%81%94%E3%81%A8",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "丸",
+      "id": 467,
+      "reading": "まる"
+    },
+    {
+      "type": "kana",
+      "value": "ごと"
+    }
+  ]
+}

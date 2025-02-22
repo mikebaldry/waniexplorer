@@ -1,44 +1,20 @@
 {
   "id": 5482,
   "type": "vocabulary",
-  "characters": "陸軍",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "陸軍"
+  },
   "primaryMeaning": "Land Army",
+  "meaningMnemonic": "The <kanji>land</kanji> <kanji>army</kanji> is the <vocabulary>land army</vocabulary>, also known as the plain old <vocabulary>army</vocabulary>.",
+  "primaryReading": "りくぐん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Army"
   ],
-  "primaryReading": "りくぐん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1471,
-      "character": "陸",
-      "readings": [
-        "りく"
-      ]
-    },
-    {
-      "id": 954,
-      "character": "軍",
-      "readings": [
-        "ぐん"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The <kanji>land</kanji> <kanji>army</kanji> is the <vocabulary>land army</vocabulary>, also known as the plain old <vocabulary>army</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%99%B8%E8%BB%8D",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "陸",
-      "id": 1471,
-      "reading": "りく"
-    },
-    {
-      "type": "kanji",
-      "value": "軍",
-      "id": 954,
-      "reading": "ぐん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%99%B8%E8%BB%8D"
+  }
 }

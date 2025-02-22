@@ -1,0 +1,50 @@
+{
+  "id": 6935,
+  "type": "vocabulary",
+  "characters": "見逃す",
+  "primaryMeaning": "To Overlook",
+  "otherMeanings": [],
+  "primaryReading": "みのがす",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 558,
+      "character": "見",
+      "readings": [
+        "み",
+        "けん"
+      ]
+    },
+    {
+      "id": 1705,
+      "character": "逃",
+      "readings": [
+        "とう",
+        "に",
+        "のが",
+        "の"
+      ]
+    }
+  ],
+  "meaningMnemonic": "逃す is \"to let go\" or \"to let escape.\" If something escapes your <kanji>see</kanji>ing, then you are going <vocabulary>to overlook</vocabulary> it.",
+  "readingMnemonic": "The reading comes from 見 and 逃す.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A6%8B%E9%80%83%E3%81%99",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "見",
+      "id": 558,
+      "reading": "み"
+    },
+    {
+      "type": "kanji",
+      "value": "逃",
+      "id": 1705,
+      "reading": "のが"
+    },
+    {
+      "type": "kana",
+      "value": "す"
+    }
+  ]
+}

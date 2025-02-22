@@ -1,12 +1,15 @@
 {
   "id": 72,
   "type": "radical",
-  "primaryMeaning": "Arrow",
-  "otherMeanings": [],
-  "character": {
+  "level": 3,
+  "characters": {
     "type": "text",
     "value": "矢"
   },
-  "meaningMnemonic": "You have a really big gun. Why? Because only big guns will be able to shoot <radical>arrow</radical>s! Bullets are pretty small, so the guns that shoot them can be any size. But you need a big gun if you want to shove an arrow in it and then shoot it at your enemies.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/arrow"
+  "primaryMeaning": "Arrow",
+  "otherMeanings": [],
+  "meaningMnemonic": "This is a gun on top of a big person. The gun is big too, obviously. Why is this big guy's gun so big? Because it shoots <radical>arrow</radical>s! Bullets are pretty small, so the guns that shoot them can be any size. But you need a big gun if you want to shoot a big arrow, right? That's why this is the radical for arrow.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/arrow"
+  }
 }

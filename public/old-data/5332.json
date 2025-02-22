@@ -1,0 +1,47 @@
+{
+  "id": 5332,
+  "type": "vocabulary",
+  "characters": "浮気",
+  "primaryMeaning": "Affair",
+  "otherMeanings": [
+    "Infidelity"
+  ],
+  "primaryReading": "うわき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1433,
+      "character": "浮",
+      "readings": [
+        "う",
+        "うわ",
+        "ふ"
+      ]
+    },
+    {
+      "id": 548,
+      "character": "気",
+      "readings": [
+        "き",
+        "け"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You are <kanji>float</kanji>ing above everything, at least that's how your <kanji>spirit</kanji> feels. You're having an <vocabulary>affair</vocabulary>, and feel like nothing will catch you but... wait, what's that? Is that your wife? Oh no... not floating anymore, you're not.",
+  "readingMnemonic": "This kanji uses the kun'yomi read for the first kanji, and the on'yomi reading for the second. You've learned them both already, so you should be able to read this too.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B5%AE%E6%B0%97",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "浮",
+      "id": 1433,
+      "reading": "うわ"
+    },
+    {
+      "type": "kanji",
+      "value": "気",
+      "id": 548,
+      "reading": "き"
+    }
+  ]
+}

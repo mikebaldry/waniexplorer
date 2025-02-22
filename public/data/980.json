@@ -1,39 +1,47 @@
 {
   "id": 980,
   "type": "kanji",
-  "character": "笑",
-  "primaryMeaning": "Laugh",
-  "otherMeanings": [],
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "笑"
+  },
   "primaryReading": "わら",
   "readings": [
     {
-      "reading": "わら",
       "primary": true,
+      "reading": "わら",
       "type": "kunyomi"
     },
     {
+      "primary": false,
       "reading": "え",
-      "primary": false,
       "type": "kunyomi"
     },
     {
-      "reading": "しょう",
       "primary": false,
+      "reading": "しょう",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "There’s actually a war a goin’ on up in that there bamboo heaven, y’know? Ye might not have heard of it with all that there <kanji>laugh</kanji>in’ a goin’ on, but there definitely be a <reading>war a</reading> (わら) goin’ on up in bamboo heaven, y’hear? The bamboo are scared so that’s why they be laughin’ so much. They nervous.",
+  "primaryMeaning": "Laugh",
+  "otherMeanings": [],
   "meaningMnemonic": "<radical>Bamboo</radical> <radical>heaven</radical> is a place for <kanji>laugh</kanji>ing. Bamboo is a very jolly plant, and they love to laugh. Even after death in bamboo heaven, the bamboo continue to laugh joyfully. Bamboo heaven is truly a place of laughter.",
-  "vocabularyIds": [
-    3856,
-    3857,
-    4060,
-    4063,
-    6094
-  ],
-  "radicalIds": [
-    85,
-    40
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%AC%91"
+  "readingMnemonic": "There’s actually a war a goin’ on up in that there bamboo heaven, y’know? Ye might not have heard of it with all that there <kanji>laugh</kanji>in’ a goin’ on, but there definitely be a <reading>war a</reading> (わら) goin’ on up in bamboo heaven, y’hear? The bamboo are scared so that’s why they be laughin’ so much. They nervous.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%AC%91"
+  },
+  "related": {
+    "radicals": [
+      85,
+      40
+    ],
+    "vocabularies": [
+      3856,
+      3857,
+      4060,
+      4063,
+      6094
+    ]
+  }
 }

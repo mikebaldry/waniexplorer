@@ -1,35 +1,43 @@
 {
   "id": 1491,
   "type": "kanji",
-  "character": "興",
-  "primaryMeaning": "Interest",
-  "otherMeanings": [],
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "興"
+  },
   "primaryReading": "きょう",
   "readings": [
     {
-      "reading": "きょう",
       "primary": true,
+      "reading": "きょう",
       "type": "onyomi"
     },
     {
-      "reading": "こう",
       "primary": false,
+      "reading": "こう",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "Since the combs <kanji>interest</kanji> you more than the fins, you examine the combs more closely. Taking interest in where they were made, you discover they were made in <reading>きょう</reading>と. Dang, きょうと sure does make some nice combs.",
+  "primaryMeaning": "Interest",
+  "otherMeanings": [],
   "meaningMnemonic": "There’s a <radical>comb</radical> and what looks like the <radical>same</radical> <radical>comb</radical>, and you found them on the <radical>ground</radical> next to some <radical>fins</radical> you showed <kanji>interest</kanji> in. At first, the shiny fins on the ground caught your interest, but once you got closer to the fins you also noticed a pair of combs that are interesting too.",
-  "vocabularyIds": [
-    5546,
-    5741,
-    6690,
-    7401
-  ],
-  "radicalIds": [
-    8792,
-    341,
-    1,
-    2
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%88%88"
+  "readingMnemonic": "Since the combs <kanji>interest</kanji> you more than the fins, you examine the combs more closely. Taking interest in where they were made, you discover they were made in <reading>きょう</reading>と. Dang, きょうと sure does make some nice combs.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%88%88"
+  },
+  "related": {
+    "radicals": [
+      8792,
+      341,
+      1,
+      2
+    ],
+    "vocabularies": [
+      5546,
+      5741,
+      6690,
+      7401
+    ]
+  }
 }

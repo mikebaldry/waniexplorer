@@ -1,0 +1,47 @@
+{
+  "id": 7890,
+  "type": "vocabulary",
+  "characters": "抱擁",
+  "primaryMeaning": "Embrace",
+  "otherMeanings": [
+    "Hug"
+  ],
+  "primaryReading": "ほうよう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1671,
+      "character": "抱",
+      "readings": [
+        "だ",
+        "ほう",
+        "かか",
+        "いだ"
+      ]
+    },
+    {
+      "id": 2160,
+      "character": "擁",
+      "readings": [
+        "よう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "An <kanji>embrace</kanji> and a <kanji>hug</kanji> are pretty much the same thing. So you're still going to <vocabulary>embrace</vocabulary> and <vocabulary>hug</vocabulary> people!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You didn't learn this reading for 抱 yet, so here's a mnemonic to help you:\n\nWho gives the best <vocabulary>hug</vocabulary>s in the world? Harry <reading>Hou</reading>dini (ほう)! He knows what it's like to be hugged too tightly because he's always in straight jackets. So his hugs are nice and gentle. Just the way you like them!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8A%B1%E6%93%81",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "抱",
+      "id": 1671,
+      "reading": "ほう"
+    },
+    {
+      "type": "kanji",
+      "value": "擁",
+      "id": 2160,
+      "reading": "よう"
+    }
+  ]
+}

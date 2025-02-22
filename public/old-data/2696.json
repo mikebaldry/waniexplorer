@@ -1,0 +1,48 @@
+{
+  "id": 2696,
+  "type": "vocabulary",
+  "characters": "花見",
+  "primaryMeaning": "Viewing Cherry Blossoms",
+  "otherMeanings": [
+    "Sakura Viewing",
+    "Cherry Blossom Viewing"
+  ],
+  "primaryReading": "はなみ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 557,
+      "character": "花",
+      "readings": [
+        "はな",
+        "か",
+        "け"
+      ]
+    },
+    {
+      "id": 558,
+      "character": "見",
+      "readings": [
+        "み",
+        "けん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you have <kanji>flower</kanji>s that you can <kanji>see</kanji>, you are viewing flowers. But not just any flowers. What flowers do Japanese people love viewing? That's right, this word refers to <vocabulary>viewing cherry blossoms</vocabulary>.\n\nThe focus of 花見 is on the act of appreciating blossoming trees, often accompanied by outdoor gatherings, picnics, or parties. Although cherry blossoms are the most commonly associated flowers, the term can encompass other flower-viewing experiences as well.",
+  "readingMnemonic": "The reading for this vocab is all kun'yomi, but you learned the kun'yomi readings of both these when you learned their kanji. So no worries there. You can spend the extra time viewing the cherry blossoms.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%8A%B1%E8%A6%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "花",
+      "id": 557,
+      "reading": "はな"
+    },
+    {
+      "type": "kanji",
+      "value": "見",
+      "id": 558,
+      "reading": "み"
+    }
+  ]
+}

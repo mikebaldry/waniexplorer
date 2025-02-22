@@ -1,45 +1,18 @@
 {
   "id": 6008,
   "type": "vocabulary",
-  "characters": "舞踏",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "舞踏"
+  },
   "primaryMeaning": "Dancing",
-  "otherMeanings": [],
-  "primaryReading": "ぶとう",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1634,
-      "character": "舞",
-      "readings": [
-        "ぶ",
-        "まい",
-        "ま"
-      ]
-    },
-    {
-      "id": 1636,
-      "character": "踏",
-      "readings": [
-        "とう",
-        "ふ"
-      ]
-    }
-  ],
   "meaningMnemonic": "You <kanji>dance</kanji>, you <kanji>step</kanji>, you dance, you step. Good job! Now you're doing <vocabulary>dancing</vocabulary>.",
+  "primaryReading": "ぶとう",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%88%9E%E8%B8%8F",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "舞",
-      "id": 1634,
-      "reading": "ぶ"
-    },
-    {
-      "type": "kanji",
-      "value": "踏",
-      "id": 1636,
-      "reading": "とう"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%88%9E%E8%B8%8F"
+  }
 }

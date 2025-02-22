@@ -1,0 +1,76 @@
+{
+  "id": 5148,
+  "type": "vocabulary",
+  "characters": "幼年時代",
+  "primaryMeaning": "Childhood",
+  "otherMeanings": [],
+  "primaryReading": "ようねんじだい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1352,
+      "character": "幼",
+      "readings": [
+        "よう",
+        "おさな"
+      ]
+    },
+    {
+      "id": 546,
+      "character": "年",
+      "readings": [
+        "ねん",
+        "とし"
+      ]
+    },
+    {
+      "id": 662,
+      "character": "時",
+      "readings": [
+        "じ",
+        "とき"
+      ]
+    },
+    {
+      "id": 530,
+      "character": "代",
+      "readings": [
+        "だい",
+        "たい",
+        "か",
+        "かわ",
+        "よ",
+        "しろ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You have 時代 as a \"period\" of time you're talking about. What period? The <kanji>infancy</kanji> <kanji>year</kanji>s. Those years are not just when you're a baby, but when you were growing up, too. That was your <vocabulary>childhood</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B9%BC%E5%B9%B4%E6%99%82%E4%BB%A3",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "幼",
+      "id": 1352,
+      "reading": "よう"
+    },
+    {
+      "type": "kanji",
+      "value": "年",
+      "id": 546,
+      "reading": "ねん"
+    },
+    {
+      "type": "kanji",
+      "value": "時",
+      "id": 662,
+      "reading": "じ"
+    },
+    {
+      "type": "kanji",
+      "value": "代",
+      "id": 530,
+      "reading": "だい"
+    }
+  ]
+}

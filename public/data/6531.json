@@ -1,46 +1,18 @@
 {
   "id": 6531,
   "type": "vocabulary",
-  "characters": "脱衣",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "脱衣"
+  },
   "primaryMeaning": "Undressing",
-  "otherMeanings": [],
-  "primaryReading": "だつい",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1157,
-      "character": "脱",
-      "readings": [
-        "だつ",
-        "ぬ"
-      ]
-    },
-    {
-      "id": 1796,
-      "character": "衣",
-      "readings": [
-        "い",
-        "え",
-        "ころも",
-        "きぬ"
-      ]
-    }
-  ],
   "meaningMnemonic": "If you <kanji>undress</kanji> from <kanji>clothes</kanji> you are <vocabulary>undressing</vocabulary>.",
+  "primaryReading": "だつい",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%84%B1%E8%A1%A3",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "脱",
-      "id": 1157,
-      "reading": "だつ"
-    },
-    {
-      "type": "kanji",
-      "value": "衣",
-      "id": 1796,
-      "reading": "い"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%84%B1%E8%A1%A3"
+  }
 }

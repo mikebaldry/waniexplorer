@@ -1,45 +1,21 @@
 {
   "id": 3293,
   "type": "vocabulary",
-  "characters": "洋服",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "洋服"
+  },
   "primaryMeaning": "Clothes",
+  "meaningMnemonic": "<kanji>Western style</kanji> <kanji>clothes</kanji> is just <vocabulary>Western clothing</vocabulary> (or <vocabulary>Western style clothes</vocabulary>). But nowadays, because Japanese people wear Western clothing all the time, we use it to just mean <vocabulary>clothes</vocabulary>. We're talking things that aren't kimonos, etc.",
+  "primaryReading": "ようふく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Western Clothing",
     "Western Style Clothes"
   ],
-  "primaryReading": "ようふく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 798,
-      "character": "洋",
-      "readings": [
-        "よう"
-      ]
-    },
-    {
-      "id": 716,
-      "character": "服",
-      "readings": [
-        "ふく"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Western style</kanji> <kanji>clothes</kanji> is just <vocabulary>Western clothing</vocabulary> (or <vocabulary>Western style clothes</vocabulary>). But nowadays, because Japanese people wear Western clothing all the time, we use it to just mean <vocabulary>clothes</vocabulary>. We're talking things that aren't kimonos, etc.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B4%8B%E6%9C%8D",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "洋",
-      "id": 798,
-      "reading": "よう"
-    },
-    {
-      "type": "kanji",
-      "value": "服",
-      "id": 716,
-      "reading": "ふく"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B4%8B%E6%9C%8D"
+  }
 }

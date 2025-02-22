@@ -3,7 +3,7 @@ import { createRoot } from 'react-dom/client'
 import { BrowserRouter, Route, Routes } from "react-router";
 import './styles.scss'
 import App from './App.tsx'
-import KanjiView from './KanjiView.tsx';
+import KanjiView from './components/graph/KanjiView.tsx';
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>

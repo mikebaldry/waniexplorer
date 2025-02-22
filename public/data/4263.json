@@ -1,46 +1,20 @@
 {
   "id": 4263,
   "type": "vocabulary",
-  "characters": "倒産",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "倒産"
+  },
   "primaryMeaning": "Bankruptcy",
+  "meaningMnemonic": "If someone <kanji>overthrow</kanji>s your <kanji>property</kanji>, it'll end in <vocabulary>bankruptcy</vocabulary>. Without property you're sure to <vocabulary>go bankrupt</vocabulary>, unfortunately.",
+  "primaryReading": "とうさん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Go Bankrupt"
   ],
-  "primaryReading": "とうさん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1110,
-      "character": "倒",
-      "readings": [
-        "とう",
-        "たお"
-      ]
-    },
-    {
-      "id": 1109,
-      "character": "産",
-      "readings": [
-        "さん",
-        "う"
-      ]
-    }
-  ],
-  "meaningMnemonic": "If someone <kanji>overthrow</kanji>s your <kanji>property</kanji>, it'll end in <vocabulary>bankruptcy</vocabulary>. Without property you're sure to <vocabulary>go bankrupt</vocabulary>, unfortunately.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%80%92%E7%94%A3",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "倒",
-      "id": 1110,
-      "reading": "とう"
-    },
-    {
-      "type": "kanji",
-      "value": "産",
-      "id": 1109,
-      "reading": "さん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%80%92%E7%94%A3"
+  }
 }

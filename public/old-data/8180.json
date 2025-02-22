@@ -1,0 +1,47 @@
+{
+  "id": 8180,
+  "type": "vocabulary",
+  "characters": "降伏",
+  "primaryMeaning": "Surrender",
+  "otherMeanings": [
+    "Submission"
+  ],
+  "primaryReading": "こうふく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1548,
+      "character": "降",
+      "readings": [
+        "こう",
+        "お",
+        "ふ"
+      ]
+    },
+    {
+      "id": 2260,
+      "character": "伏",
+      "readings": [
+        "ふく",
+        "ふ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Bow</kanji> as you <kanji>descend</kanji> into enemy territory. This is how you have to <vocabulary>surrender</vocabulary> if you want to live. Keep your head nice and low and descend into their ranks.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%99%8D%E4%BC%8F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "降",
+      "id": 1548,
+      "reading": "こう"
+    },
+    {
+      "type": "kanji",
+      "value": "伏",
+      "id": 2260,
+      "reading": "ふく"
+    }
+  ]
+}

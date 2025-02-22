@@ -1,44 +1,18 @@
 {
   "id": 6479,
   "type": "vocabulary",
-  "characters": "瀬戸",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "瀬戸"
+  },
   "primaryMeaning": "Seto",
-  "otherMeanings": [],
-  "primaryReading": "せと",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1777,
-      "character": "瀬",
-      "readings": [
-        "せ",
-        "らい"
-      ]
-    },
-    {
-      "id": 509,
-      "character": "戸",
-      "readings": [
-        "と",
-        "こ"
-      ]
-    }
-  ],
   "meaningMnemonic": "The <kanji>rapids</kanji> <kanji>door</kanji> is actually <vocabulary>Seto</vocabulary>, which is the name of a few different places in Japan. One of those places is where the famous earthenware Seto ware comes from 🍶",
+  "primaryReading": "せと",
   "readingMnemonic": "This is a jukugo word that uses the kun'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%80%AC%E6%88%B8",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "瀬",
-      "id": 1777,
-      "reading": "せ"
-    },
-    {
-      "type": "kanji",
-      "value": "戸",
-      "id": 509,
-      "reading": "と"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%80%AC%E6%88%B8"
+  }
 }

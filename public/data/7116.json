@@ -1,45 +1,18 @@
 {
   "id": 7116,
   "type": "vocabulary",
-  "characters": "挿入",
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "挿入"
+  },
   "primaryMeaning": "Insertion",
-  "otherMeanings": [],
-  "primaryReading": "そうにゅう",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2001,
-      "character": "挿",
-      "readings": [
-        "そう",
-        "さ"
-      ]
-    },
-    {
-      "id": 445,
-      "character": "入",
-      "readings": [
-        "にゅう",
-        "はい",
-        "い"
-      ]
-    }
-  ],
   "meaningMnemonic": "If you <kanji>insert</kanji> and <kanji>enter</kanji> something, you are doing <vocabulary>insertion</vocabulary> to it.",
+  "primaryReading": "そうにゅう",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8C%BF%E5%85%A5",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "挿",
-      "id": 2001,
-      "reading": "そう"
-    },
-    {
-      "type": "kanji",
-      "value": "入",
-      "id": 445,
-      "reading": "にゅう"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%8C%BF%E5%85%A5"
+  }
 }

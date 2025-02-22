@@ -1,0 +1,34 @@
+{
+  "id": 2071,
+  "type": "kanji",
+  "character": "隔",
+  "primaryMeaning": "Isolate",
+  "otherMeanings": [],
+  "primaryReading": "かく",
+  "readings": [
+    {
+      "reading": "かく",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "へだ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "The <kanji>isolate</kanji>d building only has one companion, and it's the <reading>cock</reading> (かく) that lives inside of it.",
+  "meaningMnemonic": "A <radical>building</radical> that has a <radical>bully</radical> will <kanji>isolate</kanji> itself. Building have feelings like people, you know.",
+  "vocabularyIds": [
+    7322,
+    7323,
+    7324,
+    7325,
+    7326
+  ],
+  "radicalIds": [
+    176,
+    336
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%9A%94"
+}

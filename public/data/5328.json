@@ -1,47 +1,20 @@
 {
   "id": 5328,
   "type": "vocabulary",
-  "characters": "変更",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "変更"
+  },
   "primaryMeaning": "Alteration",
+  "meaningMnemonic": "Things that <kanji>change</kanji> and <kanji>renew</kanji> are going through <vocabulary>alteration</vocabulary>s and <vocabulary>change</vocabulary>. Pretty straightforward!\n\nUnlike 変化, which is used for spontaneous changes, 変更 is used for deliberate or planned changes, like changing an appointment, modifying rules, or altering a plan.",
+  "primaryReading": "へんこう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Change"
   ],
-  "primaryReading": "へんこう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 944,
-      "character": "変",
-      "readings": [
-        "へん",
-        "か"
-      ]
-    },
-    {
-      "id": 1431,
-      "character": "更",
-      "readings": [
-        "こう",
-        "さら",
-        "ふ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Things that <kanji>change</kanji> and <kanji>renew</kanji> are going through <vocabulary>alteration</vocabulary>s and <vocabulary>change</vocabulary>. Pretty straightforward!\n\nUnlike 変化, which is used for spontaneous changes, 変更 is used for deliberate or planned changes, like changing an appointment, modifying rules, or altering a plan.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A4%89%E6%9B%B4",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "変",
-      "id": 944,
-      "reading": "へん"
-    },
-    {
-      "type": "kanji",
-      "value": "更",
-      "id": 1431,
-      "reading": "こう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A4%89%E6%9B%B4"
+  }
 }

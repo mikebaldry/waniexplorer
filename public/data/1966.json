@@ -1,33 +1,41 @@
 {
   "id": 1966,
   "type": "kanji",
-  "character": "穂",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "穂"
+  },
+  "primaryReading": "ほ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ほ",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "すい",
+      "type": "onyomi"
+    }
+  ],
   "primaryMeaning": "Head of Plant",
   "otherMeanings": [
     "Ear Of Plant"
   ],
-  "primaryReading": "ほ",
-  "readings": [
-    {
-      "reading": "ほ",
-      "primary": true,
-      "type": "kunyomi"
-    },
-    {
-      "reading": "すい",
-      "primary": false,
-      "type": "onyomi"
-    }
-  ],
-  "readingMnemonic": "When you want to harvest the <kanji>head of the plant</kanji> you'd like to eat, you need to use a <reading>hoe</reading> (ほ). Using a hoe, you can dig up the bottom of the plant without injuring the head.",
   "meaningMnemonic": "The part of the <radical>grain</radical> people <radical>favor</radical> the most is the <kanji>head of the plant</kanji>. You don't eat the stems and leaves of rice or wheat plants, right? You eat the head where the grains are.",
-  "vocabularyIds": [
-    7025,
-    7026
-  ],
-  "radicalIds": [
-    135,
-    400
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%A9%82"
+  "readingMnemonic": "When you want to harvest the <kanji>head of the plant</kanji> you'd like to eat, you need to use a <reading>hoe</reading> (ほ). Using a hoe, you can dig up the bottom of the plant without injuring the head.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%A9%82"
+  },
+  "related": {
+    "radicals": [
+      135,
+      400
+    ],
+    "vocabularies": [
+      7025,
+      7026
+    ]
+  }
 }

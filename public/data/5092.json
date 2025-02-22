@@ -1,40 +1,21 @@
 {
   "id": 5092,
   "type": "vocabulary",
-  "characters": "退く",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "退く"
+  },
   "primaryMeaning": "To Retreat",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>retreat</kanji>, and the verb vocab version means <vocabulary>to retreat</vocabulary>, <vocabulary>to withdraw</vocabulary> or <vocabulary>to resign</vocabulary>.",
+  "primaryReading": "しりぞく",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you:\n\nYou need <vocabulary>to retreat</vocabulary> because <reading>she re-zo</reading>ned (しりぞ) where you are standing. Now this is a no standing zone. Who is she? The re-zoner, duh. ",
   "otherMeanings": [
     "To Withdraw",
     "To Resign"
   ],
-  "primaryReading": "しりぞく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1319,
-      "character": "退",
-      "readings": [
-        "たい",
-        "しりぞ",
-        "ひ",
-        "ど",
-        "の"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>retreat</kanji>, and the verb vocab version means <vocabulary>to retreat</vocabulary>, <vocabulary>to withdraw</vocabulary> or <vocabulary>to resign</vocabulary>.",
-  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you:\n\nYou need <vocabulary>to retreat</vocabulary> because <reading>she re-zo</reading>ned (しりぞ) where you are standing. Now this is a no standing zone. Who is she? The re-zoner, duh. ",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%80%80%E3%81%8F",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "退",
-      "id": 1319,
-      "reading": "しりぞ"
-    },
-    {
-      "type": "kana",
-      "value": "く"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%80%80%E3%81%8F"
+  }
 }

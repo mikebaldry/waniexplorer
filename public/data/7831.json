@@ -1,48 +1,20 @@
 {
   "id": 7831,
   "type": "vocabulary",
-  "characters": "蓮花",
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "蓮花"
+  },
   "primaryMeaning": "Lotus Flower",
+  "meaningMnemonic": "A <kanji>lotus</kanji> <kanji>flower</kanji> is a <vocabulary>lotus flower</vocabulary>!",
+  "primaryReading": "れんげ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You didn't learn this reading for 花 yet, so here's a mnemonic to help you:\n\nSomething is on the <vocabulary>lotus flower</vocabulary>... something little and kinda shiny. It's a little <reading>ge</reading>cko (げ). It's hiding in the lotus and trying to catch flies. How cute!",
   "otherMeanings": [
     "Lotus"
   ],
-  "primaryReading": "れんげ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2150,
-      "character": "蓮",
-      "readings": [
-        "れん",
-        "はす",
-        "はちす"
-      ]
-    },
-    {
-      "id": 557,
-      "character": "花",
-      "readings": [
-        "はな",
-        "か",
-        "け"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>lotus</kanji> <kanji>flower</kanji> is a <vocabulary>lotus flower</vocabulary>!",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You didn't learn this reading for 花 yet, so here's a mnemonic to help you:\n\nSomething is on the <vocabulary>lotus flower</vocabulary>... something little and kinda shiny. It's a little <reading>ge</reading>cko (げ). It's hiding in the lotus and trying to catch flies. How cute!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%93%AE%E8%8A%B1",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "蓮",
-      "id": 2150,
-      "reading": "れん"
-    },
-    {
-      "type": "kanji",
-      "value": "花",
-      "id": 557,
-      "reading": "げ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%93%AE%E8%8A%B1"
+  }
 }

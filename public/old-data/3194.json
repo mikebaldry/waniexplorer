@@ -1,0 +1,46 @@
+{
+  "id": 3194,
+  "type": "vocabulary",
+  "characters": "漢字",
+  "primaryMeaning": "Kanji",
+  "otherMeanings": [
+    "Chinese Letters",
+    "Chinese Characters"
+  ],
+  "primaryReading": "かんじ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 757,
+      "character": "漢",
+      "readings": [
+        "かん",
+        "おとこ"
+      ]
+    },
+    {
+      "id": 545,
+      "character": "字",
+      "readings": [
+        "じ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>Chinese</kanji> <kanji>letter</kanji>s... you're finally learning the word for them, the thing you've been studying this whole time for so long! This is <vocabulary>kanji</vocabulary>, your new best friend (they came from China, which is why they're Chinese letters).",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%BC%A2%E5%AD%97",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "漢",
+      "id": 757,
+      "reading": "かん"
+    },
+    {
+      "type": "kanji",
+      "value": "字",
+      "id": 545,
+      "reading": "じ"
+    }
+  ]
+}

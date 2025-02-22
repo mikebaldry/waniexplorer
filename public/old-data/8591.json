@@ -1,0 +1,43 @@
+{
+  "id": 8591,
+  "type": "vocabulary",
+  "characters": "閑静",
+  "primaryMeaning": "Quiet",
+  "otherMeanings": [],
+  "primaryReading": "かんせい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2418,
+      "character": "閑",
+      "readings": [
+        "かん"
+      ]
+    },
+    {
+      "id": 1052,
+      "character": "静",
+      "readings": [
+        "せい",
+        "しず"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Leisure</kanji>ly <kanji>quiet</kanji> is the best kind of <vocabulary>quiet</vocabulary>. Even your brain gets to be quiet because you don't have a care left in the world. ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%96%91%E9%9D%99",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "閑",
+      "id": 2418,
+      "reading": "かん"
+    },
+    {
+      "type": "kanji",
+      "value": "静",
+      "id": 1052,
+      "reading": "せい"
+    }
+  ]
+}

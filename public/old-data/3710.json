@@ -1,0 +1,46 @@
+{
+  "id": 3710,
+  "type": "vocabulary",
+  "characters": "料理",
+  "primaryMeaning": "Cooking",
+  "otherMeanings": [
+    "Cuisine",
+    "Dish"
+  ],
+  "primaryReading": "りょうり",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 878,
+      "character": "料",
+      "readings": [
+        "りょう"
+      ]
+    },
+    {
+      "id": 669,
+      "character": "理",
+      "readings": [
+        "り",
+        "ことわり"
+      ]
+    }
+  ],
+  "meaningMnemonic": "There is a <kanji>reason</kanji> for this <kanji>fee</kanji> that you have to pay to get in here. We are <vocabulary>cooking</vocabulary> <vocabulary>cuisine</vocabulary> for you to eat while you're watching the show. If we weren't cooking a <vocabulary>dish</vocabulary> for you, we probably wouldn't charge you this fee!",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%96%99%E7%90%86",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "料",
+      "id": 878,
+      "reading": "りょう"
+    },
+    {
+      "type": "kanji",
+      "value": "理",
+      "id": 669,
+      "reading": "り"
+    }
+  ]
+}

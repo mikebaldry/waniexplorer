@@ -1,12 +1,15 @@
 {
   "id": 77,
   "type": "radical",
-  "primaryMeaning": "Alligator",
-  "otherMeanings": [],
-  "character": {
+  "level": 4,
+  "characters": {
     "type": "text",
     "value": "也"
   },
+  "primaryMeaning": "Alligator",
+  "otherMeanings": [],
   "meaningMnemonic": "See the mouth and teeth of this <radical>alligator</radical>, which is facing to the right? You wouldn't want to get your hand stuck in there, that's for sure.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/alligator"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/alligator"
+  }
 }

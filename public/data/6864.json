@@ -1,32 +1,20 @@
 {
   "id": 6864,
   "type": "vocabulary",
-  "characters": "鐘",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "鐘"
+  },
   "primaryMeaning": "Bell",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "かね",
+  "readingMnemonic": "Seeing the <vocabulary>bell</vocabulary>, you decide you need to ring it. You take your <reading>cane</reading> (かね) and hit the bell as hard as you can, making it chime.",
   "otherMeanings": [
     "Chime"
   ],
-  "primaryReading": "かね",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1910,
-      "character": "鐘",
-      "readings": [
-        "しょう",
-        "かね"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
-  "readingMnemonic": "Seeing the <vocabulary>bell</vocabulary>, you decide you need to ring it. You take your <reading>cane</reading> (かね) and hit the bell as hard as you can, making it chime.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%90%98",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "鐘",
-      "id": 1910,
-      "reading": "かね"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%90%98"
+  }
 }

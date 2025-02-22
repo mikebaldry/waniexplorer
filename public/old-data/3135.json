@@ -1,0 +1,44 @@
+{
+  "id": 3135,
+  "type": "vocabulary",
+  "characters": "発音",
+  "primaryMeaning": "Pronunciation",
+  "otherMeanings": [],
+  "primaryReading": "はつおん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 729,
+      "character": "発",
+      "readings": [
+        "はつ"
+      ]
+    },
+    {
+      "id": 606,
+      "character": "音",
+      "readings": [
+        "おん",
+        "おと",
+        "ね"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>sound</kanji> that <kanji>departs</kanji> from your mouth is you talking. Imagine yourself saying things and words departing your mouth. They are bent in different ways and have different colors, highlighting your <vocabulary>pronunciation</vocabulary> of certain words and phrases.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%99%BA%E9%9F%B3",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "発",
+      "id": 729,
+      "reading": "はつ"
+    },
+    {
+      "type": "kanji",
+      "value": "音",
+      "id": 606,
+      "reading": "おん"
+    }
+  ]
+}

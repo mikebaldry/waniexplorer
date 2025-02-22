@@ -1,46 +1,20 @@
 {
   "id": 2734,
   "type": "vocabulary",
-  "characters": "申し申し",
+  "level": 60,
+  "characters": {
+    "type": "text",
+    "value": "申し申し"
+  },
   "primaryMeaning": "Excuse Me",
+  "meaningMnemonic": "It's kind of like you're saying <kanji>say</kanji> <kanji>say</kanji>, and it’s used in classical Japanese to get someone’s attention, so this is <vocabulary>excuse me</vocabulary> or <vocabulary>hello</vocabulary>.\n\nYou would generally encounter 申し申し in dialogues set in older times, unlike its modern, shortened version もしもし, which is used for telephone greetings (and almost always written in kana).",
+  "primaryReading": "もうしもうし",
+  "readingMnemonic": "This word uses the reading you learned with the kanji. You should know it already.",
   "otherMeanings": [
     "Hello"
   ],
-  "primaryReading": "もうしもうし",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 538,
-      "character": "申",
-      "readings": [
-        "もう",
-        "しん"
-      ]
-    }
-  ],
-  "meaningMnemonic": "It's kind of like you're saying <kanji>say</kanji> <kanji>say</kanji>, and it’s used in classical Japanese to get someone’s attention, so this is <vocabulary>excuse me</vocabulary> or <vocabulary>hello</vocabulary>.\n\nYou would generally encounter 申し申し in dialogues set in older times, unlike its modern, shortened version もしもし, which is used for telephone greetings (and almost always written in kana).",
-  "readingMnemonic": "This word uses the reading you learned with the kanji. You should know it already.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%94%B3%E3%81%97%E7%94%B3%E3%81%97",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "申",
-      "id": 538,
-      "reading": "もう"
-    },
-    {
-      "type": "kana",
-      "value": "し"
-    },
-    {
-      "type": "kanji",
-      "value": "申",
-      "id": 538,
-      "reading": "もう"
-    },
-    {
-      "type": "kana",
-      "value": "し"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%94%B3%E3%81%97%E7%94%B3%E3%81%97"
+  }
 }

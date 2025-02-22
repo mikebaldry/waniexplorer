@@ -1,50 +1,21 @@
 {
   "id": 7216,
   "type": "vocabulary",
-  "characters": "盆踊り",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "盆踊り"
+  },
   "primaryMeaning": "Ancestral Festival Dance",
+  "meaningMnemonic": "The <kanji>ancestral festival</kanji> <kanji>dance</kanji> is the <vocabulary>ancestral festival dance</vocabulary>, or <vocabulary>bon festival dance</vocabulary>.\n\n盆踊り (<vocabulary>bon odori</vocabulary>) is a festival dance performed for Obon, a Buddhist event that honors the spirits of one's ancestors. In this dance, people often wear yukata and dance in circles around a central platform, moving in synchronized patterns. It's a fun time, be sure to attend one if you can!",
+  "primaryReading": "ぼんおどり",
+  "readingMnemonic": "The reading is 盆 plus 躍り put together into one word.",
   "otherMeanings": [
     "Bon Festival Dance",
     "Bon Odori"
   ],
-  "primaryReading": "ぼんおどり",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1947,
-      "character": "盆",
-      "readings": [
-        "ぼん"
-      ]
-    },
-    {
-      "id": 2032,
-      "character": "踊",
-      "readings": [
-        "おど",
-        "よう"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The <kanji>ancestral festival</kanji> <kanji>dance</kanji> is the <vocabulary>ancestral festival dance</vocabulary>, or <vocabulary>bon festival dance</vocabulary>.\n\n盆踊り (<vocabulary>bon odori</vocabulary>) is a festival dance performed for Obon, a Buddhist event that honors the spirits of one's ancestors. In this dance, people often wear yukata and dance in circles around a central platform, moving in synchronized patterns. It's a fun time, be sure to attend one if you can!",
-  "readingMnemonic": "The reading is 盆 plus 躍り put together into one word.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%9B%86%E8%B8%8A%E3%82%8A",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "盆",
-      "id": 1947,
-      "reading": "ぼん"
-    },
-    {
-      "type": "kanji",
-      "value": "踊",
-      "id": 2032,
-      "reading": "おど"
-    },
-    {
-      "type": "kana",
-      "value": "り"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%9B%86%E8%B8%8A%E3%82%8A"
+  }
 }

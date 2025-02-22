@@ -1,30 +1,18 @@
 {
   "id": 6772,
   "type": "vocabulary",
-  "characters": "竜",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "竜"
+  },
   "primaryMeaning": "Dragon",
-  "otherMeanings": [],
-  "primaryReading": "りゅう",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1873,
-      "character": "竜",
-      "readings": [
-        "りゅう",
-        "たつ"
-      ]
-    }
-  ],
   "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "りゅう",
   "readingMnemonic": "The reading is the same as what you learned with the kanji.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%AB%9C",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "竜",
-      "id": 1873,
-      "reading": "りゅう"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%AB%9C"
+  }
 }

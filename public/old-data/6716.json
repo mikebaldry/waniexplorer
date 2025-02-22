@@ -1,0 +1,44 @@
+{
+  "id": 6716,
+  "type": "vocabulary",
+  "characters": "懇親",
+  "primaryMeaning": "Friendship",
+  "otherMeanings": [],
+  "primaryReading": "こんしん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1857,
+      "character": "懇",
+      "readings": [
+        "こん"
+      ]
+    },
+    {
+      "id": 770,
+      "character": "親",
+      "readings": [
+        "しん",
+        "おや",
+        "した"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>courteous</kanji> <kanji>parent</kanji> is a parent who knows when a kid needs a friend. Then, they set their kid up with you so that you can have a <vocabulary>friendship</vocabulary>. What a nice parent the other person is!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%87%87%E8%A6%AA",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "懇",
+      "id": 1857,
+      "reading": "こん"
+    },
+    {
+      "type": "kanji",
+      "value": "親",
+      "id": 770,
+      "reading": "しん"
+    }
+  ]
+}

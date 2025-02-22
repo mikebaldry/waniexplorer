@@ -1,44 +1,20 @@
 {
   "id": 8563,
   "type": "vocabulary",
-  "characters": "環礁",
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "環礁"
+  },
   "primaryMeaning": "Atoll",
+  "meaningMnemonic": "A <kanji>reef</kanji> in the shape of a <kanji>loop</kanji> is an <a href=\"http://en.wikipedia.org/wiki/Atoll\" target=\"_blank\" rel=\"noreferrer noopener\"><vocabulary>atoll</vocabulary></a>. If you don't know what that is, it's a <vocabulary>circular coral reef</vocabulary>. ",
+  "primaryReading": "かんしょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Circular Coral Reef"
   ],
-  "primaryReading": "かんしょう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1240,
-      "character": "環",
-      "readings": [
-        "かん"
-      ]
-    },
-    {
-      "id": 2413,
-      "character": "礁",
-      "readings": [
-        "しょう"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>reef</kanji> in the shape of a <kanji>loop</kanji> is an <a href=\"http://en.wikipedia.org/wiki/Atoll\" target=\"_blank\" rel=\"noreferrer noopener\"><vocabulary>atoll</vocabulary></a>. If you don't know what that is, it's a <vocabulary>circular coral reef</vocabulary>. ",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%92%B0%E7%A4%81",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "環",
-      "id": 1240,
-      "reading": "かん"
-    },
-    {
-      "type": "kanji",
-      "value": "礁",
-      "id": 2413,
-      "reading": "しょう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%92%B0%E7%A4%81"
+  }
 }

@@ -1,44 +1,52 @@
 {
   "id": 1158,
   "type": "kanji",
-  "character": "過",
-  "primaryMeaning": "Surpass",
-  "otherMeanings": [],
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "過"
+  },
   "primaryReading": "か",
   "readings": [
     {
-      "reading": "か",
       "primary": true,
+      "reading": "か",
       "type": "onyomi"
     },
     {
-      "reading": "す",
       "primary": false,
+      "reading": "す",
       "type": "kunyomi"
     },
     {
-      "reading": "あやま",
       "primary": false,
+      "reading": "あやま",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "Suddenly, something else manages to <kanji>surpass</kanji> you all. It's a <reading>ca</reading>r (か)! A car with two mustaches is also riding on a scooter and going way faster than you.",
+  "primaryMeaning": "Surpass",
+  "otherMeanings": [],
   "meaningMnemonic": "While riding on your <radical>scooter</radical>, you grow a <radical>mustache</radical> on top of the <radical>mustache</radical> you already have in order to <kanji>surpass</kanji> the people around you. You're in a scooter race and your mustache is the only thing keeping you in the lead, but someone else has a mustache too! So you grow another mustache to surpass them once again!",
-  "vocabularyIds": [
-    4492,
-    4493,
-    4661,
-    4662,
-    4998,
-    5184,
-    6407,
-    7965,
-    8114,
-    8158
-  ],
-  "radicalIds": [
-    114,
-    121
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%81%8E"
+  "readingMnemonic": "Suddenly, something else manages to <kanji>surpass</kanji> you all. It's a <reading>ca</reading>r (か)! A car with two mustaches is also riding on a scooter and going way faster than you.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%81%8E"
+  },
+  "related": {
+    "radicals": [
+      114,
+      121
+    ],
+    "vocabularies": [
+      4492,
+      4493,
+      4661,
+      4662,
+      4998,
+      5184,
+      6407,
+      7965,
+      8114,
+      8158
+    ]
+  }
 }

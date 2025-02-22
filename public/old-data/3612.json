@@ -1,0 +1,32 @@
+{
+  "id": 3612,
+  "type": "vocabulary",
+  "characters": "熱",
+  "primaryMeaning": "Fever",
+  "otherMeanings": [
+    "Heat"
+  ],
+  "primaryReading": "ねつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 882,
+      "character": "熱",
+      "readings": [
+        "ねつ",
+        "あつ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji, so don't get all feverish over this one.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%86%B1",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "熱",
+      "id": 882,
+      "reading": "ねつ"
+    }
+  ]
+}

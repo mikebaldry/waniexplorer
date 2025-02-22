@@ -1,0 +1,46 @@
+{
+  "id": 6978,
+  "type": "vocabulary",
+  "characters": "魔女",
+  "primaryMeaning": "Witch",
+  "otherMeanings": [],
+  "primaryReading": "まじょ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1945,
+      "character": "魔",
+      "readings": [
+        "ま"
+      ]
+    },
+    {
+      "id": 454,
+      "character": "女",
+      "readings": [
+        "じょ",
+        "にょ",
+        "にょう",
+        "おんな",
+        "め"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>devil</kanji> <kanji>woman</kanji> is a <vocabulary>witch</vocabulary>. She uses magic, so she must be a witch! Also, does she float like wood / a very small rock?",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%AD%94%E5%A5%B3",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "魔",
+      "id": 1945,
+      "reading": "ま"
+    },
+    {
+      "type": "kanji",
+      "value": "女",
+      "id": 454,
+      "reading": "じょ"
+    }
+  ]
+}

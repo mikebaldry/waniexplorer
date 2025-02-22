@@ -1,0 +1,46 @@
+{
+  "id": 4089,
+  "type": "vocabulary",
+  "characters": "情報",
+  "primaryMeaning": "Information",
+  "otherMeanings": [
+    "Data"
+  ],
+  "primaryReading": "じょうほう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 891,
+      "character": "情",
+      "readings": [
+        "じょう",
+        "なさ"
+      ]
+    },
+    {
+      "id": 1035,
+      "character": "報",
+      "readings": [
+        "ほう",
+        "むく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>feeling</kanji> of <kanji>news</kanji> is that it should give you <vocabulary>information</vocabulary> and <vocabulary>data</vocabulary>, not fluff.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%83%85%E5%A0%B1",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "情",
+      "id": 891,
+      "reading": "じょう"
+    },
+    {
+      "type": "kanji",
+      "value": "報",
+      "id": 1035,
+      "reading": "ほう"
+    }
+  ]
+}

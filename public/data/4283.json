@@ -1,36 +1,22 @@
 {
   "id": 4283,
   "type": "vocabulary",
-  "characters": "嫌",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "嫌"
+  },
   "primaryMeaning": "Dislike",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well. The vocab has the added meanings of <vocabulary>eww</vocabulary>, <vocabulary>gross</vocabulary>, and even <vocabulary>reluctant</vocabulary>.",
+  "primaryReading": "いや",
+  "readingMnemonic": "The reading for this word is pretty weird. It's different than the 嫌い word you will see in this level too. It is いや, so when you think of something you dislike, just think \"<reading>iyah</reading> (いや), I dislike it.\" Also, think about that <vocabulary>eww</vocabulary> feeling it gives you when you think of the thing you dislike most.",
   "otherMeanings": [
     "Eww",
     "Gross",
     "Reluctant"
   ],
-  "primaryReading": "いや",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1104,
-      "character": "嫌",
-      "readings": [
-        "けん",
-        "げん",
-        "いや",
-        "きら"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well. The vocab has the added meanings of <vocabulary>eww</vocabulary>, <vocabulary>gross</vocabulary>, and even <vocabulary>reluctant</vocabulary>.",
-  "readingMnemonic": "The reading for this word is pretty weird. It's different than the 嫌い word you will see in this level too. It is いや, so when you think of something you dislike, just think \"<reading>iyah</reading> (いや), I dislike it.\" Also, think about that <vocabulary>eww</vocabulary> feeling it gives you when you think of the thing you dislike most.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AB%8C",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "嫌",
-      "id": 1104,
-      "reading": "いや"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%AB%8C"
+  }
 }

@@ -1,36 +1,20 @@
 {
   "id": 7311,
   "type": "vocabulary",
-  "characters": "煮る",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "煮る"
+  },
   "primaryMeaning": "To Boil Something",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. \n\nThe kanji itself means <kanji>boil</kanji> and the verb vocab version is <vocabulary>to boil something</vocabulary>. This is a transitive verb, so it's used when you put something into a pot and boil it up. ",
+  "primaryReading": "にる",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
   "otherMeanings": [
     "To Simmer Something"
   ],
-  "primaryReading": "にる",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2067,
-      "character": "煮",
-      "readings": [
-        "に",
-        "しゃ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. \n\nThe kanji itself means <kanji>boil</kanji> and the verb vocab version is <vocabulary>to boil something</vocabulary>. This is a transitive verb, so it's used when you put something into a pot and boil it up. ",
-  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%85%AE%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "煮",
-      "id": 2067,
-      "reading": "に"
-    },
-    {
-      "type": "kana",
-      "value": "る"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%85%AE%E3%82%8B"
+  }
 }

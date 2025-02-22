@@ -1,46 +1,20 @@
 {
   "id": 4172,
   "type": "vocabulary",
-  "characters": "八冊",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "八冊"
+  },
   "primaryMeaning": "Eight Books",
+  "meaningMnemonic": "When you have <kanji>eight</kanji> <kanji>books</kanji> you have <vocabulary>eight books</vocabulary>. This is an example of how to count books, so if you have eight of them this is what you'd say.",
+  "primaryReading": "はっさつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. The はち part gets shortened as it often does when put into situations like this, making it はっ. The 冊 is all normal, and to the \"book(s).\" Har!",
   "otherMeanings": [
     "Eight Volumes"
   ],
-  "primaryReading": "はっさつ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 446,
-      "character": "八",
-      "readings": [
-        "はち",
-        "や",
-        "よう"
-      ]
-    },
-    {
-      "id": 1071,
-      "character": "冊",
-      "readings": [
-        "さつ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "When you have <kanji>eight</kanji> <kanji>books</kanji> you have <vocabulary>eight books</vocabulary>. This is an example of how to count books, so if you have eight of them this is what you'd say.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. The はち part gets shortened as it often does when put into situations like this, making it はっ. The 冊 is all normal, and to the \"book(s).\" Har!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%85%AB%E5%86%8A",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "八",
-      "id": 446,
-      "reading": null
-    },
-    {
-      "type": "kanji",
-      "value": "冊",
-      "id": 1071,
-      "reading": null
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%85%AB%E5%86%8A"
+  }
 }

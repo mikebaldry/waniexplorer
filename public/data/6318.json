@@ -1,37 +1,21 @@
 {
   "id": 6318,
   "type": "vocabulary",
-  "characters": "譲る",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "譲る"
+  },
   "primaryMeaning": "To Concede",
+  "meaningMnemonic": "If you are going to <kanji>defer</kanji> to someone, you are going <vocabulary>to concede</vocabulary> something. I concede / defer this to you.",
+  "primaryReading": "ゆずる",
+  "readingMnemonic": "What are you conceding? Some delicious <reading>yuzu</reading> (ゆず). You are sad, because they're so much better than lemons and now you don't have them.",
   "otherMeanings": [
     "To Hand Over",
     "To Turn Over"
   ],
-  "primaryReading": "ゆずる",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1736,
-      "character": "譲",
-      "readings": [
-        "じょう",
-        "ゆず"
-      ]
-    }
-  ],
-  "meaningMnemonic": "If you are going to <kanji>defer</kanji> to someone, you are going <vocabulary>to concede</vocabulary> something. I concede / defer this to you.",
-  "readingMnemonic": "What are you conceding? Some delicious <reading>yuzu</reading> (ゆず). You are sad, because they're so much better than lemons and now you don't have them.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%AD%B2%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "譲",
-      "id": 1736,
-      "reading": "ゆず"
-    },
-    {
-      "type": "kana",
-      "value": "る"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%AD%B2%E3%82%8B"
+  }
 }

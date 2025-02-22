@@ -1,0 +1,36 @@
+{
+  "id": 4747,
+  "type": "vocabulary",
+  "characters": "限る",
+  "primaryMeaning": "To Limit",
+  "otherMeanings": [
+    "To Be Limited"
+  ],
+  "primaryReading": "かぎる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1248,
+      "character": "限",
+      "readings": [
+        "げん",
+        "かぎ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>limit</kanji> so the verb vocab version is <vocabulary>to limit</vocabulary>. It is often used in the passive form 限られる, which means <vocabulary>to be limited</vocabulary>, implying that the limiting is being done by someone else.\n\nThis is a formal word used to define the limits of time, space, or quantity, or to set restrictions on things. It is also used casually when emphasizing something in particular or considering something to be the best. ",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: <vocabulary>to limit</vocabulary> things, you have something called a <reading>ca</reading>r (か) <reading>guillotine</reading> (ぎ) which you drive around limiting everything with.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%99%90%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "限",
+      "id": 1248,
+      "reading": "かぎ"
+    },
+    {
+      "type": "kana",
+      "value": "る"
+    }
+  ]
+}

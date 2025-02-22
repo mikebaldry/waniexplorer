@@ -1,12 +1,15 @@
 {
   "id": 146,
   "type": "radical",
-  "primaryMeaning": "Husband",
-  "otherMeanings": [],
-  "character": {
+  "level": 7,
+  "characters": {
     "type": "text",
     "value": "夫"
   },
+  "primaryMeaning": "Husband",
+  "otherMeanings": [],
   "meaningMnemonic": "The radicals ground and big make up this radical. There's a big guy on the ground... who is that big guy? Embarrassingly, it's your <radical>husband</radical>. Feel the shame that he got knocked down on the ground. By what? Who? How? (It doesn't matter.)\n\nDon't confuse this with 未 (jet), though. See how 未 has a little tail at the end? That's because jets and other planes have tails, while husbands don't. At least I'd sure hope yours doesn't.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/husband"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/husband"
+  }
 }

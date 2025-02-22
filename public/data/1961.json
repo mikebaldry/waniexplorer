@@ -1,26 +1,34 @@
 {
   "id": 1961,
   "type": "kanji",
-  "character": "幽",
-  "primaryMeaning": "Secluded",
-  "otherMeanings": [],
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "幽"
+  },
   "primaryReading": "ゆう",
   "readings": [
     {
-      "reading": "ゆう",
       "primary": true,
+      "reading": "ゆう",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "The <kanji>secluded</kanji> Poop Poop Mountain is a favorite of <reading>you</reading>ths (ゆう). They go there to get away from their phones to get in touch with nature again. ",
+  "primaryMeaning": "Secluded",
+  "otherMeanings": [],
   "meaningMnemonic": "<radical>Poop</radical> <radical>Poop</radical> <radical>Mountain</radical> is covered in poop because it is such a <kanji>secluded</kanji> place.",
-  "vocabularyIds": [
-    7019,
-    7020
-  ],
-  "radicalIds": [
-    87,
-    20
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%B9%BD"
+  "readingMnemonic": "The <kanji>secluded</kanji> Poop Poop Mountain is a favorite of <reading>you</reading>ths (ゆう). They go there to get away from their phones to get in touch with nature again. ",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%B9%BD"
+  },
+  "related": {
+    "radicals": [
+      87,
+      20
+    ],
+    "vocabularies": [
+      7019,
+      7020
+    ]
+  }
 }

@@ -1,47 +1,20 @@
 {
   "id": 4374,
   "type": "vocabulary",
-  "characters": "関心",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "関心"
+  },
   "primaryMeaning": "Concern",
+  "meaningMnemonic": "The things <kanji>related</kanji> to your <kanji>heart</kanji> are the things that <vocabulary>concern</vocabulary> and <vocabulary>interest</vocabulary> you the most.",
+  "primaryReading": "かんしん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Interest"
   ],
-  "primaryReading": "かんしん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 982,
-      "character": "関",
-      "readings": [
-        "かん",
-        "かか",
-        "せき"
-      ]
-    },
-    {
-      "id": 508,
-      "character": "心",
-      "readings": [
-        "しん",
-        "こころ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The things <kanji>related</kanji> to your <kanji>heart</kanji> are the things that <vocabulary>concern</vocabulary> and <vocabulary>interest</vocabulary> you the most.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%96%A2%E5%BF%83",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "関",
-      "id": 982,
-      "reading": "かん"
-    },
-    {
-      "type": "kanji",
-      "value": "心",
-      "id": 508,
-      "reading": "しん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%96%A2%E5%BF%83"
+  }
 }

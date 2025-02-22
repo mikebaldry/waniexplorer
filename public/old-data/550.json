@@ -1,0 +1,30 @@
+{
+  "id": 550,
+  "type": "kanji",
+  "character": "竹",
+  "primaryMeaning": "Bamboo",
+  "otherMeanings": [],
+  "primaryReading": "たけ",
+  "readings": [
+    {
+      "reading": "たけ",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "ちく",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Today is free <vocabulary>bamboo</vocabulary> day, so just <reading>take</reading> (たけ) all the bamboo you want. ",
+  "meaningMnemonic": "The <radical>bamboo</radical> radical and the <kanji>bamboo</kanji> kanji are exactly the same!",
+  "vocabularyIds": [
+    2684,
+    2685
+  ],
+  "radicalIds": [
+    85
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%AB%B9"
+}

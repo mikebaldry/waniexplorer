@@ -1,46 +1,21 @@
 {
   "id": 9014,
   "type": "vocabulary",
-  "characters": "冥界",
+  "level": 60,
+  "characters": {
+    "type": "text",
+    "value": "冥界"
+  },
   "primaryMeaning": "Underworld",
+  "meaningMnemonic": "The <kanji>underworld</kanji> <kanji>world</kanji> is the <vocabulary>underworld</vocabulary>, <vocabulary>Hades</vocabulary>, or the <vocabulary>realm of the dead</vocabulary>.\n\nThis word is a bit poetic, and mostly used in writing, particularly in contexts like Buddhism, spirituality, and ancient mythologies. It's usually interchangeable with 冥土 (which is also in this level), but 冥土 is used more in certain set expressions, which we'll mention in the page for that word!",
+  "primaryReading": "めいかい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You learned those with the kanji, so you should be able to read this on your own.",
   "otherMeanings": [
     "Hades",
     "Realm Of The Dead"
   ],
-  "primaryReading": "めいかい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 9012,
-      "character": "冥",
-      "readings": [
-        "めい",
-        "みょう"
-      ]
-    },
-    {
-      "id": 728,
-      "character": "界",
-      "readings": [
-        "かい"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The <kanji>underworld</kanji> <kanji>world</kanji> is the <vocabulary>underworld</vocabulary>, <vocabulary>Hades</vocabulary>, or the <vocabulary>realm of the dead</vocabulary>.\n\nThis word is a bit poetic, and mostly used in writing, particularly in contexts like Buddhism, spirituality, and ancient mythologies. It's usually interchangeable with 冥土 (which is also in this level), but 冥土 is used more in certain set expressions, which we'll mention in the page for that word!",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You learned those with the kanji, so you should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%86%A5%E7%95%8C",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "冥",
-      "id": 9012,
-      "reading": "めい"
-    },
-    {
-      "type": "kanji",
-      "value": "界",
-      "id": 728,
-      "reading": "かい"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%86%A5%E7%95%8C"
+  }
 }

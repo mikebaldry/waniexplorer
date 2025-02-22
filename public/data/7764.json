@@ -1,45 +1,20 @@
 {
   "id": 7764,
   "type": "vocabulary",
-  "characters": "対応",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "対応"
+  },
   "primaryMeaning": "Dealing With",
+  "meaningMnemonic": "How you <kanji>respond</kanji> <kanji>versus</kanji> someone else is how you're <vocabulary>dealing with</vocabulary> them. It's your <vocabulary>response</vocabulary> to their words and actions.",
+  "primaryReading": "たいおう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Response"
   ],
-  "primaryReading": "たいおう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 683,
-      "character": "対",
-      "readings": [
-        "たい"
-      ]
-    },
-    {
-      "id": 1180,
-      "character": "応",
-      "readings": [
-        "おう",
-        "こた"
-      ]
-    }
-  ],
-  "meaningMnemonic": "How you <kanji>respond</kanji> <kanji>versus</kanji> someone else is how you're <vocabulary>dealing with</vocabulary> them. It's your <vocabulary>response</vocabulary> to their words and actions.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AF%BE%E5%BF%9C",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "対",
-      "id": 683,
-      "reading": "たい"
-    },
-    {
-      "type": "kanji",
-      "value": "応",
-      "id": 1180,
-      "reading": "おう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%AF%BE%E5%BF%9C"
+  }
 }

@@ -1,0 +1,35 @@
+{
+  "id": 793,
+  "type": "kanji",
+  "character": "波",
+  "primaryMeaning": "Wave",
+  "otherMeanings": [],
+  "primaryReading": "は",
+  "readings": [
+    {
+      "reading": "は",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "なみ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "When each <kanji>wave</kanji> hits your body, you shout, \"<reading>Ha</reading> (は)!\" It's not like it's on purpose. When the wave crashes into you, the wind gets knocked right out of your mouth, making a HA sound.",
+  "meaningMnemonic": "A <radical>tsunami</radical> hits your <radical>skin</radical> and creates smaller <kanji>wave</kanji>s. Those hit you too!",
+  "vocabularyIds": [
+    3280,
+    5995,
+    6014,
+    6770,
+    7490,
+    8135
+  ],
+  "radicalIds": [
+    103,
+    195
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%B3%A2"
+}

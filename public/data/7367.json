@@ -1,48 +1,21 @@
 {
   "id": 7367,
   "type": "vocabulary",
-  "characters": "巧妙",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "巧妙"
+  },
   "primaryMeaning": "Clever",
+  "meaningMnemonic": "Something that is <kanji>adept</kanji> but <kanji>peculiar</kanji> in how adept it is would have to be something truly <vocabulary>clever</vocabulary> and <vocabulary>ingenious</vocabulary>. Like a clever scam or trick.\n\n巧妙 is typically used to describe deceptive actions, techniques, or methods that are not only <vocabulary>skillful</vocabulary> but also somewhat sly or crafty. It indicates a level of sophistication, often involving clever scheming or manipulation. ",
+  "primaryReading": "こうみょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Ingenious",
     "Skillful"
   ],
-  "primaryReading": "こうみょう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2085,
-      "character": "巧",
-      "readings": [
-        "こう",
-        "うま",
-        "たく"
-      ]
-    },
-    {
-      "id": 1364,
-      "character": "妙",
-      "readings": [
-        "みょう",
-        "たえ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Something that is <kanji>adept</kanji> but <kanji>peculiar</kanji> in how adept it is would have to be something truly <vocabulary>clever</vocabulary> and <vocabulary>ingenious</vocabulary>. Like a clever scam or trick.\n\n巧妙 is typically used to describe deceptive actions, techniques, or methods that are not only <vocabulary>skillful</vocabulary> but also somewhat sly or crafty. It indicates a level of sophistication, often involving clever scheming or manipulation. ",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B7%A7%E5%A6%99",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "巧",
-      "id": 2085,
-      "reading": "こう"
-    },
-    {
-      "type": "kanji",
-      "value": "妙",
-      "id": 1364,
-      "reading": "みょう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%B7%A7%E5%A6%99"
+  }
 }

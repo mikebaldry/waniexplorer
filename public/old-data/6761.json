@@ -1,0 +1,36 @@
+{
+  "id": 6761,
+  "type": "vocabulary",
+  "characters": "揺れる",
+  "primaryMeaning": "To Be Shaken",
+  "otherMeanings": [
+    "To Be Jolted"
+  ],
+  "primaryReading": "ゆれる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1817,
+      "character": "揺",
+      "readings": [
+        "よう",
+        "ゆ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Remember 揺る which means \"to shake\" or \"to jolt\"? This is like that, but now you're not doing the shaking and jolting, making it <vocabulary>to be shaken</vocabulary> or <vocabulary>to be jolted</vocabulary>. You know this because it's really <reading>rare</reading> (れる) for you to be shaken like this.",
+  "readingMnemonic": "The reading comes from 揺る.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8F%BA%E3%82%8C%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "揺",
+      "id": 1817,
+      "reading": "ゆ"
+    },
+    {
+      "type": "kana",
+      "value": "れる"
+    }
+  ]
+}

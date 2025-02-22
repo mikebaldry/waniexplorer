@@ -1,47 +1,20 @@
 {
   "id": 4039,
   "type": "vocabulary",
-  "characters": "伝説",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "伝説"
+  },
   "primaryMeaning": "Legend",
+  "meaningMnemonic": "When people <kanji>transmit</kanji> a <kanji>theory</kanji> through the ages, it can turn into a <vocabulary>legend</vocabulary>, or <vocabulary>legendary story</vocabulary>. Kind of like how the \"theory\" of King Arthur's sword turned into the legend of Excalibur.",
+  "primaryReading": "でんせつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. You just have to remember that 伝 is read as でん in this case. Just imagine yourself sitting in your <reading>den</reading> (でん) as you get cozy and listen to this theory about a great <vocabulary>legend</vocabulary>.",
   "otherMeanings": [
     "Legendary Story"
   ],
-  "primaryReading": "でんせつ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 777,
-      "character": "伝",
-      "readings": [
-        "でん",
-        "つた",
-        "つて"
-      ]
-    },
-    {
-      "id": 1026,
-      "character": "説",
-      "readings": [
-        "せつ",
-        "と"
-      ]
-    }
-  ],
-  "meaningMnemonic": "When people <kanji>transmit</kanji> a <kanji>theory</kanji> through the ages, it can turn into a <vocabulary>legend</vocabulary>, or <vocabulary>legendary story</vocabulary>. Kind of like how the \"theory\" of King Arthur's sword turned into the legend of Excalibur.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. You just have to remember that 伝 is read as でん in this case. Just imagine yourself sitting in your <reading>den</reading> (でん) as you get cozy and listen to this theory about a great <vocabulary>legend</vocabulary>.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BC%9D%E8%AA%AC",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "伝",
-      "id": 777,
-      "reading": "でん"
-    },
-    {
-      "type": "kanji",
-      "value": "説",
-      "id": 1026,
-      "reading": "せつ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BC%9D%E8%AA%AC"
+  }
 }

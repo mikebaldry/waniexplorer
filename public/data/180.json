@@ -1,12 +1,15 @@
 {
   "id": 180,
   "type": "radical",
-  "primaryMeaning": "Kiss",
-  "otherMeanings": [],
-  "character": {
+  "level": 10,
+  "characters": {
     "type": "text",
     "value": "各"
   },
+  "primaryMeaning": "Kiss",
+  "otherMeanings": [],
   "meaningMnemonic": "When you combine winter and mouth you get... winter mouth! Or at least a mouth that tastes like winter because it's coming in for a <radical>kiss</radical>. Before you go kissing people you eat mints, right? It's common courtesy so you don't give them a mouth full of bad breath. So when you think of a winter mouth, think of a nice, minty kiss!",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/kiss"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/kiss"
+  }
 }

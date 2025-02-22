@@ -1,0 +1,64 @@
+{
+  "id": 4206,
+  "type": "vocabulary",
+  "characters": "大失敗",
+  "primaryMeaning": "Total Failure",
+  "otherMeanings": [
+    "Huge Mistake",
+    "Debacle",
+    "Epic Fail"
+  ],
+  "primaryReading": "だいしっぱい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 453,
+      "character": "大",
+      "readings": [
+        "たい",
+        "だい",
+        "おお",
+        "ひろ"
+      ]
+    },
+    {
+      "id": 654,
+      "character": "失",
+      "readings": [
+        "しつ",
+        "うしな"
+      ]
+    },
+    {
+      "id": 1004,
+      "character": "敗",
+      "readings": [
+        "はい",
+        "やぶ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You know how 失敗 is a mistake? Well, a <kanji>large</kanji> <kanji>mistake</kanji> is going to be a <vocabulary>total failure</vocabulary> or a <vocabulary>huge mistake</vocabulary>. So terrible!",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. It will help to know 失敗 on its own as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A4%A7%E5%A4%B1%E6%95%97",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "大",
+      "id": 453,
+      "reading": "だい"
+    },
+    {
+      "type": "kanji",
+      "value": "失",
+      "id": 654,
+      "reading": "しっ"
+    },
+    {
+      "type": "kanji",
+      "value": "敗",
+      "id": 1004,
+      "reading": "ぱい"
+    }
+  ]
+}

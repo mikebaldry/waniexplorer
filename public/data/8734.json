@@ -1,32 +1,20 @@
 {
   "id": 8734,
   "type": "vocabulary",
-  "characters": "戸",
+  "level": 3,
+  "characters": {
+    "type": "text",
+    "value": "戸"
+  },
   "primaryMeaning": "Japanese Style Door",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "と",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
   "otherMeanings": [
     "Door"
   ],
-  "primaryReading": "と",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 509,
-      "character": "戸",
-      "readings": [
-        "と",
-        "こ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
-  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%88%B8",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "戸",
-      "id": 509,
-      "reading": "と"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%88%B8"
+  }
 }

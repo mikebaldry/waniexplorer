@@ -1,0 +1,36 @@
+{
+  "id": 7895,
+  "type": "vocabulary",
+  "characters": "没",
+  "primaryMeaning": "Discard",
+  "otherMeanings": [
+    "Reject",
+    "Death"
+  ],
+  "primaryReading": "ぼつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2180,
+      "character": "没",
+      "readings": [
+        "ぼつ",
+        "もつ",
+        "おぼ",
+        "しず",
+        "ない"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When a plant or an animal <kanji>die</kanji>s you have to <vocabulary>discard</vocabulary> it. You can't just keep it sitting around the house after <vocabulary>death</vocabulary>, that's weird. ",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B2%A1",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "没",
+      "id": 2180,
+      "reading": "ぼつ"
+    }
+  ]
+}

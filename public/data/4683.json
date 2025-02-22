@@ -1,64 +1,21 @@
 {
   "id": 4683,
   "type": "vocabulary",
-  "characters": "自家製",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "自家製"
+  },
   "primaryMeaning": "Homemade",
+  "meaningMnemonic": "By my <kanji>self</kanji> at <kanji>home</kanji> I <kanji>manufacture</kanji>d this. It is <vocabulary>homemade</vocabulary>.",
+  "primaryReading": "じかせい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Home Brewed",
     "Made At Home"
   ],
-  "primaryReading": "じかせい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 578,
-      "character": "自",
-      "readings": [
-        "じ",
-        "し",
-        "みずか"
-      ]
-    },
-    {
-      "id": 660,
-      "character": "家",
-      "readings": [
-        "いえ",
-        "や",
-        "うち",
-        "か",
-        "け"
-      ]
-    },
-    {
-      "id": 1219,
-      "character": "製",
-      "readings": [
-        "せい"
-      ]
-    }
-  ],
-  "meaningMnemonic": "By my <kanji>self</kanji> at <kanji>home</kanji> I <kanji>manufacture</kanji>d this. It is <vocabulary>homemade</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%87%AA%E5%AE%B6%E8%A3%BD",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "自",
-      "id": 578,
-      "reading": "じ"
-    },
-    {
-      "type": "kanji",
-      "value": "家",
-      "id": 660,
-      "reading": "か"
-    },
-    {
-      "type": "kanji",
-      "value": "製",
-      "id": 1219,
-      "reading": "せい"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%87%AA%E5%AE%B6%E8%A3%BD"
+  }
 }

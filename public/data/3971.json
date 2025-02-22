@@ -1,30 +1,18 @@
 {
   "id": 3971,
   "type": "vocabulary",
-  "characters": "塩",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "塩"
+  },
   "primaryMeaning": "Salt",
-  "otherMeanings": [],
-  "primaryReading": "しお",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1002,
-      "character": "塩",
-      "readings": [
-        "しお",
-        "えん"
-      ]
-    }
-  ],
   "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "しお",
   "readingMnemonic": "The reading is the same as the one you learned with the kanji, no extra salt needed.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A1%A9",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "塩",
-      "id": 1002,
-      "reading": "しお"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A1%A9"
+  }
 }

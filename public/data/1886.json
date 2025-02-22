@@ -1,30 +1,38 @@
 {
   "id": 1886,
   "type": "kanji",
-  "character": "斗",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "斗"
+  },
+  "primaryReading": "と",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "と",
+      "type": "onyomi"
+    }
+  ],
   "primaryMeaning": "Ladle",
   "otherMeanings": [
     "Dipper",
     "Volume"
   ],
-  "primaryReading": "と",
-  "readings": [
-    {
-      "reading": "と",
-      "primary": true,
-      "type": "onyomi"
-    }
-  ],
-  "readingMnemonic": "You use a <kanji>ladle</kanji> to distribute soup. But as you're ladling you find something odd floating in the soup. It's... a <reading>toe</reading> (と)! You scream, dropping the ladle and the toe on the ground.",
   "meaningMnemonic": "The <radical>ladle</radical> radical and the <kanji>ladle</kanji> kanji are the same!",
-  "vocabularyIds": [
-    6803,
-    9055,
-    9056,
-    9098
-  ],
-  "radicalIds": [
-    129
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%96%97"
+  "readingMnemonic": "You use a <kanji>ladle</kanji> to distribute soup. But as you're ladling you find something odd floating in the soup. It's... a <reading>toe</reading> (と)! You scream, dropping the ladle and the toe on the ground.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%96%97"
+  },
+  "related": {
+    "radicals": [
+      129
+    ],
+    "vocabularies": [
+      6803,
+      9055,
+      9056,
+      9098
+    ]
+  }
 }

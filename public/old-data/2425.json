@@ -1,0 +1,34 @@
+{
+  "id": 2425,
+  "type": "kanji",
+  "character": "胆",
+  "primaryMeaning": "Guts",
+  "otherMeanings": [],
+  "primaryReading": "たん",
+  "readings": [
+    {
+      "reading": "たん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "きも",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You were outside for so long, proving you had <kanji>guts</kanji>, that you also got a sweet <reading>tan</reading> (たん) out of it! It's a really deep tan though, and you probably need more guts if you ever want to do all that again.",
+  "meaningMnemonic": "If you stay up for so long that you get to watch the <radical>moon</radical> go down and the <radical>dawn</radical> come, then people will say you have serious <kanji>guts</kanji>. Staying up that late is really hard, and not everyone can do it. If you don't have the guts to stay up, you'll just fall asleep and never see the moon and the sun switch places in the sky.",
+  "vocabularyIds": [
+    8571,
+    8572,
+    8573,
+    8574,
+    8575
+  ],
+  "radicalIds": [
+    43,
+    293
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%83%86"
+}

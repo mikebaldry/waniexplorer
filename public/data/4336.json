@@ -1,48 +1,21 @@
 {
   "id": 4336,
   "type": "vocabulary",
-  "characters": "防火",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "防火"
+  },
   "primaryMeaning": "Fire Prevention",
+  "meaningMnemonic": "Trying to <kanji>prevent</kanji> <kanji>fire</kanji>? Better get into <vocabulary>fire prevention</vocabulary>.",
+  "primaryReading": "ぼうか",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Fire Fighting",
     "Fire Proof"
   ],
-  "primaryReading": "ぼうか",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1117,
-      "character": "防",
-      "readings": [
-        "ぼう",
-        "ふせ"
-      ]
-    },
-    {
-      "id": 480,
-      "character": "火",
-      "readings": [
-        "か",
-        "ひ",
-        "ほ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Trying to <kanji>prevent</kanji> <kanji>fire</kanji>? Better get into <vocabulary>fire prevention</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%98%B2%E7%81%AB",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "防",
-      "id": 1117,
-      "reading": "ぼう"
-    },
-    {
-      "type": "kanji",
-      "value": "火",
-      "id": 480,
-      "reading": "か"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%98%B2%E7%81%AB"
+  }
 }

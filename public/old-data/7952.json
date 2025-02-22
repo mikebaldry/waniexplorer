@@ -1,0 +1,47 @@
+{
+  "id": 7952,
+  "type": "vocabulary",
+  "characters": "陳述",
+  "primaryMeaning": "Statement",
+  "otherMeanings": [
+    "Declaration",
+    "Allegation"
+  ],
+  "primaryReading": "ちんじゅつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2173,
+      "character": "陳",
+      "readings": [
+        "ちん",
+        "ひ"
+      ]
+    },
+    {
+      "id": 1243,
+      "character": "述",
+      "readings": [
+        "じゅつ",
+        "の"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Exhibit</kanji> what you want to <kanji>mention</kanji> in a loud, clear <vocabulary>statement</vocabulary>. You have to say it if you want people to listen.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%99%B3%E8%BF%B0",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "陳",
+      "id": 2173,
+      "reading": "ちん"
+    },
+    {
+      "type": "kanji",
+      "value": "述",
+      "id": 1243,
+      "reading": "じゅつ"
+    }
+  ]
+}

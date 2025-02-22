@@ -1,0 +1,32 @@
+{
+  "id": 7117,
+  "type": "vocabulary",
+  "characters": "掌",
+  "primaryMeaning": "Palm Of One's Hand",
+  "otherMeanings": [
+    "Palm"
+  ],
+  "primaryReading": "てのひら",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2002,
+      "character": "掌",
+      "readings": [
+        "しょう",
+        "てのひら"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you <kanji>manipulate</kanji> something, imagine you're doing it with your <vocabulary>palm</vocabulary>. You use your palm to manipulate the movement, and then you fine tune it further, all with your palm!\n\nSomething to note here is that you'll typically see palm in Japanese written as 手のひら. This kanji isn't as common but it does still mean the same thing.",
+  "readingMnemonic": "Where is the <vocabulary>palm of one's hand</vocabulary>? It's on your <reading>手のhere</reading> (てのひら). Right here. I point to my palm, and say \"hand here, is where my palm was.\"\n\nAnother noteworthy thing about this kanji is it can be read as たなごころ. You won't see it read this way as often though so we're only teaching you the main reading.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8E%8C",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "掌",
+      "id": 2002,
+      "reading": "てのひら"
+    }
+  ]
+}

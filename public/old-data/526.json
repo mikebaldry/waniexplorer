@@ -1,0 +1,31 @@
+{
+  "id": 526,
+  "type": "kanji",
+  "character": "矢",
+  "primaryMeaning": "Arrow",
+  "otherMeanings": [],
+  "primaryReading": "や",
+  "readings": [
+    {
+      "reading": "や",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "し",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "To remember the reading や we use the word “Yankees” (like the evil baseball team, go M’s!).\n\nWhat is this arrow doing? It’s following around all the <reading>Ya</reading>nkee (や) baseball players, stalking them, waiting to make its move (I’ll let you decide what its “move” is).",
+  "meaningMnemonic": "The <radical>arrow</radical> radical and the <kanji>arrow</kanji> kanji are the same. Sort of a \"straight\" shot to memorizing this kanji, you know?",
+  "vocabularyIds": [
+    2643,
+    4293,
+    5105
+  ],
+  "radicalIds": [
+    72
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%9F%A2"
+}

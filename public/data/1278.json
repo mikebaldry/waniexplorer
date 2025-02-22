@@ -1,40 +1,48 @@
 {
   "id": 1278,
   "type": "kanji",
-  "character": "掛",
-  "primaryMeaning": "Hang",
-  "otherMeanings": [],
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "掛"
+  },
   "primaryReading": "か",
   "readings": [
     {
-      "reading": "か",
       "primary": true,
+      "reading": "か",
       "type": "kunyomi"
     },
     {
-      "reading": "かい",
       "primary": false,
+      "reading": "かい",
       "type": "onyomi"
     },
     {
-      "reading": "けい",
       "primary": false,
+      "reading": "けい",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "You have this person <kanji>hang</kanji>ing upside-down but they don't seem to be suffering enough, so you hit them with your <reading>ca</reading>r (か). No mercy.",
+  "primaryMeaning": "Hang",
+  "otherMeanings": [],
   "meaningMnemonic": "Somebody got <radical>dirt</radical> on your <radical>fingers</radical> and <radical>dirt</radical> on your <radical>toe</radical>s so you're going to <kanji>hang</kanji> them upside-down and slap them with your dirty extremities.",
-  "vocabularyIds": [
-    4836,
-    5003,
-    5030,
-    6609,
-    8756
-  ],
-  "radicalIds": [
-    63,
-    17,
-    10
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%8E%9B"
+  "readingMnemonic": "You have this person <kanji>hang</kanji>ing upside-down but they don't seem to be suffering enough, so you hit them with your <reading>ca</reading>r (か). No mercy.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%8E%9B"
+  },
+  "related": {
+    "radicals": [
+      63,
+      17,
+      10
+    ],
+    "vocabularies": [
+      4836,
+      5003,
+      5030,
+      6609,
+      8756
+    ]
+  }
 }

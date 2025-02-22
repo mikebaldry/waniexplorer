@@ -1,0 +1,44 @@
+{
+  "id": 4518,
+  "type": "vocabulary",
+  "characters": "社費",
+  "primaryMeaning": "Company Expenses",
+  "otherMeanings": [],
+  "primaryReading": "しゃひ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 591,
+      "character": "社",
+      "readings": [
+        "しゃ",
+        "やしろ"
+      ]
+    },
+    {
+      "id": 1165,
+      "character": "費",
+      "readings": [
+        "ひ",
+        "つい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>company</kanji> <kanji>expense</kanji> is a <vocabulary>company expense</vocabulary>. These are nice, by the way, if you can get them.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A4%BE%E8%B2%BB",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "社",
+      "id": 591,
+      "reading": "しゃ"
+    },
+    {
+      "type": "kanji",
+      "value": "費",
+      "id": 1165,
+      "reading": "ひ"
+    }
+  ]
+}

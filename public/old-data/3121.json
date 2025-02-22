@@ -1,0 +1,50 @@
+{
+  "id": 3121,
+  "type": "vocabulary",
+  "characters": "魚屋",
+  "primaryMeaning": "Fish Shop",
+  "otherMeanings": [
+    "Fish Market",
+    "Fish Dealer",
+    "Fish Store",
+    "Fishmonger"
+  ],
+  "primaryReading": "さかなや",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 674,
+      "character": "魚",
+      "readings": [
+        "ぎょ",
+        "さかな",
+        "うお"
+      ]
+    },
+    {
+      "id": 724,
+      "character": "屋",
+      "readings": [
+        "や",
+        "おく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>fish</kanji> <kanji>shop</kanji> is a <vocabulary>fish shop</vocabulary>, a place from which you buy fish. Especially in Japan, very important.",
+  "readingMnemonic": "The kun'yomi reading is used for the 魚 (so it's さかな) and the kun'yomi reading is used for 屋 (や). You'll have to use the reading of 魚 from the vocabulary from a couple levels ago to remember the reading of this one.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%AD%9A%E5%B1%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "魚",
+      "id": 674,
+      "reading": "さかな"
+    },
+    {
+      "type": "kanji",
+      "value": "屋",
+      "id": 724,
+      "reading": "や"
+    }
+  ]
+}

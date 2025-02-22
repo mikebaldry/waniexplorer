@@ -1,0 +1,48 @@
+{
+  "id": 9075,
+  "type": "vocabulary",
+  "characters": "解凍",
+  "primaryMeaning": "Thawing",
+  "otherMeanings": [
+    "Defrosting",
+    "Unzipping"
+  ],
+  "primaryReading": "かいとう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1150,
+      "character": "解",
+      "readings": [
+        "かい",
+        "と"
+      ]
+    },
+    {
+      "id": 1351,
+      "character": "凍",
+      "readings": [
+        "とう",
+        "こお",
+        "こご"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you <kanji>untie</kanji> something that's <kanji>frozen</kanji>, you're <vocabulary>thawing</vocabulary> it. The best way to go about <vocabulary>defrosting</vocabulary> anything is always to untie it first.\n\nIn the context of computer files, this word can also mean <vocabulary>unzipping</vocabulary>. We unzip files in English, but in Japanese we thaw them!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi for both kanji, so you should be able to read this one on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A7%A3%E5%87%8D",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "解",
+      "id": 1150,
+      "reading": "かい"
+    },
+    {
+      "type": "kanji",
+      "value": "凍",
+      "id": 1351,
+      "reading": "とう"
+    }
+  ]
+}

@@ -1,25 +1,33 @@
 {
   "id": 1432,
   "type": "kanji",
-  "character": "枕",
-  "primaryMeaning": "Pillow",
-  "otherMeanings": [],
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "枕"
+  },
   "primaryReading": "まくら",
   "readings": [
     {
-      "reading": "まくら",
       "primary": true,
+      "reading": "まくら",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "As he hits you with his <kanji>pillow</kanji> he makes a demand: \"Give me your <reading>Mac cooler</reading> (まくら). He wants the device that cools down your Mac computer.",
+  "primaryMeaning": "Pillow",
+  "otherMeanings": [],
   "meaningMnemonic": "The <radical>tree</radical> <radical>pirate</radical> jumps from a tree and attacks you by hitting you with a <kanji>pillow</kanji>.",
-  "vocabularyIds": [
-    5329
-  ],
-  "radicalIds": [
-    23,
-    391
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%9E%95"
+  "readingMnemonic": "As he hits you with his <kanji>pillow</kanji> he makes a demand: \"Give me your <reading>Mac cooler</reading> (まくら). He wants the device that cools down your Mac computer.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%9E%95"
+  },
+  "related": {
+    "radicals": [
+      23,
+      391
+    ],
+    "vocabularies": [
+      5329
+    ]
+  }
 }

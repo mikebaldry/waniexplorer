@@ -1,0 +1,63 @@
+{
+  "id": 5132,
+  "type": "vocabulary",
+  "characters": "前売り券",
+  "primaryMeaning": "Advance Ticket",
+  "otherMeanings": [
+    "Ticket Sold In Advance"
+  ],
+  "primaryReading": "まえうりけん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 633,
+      "character": "前",
+      "readings": [
+        "ぜん",
+        "まえ"
+      ]
+    },
+    {
+      "id": 587,
+      "character": "売",
+      "readings": [
+        "ばい",
+        "う"
+      ]
+    },
+    {
+      "id": 1361,
+      "character": "券",
+      "readings": [
+        "けん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>ticket</kanji> you <kanji>sell</kanji> <kanji>before</kanji>hand are <vocabulary>advance ticket</vocabulary>s. This is a <vocabulary>ticket sold in advance</vocabulary>. Buy your tickets early, or how else will you get in on a Conan audience?",
+  "readingMnemonic": "The readings are 前, 売る and 券 combined into one awkward word.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%89%8D%E5%A3%B2%E3%82%8A%E5%88%B8",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "前",
+      "id": 633,
+      "reading": "まえ"
+    },
+    {
+      "type": "kanji",
+      "value": "売",
+      "id": 587,
+      "reading": "う"
+    },
+    {
+      "type": "kana",
+      "value": "り"
+    },
+    {
+      "type": "kanji",
+      "value": "券",
+      "id": 1361,
+      "reading": "けん"
+    }
+  ]
+}

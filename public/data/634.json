@@ -1,40 +1,48 @@
 {
   "id": 634,
   "type": "kanji",
-  "character": "南",
-  "primaryMeaning": "South",
-  "otherMeanings": [],
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "南"
+  },
   "primaryReading": "なん",
   "readings": [
     {
-      "reading": "なん",
       "primary": true,
+      "reading": "なん",
       "type": "onyomi"
     },
     {
-      "reading": "みなみ",
       "primary": false,
+      "reading": "みなみ",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "You finally make it down <kanji>south</kanji>, and it is dry, but you're really hungry. When you try to find southern food you realize every single store is only selling <reading>naan</reading> (なん).",
+  "primaryMeaning": "South",
+  "otherMeanings": [],
   "meaningMnemonic": "The <radical>cross</radical> you're holding above your <radical>head</radical> to keep your <radical>horns</radical> <radical>dry</radical> keeps pulling you <kanji>south</kanji>. Probably because it's warmer in the south of Japan, so it's easier to keep things dry.",
-  "vocabularyIds": [
-    2900,
-    2910,
-    3430,
-    3432,
-    5041,
-    6300,
-    8013,
-    8222,
-    8649
-  ],
-  "radicalIds": [
-    15,
-    29,
-    8767,
-    61
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%8D%97"
+  "readingMnemonic": "You finally make it down <kanji>south</kanji>, and it is dry, but you're really hungry. When you try to find southern food you realize every single store is only selling <reading>naan</reading> (なん).",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%8D%97"
+  },
+  "related": {
+    "radicals": [
+      15,
+      29,
+      8767,
+      61
+    ],
+    "vocabularies": [
+      2900,
+      2910,
+      3430,
+      3432,
+      5041,
+      6300,
+      8013,
+      8222,
+      8649
+    ]
+  }
 }

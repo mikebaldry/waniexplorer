@@ -1,36 +1,20 @@
 {
   "id": 6184,
   "type": "vocabulary",
-  "characters": "却って",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "却って"
+  },
   "primaryMeaning": "On The Contrary",
+  "meaningMnemonic": "Something that is <kanji>contrary</kanji>... this is the te-form version of contrary, meaning you're starting to say something, making this <vocabulary>on the contrary</vocabulary>.",
+  "primaryReading": "かえって",
+  "readingMnemonic": "The reading is like 変える, which is to change. So, if you change what the other person is saying to another way, then you're saying you're changing things. It has the same reading, so remember it that way.",
   "otherMeanings": [
     "Instead"
   ],
-  "primaryReading": "かえって",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1688,
-      "character": "却",
-      "readings": [
-        "きゃく",
-        "かえ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Something that is <kanji>contrary</kanji>... this is the te-form version of contrary, meaning you're starting to say something, making this <vocabulary>on the contrary</vocabulary>.",
-  "readingMnemonic": "The reading is like 変える, which is to change. So, if you change what the other person is saying to another way, then you're saying you're changing things. It has the same reading, so remember it that way.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8D%B4%E3%81%A3%E3%81%A6",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "却",
-      "id": 1688,
-      "reading": "かえ"
-    },
-    {
-      "type": "kana",
-      "value": "って"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%8D%B4%E3%81%A3%E3%81%A6"
+  }
 }

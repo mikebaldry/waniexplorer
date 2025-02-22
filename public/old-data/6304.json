@@ -1,0 +1,49 @@
+{
+  "id": 6304,
+  "type": "vocabulary",
+  "characters": "御飯",
+  "primaryMeaning": "Cooked Rice",
+  "otherMeanings": [
+    "Meal"
+  ],
+  "primaryReading": "ごはん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1728,
+      "character": "御",
+      "readings": [
+        "ご",
+        "ぎょ",
+        "お",
+        "おん",
+        "み"
+      ]
+    },
+    {
+      "id": 955,
+      "character": "飯",
+      "readings": [
+        "はん",
+        "めし"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>honorable</kanji> <kanji>meal</kanji> is <vocabulary>cooked rice</vocabulary>. It's the meal of Japan.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BE%A1%E9%A3%AF",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "御",
+      "id": 1728,
+      "reading": "ご"
+    },
+    {
+      "type": "kanji",
+      "value": "飯",
+      "id": 955,
+      "reading": "はん"
+    }
+  ]
+}

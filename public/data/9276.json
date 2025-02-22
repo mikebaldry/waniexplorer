@@ -1,42 +1,21 @@
 {
   "id": 9276,
   "type": "vocabulary",
-  "characters": "生じる",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "生じる"
+  },
   "primaryMeaning": "To Occur",
+  "meaningMnemonic": "Remember how 生まれる means \"to be born\"? This word is similar, but it's used for when non-living things are \"born\". So as an intransitive verb, this means <vocabulary>to occur</vocabulary> or <vocabulary>to arise</vocabulary>. When used transitively, it means <vocabulary>to cause something</vocabulary>. You'll probably encounter the intransitive use much more, though.",
+  "primaryReading": "しょうじる",
+  "readingMnemonic": "You'd think this would use kun'yomi, but it actually doesn't! Like other verbs ending in じる, this takes the on'yomi reading of the kanji. 生 has two of those, so here's a mnemonic to help you remember which one to use: \n\nIf you wanted anything <vocabulary>to occur</vocabulary> in medieval Japan, you needed to talk to the <reading>Shou</reading>gun. You always needed the Shougun's help <vocabulary>to cause something</vocabulary>. Without the Shougun, nothing would ever happen!",
   "otherMeanings": [
     "To Arise",
     "To Cause Something"
   ],
-  "primaryReading": "しょうじる",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 850,
-      "character": "生",
-      "readings": [
-        "せい",
-        "しょう",
-        "い",
-        "なま",
-        "う",
-        "は",
-        "き"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Remember how 生まれる means \"to be born\"? This word is similar, but it's used for when non-living things are \"born\". So as an intransitive verb, this means <vocabulary>to occur</vocabulary> or <vocabulary>to arise</vocabulary>. When used transitively, it means <vocabulary>to cause something</vocabulary>. You'll probably encounter the intransitive use much more, though.",
-  "readingMnemonic": "You'd think this would use kun'yomi, but it actually doesn't! Like other verbs ending in じる, this takes the on'yomi reading of the kanji. 生 has two of those, so here's a mnemonic to help you remember which one to use: \n\nIf you wanted anything <vocabulary>to occur</vocabulary> in medieval Japan, you needed to talk to the <reading>Shou</reading>gun. You always needed the Shougun's help <vocabulary>to cause something</vocabulary>. Without the Shougun, nothing would ever happen!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%94%9F%E3%81%98%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "生",
-      "id": 850,
-      "reading": "しょう"
-    },
-    {
-      "type": "kana",
-      "value": "じる"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%94%9F%E3%81%98%E3%82%8B"
+  }
 }

@@ -1,0 +1,48 @@
+{
+  "id": 4984,
+  "type": "vocabulary",
+  "characters": "気違い",
+  "primaryMeaning": "Crazy",
+  "otherMeanings": [],
+  "primaryReading": "きちがい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 548,
+      "character": "気",
+      "readings": [
+        "き",
+        "け"
+      ]
+    },
+    {
+      "id": 1220,
+      "character": "違",
+      "readings": [
+        "ちが",
+        "い"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Your <kanji>energy</kanji> is ... well ... <kanji>different</kanji>. That's the nice way to put it. You're <vocabulary>crazy</vocabulary>, actually.\n\nWARNING: We're teaching you this word because it's used quite a bit still (especially online) and we want you to be able to understand it if you see it. But please keep in mind that this is considered to be a discriminatory word against people with mental illnesses, so we strongly recommend you do not use or direct this word toward anyone. Think of it like a really inappropriate swear word that makes you really uncool if you say it. Please!\n\nWhile you still see the kanji version, this word is commonly written in katakana.",
+  "readingMnemonic": "The reading is 気 plus 違い.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B0%97%E9%81%95%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "気",
+      "id": 548,
+      "reading": "き"
+    },
+    {
+      "type": "kanji",
+      "value": "違",
+      "id": 1220,
+      "reading": "ちが"
+    },
+    {
+      "type": "kana",
+      "value": "い"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 3336,
+  "type": "vocabulary",
+  "characters": "本流",
+  "primaryMeaning": "Mainstream",
+  "otherMeanings": [],
+  "primaryReading": "ほんりゅう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 487,
+      "character": "本",
+      "readings": [
+        "ほん",
+        "もと"
+      ]
+    },
+    {
+      "id": 818,
+      "character": "流",
+      "readings": [
+        "りゅう",
+        "る",
+        "なが"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>origin</kanji> <kanji>stream</kanji>, that's where everything comes from. That is the <vocabulary>mainstream</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9C%AC%E6%B5%81",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "本",
+      "id": 487,
+      "reading": "ほん"
+    },
+    {
+      "type": "kanji",
+      "value": "流",
+      "id": 818,
+      "reading": "りゅう"
+    }
+  ]
+}

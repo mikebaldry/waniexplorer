@@ -1,51 +1,20 @@
 {
   "id": 8753,
   "type": "vocabulary",
-  "characters": "お土産",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "お土産"
+  },
   "primaryMeaning": "Souvenir",
+  "meaningMnemonic": "Are you visiting a neat place? Grab some <kanji>dirt</kanji> and bring it back with you. Then pretend to <kanji>give birth</kanji> to it in front of your friends. That dirt is now a special <vocabulary>souvenir</vocabulary>! It's the best <vocabulary>present</vocabulary> you could ever give someone!",
+  "primaryReading": "おみやげ",
+  "readingMnemonic": "These readings are exceptions, sorry! Here's a mnemonic to help you:\n\nWhen someone asks you who gave you a <vocabulary>souvenir</vocabulary>, just say \"<reading>Miya ga</reading>ve (みやげ) it to me.\" Who's Miya? No idea. But neither do they. You never have to remember who gave you anything ever again! Miya gave you everything you own. She's probably a great person.",
   "otherMeanings": [
     "Present"
   ],
-  "primaryReading": "おみやげ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 459,
-      "character": "土",
-      "readings": [
-        "ど",
-        "と",
-        "つち"
-      ]
-    },
-    {
-      "id": 1109,
-      "character": "産",
-      "readings": [
-        "さん",
-        "う"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Are you visiting a neat place? Grab some <kanji>dirt</kanji> and bring it back with you. Then pretend to <kanji>give birth</kanji> to it in front of your friends. That dirt is now a special <vocabulary>souvenir</vocabulary>! It's the best <vocabulary>present</vocabulary> you could ever give someone!",
-  "readingMnemonic": "These readings are exceptions, sorry! Here's a mnemonic to help you:\n\nWhen someone asks you who gave you a <vocabulary>souvenir</vocabulary>, just say \"<reading>Miya ga</reading>ve (みやげ) it to me.\" Who's Miya? No idea. But neither do they. You never have to remember who gave you anything ever again! Miya gave you everything you own. She's probably a great person.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E3%81%8A%E5%9C%9F%E7%94%A3",
-  "elements": [
-    {
-      "type": "kana",
-      "value": "お"
-    },
-    {
-      "type": "kanji",
-      "value": "土",
-      "id": 459,
-      "reading": null
-    },
-    {
-      "type": "kanji",
-      "value": "産",
-      "id": 1109,
-      "reading": null
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E3%81%8A%E5%9C%9F%E7%94%A3"
+  }
 }

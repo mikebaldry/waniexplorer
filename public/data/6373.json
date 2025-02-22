@@ -1,46 +1,20 @@
 {
   "id": 6373,
   "type": "vocabulary",
-  "characters": "歌唱",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "歌唱"
+  },
   "primaryMeaning": "Singing",
+  "meaningMnemonic": "You're <kanji>sing</kanji>ing and you're <kanji>chant</kanji>ing. It's a gay ol' time. You're <vocabulary>singing</vocabulary> and singing and singing!",
+  "primaryReading": "かしょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Song"
   ],
-  "primaryReading": "かしょう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 761,
-      "character": "歌",
-      "readings": [
-        "か",
-        "うた"
-      ]
-    },
-    {
-      "id": 1746,
-      "character": "唱",
-      "readings": [
-        "しょう",
-        "とな"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You're <kanji>sing</kanji>ing and you're <kanji>chant</kanji>ing. It's a gay ol' time. You're <vocabulary>singing</vocabulary> and singing and singing!",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%AD%8C%E5%94%B1",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "歌",
-      "id": 761,
-      "reading": "か"
-    },
-    {
-      "type": "kanji",
-      "value": "唱",
-      "id": 1746,
-      "reading": "しょう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%AD%8C%E5%94%B1"
+  }
 }

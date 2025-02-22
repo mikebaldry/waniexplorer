@@ -1,0 +1,46 @@
+{
+  "id": 8239,
+  "type": "vocabulary",
+  "characters": "来賓",
+  "primaryMeaning": "Guest",
+  "otherMeanings": [
+    "Visitor"
+  ],
+  "primaryReading": "らいひん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 590,
+      "character": "来",
+      "readings": [
+        "らい",
+        "く",
+        "き"
+      ]
+    },
+    {
+      "id": 2277,
+      "character": "賓",
+      "readings": [
+        "ひん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>VIP</kanji> <kanji>come</kanji>s to your door. They're your <vocabulary>guest</vocabulary>! I hope you aren't going to make them sleep in the couch.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9D%A5%E8%B3%93",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "来",
+      "id": 590,
+      "reading": "らい"
+    },
+    {
+      "type": "kanji",
+      "value": "賓",
+      "id": 2277,
+      "reading": "ひん"
+    }
+  ]
+}

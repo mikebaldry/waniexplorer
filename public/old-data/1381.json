@@ -1,0 +1,40 @@
+{
+  "id": 1381,
+  "type": "kanji",
+  "character": "乾",
+  "primaryMeaning": "Dry",
+  "otherMeanings": [],
+  "primaryReading": "かん",
+  "readings": [
+    {
+      "reading": "かん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "かわ",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "ほ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "This technique for a nice <kanji>dry</kanji> nose was invented by Genghis <reading>Khan</reading> (かん)! Well, not him, but someone who worked under him. You see, he had a bit of a damp nose problem.",
+  "meaningMnemonic": "In the <radical>morning</radical>, you use a <radical>gun</radical> on your <radical>nose</radical> to make it <kanji>dry</kanji>.",
+  "vocabularyIds": [
+    5213,
+    5214,
+    5215,
+    5711,
+    7809
+  ],
+  "radicalIds": [
+    8793,
+    8762,
+    324
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E4%B9%BE"
+}

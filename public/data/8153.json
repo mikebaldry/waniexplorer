@@ -1,37 +1,20 @@
 {
   "id": 8153,
   "type": "vocabulary",
-  "characters": "逸らす",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "逸らす"
+  },
   "primaryMeaning": "To Turn Away",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>deviate</kanji>, so the verb version is <vocabulary>to turn away</vocabulary> or <vocabulary>to avert</vocabulary>.",
+  "primaryReading": "そらす",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading.  You haven't learned this reading yet, so here's a mnemonic to help you:\n\nYou want <vocabulary>to turn away</vocabulary> from this movie because it's not worth watching. I mean, it isn't bad, but it isn't good. It's just <reading>so</reading>-so (そ). But that's not enough to keep your interest.",
   "otherMeanings": [
     "To Avert"
   ],
-  "primaryReading": "そらす",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2235,
-      "character": "逸",
-      "readings": [
-        "いつ",
-        "そ",
-        "はぐ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>deviate</kanji>, so the verb version is <vocabulary>to turn away</vocabulary> or <vocabulary>to avert</vocabulary>.",
-  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading.  You haven't learned this reading yet, so here's a mnemonic to help you:\n\nYou want <vocabulary>to turn away</vocabulary> from this movie because it's not worth watching. I mean, it isn't bad, but it isn't good. It's just <reading>so</reading>-so (そ). But that's not enough to keep your interest.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%80%B8%E3%82%89%E3%81%99",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "逸",
-      "id": 2235,
-      "reading": "そ"
-    },
-    {
-      "type": "kana",
-      "value": "らす"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%80%B8%E3%82%89%E3%81%99"
+  }
 }

@@ -1,0 +1,57 @@
+{
+  "id": 8595,
+  "type": "vocabulary",
+  "characters": "解剖学",
+  "primaryMeaning": "Anatomy",
+  "otherMeanings": [],
+  "primaryReading": "かいぼうがく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1150,
+      "character": "解",
+      "readings": [
+        "かい",
+        "と"
+      ]
+    },
+    {
+      "id": 2386,
+      "character": "剖",
+      "readings": [
+        "ぼう"
+      ]
+    },
+    {
+      "id": 599,
+      "character": "学",
+      "readings": [
+        "がく",
+        "まな"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Remember how you learned that 解剖 means \"autopsy?\" Well you have to <kanji>learn</kanji> about <vocabulary>anatomy</vocabulary> before you're going to be allowed to perform an autopsy or dissect anything. ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A7%A3%E5%89%96%E5%AD%A6",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "解",
+      "id": 1150,
+      "reading": "かい"
+    },
+    {
+      "type": "kanji",
+      "value": "剖",
+      "id": 2386,
+      "reading": "ぼう"
+    },
+    {
+      "type": "kanji",
+      "value": "学",
+      "id": 599,
+      "reading": "がく"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 8938,
+  "type": "vocabulary",
+  "characters": "点く",
+  "primaryMeaning": "To Be Lit",
+  "otherMeanings": [
+    "To Be Ignited",
+    "To Be On",
+    "To Come On"
+  ],
+  "primaryReading": "つく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 641,
+      "character": "点",
+      "readings": [
+        "てん",
+        "つ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb.\n\nThe kanji 点 means <kanji>point</kanji>, but this verb actually means <vocabulary>to be lit</vocabulary> or <vocabulary>to be ignited</vocabulary>. Think of it this way, when a flashlight turns on, it points a beam, of light.\n\nYou already learned 点ける, which is for when you turn something on. 点く, on the other hand, is an intransitive verb. That means it happens by itself. Like, \"Oh look! The lights came on! That's <reading>cool</reading> (く)!\"",
+  "readingMnemonic": "You already learned this reading when you learned 点ける but here's a mnemonic just in case:\n\nEvery time you count to <reading>two</reading> (つ) a light comes on. How <reading>cool</reading> (く) that it does it all by itself!!\n\n",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%82%B9%E3%81%8F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "点",
+      "id": 641,
+      "reading": "つ"
+    },
+    {
+      "type": "kana",
+      "value": "く"
+    }
+  ]
+}

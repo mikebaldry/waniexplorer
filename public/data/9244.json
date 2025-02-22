@@ -1,37 +1,21 @@
 {
   "id": 9244,
   "type": "vocabulary",
-  "characters": "疑う",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "疑う"
+  },
   "primaryMeaning": "To Doubt",
+  "meaningMnemonic": "The kanji means <kanji>doubt</kanji>, so this is just that as a verb. So this means <vocabulary>to doubt</vocabulary>, <vocabulary>to suspect</vocabulary>, or <vocabulary>to be suspicious of</vocabulary>.",
+  "primaryReading": "うたがう",
+  "readingMnemonic": "There's reason <vocabulary>to doubt</vocabulary> that you can teach an <reading>u</reading>ni <reading>Taga</reading>log (うたが), but once you try, it's actually not that hard. They're very good listeners after all.",
   "otherMeanings": [
     "To Suspect",
     "To Be Suspicious Of"
   ],
-  "primaryReading": "うたがう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 894,
-      "character": "疑",
-      "readings": [
-        "ぎ",
-        "うたが"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The kanji means <kanji>doubt</kanji>, so this is just that as a verb. So this means <vocabulary>to doubt</vocabulary>, <vocabulary>to suspect</vocabulary>, or <vocabulary>to be suspicious of</vocabulary>.",
-  "readingMnemonic": "There's reason <vocabulary>to doubt</vocabulary> that you can teach an <reading>u</reading>ni <reading>Taga</reading>log (うたが), but once you try, it's actually not that hard. They're very good listeners after all.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%96%91%E3%81%86",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "疑",
-      "id": 894,
-      "reading": "うたが"
-    },
-    {
-      "type": "kana",
-      "value": "う"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%96%91%E3%81%86"
+  }
 }

@@ -1,82 +1,20 @@
 {
   "id": 6346,
   "type": "vocabulary",
-  "characters": "一生懸命",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "一生懸命"
+  },
   "primaryMeaning": "With All One's Might",
+  "meaningMnemonic": "You have only <kanji>one</kanji> <kanji>life</kanji> so do everything with lots of <kanji>eager</kanji>ness (懸命). Do everything <vocabulary>with all one's might</vocabulary>. Go <vocabulary>all out</vocabulary>.",
+  "primaryReading": "いっしょうけんめい",
+  "readingMnemonic": "Everything except the 生 uses the readings you learned with the kanji, and you learned this reading of 生 when you learned 一生. You've really been going <vocabulary>all out</vocabulary> to learn these readings! ",
   "otherMeanings": [
     "All Out"
   ],
-  "primaryReading": "いっしょうけんめい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 440,
-      "character": "一",
-      "readings": [
-        "いち",
-        "いつ",
-        "ひと",
-        "かず"
-      ]
-    },
-    {
-      "id": 850,
-      "character": "生",
-      "readings": [
-        "せい",
-        "しょう",
-        "い",
-        "なま",
-        "う",
-        "は",
-        "き"
-      ]
-    },
-    {
-      "id": 1691,
-      "character": "懸",
-      "readings": [
-        "けん",
-        "か"
-      ]
-    },
-    {
-      "id": 789,
-      "character": "命",
-      "readings": [
-        "めい",
-        "みょう",
-        "いのち"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You have only <kanji>one</kanji> <kanji>life</kanji> so do everything with lots of <kanji>eager</kanji>ness (懸命). Do everything <vocabulary>with all one's might</vocabulary>. Go <vocabulary>all out</vocabulary>.",
-  "readingMnemonic": "Everything except the 生 uses the readings you learned with the kanji, and you learned this reading of 生 when you learned 一生. You've really been going <vocabulary>all out</vocabulary> to learn these readings! ",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%80%E7%94%9F%E6%87%B8%E5%91%BD",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "一",
-      "id": 440,
-      "reading": "いっ"
-    },
-    {
-      "type": "kanji",
-      "value": "生",
-      "id": 850,
-      "reading": "しょう"
-    },
-    {
-      "type": "kanji",
-      "value": "懸",
-      "id": 1691,
-      "reading": "けん"
-    },
-    {
-      "type": "kanji",
-      "value": "命",
-      "id": 789,
-      "reading": "めい"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B8%80%E7%94%9F%E6%87%B8%E5%91%BD"
+  }
 }

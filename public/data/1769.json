@@ -1,33 +1,41 @@
 {
   "id": 1769,
   "type": "kanji",
-  "character": "誉",
-  "primaryMeaning": "Honor",
-  "otherMeanings": [],
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "誉"
+  },
   "primaryReading": "よ",
   "readings": [
     {
-      "reading": "よ",
       "primary": true,
+      "reading": "よ",
       "type": "onyomi"
     },
     {
-      "reading": "ほ",
       "primary": false,
+      "reading": "ほ",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "Being one of little <kanji>honor</kanji>, you decide to squash these vocal fins with your <reading>yo</reading>-yo (よ). You take out your yo-yo and start bashing each fin with it until they stop talking about what little honor you have.",
+  "primaryMeaning": "Honor",
+  "otherMeanings": [],
   "meaningMnemonic": "There’s <radical>grass</radical> on the <radical>ground</radical> and the <radical>fins</radical> there <radical>say</radical> you have no <kanji>honor</kanji>. The fins are left over from the fish you dismembered and they do not believe it was an act of honor. Now they are just sitting on the ground on the grass, calling you out for having no honor.",
-  "vocabularyIds": [
-    6439,
-    6440
-  ],
-  "radicalIds": [
-    8783,
-    1,
-    2,
-    117
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%AA%89"
+  "readingMnemonic": "Being one of little <kanji>honor</kanji>, you decide to squash these vocal fins with your <reading>yo</reading>-yo (よ). You take out your yo-yo and start bashing each fin with it until they stop talking about what little honor you have.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%AA%89"
+  },
+  "related": {
+    "radicals": [
+      8783,
+      1,
+      2,
+      117
+    ],
+    "vocabularies": [
+      6439,
+      6440
+    ]
+  }
 }

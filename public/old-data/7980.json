@@ -1,0 +1,47 @@
+{
+  "id": 7980,
+  "type": "vocabulary",
+  "characters": "徐行",
+  "primaryMeaning": "Going Slowly",
+  "otherMeanings": [],
+  "primaryReading": "じょこう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2210,
+      "character": "徐",
+      "readings": [
+        "じょ",
+        "おもむ"
+      ]
+    },
+    {
+      "id": 580,
+      "character": "行",
+      "readings": [
+        "こう",
+        "ぎょう",
+        "い",
+        "おこな",
+        "ゆ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you <kanji>go</kanji> <kanji>gently</kanji> you're actually <vocabulary>going slowly</vocabulary>. You can't be gentle if you don't move slowly.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BE%90%E8%A1%8C",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "徐",
+      "id": 2210,
+      "reading": "じょ"
+    },
+    {
+      "type": "kanji",
+      "value": "行",
+      "id": 580,
+      "reading": "こう"
+    }
+  ]
+}

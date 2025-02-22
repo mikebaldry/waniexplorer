@@ -1,0 +1,36 @@
+{
+  "id": 7410,
+  "type": "vocabulary",
+  "characters": "偶に",
+  "primaryMeaning": "Occasionally",
+  "otherMeanings": [
+    "Once In A While"
+  ],
+  "primaryReading": "たまに",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2109,
+      "character": "偶",
+      "readings": [
+        "ぐう",
+        "たま"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Something you do <kanji>accidentally</kanji> is hopefully something you do <vocabulary>occasionally</vocabulary> or <vocabulary>once in a while</vocabulary>.\n\nAlso note that this word is usually written in hiragana. You'll only <em>occasionally</em> see it in kanji.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You haven't learned this reading yet, so here's a mnemonic to help you:\n\n<vocabulary>Occasionally</vocabulary> <reading>Tama</reading>ra (たま), the local ball girl, will take a break from her duties. But it's really only once in a while, because Tamara is such a hard worker.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%81%B6%E3%81%AB",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "偶",
+      "id": 2109,
+      "reading": "たま"
+    },
+    {
+      "type": "kana",
+      "value": "に"
+    }
+  ]
+}

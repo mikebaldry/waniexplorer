@@ -1,38 +1,22 @@
 {
   "id": 4392,
   "type": "vocabulary",
-  "characters": "減らす",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "減らす"
+  },
   "primaryMeaning": "To Decrease Something",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>decrease</kanji> so the verb vocab version is <vocabulary>to decrease something</vocabulary>. You can differentiate this from 減る because with this one, you are the one that is going to be doing the decreasing. The <reading>rush</reading> (らす) of decreasing something fills your veins.",
+  "primaryReading": "へらす",
+  "readingMnemonic": "The reading is the same as 減る, so if you know that reading you should know this one.",
   "otherMeanings": [
     "To Decrease",
     "To Reduce",
     "To Reduce Something"
   ],
-  "primaryReading": "へらす",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1059,
-      "character": "減",
-      "readings": [
-        "げん",
-        "へ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>decrease</kanji> so the verb vocab version is <vocabulary>to decrease something</vocabulary>. You can differentiate this from 減る because with this one, you are the one that is going to be doing the decreasing. The <reading>rush</reading> (らす) of decreasing something fills your veins.",
-  "readingMnemonic": "The reading is the same as 減る, so if you know that reading you should know this one.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B8%9B%E3%82%89%E3%81%99",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "減",
-      "id": 1059,
-      "reading": "へ"
-    },
-    {
-      "type": "kana",
-      "value": "らす"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B8%9B%E3%82%89%E3%81%99"
+  }
 }

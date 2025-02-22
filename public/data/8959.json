@@ -1,42 +1,22 @@
 {
   "id": 8959,
   "type": "vocabulary",
-  "characters": "テーブルの上",
+  "level": 3,
+  "characters": {
+    "type": "text",
+    "value": "テーブルの上"
+  },
   "primaryMeaning": "On The Table",
+  "meaningMnemonic": "First we have a katakana word, so it's safe to assume that it's a loan word. Like many loan words, it comes from English. Say it out loud and what do you have? That's right, \"table\". Then comes the particle の, which joins two nouns together. Finally we have 上, which you learned means \"up\" or \"above\". Put all of these pieces together and we have a phrase meaning <vocabulary>on the table</vocabulary> or <vocabulary>tabletop</vocabulary>!",
+  "primaryReading": "てーぶるのうえ",
+  "readingMnemonic": "In this phrase, 上 is a standalone word, so it uses the same reading that you learned when you learned the vocabulary. Easy to stay on top of that one, right?",
   "otherMeanings": [
     "Tabletop"
   ],
-  "primaryReading": "てーぶるのうえ",
   "otherReadings": [
     "テーブルのうえ"
   ],
-  "kanji": [
-    {
-      "id": 450,
-      "character": "上",
-      "readings": [
-        "じょう",
-        "うえ",
-        "あ",
-        "のぼ",
-        "うわ",
-        "かみ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "First we have a katakana word, so it's safe to assume that it's a loan word. Like many loan words, it comes from English. Say it out loud and what do you have? That's right, \"table\". Then comes the particle の, which joins two nouns together. Finally we have 上, which you learned means \"up\" or \"above\". Put all of these pieces together and we have a phrase meaning <vocabulary>on the table</vocabulary> or <vocabulary>tabletop</vocabulary>!",
-  "readingMnemonic": "In this phrase, 上 is a standalone word, so it uses the same reading that you learned when you learned the vocabulary. Easy to stay on top of that one, right?",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%E3%81%AE%E4%B8%8A",
-  "elements": [
-    {
-      "type": "kana",
-      "value": "テーブルの"
-    },
-    {
-      "type": "kanji",
-      "value": "上",
-      "id": 450,
-      "reading": "うえ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%E3%81%AE%E4%B8%8A"
+  }
 }

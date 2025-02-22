@@ -1,43 +1,18 @@
 {
   "id": 6591,
   "type": "vocabulary",
-  "characters": "挑発",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "挑発"
+  },
   "primaryMeaning": "Provocation",
-  "otherMeanings": [],
-  "primaryReading": "ちょうはつ",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1813,
-      "character": "挑",
-      "readings": [
-        "ちょう",
-        "いど"
-      ]
-    },
-    {
-      "id": 729,
-      "character": "発",
-      "readings": [
-        "はつ"
-      ]
-    }
-  ],
   "meaningMnemonic": "My <kanji>challenge</kanji> has made a <kanji>departure</kanji> and is being sent to the enemy. This challenge that I'm sending is a <vocabulary>provocation</vocabulary> to see if they'll take me up on my challenge.",
+  "primaryReading": "ちょうはつ",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8C%91%E7%99%BA",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "挑",
-      "id": 1813,
-      "reading": "ちょう"
-    },
-    {
-      "type": "kanji",
-      "value": "発",
-      "id": 729,
-      "reading": "はつ"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%8C%91%E7%99%BA"
+  }
 }

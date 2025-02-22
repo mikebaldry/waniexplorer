@@ -1,35 +1,43 @@
 {
   "id": 2324,
   "type": "kanji",
-  "character": "尉",
+  "level": 56,
+  "characters": {
+    "type": "text",
+    "value": "尉"
+  },
+  "primaryReading": "い",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "い",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "じょう",
+      "type": "onyomi"
+    }
+  ],
   "primaryMeaning": "Military Officer",
   "otherMeanings": [
     "Military Rank"
   ],
-  "primaryReading": "い",
-  "readings": [
-    {
-      "reading": "い",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "じょう",
-      "primary": false,
-      "type": "onyomi"
-    }
-  ],
-  "readingMnemonic": "That <kanji>military officer</kanji>'s favorite bird is an <reading>ea</reading>gle (い)! That should be obvious because the eagle is the bird of America! And that's the country he fights for!",
   "meaningMnemonic": "Who loves their <radical>flag</radical>, using <radical>jackhammer</radical>s, and precise <radical>measurement</radical>s? Your <kanji>military officer</kanji>! He's always saluting the flag, jackhammering near all the new recruits to test them, and checking the measurement between the floor and their pants. Who else could it be?",
-  "vocabularyIds": [
-    8270,
-    8271,
-    8272
-  ],
-  "radicalIds": [
-    37,
-    207,
-    74
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%B0%89"
+  "readingMnemonic": "That <kanji>military officer</kanji>'s favorite bird is an <reading>ea</reading>gle (い)! That should be obvious because the eagle is the bird of America! And that's the country he fights for!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%B0%89"
+  },
+  "related": {
+    "radicals": [
+      37,
+      207,
+      74
+    ],
+    "vocabularies": [
+      8270,
+      8271,
+      8272
+    ]
+  }
 }

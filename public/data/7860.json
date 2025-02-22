@@ -1,42 +1,18 @@
 {
   "id": 7860,
   "type": "vocabulary",
-  "characters": "鰐蟹",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "鰐蟹"
+  },
   "primaryMeaning": "WaniKani",
-  "otherMeanings": [],
-  "primaryReading": "わにかに",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2091,
-      "character": "鰐",
-      "readings": [
-        "わに"
-      ]
-    },
-    {
-      "id": 2092,
-      "character": "蟹",
-      "readings": [
-        "かに"
-      ]
-    }
-  ],
   "meaningMnemonic": "This is it. You're finally here. <a href=\"https://www.youtube.com/watch?v=q5th225wgsk\" target=\"_blank\">This is the moment where you learn the true meaning behind WaniKani!</a>",
+  "primaryReading": "わにかに",
   "readingMnemonic": "You should be able to read this on your own. And seriously... if you ever get this one wrong we're gonna show up at your house and look down at you with really, really disappointed looks on our faces. Don't let us down, kids.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%B0%90%E8%9F%B9",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "鰐",
-      "id": 2091,
-      "reading": "わに"
-    },
-    {
-      "type": "kanji",
-      "value": "蟹",
-      "id": 2092,
-      "reading": "かに"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%B0%90%E8%9F%B9"
+  }
 }

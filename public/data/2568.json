@@ -1,48 +1,21 @@
 {
   "id": 2568,
   "type": "vocabulary",
-  "characters": "左手",
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "左手"
+  },
   "primaryMeaning": "Left Hand",
+  "meaningMnemonic": "Your <kanji>left</kanji> <kanji>hand</kanji> is your <vocabulary>left hand</vocabulary>! This word can also be used to mean <vocabulary>left arm</vocabulary>, and <vocabulary>left-hand side</vocabulary>.",
+  "primaryReading": "ひだりて",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. This word, however, uses the kun'yomi readings. This is possibly because of 手, because body parts often use kun'yomi. You learned both readings with the individual words, so you should be able to read this.",
   "otherMeanings": [
     "Left Arm",
     "Left-Hand Side"
   ],
-  "primaryReading": "ひだりて",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 486,
-      "character": "左",
-      "readings": [
-        "さ",
-        "ひだり"
-      ]
-    },
-    {
-      "id": 474,
-      "character": "手",
-      "readings": [
-        "て",
-        "しゅ",
-        "ず"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Your <kanji>left</kanji> <kanji>hand</kanji> is your <vocabulary>left hand</vocabulary>! This word can also be used to mean <vocabulary>left arm</vocabulary>, and <vocabulary>left-hand side</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. This word, however, uses the kun'yomi readings. This is possibly because of 手, because body parts often use kun'yomi. You learned both readings with the individual words, so you should be able to read this.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B7%A6%E6%89%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "左",
-      "id": 486,
-      "reading": "ひだり"
-    },
-    {
-      "type": "kanji",
-      "value": "手",
-      "id": 474,
-      "reading": "て"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%B7%A6%E6%89%8B"
+  }
 }

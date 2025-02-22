@@ -1,51 +1,21 @@
 {
   "id": 5706,
   "type": "vocabulary",
-  "characters": "催促する",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "催促する"
+  },
   "primaryMeaning": "To Urge",
+  "meaningMnemonic": "If 催促 is <kanji>urge</kanji>, then the verb version would be <vocabulary>to urge</vocabulary>.",
+  "primaryReading": "さいそくする",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Will help to know 催促 first.",
   "otherMeanings": [
     "To Press For",
     "To Demand"
   ],
-  "primaryReading": "さいそくする",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1382,
-      "character": "催",
-      "readings": [
-        "さい",
-        "もよお"
-      ]
-    },
-    {
-      "id": 1383,
-      "character": "促",
-      "readings": [
-        "そく",
-        "うなが"
-      ]
-    }
-  ],
-  "meaningMnemonic": "If 催促 is <kanji>urge</kanji>, then the verb version would be <vocabulary>to urge</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Will help to know 催促 first.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%82%AC%E4%BF%83%E3%81%99%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "催",
-      "id": 1382,
-      "reading": "さい"
-    },
-    {
-      "type": "kanji",
-      "value": "促",
-      "id": 1383,
-      "reading": "そく"
-    },
-    {
-      "type": "kana",
-      "value": "する"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%82%AC%E4%BF%83%E3%81%99%E3%82%8B"
+  }
 }

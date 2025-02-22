@@ -1,48 +1,21 @@
 {
   "id": 3602,
   "type": "vocabulary",
-  "characters": "皆様",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "皆様"
+  },
   "primaryMeaning": "Everyone",
+  "meaningMnemonic": "<kanji>Everyone</kanji> (<kanji>formal name ender</kanji>). This is just a polite way to say <vocabulary>everyone</vocabulary> (and you want to be polite to everyone, because everyone &gt; you).",
+  "primaryReading": "みなさま",
+  "readingMnemonic": "The reading for both kanji here are the same as the ones you learned with their kanji. Everyone can breathe easier now.",
   "otherMeanings": [
     "All",
     "Everybody"
   ],
-  "primaryReading": "みなさま",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 895,
-      "character": "皆",
-      "readings": [
-        "みな",
-        "みんな",
-        "かい"
-      ]
-    },
-    {
-      "id": 865,
-      "character": "様",
-      "readings": [
-        "さま",
-        "よう"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Everyone</kanji> (<kanji>formal name ender</kanji>). This is just a polite way to say <vocabulary>everyone</vocabulary> (and you want to be polite to everyone, because everyone &gt; you).",
-  "readingMnemonic": "The reading for both kanji here are the same as the ones you learned with their kanji. Everyone can breathe easier now.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%9A%86%E6%A7%98",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "皆",
-      "id": 895,
-      "reading": "みな"
-    },
-    {
-      "type": "kanji",
-      "value": "様",
-      "id": 865,
-      "reading": "さま"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%9A%86%E6%A7%98"
+  }
 }

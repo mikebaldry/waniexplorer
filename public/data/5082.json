@@ -1,36 +1,20 @@
 {
   "id": 5082,
   "type": "vocabulary",
-  "characters": "貸す",
+  "level": 27,
+  "characters": {
+    "type": "text",
+    "value": "貸す"
+  },
   "primaryMeaning": "To Lend",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>lend</kanji> so the verb vocab version is <vocabulary>to lend</vocabulary>.",
+  "primaryReading": "かす",
+  "readingMnemonic": "Allow me <vocabulary>to lend</vocabulary> you some advice. The reading you learned from the kanji can be used here.",
   "otherMeanings": [
     "To Rent"
   ],
-  "primaryReading": "かす",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1324,
-      "character": "貸",
-      "readings": [
-        "か",
-        "たい"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>lend</kanji> so the verb vocab version is <vocabulary>to lend</vocabulary>.",
-  "readingMnemonic": "Allow me <vocabulary>to lend</vocabulary> you some advice. The reading you learned from the kanji can be used here.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%B2%B8%E3%81%99",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "貸",
-      "id": 1324,
-      "reading": "か"
-    },
-    {
-      "type": "kana",
-      "value": "す"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%B2%B8%E3%81%99"
+  }
 }

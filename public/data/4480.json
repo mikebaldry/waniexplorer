@@ -1,47 +1,18 @@
 {
   "id": 4480,
   "type": "vocabulary",
-  "characters": "圧倒する",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "圧倒する"
+  },
   "primaryMeaning": "To Overwhelm",
-  "otherMeanings": [],
-  "primaryReading": "あっとうする",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1106,
-      "character": "圧",
-      "readings": [
-        "あつ"
-      ]
-    },
-    {
-      "id": 1110,
-      "character": "倒",
-      "readings": [
-        "とう",
-        "たお"
-      ]
-    }
-  ],
   "meaningMnemonic": "The <kanji>pressure</kanji> used easily <kanji>collapse</kanji>s whatever it's pushing against. That's why this verb means <vocabulary>to overwhelm</vocabulary>.",
+  "primaryReading": "あっとうする",
   "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Note that the あつ goes to あっ, as you'd probably expect.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%9C%A7%E5%80%92%E3%81%99%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "圧",
-      "id": 1106,
-      "reading": null
-    },
-    {
-      "type": "kanji",
-      "value": "倒",
-      "id": 1110,
-      "reading": null
-    },
-    {
-      "type": "kana",
-      "value": "する"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%9C%A7%E5%80%92%E3%81%99%E3%82%8B"
+  }
 }

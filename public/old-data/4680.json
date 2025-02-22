@@ -1,0 +1,60 @@
+{
+  "id": 4680,
+  "type": "vocabulary",
+  "characters": "日本製",
+  "primaryMeaning": "Made In Japan",
+  "otherMeanings": [],
+  "primaryReading": "にほんせい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 476,
+      "character": "日",
+      "readings": [
+        "にち",
+        "じつ",
+        "ひ",
+        "か",
+        "び"
+      ]
+    },
+    {
+      "id": 487,
+      "character": "本",
+      "readings": [
+        "ほん",
+        "もと"
+      ]
+    },
+    {
+      "id": 1219,
+      "character": "製",
+      "readings": [
+        "せい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Things that are <kanji>manufacture</kanji>d in <kanji>Japan</kanji> (日本) are <vocabulary>made in Japan</vocabulary>. Good quality stuff, that is.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Will help if you know how to read 日本 already.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%97%A5%E6%9C%AC%E8%A3%BD",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "日",
+      "id": 476,
+      "reading": null
+    },
+    {
+      "type": "kanji",
+      "value": "本",
+      "id": 487,
+      "reading": null
+    },
+    {
+      "type": "kanji",
+      "value": "製",
+      "id": 1219,
+      "reading": null
+    }
+  ]
+}

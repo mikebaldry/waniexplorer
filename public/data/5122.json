@@ -1,49 +1,21 @@
 {
   "id": 5122,
   "type": "vocabulary",
-  "characters": "冷静",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "冷静"
+  },
   "primaryMeaning": "Cool Headed",
+  "meaningMnemonic": "You're <kanji>cool</kanji> and <kanji>quiet</kanji>. That's you, daddio. Nice and <vocabulary>cool-headed</vocabulary> and <vocabulary>calm</vocabulary>. So much <vocabulary>composure</vocabulary>",
+  "primaryReading": "れいせい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Calm",
     "Composure"
   ],
-  "primaryReading": "れいせい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1350,
-      "character": "冷",
-      "readings": [
-        "れい",
-        "つめ",
-        "ひ",
-        "さ"
-      ]
-    },
-    {
-      "id": 1052,
-      "character": "静",
-      "readings": [
-        "せい",
-        "しず"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You're <kanji>cool</kanji> and <kanji>quiet</kanji>. That's you, daddio. Nice and <vocabulary>cool-headed</vocabulary> and <vocabulary>calm</vocabulary>. So much <vocabulary>composure</vocabulary>",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%86%B7%E9%9D%99",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "冷",
-      "id": 1350,
-      "reading": "れい"
-    },
-    {
-      "type": "kanji",
-      "value": "静",
-      "id": 1052,
-      "reading": "せい"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%86%B7%E9%9D%99"
+  }
 }

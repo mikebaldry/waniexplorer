@@ -1,33 +1,41 @@
 {
   "id": 1962,
   "type": "kanji",
-  "character": "泡",
-  "primaryMeaning": "Bubbles",
-  "otherMeanings": [],
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "泡"
+  },
   "primaryReading": "ほう",
   "readings": [
     {
-      "reading": "ほう",
       "primary": true,
+      "reading": "ほう",
       "type": "onyomi"
     },
     {
-      "reading": "あわ",
       "primary": false,
+      "reading": "あわ",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "One of the biggest <kanji>bubbles</kanji> heads straight for your <reading>ho</reading>me (ほう), engulfs it, and picks it up into the air!",
+  "primaryMeaning": "Bubbles",
+  "otherMeanings": [],
   "meaningMnemonic": "If a <radical>tsunami</radical> <radical>wrap</radical>s around itself, the resulting wave will create a lot of <kanji>bubbles</kanji>. You know how tsunamis wrap around once gravity kicks in, right? Well when that wave crashes, a whole lot of bubbles are created.",
-  "vocabularyIds": [
-    7014,
-    7015,
-    7016,
-    7017
-  ],
-  "radicalIds": [
-    103,
-    395
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%B3%A1"
+  "readingMnemonic": "One of the biggest <kanji>bubbles</kanji> heads straight for your <reading>ho</reading>me (ほう), engulfs it, and picks it up into the air!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%B3%A1"
+  },
+  "related": {
+    "radicals": [
+      103,
+      395
+    ],
+    "vocabularies": [
+      7014,
+      7015,
+      7016,
+      7017
+    ]
+  }
 }

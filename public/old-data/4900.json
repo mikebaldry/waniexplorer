@@ -1,0 +1,46 @@
+{
+  "id": 4900,
+  "type": "vocabulary",
+  "characters": "激励",
+  "primaryMeaning": "Strong Encouragement",
+  "otherMeanings": [
+    "Encouragement"
+  ],
+  "primaryReading": "げきれい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1295,
+      "character": "激",
+      "readings": [
+        "げき",
+        "はげ"
+      ]
+    },
+    {
+      "id": 1297,
+      "character": "励",
+      "readings": [
+        "れい",
+        "はげ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If someone is <kanji>fierce</kanji> when they <kanji>encourage</kanji> you, that's some <vocabulary>strong encouragement</vocabulary>! \n\nThis word is kind of formal, and using it will really communicate your appreciation for the <vocabulary>encouragement</vocabulary> someone gives you. Even if they just tossed a casual 頑張れ your way, calling that 激励 will make it sound like some of the strongest, warmest encouragement you've ever gotten.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%BF%80%E5%8A%B1",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "激",
+      "id": 1295,
+      "reading": "げき"
+    },
+    {
+      "type": "kanji",
+      "value": "励",
+      "id": 1297,
+      "reading": "れい"
+    }
+  ]
+}

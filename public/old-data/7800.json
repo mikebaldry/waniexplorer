@@ -1,0 +1,44 @@
+{
+  "id": 7800,
+  "type": "vocabulary",
+  "characters": "沸点",
+  "primaryMeaning": "Boiling Point",
+  "otherMeanings": [],
+  "primaryReading": "ふってん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2125,
+      "character": "沸",
+      "readings": [
+        "ふつ",
+        "わ"
+      ]
+    },
+    {
+      "id": 641,
+      "character": "点",
+      "readings": [
+        "てん",
+        "つ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>point</kanji> at which something starts to <kanji>boil</kanji> is the <vocabulary>boiling point</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B2%B8%E7%82%B9",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "沸",
+      "id": 2125,
+      "reading": null
+    },
+    {
+      "type": "kanji",
+      "value": "点",
+      "id": 641,
+      "reading": null
+    }
+  ]
+}

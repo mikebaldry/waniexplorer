@@ -1,47 +1,22 @@
 {
   "id": 3339,
   "type": "vocabulary",
-  "characters": "二倍",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "二倍"
+  },
   "primaryMeaning": "Double",
+  "meaningMnemonic": "Something that is <kanji>two</kanji> <kanji>times</kanji> is <vocabulary>double</vocabulary> (or it is just simply <vocabulary>two times</vocabulary>). Of course, this all works with things like 三倍, 百倍, and 四十二倍 as well.",
+  "primaryReading": "にばい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Two Times",
     "Twice",
     "Twofold"
   ],
-  "primaryReading": "にばい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 441,
-      "character": "二",
-      "readings": [
-        "に",
-        "ふた"
-      ]
-    },
-    {
-      "id": 820,
-      "character": "倍",
-      "readings": [
-        "ばい"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Something that is <kanji>two</kanji> <kanji>times</kanji> is <vocabulary>double</vocabulary> (or it is just simply <vocabulary>two times</vocabulary>). Of course, this all works with things like 三倍, 百倍, and 四十二倍 as well.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BA%8C%E5%80%8D",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "二",
-      "id": 441,
-      "reading": "に"
-    },
-    {
-      "type": "kanji",
-      "value": "倍",
-      "id": 820,
-      "reading": "ばい"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BA%8C%E5%80%8D"
+  }
 }

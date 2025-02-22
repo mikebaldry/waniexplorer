@@ -1,33 +1,21 @@
 {
   "id": 3681,
   "type": "vocabulary",
-  "characters": "技",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "技"
+  },
   "primaryMeaning": "Technique",
+  "meaningMnemonic": "What is a <kanji>skill</kanji>? It's something you can do, and do quite well. It is a <vocabulary>technique</vocabulary> that you can make happen with ease.",
+  "primaryReading": "わざ",
+  "readingMnemonic": "Since this word is made up of a single kanji, it should use the kun'yomi reading. When learning the kanji, you didn't learn that reading, so here's a mnemonic to help you with this word: You do your <vocabulary>technique</vocabulary> on a bad guy, coming at you. You flip him over and knock him out. He <reading>was</reading> (わざ) a threat, but now he's not. You look closer at the bad guy. Turns out it's <reading>Woz</reading>, the Apple Co-founder. He was just trying to hand you an iPhone12, not grab your wrist. Whoops!",
   "otherMeanings": [
     "Art",
     "Skill"
   ],
-  "primaryReading": "わざ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 919,
-      "character": "技",
-      "readings": [
-        "ぎ",
-        "わざ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "What is a <kanji>skill</kanji>? It's something you can do, and do quite well. It is a <vocabulary>technique</vocabulary> that you can make happen with ease.",
-  "readingMnemonic": "Since this word is made up of a single kanji, it should use the kun'yomi reading. When learning the kanji, you didn't learn that reading, so here's a mnemonic to help you with this word: You do your <vocabulary>technique</vocabulary> on a bad guy, coming at you. You flip him over and knock him out. He <reading>was</reading> (わざ) a threat, but now he's not. You look closer at the bad guy. Turns out it's <reading>Woz</reading>, the Apple Co-founder. He was just trying to hand you an iPhone12, not grab your wrist. Whoops!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8A%80",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "技",
-      "id": 919,
-      "reading": "わざ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%8A%80"
+  }
 }

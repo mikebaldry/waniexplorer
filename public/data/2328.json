@@ -1,32 +1,40 @@
 {
   "id": 2328,
   "type": "kanji",
-  "character": "智",
-  "primaryMeaning": "Wisdom",
-  "otherMeanings": [],
+  "level": 56,
+  "characters": {
+    "type": "text",
+    "value": "智"
+  },
   "primaryReading": "ち",
   "readings": [
     {
-      "reading": "ち",
       "primary": true,
+      "reading": "ち",
       "type": "onyomi"
     },
     {
-      "reading": "とも",
       "primary": false,
+      "reading": "とも",
       "type": "nanori"
     }
   ],
-  "readingMnemonic": "You're standing around waiting for the <kanji>wisdom</kanji> to hit you when something else does. In the head. Ouch! You look down and it's a wheel of <reading>chee</reading>se (ち)! At first you're angry, until you realize that this must be a sign. Cheese IS wisdom. And the key to wisdom is eating a lot of cheese!",
+  "primaryMeaning": "Wisdom",
+  "otherMeanings": [],
   "meaningMnemonic": "You shoot an <radical>arrow</radical> at the <radical>mouth</radical> of the <radical>sun</radical> so that it will grant you a gift of <kanji>wisdom</kanji>. You heard about a Greek hero doing this and the god in the sun gave him the wisdom to see everything. You're hoping it will work for you too.",
-  "vocabularyIds": [
-    8294,
-    9107
-  ],
-  "radicalIds": [
-    72,
-    16,
-    22
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%99%BA"
+  "readingMnemonic": "You're standing around waiting for the <kanji>wisdom</kanji> to hit you when something else does. In the head. Ouch! You look down and it's a wheel of <reading>chee</reading>se (ち)! At first you're angry, until you realize that this must be a sign. Cheese IS wisdom. And the key to wisdom is eating a lot of cheese!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%99%BA"
+  },
+  "related": {
+    "radicals": [
+      72,
+      16,
+      22
+    ],
+    "vocabularies": [
+      8294,
+      9107
+    ]
+  }
 }

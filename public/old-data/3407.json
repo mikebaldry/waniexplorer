@@ -1,0 +1,54 @@
+{
+  "id": 3407,
+  "type": "vocabulary",
+  "characters": "人生",
+  "primaryMeaning": "One's Life",
+  "otherMeanings": [
+    "Human Life",
+    "Life"
+  ],
+  "primaryReading": "じんせい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 444,
+      "character": "人",
+      "readings": [
+        "にん",
+        "じん",
+        "ひと",
+        "と"
+      ]
+    },
+    {
+      "id": 850,
+      "character": "生",
+      "readings": [
+        "せい",
+        "しょう",
+        "い",
+        "なま",
+        "う",
+        "は",
+        "き"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji for <kanji>person</kanji> and <kanji>life</kanji> combined makes you think about human life. What is your <vocabulary>human life</vocabulary> like?",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 人 and 生 both have two on'yomi readings, here's a mnemonic to help you:\n\nYour <vocabulary>life</vocabulary> boils down to just two things: <reading>jean</reading>s and a <reading>sa</reading>ber (じんせい). Your whole life, that's all you've ever needed, jeans and a saber. What are you, some kind of American pirate?",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BA%BA%E7%94%9F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "人",
+      "id": 444,
+      "reading": "じん"
+    },
+    {
+      "type": "kanji",
+      "value": "生",
+      "id": 850,
+      "reading": "せい"
+    }
+  ]
+}

@@ -1,25 +1,33 @@
 {
   "id": 1748,
   "type": "kanji",
-  "character": "俊",
-  "primaryMeaning": "Genius",
-  "otherMeanings": [],
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "俊"
+  },
   "primaryReading": "しゅん",
   "readings": [
     {
-      "reading": "しゅん",
       "primary": true,
+      "reading": "しゅん",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "As you watch the spider <kanji>genius</kanji> you realize that <reading>soon</reading> (しゅん) spiders will take over the humans. They're just way smarter than us. Soon we'll be the bugs.",
+  "primaryMeaning": "Genius",
+  "otherMeanings": [],
   "meaningMnemonic": "The <radical>leader</radical> of all the <radical>spider</radical>s is a <kanji>genius</kanji>! Spiders are already pretty smart. They can weave complex homes and traps in one web. They even know where not to step so they don't get caught. But the leader knows everything. It made itself a little webbed computer and everything!",
-  "vocabularyIds": [
-    6377
-  ],
-  "radicalIds": [
-    75,
-    427
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E4%BF%8A"
+  "readingMnemonic": "As you watch the spider <kanji>genius</kanji> you realize that <reading>soon</reading> (しゅん) spiders will take over the humans. They're just way smarter than us. Soon we'll be the bugs.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E4%BF%8A"
+  },
+  "related": {
+    "radicals": [
+      75,
+      427
+    ],
+    "vocabularies": [
+      6377
+    ]
+  }
 }

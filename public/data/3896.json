@@ -1,63 +1,18 @@
 {
   "id": 3896,
   "type": "vocabulary",
-  "characters": "食べ放題",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "食べ放題"
+  },
   "primaryMeaning": "All You Can Eat",
-  "otherMeanings": [],
-  "primaryReading": "たべほうだい",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 644,
-      "character": "食",
-      "readings": [
-        "しょく",
-        "た",
-        "く"
-      ]
-    },
-    {
-      "id": 791,
-      "character": "放",
-      "readings": [
-        "ほう",
-        "はな",
-        "ほう"
-      ]
-    },
-    {
-      "id": 872,
-      "character": "題",
-      "readings": [
-        "だい"
-      ]
-    }
-  ],
   "meaningMnemonic": "When you <kanji>eat</kanji> <kanji>as much as you want</kanji>, you are getting an <vocabulary>all you can eat</vocabulary> deal.",
+  "primaryReading": "たべほうだい",
   "readingMnemonic": "The reading consists of the readings of 食べる and 放題. If you know those you should be able to read this too.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%A3%9F%E3%81%B9%E6%94%BE%E9%A1%8C",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "食",
-      "id": 644,
-      "reading": "た"
-    },
-    {
-      "type": "kana",
-      "value": "べ"
-    },
-    {
-      "type": "kanji",
-      "value": "放",
-      "id": 791,
-      "reading": "ほう"
-    },
-    {
-      "type": "kanji",
-      "value": "題",
-      "id": 872,
-      "reading": "だい"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%A3%9F%E3%81%B9%E6%94%BE%E9%A1%8C"
+  }
 }

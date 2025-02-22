@@ -1,46 +1,20 @@
 {
   "id": 4086,
   "type": "vocabulary",
-  "characters": "報告",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "報告"
+  },
   "primaryMeaning": "Report",
+  "meaningMnemonic": "<kanji>News</kanji> that you <kanji>announce</kanji> becomes a <vocabulary>report</vocabulary>. When someone announces news on a topic, they are giving you a report on the <vocabulary>information</vocabulary>.\n\n報告 is a report given by someone after they've done some investigation or research into the topic. It can be used for class presentations on a topic or a report given to your boss. This differs from 報道, which is a report released by news organizations.",
+  "primaryReading": "ほうこく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Information"
   ],
-  "primaryReading": "ほうこく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1035,
-      "character": "報",
-      "readings": [
-        "ほう",
-        "むく"
-      ]
-    },
-    {
-      "id": 1031,
-      "character": "告",
-      "readings": [
-        "こく",
-        "つ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>News</kanji> that you <kanji>announce</kanji> becomes a <vocabulary>report</vocabulary>. When someone announces news on a topic, they are giving you a report on the <vocabulary>information</vocabulary>.\n\n報告 is a report given by someone after they've done some investigation or research into the topic. It can be used for class presentations on a topic or a report given to your boss. This differs from 報道, which is a report released by news organizations.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A0%B1%E5%91%8A",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "報",
-      "id": 1035,
-      "reading": "ほう"
-    },
-    {
-      "type": "kanji",
-      "value": "告",
-      "id": 1031,
-      "reading": "こく"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A0%B1%E5%91%8A"
+  }
 }

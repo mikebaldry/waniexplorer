@@ -1,0 +1,45 @@
+{
+  "id": 8075,
+  "type": "vocabulary",
+  "characters": "卸売",
+  "primaryMeaning": "Wholesale",
+  "otherMeanings": [],
+  "primaryReading": "おろしうり",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2233,
+      "character": "卸",
+      "readings": [
+        "おろし",
+        "おろ",
+        "しゃ"
+      ]
+    },
+    {
+      "id": 587,
+      "character": "売",
+      "readings": [
+        "ばい",
+        "う"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Sell</kanji> something at the <kanji>wholesale</kanji> price and it's... well it's <vocabulary>wholesale</vocabulary>.",
+  "readingMnemonic": "The readings for this word are both kun'yomi readings. You've learned both of these readings by now so you should be able to read this on your own. Sometimes it's spelled 卸売り too.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8D%B8%E5%A3%B2",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "卸",
+      "id": 2233,
+      "reading": "おろし"
+    },
+    {
+      "type": "kanji",
+      "value": "売",
+      "id": 587,
+      "reading": "う"
+    }
+  ]
+}

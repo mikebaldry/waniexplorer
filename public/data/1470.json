@@ -1,30 +1,38 @@
 {
   "id": 1470,
   "type": "kanji",
-  "character": "貨",
-  "primaryMeaning": "Freight",
-  "otherMeanings": [],
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "貨"
+  },
   "primaryReading": "か",
   "readings": [
     {
-      "reading": "か",
       "primary": true,
+      "reading": "か",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "To move this <kanji>freight</kanji>, you need a <reading>ca</reading>r (か). You strap all of the freight containers to the top of your car, stacked nice and high and precarious, so you can move it.",
+  "primaryMeaning": "Freight",
+  "otherMeanings": [],
   "meaningMnemonic": "You want to <radical>change</radical> your <radical>shellfish</radical> into <kanji>freight</kanji> so you can transport it. That means packing them up into giant freight containers.",
-  "vocabularyIds": [
-    5479,
-    5480,
-    5699,
-    7101,
-    7257,
-    9058
-  ],
-  "radicalIds": [
-    311,
-    94
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%B2%A8"
+  "readingMnemonic": "To move this <kanji>freight</kanji>, you need a <reading>ca</reading>r (か). You strap all of the freight containers to the top of your car, stacked nice and high and precarious, so you can move it.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%B2%A8"
+  },
+  "related": {
+    "radicals": [
+      311,
+      94
+    ],
+    "vocabularies": [
+      5479,
+      5480,
+      5699,
+      7101,
+      7257,
+      9058
+    ]
+  }
 }

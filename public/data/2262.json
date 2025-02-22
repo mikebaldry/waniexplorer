@@ -1,44 +1,52 @@
 {
   "id": 2262,
   "type": "kanji",
-  "character": "奉",
-  "primaryMeaning": "Dedicate",
-  "otherMeanings": [],
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "奉"
+  },
   "primaryReading": "ほう",
   "readings": [
     {
-      "reading": "ほう",
       "primary": true,
+      "reading": "ほう",
       "type": "onyomi"
     },
     {
+      "primary": false,
       "reading": "ぶ",
-      "primary": false,
       "type": "onyomi"
     },
     {
-      "reading": "たてまつ",
       "primary": false,
+      "reading": "たてまつ",
       "type": "kunyomi"
     },
     {
-      "reading": "まつ",
       "primary": false,
+      "reading": "まつ",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "You decide to <kanji>dedicate</kanji> yourself to your <reading>ho</reading>me (ほう). You don't want to be outside in the dry spring air, so you focus on home activities. You can clean the kitchen, build a shelf, or dedicate your time to your home internet system.",
+  "primaryMeaning": "Dedicate",
+  "otherMeanings": [],
   "meaningMnemonic": "When <radical>spring</radical> is <radical>dry</radical> you need to <kanji>dedicate</kanji> your time and effort somewhere else. You can't plant flowers or vegetables, it's too dry. You can't play outside, your skin will flake. So you need to dedicate yourself to something inside.",
-  "vocabularyIds": [
-    8191,
-    8192,
-    8193,
-    8194,
-    8354
-  ],
-  "radicalIds": [
-    8779,
-    61
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%A5%89"
+  "readingMnemonic": "You decide to <kanji>dedicate</kanji> yourself to your <reading>ho</reading>me (ほう). You don't want to be outside in the dry spring air, so you focus on home activities. You can clean the kitchen, build a shelf, or dedicate your time to your home internet system.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%A5%89"
+  },
+  "related": {
+    "radicals": [
+      8779,
+      61
+    ],
+    "vocabularies": [
+      8191,
+      8192,
+      8193,
+      8194,
+      8354
+    ]
+  }
 }

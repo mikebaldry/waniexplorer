@@ -1,0 +1,45 @@
+{
+  "id": 7879,
+  "type": "vocabulary",
+  "characters": "恒星",
+  "primaryMeaning": "Star",
+  "otherMeanings": [],
+  "primaryReading": "こうせい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2171,
+      "character": "恒",
+      "readings": [
+        "こう",
+        "つね",
+        "つねに"
+      ]
+    },
+    {
+      "id": 638,
+      "character": "星",
+      "readings": [
+        "せい",
+        "ほし"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>constant</kanji> <kanji>star</kanji> is the kind that stays in one place. It's just a regular <vocabulary>star</vocabulary>, like the north star or our sun, not a comet or an asteroid.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%81%92%E6%98%9F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "恒",
+      "id": 2171,
+      "reading": "こう"
+    },
+    {
+      "type": "kanji",
+      "value": "星",
+      "id": 638,
+      "reading": "せい"
+    }
+  ]
+}

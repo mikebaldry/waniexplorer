@@ -1,45 +1,20 @@
 {
   "id": 4423,
   "type": "vocabulary",
-  "characters": "総理",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "総理"
+  },
   "primaryMeaning": "Prime Minister",
+  "meaningMnemonic": "This is an abbreviation of 総理大臣 (prime minister), so this means <vocabulary>prime minister</vocabulary>.\n\nAs you learned with 総理大臣, this word is used only for the <vocabulary>Japanese prime minister</vocabulary>.",
+  "primaryReading": "そうり",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Japanese Prime Minister"
   ],
-  "primaryReading": "そうり",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1131,
-      "character": "総",
-      "readings": [
-        "そう"
-      ]
-    },
-    {
-      "id": 669,
-      "character": "理",
-      "readings": [
-        "り",
-        "ことわり"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This is an abbreviation of 総理大臣 (prime minister), so this means <vocabulary>prime minister</vocabulary>.\n\nAs you learned with 総理大臣, this word is used only for the <vocabulary>Japanese prime minister</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B7%8F%E7%90%86",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "総",
-      "id": 1131,
-      "reading": "そう"
-    },
-    {
-      "type": "kanji",
-      "value": "理",
-      "id": 669,
-      "reading": "り"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%B7%8F%E7%90%86"
+  }
 }

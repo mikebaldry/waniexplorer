@@ -1,0 +1,46 @@
+{
+  "id": 4981,
+  "type": "vocabulary",
+  "characters": "改造",
+  "primaryMeaning": "Remodeling",
+  "otherMeanings": [
+    "Reshuffle"
+  ],
+  "primaryReading": "かいぞう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1082,
+      "character": "改",
+      "readings": [
+        "かい",
+        "あらた"
+      ]
+    },
+    {
+      "id": 1281,
+      "character": "造",
+      "readings": [
+        "ぞう",
+        "つく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Renew</kanji> it by <kanji>creat</kanji>ing something anew. This is <vocabulary>remodeling</vocabulary> because you're creating something and changing something that exists already, renewing it.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%94%B9%E9%80%A0",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "改",
+      "id": 1082,
+      "reading": "かい"
+    },
+    {
+      "type": "kanji",
+      "value": "造",
+      "id": 1281,
+      "reading": "ぞう"
+    }
+  ]
+}

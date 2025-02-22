@@ -1,0 +1,42 @@
+{
+  "id": 3814,
+  "type": "vocabulary",
+  "characters": "冗談",
+  "primaryMeaning": "Joke",
+  "otherMeanings": [],
+  "primaryReading": "じょうだん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 993,
+      "character": "冗",
+      "readings": [
+        "じょう"
+      ]
+    },
+    {
+      "id": 736,
+      "character": "談",
+      "readings": [
+        "だん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you have a <kanji>superfluous</kanji> <kanji>talk</kanji> you aren't being serious, you're telling a <vocabulary>joke</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%86%97%E8%AB%87",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "冗",
+      "id": 993,
+      "reading": "じょう"
+    },
+    {
+      "type": "kanji",
+      "value": "談",
+      "id": 736,
+      "reading": "だん"
+    }
+  ]
+}

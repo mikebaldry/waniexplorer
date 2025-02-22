@@ -1,36 +1,20 @@
 {
   "id": 6740,
   "type": "vocabulary",
-  "characters": "滅ぼす",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "滅ぼす"
+  },
   "primaryMeaning": "To Destroy",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>destroy</kanji> and the verb vocab version is <vocabulary>to destroy</vocabulary> and <vocabulary>to annihilate</vocabulary>.",
+  "primaryReading": "ほろぼす",
+  "readingMnemonic": "You are going <vocabulary>to destroy</vocabulary> the <reading>hoe roe</reading>. This is the roe that comes from the hoe tools. If they create too much roe, they will create too many hoes. And if there are too many hoes, bad things will happen.",
   "otherMeanings": [
     "To Annihilate"
   ],
-  "primaryReading": "ほろぼす",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1868,
-      "character": "滅",
-      "readings": [
-        "めつ",
-        "ほろ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>destroy</kanji> and the verb vocab version is <vocabulary>to destroy</vocabulary> and <vocabulary>to annihilate</vocabulary>.",
-  "readingMnemonic": "You are going <vocabulary>to destroy</vocabulary> the <reading>hoe roe</reading>. This is the roe that comes from the hoe tools. If they create too much roe, they will create too many hoes. And if there are too many hoes, bad things will happen.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%BB%85%E3%81%BC%E3%81%99",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "滅",
-      "id": 1868,
-      "reading": "ほろ"
-    },
-    {
-      "type": "kana",
-      "value": "ぼす"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%BB%85%E3%81%BC%E3%81%99"
+  }
 }

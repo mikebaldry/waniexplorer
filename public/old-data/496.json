@@ -1,0 +1,40 @@
+{
+  "id": 496,
+  "type": "kanji",
+  "character": "久",
+  "primaryMeaning": "Long Time",
+  "otherMeanings": [],
+  "primaryReading": "きゅう",
+  "readings": [
+    {
+      "reading": "きゅう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "く",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ひさ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You slide for such a <kanji>long time</kanji> that you get hungry. Luckily, once in a while a <reading>cu</reading>cumber (きゅう) comes tumbling down the slide next to you.",
+  "meaningMnemonic": "If you use a <radical>slide</radical> to <radical>enter</radical> a building, you'll be sliding for a <kanji>long time</kanji>.",
+  "vocabularyIds": [
+    2591,
+    2592,
+    5535,
+    7212,
+    7881,
+    8096
+  ],
+  "radicalIds": [
+    5,
+    12
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E4%B9%85"
+}

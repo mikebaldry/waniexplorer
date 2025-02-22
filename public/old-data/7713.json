@@ -1,0 +1,60 @@
+{
+  "id": 7713,
+  "type": "vocabulary",
+  "characters": "不規則",
+  "primaryMeaning": "Irregularity",
+  "otherMeanings": [
+    "Irregular",
+    "Disorderly"
+  ],
+  "primaryReading": "ふきそく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 563,
+      "character": "不",
+      "readings": [
+        "ふ",
+        "ぶ"
+      ]
+    },
+    {
+      "id": 1191,
+      "character": "規",
+      "readings": [
+        "き"
+      ]
+    },
+    {
+      "id": 1201,
+      "character": "則",
+      "readings": [
+        "そく",
+        "のっと"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You know that 規則 means \"rule\" or \"regulation.\" So a <kanji>not</kanji> \"rule\" or \"regulation\" is an <vocabulary>irregularity</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%8D%E8%A6%8F%E5%89%87",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "不",
+      "id": 563,
+      "reading": "ふ"
+    },
+    {
+      "type": "kanji",
+      "value": "規",
+      "id": 1191,
+      "reading": "き"
+    },
+    {
+      "type": "kanji",
+      "value": "則",
+      "id": 1201,
+      "reading": "そく"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 2167,
+  "type": "kanji",
+  "character": "秩",
+  "primaryMeaning": "Order",
+  "otherMeanings": [
+    "Regularity"
+  ],
+  "primaryReading": "ちつ",
+  "readings": [
+    {
+      "reading": "ちつ",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "You can always tell if a company keeps <kanji>order</kanji> or if it <reading>cheats</reading> (ちつ) just by looking at the grains.",
+  "meaningMnemonic": "If a <radical>grain</radical> has a <radical>fault</radical>, it needs to be put back in <kanji>order</kanji>. Grains must be perfectly identical at all times, otherwise they'll be thrown out. That's why special people will go out and check them to confirm their <kanji>regularity</kanji>. Keeping order is a tough job!",
+  "vocabularyIds": [
+    7913,
+    8128
+  ],
+  "radicalIds": [
+    135,
+    275
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%A7%A9"
+}

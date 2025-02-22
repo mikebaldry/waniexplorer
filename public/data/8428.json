@@ -1,45 +1,20 @@
 {
   "id": 8428,
   "type": "vocabulary",
-  "characters": "校閲",
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "校閲"
+  },
   "primaryMeaning": "Revision",
+  "meaningMnemonic": "An <kanji>inspection</kanji> you make of your homework before <kanji>school</kanji> is a <vocabulary>revision</vocabulary>. Sometimes <vocabulary>proofreading</vocabulary> will help you find mistakes before you hand it in too. Just make sure you look everything over.",
+  "primaryReading": "こうえつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Proofreading"
   ],
-  "primaryReading": "こうえつ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 658,
-      "character": "校",
-      "readings": [
-        "こう"
-      ]
-    },
-    {
-      "id": 2348,
-      "character": "閲",
-      "readings": [
-        "えつ",
-        "けみ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "An <kanji>inspection</kanji> you make of your homework before <kanji>school</kanji> is a <vocabulary>revision</vocabulary>. Sometimes <vocabulary>proofreading</vocabulary> will help you find mistakes before you hand it in too. Just make sure you look everything over.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%A0%A1%E9%96%B2",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "校",
-      "id": 658,
-      "reading": "こう"
-    },
-    {
-      "type": "kanji",
-      "value": "閲",
-      "id": 2348,
-      "reading": "えつ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%A0%A1%E9%96%B2"
+  }
 }

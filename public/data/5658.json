@@ -1,45 +1,20 @@
 {
   "id": 5658,
   "type": "vocabulary",
-  "characters": "異状",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "異状"
+  },
   "primaryMeaning": "Abnormality",
+  "meaningMnemonic": "It <kanji>differ</kanji>s from the normal <kanji>condition</kanji> of things, making it weird. It is an <vocabulary>abnormality</vocabulary>. There is <vocabulary>something wrong</vocabulary>.",
+  "primaryReading": "いじょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Something Wrong"
   ],
-  "primaryReading": "いじょう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1530,
-      "character": "異",
-      "readings": [
-        "い",
-        "こと"
-      ]
-    },
-    {
-      "id": 1183,
-      "character": "状",
-      "readings": [
-        "じょう"
-      ]
-    }
-  ],
-  "meaningMnemonic": "It <kanji>differ</kanji>s from the normal <kanji>condition</kanji> of things, making it weird. It is an <vocabulary>abnormality</vocabulary>. There is <vocabulary>something wrong</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%95%B0%E7%8A%B6",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "異",
-      "id": 1530,
-      "reading": "い"
-    },
-    {
-      "type": "kanji",
-      "value": "状",
-      "id": 1183,
-      "reading": "じょう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%95%B0%E7%8A%B6"
+  }
 }

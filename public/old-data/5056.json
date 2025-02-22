@@ -1,0 +1,36 @@
+{
+  "id": 5056,
+  "type": "vocabulary",
+  "characters": "痛い",
+  "primaryMeaning": "Painful",
+  "otherMeanings": [
+    "Sore"
+  ],
+  "primaryReading": "いたい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1318,
+      "character": "痛",
+      "readings": [
+        "つう",
+        "いた"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>pain</kanji>? It's <vocabulary>painful</vocabulary>. \n\n痛い is commonly used to say that some part of the body hurts or feels sore.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: An <reading>eate</reading>r (いた) is someone who eats. But, the eater hurt his mouth. So now it's <vocabulary>painful</vocabulary> to eat.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%97%9B%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "痛",
+      "id": 1318,
+      "reading": "いた"
+    },
+    {
+      "type": "kana",
+      "value": "い"
+    }
+  ]
+}

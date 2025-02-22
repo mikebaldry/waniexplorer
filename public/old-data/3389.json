@@ -1,0 +1,48 @@
+{
+  "id": 3389,
+  "type": "vocabulary",
+  "characters": "茶の湯",
+  "primaryMeaning": "Tea Ceremony",
+  "otherMeanings": [],
+  "primaryReading": "ちゃのゆ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 643,
+      "character": "茶",
+      "readings": [
+        "ちゃ",
+        "さ"
+      ]
+    },
+    {
+      "id": 844,
+      "character": "湯",
+      "readings": [
+        "ゆ",
+        "とう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>hot water</kanji> of <kanji>tea</kanji>. That is part of the ceremony that goes into the <vocabulary>tea ceremony</vocabulary>.",
+  "readingMnemonic": "The readings are both the readings you learned with the kanji. Now you can spend a little more time drinking tea at a tea ceremony and a little less time trying to remember kanji readings.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%8C%B6%E3%81%AE%E6%B9%AF",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "茶",
+      "id": 643,
+      "reading": "ちゃ"
+    },
+    {
+      "type": "kana",
+      "value": "の"
+    },
+    {
+      "type": "kanji",
+      "value": "湯",
+      "id": 844,
+      "reading": "ゆ"
+    }
+  ]
+}

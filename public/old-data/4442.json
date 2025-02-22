@@ -1,0 +1,47 @@
+{
+  "id": 4442,
+  "type": "vocabulary",
+  "characters": "素材",
+  "primaryMeaning": "Raw Material",
+  "otherMeanings": [
+    "Material",
+    "Ingredient"
+  ],
+  "primaryReading": "そざい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1138,
+      "character": "素",
+      "readings": [
+        "そ",
+        "す",
+        "もと"
+      ]
+    },
+    {
+      "id": 909,
+      "character": "材",
+      "readings": [
+        "ざい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you want to use the most basic <kanji>element</kanji>s of a <kanji>material</kanji>, you end up with <vocabulary>raw material</vocabulary>s. Maybe it's the raw materials you're going to use to build a house. Maybe it's the raw materials you need to make a good soup. Either way, they haven't been touched much (yet).",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. The reading for 素 is the そ reading, so be careful. You can remember by thinking how you have to <reading>sew</reading> the building together using these raw materials.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B4%A0%E6%9D%90",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "素",
+      "id": 1138,
+      "reading": "そ"
+    },
+    {
+      "type": "kanji",
+      "value": "材",
+      "id": 909,
+      "reading": "ざい"
+    }
+  ]
+}

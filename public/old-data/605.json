@@ -1,0 +1,39 @@
+{
+  "id": 605,
+  "type": "kanji",
+  "character": "草",
+  "primaryMeaning": "Grass",
+  "otherMeanings": [
+    "Weed"
+  ],
+  "primaryReading": "くさ",
+  "readings": [
+    {
+      "reading": "くさ",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "そう",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "The <kanji>grass</kanji> on top is brown and burned from the sun, so you need to take a <reading>cool saw</reading> (くさ) and hack the tops off. The saw is actually physically cool to the touch, to help heal the grass' sunburned bits. It just happens to look cool too.",
+  "meaningMnemonic": "You plant your <radical>flowers</radical> in the light of the <radical>sun</radical> in the shape of a <radical>cross</radical>, but it's too hot—the sun is too strong—and you end up with <kanji>grass</kanji>. Flowers can't grow in these conditions.",
+  "vocabularyIds": [
+    2803,
+    6642,
+    6678,
+    7289,
+    7566,
+    7670,
+    8009
+  ],
+  "radicalIds": [
+    90,
+    22,
+    15
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%8D%89"
+}

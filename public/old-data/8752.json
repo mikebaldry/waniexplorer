@@ -1,0 +1,45 @@
+{
+  "id": 8752,
+  "type": "vocabulary",
+  "characters": "資格",
+  "primaryMeaning": "Qualifications",
+  "otherMeanings": [
+    "Capabilities",
+    "Requirements"
+  ],
+  "primaryReading": "しかく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1133,
+      "character": "資",
+      "readings": [
+        "し"
+      ]
+    },
+    {
+      "id": 920,
+      "character": "格",
+      "readings": [
+        "かく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The credible <kanji>resources</kanji> that determine your professional <kanji>status</kanji> are your <vocabulary>qualifications</vocabulary>. You need some good ones if you want to get into a good school or land a sweet job.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%B3%87%E6%A0%BC",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "資",
+      "id": 1133,
+      "reading": "し"
+    },
+    {
+      "type": "kanji",
+      "value": "格",
+      "id": 920,
+      "reading": "かく"
+    }
+  ]
+}

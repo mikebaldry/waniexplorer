@@ -1,46 +1,20 @@
 {
   "id": 4256,
   "type": "vocabulary",
-  "characters": "残余",
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "残余"
+  },
   "primaryMeaning": "Remainder",
+  "meaningMnemonic": "The <kanji>remaining</kanji> <kanji>surplus</kanji> is the <vocabulary>remainder</vocabulary> or <vocabulary>residual</vocabulary> left over.\n\nJust bear in mind that this is a technical word that you'll mostly see in legal and financial contexts.",
+  "primaryReading": "ざんよ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Residual"
   ],
-  "primaryReading": "ざんよ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 912,
-      "character": "残",
-      "readings": [
-        "ざん",
-        "のこ"
-      ]
-    },
-    {
-      "id": 1094,
-      "character": "余",
-      "readings": [
-        "よ",
-        "あま"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The <kanji>remaining</kanji> <kanji>surplus</kanji> is the <vocabulary>remainder</vocabulary> or <vocabulary>residual</vocabulary> left over.\n\nJust bear in mind that this is a technical word that you'll mostly see in legal and financial contexts.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%AE%8B%E4%BD%99",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "残",
-      "id": 912,
-      "reading": "ざん"
-    },
-    {
-      "type": "kanji",
-      "value": "余",
-      "id": 1094,
-      "reading": "よ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%AE%8B%E4%BD%99"
+  }
 }

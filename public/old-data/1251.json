@@ -1,0 +1,35 @@
+{
+  "id": 1251,
+  "type": "kanji",
+  "character": "影",
+  "primaryMeaning": "Shadow",
+  "otherMeanings": [],
+  "primaryReading": "えい",
+  "readings": [
+    {
+      "reading": "えい",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "かげ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "In the shade from your <kanji>shadow</kanji> you see a small <reading>a</reading>corn (えい) laying on the ground. You're about to reach down and pick it up when you realize that your shadow is keeping this little acorn from growing up big and strong.",
+  "meaningMnemonic": "The <radical>sun</radical> rises over the <radical>capital</radical>, shines down on your <radical>hair</radical>, and casts a long <kanji>shadow</kanji> on the ground in front of you.",
+  "vocabularyIds": [
+    4775,
+    4780,
+    5102,
+    5318,
+    5513
+  ],
+  "radicalIds": [
+    22,
+    299,
+    38
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%BD%B1"
+}

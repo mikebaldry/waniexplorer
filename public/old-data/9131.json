@@ -1,0 +1,52 @@
+{
+  "id": 9131,
+  "type": "vocabulary",
+  "characters": "日の出",
+  "primaryMeaning": "Sunrise",
+  "otherMeanings": [],
+  "primaryReading": "ひので",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 476,
+      "character": "日",
+      "readings": [
+        "にち",
+        "じつ",
+        "ひ",
+        "か",
+        "び"
+      ]
+    },
+    {
+      "id": 483,
+      "character": "出",
+      "readings": [
+        "しゅつ",
+        "で",
+        "だ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "What do we call the <kanji>sun</kanji>'s <kanji>exit</kanji> from the horizon? That'll be the <vocabulary>sunrise</vocabulary>. Imagine the sun exiting the horizon and climbing up into the sky.",
+  "readingMnemonic": "This uses the kanji's kun'yomi readings, which you've already learned. As long as you remember those, you should be good to go!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%97%A5%E3%81%AE%E5%87%BA",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "日",
+      "id": 476,
+      "reading": "ひ"
+    },
+    {
+      "type": "kana",
+      "value": "の"
+    },
+    {
+      "type": "kanji",
+      "value": "出",
+      "id": 483,
+      "reading": "で"
+    }
+  ]
+}

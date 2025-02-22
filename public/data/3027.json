@@ -1,50 +1,23 @@
 {
   "id": 3027,
   "type": "vocabulary",
-  "characters": "身体",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "身体"
+  },
   "primaryMeaning": "The Body",
+  "meaningMnemonic": "<kanji>Somebody</kanji>'s <kanji>body</kanji>. This refers to the very general word <vocabulary>the body</vocabulary>. As in, \"the human body\" or something like that. This can also refer to <vocabulary>health</vocabulary> as well.",
+  "primaryReading": "しんたい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.\n\nThis word can also be read からだ, which is irregular but shouldn't be too hard to remember because it's the same as the reading you already learned for 体! You'd usually use this reading in casual contexts, and when the word is on its own, rather than in a compound word. In formal situations and compounds, you'd want to stick to the regular old on'yomi reading.",
   "otherMeanings": [
     "Health",
     "Body"
   ],
-  "primaryReading": "しんたい",
   "otherReadings": [
     "からだ"
   ],
-  "kanji": [
-    {
-      "id": 689,
-      "character": "身",
-      "readings": [
-        "しん",
-        "み"
-      ]
-    },
-    {
-      "id": 583,
-      "character": "体",
-      "readings": [
-        "たい",
-        "てい",
-        "からだ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Somebody</kanji>'s <kanji>body</kanji>. This refers to the very general word <vocabulary>the body</vocabulary>. As in, \"the human body\" or something like that. This can also refer to <vocabulary>health</vocabulary> as well.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.\n\nThis word can also be read からだ, which is irregular but shouldn't be too hard to remember because it's the same as the reading you already learned for 体! You'd usually use this reading in casual contexts, and when the word is on its own, rather than in a compound word. In formal situations and compounds, you'd want to stick to the regular old on'yomi reading.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%BA%AB%E4%BD%93",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "身",
-      "id": 689,
-      "reading": "しん"
-    },
-    {
-      "type": "kanji",
-      "value": "体",
-      "id": 583,
-      "reading": "たい"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%BA%AB%E4%BD%93"
+  }
 }

@@ -1,0 +1,53 @@
+{
+  "id": 8877,
+  "type": "vocabulary",
+  "characters": "濡れ衣",
+  "primaryMeaning": "False Accusations",
+  "otherMeanings": [
+    "False Charges",
+    "Baseless Accusations"
+  ],
+  "primaryReading": "ぬれぎぬ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 8863,
+      "character": "濡",
+      "readings": [
+        "ぬ",
+        "じゅ"
+      ]
+    },
+    {
+      "id": 1796,
+      "character": "衣",
+      "readings": [
+        "い",
+        "え",
+        "ころも",
+        "きぬ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Ah yes, <kanji>wet</kanji> <kanji>clothes</kanji> must be wet clothes-NOT! This used to mean \"wet clothes\" a long, long time ago, but these days it's used for <vocabulary>false accusations</vocabulary>. Think of it this way: if you make false, baseless accusations, it's like you're dumping water all over someone for no reason. ",
+  "readingMnemonic": "This word is made up of the reading from 濡れる and the rendaku version of the きぬ reading of 衣. You learned this reading in the 衣 vocabulary, but here's a mnemonic to remember it. Imagine someone's dumped water on you and you're all wet. You might say \"<reading>gi</reading>ve <reading>new</reading> (ぎぬ) clothes to me!\"",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%BF%A1%E3%82%8C%E8%A1%A3",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "濡",
+      "id": 8863,
+      "reading": "ぬ"
+    },
+    {
+      "type": "kana",
+      "value": "れ"
+    },
+    {
+      "type": "kanji",
+      "value": "衣",
+      "id": 1796,
+      "reading": "ぎぬ"
+    }
+  ]
+}

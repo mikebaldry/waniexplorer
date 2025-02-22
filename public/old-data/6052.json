@@ -1,0 +1,44 @@
+{
+  "id": 6052,
+  "type": "vocabulary",
+  "characters": "漁師",
+  "primaryMeaning": "Fisherman",
+  "otherMeanings": [],
+  "primaryReading": "りょうし",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1645,
+      "character": "漁",
+      "readings": [
+        "ぎょ",
+        "りょう",
+        "あさ"
+      ]
+    },
+    {
+      "id": 1198,
+      "character": "師",
+      "readings": [
+        "し"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>fishing</kanji> <kanji>expert</kanji> is a <vocabulary>fisherman</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. The reading is the りょう reading, because you gotta get in your row boat to be a <vocabulary>fisherman</vocabulary>.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%BC%81%E5%B8%AB",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "漁",
+      "id": 1645,
+      "reading": "りょう"
+    },
+    {
+      "type": "kanji",
+      "value": "師",
+      "id": 1198,
+      "reading": "し"
+    }
+  ]
+}

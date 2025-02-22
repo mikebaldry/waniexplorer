@@ -1,36 +1,20 @@
 {
   "id": 8714,
   "type": "vocabulary",
-  "characters": "現に",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "現に"
+  },
   "primaryMeaning": "Actually",
+  "meaningMnemonic": "The <kanji>present time</kanji> is the time you're <vocabulary>actually</vocabulary> in. You aren't <vocabulary>really</vocabulary> in any other time, because that's not how time works!",
+  "primaryReading": "げんに",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
   "otherMeanings": [
     "Really"
   ],
-  "primaryReading": "げんに",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1211,
-      "character": "現",
-      "readings": [
-        "げん",
-        "あらわ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The <kanji>present time</kanji> is the time you're <vocabulary>actually</vocabulary> in. You aren't <vocabulary>really</vocabulary> in any other time, because that's not how time works!",
-  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%8F%BE%E3%81%AB",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "現",
-      "id": 1211,
-      "reading": "げん"
-    },
-    {
-      "type": "kana",
-      "value": "に"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%8F%BE%E3%81%AB"
+  }
 }

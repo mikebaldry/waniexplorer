@@ -1,0 +1,51 @@
+{
+  "id": 4117,
+  "type": "vocabulary",
+  "characters": "焼き鳥",
+  "primaryMeaning": "Grilled Chicken",
+  "otherMeanings": [
+    "Roast Chicken",
+    "Yakitori"
+  ],
+  "primaryReading": "やきとり",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1040,
+      "character": "焼",
+      "readings": [
+        "や",
+        "しょう"
+      ]
+    },
+    {
+      "id": 675,
+      "character": "鳥",
+      "readings": [
+        "ちょう",
+        "とり"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A nicely <kanji>bake</kanji>d <kanji>bird</kanji> isn't just any bird, it's <vocabulary>grilled chicken</vocabulary> or <vocabulary>roast chicken</vocabulary>. You may also know it by its Japanese name: <vocabulary>yakitori</vocabulary>.",
+  "readingMnemonic": "The readings are the vocab kun'yomi readings. With 焼き, you can use the reading you learned with the kanji. With 鳥 just remember back to the vocab word, とり. Combine and eat.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%84%BC%E3%81%8D%E9%B3%A5",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "焼",
+      "id": 1040,
+      "reading": "や"
+    },
+    {
+      "type": "kana",
+      "value": "き"
+    },
+    {
+      "type": "kanji",
+      "value": "鳥",
+      "id": 675,
+      "reading": "とり"
+    }
+  ]
+}

@@ -1,31 +1,18 @@
 {
   "id": 7954,
   "type": "vocabulary",
-  "characters": "隼",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "隼"
+  },
   "primaryMeaning": "Falcon",
-  "otherMeanings": [],
-  "primaryReading": "はやぶさ",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2188,
-      "character": "隼",
-      "readings": [
-        "はやぶさ",
-        "しゅん",
-        "じゅん"
-      ]
-    }
-  ],
   "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "はやぶさ",
   "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9A%BC",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "隼",
-      "id": 2188,
-      "reading": "はやぶさ"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%9A%BC"
+  }
 }

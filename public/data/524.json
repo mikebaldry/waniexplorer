@@ -1,44 +1,52 @@
 {
   "id": 524,
   "type": "kanji",
-  "character": "母",
+  "level": 3,
+  "characters": {
+    "type": "text",
+    "value": "母"
+  },
+  "primaryReading": "はは",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "はは",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "かあ",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ぼ",
+      "type": "onyomi"
+    }
+  ],
   "primaryMeaning": "Mother",
   "otherMeanings": [
     "Mom"
   ],
-  "primaryReading": "はは",
-  "readings": [
-    {
-      "reading": "はは",
-      "primary": true,
-      "type": "kunyomi"
-    },
-    {
-      "reading": "かあ",
-      "primary": false,
-      "type": "kunyomi"
-    },
-    {
-      "reading": "ぼ",
-      "primary": false,
-      "type": "onyomi"
-    }
-  ],
-  "readingMnemonic": "Suddenly your <kanji>mother</kanji> points her bloodied finger at you and laughs, \"<reading>Haha</reading> (はは)!\" She keeps laughing, haha haha haha, over and over. You feel even more alarmed.",
   "meaningMnemonic": "Someone breaks part of your <radical>window</radical>. Who did this? It was your <kanji>mother</kanji>!",
-  "vocabularyIds": [
-    2639,
-    2640,
-    3552,
-    5543,
-    5723,
-    6513,
-    7409,
-    8420,
-    8525
-  ],
-  "radicalIds": [
-    107
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%AF%8D"
+  "readingMnemonic": "Suddenly your <kanji>mother</kanji> points her bloodied finger at you and laughs, \"<reading>Haha</reading> (はは)!\" She keeps laughing, haha haha haha, over and over. You feel even more alarmed.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%AF%8D"
+  },
+  "related": {
+    "radicals": [
+      107
+    ],
+    "vocabularies": [
+      2639,
+      2640,
+      3552,
+      5543,
+      5723,
+      6513,
+      7409,
+      8420,
+      8525
+    ]
+  }
 }

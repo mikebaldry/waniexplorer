@@ -1,0 +1,30 @@
+{
+  "id": 992,
+  "type": "kanji",
+  "character": "冒",
+  "primaryMeaning": "Dare",
+  "otherMeanings": [],
+  "primaryReading": "ぼう",
+  "readings": [
+    {
+      "reading": "ぼう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "おか",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "After you’ve blinded yourself from the <kanji>dare</kanji> of looking at the sun and losing sight in each eye, the guy dares you to go <reading>bow</reading>ling (ぼう). You’re blind now, so bowling will be quite the challenge.",
+  "meaningMnemonic": "When the <radical>sun</radical> gets in your <radical>eye</radical>, I <kanji>dare</kanji> you to stare at it. I dare you to look right at the sun. I dare you.",
+  "vocabularyIds": [
+    3813
+  ],
+  "radicalIds": [
+    22,
+    53
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%86%92"
+}

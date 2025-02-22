@@ -1,0 +1,48 @@
+{
+  "id": 561,
+  "type": "kanji",
+  "character": "足",
+  "primaryMeaning": "Foot",
+  "otherMeanings": [
+    "Leg",
+    "Sufficient"
+  ],
+  "primaryReading": "そく",
+  "readings": [
+    {
+      "reading": "そく",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "あし",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "た",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "What do you wear on your <kanji>foot</kanji>? You wear a <reading>sock</reading> (そく).",
+  "meaningMnemonic": "The radical for <radical>foot</radical> and the kanji for <kanji>foot</kanji> are exactly the same.\n\nThat being said, there's also another meaning you should keep in mind, which is <kanji>sufficient</kanji>. If you think about it, one foot should be <kanji>sufficient</kanji> enough to walk around with if you hop.",
+  "vocabularyIds": [
+    2706,
+    2707,
+    2708,
+    2925,
+    3440,
+    4490,
+    4816,
+    6257,
+    7139,
+    7477,
+    8743,
+    8818
+  ],
+  "radicalIds": [
+    95
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%B6%B3"
+}

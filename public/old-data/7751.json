@@ -1,0 +1,43 @@
+{
+  "id": 7751,
+  "type": "vocabulary",
+  "characters": "王様",
+  "primaryMeaning": "King",
+  "otherMeanings": [],
+  "primaryReading": "おうさま",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 482,
+      "character": "王",
+      "readings": [
+        "おう"
+      ]
+    },
+    {
+      "id": 865,
+      "character": "様",
+      "readings": [
+        "さま",
+        "よう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>king</kanji> (<kanji>formal name ender</kanji>) is the <vocabulary>king</vocabulary>, and you're talking to him politely. He's the king after all! If you don't he might behead you!",
+  "readingMnemonic": "This word consists of the on'yomi reading for 王 and the kun'yomi reading for 様. You've learned them both so you should be able to read this word too!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%8E%8B%E6%A7%98",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "王",
+      "id": 482,
+      "reading": "おう"
+    },
+    {
+      "type": "kanji",
+      "value": "様",
+      "id": 865,
+      "reading": "さま"
+    }
+  ]
+}

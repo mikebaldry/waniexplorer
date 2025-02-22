@@ -1,0 +1,33 @@
+{
+  "id": 2379,
+  "type": "kanji",
+  "character": "媒",
+  "primaryMeaning": "Mediator",
+  "otherMeanings": [],
+  "primaryReading": "ばい",
+  "readings": [
+    {
+      "reading": "ばい",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "なこうど",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You go to pay the woman for being your <kanji>mediator</kanji> for you two but she just says, \"<reading>Bye</reading> ばい).\" You try to hand her some money and she stares into your eyes. \"Bye.\" Oh... okay, bye then.",
+  "meaningMnemonic": "A <radical>sweet</radical> <radical>woman</radical> sits under a <radical>tree</radical> and works as a <kanji>mediator</kanji>. If you're having a fight with someone, bring them to the sweet woman under the tree and she'll mediate for the two of you. Problem solved! Thanks sweet lady!",
+  "vocabularyIds": [
+    8445,
+    8446,
+    8447
+  ],
+  "radicalIds": [
+    19,
+    360,
+    23
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%AA%92"
+}

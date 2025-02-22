@@ -1,52 +1,21 @@
 {
   "id": 3433,
   "type": "vocabulary",
-  "characters": "思い出",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "思い出"
+  },
   "primaryMeaning": "A Memory",
+  "meaningMnemonic": "Do you remember the word 思う? It means \"to think.\" What you are <kanji>think</kanji>ing is <kanji>exit</kanji>ing—it's coming out of your head! You're recalling <vocabulary>a memory</vocabulary> or multiple <vocabulary>memories</vocabulary>.",
+  "primaryReading": "おもいで",
+  "readingMnemonic": "The readings are both kun'yomi, but based off of previous experience with the two separate words that make up this word, you should be able to read it. Just remember that it's kun'yomi. One hint is the hiragana sticking out of the 思.",
   "otherMeanings": [
     "Memories",
     "Memory"
   ],
-  "primaryReading": "おもいで",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 637,
-      "character": "思",
-      "readings": [
-        "おも",
-        "し"
-      ]
-    },
-    {
-      "id": 483,
-      "character": "出",
-      "readings": [
-        "しゅつ",
-        "で",
-        "だ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Do you remember the word 思う? It means \"to think.\" What you are <kanji>think</kanji>ing is <kanji>exit</kanji>ing—it's coming out of your head! You're recalling <vocabulary>a memory</vocabulary> or multiple <vocabulary>memories</vocabulary>.",
-  "readingMnemonic": "The readings are both kun'yomi, but based off of previous experience with the two separate words that make up this word, you should be able to read it. Just remember that it's kun'yomi. One hint is the hiragana sticking out of the 思.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%80%9D%E3%81%84%E5%87%BA",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "思",
-      "id": 637,
-      "reading": "おも"
-    },
-    {
-      "type": "kana",
-      "value": "い"
-    },
-    {
-      "type": "kanji",
-      "value": "出",
-      "id": 483,
-      "reading": "で"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%80%9D%E3%81%84%E5%87%BA"
+  }
 }

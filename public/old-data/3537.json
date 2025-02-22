@@ -1,0 +1,43 @@
+{
+  "id": 3537,
+  "type": "vocabulary",
+  "characters": "宿題",
+  "primaryMeaning": "Homework",
+  "otherMeanings": [],
+  "primaryReading": "しゅくだい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 860,
+      "character": "宿",
+      "readings": [
+        "しゅく",
+        "やど"
+      ]
+    },
+    {
+      "id": 872,
+      "character": "題",
+      "readings": [
+        "だい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>lodge</kanji> you're staying in has a <kanji>topic</kanji> around it. Think of it as a theme. This theme is doing your <vocabulary>homework</vocabulary>. So yeah, you just went to a nice lodge for vacation only to have to do homework everywhere.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AE%BF%E9%A1%8C",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "宿",
+      "id": 860,
+      "reading": "しゅく"
+    },
+    {
+      "type": "kanji",
+      "value": "題",
+      "id": 872,
+      "reading": "だい"
+    }
+  ]
+}

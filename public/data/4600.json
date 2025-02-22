@@ -1,43 +1,18 @@
 {
   "id": 4600,
   "type": "vocabulary",
-  "characters": "求職",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "求職"
+  },
   "primaryMeaning": "Job Hunting",
-  "otherMeanings": [],
-  "primaryReading": "きゅうしょく",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 913,
-      "character": "求",
-      "readings": [
-        "きゅう",
-        "もと"
-      ]
-    },
-    {
-      "id": 1189,
-      "character": "職",
-      "readings": [
-        "しょく"
-      ]
-    }
-  ],
   "meaningMnemonic": "Ugh, time to <kanji>request</kanji> <kanji>employment</kanji> again. Time to go <vocabulary>job hunting</vocabulary>.",
+  "primaryReading": "きゅうしょく",
   "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B1%82%E8%81%B7",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "求",
-      "id": 913,
-      "reading": "きゅう"
-    },
-    {
-      "type": "kanji",
-      "value": "職",
-      "id": 1189,
-      "reading": "しょく"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B1%82%E8%81%B7"
+  }
 }

@@ -1,29 +1,37 @@
 {
   "id": 1917,
   "type": "kanji",
-  "character": "也",
-  "primaryMeaning": "Considerably",
-  "otherMeanings": [],
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "也"
+  },
   "primaryReading": "なり",
   "readings": [
     {
-      "reading": "なり",
       "primary": true,
+      "reading": "なり",
       "type": "kunyomi"
     },
     {
-      "reading": "や",
       "primary": false,
+      "reading": "や",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "Speaking of <kanji>considerably</kanji> terrifying, that place known as <reading>Nar</reading>nia (なり) is pretty terrifying. Not sure why children want to go there.",
+  "primaryMeaning": "Considerably",
+  "otherMeanings": [],
   "meaningMnemonic": "An <radical>alligator</radical> is <kanji>considerably</kanji> dangerous. Considerably terrifying too. Considerably [put your scary adjective here].",
-  "vocabularyIds": [
-    6882
-  ],
-  "radicalIds": [
-    77
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E4%B9%9F"
+  "readingMnemonic": "Speaking of <kanji>considerably</kanji> terrifying, that place known as <reading>Nar</reading>nia (なり) is pretty terrifying. Not sure why children want to go there.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E4%B9%9F"
+  },
+  "related": {
+    "radicals": [
+      77
+    ],
+    "vocabularies": [
+      6882
+    ]
+  }
 }

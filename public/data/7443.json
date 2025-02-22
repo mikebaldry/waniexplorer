@@ -1,60 +1,21 @@
 {
   "id": 7443,
   "type": "vocabulary",
-  "characters": "詐欺師",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "詐欺師"
+  },
   "primaryMeaning": "Swindler",
+  "meaningMnemonic": "You know that 詐欺 is \"fraud.\" An <kanji>expert</kanji> in fraud is someone who does this it lot, and possibly for a living. That's a <vocabulary>swindler</vocabulary>, a <vocabulary>con artist</vocabulary>,  or a <vocabulary>scammer</vocabulary>.",
+  "primaryReading": "さぎし",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Will help to know the reading of 詐欺 as well.",
   "otherMeanings": [
     "Con Artist",
     "Scammer"
   ],
-  "primaryReading": "さぎし",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1981,
-      "character": "詐",
-      "readings": [
-        "さ",
-        "いつわ"
-      ]
-    },
-    {
-      "id": 1980,
-      "character": "欺",
-      "readings": [
-        "ぎ",
-        "あざむ"
-      ]
-    },
-    {
-      "id": 1198,
-      "character": "師",
-      "readings": [
-        "し"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You know that 詐欺 is \"fraud.\" An <kanji>expert</kanji> in fraud is someone who does this it lot, and possibly for a living. That's a <vocabulary>swindler</vocabulary>, a <vocabulary>con artist</vocabulary>,  or a <vocabulary>scammer</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Will help to know the reading of 詐欺 as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A9%90%E6%AC%BA%E5%B8%AB",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "詐",
-      "id": 1981,
-      "reading": "さ"
-    },
-    {
-      "type": "kanji",
-      "value": "欺",
-      "id": 1980,
-      "reading": "ぎ"
-    },
-    {
-      "type": "kanji",
-      "value": "師",
-      "id": 1198,
-      "reading": "し"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%A9%90%E6%AC%BA%E5%B8%AB"
+  }
 }

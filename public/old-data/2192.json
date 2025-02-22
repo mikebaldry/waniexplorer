@@ -1,0 +1,45 @@
+{
+  "id": 2192,
+  "type": "kanji",
+  "character": "浄",
+  "primaryMeaning": "Cleanse",
+  "otherMeanings": [
+    "Purify"
+  ],
+  "primaryReading": "じょう",
+  "readings": [
+    {
+      "reading": "じょう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "せい",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "きよ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Who could possibly stop this <kanji>cleanse</kanji> of all lands?! The only person capable of this is, of course, <reading>Joe</reading> (じょう), the local farmhand. He’s so tall and burly that he can stop even the largest of tsunamis… right?",
+  "meaningMnemonic": "The <radical>tsunami</radical> of <radical>conflict</radical> will <kanji>cleanse</kanji> and <kanji>purify</kanji> the lands of people, homes, and culture.",
+  "vocabularyIds": [
+    7997,
+    7998,
+    7999,
+    8000,
+    8001,
+    8002,
+    8003,
+    8221,
+    9108
+  ],
+  "radicalIds": [
+    103,
+    261
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%B5%84"
+}

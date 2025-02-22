@@ -1,0 +1,33 @@
+{
+  "id": 1075,
+  "type": "kanji",
+  "character": "履",
+  "primaryMeaning": "Footwear",
+  "otherMeanings": [],
+  "primaryReading": "り",
+  "readings": [
+    {
+      "reading": "り",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "は",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You grab your <kanji>footwear</kanji> from the black hole. In your footwear (thanks to the shelter they provided), some <reading>ree</reading>ds (り) have grown in!",
+  "meaningMnemonic": "A <radical>flag</radical> <radical>loiter</radical>s in a <radical>black hole</radical>. This flag marks (in the black hole) where you left your <kanji>footwear</kanji>.",
+  "vocabularyIds": [
+    4188,
+    4189,
+    4387
+  ],
+  "radicalIds": [
+    37,
+    99,
+    265
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%B1%A5"
+}

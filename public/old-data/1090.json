@@ -1,0 +1,48 @@
+{
+  "id": 1090,
+  "type": "kanji",
+  "character": "機",
+  "primaryMeaning": "Machine",
+  "otherMeanings": [],
+  "primaryReading": "き",
+  "readings": [
+    {
+      "reading": "き",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "はた",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Oh, I see – the door to the outhouse with the machine toilet is locked, and the drunkard doesn’t have the <reading>key</reading> (き). If he had a <kanji>machine</kanji> like a jackhammer, or a circular saw, or some other heavy duty machine, he might be able to get in without a key, but since he has none of those or a key, he’s reduced to pooping under the tree instead.",
+  "meaningMnemonic": "A <radical>drunkard</radical> is the kind of <radical>person</radical> who would <radical>poop</radical> two times under a <radical>tree</radical> before using a <kanji>machine</kanji> toilet. There’s a perfectly good outhouse with a machine toilet right there, but this drunkard is so drunk that he decides to poop under the tree instead. And not only does he poop once, he poops twice.",
+  "vocabularyIds": [
+    4285,
+    4295,
+    4296,
+    4297,
+    4371,
+    4484,
+    4759,
+    4972,
+    5612,
+    6127,
+    6408,
+    7110,
+    7553,
+    7596,
+    7806,
+    8584,
+    8677
+  ],
+  "radicalIds": [
+    23,
+    87,
+    194,
+    9
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%A9%9F"
+}

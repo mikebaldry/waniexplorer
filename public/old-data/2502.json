@@ -1,0 +1,50 @@
+{
+  "id": 2502,
+  "type": "vocabulary",
+  "characters": "大人",
+  "primaryMeaning": "Adult",
+  "otherMeanings": [
+    "Mature"
+  ],
+  "primaryReading": "おとな",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 453,
+      "character": "大",
+      "readings": [
+        "たい",
+        "だい",
+        "おお",
+        "ひろ"
+      ]
+    },
+    {
+      "id": 444,
+      "character": "人",
+      "readings": [
+        "にん",
+        "じん",
+        "ひと",
+        "と"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word combines <kanji>big</kanji> and <kanji>person</kanji>. If you're a child, how do you think of adults? You just think of them like big people. That's why this combination of kanji means <vocabulary>adult</vocabulary>, and when used like an adjective, it means <vocabulary>mature</vocabulary>.",
+  "readingMnemonic": "Sometimes kanji have exceptional readings that are neither on’yomi, nor kun’yomi, and this is one of them. So here’s a mnemonic to help you remember this reading:\n\n\"I'm an <vocabulary>adult</vocabulary>, which means I have adult responsibilities, like… <reading>oh, toner</reading> (おとな)!\" Are you an adult with your own toner printer? Ohhhh, toner…",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A4%A7%E4%BA%BA",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "大",
+      "id": 453,
+      "reading": null
+    },
+    {
+      "type": "kanji",
+      "value": "人",
+      "id": 444,
+      "reading": null
+    }
+  ]
+}

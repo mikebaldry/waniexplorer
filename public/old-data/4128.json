@@ -1,0 +1,44 @@
+{
+  "id": 4128,
+  "type": "vocabulary",
+  "characters": "禅僧",
+  "primaryMeaning": "Zen Priest",
+  "otherMeanings": [
+    "Zen Monk"
+  ],
+  "primaryReading": "ぜんそう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1047,
+      "character": "禅",
+      "readings": [
+        "ぜん"
+      ]
+    },
+    {
+      "id": 1046,
+      "character": "僧",
+      "readings": [
+        "そう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>Zen</kanji> <kanji>priest</kanji> is a <vocabulary>zen priest</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A6%85%E5%83%A7",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "禅",
+      "id": 1047,
+      "reading": "ぜん"
+    },
+    {
+      "type": "kanji",
+      "value": "僧",
+      "id": 1046,
+      "reading": "そう"
+    }
+  ]
+}

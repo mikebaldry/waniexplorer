@@ -1,0 +1,49 @@
+{
+  "id": 8010,
+  "type": "vocabulary",
+  "characters": "投稿",
+  "primaryMeaning": "Submission",
+  "otherMeanings": [
+    "Post",
+    "Contribution",
+    "Submit"
+  ],
+  "primaryReading": "とうこう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 686,
+      "character": "投",
+      "readings": [
+        "とう",
+        "な"
+      ]
+    },
+    {
+      "id": 2194,
+      "character": "稿",
+      "readings": [
+        "こう",
+        "したがき",
+        "わら"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Throw</kanji> your <kanji>draft</kanji> at people to <vocabulary>post</vocabulary> it on their Facebook wall! Wait, that's not how it works? Hush, yes it does, just throw it harder.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8A%95%E7%A8%BF",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "投",
+      "id": 686,
+      "reading": "とう"
+    },
+    {
+      "type": "kanji",
+      "value": "稿",
+      "id": 2194,
+      "reading": "こう"
+    }
+  ]
+}

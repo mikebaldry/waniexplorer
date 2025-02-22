@@ -1,48 +1,20 @@
 {
   "id": 5646,
   "type": "vocabulary",
-  "characters": "体操",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "体操"
+  },
   "primaryMeaning": "Calisthenics",
+  "meaningMnemonic": "Take your <kanji>body</kanji> and <kanji>manipulate</kanji> it around for exercise. This is <vocabulary>Calisthenics</vocabulary> or <vocabulary>gymnastics</vocabulary>.",
+  "primaryReading": "たいそう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Gymnastics"
   ],
-  "primaryReading": "たいそう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 583,
-      "character": "体",
-      "readings": [
-        "たい",
-        "てい",
-        "からだ"
-      ]
-    },
-    {
-      "id": 1525,
-      "character": "操",
-      "readings": [
-        "そう",
-        "あやつ",
-        "みさお"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Take your <kanji>body</kanji> and <kanji>manipulate</kanji> it around for exercise. This is <vocabulary>Calisthenics</vocabulary> or <vocabulary>gymnastics</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BD%93%E6%93%8D",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "体",
-      "id": 583,
-      "reading": "たい"
-    },
-    {
-      "type": "kanji",
-      "value": "操",
-      "id": 1525,
-      "reading": "そう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BD%93%E6%93%8D"
+  }
 }

@@ -1,0 +1,30 @@
+{
+  "id": 2761,
+  "type": "vocabulary",
+  "characters": "池",
+  "primaryMeaning": "Pond",
+  "otherMeanings": [],
+  "primaryReading": "いけ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 573,
+      "character": "池",
+      "readings": [
+        "ち",
+        "いけ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "If you fall into a <vocabulary>pond</vocabulary>, what sound do you make? <reading>EEEEK</reading> (いけ)! Or maybe you're just afraid of ponds (I don't blame you, there are probably snakes or leeches or alligators in there) and you EEEEK when someone mentions them.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B1%A0",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "池",
+      "id": 573,
+      "reading": "いけ"
+    }
+  ]
+}

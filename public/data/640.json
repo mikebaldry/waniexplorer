@@ -1,48 +1,56 @@
 {
   "id": 640,
   "type": "kanji",
-  "character": "海",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "海"
+  },
+  "primaryReading": "かい",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "かい",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "うみ",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Sea",
   "otherMeanings": [
     "Ocean"
   ],
-  "primaryReading": "かい",
-  "readings": [
-    {
-      "reading": "かい",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "うみ",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "The <kanji>sea</kanji> decides it doesn't want to die today, so it turns its tsunami around and goes the other way. You hop in your <reading>kay</reading>ak (かい) and chase after it with your gun, to make sure it actually returns to the sea and doesn't just drown someone else.",
   "meaningMnemonic": "A <radical>tsunami</radical> is coming, so you point your <radical>gun</radical> out the <radical>window</radical> at it. \"You better turn back, <kanji>sea</kanji>, or I'll shoot!\"",
-  "vocabularyIds": [
-    2917,
-    2918,
-    2984,
-    3276,
-    3794,
-    5799,
-    5885,
-    6121,
-    6927,
-    7474,
-    7569,
-    8355,
-    8409,
-    8647,
-    8662,
-    9333
-  ],
-  "radicalIds": [
-    103,
-    8762,
-    107
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%B5%B7"
+  "readingMnemonic": "The <kanji>sea</kanji> decides it doesn't want to die today, so it turns its tsunami around and goes the other way. You hop in your <reading>kay</reading>ak (かい) and chase after it with your gun, to make sure it actually returns to the sea and doesn't just drown someone else.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%B5%B7"
+  },
+  "related": {
+    "radicals": [
+      103,
+      8762,
+      107
+    ],
+    "vocabularies": [
+      2917,
+      2918,
+      2984,
+      3276,
+      3794,
+      5799,
+      5885,
+      6121,
+      6927,
+      7474,
+      7569,
+      8355,
+      8409,
+      8647,
+      8662,
+      9333
+    ]
+  }
 }

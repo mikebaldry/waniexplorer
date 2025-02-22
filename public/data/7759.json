@@ -1,37 +1,20 @@
 {
   "id": 7759,
   "type": "vocabulary",
-  "characters": "果てる",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "果てる"
+  },
   "primaryMeaning": "To End",
+  "meaningMnemonic": "If you tear (てる) up a <kanji>fruit</kanji>, its life is going <vocabulary>to end</vocabulary>. In other words, the poor thing is going <vocabulary>to die</vocabulary>. Fruit can't go on when they've been beaten up so much. ",
+  "primaryReading": "はてる",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nThe fruit's life is about <vocabulary>to end</vocabulary> and you laugh, \"<reading>Ha</reading>hahaha (は)!\" And then you start tearing at it more! What's wrong with you? Weirdo...",
   "otherMeanings": [
     "To Die"
   ],
-  "primaryReading": "はてる",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1005,
-      "character": "果",
-      "readings": [
-        "か",
-        "くだ",
-        "は"
-      ]
-    }
-  ],
-  "meaningMnemonic": "If you tear (てる) up a <kanji>fruit</kanji>, its life is going <vocabulary>to end</vocabulary>. In other words, the poor thing is going <vocabulary>to die</vocabulary>. Fruit can't go on when they've been beaten up so much. ",
-  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nThe fruit's life is about <vocabulary>to end</vocabulary> and you laugh, \"<reading>Ha</reading>hahaha (は)!\" And then you start tearing at it more! What's wrong with you? Weirdo...",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9E%9C%E3%81%A6%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "果",
-      "id": 1005,
-      "reading": "は"
-    },
-    {
-      "type": "kana",
-      "value": "てる"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%9E%9C%E3%81%A6%E3%82%8B"
+  }
 }

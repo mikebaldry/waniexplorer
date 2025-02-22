@@ -1,12 +1,15 @@
 {
   "id": 8783,
   "type": "radical",
-  "primaryMeaning": "Grass",
-  "otherMeanings": [],
-  "character": {
+  "level": 15,
+  "characters": {
     "type": "text",
     "value": "𭕄"
   },
+  "primaryMeaning": "Grass",
+  "otherMeanings": [],
   "meaningMnemonic": "Don't confuse this with triceratops. <radical>Grass</radical> is closer together, and a little bushier, like this. It's also more random and squished down in parts. If you see a bush of lines like this, it's probably going to be grass.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/grass"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/grass"
+  }
 }

@@ -1,38 +1,46 @@
 {
   "id": 817,
   "type": "kanji",
-  "character": "根",
-  "primaryMeaning": "Root",
-  "otherMeanings": [],
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "根"
+  },
   "primaryReading": "こん",
   "readings": [
     {
-      "reading": "こん",
       "primary": true,
+      "reading": "こん",
       "type": "onyomi"
     },
     {
-      "reading": "ね",
       "primary": false,
+      "reading": "ね",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "Tree <kanji>root</kanji>s are the perfect roosting place for <reading>con</reading>dors (こん). Unfortunately, living on roots is also why they're always endangered. Condors can be killed pretty easily living on the ground on roots like this.",
+  "primaryMeaning": "Root",
+  "otherMeanings": [],
   "meaningMnemonic": "A <radical>tree</radical> <radical>root</radical> is still just a <kanji>root</kanji>!",
-  "vocabularyIds": [
-    3328,
-    3329,
-    3330,
-    3331,
-    3332,
-    6491,
-    6696,
-    8038,
-    8565
-  ],
-  "radicalIds": [
-    23,
-    196
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%A0%B9"
+  "readingMnemonic": "Tree <kanji>root</kanji>s are the perfect roosting place for <reading>con</reading>dors (こん). Unfortunately, living on roots is also why they're always endangered. Condors can be killed pretty easily living on the ground on roots like this.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%A0%B9"
+  },
+  "related": {
+    "radicals": [
+      23,
+      196
+    ],
+    "vocabularies": [
+      3328,
+      3329,
+      3330,
+      3331,
+      3332,
+      6491,
+      6696,
+      8038,
+      8565
+    ]
+  }
 }

@@ -1,0 +1,42 @@
+{
+  "id": 3913,
+  "type": "vocabulary",
+  "characters": "卒業",
+  "primaryMeaning": "Graduation",
+  "otherMeanings": [],
+  "primaryReading": "そつぎょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 897,
+      "character": "卒",
+      "readings": [
+        "そつ"
+      ]
+    },
+    {
+      "id": 756,
+      "character": "業",
+      "readings": [
+        "ぎょう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>business</kanji> of you <kanji>graduating</kanji> is your <vocabulary>graduation</vocabulary>. If you think about it, it's kind of a big business, getting you graduated from expensive schools. The graduation business focuses on graduations, and getting you there (hint: this business is a school, probably).",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8D%92%E6%A5%AD",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "卒",
+      "id": 897,
+      "reading": "そつ"
+    },
+    {
+      "type": "kanji",
+      "value": "業",
+      "id": 756,
+      "reading": "ぎょう"
+    }
+  ]
+}

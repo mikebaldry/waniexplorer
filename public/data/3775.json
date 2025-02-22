@@ -1,45 +1,20 @@
 {
   "id": 3775,
   "type": "vocabulary",
-  "characters": "不法",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "不法"
+  },
   "primaryMeaning": "Illegal",
+  "meaningMnemonic": "A <kanji>not</kanji> <kanji>law</kanji> is something that's against the law. It's <vocabulary>illegal</vocabulary> or <vocabulary>unlawful</vocabulary>.",
+  "primaryReading": "ふほう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Unlawful"
   ],
-  "primaryReading": "ふほう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 563,
-      "character": "不",
-      "readings": [
-        "ふ",
-        "ぶ"
-      ]
-    },
-    {
-      "id": 949,
-      "character": "法",
-      "readings": [
-        "ほう"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>not</kanji> <kanji>law</kanji> is something that's against the law. It's <vocabulary>illegal</vocabulary> or <vocabulary>unlawful</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%8D%E6%B3%95",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "不",
-      "id": 563,
-      "reading": "ふ"
-    },
-    {
-      "type": "kanji",
-      "value": "法",
-      "id": 949,
-      "reading": "ほう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B8%8D%E6%B3%95"
+  }
 }

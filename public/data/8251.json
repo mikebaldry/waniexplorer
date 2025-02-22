@@ -1,47 +1,21 @@
 {
   "id": 8251,
   "type": "vocabulary",
-  "characters": "神髄",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "神髄"
+  },
   "primaryMeaning": "Essence",
+  "meaningMnemonic": "The <kanji>marrow</kanji> of a <kanji>god</kanji> contains their <vocabulary>essence</vocabulary> and <vocabulary>spirit</vocabulary>. I don't know how you found that out, it was probably really dangerous. You shouldn't mess with gods.",
+  "primaryReading": "しんずい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Spirit",
     "True Meaning"
   ],
-  "primaryReading": "しんずい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 799,
-      "character": "神",
-      "readings": [
-        "しん",
-        "じん",
-        "かみ"
-      ]
-    },
-    {
-      "id": 2271,
-      "character": "髄",
-      "readings": [
-        "ずい"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The <kanji>marrow</kanji> of a <kanji>god</kanji> contains their <vocabulary>essence</vocabulary> and <vocabulary>spirit</vocabulary>. I don't know how you found that out, it was probably really dangerous. You shouldn't mess with gods.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A5%9E%E9%AB%84",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "神",
-      "id": 799,
-      "reading": "しん"
-    },
-    {
-      "type": "kanji",
-      "value": "髄",
-      "id": 2271,
-      "reading": "ずい"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%A5%9E%E9%AB%84"
+  }
 }

@@ -1,41 +1,21 @@
 {
   "id": 9073,
   "type": "vocabulary",
-  "characters": "お任せ",
+  "level": 27,
+  "characters": {
+    "type": "text",
+    "value": "お任せ"
+  },
   "primaryMeaning": "Leaving Decisions To Someone Else",
+  "meaningMnemonic": "This word comes from 任せる, but without the る on the end it's a noun. You also have the honorific お on the beginning, which is a clue that you're addressing someone else. So you're entrusting something to the person you're talking to, and this means <vocabulary>leaving decisions to someone else</vocabulary>. This is used a lot in restaurants, where it means <vocabulary>chef's choice</vocabulary> or simply <vocabulary>omakase</vocabulary>. In other words, you're leaving the choice of food to the chef.\n\nIt can be used in other contexts, too, like if you leave your haircut up to your stylist or a flower arrangement up to the florist, or even if you follow the recommended program at the gym.",
+  "primaryReading": "おまかせ",
+  "readingMnemonic": "You learned this reading with the word 任せる, so I'll leave this one to you.",
   "otherMeanings": [
     "Chef's Choice",
     "Omakase"
   ],
-  "primaryReading": "おまかせ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1142,
-      "character": "任",
-      "readings": [
-        "にん",
-        "まか"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This word comes from 任せる, but without the る on the end it's a noun. You also have the honorific お on the beginning, which is a clue that you're addressing someone else. So you're entrusting something to the person you're talking to, and this means <vocabulary>leaving decisions to someone else</vocabulary>. This is used a lot in restaurants, where it means <vocabulary>chef's choice</vocabulary> or simply <vocabulary>omakase</vocabulary>. In other words, you're leaving the choice of food to the chef.\n\nIt can be used in other contexts, too, like if you leave your haircut up to your stylist or a flower arrangement up to the florist, or even if you follow the recommended program at the gym.",
-  "readingMnemonic": "You learned this reading with the word 任せる, so I'll leave this one to you.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E3%81%8A%E4%BB%BB%E3%81%9B",
-  "elements": [
-    {
-      "type": "kana",
-      "value": "お"
-    },
-    {
-      "type": "kanji",
-      "value": "任",
-      "id": 1142,
-      "reading": "まか"
-    },
-    {
-      "type": "kana",
-      "value": "せ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E3%81%8A%E4%BB%BB%E3%81%9B"
+  }
 }

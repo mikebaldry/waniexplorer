@@ -1,35 +1,43 @@
 {
   "id": 2213,
   "type": "kanji",
-  "character": "鯉",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "鯉"
+  },
+  "primaryReading": "こい",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "こい",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "り",
+      "type": "onyomi"
+    }
+  ],
   "primaryMeaning": "Carp",
   "otherMeanings": [
     "Koi"
   ],
-  "primaryReading": "こい",
-  "readings": [
-    {
-      "reading": "こい",
-      "primary": true,
-      "type": "kunyomi"
-    },
-    {
-      "reading": "り",
-      "primary": false,
-      "type": "onyomi"
-    }
-  ],
-  "readingMnemonic": "A <kanji>carp</kanji> is called a <reading>koi</reading> (こい) in Japanese. We've used that word before so I hope you know it by now. A koi is a koi, you know?",
   "meaningMnemonic": "If you're in Japan, the <radical>fish</radical> in your <radical>village</radical> are <kanji>carp</kanji>. You may know them as <kanji>koi</kanji>, too.",
-  "vocabularyIds": [
-    8048,
-    8059,
-    8060,
-    8061
-  ],
-  "radicalIds": [
-    150,
-    125
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%AF%89"
+  "readingMnemonic": "A <kanji>carp</kanji> is called a <reading>koi</reading> (こい) in Japanese. We've used that word before so I hope you know it by now. A koi is a koi, you know?",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%AF%89"
+  },
+  "related": {
+    "radicals": [
+      150,
+      125
+    ],
+    "vocabularies": [
+      8048,
+      8059,
+      8060,
+      8061
+    ]
+  }
 }

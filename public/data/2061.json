@@ -1,32 +1,40 @@
 {
   "id": 2061,
   "type": "kanji",
-  "character": "唯",
-  "primaryMeaning": "Solely",
-  "otherMeanings": [],
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "唯"
+  },
   "primaryReading": "ゆい",
   "readings": [
     {
-      "reading": "ゆい",
       "primary": true,
+      "reading": "ゆい",
       "type": "onyomi"
     },
     {
-      "reading": "ただ",
       "primary": false,
+      "reading": "ただ",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "You traveled a long way to see this turkey and the mouth that is <kanji>solely</kanji> his but you missed your exit on the highway and you have to hang a <reading>U-ey</reading> (ゆい). You know what hang a U-ey means, right? It’s making a U-turn. Well, you have to hang a U-ey on the highway so you can get off at the right spot to see this turkey and the mouth that is solely his.",
+  "primaryMeaning": "Solely",
+  "otherMeanings": [],
   "meaningMnemonic": "The <radical>mouth</radical> of that <radical>turkey</radical> is <kanji>solely</kanji> his. It’s very unique, so that mouth could belong to no other turkey but him. That mouth is solely his.",
-  "vocabularyIds": [
-    7292,
-    7293,
-    7294
-  ],
-  "radicalIds": [
-    16,
-    240
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%94%AF"
+  "readingMnemonic": "You traveled a long way to see this turkey and the mouth that is <kanji>solely</kanji> his but you missed your exit on the highway and you have to hang a <reading>U-ey</reading> (ゆい). You know what hang a U-ey means, right? It’s making a U-turn. Well, you have to hang a U-ey on the highway so you can get off at the right spot to see this turkey and the mouth that is solely his.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%94%AF"
+  },
+  "related": {
+    "radicals": [
+      16,
+      240
+    ],
+    "vocabularies": [
+      7292,
+      7293,
+      7294
+    ]
+  }
 }

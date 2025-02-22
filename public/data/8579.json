@@ -1,36 +1,20 @@
 {
   "id": 8579,
   "type": "vocabulary",
-  "characters": "蔑む",
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "蔑む"
+  },
   "primaryMeaning": "To Scorn",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>scorn</kanji>, so the verb version is <vocabulary>to scorn</vocabulary> and <vocabulary>to despise</vocabulary>.",
+  "primaryReading": "さげすむ",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nYou start <vocabulary>to scorn</vocabulary> your boss because she's been wearing that same <reading>sage su</reading>it (さげす) for a month now. She knows you want to wear a sage suit too but you can't wear the same color as her! It's really making you start to despise her. Uhg!",
   "otherMeanings": [
     "To Despise"
   ],
-  "primaryReading": "さげすむ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2424,
-      "character": "蔑",
-      "readings": [
-        "べつ",
-        "さげす"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>scorn</kanji>, so the verb version is <vocabulary>to scorn</vocabulary> and <vocabulary>to despise</vocabulary>.",
-  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nYou start <vocabulary>to scorn</vocabulary> your boss because she's been wearing that same <reading>sage su</reading>it (さげす) for a month now. She knows you want to wear a sage suit too but you can't wear the same color as her! It's really making you start to despise her. Uhg!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%94%91%E3%82%80",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "蔑",
-      "id": 2424,
-      "reading": "さげす"
-    },
-    {
-      "type": "kana",
-      "value": "む"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%94%91%E3%82%80"
+  }
 }

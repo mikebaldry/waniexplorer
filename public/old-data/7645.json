@@ -1,0 +1,38 @@
+{
+  "id": 7645,
+  "type": "vocabulary",
+  "characters": "固まる",
+  "primaryMeaning": "To Harden",
+  "otherMeanings": [
+    "To Solidify",
+    "To Become Firm",
+    "To Become Certain"
+  ],
+  "primaryReading": "かたまる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 902,
+      "character": "固",
+      "readings": [
+        "こ",
+        "かた"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You've seen how 固める means \"to make hard.\" This word means that something hardened by itself, it means <vocabulary>to harden</vocabulary> or <vocabulary>to solidify</vocabulary>. ",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You learned this reading already so you should be able to read it!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%9B%BA%E3%81%BE%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "固",
+      "id": 902,
+      "reading": "かた"
+    },
+    {
+      "type": "kana",
+      "value": "まる"
+    }
+  ]
+}

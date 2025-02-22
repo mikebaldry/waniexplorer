@@ -1,0 +1,46 @@
+{
+  "id": 3190,
+  "type": "vocabulary",
+  "characters": "集中",
+  "primaryMeaning": "Concentration",
+  "otherMeanings": [
+    "Focus"
+  ],
+  "primaryReading": "しゅうちゅう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 754,
+      "character": "集",
+      "readings": [
+        "しゅう",
+        "あつ"
+      ]
+    },
+    {
+      "id": 469,
+      "character": "中",
+      "readings": [
+        "ちゅう",
+        "なか"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you <kanji>collect</kanji> to the <kanji>middle</kanji> of yourself, you are collecting towards your brain. All energy is going towards there, massing up in the middle, giving you extreme <vocabulary>concentration</vocabulary> and <vocabulary>focus</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9B%86%E4%B8%AD",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "集",
+      "id": 754,
+      "reading": "しゅう"
+    },
+    {
+      "type": "kanji",
+      "value": "中",
+      "id": 469,
+      "reading": "ちゅう"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 8199,
+  "type": "vocabulary",
+  "characters": "追悼",
+  "primaryMeaning": "Mourning",
+  "otherMeanings": [
+    "Memorial"
+  ],
+  "primaryReading": "ついとう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 802,
+      "character": "追",
+      "readings": [
+        "お",
+        "つい"
+      ]
+    },
+    {
+      "id": 2268,
+      "character": "悼",
+      "readings": [
+        "とう",
+        "いた"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Follow</kanji> people who <kanji>grieve</kanji> by <vocabulary>mourning</vocabulary> with them. You don't want to be the only one who doesn't seem sad.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You learned this reading with the word 追随, but here's a mnemonic to help you just in case:\n\nYou're <vocabulary>mourning</vocabulary> the loss of your pet bird. You can't help but yell <reading>TWEE</reading>T (つい) to the sky, hoping she'll come back to life. It doesn't work so you stay in a state of mourning for the rest of your life. She was your best bird friend, after all.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%BF%BD%E6%82%BC",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "追",
+      "id": 802,
+      "reading": "つい"
+    },
+    {
+      "type": "kanji",
+      "value": "悼",
+      "id": 2268,
+      "reading": "とう"
+    }
+  ]
+}

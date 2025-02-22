@@ -1,0 +1,34 @@
+{
+  "id": 2455,
+  "type": "kanji",
+  "character": "慕",
+  "primaryMeaning": "Yearn For",
+  "otherMeanings": [
+    "Adore"
+  ],
+  "primaryReading": "ぼ",
+  "readings": [
+    {
+      "reading": "ぼ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "した",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "As you <kanji>yearn for</kanji> that person from your past, you look back at the drop and see... <reading>Bo</reading>bo (ぼ) the clown?! Uhg. Apparently Bobo dropped that small drop of water.",
+  "meaningMnemonic": "You're walking in a <radical>greenhouse</radical> when you see a <radical>small</radical> <radical>drop</radical> of water fall and it makes you <kanji>yearn for</kanji> the person you <kanji>adore</kanji>. You haven't seen them in so long. But something about being in this greenhouse and seeing that tiny water droplet made your heart burst with longing. ",
+  "vocabularyIds": [
+    8617,
+    8618
+  ],
+  "radicalIds": [
+    356,
+    35,
+    3
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%85%95"
+}

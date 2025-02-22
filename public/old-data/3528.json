@@ -1,0 +1,59 @@
+{
+  "id": 3528,
+  "type": "vocabulary",
+  "characters": "一億円",
+  "primaryMeaning": "One Hundred Million Yen",
+  "otherMeanings": [],
+  "primaryReading": "いちおくえん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 440,
+      "character": "一",
+      "readings": [
+        "いち",
+        "いつ",
+        "ひと",
+        "かず"
+      ]
+    },
+    {
+      "id": 875,
+      "character": "億",
+      "readings": [
+        "おく"
+      ]
+    },
+    {
+      "id": 472,
+      "character": "円",
+      "readings": [
+        "えん",
+        "まる"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>One</kanji> <kanji>hundred million</kanji> <kanji>yen</kanji>! So rich! You have <vocabulary>one hundred million yen</vocabulary>!",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%80%E5%84%84%E5%86%86",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "一",
+      "id": 440,
+      "reading": "いち"
+    },
+    {
+      "type": "kanji",
+      "value": "億",
+      "id": 875,
+      "reading": "おく"
+    },
+    {
+      "type": "kanji",
+      "value": "円",
+      "id": 472,
+      "reading": "えん"
+    }
+  ]
+}

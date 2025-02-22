@@ -1,0 +1,43 @@
+{
+  "id": 5809,
+  "type": "vocabulary",
+  "characters": "劇的",
+  "primaryMeaning": "Dramatic",
+  "otherMeanings": [],
+  "primaryReading": "げきてき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1569,
+      "character": "劇",
+      "readings": [
+        "げき"
+      ]
+    },
+    {
+      "id": 914,
+      "character": "的",
+      "readings": [
+        "てき",
+        "まと"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Something that is <kanji>drama</kanji> <kanji>al</kanji> is <vocabulary>dramatic</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8A%87%E7%9A%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "劇",
+      "id": 1569,
+      "reading": "げき"
+    },
+    {
+      "type": "kanji",
+      "value": "的",
+      "id": 914,
+      "reading": "てき"
+    }
+  ]
+}

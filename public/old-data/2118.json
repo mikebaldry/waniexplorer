@@ -1,0 +1,27 @@
+{
+  "id": 2118,
+  "type": "kanji",
+  "character": "疫",
+  "primaryMeaning": "Epidemic",
+  "otherMeanings": [],
+  "primaryReading": "えき",
+  "readings": [
+    {
+      "reading": "えき",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "These <kanji>epidemic</kanji>s spread by <reading>駅</reading> (えき). Each train takes the sickness and shoots off in a different direction, spreading it further.",
+  "meaningMnemonic": "Turn a <radical>sick</radical>ness into a <radical>weapon</radical> and it becomes an <kanji>epidemic</kanji>. This sickness spreads to everyone and it's all your fault because you put it in the water supply.",
+  "vocabularyIds": [
+    7430,
+    7431,
+    7432
+  ],
+  "radicalIds": [
+    187,
+    160
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%96%AB"
+}

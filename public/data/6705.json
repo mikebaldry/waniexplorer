@@ -1,73 +1,18 @@
 {
   "id": 6705,
   "type": "vocabulary",
-  "characters": "封建主義",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "封建主義"
+  },
   "primaryMeaning": "Feudalism",
-  "otherMeanings": [],
-  "primaryReading": "ほうけんしゅぎ",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1853,
-      "character": "封",
-      "readings": [
-        "ふう",
-        "ほう"
-      ]
-    },
-    {
-      "id": 946,
-      "character": "建",
-      "readings": [
-        "けん",
-        "た"
-      ]
-    },
-    {
-      "id": 528,
-      "character": "主",
-      "readings": [
-        "しゅ",
-        "おも",
-        "ぬし",
-        "あるじ"
-      ]
-    },
-    {
-      "id": 1154,
-      "character": "義",
-      "readings": [
-        "ぎ"
-      ]
-    }
-  ],
   "meaningMnemonic": "You know that 主義 is \"-ism.\" Add that onto an ism that is <kanji>build</kanji>ing a <kanji>seal(ed) in</kanji> system, and you have <vocabulary>feudalism</vocabulary>. Why? Because with feudalism, power is sealed in with one group or one family. Nobody else can get in (until they are overthrown, anyways), making this <vocabulary>feudalism</vocabulary>.",
+  "primaryReading": "ほうけんしゅぎ",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B0%81%E5%BB%BA%E4%B8%BB%E7%BE%A9",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "封",
-      "id": 1853,
-      "reading": "ほう"
-    },
-    {
-      "type": "kanji",
-      "value": "建",
-      "id": 946,
-      "reading": "けん"
-    },
-    {
-      "type": "kanji",
-      "value": "主",
-      "id": 528,
-      "reading": "しゅ"
-    },
-    {
-      "type": "kanji",
-      "value": "義",
-      "id": 1154,
-      "reading": "ぎ"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%B0%81%E5%BB%BA%E4%B8%BB%E7%BE%A9"
+  }
 }

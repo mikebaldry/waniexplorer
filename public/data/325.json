@@ -1,12 +1,15 @@
 {
   "id": 325,
   "type": "radical",
-  "primaryMeaning": "Above",
-  "otherMeanings": [],
-  "character": {
+  "level": 29,
+  "characters": {
     "type": "text",
     "value": "上"
   },
+  "primaryMeaning": "Above",
+  "otherMeanings": [],
   "meaningMnemonic": "This radical is the same as the kanji. It means <radical>above</radical>.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/above"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/above"
+  }
 }

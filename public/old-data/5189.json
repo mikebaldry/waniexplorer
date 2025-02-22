@@ -1,0 +1,46 @@
+{
+  "id": 5189,
+  "type": "vocabulary",
+  "characters": "絶対",
+  "primaryMeaning": "Absolutely",
+  "otherMeanings": [
+    "Without Fail",
+    "Unconditionally"
+  ],
+  "primaryReading": "ぜったい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1371,
+      "character": "絶",
+      "readings": [
+        "ぜつ",
+        "た"
+      ]
+    },
+    {
+      "id": 683,
+      "character": "対",
+      "readings": [
+        "たい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Extinction</kanji> will happen as you go <kanji>versus</kanji> extinction. It will happen <vocabulary>absolutely</vocabulary>. It will happen <vocabulary>without fail</vocabulary>. There's nothing you can do to stop extinction.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Be careful though, 絶 is normally read as ぜつ, but in this case it is shortened to ぜっ. ",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B5%B6%E5%AF%BE",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "絶",
+      "id": 1371,
+      "reading": null
+    },
+    {
+      "type": "kanji",
+      "value": "対",
+      "id": 683,
+      "reading": null
+    }
+  ]
+}

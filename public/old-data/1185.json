@@ -1,0 +1,27 @@
+{
+  "id": 1185,
+  "type": "kanji",
+  "character": "賀",
+  "primaryMeaning": "Congratulations",
+  "otherMeanings": [],
+  "primaryReading": "が",
+  "readings": [
+    {
+      "reading": "が",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "When you say <kanji>congratulations</kanji> like this, you look just like a <reading>ga</reading>rgoyle (が). You're crouching down, your mouth wide open, just like a stone gargoyle.",
+  "meaningMnemonic": "You use the <radical>power</radical> of your <radical>mouth</radical> to spit <radical>shellfish</radical> at people as a form of <kanji>congratulations</kanji>! In fact, you yell \"CONGRATULATIONS!\" as the shellfish come pouring out of your powerful mouth.",
+  "vocabularyIds": [
+    4591,
+    8651
+  ],
+  "radicalIds": [
+    13,
+    16,
+    94
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%B3%80"
+}

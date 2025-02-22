@@ -1,34 +1,18 @@
 {
   "id": 6718,
   "type": "vocabulary",
-  "characters": "懲りる",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "懲りる"
+  },
   "primaryMeaning": "To Learn By Experience",
-  "otherMeanings": [],
-  "primaryReading": "こりる",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1858,
-      "character": "懲",
-      "readings": [
-        "ちょう",
-        "こ"
-      ]
-    }
-  ],
   "meaningMnemonic": "The kanji means <kanji>chastise</kanji> but the verb vocab version is <vocabulary>to learn by experience</vocabulary>. I guess these are kind of similar. When you make a mistake, someone will chastise you, and then you will learn by experience (either via the experience or via the chastising).",
+  "primaryReading": "こりる",
   "readingMnemonic": "As a <reading>child</reading> (こ) you got a lot of chastising, I bet. A lot of learning by experience (of chastising).",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%87%B2%E3%82%8A%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "懲",
-      "id": 1858,
-      "reading": "こ"
-    },
-    {
-      "type": "kana",
-      "value": "りる"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%87%B2%E3%82%8A%E3%82%8B"
+  }
 }

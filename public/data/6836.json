@@ -1,45 +1,18 @@
 {
   "id": 6836,
   "type": "vocabulary",
-  "characters": "雷雨",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "雷雨"
+  },
   "primaryMeaning": "Thunderstorm",
-  "otherMeanings": [],
-  "primaryReading": "らいう",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1903,
-      "character": "雷",
-      "readings": [
-        "らい",
-        "かみなり"
-      ]
-    },
-    {
-      "id": 603,
-      "character": "雨",
-      "readings": [
-        "あめ",
-        "あま",
-        "う"
-      ]
-    }
-  ],
   "meaningMnemonic": "A <kanji>thunder</kanji> <kanji>rain</kanji> is a rain that's coming with thunder. For all intents and purposes, if you see this, you'll think <vocabulary>thunderstorm</vocabulary>.",
+  "primaryReading": "らいう",
   "readingMnemonic": "The reading is the on'yomi readings. For 雨, you learned it with 雨天. So you should be able to put them together!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9B%B7%E9%9B%A8",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "雷",
-      "id": 1903,
-      "reading": "らい"
-    },
-    {
-      "type": "kanji",
-      "value": "雨",
-      "id": 603,
-      "reading": "う"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%9B%B7%E9%9B%A8"
+  }
 }

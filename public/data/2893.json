@@ -1,42 +1,20 @@
 {
   "id": 2893,
   "type": "vocabulary",
-  "characters": "お姉さん",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "お姉さん"
+  },
   "primaryMeaning": "Older Sister",
+  "meaningMnemonic": "The お makes the word more polite. You're elevating the \"<vocabulary>older sister</vocabulary>\" title because you're a good younger sibling. Otherwise, the meaning of this word is the same as the kanji - just the feeling is different. You can also use this word to refer to a youthful-looking woman that you don't know, as in \"Excuse me <vocabulary>miss</vocabulary>!\" ",
+  "primaryReading": "おねえさん",
+  "readingMnemonic": "The reading is different too. It has some hiragana attached to it, which is a clue that this uses a kun'yomi reading. Let's use a mnemonic to learn that reading. \n\nImagine your <vocabulary>older sister</vocabulary> (even if you don't have one). She is, for some reason, a horse. Imagine petting her, giving her carrots, and doing other horse-related things with her. What do horses say? They say <reading>nehhhh</reading> (ねえ).",
   "otherMeanings": [
     "Miss"
   ],
-  "primaryReading": "おねえさん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 624,
-      "character": "姉",
-      "readings": [
-        "し",
-        "お",
-        "あね",
-        "ねえ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The お makes the word more polite. You're elevating the \"<vocabulary>older sister</vocabulary>\" title because you're a good younger sibling. Otherwise, the meaning of this word is the same as the kanji - just the feeling is different. You can also use this word to refer to a youthful-looking woman that you don't know, as in \"Excuse me <vocabulary>miss</vocabulary>!\" ",
-  "readingMnemonic": "The reading is different too. It has some hiragana attached to it, which is a clue that this uses a kun'yomi reading. Let's use a mnemonic to learn that reading. \n\nImagine your <vocabulary>older sister</vocabulary> (even if you don't have one). She is, for some reason, a horse. Imagine petting her, giving her carrots, and doing other horse-related things with her. What do horses say? They say <reading>nehhhh</reading> (ねえ).",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E3%81%8A%E5%A7%89%E3%81%95%E3%82%93",
-  "elements": [
-    {
-      "type": "kana",
-      "value": "お"
-    },
-    {
-      "type": "kanji",
-      "value": "姉",
-      "id": 624,
-      "reading": "ねえ"
-    },
-    {
-      "type": "kana",
-      "value": "さん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E3%81%8A%E5%A7%89%E3%81%95%E3%82%93"
+  }
 }

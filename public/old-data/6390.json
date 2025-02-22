@@ -1,0 +1,44 @@
+{
+  "id": 6390,
+  "type": "vocabulary",
+  "characters": "堀川",
+  "primaryMeaning": "Canal",
+  "otherMeanings": [],
+  "primaryReading": "ほりかわ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1752,
+      "character": "堀",
+      "readings": [
+        "ほり",
+        "くつ"
+      ]
+    },
+    {
+      "id": 456,
+      "character": "川",
+      "readings": [
+        "かわ",
+        "せん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>ditch</kanji> <kanji>river</kanji> is a <vocabulary>canal</vocabulary>.",
+  "readingMnemonic": "The readings are the ones from the kanji 堀 and the vocab 川.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A0%80%E5%B7%9D-6390",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "堀",
+      "id": 1752,
+      "reading": "ほり"
+    },
+    {
+      "type": "kanji",
+      "value": "川",
+      "id": 456,
+      "reading": "かわ"
+    }
+  ]
+}

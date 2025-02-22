@@ -1,46 +1,20 @@
 {
   "id": 5955,
   "type": "vocabulary",
-  "characters": "貿易",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "貿易"
+  },
   "primaryMeaning": "Trade",
+  "meaningMnemonic": "<kanji>Trade</kanji> is <kanji>easy</kanji> if you like <vocabulary>trade</vocabulary> and <vocabulary>commerce</vocabulary>.",
+  "primaryReading": "ぼうえき",
+  "readingMnemonic": "The 貿 reading is okay, but the 易 reading is different from what you're used to. Just think about how a lot of the trade that comes in will come into the train <reading>station</reading> (駅). So if you want good trade, you'll want to be at the えき.",
   "otherMeanings": [
     "Commerce"
   ],
-  "primaryReading": "ぼうえき",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1613,
-      "character": "貿",
-      "readings": [
-        "ぼう"
-      ]
-    },
-    {
-      "id": 1063,
-      "character": "易",
-      "readings": [
-        "い",
-        "えき",
-        "やさ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Trade</kanji> is <kanji>easy</kanji> if you like <vocabulary>trade</vocabulary> and <vocabulary>commerce</vocabulary>.",
-  "readingMnemonic": "The 貿 reading is okay, but the 易 reading is different from what you're used to. Just think about how a lot of the trade that comes in will come into the train <reading>station</reading> (駅). So if you want good trade, you'll want to be at the えき.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%B2%BF%E6%98%93",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "貿",
-      "id": 1613,
-      "reading": "ぼう"
-    },
-    {
-      "type": "kanji",
-      "value": "易",
-      "id": 1063,
-      "reading": "えき"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%B2%BF%E6%98%93"
+  }
 }

@@ -1,0 +1,50 @@
+{
+  "id": 5287,
+  "type": "vocabulary",
+  "characters": "要請",
+  "primaryMeaning": "Demand",
+  "otherMeanings": [
+    "Request"
+  ],
+  "primaryReading": "ようせい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 737,
+      "character": "要",
+      "readings": [
+        "よう",
+        "い",
+        "かなめ"
+      ]
+    },
+    {
+      "id": 1386,
+      "character": "請",
+      "readings": [
+        "せい",
+        "しん",
+        "しょう",
+        "う",
+        "こ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You <kanji>need</kanji> something so you <kanji>request</kanji> it. But, since it's such a strong need, it's not really a request, it's more of a <vocabulary>demand</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A6%81%E8%AB%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "要",
+      "id": 737,
+      "reading": "よう"
+    },
+    {
+      "type": "kanji",
+      "value": "請",
+      "id": 1386,
+      "reading": "せい"
+    }
+  ]
+}

@@ -1,38 +1,22 @@
 {
   "id": 4925,
   "type": "vocabulary",
-  "characters": "振る",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "振る"
+  },
   "primaryMeaning": "To Shake Something",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>shake</kanji> and this verb is transitive, meaning that you're shaking something. So this verb means <vocabulary>to shake something</vocabulary>, <vocabulary>to wave something</vocabulary>, or <vocabulary>to swing something</vocabulary>. You'll often see it paired with 手, as in 手を振る, meaning \"to wave one's hand\" or, as we'd usually say in English, simply \"to wave\".\n\nThis word can also be used when you shake someone off in the less physical way, as in <vocabulary>to break up with someone</vocabulary>.",
+  "primaryReading": "ふる",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you:\n\nSomeone is trying <vocabulary>to shake something</vocabulary>. And unfortunately, that something is you. The most unfortunate thing here is that you're totally <reading>full</reading> (ふる), and you throw up because of the shaking (and you're full, gross!).",
   "otherMeanings": [
     "To Wave Something",
     "To Swing Something",
     "To Break Up With Someone"
   ],
-  "primaryReading": "ふる",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1307,
-      "character": "振",
-      "readings": [
-        "しん",
-        "ふ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>shake</kanji> and this verb is transitive, meaning that you're shaking something. So this verb means <vocabulary>to shake something</vocabulary>, <vocabulary>to wave something</vocabulary>, or <vocabulary>to swing something</vocabulary>. You'll often see it paired with 手, as in 手を振る, meaning \"to wave one's hand\" or, as we'd usually say in English, simply \"to wave\".\n\nThis word can also be used when you shake someone off in the less physical way, as in <vocabulary>to break up with someone</vocabulary>.",
-  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you:\n\nSomeone is trying <vocabulary>to shake something</vocabulary>. And unfortunately, that something is you. The most unfortunate thing here is that you're totally <reading>full</reading> (ふる), and you throw up because of the shaking (and you're full, gross!).",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8C%AF%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "振",
-      "id": 1307,
-      "reading": "ふ"
-    },
-    {
-      "type": "kana",
-      "value": "る"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%8C%AF%E3%82%8B"
+  }
 }

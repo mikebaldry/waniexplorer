@@ -1,0 +1,51 @@
+{
+  "id": 9145,
+  "type": "vocabulary",
+  "characters": "心強い",
+  "primaryMeaning": "Reassuring",
+  "otherMeanings": [
+    "Heartening"
+  ],
+  "primaryReading": "こころづよい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 508,
+      "character": "心",
+      "readings": [
+        "しん",
+        "こころ"
+      ]
+    },
+    {
+      "id": 667,
+      "character": "強",
+      "readings": [
+        "きょう",
+        "ごう",
+        "つよ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Things that make your <kanji>heart</kanji> <kanji>strong</kanji> are <vocabulary>reassuring</vocabulary> and <vocabulary>heartening</vocabulary> to hear. You can practically feel your heart becoming stronger in your chest.",
+  "readingMnemonic": "The readings for this word are both kun'yomi readings. You learned them when you learned the words 心 and 強い, so you should be able to read this on your own. Just note that つよい gets rendaku'd to づよい!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BF%83%E5%BC%B7%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "心",
+      "id": 508,
+      "reading": "こころ"
+    },
+    {
+      "type": "kanji",
+      "value": "強",
+      "id": 667,
+      "reading": "づよ"
+    },
+    {
+      "type": "kana",
+      "value": "い"
+    }
+  ]
+}

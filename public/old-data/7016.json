@@ -1,0 +1,46 @@
+{
+  "id": 7016,
+  "type": "vocabulary",
+  "characters": "水泡",
+  "primaryMeaning": "Foam",
+  "otherMeanings": [
+    "Bubble"
+  ],
+  "primaryReading": "すいほう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 479,
+      "character": "水",
+      "readings": [
+        "すい",
+        "みず"
+      ]
+    },
+    {
+      "id": 1962,
+      "character": "泡",
+      "readings": [
+        "ほう",
+        "あわ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Water</kanji> <kanji>bubbles</kanji> are bubbles that come from the water. This is usually in the form of <vocabulary>foam</vocabulary>, but could also be a <vocabulary>bubble</vocabulary>.\n\n水泡 is a literary word, mainly seen in the idiom 水泡に帰す (to come to nothing). This phrase paints a picture of your efforts going down the drain, turning into foam or bubbles in the water, and ultimately disappearing into nothingness.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B0%B4%E6%B3%A1",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "水",
+      "id": 479,
+      "reading": "すい"
+    },
+    {
+      "type": "kanji",
+      "value": "泡",
+      "id": 1962,
+      "reading": "ほう"
+    }
+  ]
+}

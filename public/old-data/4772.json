@@ -1,0 +1,59 @@
+{
+  "id": 4772,
+  "type": "vocabulary",
+  "characters": "賞与金",
+  "primaryMeaning": "Bonus",
+  "otherMeanings": [],
+  "primaryReading": "しょうよきん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 884,
+      "character": "賞",
+      "readings": [
+        "しょう"
+      ]
+    },
+    {
+      "id": 1249,
+      "character": "与",
+      "readings": [
+        "よ",
+        "あた"
+      ]
+    },
+    {
+      "id": 602,
+      "character": "金",
+      "readings": [
+        "きん",
+        "こん",
+        "かね",
+        "かな"
+      ]
+    }
+  ],
+  "meaningMnemonic": "It's a <kanji>prize</kanji> where you are <kanji>give</kanji>n <kanji>gold</kanji>. In business, this is called a <vocabulary>bonus</vocabulary>. You didn't expect it (not your salary) and it is given to you (and is gold, if you're lucky).\n\nNote that you’ll more commonly see its shorter version 賞与.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%B3%9E%E4%B8%8E%E9%87%91",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "賞",
+      "id": 884,
+      "reading": "しょう"
+    },
+    {
+      "type": "kanji",
+      "value": "与",
+      "id": 1249,
+      "reading": "よ"
+    },
+    {
+      "type": "kanji",
+      "value": "金",
+      "id": 602,
+      "reading": "きん"
+    }
+  ]
+}

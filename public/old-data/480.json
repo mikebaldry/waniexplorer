@@ -1,0 +1,48 @@
+{
+  "id": 480,
+  "type": "kanji",
+  "character": "火",
+  "primaryMeaning": "Fire",
+  "otherMeanings": [],
+  "primaryReading": "か",
+  "readings": [
+    {
+      "reading": "か",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ひ",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "ほ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Whenever we need to remember か, we use the word <reading>car</reading>.\n\nFor this kanji, when we think <kanji>fire</kanji>, we ought to think of something on fire. What's on fire? It's obviously your very own <reading>car</reading> (か)! Oh Goddd NOOO!",
+  "meaningMnemonic": "The <radical>fire</radical> radical and the <kanji>fire</kanji> kanji are the same as each other.",
+  "vocabularyIds": [
+    2548,
+    2549,
+    2695,
+    4300,
+    4336,
+    4361,
+    6138,
+    7176,
+    7211,
+    7484,
+    7740,
+    7816,
+    7868,
+    8723,
+    9010
+  ],
+  "radicalIds": [
+    46
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%81%AB"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 3159,
+  "type": "vocabulary",
+  "characters": "起きる",
+  "primaryMeaning": "To Wake Up",
+  "otherMeanings": [
+    "To Get Up",
+    "To Occur"
+  ],
+  "primaryReading": "おきる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 740,
+      "character": "起",
+      "readings": [
+        "お",
+        "き"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>wake up</kanji> so the verb vocab version is <vocabulary>to wake up</vocabulary> or <vocabulary>to get up</vocabulary>.\n\nThis word also has a secondary meaning of <vocabulary>to occur</vocabulary>. Think of it this way: when an action \"wakes up\", in a way it is occurring as well. ",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji, so tomorrow when you wake up you hopefully won't have to relearn this vocab's reading.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%B5%B7%E3%81%8D%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "起",
+      "id": 740,
+      "reading": "お"
+    },
+    {
+      "type": "kana",
+      "value": "きる"
+    }
+  ]
+}

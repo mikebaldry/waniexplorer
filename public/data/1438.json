@@ -1,35 +1,43 @@
 {
   "id": 1438,
   "type": "kanji",
-  "character": "飾",
-  "primaryMeaning": "Decorate",
-  "otherMeanings": [],
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "飾"
+  },
   "primaryReading": "しょく",
   "readings": [
     {
-      "reading": "しょく",
       "primary": true,
+      "reading": "しょく",
       "type": "onyomi"
     },
     {
-      "reading": "かざ",
       "primary": false,
+      "reading": "かざ",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "If you actually <kanji>decorate</kanji> your house like this it will give people quite a <reading>shock</reading> (しょく). In fact, they might be so shocked they run out of there screaming.",
+  "primaryMeaning": "Decorate",
+  "otherMeanings": [],
   "meaningMnemonic": "When you <radical>eat</radical> you want to see the shape of your <radical>gun</radical> from under a <radical>towel</radical>, so you <kanji>decorate</kanji> your house with them.",
-  "vocabularyIds": [
-    5383,
-    5384,
-    5385,
-    7661,
-    7721
-  ],
-  "radicalIds": [
-    139,
-    8762,
-    102
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%A3%BE"
+  "readingMnemonic": "If you actually <kanji>decorate</kanji> your house like this it will give people quite a <reading>shock</reading> (しょく). In fact, they might be so shocked they run out of there screaming.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%A3%BE"
+  },
+  "related": {
+    "radicals": [
+      139,
+      8762,
+      102
+    ],
+    "vocabularies": [
+      5383,
+      5384,
+      5385,
+      7661,
+      7721
+    ]
+  }
 }

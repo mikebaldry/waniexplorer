@@ -1,46 +1,21 @@
 {
   "id": 7875,
   "type": "vocabulary",
-  "characters": "孤独",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "孤独"
+  },
   "primaryMeaning": "Isolation",
+  "meaningMnemonic": "An <kanji>orphan</kanji> who's <kanji>alone</kanji> is trapped in a world of <vocabulary>isolation</vocabulary> and <vocabulary>loneliness</vocabulary>. Having no parents is hard enough, but not having anyone else is even lonelier.",
+  "primaryReading": "こどく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Loneliness",
     "Solitude"
   ],
-  "primaryReading": "こどく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2161,
-      "character": "孤",
-      "readings": [
-        "こ"
-      ]
-    },
-    {
-      "id": 1312,
-      "character": "独",
-      "readings": [
-        "どく",
-        "ひと"
-      ]
-    }
-  ],
-  "meaningMnemonic": "An <kanji>orphan</kanji> who's <kanji>alone</kanji> is trapped in a world of <vocabulary>isolation</vocabulary> and <vocabulary>loneliness</vocabulary>. Having no parents is hard enough, but not having anyone else is even lonelier.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AD%A4%E7%8B%AC",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "孤",
-      "id": 2161,
-      "reading": "こ"
-    },
-    {
-      "type": "kanji",
-      "value": "独",
-      "id": 1312,
-      "reading": "どく"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%AD%A4%E7%8B%AC"
+  }
 }

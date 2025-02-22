@@ -1,12 +1,15 @@
 {
   "id": 29,
   "type": "radical",
-  "primaryMeaning": "Head",
-  "otherMeanings": [],
-  "character": {
+  "level": 2,
+  "characters": {
     "type": "text",
     "value": "冂"
   },
-  "meaningMnemonic": "This is the kind of <radical>head</radical> a child might draw—can you imagine it with eyes, nose, mouth, and ears too? Whoever's head this is, it's really square. Maybe it's the head of a <a href=\"https://en.wikipedia.org/wiki/SpongeBob_SquarePants_(character)\" target=\"_blank\">famous spongy cartoon character</a>. Hmm.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/head"
+  "primaryMeaning": "Head",
+  "otherMeanings": [],
+  "meaningMnemonic": "This is the outline of a <radical>head</radical>. A really square head, admittedly, but try to imagine it facing to the right. The left side is the back of the head, and the barb-like part on the right shows the curve of the chin. See the head?",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/head"
+  }
 }

@@ -1,45 +1,20 @@
 {
   "id": 4603,
   "type": "vocabulary",
-  "characters": "規則",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "規則"
+  },
   "primaryMeaning": "Rule",
+  "meaningMnemonic": "A <kanji>standard</kanji> <kanji>rule</kanji> is just one of the <vocabulary>rule</vocabulary>s or <vocabulary>regulation</vocabulary>s. Nothing weird about these rules.",
+  "primaryReading": "きそく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Regulation"
   ],
-  "primaryReading": "きそく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1191,
-      "character": "規",
-      "readings": [
-        "き"
-      ]
-    },
-    {
-      "id": 1201,
-      "character": "則",
-      "readings": [
-        "そく",
-        "のっと"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>standard</kanji> <kanji>rule</kanji> is just one of the <vocabulary>rule</vocabulary>s or <vocabulary>regulation</vocabulary>s. Nothing weird about these rules.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A6%8F%E5%89%87",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "規",
-      "id": 1191,
-      "reading": "き"
-    },
-    {
-      "type": "kanji",
-      "value": "則",
-      "id": 1201,
-      "reading": "そく"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%A6%8F%E5%89%87"
+  }
 }

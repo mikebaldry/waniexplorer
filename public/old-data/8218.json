@@ -1,0 +1,58 @@
+{
+  "id": 8218,
+  "type": "vocabulary",
+  "characters": "栃木県",
+  "primaryMeaning": "Tochigi Prefecture",
+  "otherMeanings": [],
+  "primaryReading": "とちぎけん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2265,
+      "character": "栃",
+      "readings": [
+        "とち"
+      ]
+    },
+    {
+      "id": 478,
+      "character": "木",
+      "readings": [
+        "もく",
+        "ぼく",
+        "き",
+        "こ"
+      ]
+    },
+    {
+      "id": 731,
+      "character": "県",
+      "readings": [
+        "けん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>prefecture</kanji> with lots of <kanji>horse chestnut</kanji> <kanji>tree</kanji>s is <vocabulary>Tochigi prefecture</vocabulary>.",
+  "readingMnemonic": "This word consists of the kun'yomi readings for 栃 and 木 and the on'yomi for 県, like most with prefectures. As long as you remember that き is changed to ぎ here, you should be able to remember this reading easily!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%A0%83%E6%9C%A8%E7%9C%8C",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "栃",
+      "id": 2265,
+      "reading": "とち"
+    },
+    {
+      "type": "kanji",
+      "value": "木",
+      "id": 478,
+      "reading": "ぎ"
+    },
+    {
+      "type": "kanji",
+      "value": "県",
+      "id": 731,
+      "reading": "けん"
+    }
+  ]
+}

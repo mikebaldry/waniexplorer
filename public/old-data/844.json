@@ -1,0 +1,34 @@
+{
+  "id": 844,
+  "type": "kanji",
+  "character": "湯",
+  "primaryMeaning": "Hot Water",
+  "otherMeanings": [],
+  "primaryReading": "ゆ",
+  "readings": [
+    {
+      "reading": "ゆ",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "とう",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "As the <kanji>hot water</kanji> comes, you just lift up the bottom of the <reading>yu</reading>rt (ゆ) you live in, and it comes flowing in. All of the cups, pots, and barrels you laid on your floor are now full of hot water.",
+  "meaningMnemonic": "If there's a <radical>tsunami</radical> it's <radical>easy</radical> to get <kanji>hot water</kanji>. Just stick your hand out the window as the tsunami goes by and poof! That water's HOT.",
+  "vocabularyIds": [
+    3389,
+    3390,
+    5559,
+    6228,
+    8747
+  ],
+  "radicalIds": [
+    103,
+    172
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%B9%AF"
+}

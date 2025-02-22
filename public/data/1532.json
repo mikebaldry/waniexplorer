@@ -1,46 +1,54 @@
 {
   "id": 1532,
   "type": "kanji",
-  "character": "盛",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "盛"
+  },
+  "primaryReading": "せい",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "せい",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "じょう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "も",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "さか",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Pile",
   "otherMeanings": [
     "Prosperous",
     "Heap"
   ],
-  "primaryReading": "せい",
-  "readings": [
-    {
-      "reading": "せい",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "じょう",
-      "primary": false,
-      "type": "onyomi"
-    },
-    {
-      "reading": "も",
-      "primary": false,
-      "type": "kunyomi"
-    },
-    {
-      "reading": "さか",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "You're so <kanji>prosperous</kanji> you use your <reading>sa</reading>ber (せい) to cut the food pile and shove the bits into your plate mouth. In fact, your entire family is using your special saber to cut and eat off of you. A normal knife wouldn't be able to get through all this food!",
   "meaningMnemonic": "If you <radical>become</radical> a <radical>plate</radical>, I will <kanji>pile</kanji> food up upon you. With such a huge pile, everyone will think you're <kanji>prosperous</kanji>.",
-  "vocabularyIds": [
-    5665,
-    5841,
-    6038,
-    6265
-  ],
-  "radicalIds": [
-    263,
-    84
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%9B%9B"
+  "readingMnemonic": "You're so <kanji>prosperous</kanji> you use your <reading>sa</reading>ber (せい) to cut the food pile and shove the bits into your plate mouth. In fact, your entire family is using your special saber to cut and eat off of you. A normal knife wouldn't be able to get through all this food!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%9B%9B"
+  },
+  "related": {
+    "radicals": [
+      263,
+      84
+    ],
+    "vocabularies": [
+      5665,
+      5841,
+      6038,
+      6265
+    ]
+  }
 }

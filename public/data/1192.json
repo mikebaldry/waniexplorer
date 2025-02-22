@@ -1,30 +1,38 @@
 {
   "id": 1192,
   "type": "kanji",
-  "character": "護",
-  "primaryMeaning": "Defend",
-  "otherMeanings": [],
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "護"
+  },
   "primaryReading": "ご",
   "readings": [
     {
-      "reading": "ご",
       "primary": true,
+      "reading": "ご",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "The only thing this flower-bearing turkey can't <kanji>defend</kanji> against is <reading>Go</reading>dzilla (ご). Godzilla is pretty much undefeatable, especially for a turkey. The turkey is totally unable to defend anything from the mighty Godzilla.",
+  "primaryMeaning": "Defend",
+  "otherMeanings": [],
   "meaningMnemonic": "They <radical>say</radical> that <radical>flowers</radical> held by a <radical>turkey</radical> on a <radical>stool</radical> are good to <kanji>defend</kanji> yourself with. Even better than a guard dog they say. People are so confused by the turkey sitting on a stool holding flowers that they just lose their will to fight. This turkey is great to defend yourself and your home.",
-  "vocabularyIds": [
-    4605,
-    4606,
-    4607,
-    7889
-  ],
-  "radicalIds": [
-    117,
-    90,
-    240,
-    30
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%AD%B7"
+  "readingMnemonic": "The only thing this flower-bearing turkey can't <kanji>defend</kanji> against is <reading>Go</reading>dzilla (ご). Godzilla is pretty much undefeatable, especially for a turkey. The turkey is totally unable to defend anything from the mighty Godzilla.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%AD%B7"
+  },
+  "related": {
+    "radicals": [
+      117,
+      90,
+      240,
+      30
+    ],
+    "vocabularies": [
+      4605,
+      4606,
+      4607,
+      7889
+    ]
+  }
 }

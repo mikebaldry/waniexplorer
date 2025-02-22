@@ -1,33 +1,41 @@
 {
   "id": 1508,
   "type": "kanji",
-  "character": "暖",
-  "primaryMeaning": "Warm",
-  "otherMeanings": [],
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "暖"
+  },
   "primaryReading": "だん",
   "readings": [
     {
-      "reading": "だん",
       "primary": true,
+      "reading": "だん",
       "type": "onyomi"
     },
     {
-      "reading": "あたた",
       "primary": false,
+      "reading": "あたた",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "It's <kanji>warm</kanji> like this because it's <reading>dawn</reading> (だん). That's when the sun comes up.",
+  "primaryMeaning": "Warm",
+  "otherMeanings": [],
   "meaningMnemonic": "You're in the <radical>sun</radical> playing <radical>football</radical> and you get very <kanji>warm</kanji>.",
-  "vocabularyIds": [
-    5593,
-    5594,
-    6195,
-    6748
-  ],
-  "radicalIds": [
-    22,
-    286
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%9A%96"
+  "readingMnemonic": "It's <kanji>warm</kanji> like this because it's <reading>dawn</reading> (だん). That's when the sun comes up.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%9A%96"
+  },
+  "related": {
+    "radicals": [
+      22,
+      286
+    ],
+    "vocabularies": [
+      5593,
+      5594,
+      6195,
+      6748
+    ]
+  }
 }

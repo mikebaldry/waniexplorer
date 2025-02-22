@@ -1,0 +1,39 @@
+{
+  "id": 8425,
+  "type": "vocabulary",
+  "characters": "鎮まる",
+  "primaryMeaning": "To Quiet Down",
+  "otherMeanings": [
+    "To Calm Down",
+    "To Subside",
+    "To Die Down"
+  ],
+  "primaryReading": "しずまる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2261,
+      "character": "鎮",
+      "readings": [
+        "ちん",
+        "おさえ",
+        "しず"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You already learned that 鎮める means \"to appease,\" but this one is what happens after they've been appeased. They start <vocabulary>to quiet down</vocabulary>.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading.  You haven't learned this reading yet, so here's a mnemonic to help you:\n\nWhen you're in the library the librarian is always telling you <vocabulary>to quiet down</vocabulary>. <reading>She's</reading> (しず) so mean! She never lets you talk in the library. Who's mean to you? She's mean to you!!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%8E%AE%E3%81%BE%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "鎮",
+      "id": 2261,
+      "reading": "しず"
+    },
+    {
+      "type": "kana",
+      "value": "まる"
+    }
+  ]
+}

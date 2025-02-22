@@ -1,40 +1,23 @@
 {
   "id": 7529,
   "type": "vocabulary",
-  "characters": "近く",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "近く"
+  },
   "primaryMeaning": "Near",
+  "meaningMnemonic": "This is the noun version of the kanji <kanji>near</kanji>. So it also means <vocabulary>near</vocabulary>, or in the <vocabulary>neighborhood</vocabulary> of something.",
+  "primaryReading": "ちかく",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You already learned this reading when you learned 近い, so you should be able to read this word as well.",
   "otherMeanings": [
     "Neighborhood",
     "Vicinity",
     "Nearly",
     "Shortly"
   ],
-  "primaryReading": "ちかく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 596,
-      "character": "近",
-      "readings": [
-        "きん",
-        "こん",
-        "ちか"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This is the noun version of the kanji <kanji>near</kanji>. So it also means <vocabulary>near</vocabulary>, or in the <vocabulary>neighborhood</vocabulary> of something.",
-  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You already learned this reading when you learned 近い, so you should be able to read this word as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%BF%91%E3%81%8F",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "近",
-      "id": 596,
-      "reading": "ちか"
-    },
-    {
-      "type": "kana",
-      "value": "く"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%BF%91%E3%81%8F"
+  }
 }

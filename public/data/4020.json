@@ -1,48 +1,20 @@
 {
   "id": 4020,
   "type": "vocabulary",
-  "characters": "無名",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "無名"
+  },
   "primaryMeaning": "Anonymous",
+  "meaningMnemonic": "Someone with \"<kanji>nothing</kanji>\" for their <kanji>name</kanji> is either trying to remain <vocabulary>anonymous</vocabulary> or is simply <vocabulary>unknown</vocabulary>.",
+  "primaryReading": "むめい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Unknown"
   ],
-  "primaryReading": "むめい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1008,
-      "character": "無",
-      "readings": [
-        "む",
-        "ぶ",
-        "な"
-      ]
-    },
-    {
-      "id": 544,
-      "character": "名",
-      "readings": [
-        "めい",
-        "みょう",
-        "な"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Someone with \"<kanji>nothing</kanji>\" for their <kanji>name</kanji> is either trying to remain <vocabulary>anonymous</vocabulary> or is simply <vocabulary>unknown</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%84%A1%E5%90%8D",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "無",
-      "id": 1008,
-      "reading": "む"
-    },
-    {
-      "type": "kanji",
-      "value": "名",
-      "id": 544,
-      "reading": "めい"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%84%A1%E5%90%8D"
+  }
 }

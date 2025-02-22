@@ -1,0 +1,71 @@
+{
+  "id": 7257,
+  "type": "vocabulary",
+  "characters": "貨幣価値",
+  "primaryMeaning": "Currency Value",
+  "otherMeanings": [],
+  "primaryReading": "かへいかち",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1470,
+      "character": "貨",
+      "readings": [
+        "か"
+      ]
+    },
+    {
+      "id": 1995,
+      "character": "幣",
+      "readings": [
+        "へい"
+      ]
+    },
+    {
+      "id": 1166,
+      "character": "価",
+      "readings": [
+        "か",
+        "あたい"
+      ]
+    },
+    {
+      "id": 1176,
+      "character": "値",
+      "readings": [
+        "ち",
+        "ね",
+        "あたい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "貨幣 is \"<kanji>currency</kanji>\" and 価値 is \"<kanji>value</kanji>.\" This shows the <vocabulary>currency value</vocabulary>. Hopefully it's good for you when you visit Japan!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%B2%A8%E5%B9%A3%E4%BE%A1%E5%80%A4",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "貨",
+      "id": 1470,
+      "reading": "か"
+    },
+    {
+      "type": "kanji",
+      "value": "幣",
+      "id": 1995,
+      "reading": "へい"
+    },
+    {
+      "type": "kanji",
+      "value": "価",
+      "id": 1166,
+      "reading": "か"
+    },
+    {
+      "type": "kanji",
+      "value": "値",
+      "id": 1176,
+      "reading": "ち"
+    }
+  ]
+}

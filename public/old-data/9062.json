@@ -1,0 +1,38 @@
+{
+  "id": 9062,
+  "type": "vocabulary",
+  "characters": "抱っこ",
+  "primaryMeaning": "Holding In One's Arms",
+  "otherMeanings": [
+    "Carrying"
+  ],
+  "primaryReading": "だっこ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1671,
+      "character": "抱",
+      "readings": [
+        "だ",
+        "ほう",
+        "かか",
+        "いだ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You know that the kanji means <kanji>hug</kanji> and the verb 抱く means \"to hug\". This noun is similar, but it usually means carrying by hugging, so <vocabulary>holding in one's arms</vocabulary> or <vocabulary>carrying</vocabulary>. This is one that children use a lot!",
+  "readingMnemonic": "You learned this reading when you learned the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8A%B1%E3%81%A3%E3%81%93",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "抱",
+      "id": 1671,
+      "reading": "だ"
+    },
+    {
+      "type": "kana",
+      "value": "っこ"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 4766,
+  "type": "vocabulary",
+  "characters": "準備する",
+  "primaryMeaning": "To Prepare",
+  "otherMeanings": [],
+  "primaryReading": "じゅんびする",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1200,
+      "character": "準",
+      "readings": [
+        "じゅん"
+      ]
+    },
+    {
+      "id": 1202,
+      "character": "備",
+      "readings": [
+        "び",
+        "そな"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You've seen that 準備 is <kanji>preparations</kanji>. This is the verb version, so you get yourself <vocabulary>to prepare</vocabulary>.",
+  "readingMnemonic": "The reading is the same as 準備.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%BA%96%E5%82%99%E3%81%99%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "準",
+      "id": 1200,
+      "reading": "じゅん"
+    },
+    {
+      "type": "kanji",
+      "value": "備",
+      "id": 1202,
+      "reading": "び"
+    },
+    {
+      "type": "kana",
+      "value": "する"
+    }
+  ]
+}

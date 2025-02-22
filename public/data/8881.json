@@ -1,35 +1,43 @@
 {
   "id": 8881,
   "type": "kanji",
-  "character": "慌",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "慌"
+  },
+  "primaryReading": "こう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "こう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "あわ",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Confused",
   "otherMeanings": [
     "Bewildered"
   ],
-  "primaryReading": "こう",
-  "readings": [
-    {
-      "reading": "こう",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "あわ",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "Whenever you're <kanji>confused</kanji>, <reading>こう</reading>いち appears to offer you guidance. He's confused a lot, so he knows how to help. And knowledge offered by こういち is the best medicine for confusion.",
   "meaningMnemonic": "Your <radical>soul</radical> is going <radical>wild</radical> because you're <kanji>confused</kanji>. If you're confused, it's usually because you don't know what's going on or what to do. This makes the soul inside your body go absolutely wild!",
-  "vocabularyIds": [
-    8890,
-    8891,
-    8892,
-    8893
-  ],
-  "radicalIds": [
-    232,
-    8857
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%85%8C"
+  "readingMnemonic": "Whenever you're <kanji>confused</kanji>, <reading>こう</reading>いち appears to offer you guidance. He's confused a lot, so he knows how to help. And knowledge offered by こういち is the best medicine for confusion.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%85%8C"
+  },
+  "related": {
+    "radicals": [
+      232,
+      8857
+    ],
+    "vocabularies": [
+      8890,
+      8891,
+      8892,
+      8893
+    ]
+  }
 }

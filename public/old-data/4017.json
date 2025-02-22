@@ -1,0 +1,46 @@
+{
+  "id": 4017,
+  "type": "vocabulary",
+  "characters": "交渉",
+  "primaryMeaning": "Negotiation",
+  "otherMeanings": [],
+  "primaryReading": "こうしょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 565,
+      "character": "交",
+      "readings": [
+        "こう",
+        "まじ",
+        "ま",
+        "か"
+      ]
+    },
+    {
+      "id": 1016,
+      "character": "渉",
+      "readings": [
+        "しょう",
+        "わた"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you <kanji>ford</kanji> into the thick of things and <kanji>mix</kanji> everything up, you're getting involved in a <vocabulary>negotiation</vocabulary>. That's what negotiations are though, right? You gotta get right in there, fording through the muck. Then, you gotta mix things up and compromise between both parties.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BA%A4%E6%B8%89",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "交",
+      "id": 565,
+      "reading": "こう"
+    },
+    {
+      "type": "kanji",
+      "value": "渉",
+      "id": 1016,
+      "reading": "しょう"
+    }
+  ]
+}

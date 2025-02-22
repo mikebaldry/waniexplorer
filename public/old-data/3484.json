@@ -1,0 +1,41 @@
+{
+  "id": 3484,
+  "type": "vocabulary",
+  "characters": "楽しみ",
+  "primaryMeaning": "Looking Forward To",
+  "otherMeanings": [
+    "Hope",
+    "Expectation",
+    "Anticipation",
+    "Pleasure",
+    "Enjoyment"
+  ],
+  "primaryReading": "たのしみ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 704,
+      "character": "楽",
+      "readings": [
+        "らく",
+        "がく",
+        "たの"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You've seen the word 楽しい, which means \"fun.\" This is obviously very similar looking, though this one means <vocabulary>looking forward to</vocabulary>. Why? Because it has a み on the end, saying \"who is going to have fun? It's <reading>me</reading>! That's why I'm looking forward to it!\"",
+  "readingMnemonic": "The reading is just like 楽しい, so make sure you know that and you'll be able to read this one as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%A5%BD%E3%81%97%E3%81%BF",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "楽",
+      "id": 704,
+      "reading": "たの"
+    },
+    {
+      "type": "kana",
+      "value": "しみ"
+    }
+  ]
+}

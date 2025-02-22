@@ -1,44 +1,18 @@
 {
   "id": 5717,
   "type": "vocabulary",
-  "characters": "社会",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "社会"
+  },
   "primaryMeaning": "Society",
-  "otherMeanings": [],
-  "primaryReading": "しゃかい",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 591,
-      "character": "社",
-      "readings": [
-        "しゃ",
-        "やしろ"
-      ]
-    },
-    {
-      "id": 566,
-      "character": "会",
-      "readings": [
-        "かい",
-        "あ"
-      ]
-    }
-  ],
   "meaningMnemonic": "Not to be confused with 会社, which is a company, this is <vocabulary>society</vocabulary>. When a <kanji>company</kanji> <kanji>meet</kanji>s together, it's like a bunch of people, who are in groups, who come together to live in one world. That is a <vocabulary>society</vocabulary>.",
+  "primaryReading": "しゃかい",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A4%BE%E4%BC%9A",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "社",
-      "id": 591,
-      "reading": "しゃ"
-    },
-    {
-      "type": "kanji",
-      "value": "会",
-      "id": 566,
-      "reading": "かい"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%A4%BE%E4%BC%9A"
+  }
 }

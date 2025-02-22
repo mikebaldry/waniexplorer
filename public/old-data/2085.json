@@ -1,0 +1,37 @@
+{
+  "id": 2085,
+  "type": "kanji",
+  "character": "巧",
+  "primaryMeaning": "Adept",
+  "otherMeanings": [],
+  "primaryReading": "こう",
+  "readings": [
+    {
+      "reading": "こう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "うま",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "たく",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "<kanji>Adept</kanji> at constructing underground prisons, you've caught the eye of Emperor <reading>こう</reading>いち, the royal underground prison enthusiast.",
+  "meaningMnemonic": "The <radical>construction</radical> of an under<radical>ground</radical> <radical>prison</radical> will be done by someone who is <kanji>adept</kanji> at it.\n\n",
+  "vocabularyIds": [
+    7366,
+    7367
+  ],
+  "radicalIds": [
+    25,
+    1,
+    14
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%B7%A7"
+}

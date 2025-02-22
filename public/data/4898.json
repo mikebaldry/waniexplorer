@@ -1,45 +1,20 @@
 {
   "id": 4898,
   "type": "vocabulary",
-  "characters": "独創",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "独創"
+  },
   "primaryMeaning": "Original Creation",
+  "meaningMnemonic": "You are <kanji>alone</kanji> in what you are able to <kanji>create</kanji>. Nobody else can create like you. So what you create is your own <vocabulary>original creation</vocabulary>.\n\n独創 refers to the act of <vocabulary>creating something original</vocabulary>, or the resulting creation itself. This word is quite formal, and generally used as 独創的 (original) or 独創性 (originality).",
+  "primaryReading": "どくそう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Creating Something Original"
   ],
-  "primaryReading": "どくそう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1312,
-      "character": "独",
-      "readings": [
-        "どく",
-        "ひと"
-      ]
-    },
-    {
-      "id": 1284,
-      "character": "創",
-      "readings": [
-        "そう"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You are <kanji>alone</kanji> in what you are able to <kanji>create</kanji>. Nobody else can create like you. So what you create is your own <vocabulary>original creation</vocabulary>.\n\n独創 refers to the act of <vocabulary>creating something original</vocabulary>, or the resulting creation itself. This word is quite formal, and generally used as 独創的 (original) or 独創性 (originality).",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%8B%AC%E5%89%B5",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "独",
-      "id": 1312,
-      "reading": "どく"
-    },
-    {
-      "type": "kanji",
-      "value": "創",
-      "id": 1284,
-      "reading": "そう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%8B%AC%E5%89%B5"
+  }
 }

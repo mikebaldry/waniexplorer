@@ -1,0 +1,52 @@
+{
+  "id": 4849,
+  "type": "vocabulary",
+  "characters": "時代",
+  "primaryMeaning": "Period",
+  "otherMeanings": [
+    "Epoch",
+    "Era",
+    "Time Period"
+  ],
+  "primaryReading": "じだい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 662,
+      "character": "時",
+      "readings": [
+        "じ",
+        "とき"
+      ]
+    },
+    {
+      "id": 530,
+      "character": "代",
+      "readings": [
+        "だい",
+        "たい",
+        "か",
+        "かわ",
+        "よ",
+        "しろ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You have a <kanji>period</kanji> of <kanji>time</kanji> and it's called a <vocabulary>period</vocabulary> or <vocabulary>era</vocabulary>! Simple!",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%99%82%E4%BB%A3",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "時",
+      "id": 662,
+      "reading": "じ"
+    },
+    {
+      "type": "kanji",
+      "value": "代",
+      "id": 530,
+      "reading": "だい"
+    }
+  ]
+}

@@ -1,45 +1,18 @@
 {
   "id": 4143,
   "type": "vocabulary",
-  "characters": "葉書",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "葉書"
+  },
   "primaryMeaning": "Postcard",
-  "otherMeanings": [],
-  "primaryReading": "はがき",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 750,
-      "character": "葉",
-      "readings": [
-        "は",
-        "よう",
-        "ば"
-      ]
-    },
-    {
-      "id": 962,
-      "character": "書",
-      "readings": [
-        "しょ",
-        "か"
-      ]
-    }
-  ],
   "meaningMnemonic": "A <kanji>writing</kanji> that you put on a <kanji>leaf</kanji> is like something else. Instead of a leaf, think about writing you put on a leafish sized item. A <vocabulary>postcard</vocabulary> perhaps?",
+  "primaryReading": "はがき",
   "readingMnemonic": "The reading is kind of weird, sorry. The reading for 葉 is the は you know and love. Then, 書 is かき despite not having a き on the end like you'd expect. So, it's weird. It's shortened like a postcard is a shortened letter, I suppose? Technically it is the 書き reading, but keep in mind that 書き gets rendaku'd.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%91%89%E6%9B%B8",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "葉",
-      "id": 750,
-      "reading": "は"
-    },
-    {
-      "type": "kanji",
-      "value": "書",
-      "id": 962,
-      "reading": "が"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%91%89%E6%9B%B8"
+  }
 }

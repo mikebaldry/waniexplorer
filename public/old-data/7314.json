@@ -1,0 +1,39 @@
+{
+  "id": 7314,
+  "type": "vocabulary",
+  "characters": "覆る",
+  "primaryMeaning": "To Be Overturned",
+  "otherMeanings": [
+    "To Be Reversed",
+    "To Be Retracted",
+    "To Topple Over"
+  ],
+  "primaryReading": "くつがえる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2068,
+      "character": "覆",
+      "readings": [
+        "ふく",
+        "おお",
+        "くつがえ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>capsize</kanji> but the verb version is what happens when a plan or idea capsizes. It going <vocabulary>to be overturned</vocabulary>. It was a bad idea, go back, don't do it or we'll all sink!",
+  "readingMnemonic": "Of all the ideas that need <vocabulary>to be overturned</vocabulary>, it's the ones from the <reading>靴 guy</reading> (くつがえ). He thinks we should only wear shoes. Not shoes and nothing else, but shoes all over our entire bodies. Yikes, now that's an idea I'd like <vocabulary>to be retracted</vocabulary>, 靴 guy.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A6%86%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "覆",
+      "id": 2068,
+      "reading": "くつがえ"
+    },
+    {
+      "type": "kana",
+      "value": "る"
+    }
+  ]
+}

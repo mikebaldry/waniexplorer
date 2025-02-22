@@ -1,0 +1,37 @@
+{
+  "id": 3688,
+  "type": "vocabulary",
+  "characters": "望み",
+  "primaryMeaning": "Wish",
+  "otherMeanings": [
+    "Hope",
+    "Desire"
+  ],
+  "primaryReading": "のぞみ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 908,
+      "character": "望",
+      "readings": [
+        "ぼう",
+        "のぞ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>hope</kanji> is really a <vocabulary>wish</vocabulary> that you have inside of you (though it can still be a <vocabulary>hope</vocabulary> too).",
+  "readingMnemonic": "What's your one big <vocabulary>wish</vocabulary>? It's to have a different <reading>nose</reading> (のぞ). Alternatively, you could think \"<reading>nose on me</reading>\" for のぞみ.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9C%9B%E3%81%BF",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "望",
+      "id": 908,
+      "reading": "のぞ"
+    },
+    {
+      "type": "kana",
+      "value": "み"
+    }
+  ]
+}

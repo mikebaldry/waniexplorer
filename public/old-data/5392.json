@@ -1,0 +1,61 @@
+{
+  "id": 5392,
+  "type": "vocabulary",
+  "characters": "直接的",
+  "primaryMeaning": "Directly",
+  "otherMeanings": [
+    "Direct"
+  ],
+  "primaryReading": "ちょくせつてき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 630,
+      "character": "直",
+      "readings": [
+        "ちょく",
+        "じき",
+        "なお"
+      ]
+    },
+    {
+      "id": 1311,
+      "character": "接",
+      "readings": [
+        "せつ",
+        "つ"
+      ]
+    },
+    {
+      "id": 914,
+      "character": "的",
+      "readings": [
+        "てき",
+        "まと"
+      ]
+    }
+  ],
+  "meaningMnemonic": "直接 means \"direct\". Add 的 to the mix and you have <vocabulary>directly</vocabulary>.\n\nThis is a relatively formal word, so you'll encounter other words like ダイレクト in more casual contexts.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Will help if you know 直接 already.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%9B%B4%E6%8E%A5%E7%9A%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "直",
+      "id": 630,
+      "reading": "ちょく"
+    },
+    {
+      "type": "kanji",
+      "value": "接",
+      "id": 1311,
+      "reading": "せつ"
+    },
+    {
+      "type": "kanji",
+      "value": "的",
+      "id": 914,
+      "reading": "てき"
+    }
+  ]
+}

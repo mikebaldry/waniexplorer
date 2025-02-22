@@ -1,0 +1,28 @@
+{
+  "id": 1410,
+  "type": "kanji",
+  "character": "索",
+  "primaryMeaning": "Search",
+  "otherMeanings": [],
+  "primaryReading": "さく",
+  "readings": [
+    {
+      "reading": "さく",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Your <kanji>search</kanji> is over. You found the end of the thread. The thread leads you to a <reading>sack</reading> (さく). A sack filled with more crosses with more threads attached to them. What does it all mean!?!",
+  "meaningMnemonic": "There is a <radical>cross</radical> in your <radical>forehead</radical> with a <radical>thread</radical> attached to it, forcing you to <kanji>search</kanji> where it leads. You’re not sure how the cross got stuck in your forehead, but you are interested in seeing where this piece of thread leads. The search is on.",
+  "vocabularyIds": [
+    5269,
+    5270,
+    8759
+  ],
+  "radicalIds": [
+    15,
+    76,
+    86
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%B4%A2"
+}

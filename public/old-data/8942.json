@@ -1,0 +1,37 @@
+{
+  "id": 8942,
+  "type": "vocabulary",
+  "characters": "揚がる",
+  "primaryMeaning": "To Be Fried Up",
+  "otherMeanings": [
+    "To Be Deep Fried",
+    "To Be Up"
+  ],
+  "primaryReading": "あがる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1815,
+      "character": "揚",
+      "readings": [
+        "あ",
+        "よう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb.\n\nThis is an intransitive verb. The kanji means <kanji>hoist</kanji>, but the verb most commonly means <vocabulary>to be fried up</vocabulary>, ready to eat. Imagine something being hoisted up onto the table because it's fried and ready to eat. The verb can also mean, more logically, <vocabulary>to be up</vocabulary>.",
+  "readingMnemonic": "Since this word has okurigana (hiragana attached to the kanji) you know that it's probably going to be the kun'yomi reading.\n\nLucky for you, the kanji readings for transitive and intransitive verbs are almost always the same. Once you learn one, you know them both! This reading is the same as 揚げる.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8F%9A%E3%81%8C%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "揚",
+      "id": 1815,
+      "reading": "あ"
+    },
+    {
+      "type": "kana",
+      "value": "がる"
+    }
+  ]
+}

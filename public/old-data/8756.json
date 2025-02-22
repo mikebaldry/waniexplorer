@@ -1,0 +1,49 @@
+{
+  "id": 8756,
+  "type": "vocabulary",
+  "characters": "掛け算",
+  "primaryMeaning": "Multiplication",
+  "otherMeanings": [],
+  "primaryReading": "かけざん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1278,
+      "character": "掛",
+      "readings": [
+        "か",
+        "かい",
+        "けい"
+      ]
+    },
+    {
+      "id": 762,
+      "character": "算",
+      "readings": [
+        "さん",
+        "そろ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you try to <kanji>calculate</kanji> something, but instead you feel the urge to <kanji>hang</kanji> your teacher, you know you're doing <vocabulary>multiplication</vocabulary>. It's hard, guys. Like really hard. The hardest kind of math of them all. But you can do it! No one needs to get hanged. And don't hang your head in defeat either. Multiply those numbers like a boss! Hang the numbers instead!!",
+  "readingMnemonic": "This is the kun'yomi reading for 掛 and the on'yomi for 算. And the さん reading is rendaku'd into ざん. This is the same for all the math-ish words (addition, subtraction, multiplication, and division), so try to remember that, because you'll see it again!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8E%9B%E3%81%91%E7%AE%97",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "掛",
+      "id": 1278,
+      "reading": "か"
+    },
+    {
+      "type": "kana",
+      "value": "け"
+    },
+    {
+      "type": "kanji",
+      "value": "算",
+      "id": 762,
+      "reading": "ざん"
+    }
+  ]
+}

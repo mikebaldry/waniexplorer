@@ -1,47 +1,20 @@
 {
   "id": 7125,
   "type": "vocabulary",
-  "characters": "炊事",
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "炊事"
+  },
   "primaryMeaning": "Cooking",
+  "meaningMnemonic": "A <kanji>cook</kanji>ing <kanji>occurrence</kanji> is just the act of <vocabulary>cooking</vocabulary>. It's the <vocabulary>kitchen work</vocabulary>. \n\n炊事 refers to tasks involved in meal preparation as part of everyday life. It's a relatively formal word and not as commonly used as 料理, but you might see it used in lists of household chores or duties, like in a job description for a housekeeper.",
+  "primaryReading": "すいじ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Kitchen Work"
   ],
-  "primaryReading": "すいじ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2004,
-      "character": "炊",
-      "readings": [
-        "すい",
-        "た"
-      ]
-    },
-    {
-      "id": 708,
-      "character": "事",
-      "readings": [
-        "じ",
-        "こと",
-        "つか"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>cook</kanji>ing <kanji>occurrence</kanji> is just the act of <vocabulary>cooking</vocabulary>. It's the <vocabulary>kitchen work</vocabulary>. \n\n炊事 refers to tasks involved in meal preparation as part of everyday life. It's a relatively formal word and not as commonly used as 料理, but you might see it used in lists of household chores or duties, like in a job description for a housekeeper.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%82%8A%E4%BA%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "炊",
-      "id": 2004,
-      "reading": "すい"
-    },
-    {
-      "type": "kanji",
-      "value": "事",
-      "id": 708,
-      "reading": "じ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%82%8A%E4%BA%8B"
+  }
 }

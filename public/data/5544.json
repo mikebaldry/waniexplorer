@@ -1,44 +1,20 @@
 {
   "id": 5544,
   "type": "vocabulary",
-  "characters": "功績",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "功績"
+  },
   "primaryMeaning": "Achievement",
+  "meaningMnemonic": "Your <kanji>achievement</kanji>s and <kanji>exploit</kanji>s are your <vocabulary>achievement</vocabulary>s.",
+  "primaryReading": "こうせき",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Accomplishment"
   ],
-  "primaryReading": "こうせき",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 806,
-      "character": "功",
-      "readings": [
-        "こう"
-      ]
-    },
-    {
-      "id": 1490,
-      "character": "績",
-      "readings": [
-        "せき"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Your <kanji>achievement</kanji>s and <kanji>exploit</kanji>s are your <vocabulary>achievement</vocabulary>s.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8A%9F%E7%B8%BE",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "功",
-      "id": 806,
-      "reading": "こう"
-    },
-    {
-      "type": "kanji",
-      "value": "績",
-      "id": 1490,
-      "reading": "せき"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%8A%9F%E7%B8%BE"
+  }
 }

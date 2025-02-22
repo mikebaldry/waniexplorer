@@ -1,62 +1,20 @@
 {
   "id": 8223,
   "type": "vocabulary",
-  "characters": "瓜実顔",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "瓜実顔"
+  },
   "primaryMeaning": "Oval Face",
+  "meaningMnemonic": "If you ask me to tell the <kanji>truth</kanji> I'll say your <kanji>face</kanji> is shaped like a <kanji>melon</kanji>. No no, it's not a bad thing! You just have a really <vocabulary>oval face</vocabulary>!",
+  "primaryReading": "うりざねがお",
+  "readingMnemonic": "This word consists of the kun'yomi readings for 瓜 and 顔, but in the middle there, 実 has a bit of an exceptional reading. You certainly haven't learned this weirdness before, so here's a mnemonic to help you:\n\nYou know who has an <vocabulary>oval face</vocabulary>? <reading>Zayn</reading> (ざね) formerly from One Direction. When you think of handsome oval faces, picture Zayn's.",
   "otherMeanings": [
     "Classic Features"
   ],
-  "primaryReading": "うりざねがお",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2218,
-      "character": "瓜",
-      "readings": [
-        "か",
-        "け",
-        "うり"
-      ]
-    },
-    {
-      "id": 715,
-      "character": "実",
-      "readings": [
-        "じつ",
-        "み",
-        "みの"
-      ]
-    },
-    {
-      "id": 772,
-      "character": "顔",
-      "readings": [
-        "かお",
-        "がん"
-      ]
-    }
-  ],
-  "meaningMnemonic": "If you ask me to tell the <kanji>truth</kanji> I'll say your <kanji>face</kanji> is shaped like a <kanji>melon</kanji>. No no, it's not a bad thing! You just have a really <vocabulary>oval face</vocabulary>!",
-  "readingMnemonic": "This word consists of the kun'yomi readings for 瓜 and 顔, but in the middle there, 実 has a bit of an exceptional reading. You certainly haven't learned this weirdness before, so here's a mnemonic to help you:\n\nYou know who has an <vocabulary>oval face</vocabulary>? <reading>Zayn</reading> (ざね) formerly from One Direction. When you think of handsome oval faces, picture Zayn's.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%93%9C%E5%AE%9F%E9%A1%94",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "瓜",
-      "id": 2218,
-      "reading": "うり"
-    },
-    {
-      "type": "kanji",
-      "value": "実",
-      "id": 715,
-      "reading": null
-    },
-    {
-      "type": "kanji",
-      "value": "顔",
-      "id": 772,
-      "reading": null
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%93%9C%E5%AE%9F%E9%A1%94"
+  }
 }

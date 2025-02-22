@@ -1,45 +1,20 @@
 {
   "id": 4123,
   "type": "vocabulary",
-  "characters": "祈念",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "祈念"
+  },
   "primaryMeaning": "Prayer",
+  "meaningMnemonic": "You <kanji>pray</kanji> with your <kanji>thought</kanji>s, making this a <vocabulary>prayer</vocabulary>. \n\nThis is similar to 祈願, but can also be used in formal settings to express wishing for somebody's success or good health, among other things.",
+  "primaryReading": "きねん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "A Prayer"
   ],
-  "primaryReading": "きねん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1036,
-      "character": "祈",
-      "readings": [
-        "き",
-        "いの"
-      ]
-    },
-    {
-      "id": 906,
-      "character": "念",
-      "readings": [
-        "ねん"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You <kanji>pray</kanji> with your <kanji>thought</kanji>s, making this a <vocabulary>prayer</vocabulary>. \n\nThis is similar to 祈願, but can also be used in formal settings to express wishing for somebody's success or good health, among other things.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A5%88%E5%BF%B5",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "祈",
-      "id": 1036,
-      "reading": "き"
-    },
-    {
-      "type": "kanji",
-      "value": "念",
-      "id": 906,
-      "reading": "ねん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%A5%88%E5%BF%B5"
+  }
 }

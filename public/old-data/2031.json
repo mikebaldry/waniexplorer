@@ -1,0 +1,34 @@
+{
+  "id": 2031,
+  "type": "kanji",
+  "character": "耐",
+  "primaryMeaning": "Resistant",
+  "otherMeanings": [],
+  "primaryReading": "たい",
+  "readings": [
+    {
+      "reading": "たい",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "た",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Because the rake is persistently <kanji>resistant</kanji>, you eventually tie it to the table with your neck <reading>tie</reading> (たい). The tie won’t hold for long, so you need to take each measurement quickly.",
+  "meaningMnemonic": "You take a <radical>rake</radical> in for a <radical>measurement</radical> but it is <kanji>resistant</kanji>. The rake doesn’t want to have its measurements taken. The rake is resistant to have any measurement taken because it feels inferior to the other rakes and doesn’t want to be embarrassed if it ends up being smaller than the others.",
+  "vocabularyIds": [
+    7208,
+    7209,
+    7210,
+    7211,
+    7212
+  ],
+  "radicalIds": [
+    309,
+    74
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%80%90"
+}

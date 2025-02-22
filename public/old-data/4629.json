@@ -1,0 +1,30 @@
+{
+  "id": 4629,
+  "type": "vocabulary",
+  "characters": "幹",
+  "primaryMeaning": "Tree Trunk",
+  "otherMeanings": [],
+  "primaryReading": "みき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1204,
+      "character": "幹",
+      "readings": [
+        "かん",
+        "みき"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You did not learn this reading, so here's a mnemonic to help you remember: \n\nWhen you cut the tree down to produce a <vocabulary>tree trunk</vocabulary>, out jumps <reading>Mickey</reading> Mouse. \"WHY YOU CUT DOWN MY TREE BRO?\" he yells. I'm Mickey Mouse and I don't stand for this.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B9%B9",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "幹",
+      "id": 1204,
+      "reading": "みき"
+    }
+  ]
+}

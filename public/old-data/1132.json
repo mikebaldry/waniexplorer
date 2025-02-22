@@ -1,0 +1,35 @@
+{
+  "id": 1132,
+  "type": "kanji",
+  "character": "設",
+  "primaryMeaning": "Establish",
+  "otherMeanings": [],
+  "primaryReading": "せつ",
+  "readings": [
+    {
+      "reading": "せつ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "もう",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Weapons have to be <kanji>establish</kanji>ed in <reading>sets</reading> (せつ). So you have to make another one that goes with it. Make them cohesive please.",
+  "meaningMnemonic": "If you <radical>say</radical> a new <radical>weapon</radical> idea out loud, then it will be <kanji>establish</kanji>ed immediately.",
+  "vocabularyIds": [
+    4425,
+    4426,
+    4427,
+    4428,
+    4859,
+    7051
+  ],
+  "radicalIds": [
+    117,
+    160
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%A8%AD"
+}

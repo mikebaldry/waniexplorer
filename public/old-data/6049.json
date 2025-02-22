@@ -1,0 +1,63 @@
+{
+  "id": 6049,
+  "type": "vocabulary",
+  "characters": "給油所",
+  "primaryMeaning": "Gas Station",
+  "otherMeanings": [
+    "Filling Station",
+    "Petrol Station"
+  ],
+  "primaryReading": "きゅうゆじょ",
+  "otherReadings": [
+    "きゅうゆしょ"
+  ],
+  "kanji": [
+    {
+      "id": 1345,
+      "character": "給",
+      "readings": [
+        "きゅう",
+        "たま"
+      ]
+    },
+    {
+      "id": 1609,
+      "character": "油",
+      "readings": [
+        "ゆ",
+        "あぶら"
+      ]
+    },
+    {
+      "id": 707,
+      "character": "所",
+      "readings": [
+        "しょ",
+        "ところ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>fueling</kanji> (給油) <kanji>place</kanji> is a place where you get things fueled. This can either be a <vocabulary>gas station</vocabulary> or a <vocabulary>filling station</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B5%A6%E6%B2%B9%E6%89%80",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "給",
+      "id": 1345,
+      "reading": "きゅう"
+    },
+    {
+      "type": "kanji",
+      "value": "油",
+      "id": 1609,
+      "reading": "ゆ"
+    },
+    {
+      "type": "kanji",
+      "value": "所",
+      "id": 707,
+      "reading": "じょ"
+    }
+  ]
+}

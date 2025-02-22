@@ -1,0 +1,48 @@
+{
+  "id": 4712,
+  "type": "vocabulary",
+  "characters": "近視",
+  "primaryMeaning": "Nearsightedness",
+  "otherMeanings": [
+    "Shortsightedness",
+    "Myopia"
+  ],
+  "primaryReading": "きんし",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 596,
+      "character": "近",
+      "readings": [
+        "きん",
+        "こん",
+        "ちか"
+      ]
+    },
+    {
+      "id": 1234,
+      "character": "視",
+      "readings": [
+        "し",
+        "み"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you can <kanji>look at</kanji> things that are <kanji>near</kanji> well but you can't see things far away, you have <vocabulary>nearsightedness</vocabulary>, <vocabulary>shortsightedness</vocabulary>, or <vocabulary>myopia</vocabulary>. Good to get those eyes checked out occasionally.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%BF%91%E8%A6%96",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "近",
+      "id": 596,
+      "reading": "きん"
+    },
+    {
+      "type": "kanji",
+      "value": "視",
+      "id": 1234,
+      "reading": "し"
+    }
+  ]
+}

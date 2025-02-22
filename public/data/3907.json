@@ -1,62 +1,21 @@
 {
   "id": 3907,
   "type": "vocabulary",
-  "characters": "料理人",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "料理人"
+  },
   "primaryMeaning": "A Cook",
+  "meaningMnemonic": "You've seen 料理 and probably know it means \"cooking.\" So, what is a <kanji>person</kanji> who does cooking? That is <vocabulary>a cook</vocabulary> or <vocabulary>chef</vocabulary>.",
+  "primaryReading": "りょうりにん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Cook",
     "Chef"
   ],
-  "primaryReading": "りょうりにん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 878,
-      "character": "料",
-      "readings": [
-        "りょう"
-      ]
-    },
-    {
-      "id": 669,
-      "character": "理",
-      "readings": [
-        "り",
-        "ことわり"
-      ]
-    },
-    {
-      "id": 444,
-      "character": "人",
-      "readings": [
-        "にん",
-        "じん",
-        "ひと",
-        "と"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You've seen 料理 and probably know it means \"cooking.\" So, what is a <kanji>person</kanji> who does cooking? That is <vocabulary>a cook</vocabulary> or <vocabulary>chef</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%96%99%E7%90%86%E4%BA%BA",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "料",
-      "id": 878,
-      "reading": "りょう"
-    },
-    {
-      "type": "kanji",
-      "value": "理",
-      "id": 669,
-      "reading": "り"
-    },
-    {
-      "type": "kanji",
-      "value": "人",
-      "id": 444,
-      "reading": "にん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%96%99%E7%90%86%E4%BA%BA"
+  }
 }

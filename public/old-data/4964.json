@@ -1,0 +1,63 @@
+{
+  "id": 4964,
+  "type": "vocabulary",
+  "characters": "管理人",
+  "primaryMeaning": "Superintendent",
+  "otherMeanings": [
+    "Administrator",
+    "Custodian"
+  ],
+  "primaryReading": "かんりにん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1236,
+      "character": "管",
+      "readings": [
+        "かん",
+        "くだ"
+      ]
+    },
+    {
+      "id": 669,
+      "character": "理",
+      "readings": [
+        "り",
+        "ことわり"
+      ]
+    },
+    {
+      "id": 444,
+      "character": "人",
+      "readings": [
+        "にん",
+        "じん",
+        "ひと",
+        "と"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Remember how 管理 is \"management\"? Well, a management person is someone who manages a place, like the <vocabulary>superintendent</vocabulary> for a building or park, or the <vocabulary>administrator</vocabulary> of a website. \n\nIt can also refer to someone who is appointed to manage an estate, like a property <vocabulary>custodian</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%AE%A1%E7%90%86%E4%BA%BA",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "管",
+      "id": 1236,
+      "reading": "かん"
+    },
+    {
+      "type": "kanji",
+      "value": "理",
+      "id": 669,
+      "reading": "り"
+    },
+    {
+      "type": "kanji",
+      "value": "人",
+      "id": 444,
+      "reading": "にん"
+    }
+  ]
+}

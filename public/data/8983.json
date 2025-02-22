@@ -1,36 +1,20 @@
 {
   "id": 8983,
   "type": "vocabulary",
-  "characters": "噛む",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "噛む"
+  },
   "primaryMeaning": "To Bite",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>bite</kanji> or <kanji>chew</kanji> so the verb version is <vocabulary>to bite</vocabulary> or <vocabulary>to chew</vocabulary>.",
+  "primaryReading": "かむ",
+  "readingMnemonic": "This word uses the same reading you learned with the kanji.",
   "otherMeanings": [
     "To Chew"
   ],
-  "primaryReading": "かむ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 8966,
-      "character": "噛",
-      "readings": [
-        "か",
-        "かじ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>bite</kanji> or <kanji>chew</kanji> so the verb version is <vocabulary>to bite</vocabulary> or <vocabulary>to chew</vocabulary>.",
-  "readingMnemonic": "This word uses the same reading you learned with the kanji.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%99%9B%E3%82%80",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "噛",
-      "id": 8966,
-      "reading": "か"
-    },
-    {
-      "type": "kana",
-      "value": "む"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%99%9B%E3%82%80"
+  }
 }

@@ -1,0 +1,49 @@
+{
+  "id": 3593,
+  "type": "vocabulary",
+  "characters": "料金",
+  "primaryMeaning": "Fee",
+  "otherMeanings": [
+    "Charge",
+    "Rate",
+    "Price"
+  ],
+  "primaryReading": "りょうきん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 878,
+      "character": "料",
+      "readings": [
+        "りょう"
+      ]
+    },
+    {
+      "id": 602,
+      "character": "金",
+      "readings": [
+        "きん",
+        "こん",
+        "かね",
+        "かな"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>fee</kanji> <kanji>gold</kanji> (or money) you have to pay is a <vocabulary>fee</vocabulary> or a <vocabulary>charge</vocabulary>.\n\nYou've learned 代金, which generally refers to the money paid for physical goods, but 料金 refers to a fee or charge for using a service — think bus fares, highway tolls, entrance fees, monthly service charges, that kind of thing.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%96%99%E9%87%91",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "料",
+      "id": 878,
+      "reading": "りょう"
+    },
+    {
+      "type": "kanji",
+      "value": "金",
+      "id": 602,
+      "reading": "きん"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": 4319,
+  "type": "vocabulary",
+  "characters": "経験者",
+  "primaryMeaning": "Experienced Person",
+  "otherMeanings": [],
+  "primaryReading": "けいけんしゃ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1120,
+      "character": "経",
+      "readings": [
+        "けい",
+        "た",
+        "へ"
+      ]
+    },
+    {
+      "id": 1048,
+      "character": "験",
+      "readings": [
+        "けん",
+        "ため",
+        "ためし"
+      ]
+    },
+    {
+      "id": 690,
+      "character": "者",
+      "readings": [
+        "しゃ",
+        "もの"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Someone</kanji> who has experience (経験) is an <vocabulary>experienced person</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B5%8C%E9%A8%93%E8%80%85",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "経",
+      "id": 1120,
+      "reading": "けい"
+    },
+    {
+      "type": "kanji",
+      "value": "験",
+      "id": 1048,
+      "reading": "けん"
+    },
+    {
+      "type": "kanji",
+      "value": "者",
+      "id": 690,
+      "reading": "しゃ"
+    }
+  ]
+}

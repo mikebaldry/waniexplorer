@@ -1,32 +1,20 @@
 {
   "id": 6820,
   "type": "vocabulary",
-  "characters": "嵐",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "嵐"
+  },
   "primaryMeaning": "Storm",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "あらし",
+  "readingMnemonic": "The reading is the reading you learned with the kanji.",
   "otherMeanings": [
     "Tempest"
   ],
-  "primaryReading": "あらし",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1895,
-      "character": "嵐",
-      "readings": [
-        "あらし",
-        "らん"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
-  "readingMnemonic": "The reading is the reading you learned with the kanji.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B5%90",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "嵐",
-      "id": 1895,
-      "reading": "あらし"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%B5%90"
+  }
 }

@@ -1,0 +1,35 @@
+{
+  "id": 3065,
+  "type": "vocabulary",
+  "characters": "数える",
+  "primaryMeaning": "To Count",
+  "otherMeanings": [],
+  "primaryReading": "かぞえる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 703,
+      "character": "数",
+      "readings": [
+        "すう",
+        "かぞ",
+        "かず"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>count</kanji>, so obviously the verb version is <vocabulary>to count</vocabulary>.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nYou begin <vocabulary>to count</vocabulary> vocabulary words. You're out of control and you can't stop. One after another. Scientists have to come in, but they can't figure out the <reading>cause</reading> (かぞ) of your counting. They drag you away to a padded cell where they keep testing you trying to figure out the cause of your craziness.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%95%B0%E3%81%88%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "数",
+      "id": 703,
+      "reading": "かぞ"
+    },
+    {
+      "type": "kana",
+      "value": "える"
+    }
+  ]
+}

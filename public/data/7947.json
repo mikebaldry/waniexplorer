@@ -1,52 +1,22 @@
 {
   "id": 7947,
   "type": "vocabulary",
-  "characters": "陥没",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "陥没"
+  },
   "primaryMeaning": "Cave In",
+  "meaningMnemonic": "A <kanji>cave in</kanji> where everyone <kanji>die</kanji>s is still a <vocabulary>cave in</vocabulary>, just a really sad one.",
+  "primaryReading": "かんぼつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Collapse",
     "Sinking",
     "Depression"
   ],
-  "primaryReading": "かんぼつ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2155,
-      "character": "陥",
-      "readings": [
-        "かん",
-        "おちい",
-        "おとしい"
-      ]
-    },
-    {
-      "id": 2180,
-      "character": "没",
-      "readings": [
-        "ぼつ",
-        "もつ",
-        "おぼ",
-        "しず",
-        "ない"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>cave in</kanji> where everyone <kanji>die</kanji>s is still a <vocabulary>cave in</vocabulary>, just a really sad one.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%99%A5%E6%B2%A1",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "陥",
-      "id": 2155,
-      "reading": "かん"
-    },
-    {
-      "type": "kanji",
-      "value": "没",
-      "id": 2180,
-      "reading": "ぼつ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%99%A5%E6%B2%A1"
+  }
 }

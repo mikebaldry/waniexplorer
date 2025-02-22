@@ -1,46 +1,20 @@
 {
   "id": 3178,
   "type": "vocabulary",
-  "characters": "進化",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "進化"
+  },
   "primaryMeaning": "Evolution",
+  "meaningMnemonic": "Think of things that <kanji>advance</kanji> and <kanji>change</kanji>. Does this sound familiar? Does this sound like <vocabulary>evolution</vocabulary>?",
+  "primaryReading": "しんか",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Progress"
   ],
-  "primaryReading": "しんか",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 748,
-      "character": "進",
-      "readings": [
-        "しん",
-        "すす"
-      ]
-    },
-    {
-      "id": 607,
-      "character": "化",
-      "readings": [
-        "か",
-        "ば"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Think of things that <kanji>advance</kanji> and <kanji>change</kanji>. Does this sound familiar? Does this sound like <vocabulary>evolution</vocabulary>?",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%80%B2%E5%8C%96",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "進",
-      "id": 748,
-      "reading": "しん"
-    },
-    {
-      "type": "kanji",
-      "value": "化",
-      "id": 607,
-      "reading": "か"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%80%B2%E5%8C%96"
+  }
 }

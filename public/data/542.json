@@ -1,42 +1,50 @@
 {
   "id": 542,
   "type": "kanji",
-  "character": "休",
-  "primaryMeaning": "Rest",
-  "otherMeanings": [],
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "休"
+  },
   "primaryReading": "きゅう",
   "readings": [
     {
-      "reading": "きゅう",
       "primary": true,
+      "reading": "きゅう",
       "type": "onyomi"
     },
     {
-      "reading": "やす",
       "primary": false,
+      "reading": "やす",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "As he <kanji>rest</kanji>s, he suddenly gets hungry and pulls a <reading>cu</reading>cumber (きゅう) off the tree and bites into it. A good rest isn't complete without some crunchy tree cucumbers.",
+  "primaryMeaning": "Rest",
+  "otherMeanings": [],
   "meaningMnemonic": "The <radical>leader</radical> is next to the <radical>tree</radical>. What is he doing? He's leaning against it, <kanji>rest</kanji>ing.",
-  "vocabularyIds": [
-    2644,
-    2645,
-    2646,
-    2647,
-    2793,
-    2953,
-    3415,
-    3760,
-    4019,
-    5034,
-    7108,
-    7447,
-    8670
-  ],
-  "radicalIds": [
-    75,
-    23
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E4%BC%91"
+  "readingMnemonic": "As he <kanji>rest</kanji>s, he suddenly gets hungry and pulls a <reading>cu</reading>cumber (きゅう) off the tree and bites into it. A good rest isn't complete without some crunchy tree cucumbers.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E4%BC%91"
+  },
+  "related": {
+    "radicals": [
+      75,
+      23
+    ],
+    "vocabularies": [
+      2644,
+      2645,
+      2646,
+      2647,
+      2793,
+      2953,
+      3415,
+      3760,
+      4019,
+      5034,
+      7108,
+      7447,
+      8670
+    ]
+  }
 }

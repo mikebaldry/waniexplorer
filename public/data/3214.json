@@ -1,46 +1,18 @@
 {
   "id": 3214,
   "type": "vocabulary",
-  "characters": "主語",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "主語"
+  },
   "primaryMeaning": "Subject",
-  "otherMeanings": [],
-  "primaryReading": "しゅご",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 528,
-      "character": "主",
-      "readings": [
-        "しゅ",
-        "おも",
-        "ぬし",
-        "あるじ"
-      ]
-    },
-    {
-      "id": 764,
-      "character": "語",
-      "readings": [
-        "ご",
-        "かた"
-      ]
-    }
-  ],
   "meaningMnemonic": "The <kanji>main</kanji> thing you talk about in your <kanji>language</kanji> becomes the <vocabulary>subject</vocabulary> of the sentence.",
+  "primaryReading": "しゅご",
   "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%BB%E8%AA%9E",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "主",
-      "id": 528,
-      "reading": "しゅ"
-    },
-    {
-      "type": "kanji",
-      "value": "語",
-      "id": 764,
-      "reading": "ご"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B8%BB%E8%AA%9E"
+  }
 }

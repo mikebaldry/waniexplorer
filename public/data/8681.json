@@ -1,47 +1,21 @@
 {
   "id": 8681,
   "type": "vocabulary",
-  "characters": "違反",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "違反"
+  },
   "primaryMeaning": "Violation",
+  "meaningMnemonic": "If you're <kanji>anti-</kanji> something in a way that's <kanji>different</kanji> from the norm then you'll be in <vocabulary>violation</vocabulary> of the law! The laws that the \"not\" different people made. Either way, those people will give you a hard time for your anti-stance against the thing they like, and say it's a <vocabulary>transgression</vocabulary>.",
+  "primaryReading": "いはん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You haven't learned this reading for 違 yet, so here's a mnemonic to help you:\n\nIf you find yourself in <vocabulary>violation</vocabulary> of the law just pull out your pet <reading>ea</reading>gle (い). Eagles are so majestic, they'll forget all about your transgression and let you go. If you're going to go be anti-something make sure you bring that eagle. People seem to care more about animals than other people like that.",
   "otherMeanings": [
     "Transgression",
     "Breach"
   ],
-  "primaryReading": "いはん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1220,
-      "character": "違",
-      "readings": [
-        "ちが",
-        "い"
-      ]
-    },
-    {
-      "id": 855,
-      "character": "反",
-      "readings": [
-        "はん",
-        "そ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "If you're <kanji>anti-</kanji> something in a way that's <kanji>different</kanji> from the norm then you'll be in <vocabulary>violation</vocabulary> of the law! The laws that the \"not\" different people made. Either way, those people will give you a hard time for your anti-stance against the thing they like, and say it's a <vocabulary>transgression</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You haven't learned this reading for 違 yet, so here's a mnemonic to help you:\n\nIf you find yourself in <vocabulary>violation</vocabulary> of the law just pull out your pet <reading>ea</reading>gle (い). Eagles are so majestic, they'll forget all about your transgression and let you go. If you're going to go be anti-something make sure you bring that eagle. People seem to care more about animals than other people like that.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%81%95%E5%8F%8D",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "違",
-      "id": 1220,
-      "reading": "い"
-    },
-    {
-      "type": "kanji",
-      "value": "反",
-      "id": 855,
-      "reading": "はん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%81%95%E5%8F%8D"
+  }
 }

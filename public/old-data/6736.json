@@ -1,0 +1,47 @@
+{
+  "id": 6736,
+  "type": "vocabulary",
+  "characters": "沼地",
+  "primaryMeaning": "Marshland",
+  "otherMeanings": [
+    "Wetland",
+    "Swampland"
+  ],
+  "primaryReading": "ぬまち",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1866,
+      "character": "沼",
+      "readings": [
+        "ぬま",
+        "しょう"
+      ]
+    },
+    {
+      "id": 608,
+      "character": "地",
+      "readings": [
+        "ち",
+        "じ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>bog</kanji> <kanji>earth</kanji> place is a place where the earth is boggy. That's a <vocabulary>marshland</vocabulary> or <vocabulary>wetland</vocabulary>.",
+  "readingMnemonic": "The readings are the ones you learned with the respective kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B2%BC%E5%9C%B0",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "沼",
+      "id": 1866,
+      "reading": "ぬま"
+    },
+    {
+      "type": "kanji",
+      "value": "地",
+      "id": 608,
+      "reading": "ち"
+    }
+  ]
+}

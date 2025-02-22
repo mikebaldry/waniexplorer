@@ -1,0 +1,48 @@
+{
+  "id": 4307,
+  "type": "vocabulary",
+  "characters": "確率",
+  "primaryMeaning": "Probability",
+  "otherMeanings": [
+    "Likelihood",
+    "Chances"
+  ],
+  "primaryReading": "かくりつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1103,
+      "character": "確",
+      "readings": [
+        "かく",
+        "たし"
+      ]
+    },
+    {
+      "id": 1091,
+      "character": "率",
+      "readings": [
+        "りつ",
+        "そつ",
+        "ひき"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You're <kanji>certain</kanji> there is this <kanji>percent</kanji> chance it will happen? You know that this is the <vocabulary>probability</vocabulary>?",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A2%BA%E7%8E%87",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "確",
+      "id": 1103,
+      "reading": "かく"
+    },
+    {
+      "type": "kanji",
+      "value": "率",
+      "id": 1091,
+      "reading": "りつ"
+    }
+  ]
+}

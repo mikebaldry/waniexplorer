@@ -1,46 +1,54 @@
 {
   "id": 1451,
   "type": "kanji",
-  "character": "除",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "除"
+  },
+  "primaryReading": "じょ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "じょ",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "じ",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "のぞ",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Exclude",
   "otherMeanings": [
     "Remove"
   ],
-  "primaryReading": "じょ",
-  "readings": [
-    {
-      "reading": "じょ",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "じ",
-      "primary": false,
-      "type": "onyomi"
-    },
-    {
-      "reading": "のぞ",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "Working with you on this project to <kanji>exclude</kanji> buildings from the plan, as well as <kanji>remove</kanji> buildings that already exist is little <reading>Jo</reading>-Anne (じょ).",
   "meaningMnemonic": "The <radical>building</radical>s are at a <radical>surplus</radical>. Because of that, we will need to <kanji>exclude</kanji> some of them from our future plans. Also, we'll need to <kanji>remove</kanji> some buildings too.",
-  "vocabularyIds": [
-    5433,
-    5434,
-    5435,
-    5612,
-    5615,
-    5710,
-    6124,
-    6250,
-    6294,
-    6403
-  ],
-  "radicalIds": [
-    176,
-    313
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%99%A4"
+  "readingMnemonic": "Working with you on this project to <kanji>exclude</kanji> buildings from the plan, as well as <kanji>remove</kanji> buildings that already exist is little <reading>Jo</reading>-Anne (じょ).",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%99%A4"
+  },
+  "related": {
+    "radicals": [
+      176,
+      313
+    ],
+    "vocabularies": [
+      5433,
+      5434,
+      5435,
+      5612,
+      5615,
+      5710,
+      6124,
+      6250,
+      6294,
+      6403
+    ]
+  }
 }

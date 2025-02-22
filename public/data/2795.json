@@ -1,50 +1,21 @@
 {
   "id": 2795,
   "type": "vocabulary",
-  "characters": "空気",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "空気"
+  },
   "primaryMeaning": "Air",
+  "meaningMnemonic": "The <kanji>sky</kanji> <kanji>energy</kanji>... once known as a mystical essence that kept us from flying into space. Now we know this is the <vocabulary>air</vocabulary>. It can also mean <vocabulary>atmosphere</vocabulary>, though, because that's what a bunch of air between the earth and space is called. ここの空気はいいね！\n\nFiguratively, this can also refer to the <vocabulary>mood</vocabulary> that's in the air or room, but not a specific person's mood! ",
+  "primaryReading": "くうき",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Atmosphere",
     "Mood"
   ],
-  "primaryReading": "くうき",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 601,
-      "character": "空",
-      "readings": [
-        "くう",
-        "そら",
-        "あ",
-        "から",
-        "す"
-      ]
-    },
-    {
-      "id": 548,
-      "character": "気",
-      "readings": [
-        "き",
-        "け"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The <kanji>sky</kanji> <kanji>energy</kanji>... once known as a mystical essence that kept us from flying into space. Now we know this is the <vocabulary>air</vocabulary>. It can also mean <vocabulary>atmosphere</vocabulary>, though, because that's what a bunch of air between the earth and space is called. ここの空気はいいね！\n\nFiguratively, this can also refer to the <vocabulary>mood</vocabulary> that's in the air or room, but not a specific person's mood! ",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A9%BA%E6%B0%97",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "空",
-      "id": 601,
-      "reading": "くう"
-    },
-    {
-      "type": "kanji",
-      "value": "気",
-      "id": 548,
-      "reading": "き"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%A9%BA%E6%B0%97"
+  }
 }

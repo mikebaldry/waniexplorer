@@ -1,0 +1,34 @@
+{
+  "id": 1201,
+  "type": "kanji",
+  "character": "則",
+  "primaryMeaning": "Rule",
+  "otherMeanings": [],
+  "primaryReading": "そく",
+  "readings": [
+    {
+      "reading": "そく",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "のっと",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "The first <kanji>rule</kanji> the shellfish enacts is that all humans take off their <reading>sock</reading>s (そく) and give them to him. Hmm... is this some kind of nasty shellfish? Who would want socks?",
+  "meaningMnemonic": "A <radical>shellfish</radical> with a <radical>knife</radical> makes all the <kanji>rule</kanji>s. It isn't supposed to be making rules, but it has a knife, so who's going to argue?",
+  "vocabularyIds": [
+    4603,
+    4623,
+    4624,
+    7654,
+    7713
+  ],
+  "radicalIds": [
+    94,
+    128
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%89%87"
+}

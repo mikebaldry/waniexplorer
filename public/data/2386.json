@@ -1,26 +1,34 @@
 {
   "id": 2386,
   "type": "kanji",
-  "character": "剖",
-  "primaryMeaning": "Divide",
-  "otherMeanings": [],
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "剖"
+  },
   "primaryReading": "ぼう",
   "readings": [
     {
-      "reading": "ぼう",
       "primary": true,
+      "reading": "ぼう",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "The clown finally stops trying to <kanji>divide</kanji> himself, and you can't stand to look at all of him. You grab a <reading>bow</reading>ling (ぼう) ball and bowl all of his divided parts over!",
+  "primaryMeaning": "Divide",
+  "otherMeanings": [],
   "meaningMnemonic": "A <radical>clown</radical> takes a <radical>knife</radical> and <kanji>divide</kanji>s himself. First he divides himself into two pieces, then he's in four pieces, then... oh why won't he stop?!",
-  "vocabularyIds": [
-    8438,
-    8595
-  ],
-  "radicalIds": [
-    175,
-    128
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%89%96"
+  "readingMnemonic": "The clown finally stops trying to <kanji>divide</kanji> himself, and you can't stand to look at all of him. You grab a <reading>bow</reading>ling (ぼう) ball and bowl all of his divided parts over!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%89%96"
+  },
+  "related": {
+    "radicals": [
+      175,
+      128
+    ],
+    "vocabularies": [
+      8438,
+      8595
+    ]
+  }
 }

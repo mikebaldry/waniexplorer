@@ -1,0 +1,33 @@
+{
+  "id": 5676,
+  "type": "vocabulary",
+  "characters": "肺がん",
+  "primaryMeaning": "Lung Cancer",
+  "otherMeanings": [],
+  "primaryReading": "はいがん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1537,
+      "character": "肺",
+      "readings": [
+        "はい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "肺 is <kanji>lung</kanji>, がん is \"cancer,\" I suppose because you want it <reading>gone</reading> (がん) from you. That makes this word <vocabulary>lung cancer</vocabulary>, which, with all the smoking in Japan, happens a decent amount.",
+  "readingMnemonic": "The reading is the same as what you learned with the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%82%BA%E3%81%8C%E3%82%93",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "肺",
+      "id": 1537,
+      "reading": "はい"
+    },
+    {
+      "type": "kana",
+      "value": "がん"
+    }
+  ]
+}

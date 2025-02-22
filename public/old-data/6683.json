@@ -1,0 +1,44 @@
+{
+  "id": 6683,
+  "type": "vocabulary",
+  "characters": "朗報",
+  "primaryMeaning": "Good News",
+  "otherMeanings": [],
+  "primaryReading": "ろうほう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1848,
+      "character": "朗",
+      "readings": [
+        "ろう",
+        "ほが"
+      ]
+    },
+    {
+      "id": 1035,
+      "character": "報",
+      "readings": [
+        "ほう",
+        "むく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>bright</kanji> <kanji>news</kanji> report is going to be one full of <vocabulary>good news</vocabulary>. A dark news report is probably bad news, but we only care about good news right now, don't we?",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9C%97%E5%A0%B1",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "朗",
+      "id": 1848,
+      "reading": "ろう"
+    },
+    {
+      "type": "kanji",
+      "value": "報",
+      "id": 1035,
+      "reading": "ほう"
+    }
+  ]
+}

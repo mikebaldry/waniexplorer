@@ -1,0 +1,38 @@
+{
+  "id": 8902,
+  "type": "vocabulary",
+  "characters": "凄い",
+  "primaryMeaning": "Amazing",
+  "otherMeanings": [
+    "Wonderful",
+    "Terrible",
+    "Awful"
+  ],
+  "primaryReading": "すごい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 8886,
+      "character": "凄",
+      "readings": [
+        "せい",
+        "すご"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>amazing</kanji>? It's also <vocabulary>amazing</vocabulary>! Or <vocabulary>terrible</vocabulary>. This word can be both good and bad, it really depends on the context, because what is amazing is usually also a little awful. You know? ",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You haven't learned this reading yet, so here's a mnemonic to help you:\n\nThe most <vocabulary>amazing</vocabulary> and <vocabulary>terrible</vocabulary> thing you've ever seen is <reading>Su</reading>it <reading>Go</reading>dzilla (すご). Godzilla was wearing a nice suit (amazing!) but also destroying your home, your friends, and your family (terrible!).",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%87%84%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "凄",
+      "id": 8886,
+      "reading": "すご"
+    },
+    {
+      "type": "kana",
+      "value": "い"
+    }
+  ]
+}

@@ -1,51 +1,21 @@
 {
   "id": 3151,
   "type": "vocabulary",
-  "characters": "重要",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "重要"
+  },
   "primaryMeaning": "Essential",
+  "meaningMnemonic": "When something has a <kanji>heavy</kanji> <kanji>need</kanji>, you know that that thing is <vocabulary>essential</vocabulary>. It is <vocabulary>important</vocabulary>.",
+  "primaryReading": "じゅうよう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Important",
     "Necessary"
   ],
-  "primaryReading": "じゅうよう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 735,
-      "character": "重",
-      "readings": [
-        "じゅう",
-        "ちょう",
-        "おも",
-        "かさ",
-        "え"
-      ]
-    },
-    {
-      "id": 737,
-      "character": "要",
-      "readings": [
-        "よう",
-        "い",
-        "かなめ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "When something has a <kanji>heavy</kanji> <kanji>need</kanji>, you know that that thing is <vocabulary>essential</vocabulary>. It is <vocabulary>important</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%87%8D%E8%A6%81",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "重",
-      "id": 735,
-      "reading": "じゅう"
-    },
-    {
-      "type": "kanji",
-      "value": "要",
-      "id": 737,
-      "reading": "よう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%87%8D%E8%A6%81"
+  }
 }

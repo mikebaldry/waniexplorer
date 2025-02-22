@@ -1,0 +1,30 @@
+{
+  "id": 3017,
+  "type": "vocabulary",
+  "characters": "決",
+  "primaryMeaning": "Decision",
+  "otherMeanings": [],
+  "primaryReading": "けつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 687,
+      "character": "決",
+      "readings": [
+        "けつ",
+        "き"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Noun version of <kanji>decide</kanji>? It's a <vocabulary>decision</vocabulary>.",
+  "readingMnemonic": "The reading for this word is the same as the kanji!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B1%BA",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "決",
+      "id": 687,
+      "reading": "けつ"
+    }
+  ]
+}

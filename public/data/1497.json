@@ -1,31 +1,39 @@
 {
   "id": 1497,
   "type": "kanji",
-  "character": "銭",
-  "primaryMeaning": "Coin",
-  "otherMeanings": [],
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "銭"
+  },
   "primaryReading": "せん",
   "readings": [
     {
-      "reading": "せん",
       "primary": true,
+      "reading": "せん",
       "type": "onyomi"
     },
     {
-      "reading": "ぜに",
       "primary": false,
+      "reading": "ぜに",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "You use the <kanji>coin</kanji> to pay a <reading>cen</reading>taur (せん) at the bar. The centaur is the bartender and he makes special drinks for those who pay in gold coins. Good for you!",
+  "primaryMeaning": "Coin",
+  "otherMeanings": [],
   "meaningMnemonic": "To use your <radical>gold</radical> at the <radical>bar</radical> you need to turn it into a <kanji>coin</kanji>. Well, more than one coin, probably. But you know for sure that you can make at least one coin out of the gold you have.",
-  "vocabularyIds": [
-    5558,
-    5559
-  ],
-  "radicalIds": [
-    118,
-    8782
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%8A%AD"
+  "readingMnemonic": "You use the <kanji>coin</kanji> to pay a <reading>cen</reading>taur (せん) at the bar. The centaur is the bartender and he makes special drinks for those who pay in gold coins. Good for you!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%8A%AD"
+  },
+  "related": {
+    "radicals": [
+      118,
+      8782
+    ],
+    "vocabularies": [
+      5558,
+      5559
+    ]
+  }
 }

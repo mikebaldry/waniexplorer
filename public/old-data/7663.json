@@ -1,0 +1,33 @@
+{
+  "id": 7663,
+  "type": "vocabulary",
+  "characters": "舞",
+  "primaryMeaning": "Dancing",
+  "otherMeanings": [
+    "Dance"
+  ],
+  "primaryReading": "まい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1634,
+      "character": "舞",
+      "readings": [
+        "ぶ",
+        "まい",
+        "ま"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You did not learn this reading, so here's a mnemonic to help you: \n\nPeople think you're <vocabulary>dancing</vocabulary>, but you're really jumping from the <reading>mice</reading> (まい) running on your floor. You don't want the mice running up your legs so you have to hop from one to the other, making it look like you're dancing.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%88%9E",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "舞",
+      "id": 1634,
+      "reading": "まい"
+    }
+  ]
+}

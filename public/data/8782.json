@@ -1,12 +1,15 @@
 {
   "id": 8782,
   "type": "radical",
-  "primaryMeaning": "Bar",
-  "otherMeanings": [],
-  "character": {
+  "level": 14,
+  "characters": {
     "type": "text",
     "value": "㦮"
   },
+  "primaryMeaning": "Bar",
+  "otherMeanings": [],
   "meaningMnemonic": "There are two drunkards here. That makes this radical a <radical>bar</radical>. Where else are you gonna drink?",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/bar"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/bar"
+  }
 }

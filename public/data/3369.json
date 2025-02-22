@@ -1,44 +1,18 @@
 {
   "id": 3369,
   "type": "vocabulary",
-  "characters": "野球",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "野球"
+  },
   "primaryMeaning": "Baseball",
-  "otherMeanings": [],
-  "primaryReading": "やきゅう",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 848,
-      "character": "野",
-      "readings": [
-        "や",
-        "の"
-      ]
-    },
-    {
-      "id": 832,
-      "character": "球",
-      "readings": [
-        "きゅう",
-        "たま"
-      ]
-    }
-  ],
   "meaningMnemonic": "<kanji>Field</kanji> <kanji>Sphere</kanji>! The greatest sport to grace this earth since a very similar (aka the same) sport, <vocabulary>baseball</vocabulary>. Think about it, you play on a field and you use a little sphere. Awesome!",
+  "primaryReading": "やきゅう",
   "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%87%8E%E7%90%83",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "野",
-      "id": 848,
-      "reading": "や"
-    },
-    {
-      "type": "kanji",
-      "value": "球",
-      "id": 832,
-      "reading": "きゅう"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%87%8E%E7%90%83"
+  }
 }

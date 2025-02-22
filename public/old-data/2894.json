@@ -1,0 +1,32 @@
+{
+  "id": 2894,
+  "type": "vocabulary",
+  "characters": "店",
+  "primaryMeaning": "Shop",
+  "otherMeanings": [
+    "Store"
+  ],
+  "primaryReading": "みせ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 625,
+      "character": "店",
+      "readings": [
+        "てん",
+        "みせ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "Since this word is made up of a single kanji, it should use the kun'yomi reading. When learning the kanji, you didn't learn that reading, so here's a mnemonic to help you with this word: \n\nThink of your favorite <vocabulary>shop</vocabulary>. Okay, now imagine yourself going to it. When you arrive, the entire shop is totally <reading>missi</reading>ng (みせ). Feel the shock and awe of this. It's as if it picked up and left overnight. No building, no anything. Just missing.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BA%97",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "店",
+      "id": 625,
+      "reading": "みせ"
+    }
+  ]
+}

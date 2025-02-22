@@ -1,77 +1,20 @@
 {
   "id": 4395,
   "type": "vocabulary",
-  "characters": "保守主義",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "保守主義"
+  },
   "primaryMeaning": "Conservative",
+  "meaningMnemonic": "You know that 主義 is \"-ism.\" Add that ism to people who want to <kanji>protect</kanji> and <kanji>conserve</kanji> their country so it stays just the way it is (forever). That's <vocabulary>conservatism</vocabulary> and they're <vocabulary>conservative</vocabulary> people.",
+  "primaryReading": "ほしゅしゅぎ",
+  "readingMnemonic": "This word uses the reading of 保守的 for the first half and then the regular kanji readings for the second half. Combine those things and you'll be a master of righteousness and / or kanji.",
   "otherMeanings": [
     "Conservatism"
   ],
-  "primaryReading": "ほしゅしゅぎ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 983,
-      "character": "保",
-      "readings": [
-        "ほ",
-        "たも"
-      ]
-    },
-    {
-      "id": 968,
-      "character": "守",
-      "readings": [
-        "す",
-        "しゅ",
-        "まも",
-        "もり"
-      ]
-    },
-    {
-      "id": 528,
-      "character": "主",
-      "readings": [
-        "しゅ",
-        "おも",
-        "ぬし",
-        "あるじ"
-      ]
-    },
-    {
-      "id": 1154,
-      "character": "義",
-      "readings": [
-        "ぎ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You know that 主義 is \"-ism.\" Add that ism to people who want to <kanji>protect</kanji> and <kanji>conserve</kanji> their country so it stays just the way it is (forever). That's <vocabulary>conservatism</vocabulary> and they're <vocabulary>conservative</vocabulary> people.",
-  "readingMnemonic": "This word uses the reading of 保守的 for the first half and then the regular kanji readings for the second half. Combine those things and you'll be a master of righteousness and / or kanji.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BF%9D%E5%AE%88%E4%B8%BB%E7%BE%A9",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "保",
-      "id": 983,
-      "reading": "ほ"
-    },
-    {
-      "type": "kanji",
-      "value": "守",
-      "id": 968,
-      "reading": "しゅ"
-    },
-    {
-      "type": "kanji",
-      "value": "主",
-      "id": 528,
-      "reading": "しゅ"
-    },
-    {
-      "type": "kanji",
-      "value": "義",
-      "id": 1154,
-      "reading": "ぎ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BF%9D%E5%AE%88%E4%B8%BB%E7%BE%A9"
+  }
 }

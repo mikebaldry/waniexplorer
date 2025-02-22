@@ -1,51 +1,59 @@
 {
   "id": 666,
   "type": "kanji",
-  "character": "高",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "高"
+  },
+  "primaryReading": "こう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "こう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "たか",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Tall",
   "otherMeanings": [
     "Expensive",
     "High"
   ],
-  "primaryReading": "こう",
-  "readings": [
-    {
-      "reading": "こう",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "たか",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "\"I am <kanji>tall</kanji>er and more <kanji>expensive</kanji> than you.\" \n\nYou're saying this because there are some <reading>こう</reading>いちs in the room, and you want to make them feel inferior (you're a こういち hater). You keep comparing your height to the こういちs in the room, and you keep checking price tags. Then you tell them you're taller and more expensive than they are.",
   "meaningMnemonic": "There's a <radical>lid</radical> on your <radical>mouth</radical> and <radical>mustache</radical>, covering up all your talking holes. This is because you kept saying how <kanji>tall</kanji> and <kanji>expensive</kanji> you are.",
-  "vocabularyIds": [
-    2950,
-    2968,
-    3234,
-    3301,
-    3473,
-    3483,
-    4481,
-    4551,
-    6159,
-    6480,
-    6747,
-    7607,
-    7703,
-    8056,
-    8090,
-    8532,
-    8711,
-    9022
-  ],
-  "radicalIds": [
-    8,
-    16,
-    121
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%AB%98"
+  "readingMnemonic": "\"I am <kanji>tall</kanji>er and more <kanji>expensive</kanji> than you.\" \n\nYou're saying this because there are some <reading>こう</reading>いちs in the room, and you want to make them feel inferior (you're a こういち hater). You keep comparing your height to the こういちs in the room, and you keep checking price tags. Then you tell them you're taller and more expensive than they are.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%AB%98"
+  },
+  "related": {
+    "radicals": [
+      8,
+      16,
+      121
+    ],
+    "vocabularies": [
+      2950,
+      2968,
+      3234,
+      3301,
+      3473,
+      3483,
+      4481,
+      4551,
+      6159,
+      6480,
+      6747,
+      7607,
+      7703,
+      8056,
+      8090,
+      8532,
+      8711,
+      9022
+    ]
+  }
 }

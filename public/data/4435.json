@@ -1,48 +1,20 @@
 {
   "id": 4435,
   "type": "vocabulary",
-  "characters": "女権",
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "女権"
+  },
   "primaryMeaning": "Women's Rights",
+  "meaningMnemonic": "A <kanji>woman</kanji>'s <kanji>rights</kanji> consist of <vocabulary>women's rights</vocabulary>.\n\nThis is a formal word that is often used at the beginning of compounds, such as 女権拡張運動 (movement for the expansion of women's rights). In everyday conversations, you can just say 女性の権利 to talk about women’s rights.",
+  "primaryReading": "じょけん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Woman's Rights"
   ],
-  "primaryReading": "じょけん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 454,
-      "character": "女",
-      "readings": [
-        "じょ",
-        "にょ",
-        "にょう",
-        "おんな",
-        "め"
-      ]
-    },
-    {
-      "id": 1134,
-      "character": "権",
-      "readings": [
-        "けん"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>woman</kanji>'s <kanji>rights</kanji> consist of <vocabulary>women's rights</vocabulary>.\n\nThis is a formal word that is often used at the beginning of compounds, such as 女権拡張運動 (movement for the expansion of women's rights). In everyday conversations, you can just say 女性の権利 to talk about women’s rights.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A5%B3%E6%A8%A9",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "女",
-      "id": 454,
-      "reading": "じょ"
-    },
-    {
-      "type": "kanji",
-      "value": "権",
-      "id": 1134,
-      "reading": "けん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A5%B3%E6%A8%A9"
+  }
 }

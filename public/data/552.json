@@ -1,33 +1,41 @@
 {
   "id": 552,
   "type": "kanji",
-  "character": "耳",
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "耳"
+  },
+  "primaryReading": "みみ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "みみ",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "じ",
+      "type": "onyomi"
+    }
+  ],
   "primaryMeaning": "Ear",
   "otherMeanings": [
     "Ears"
   ],
-  "primaryReading": "みみ",
-  "readings": [
-    {
-      "reading": "みみ",
-      "primary": true,
-      "type": "kunyomi"
-    },
-    {
-      "reading": "じ",
-      "primary": false,
-      "type": "onyomi"
-    }
-  ],
-  "readingMnemonic": "Put your hand to your <kanji>ear</kanji> and sing... \"<reading>Mimi</reading>mimimimiiiii!\" (みみ) and listen to your tone with your ear.",
   "meaningMnemonic": "The <radical>ear</radical> radical and <kanji>ear</kanji> kanji are the same in looks as well as meaning.",
-  "vocabularyIds": [
-    2687,
-    2688,
-    9036
-  ],
-  "radicalIds": [
-    88
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%80%B3"
+  "readingMnemonic": "Put your hand to your <kanji>ear</kanji> and sing... \"<reading>Mimi</reading>mimimimiiiii!\" (みみ) and listen to your tone with your ear.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%80%B3"
+  },
+  "related": {
+    "radicals": [
+      88
+    ],
+    "vocabularies": [
+      2687,
+      2688,
+      9036
+    ]
+  }
 }

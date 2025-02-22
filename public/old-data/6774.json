@@ -1,0 +1,45 @@
+{
+  "id": 6774,
+  "type": "vocabulary",
+  "characters": "恐竜",
+  "primaryMeaning": "Dinosaur",
+  "otherMeanings": [],
+  "primaryReading": "きょうりゅう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1406,
+      "character": "恐",
+      "readings": [
+        "きょう",
+        "おそ",
+        "こわ"
+      ]
+    },
+    {
+      "id": 1873,
+      "character": "竜",
+      "readings": [
+        "りゅう",
+        "たつ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>fear</kanji> <kanji>dragon</kanji> is a <vocabulary>dinosaur</vocabulary>. Dinosaurs are much, much scarier than dragons, and that's why dinosaurs are called fear dragons in Japanese.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%81%90%E7%AB%9C",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "恐",
+      "id": 1406,
+      "reading": "きょう"
+    },
+    {
+      "type": "kanji",
+      "value": "竜",
+      "id": 1873,
+      "reading": "りゅう"
+    }
+  ]
+}

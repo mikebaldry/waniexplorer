@@ -1,0 +1,37 @@
+{
+  "id": 442,
+  "type": "kanji",
+  "character": "九",
+  "primaryMeaning": "Nine",
+  "otherMeanings": [],
+  "primaryReading": "く",
+  "readings": [
+    {
+      "reading": "く",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "きゅう",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ここの",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Although this kanji has two on'yomi to learn, the pronunciations of those two on'yomi are very similar, so that should make them easier to remember.\n\nWhen you were <kanji>nine</kanji> your favorite foods were <reading>coo</reading>kies (く) and <reading>cu</reading>cumbers (きゅう). Yum yum!",
+  "meaningMnemonic": "Nice! This kanji is the same as the radical that looks just like it (down to the meaning, even!). The radical is <radical>nine</radical> and the kanji is <kanji>nine</kanji>, making the meaning of this kanji really easy to remember as long as you know the radical first.",
+  "vocabularyIds": [
+    2471,
+    2472,
+    2864,
+    7614
+  ],
+  "radicalIds": [
+    11
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E4%B9%9D"
+}

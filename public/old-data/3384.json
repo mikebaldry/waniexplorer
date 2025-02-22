@@ -1,0 +1,32 @@
+{
+  "id": 3384,
+  "type": "vocabulary",
+  "characters": "歯",
+  "primaryMeaning": "Tooth",
+  "otherMeanings": [
+    "Teeth"
+  ],
+  "primaryReading": "は",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 841,
+      "character": "歯",
+      "readings": [
+        "は",
+        "し"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "The reading that you learned with the kanji is the same as this one. <reading>HA!</reading> Take that, kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%AD%AF",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "歯",
+      "id": 841,
+      "reading": "は"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 2527,
+  "type": "vocabulary",
+  "characters": "六つ",
+  "primaryMeaning": "Six Things",
+  "otherMeanings": [],
+  "primaryReading": "むっつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 471,
+      "character": "六",
+      "readings": [
+        "ろく",
+        "む"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Any number with a つ attached to it means you are counting that number of things. In this case, it's <vocabulary>six things</vocabulary>.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can guess that it uses the kun'yomi reading. Here's a mnemonic to help you do that:\n\nWhat are the <vocabulary>six things</vocabulary> that you need to count? This time you are counting six cows. The reason it's six is because you wanted exactly six <reading>moo</reading>s (むっ). No more, no less. You're very particular about your moos.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%85%AD%E3%81%A4",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "六",
+      "id": 471,
+      "reading": "む"
+    },
+    {
+      "type": "kana",
+      "value": "つ"
+    }
+  ]
+}

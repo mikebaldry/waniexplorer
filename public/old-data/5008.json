@@ -1,0 +1,59 @@
+{
+  "id": 5008,
+  "type": "vocabulary",
+  "characters": "効果的",
+  "primaryMeaning": "Effective",
+  "otherMeanings": [],
+  "primaryReading": "こうかてき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1267,
+      "character": "効",
+      "readings": [
+        "こう",
+        "き"
+      ]
+    },
+    {
+      "id": 1005,
+      "character": "果",
+      "readings": [
+        "か",
+        "くだ",
+        "は"
+      ]
+    },
+    {
+      "id": 914,
+      "character": "的",
+      "readings": [
+        "てき",
+        "まと"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Remember how 効果 means \"effect\"? Add <kanji>~like</kanji> to that and it's <vocabulary>effective</vocabulary>!",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8A%B9%E6%9E%9C%E7%9A%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "効",
+      "id": 1267,
+      "reading": "こう"
+    },
+    {
+      "type": "kanji",
+      "value": "果",
+      "id": 1005,
+      "reading": "か"
+    },
+    {
+      "type": "kanji",
+      "value": "的",
+      "id": 914,
+      "reading": "てき"
+    }
+  ]
+}

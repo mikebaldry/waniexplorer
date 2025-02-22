@@ -1,35 +1,43 @@
 {
   "id": 1940,
   "type": "kanji",
-  "character": "翔",
-  "primaryMeaning": "Fly",
-  "otherMeanings": [],
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "翔"
+  },
   "primaryReading": "かけ",
   "readings": [
     {
-      "reading": "かけ",
       "primary": true,
+      "reading": "かけ",
       "type": "kunyomi"
     },
     {
+      "primary": false,
       "reading": "と",
-      "primary": false,
       "type": "kunyomi"
     },
     {
-      "reading": "しょう",
       "primary": false,
+      "reading": "しょう",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "Watching that sheep with feathers and wings flying around made you thirsty. You remember that you have a <reading>ca</reading>r <reading>ke</reading>ttle (かけ), so you reach into your car and grab your car kettle to make a special car-kettle brew.",
+  "primaryMeaning": "Fly",
+  "otherMeanings": [],
   "meaningMnemonic": "A <radical>sheep</radical> with <radical>feathers</radical> (and presumably wings, too) is able to <kanji>fly</kanji>.",
-  "vocabularyIds": [
-    6933
-  ],
-  "radicalIds": [
-    136,
-    213
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%BF%94"
+  "readingMnemonic": "Watching that sheep with feathers and wings flying around made you thirsty. You remember that you have a <reading>ca</reading>r <reading>ke</reading>ttle (かけ), so you reach into your car and grab your car kettle to make a special car-kettle brew.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%BF%94"
+  },
+  "related": {
+    "radicals": [
+      136,
+      213
+    ],
+    "vocabularies": [
+      6933
+    ]
+  }
 }

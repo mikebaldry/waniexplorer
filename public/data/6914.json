@@ -1,32 +1,20 @@
 {
   "id": 6914,
   "type": "vocabulary",
-  "characters": "陰",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "陰"
+  },
   "primaryMeaning": "Shadow",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well. Also means <vocabulary>shadow</vocabulary>.",
+  "primaryReading": "かげ",
+  "readingMnemonic": "Look at a <vocabulary>shadow</vocabulary>. It's long, surprisingly long. It's in the shape of a <reading>cage</reading> (かげ), because that's what is producing the long shadow. Check out each bar of the cage. Maybe you're inside the cage? Whatever is going on, a long shadow is being created by the cage and shade.",
   "otherMeanings": [
     "Shade"
   ],
-  "primaryReading": "かげ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1931,
-      "character": "陰",
-      "readings": [
-        "いん",
-        "かげ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well. Also means <vocabulary>shadow</vocabulary>.",
-  "readingMnemonic": "Look at a <vocabulary>shadow</vocabulary>. It's long, surprisingly long. It's in the shape of a <reading>cage</reading> (かげ), because that's what is producing the long shadow. Check out each bar of the cage. Maybe you're inside the cage? Whatever is going on, a long shadow is being created by the cage and shade.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%99%B0",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "陰",
-      "id": 1931,
-      "reading": "かげ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%99%B0"
+  }
 }

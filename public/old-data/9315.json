@@ -1,0 +1,52 @@
+{
+  "id": 9315,
+  "type": "vocabulary",
+  "characters": "蘇生",
+  "primaryMeaning": "Resuscitation",
+  "otherMeanings": [
+    "Revival"
+  ],
+  "primaryReading": "そせい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 9313,
+      "character": "蘇",
+      "readings": [
+        "そ",
+        "す",
+        "よみがえ"
+      ]
+    },
+    {
+      "id": 850,
+      "character": "生",
+      "readings": [
+        "せい",
+        "しょう",
+        "い",
+        "なま",
+        "う",
+        "は",
+        "き"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you <kanji>revive</kanji> <kanji>life</kanji>, what you're doing is <vocabulary>resuscitation</vocabulary>. Or, to be less medical, <vocabulary>revival</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%98%87%E7%94%9F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "蘇",
+      "id": 9313,
+      "reading": "そ"
+    },
+    {
+      "type": "kanji",
+      "value": "生",
+      "id": 850,
+      "reading": "せい"
+    }
+  ]
+}

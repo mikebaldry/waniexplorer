@@ -1,30 +1,18 @@
 {
   "id": 5115,
   "type": "vocabulary",
-  "characters": "傘",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "傘"
+  },
   "primaryMeaning": "Umbrella",
-  "otherMeanings": [],
-  "primaryReading": "かさ",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1375,
-      "character": "傘",
-      "readings": [
-        "かさ",
-        "さん"
-      ]
-    }
-  ],
   "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "かさ",
   "readingMnemonic": "The reading is the same as what you learned with the kanji.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%82%98",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "傘",
-      "id": 1375,
-      "reading": "かさ"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%82%98"
+  }
 }

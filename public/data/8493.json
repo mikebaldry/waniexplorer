@@ -1,42 +1,18 @@
 {
   "id": 8493,
   "type": "vocabulary",
-  "characters": "蝶々",
+  "level": 56,
+  "characters": {
+    "type": "text",
+    "value": "蝶々"
+  },
   "primaryMeaning": "Butterfly",
-  "otherMeanings": [],
-  "primaryReading": "ちょうちょう",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2322,
-      "character": "蝶",
-      "readings": [
-        "ちょう"
-      ]
-    },
-    {
-      "id": 856,
-      "character": "々",
-      "readings": [
-        "のま"
-      ]
-    }
-  ],
   "meaningMnemonic": "A <kanji>butterfly</kanji> with another <kanji>butterfly</kanji> added to it? It's still a <vocabulary>butterfly</vocabulary>, just a really big one with... with four wings. And laser eyes? Oh well, just go with it. It's a butterfly.",
+  "primaryReading": "ちょうちょう",
   "readingMnemonic": "The reading is just the on'yomi readings (which you learned with the kanji) twice in a row.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%9D%B6%E3%80%85",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "蝶",
-      "id": 2322,
-      "reading": "ちょう"
-    },
-    {
-      "type": "kanji",
-      "value": "々",
-      "id": 2322,
-      "reading": "ちょう"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%9D%B6%E3%80%85"
+  }
 }

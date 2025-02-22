@@ -1,8 +1,15 @@
 {
   "id": 2715,
   "type": "vocabulary",
-  "characters": "主人",
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "主人"
+  },
   "primaryMeaning": "Head Of Household",
+  "meaningMnemonic": "The <kanji>master</kanji> <kanji>person</kanji> isn't just a master. You have to think back to when they were making these kanji. Who was the master? It was the <vocabulary>head of household</vocabulary>. This head of household probably told servants what to do and was all bossy and stuff. He was the master person. \n\nAlso, this often means <vocabulary>husband</vocabulary>. Because, I guess the head of household back in the day was the husband. Those sexist ancient people!",
+  "primaryReading": "しゅじん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 人 has two on'yomi readings, here's a mnemonic to help you remember which one to use:\n\nIn Japan, tradition says the <vocabulary>head of a household</vocabulary> must slide down a <reading>chu</reading>te in only <reading>jean</reading>s (しゅじん). Whenever you need to speak to the head of the household, they'll come sliding down a chute wearing nothing but jeans. What a sight!",
   "otherMeanings": [
     "Husband",
     "Head Of A Household",
@@ -10,45 +17,8 @@
     "Landlord",
     "Master"
   ],
-  "primaryReading": "しゅじん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 528,
-      "character": "主",
-      "readings": [
-        "しゅ",
-        "おも",
-        "ぬし",
-        "あるじ"
-      ]
-    },
-    {
-      "id": 444,
-      "character": "人",
-      "readings": [
-        "にん",
-        "じん",
-        "ひと",
-        "と"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The <kanji>master</kanji> <kanji>person</kanji> isn't just a master. You have to think back to when they were making these kanji. Who was the master? It was the <vocabulary>head of household</vocabulary>. This head of household probably told servants what to do and was all bossy and stuff. He was the master person. \n\nAlso, this often means <vocabulary>husband</vocabulary>. Because, I guess the head of household back in the day was the husband. Those sexist ancient people!",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 人 has two on'yomi readings, here's a mnemonic to help you remember which one to use:\n\nIn Japan, tradition says the <vocabulary>head of a household</vocabulary> must slide down a <reading>chu</reading>te in only <reading>jean</reading>s (しゅじん). Whenever you need to speak to the head of the household, they'll come sliding down a chute wearing nothing but jeans. What a sight!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%BB%E4%BA%BA",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "主",
-      "id": 528,
-      "reading": "しゅ"
-    },
-    {
-      "type": "kanji",
-      "value": "人",
-      "id": 444,
-      "reading": "じん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B8%BB%E4%BA%BA"
+  }
 }

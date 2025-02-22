@@ -1,48 +1,21 @@
 {
   "id": 3168,
   "type": "vocabulary",
-  "characters": "終点",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "終点"
+  },
   "primaryMeaning": "Last Stop",
+  "meaningMnemonic": "The <kanji>end</kanji> <kanji>point</kanji> is where everything ends... but for this example, think of a map with a route on it. The last spot on the route is the \"last point.\" It is the <vocabulary>last stop</vocabulary>.",
+  "primaryReading": "しゅうてん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Final Stop",
     "Terminus"
   ],
-  "primaryReading": "しゅうてん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 745,
-      "character": "終",
-      "readings": [
-        "しゅう",
-        "おわ",
-        "お"
-      ]
-    },
-    {
-      "id": 641,
-      "character": "点",
-      "readings": [
-        "てん",
-        "つ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The <kanji>end</kanji> <kanji>point</kanji> is where everything ends... but for this example, think of a map with a route on it. The last spot on the route is the \"last point.\" It is the <vocabulary>last stop</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B5%82%E7%82%B9",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "終",
-      "id": 745,
-      "reading": "しゅう"
-    },
-    {
-      "type": "kanji",
-      "value": "点",
-      "id": 641,
-      "reading": "てん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%B5%82%E7%82%B9"
+  }
 }

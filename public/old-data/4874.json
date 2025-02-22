@@ -1,0 +1,36 @@
+{
+  "id": 4874,
+  "type": "vocabulary",
+  "characters": "革ジャン",
+  "primaryMeaning": "Leather Jacket",
+  "otherMeanings": [],
+  "primaryReading": "かわじゃん",
+  "otherReadings": [
+    "かわジャン"
+  ],
+  "kanji": [
+    {
+      "id": 1188,
+      "character": "革",
+      "readings": [
+        "かく",
+        "かわ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "革 is <kanji>leather</kanji> and ジャン is short for ジャンパー (Jumper, like a jacket). So, put those together and you have a <vocabulary>leather jacket</vocabulary>.\n\nThis word is getting somewhat outdated. The trendier term now is レザージャケット.",
+  "readingMnemonic": "The reading is the same as the vocab word 革, because this word is like two separate words put together (so it's treated as single words too, giving it that reading).",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9D%A9%E3%82%B8%E3%83%A3%E3%83%B3",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "革",
+      "id": 1188,
+      "reading": "かわ"
+    },
+    {
+      "type": "kana",
+      "value": "ジャン"
+    }
+  ]
+}

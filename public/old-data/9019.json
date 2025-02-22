@@ -1,0 +1,47 @@
+{
+  "id": 9019,
+  "type": "vocabulary",
+  "characters": "飲酒",
+  "primaryMeaning": "Drinking Alcohol",
+  "otherMeanings": [
+    "Drinking"
+  ],
+  "primaryReading": "いんしゅ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 755,
+      "character": "飲",
+      "readings": [
+        "の",
+        "いん"
+      ]
+    },
+    {
+      "id": 743,
+      "character": "酒",
+      "readings": [
+        "しゅ",
+        "さけ",
+        "さか"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Drink</kanji> <kanji>alcohol</kanji> is <vocabulary>drinking alcohol</vocabulary>, or just <vocabulary>drinking</vocabulary>. This always refers to alcohol though.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You haven't learned this reading of 飲 yet, so here's a mnemonic to help you:\n\nWhere's a good place for <vocabulary>drinking alcohol</vocabulary>? An <reading>inn</reading> (いん), of course!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%A3%B2%E9%85%92",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "飲",
+      "id": 755,
+      "reading": "いん"
+    },
+    {
+      "type": "kanji",
+      "value": "酒",
+      "id": 743,
+      "reading": "しゅ"
+    }
+  ]
+}

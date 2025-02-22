@@ -1,0 +1,44 @@
+{
+  "id": 9051,
+  "type": "kanji",
+  "character": "頁",
+  "primaryMeaning": "Page",
+  "otherMeanings": [],
+  "primaryReading": "ページ",
+  "readings": [
+    {
+      "reading": "ページ",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "ぺーじ",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "かしら",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "けつ",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "よう",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "A <kanji>page</kanji> is a <reading>page</reading> (ページ).\n\n",
+  "meaningMnemonic": "Did you know that those strange <radical>geoduck</radical> creatures were once used to make <kanji>page</kanji>s? Okay maybe not, but it makes for a memorable image!",
+  "vocabularyIds": [
+    9052
+  ],
+  "radicalIds": [
+    184
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%A0%81"
+}

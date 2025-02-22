@@ -1,32 +1,40 @@
 {
   "id": 1897,
   "type": "kanji",
-  "character": "涙",
-  "primaryMeaning": "Teardrop",
-  "otherMeanings": [],
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "涙"
+  },
   "primaryReading": "なみだ",
   "readings": [
     {
-      "reading": "なみだ",
       "primary": true,
+      "reading": "なみだ",
       "type": "kunyomi"
     },
     {
-      "reading": "るい",
       "primary": false,
+      "reading": "るい",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "Your <kanji>teardrop</kanji>s are like little waves. What are they? They're <reading>波だ</reading> (なみだ).",
+  "primaryMeaning": "Teardrop",
+  "otherMeanings": [],
   "meaningMnemonic": "A <radical>tsunami</radical> goes through a little <radical>door</radical>, and plops down a <radical>big</radical> drop on your face. This tsunami is your tears inside your eye area. The door is your tear duct. The big drop is the <kanji>teardrop</kanji> coming down your eye.",
-  "vocabularyIds": [
-    6823,
-    6824
-  ],
-  "radicalIds": [
-    103,
-    73,
-    18
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%B6%99"
+  "readingMnemonic": "Your <kanji>teardrop</kanji>s are like little waves. What are they? They're <reading>波だ</reading> (なみだ).",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%B6%99"
+  },
+  "related": {
+    "radicals": [
+      103,
+      73,
+      18
+    ],
+    "vocabularies": [
+      6823,
+      6824
+    ]
+  }
 }

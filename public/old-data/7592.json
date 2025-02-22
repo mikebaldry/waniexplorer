@@ -1,0 +1,46 @@
+{
+  "id": 7592,
+  "type": "vocabulary",
+  "characters": "警告",
+  "primaryMeaning": "Warning",
+  "otherMeanings": [
+    "Advice",
+    "Caution"
+  ],
+  "primaryReading": "けいこく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1023,
+      "character": "警",
+      "readings": [
+        "けい"
+      ]
+    },
+    {
+      "id": 1031,
+      "character": "告",
+      "readings": [
+        "こく",
+        "つ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you <kanji>announce</kanji> something to <kanji>warn</kanji> somebody, you're <vocabulary>warning</vocabulary> them. Sometimes you're just trying to give them some helpful <vocabulary>advice</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%AD%A6%E5%91%8A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "警",
+      "id": 1023,
+      "reading": "けい"
+    },
+    {
+      "type": "kanji",
+      "value": "告",
+      "id": 1031,
+      "reading": "こく"
+    }
+  ]
+}

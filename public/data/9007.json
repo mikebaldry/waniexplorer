@@ -1,34 +1,18 @@
 {
   "id": 9007,
   "type": "vocabulary",
-  "characters": "痒い",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "痒い"
+  },
   "primaryMeaning": "Itchy",
-  "otherMeanings": [],
-  "primaryReading": "かゆい",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 8996,
-      "character": "痒",
-      "readings": [
-        "かゆ",
-        "よう"
-      ]
-    }
-  ],
   "meaningMnemonic": "You can guess this is an adjective from the い at the end. The meaning for the kanji is <kanji>itchy</kanji>, and the adjective version is <vocabulary>itchy</vocabulary> too.",
+  "primaryReading": "かゆい",
   "readingMnemonic": "This word uses the same reading as the one you learned with the kanji: かゆ.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%97%92%E3%81%84",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "痒",
-      "id": 8996,
-      "reading": "かゆ"
-    },
-    {
-      "type": "kana",
-      "value": "い"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%97%92%E3%81%84"
+  }
 }

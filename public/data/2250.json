@@ -1,40 +1,48 @@
 {
   "id": 2250,
   "type": "kanji",
-  "character": "痴",
-  "primaryMeaning": "Stupid",
-  "otherMeanings": [],
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "痴"
+  },
   "primaryReading": "ち",
   "readings": [
     {
-      "reading": "ち",
       "primary": true,
+      "reading": "ち",
       "type": "onyomi"
     },
     {
-      "reading": "おろか",
       "primary": false,
+      "reading": "おろか",
       "type": "kunyomi"
     },
     {
-      "reading": "し",
       "primary": false,
+      "reading": "し",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "The only way to cure this serious case of <kanji>stupid</kanji> is to make you eat <reading>chee</reading>se (ち). Not only will it fix your sick stomach by cushioning all the arrows that you shoved in your stupid mouth, but it should send smart cheese waves to your brain and cure you of that stupid all together.",
+  "primaryMeaning": "Stupid",
+  "otherMeanings": [],
   "meaningMnemonic": "You're <radical>sick</radical> because you put an <radical>arrow</radical> in your <radical>mouth</radical> and tried to eat it. To be honest, that's just really <kanji>stupid</kanji>. You have to be stupid to try to eat an arrow. You deserve to be sick.",
-  "vocabularyIds": [
-    8099,
-    8125,
-    8126,
-    8127,
-    8300
-  ],
-  "radicalIds": [
-    187,
-    72,
-    16
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%97%B4"
+  "readingMnemonic": "The only way to cure this serious case of <kanji>stupid</kanji> is to make you eat <reading>chee</reading>se (ち). Not only will it fix your sick stomach by cushioning all the arrows that you shoved in your stupid mouth, but it should send smart cheese waves to your brain and cure you of that stupid all together.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%97%B4"
+  },
+  "related": {
+    "radicals": [
+      187,
+      72,
+      16
+    ],
+    "vocabularies": [
+      8099,
+      8125,
+      8126,
+      8127,
+      8300
+    ]
+  }
 }

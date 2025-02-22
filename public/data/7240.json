@@ -1,50 +1,20 @@
 {
   "id": 7240,
   "type": "vocabulary",
-  "characters": "遂行",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "遂行"
+  },
   "primaryMeaning": "Accomplishment",
+  "meaningMnemonic": "<kanji>Accomplish</kanji> and <kanji>go</kanji> forth! These are your <vocabulary>accomplishment</vocabulary>s. This is your <vocabulary>execution</vocabulary> of actions.",
+  "primaryReading": "すいこう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Execution"
   ],
-  "primaryReading": "すいこう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2042,
-      "character": "遂",
-      "readings": [
-        "すい",
-        "と",
-        "つい"
-      ]
-    },
-    {
-      "id": 580,
-      "character": "行",
-      "readings": [
-        "こう",
-        "ぎょう",
-        "い",
-        "おこな",
-        "ゆ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Accomplish</kanji> and <kanji>go</kanji> forth! These are your <vocabulary>accomplishment</vocabulary>s. This is your <vocabulary>execution</vocabulary> of actions.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%81%82%E8%A1%8C",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "遂",
-      "id": 2042,
-      "reading": "すい"
-    },
-    {
-      "type": "kanji",
-      "value": "行",
-      "id": 580,
-      "reading": "こう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%81%82%E8%A1%8C"
+  }
 }

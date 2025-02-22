@@ -1,48 +1,21 @@
 {
   "id": 5089,
   "type": "vocabulary",
-  "characters": "迷子",
+  "level": 27,
+  "characters": {
+    "type": "text",
+    "value": "迷子"
+  },
   "primaryMeaning": "Lost Child",
+  "meaningMnemonic": "A <kanji>child</kanji> that's <kanji>astray</kanji> is a <vocabulary>lost child</vocabulary>. Help them home, don't invite them into your windowless van, please.",
+  "primaryReading": "まいご",
+  "readingMnemonic": "The reading for 迷 is an exceptional reading. The ご comes from こ. Think of the まい as the child asking: \"Where is <reading>my</reading> (まい) mommy???\"",
   "otherMeanings": [
     "Lost Person",
     "Stray Animal"
   ],
-  "primaryReading": "まいご",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1325,
-      "character": "迷",
-      "readings": [
-        "めい",
-        "まよ"
-      ]
-    },
-    {
-      "id": 462,
-      "character": "子",
-      "readings": [
-        "し",
-        "す",
-        "こ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>child</kanji> that's <kanji>astray</kanji> is a <vocabulary>lost child</vocabulary>. Help them home, don't invite them into your windowless van, please.",
-  "readingMnemonic": "The reading for 迷 is an exceptional reading. The ご comes from こ. Think of the まい as the child asking: \"Where is <reading>my</reading> (まい) mommy???\"",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%BF%B7%E5%AD%90",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "迷",
-      "id": 1325,
-      "reading": null
-    },
-    {
-      "type": "kanji",
-      "value": "子",
-      "id": 462,
-      "reading": null
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%BF%B7%E5%AD%90"
+  }
 }

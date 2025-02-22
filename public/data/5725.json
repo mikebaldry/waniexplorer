@@ -1,35 +1,18 @@
 {
   "id": 5725,
   "type": "vocabulary",
-  "characters": "傷つく",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "傷つく"
+  },
   "primaryMeaning": "To Get Hurt",
-  "otherMeanings": [],
-  "primaryReading": "きずつく",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1499,
-      "character": "傷",
-      "readings": [
-        "しょう",
-        "きず",
-        "いた"
-      ]
-    }
-  ],
   "meaningMnemonic": "Remember how 傷 is \"wound\"? Now a wound is つくing to you, or in other words, is getting attached to you. If you get a wound attached to your body, you are probably going <vocabulary>to get hurt</vocabulary>.",
+  "primaryReading": "きずつく",
   "readingMnemonic": "The reading is the same as the word 傷.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%82%B7%E3%81%A4%E3%81%8F",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "傷",
-      "id": 1499,
-      "reading": "きず"
-    },
-    {
-      "type": "kana",
-      "value": "つく"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%82%B7%E3%81%A4%E3%81%8F"
+  }
 }

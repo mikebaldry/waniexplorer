@@ -1,0 +1,45 @@
+{
+  "id": 7380,
+  "type": "vocabulary",
+  "characters": "漫画",
+  "primaryMeaning": "Manga",
+  "otherMeanings": [
+    "Japanese Comics"
+  ],
+  "primaryReading": "まんが",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2095,
+      "character": "漫",
+      "readings": [
+        "まん"
+      ]
+    },
+    {
+      "id": 629,
+      "character": "画",
+      "readings": [
+        "が",
+        "かく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Comic</kanji> <kanji>drawing</kanji>s are <vocabulary>manga</vocabulary>, a.k.a. <vocabulary>Japanese comics</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%BC%AB%E7%94%BB",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "漫",
+      "id": 2095,
+      "reading": "まん"
+    },
+    {
+      "type": "kanji",
+      "value": "画",
+      "id": 629,
+      "reading": "が"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 7896,
+  "type": "vocabulary",
+  "characters": "没後",
+  "primaryMeaning": "After Death",
+  "otherMeanings": [
+    "Posthumously"
+  ],
+  "primaryReading": "ぼつご",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2180,
+      "character": "没",
+      "readings": [
+        "ぼつ",
+        "もつ",
+        "おぼ",
+        "しず",
+        "ない"
+      ]
+    },
+    {
+      "id": 636,
+      "character": "後",
+      "readings": [
+        "ご",
+        "こう",
+        "うし",
+        "あと",
+        "のち"
+      ]
+    }
+  ],
+  "meaningMnemonic": "All the art, music, or books that come out <kanji>after</kanji> a person <kanji>die</kanji>s are considered to be released <vocabulary>after death</vocabulary> or <vocabulary>posthumously</vocabulary>. ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B2%A1%E5%BE%8C",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "没",
+      "id": 2180,
+      "reading": "ぼつ"
+    },
+    {
+      "type": "kanji",
+      "value": "後",
+      "id": 636,
+      "reading": "ご"
+    }
+  ]
+}

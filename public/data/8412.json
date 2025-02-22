@@ -1,58 +1,20 @@
 {
   "id": 8412,
   "type": "vocabulary",
-  "characters": "迎賓館",
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "迎賓館"
+  },
   "primaryMeaning": "Reception Hall",
+  "meaningMnemonic": "A <kanji>public building</kanji> where you <kanji>welcome</kanji> <kanji>VIP</kanji> guests is a <vocabulary>reception hall</vocabulary>. Or a <vocabulary>guest house</vocabulary> if they're staying the night.",
+  "primaryReading": "げいひんかん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Guest House"
   ],
-  "primaryReading": "げいひんかん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1481,
-      "character": "迎",
-      "readings": [
-        "げい",
-        "むか"
-      ]
-    },
-    {
-      "id": 2277,
-      "character": "賓",
-      "readings": [
-        "ひん"
-      ]
-    },
-    {
-      "id": 873,
-      "character": "館",
-      "readings": [
-        "かん"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>public building</kanji> where you <kanji>welcome</kanji> <kanji>VIP</kanji> guests is a <vocabulary>reception hall</vocabulary>. Or a <vocabulary>guest house</vocabulary> if they're staying the night.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%BF%8E%E8%B3%93%E9%A4%A8",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "迎",
-      "id": 1481,
-      "reading": "げい"
-    },
-    {
-      "type": "kanji",
-      "value": "賓",
-      "id": 2277,
-      "reading": "ひん"
-    },
-    {
-      "type": "kanji",
-      "value": "館",
-      "id": 873,
-      "reading": "かん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%BF%8E%E8%B3%93%E9%A4%A8"
+  }
 }

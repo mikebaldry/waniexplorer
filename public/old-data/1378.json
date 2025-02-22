@@ -1,0 +1,35 @@
+{
+  "id": 1378,
+  "type": "kanji",
+  "character": "攻",
+  "primaryMeaning": "Aggression",
+  "otherMeanings": [],
+  "primaryReading": "こう",
+  "readings": [
+    {
+      "reading": "こう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "せ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You're taking your <kanji>aggression</kanji> out on everyone. Then, the sexy construction worker from WaniKani Level 1, <reading>こう</reading>いち, walks by without a shirt on. You take out all your aggression on him.",
+  "meaningMnemonic": "<radical>Construction</radical> in the <radical>winter</radical> leads to <kanji>aggression</kanji>. Just think about it. It's cold, it's unpleasant, and you don't want to be there. So, you start to develop an aggression towards other people working with you on this winter project.",
+  "vocabularyIds": [
+    5162,
+    5163,
+    5164,
+    5165,
+    5399,
+    6552
+  ],
+  "radicalIds": [
+    25,
+    60
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%94%BB"
+}

@@ -1,0 +1,40 @@
+{
+  "id": 2911,
+  "type": "vocabulary",
+  "characters": "後ろ",
+  "primaryMeaning": "Behind",
+  "otherMeanings": [
+    "Back",
+    "Rear"
+  ],
+  "primaryReading": "うしろ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 636,
+      "character": "後",
+      "readings": [
+        "ご",
+        "こう",
+        "うし",
+        "あと",
+        "のち"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The hiragana attached to this word doesn't suggest it's a verb or an adjective, so we can assume it's a noun. While 後で (you may or may not have seen this word yet) means \"after,\" this one means all the other meanings you learned with the kanji: <vocabulary>behind</vocabulary>, <vocabulary>back</vocabulary>, and <vocabulary>rear</vocabulary>. Think of the ろ as a hint. It's like saying you're on the \"road\" (ろ) and you're driving so fast you're leaving everything \"behind.\"",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nContinue to think you're driving on this road. You hit something, then look <vocabulary>behind</vocabulary> you, seeing you hit a cow. Know the word for cow in Japanese? It's うし, which is also the reading for this word.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BE%8C%E3%82%8D",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "後",
+      "id": 636,
+      "reading": "うし"
+    },
+    {
+      "type": "kana",
+      "value": "ろ"
+    }
+  ]
+}

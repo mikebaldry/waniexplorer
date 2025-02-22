@@ -1,54 +1,21 @@
 {
   "id": 2538,
   "type": "vocabulary",
-  "characters": "下手",
+  "level": 2,
+  "characters": {
+    "type": "text",
+    "value": "下手"
+  },
   "primaryMeaning": "Unskillful",
+  "meaningMnemonic": "Think of someone holding out their hand at shoulder level. Anything above that equals \"skillful.\" Everything below that equals \"unskillful.\" So, in the case of this word, \"below hand\" means <vocabulary>unskillful</vocabulary>.",
+  "primaryReading": "へた",
+  "readingMnemonic": "Sometimes kanji have exceptional readings that are neither on’yomi, nor kun’yomi, and this is one of them. So here’s a mnemonic to help you remember this reading:\n\nIf you're <vocabulary>bad at</vocabulary> something and you complain about it, then you're just a <reading>hater</reading> (へた). Don't be a hater; get better.",
   "otherMeanings": [
     "Unskilled",
     "Bad At"
   ],
-  "primaryReading": "へた",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 451,
-      "character": "下",
-      "readings": [
-        "か",
-        "げ",
-        "した",
-        "さ",
-        "くだ",
-        "お",
-        "しも",
-        "もと"
-      ]
-    },
-    {
-      "id": 474,
-      "character": "手",
-      "readings": [
-        "て",
-        "しゅ",
-        "ず"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Think of someone holding out their hand at shoulder level. Anything above that equals \"skillful.\" Everything below that equals \"unskillful.\" So, in the case of this word, \"below hand\" means <vocabulary>unskillful</vocabulary>.",
-  "readingMnemonic": "Sometimes kanji have exceptional readings that are neither on’yomi, nor kun’yomi, and this is one of them. So here’s a mnemonic to help you remember this reading:\n\nIf you're <vocabulary>bad at</vocabulary> something and you complain about it, then you're just a <reading>hater</reading> (へた). Don't be a hater; get better.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%8B%E6%89%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "下",
-      "id": 451,
-      "reading": null
-    },
-    {
-      "type": "kanji",
-      "value": "手",
-      "id": 474,
-      "reading": null
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B8%8B%E6%89%8B"
+  }
 }

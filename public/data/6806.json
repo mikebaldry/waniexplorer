@@ -1,32 +1,20 @@
 {
   "id": 6806,
   "type": "vocabulary",
-  "characters": "丘",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "丘"
+  },
   "primaryMeaning": "Hill",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "おか",
+  "readingMnemonic": "The reading for the vocab version of this word is the same as 岡 which has the same meaning and the same reading. Lucky! ",
   "otherMeanings": [
     "Knoll"
   ],
-  "primaryReading": "おか",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1888,
-      "character": "丘",
-      "readings": [
-        "きゅう",
-        "おか"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
-  "readingMnemonic": "The reading for the vocab version of this word is the same as 岡 which has the same meaning and the same reading. Lucky! ",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%98",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "丘",
-      "id": 1888,
-      "reading": "おか"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B8%98"
+  }
 }

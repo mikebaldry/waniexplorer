@@ -1,12 +1,15 @@
 {
   "id": 50,
   "type": "radical",
-  "primaryMeaning": "Book",
-  "otherMeanings": [],
-  "character": {
+  "level": 2,
+  "characters": {
     "type": "text",
     "value": "本"
   },
-  "meaningMnemonic": "There's a cut right at the base of this tree. Why would someone cut down a tree? To make a <radical>book</radical> out of it! Imagine living in the old days when you'd have to cut down a tree yourself to write or read a book.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/book"
+  "primaryMeaning": "Book",
+  "otherMeanings": [],
+  "meaningMnemonic": "What's something useful you can get out of a tree? A <radical>book</radical>! Just cut that book right out of the tree trunk. If you think about it, every tree contains unlimited book potential. It's just a shame they have to be cut down to make the books… ",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/book"
+  }
 }

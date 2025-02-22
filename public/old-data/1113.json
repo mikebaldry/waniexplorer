@@ -1,0 +1,34 @@
+{
+  "id": 1113,
+  "type": "kanji",
+  "character": "妻",
+  "primaryMeaning": "Wife",
+  "otherMeanings": [],
+  "primaryReading": "さい",
+  "readings": [
+    {
+      "reading": "さい",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "つま",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Wait a minute… She can't be dead because your <kanji>wife</kanji> is a <reading>cy</reading>borg (さい)! How could you forget?!",
+  "meaningMnemonic": "You place a <radical>cross</radical> on a <radical>Wolverine</radical> <radical>woman</radical>. She's gone now, but she was once your <kanji>wife</kanji>.",
+  "vocabularyIds": [
+    4279,
+    4280,
+    4281,
+    4282
+  ],
+  "radicalIds": [
+    15,
+    105,
+    19
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%A6%BB"
+}

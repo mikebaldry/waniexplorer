@@ -1,53 +1,22 @@
 {
   "id": 8663,
   "type": "vocabulary",
-  "characters": "以下",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "以下"
+  },
   "primaryMeaning": "Less Than",
+  "meaningMnemonic": "<kanji>Compared with</kanji> this, it's <kanji>below</kanji>. That's another way to say that what you have is <vocabulary>less than</vocabulary> it.",
+  "primaryReading": "いか",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Or Less",
     "Not Exceeding",
     "Below"
   ],
-  "primaryReading": "いか",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 653,
-      "character": "以",
-      "readings": [
-        "い"
-      ]
-    },
-    {
-      "id": 451,
-      "character": "下",
-      "readings": [
-        "か",
-        "げ",
-        "した",
-        "さ",
-        "くだ",
-        "お",
-        "しも",
-        "もと"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Compared with</kanji> this, it's <kanji>below</kanji>. That's another way to say that what you have is <vocabulary>less than</vocabulary> it.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BB%A5%E4%B8%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "以",
-      "id": 653,
-      "reading": "い"
-    },
-    {
-      "type": "kanji",
-      "value": "下",
-      "id": 451,
-      "reading": "か"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BB%A5%E4%B8%8B"
+  }
 }

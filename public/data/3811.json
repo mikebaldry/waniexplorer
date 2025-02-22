@@ -1,44 +1,20 @@
 {
   "id": 3811,
   "type": "vocabulary",
-  "characters": "字典",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "字典"
+  },
   "primaryMeaning": "Character Dictionary",
+  "meaningMnemonic": "<kanji>Letter</kanji> <kanji>rule</kanji>s can be found in a <vocabulary>character dictionary</vocabulary>. In Japanese, one kanji \"letter\" or \"character\" can hold a lot of information, so you have dictionaries dedicated to kanji meanings. That's what this is.\n\nThis word is a little old-fashioned these days, so you might also see 漢字辞典 used for a character dictionary. (You'll learn 辞典 soon, if you haven't already!)",
+  "primaryReading": "じてん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Kanji Dictionary"
   ],
-  "primaryReading": "じてん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 545,
-      "character": "字",
-      "readings": [
-        "じ"
-      ]
-    },
-    {
-      "id": 975,
-      "character": "典",
-      "readings": [
-        "てん"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Letter</kanji> <kanji>rule</kanji>s can be found in a <vocabulary>character dictionary</vocabulary>. In Japanese, one kanji \"letter\" or \"character\" can hold a lot of information, so you have dictionaries dedicated to kanji meanings. That's what this is.\n\nThis word is a little old-fashioned these days, so you might also see 漢字辞典 used for a character dictionary. (You'll learn 辞典 soon, if you haven't already!)",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AD%97%E5%85%B8",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "字",
-      "id": 545,
-      "reading": "じ"
-    },
-    {
-      "type": "kanji",
-      "value": "典",
-      "id": 975,
-      "reading": "てん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%AD%97%E5%85%B8"
+  }
 }

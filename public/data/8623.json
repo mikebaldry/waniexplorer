@@ -1,47 +1,21 @@
 {
   "id": 8623,
   "type": "vocabulary",
-  "characters": "拷問",
+  "level": 60,
+  "characters": {
+    "type": "text",
+    "value": "拷問"
+  },
   "primaryMeaning": "Torture",
+  "meaningMnemonic": "<kanji>Torture</kanji> may be a <kanji>problem</kanji> but that doesn't stop people from using <vocabulary>torture</vocabulary> to get their way.",
+  "primaryReading": "ごうもん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "The Rack",
     "Third Degree"
   ],
-  "primaryReading": "ごうもん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2443,
-      "character": "拷",
-      "readings": [
-        "ごう"
-      ]
-    },
-    {
-      "id": 859,
-      "character": "問",
-      "readings": [
-        "もん",
-        "と",
-        "とん"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Torture</kanji> may be a <kanji>problem</kanji> but that doesn't stop people from using <vocabulary>torture</vocabulary> to get their way.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8B%B7%E5%95%8F",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "拷",
-      "id": 2443,
-      "reading": "ごう"
-    },
-    {
-      "type": "kanji",
-      "value": "問",
-      "id": 859,
-      "reading": "もん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%8B%B7%E5%95%8F"
+  }
 }

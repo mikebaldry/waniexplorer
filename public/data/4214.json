@@ -1,52 +1,21 @@
 {
   "id": 4214,
   "type": "vocabulary",
-  "characters": "梅干し",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "梅干し"
+  },
   "primaryMeaning": "Pickled Plums",
+  "meaningMnemonic": "You know 梅 is a Japanese plum, and 干す means \"to dry something.\" So when you combine them as 梅干し, you get dried plums, right? Well, sort of. You have to pickle them before you dry them, so we can say 梅干し means <vocabulary>pickled plum</vocabulary> or <vocabulary>pickled ume</vocabulary>. And if you know the Japanese name, you can call it by that too: <vocabulary>umeboshi</vocabulary>.",
+  "primaryReading": "うめぼし",
+  "readingMnemonic": "The reading for this one, like the meaning, is kind of tricky. It uses two kun'yomi readings that you've learned before. So you have うめ plus ほし, which comes from 干す but gets rendaku'd to ぼし here. In other words, うめぼし. I guess the pickling process has mangled the reading of this word. But you'll just have to deal with it, because this food is as common as it is tasty! \n\nAlso, you might often see this written as 梅干, where the し gets shy or something and hides, but the reading stays the same: うめぼし.",
   "otherMeanings": [
     "Pickled Ume",
     "Umeboshi"
   ],
-  "primaryReading": "うめぼし",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1007,
-      "character": "梅",
-      "readings": [
-        "うめ",
-        "ばい"
-      ]
-    },
-    {
-      "id": 1014,
-      "character": "干",
-      "readings": [
-        "かん",
-        "ほ",
-        "ひ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You know 梅 is a Japanese plum, and 干す means \"to dry something.\" So when you combine them as 梅干し, you get dried plums, right? Well, sort of. You have to pickle them before you dry them, so we can say 梅干し means <vocabulary>pickled plum</vocabulary> or <vocabulary>pickled ume</vocabulary>. And if you know the Japanese name, you can call it by that too: <vocabulary>umeboshi</vocabulary>.",
-  "readingMnemonic": "The reading for this one, like the meaning, is kind of tricky. It uses two kun'yomi readings that you've learned before. So you have うめ plus ほし, which comes from 干す but gets rendaku'd to ぼし here. In other words, うめぼし. I guess the pickling process has mangled the reading of this word. But you'll just have to deal with it, because this food is as common as it is tasty! \n\nAlso, you might often see this written as 梅干, where the し gets shy or something and hides, but the reading stays the same: うめぼし.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%A2%85%E5%B9%B2%E3%81%97",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "梅",
-      "id": 1007,
-      "reading": "うめ"
-    },
-    {
-      "type": "kanji",
-      "value": "干",
-      "id": 1014,
-      "reading": "ぼ"
-    },
-    {
-      "type": "kana",
-      "value": "し"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%A2%85%E5%B9%B2%E3%81%97"
+  }
 }

@@ -1,0 +1,35 @@
+{
+  "id": 1243,
+  "type": "kanji",
+  "character": "述",
+  "primaryMeaning": "Mention",
+  "otherMeanings": [],
+  "primaryReading": "じゅつ",
+  "readings": [
+    {
+      "reading": "じゅつ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "の",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "\"I forgot to <kanji>mention</kanji>, you have to study nin<reading>jutsu</reading> (じゅつ)!\" the angel yells. But it's too late, there are ninjas jumping out of the bushes around you and taking you hostage.",
+  "meaningMnemonic": "On this <radical>scooter</radical>, there's an <radical>angel</radical> with a <radical>drop</radical> of sweat coming off of it, because it forgot to <kanji>mention</kanji> something to you! It seems like it's something important too, since they're sweating so much.",
+  "vocabularyIds": [
+    4741,
+    4742,
+    4743,
+    7952,
+    8077
+  ],
+  "radicalIds": [
+    114,
+    130,
+    3
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%BF%B0"
+}

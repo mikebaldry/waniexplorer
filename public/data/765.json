@@ -1,47 +1,55 @@
 {
   "id": 765,
   "type": "kanji",
-  "character": "読",
-  "primaryMeaning": "Read",
-  "otherMeanings": [],
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "読"
+  },
   "primaryReading": "よ",
   "readings": [
     {
-      "reading": "よ",
       "primary": true,
+      "reading": "よ",
       "type": "kunyomi"
     },
     {
+      "primary": false,
       "reading": "とう",
-      "primary": false,
       "type": "onyomi"
     },
     {
+      "primary": false,
       "reading": "どく",
-      "primary": false,
       "type": "onyomi"
     },
     {
-      "reading": "とく",
       "primary": false,
+      "reading": "とく",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "What are you forced to <kanji>read</kanji> aloud to sell? <reading>Yo-</reading>yo (よ) instructions! You’d think they’d be self explanatory, but there are actually a lot of rules and tricks that you have to read to get good at yo-yoing. Read all of these out loud so you can sell them.",
+  "primaryMeaning": "Read",
+  "otherMeanings": [],
   "meaningMnemonic": "You have to <radical>say</radical> what you’re <radical>sell</radical>ing because people don’t like to <kanji>read</kanji>. If they walk right by and don’t read, you better say what you have for sale so they’ll know! Read it out loud to them.",
-  "vocabularyIds": [
-    3215,
-    3216,
-    3521,
-    4144,
-    4986,
-    5372,
-    5516,
-    7485
-  ],
-  "radicalIds": [
-    117,
-    439
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%AA%AD"
+  "readingMnemonic": "What are you forced to <kanji>read</kanji> aloud to sell? <reading>Yo-</reading>yo (よ) instructions! You’d think they’d be self explanatory, but there are actually a lot of rules and tricks that you have to read to get good at yo-yoing. Read all of these out loud so you can sell them.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%AA%AD"
+  },
+  "related": {
+    "radicals": [
+      117,
+      439
+    ],
+    "vocabularies": [
+      3215,
+      3216,
+      3521,
+      4144,
+      4986,
+      5372,
+      5516,
+      7485
+    ]
+  }
 }

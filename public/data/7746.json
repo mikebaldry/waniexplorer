@@ -1,50 +1,22 @@
 {
   "id": 7746,
   "type": "vocabulary",
-  "characters": "昔話",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "昔話"
+  },
   "primaryMeaning": "Folk Tale",
+  "meaningMnemonic": "<kanji>Long ago</kanji> people used to <kanji>talk</kanji> about all sorts of things. Most of them weren't true. Long ago people liked to lie a lot. Now we call those things they talked about <vocabulary>folk tale</vocabulary>s and <vocabulary>legend</vocabulary>s. ",
+  "primaryReading": "むかしばなし",
+  "readingMnemonic": "The readings for this word are both kun'yomi readings. You learned them both already, so you should be able to read this on your own. Just watch out for the rendaku of はなし to ばなし.",
   "otherMeanings": [
     "Legend",
     "Old Story",
     "Folklore"
   ],
-  "primaryReading": "むかしばなし",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 792,
-      "character": "昔",
-      "readings": [
-        "むかし",
-        "せき",
-        "しゃく"
-      ]
-    },
-    {
-      "id": 705,
-      "character": "話",
-      "readings": [
-        "わ",
-        "はな",
-        "はなし"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Long ago</kanji> people used to <kanji>talk</kanji> about all sorts of things. Most of them weren't true. Long ago people liked to lie a lot. Now we call those things they talked about <vocabulary>folk tale</vocabulary>s and <vocabulary>legend</vocabulary>s. ",
-  "readingMnemonic": "The readings for this word are both kun'yomi readings. You learned them both already, so you should be able to read this on your own. Just watch out for the rendaku of はなし to ばなし.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%98%94%E8%A9%B1",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "昔",
-      "id": 792,
-      "reading": "むかし"
-    },
-    {
-      "type": "kanji",
-      "value": "話",
-      "id": 705,
-      "reading": "ばなし"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%98%94%E8%A9%B1"
+  }
 }

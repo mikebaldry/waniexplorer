@@ -1,12 +1,15 @@
 {
   "id": 22,
   "type": "radical",
-  "primaryMeaning": "Sun",
-  "otherMeanings": [],
-  "character": {
+  "level": 1,
+  "characters": {
     "type": "text",
     "value": "日"
   },
-  "meaningMnemonic": "Since there are no circles in Japanese characters, sometimes rectangles or squares have to make do. In this case, this big rectangle is the <radical>sun</radical>. The middle line going through the center horizontally is the equator. Or maybe it's a cloud, moving across the sun. Picture it, but don't actually look at the sun and burn your eyes!",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/sun"
+  "primaryMeaning": "Sun",
+  "otherMeanings": [],
+  "meaningMnemonic": "Since there are no circles in Japanese characters, sometimes rectangles or squares have to make do. In this case, this big rectangle is the <radical>sun</radical>. The middle line is a cloud, moving across the sun. Picture it, but don't actually look at the sun and burn your eyes!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/sun"
+  }
 }

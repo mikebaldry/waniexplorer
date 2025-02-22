@@ -1,31 +1,20 @@
 {
   "id": 8531,
   "type": "vocabulary",
-  "characters": "峠",
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "峠"
+  },
   "primaryMeaning": "Mountain Pass",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.\n\n峠 refers to a mountain pass, and often specifically the highest point of a <vocabulary>mountain pass</vocabulary>, where it passes between two mountains. When used figuratively, it means <vocabulary>the worst</vocabulary>, as in the toughest moment of a specific event, like the height of a health crisis or the hottest day of a heatwave.",
+  "primaryReading": "とうげ",
+  "readingMnemonic": "You climb along the <vocabulary>mountain pass</vocabulary> and see adorable little <reading>To</reading>kyo <reading>ge</reading>ckos (とうげ) climbing all over the place. They're climbing with you now!",
   "otherMeanings": [
     "The Worst"
   ],
-  "primaryReading": "とうげ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2402,
-      "character": "峠",
-      "readings": [
-        "とうげ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.\n\n峠 refers to a mountain pass, and often specifically the highest point of a <vocabulary>mountain pass</vocabulary>, where it passes between two mountains. When used figuratively, it means <vocabulary>the worst</vocabulary>, as in the toughest moment of a specific event, like the height of a health crisis or the hottest day of a heatwave.",
-  "readingMnemonic": "You climb along the <vocabulary>mountain pass</vocabulary> and see adorable little <reading>To</reading>kyo <reading>ge</reading>ckos (とうげ) climbing all over the place. They're climbing with you now!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B3%A0",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "峠",
-      "id": 2402,
-      "reading": "とうげ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%B3%A0"
+  }
 }

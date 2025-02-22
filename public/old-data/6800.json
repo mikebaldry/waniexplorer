@@ -1,0 +1,35 @@
+{
+  "id": 6800,
+  "type": "vocabulary",
+  "characters": "俺たち",
+  "primaryMeaning": "We",
+  "otherMeanings": [
+    "Us"
+  ],
+  "primaryReading": "おれたち",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1883,
+      "character": "俺",
+      "readings": [
+        "おれ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When たち is attached to a word referring to a person, it makes it plural. So, when you attach たち to 俺 (<kanji>I</kanji>), it means <vocabulary>we</vocabulary> or <vocabulary>us</vocabulary>.\n\nJust remember that 俺 is quite casual and rough sounding, so it's best to only use it with close friends (or when you're shaking someone down...).",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BF%BA%E3%81%9F%E3%81%A1",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "俺",
+      "id": 1883,
+      "reading": "おれ"
+    },
+    {
+      "type": "kana",
+      "value": "たち"
+    }
+  ]
+}

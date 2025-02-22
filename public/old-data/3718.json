@@ -1,0 +1,45 @@
+{
+  "id": 3718,
+  "type": "vocabulary",
+  "characters": "予約",
+  "primaryMeaning": "Reservation",
+  "otherMeanings": [
+    "Appointment"
+  ],
+  "primaryReading": "よやく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 854,
+      "character": "予",
+      "readings": [
+        "よ",
+        "あらかじ"
+      ]
+    },
+    {
+      "id": 915,
+      "character": "約",
+      "readings": [
+        "やく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>beforehand</kanji> <kanji>promise</kanji> is a promise you've made beforehand. This is a <vocabulary>reservation</vocabulary> or <vocabulary>appointment</vocabulary>. Makes sense, right?",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BA%88%E7%B4%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "予",
+      "id": 854,
+      "reading": "よ"
+    },
+    {
+      "type": "kanji",
+      "value": "約",
+      "id": 915,
+      "reading": "やく"
+    }
+  ]
+}

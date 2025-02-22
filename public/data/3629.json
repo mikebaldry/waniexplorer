@@ -1,48 +1,21 @@
 {
   "id": 3629,
   "type": "vocabulary",
-  "characters": "選手",
+  "level": 13,
+  "characters": {
+    "type": "text",
+    "value": "選手"
+  },
   "primaryMeaning": "Pro Athlete",
+  "meaningMnemonic": "Remember how 手 can mean \"doer\" in some words? Well this is one of them. In sports, you must <kanji>choose</kanji> the best <kanji>doer</kanji> for your team. In the world of sports, these \"chosen doers\" are the  <vocabulary>pro athlete</vocabulary>s and  <vocabulary>sports player </vocabulary>s.",
+  "primaryReading": "せんしゅ",
+  "readingMnemonic": "The reading for 選 is what you'd expect. 手 is the on'yomi reading as it is every once in a while, especially when it has to do with representing a person, so you'll have to remember that. I think you've seen 手 using this reading enough to be able to remember it, though.",
   "otherMeanings": [
     "Sports Player",
     "Professional Athlete"
   ],
-  "primaryReading": "せんしゅ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 886,
-      "character": "選",
-      "readings": [
-        "せん",
-        "えら"
-      ]
-    },
-    {
-      "id": 474,
-      "character": "手",
-      "readings": [
-        "て",
-        "しゅ",
-        "ず"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Remember how 手 can mean \"doer\" in some words? Well this is one of them. In sports, you must <kanji>choose</kanji> the best <kanji>doer</kanji> for your team. In the world of sports, these \"chosen doers\" are the  <vocabulary>pro athlete</vocabulary>s and  <vocabulary>sports player </vocabulary>s.",
-  "readingMnemonic": "The reading for 選 is what you'd expect. 手 is the on'yomi reading as it is every once in a while, especially when it has to do with representing a person, so you'll have to remember that. I think you've seen 手 using this reading enough to be able to remember it, though.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%81%B8%E6%89%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "選",
-      "id": 886,
-      "reading": "せん"
-    },
-    {
-      "type": "kanji",
-      "value": "手",
-      "id": 474,
-      "reading": "しゅ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%81%B8%E6%89%8B"
+  }
 }

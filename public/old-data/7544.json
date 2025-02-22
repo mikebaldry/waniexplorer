@@ -1,0 +1,35 @@
+{
+  "id": 7544,
+  "type": "vocabulary",
+  "characters": "伝",
+  "primaryMeaning": "Intermediary",
+  "otherMeanings": [
+    "Connections",
+    "Contacts",
+    "Go Between"
+  ],
+  "primaryReading": "つて",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 777,
+      "character": "伝",
+      "readings": [
+        "でん",
+        "つた",
+        "つて"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you get someone to <kanji>transmit</kanji> information, they're a type of <vocabulary>intermediary</vocabulary>, a <vocabulary>go-between</vocabulary>, if you will.",
+  "readingMnemonic": "When a vocab word is a single kanji with no okurigana, it takes the kun'yomi reading. You didn't learn this one yet, so here's a mnemonic to help you remember: \n\nWhen the <vocabulary>go-between</vocabulary> gets back and is about to tell you everything the other group said, it takes him <reading>two ta</reading>kes (つて) to get it all right. The other group had a lot to say and he had trouble getting it all on the first take, but he totally nailed it on the second.\n\nLittle side note: this word is actually more common in katakana, as in ツテ, or hiragana, as in つて. Still, you might see it in kanji too, and it's good if you can read it!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BC%9D",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "伝",
+      "id": 777,
+      "reading": "つて"
+    }
+  ]
+}

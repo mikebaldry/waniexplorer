@@ -1,0 +1,38 @@
+{
+  "id": 654,
+  "type": "kanji",
+  "character": "失",
+  "primaryMeaning": "Fault",
+  "otherMeanings": [],
+  "primaryReading": "しつ",
+  "readings": [
+    {
+      "reading": "しつ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "うしな",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You try to come up with another <kanji>fault</kanji> of his so you can complain, when you see a tiny <reading>shih tzu</reading> (しつ) trotting by. Oh no! Before you can call out, your husband has fallen off the slide and crushed the poor thing. You hear a sharp yelp and then nothing.",
+  "meaningMnemonic": "That <radical>slide</radical> is your <radical>husband</radical>'s only <kanji>fault</kanji>. He loves that slide, more than you, and it's the only thing you don't like about him.",
+  "vocabularyIds": [
+    2941,
+    2942,
+    3687,
+    3998,
+    4006,
+    4206,
+    4574,
+    5967,
+    6577
+  ],
+  "radicalIds": [
+    5,
+    146
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%A4%B1"
+}

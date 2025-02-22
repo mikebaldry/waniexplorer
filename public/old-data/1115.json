@@ -1,0 +1,34 @@
+{
+  "id": 1115,
+  "type": "kanji",
+  "character": "犯",
+  "primaryMeaning": "Crime",
+  "otherMeanings": [],
+  "primaryReading": "はん",
+  "readings": [
+    {
+      "reading": "はん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "おか",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "This snake has evaded the law for too long. It’s time for a true hero to put an end to its <kanji>crime</kanji> spree. Enter <reading>Han</reading> (はん) Solo. Han Solo is the only man strong and brave enough to put an end to this snake and his crime filled ways.",
+  "meaningMnemonic": "In the <radical>animal</radical> kingdom, a <radical>snake</radical> is the most likely to commit a <kanji>crime</kanji>. Remember the Garden of Eden? The snake was the bad guy. Ever since then, snakes are the animal most known for committing crimes.",
+  "vocabularyIds": [
+    4304,
+    4305,
+    4306,
+    4322,
+    4485
+  ],
+  "radicalIds": [
+    144,
+    158
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%8A%AF"
+}

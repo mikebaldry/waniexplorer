@@ -1,48 +1,20 @@
 {
   "id": 5796,
   "type": "vocabulary",
-  "characters": "発揮する",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "発揮する"
+  },
   "primaryMeaning": "To Exhibit",
+  "meaningMnemonic": "<kanji>Departure</kanji> and <kanji>brandish</kanji> this thing. This means you're sending something out to show to everyone. That's why this is <vocabulary>to exhibit</vocabulary> or <vocabulary>to demonstrate</vocabulary> (because when you brandish, and send it out to show, you're demonstrating it!).",
+  "primaryReading": "はっきする",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. The はつ becomes はっ, though.",
   "otherMeanings": [
     "To Demonstrate"
   ],
-  "primaryReading": "はっきする",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 729,
-      "character": "発",
-      "readings": [
-        "はつ"
-      ]
-    },
-    {
-      "id": 1566,
-      "character": "揮",
-      "readings": [
-        "き"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Departure</kanji> and <kanji>brandish</kanji> this thing. This means you're sending something out to show to everyone. That's why this is <vocabulary>to exhibit</vocabulary> or <vocabulary>to demonstrate</vocabulary> (because when you brandish, and send it out to show, you're demonstrating it!).",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. The はつ becomes はっ, though.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%99%BA%E6%8F%AE%E3%81%99%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "発",
-      "id": 729,
-      "reading": null
-    },
-    {
-      "type": "kanji",
-      "value": "揮",
-      "id": 1566,
-      "reading": null
-    },
-    {
-      "type": "kana",
-      "value": "する"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%99%BA%E6%8F%AE%E3%81%99%E3%82%8B"
+  }
 }

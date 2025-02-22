@@ -1,0 +1,38 @@
+{
+  "id": 3845,
+  "type": "vocabulary",
+  "characters": "治す",
+  "primaryMeaning": "To Cure",
+  "otherMeanings": [
+    "To Heal",
+    "To Ease"
+  ],
+  "primaryReading": "なおす",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 978,
+      "character": "治",
+      "readings": [
+        "じ",
+        "ち",
+        "なお"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. \n\nThe kanji itself means <kanji>cure</kanji>, and this verb means <vocabulary>to cure</vocabulary>, <vocabulary>to heal</vocabulary> or <vocabulary>to ease</vocabulary> something. This particular verb is when someone does the curing. The illness or injury doesn't just get better by itself. How can you remember that? Because when you try to heal someone and you mess up, they can try to <reading>sue</reading> (す) you.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you:\n\nI need you <vocabulary>to heal</vocabulary> him, and I need you to heal him right <reading>now</reading> (なお). NOW NOW NOW! \n\nThis also shares the reading for 直す, a very similar word you learned previously, which means \"to fix.\" I'm guessing that the Japanese word なおす was only one word (\"to fix\" and \"to cure\" are pretty similar, right?). Then, there were two Chinese words for it (as you can see with the kanji), so the one Japanese word got split into two very similar words.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B2%BB%E3%81%99",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "治",
+      "id": 978,
+      "reading": "なお"
+    },
+    {
+      "type": "kana",
+      "value": "す"
+    }
+  ]
+}

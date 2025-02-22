@@ -1,43 +1,18 @@
 {
   "id": 4988,
   "type": "vocabulary",
-  "characters": "針医",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "針医"
+  },
   "primaryMeaning": "Acupuncturist",
-  "otherMeanings": [],
-  "primaryReading": "はりい",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1300,
-      "character": "針",
-      "readings": [
-        "しん",
-        "はり"
-      ]
-    },
-    {
-      "id": 681,
-      "character": "医",
-      "readings": [
-        "い"
-      ]
-    }
-  ],
   "meaningMnemonic": "<kanji>Needle</kanji> <kanji>medicine</kanji> is when you stick needles into people to cure them. This is done via an <vocabulary>acupuncturist</vocabulary>.",
+  "primaryReading": "はりい",
   "readingMnemonic": "This word uses the kun'yomi reading for 針 and the on'yomi reading for 医. You haven't learned this reading for 針 yet, so here's a mnemonic to help you:\n\nIf you do <vocabulary>acupuncture</vocabulary> and stick a bunch of needles in your back it's going to look really <reading>hairy</reading> (はり). Needles look just like metal hairs when they're coming out of someone. Just picture hairy little needles all over your body and you'll never forget this reading!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%87%9D%E5%8C%BB",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "針",
-      "id": 1300,
-      "reading": "はり"
-    },
-    {
-      "type": "kanji",
-      "value": "医",
-      "id": 681,
-      "reading": "い"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%87%9D%E5%8C%BB"
+  }
 }

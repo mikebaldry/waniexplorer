@@ -1,0 +1,36 @@
+{
+  "id": 6441,
+  "type": "vocabulary",
+  "characters": "褒める",
+  "primaryMeaning": "To Praise",
+  "otherMeanings": [
+    "To Compliment"
+  ],
+  "primaryReading": "ほめる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1770,
+      "character": "褒",
+      "readings": [
+        "ほう",
+        "ほ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>praise</kanji> and the verb vocab version is <vocabulary>to praise</vocabulary>.",
+  "readingMnemonic": "If you are going <vocabulary>to praise</vocabulary> this guy in front of you, it would have to be for his amazing <reading>hoe</reading>-using (ほ) abilities. Look at him go with that hoe.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A4%92%E3%82%81%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "褒",
+      "id": 1770,
+      "reading": "ほ"
+    },
+    {
+      "type": "kana",
+      "value": "める"
+    }
+  ]
+}

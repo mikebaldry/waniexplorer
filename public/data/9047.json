@@ -1,38 +1,21 @@
 {
   "id": 9047,
   "type": "vocabulary",
-  "characters": "我が〜",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "我が〜"
+  },
   "primaryMeaning": "Our",
+  "meaningMnemonic": "Here we have <kanji>I</kanji> followed by the particle が, giving us a somewhat old-fashioned and stylized way of say <vocabulary>our</vocabulary>, <vocabulary>one's own</vocabulary>, or <vocabulary>my</vocabulary>.\n\nOne explanation for this is that in ancient Japanese, が was used as a possessive particle, much like の is in modern Japanese. ",
+  "primaryReading": "わが",
+  "readingMnemonic": "You haven't learned this reading for 我 so here's a mnemonic to help you:\n\nLet us present you with <vocabulary>our</vocabulary> <reading>wa</reading>lrus (わ). Well it's <vocabulary>my</vocabulary> walrus really, but I'm happy to share.",
   "otherMeanings": [
     "One's Own",
     "My"
   ],
-  "primaryReading": "わが",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1294,
-      "character": "我",
-      "readings": [
-        "が",
-        "われ",
-        "わ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Here we have <kanji>I</kanji> followed by the particle が, giving us a somewhat old-fashioned and stylized way of say <vocabulary>our</vocabulary>, <vocabulary>one's own</vocabulary>, or <vocabulary>my</vocabulary>.\n\nOne explanation for this is that in ancient Japanese, が was used as a possessive particle, much like の is in modern Japanese. ",
-  "readingMnemonic": "You haven't learned this reading for 我 so here's a mnemonic to help you:\n\nLet us present you with <vocabulary>our</vocabulary> <reading>wa</reading>lrus (わ). Well it's <vocabulary>my</vocabulary> walrus really, but I'm happy to share.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%88%91%E3%81%8C%E3%80%9C",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "我",
-      "id": 1294,
-      "reading": "わ"
-    },
-    {
-      "type": "kana",
-      "value": "が"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%88%91%E3%81%8C%E3%80%9C"
+  }
 }

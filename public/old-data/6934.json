@@ -1,0 +1,61 @@
+{
+  "id": 6934,
+  "type": "vocabulary",
+  "characters": "親孝行",
+  "primaryMeaning": "Filial Piety",
+  "otherMeanings": [],
+  "primaryReading": "おやこうこう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 770,
+      "character": "親",
+      "readings": [
+        "しん",
+        "おや",
+        "した"
+      ]
+    },
+    {
+      "id": 1747,
+      "character": "孝",
+      "readings": [
+        "こう"
+      ]
+    },
+    {
+      "id": 580,
+      "character": "行",
+      "readings": [
+        "こう",
+        "ぎょう",
+        "い",
+        "おこな",
+        "ゆ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You know how 孝行 is \"filial piety,\" right? Well, this is basically the same thing. You're just showing said filial piety to your <kanji>parent</kanji>s, which, of course, is what filial piety means. That makes this word mean <vocabulary>filial piety</vocabulary>.",
+  "readingMnemonic": "The reading is 孝行 plus the kun'yomi of 親. Put them together and you'll become a good filial child.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A6%AA%E5%AD%9D%E8%A1%8C",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "親",
+      "id": 770,
+      "reading": "おや"
+    },
+    {
+      "type": "kanji",
+      "value": "孝",
+      "id": 1747,
+      "reading": "こう"
+    },
+    {
+      "type": "kanji",
+      "value": "行",
+      "id": 580,
+      "reading": "こう"
+    }
+  ]
+}

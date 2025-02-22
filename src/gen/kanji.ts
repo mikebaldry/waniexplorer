@@ -1,6 +1,7 @@
 import * as WK from "./wanikani_subjects";
-import * as DB from "./subjects";
-import { SearchDocument, SearchResultCharactersType, SearchResultType } from "./search_result";
+import * as DB from "../db/subjects";
+import { SearchDocument, SearchResultType } from "../db/search_result";
+import { CharactersType, TextCharacters } from "../db/characters";
 
 export default async function handle(subject: WK.KanjiSubject): Promise<[SearchDocument, DB.KanjiSubject]> {
   const primaryMeaning = subject.data.meanings.find((m) => m.primary);
@@ -22,13 +23,15 @@ export default async function handle(subject: WK.KanjiSubject): Promise<[SearchD
   const relatedRadicalIds = subject.data.component_subject_ids;
   const relatedVocabularyIds = subject.data.amalgamation_subject_ids;
 
+  const characters: TextCharacters = { type: CharactersType.TEXT, value: subject.data.characters };
+
   const searchResult = {
     id: subject.id,
     type: SearchResultType.KANJI,
     level: subject.data.level,
     primarySearch: [primaryMeaning.meaning, primaryReading.reading, subject.data.characters],
     secondarySearch: [...otherMeanings, ...otherReadings],
-    characters: { type: SearchResultCharactersType.TEXT, value: subject.data.characters },
+    characters: characters,
     description: primaryMeaning.meaning,
     related: {
       radical: relatedRadicalIds,
@@ -37,10 +40,25 @@ export default async function handle(subject: WK.KanjiSubject): Promise<[SearchD
     }
   };
 
-  const dbSubject = {
+  const dbSubject: DB.KanjiSubject = {
     id: subject.id,
-    type: DB.SubjectType.KANJI
-  } as DB.KanjiSubject;
+    type: DB.SubjectType.KANJI,
+    level: subject.data.level,
+    characters: characters,
+    primaryReading: primaryReading.reading,
+    readings: subject.data.readings.map((r) => { return { primary: r.primary, reading: r.reading, type: r.type } }),
+    primaryMeaning: primaryMeaning.meaning,
+    otherMeanings: subject.data.meanings.filter((m) => !m.primary).map((m) => { return m.meaning }),
+    meaningMnemonic: subject.data.meaning_mnemonic,
+    readingMnemonic: subject.data.reading_mnemonic,
+    urls: {
+      wanikani: subject.data.document_url
+    },
+    related: {
+      radicals: relatedRadicalIds,
+      vocabularies: relatedVocabularyIds
+    }
+  };
 
   return [searchResult, dbSubject];
 }

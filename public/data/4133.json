@@ -1,50 +1,21 @@
 {
   "id": 4133,
   "type": "vocabulary",
-  "characters": "一等",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "一等"
+  },
   "primaryMeaning": "First Class",
+  "meaningMnemonic": "When you're <kanji>equal</kanji> to <kanji>one</kanji> you are the very top. You are <vocabulary>first class</vocabulary> and <vocabulary>first rank</vocabulary>. In fact, you are <vocabulary>the best</vocabulary>.",
+  "primaryReading": "いっとう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. いち gets shortened to いっ though, so watch out for that if you want to remain <vocabulary>the best</vocabulary>, yeah?",
   "otherMeanings": [
     "First Rank",
     "The Best"
   ],
-  "primaryReading": "いっとう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 440,
-      "character": "一",
-      "readings": [
-        "いち",
-        "いつ",
-        "ひと",
-        "かず"
-      ]
-    },
-    {
-      "id": 1037,
-      "character": "等",
-      "readings": [
-        "とう",
-        "ひと",
-        "など"
-      ]
-    }
-  ],
-  "meaningMnemonic": "When you're <kanji>equal</kanji> to <kanji>one</kanji> you are the very top. You are <vocabulary>first class</vocabulary> and <vocabulary>first rank</vocabulary>. In fact, you are <vocabulary>the best</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. いち gets shortened to いっ though, so watch out for that if you want to remain <vocabulary>the best</vocabulary>, yeah?",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%80%E7%AD%89",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "一",
-      "id": 440,
-      "reading": "いっ"
-    },
-    {
-      "type": "kanji",
-      "value": "等",
-      "id": 1037,
-      "reading": "とう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B8%80%E7%AD%89"
+  }
 }

@@ -1,47 +1,20 @@
 {
   "id": 5387,
   "type": "vocabulary",
-  "characters": "騒音",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "騒音"
+  },
   "primaryMeaning": "Noise",
+  "meaningMnemonic": "<kanji>Boisterous</kanji> <kanji>sound</kanji> is when there's a lot of <vocabulary>noise</vocabulary> around you. It's the <vocabulary>din</vocabulary> of the crowd or environment.",
+  "primaryReading": "そうおん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Din"
   ],
-  "primaryReading": "そうおん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1439,
-      "character": "騒",
-      "readings": [
-        "そう",
-        "さわ"
-      ]
-    },
-    {
-      "id": 606,
-      "character": "音",
-      "readings": [
-        "おん",
-        "おと",
-        "ね"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Boisterous</kanji> <kanji>sound</kanji> is when there's a lot of <vocabulary>noise</vocabulary> around you. It's the <vocabulary>din</vocabulary> of the crowd or environment.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%A8%92%E9%9F%B3",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "騒",
-      "id": 1439,
-      "reading": "そう"
-    },
-    {
-      "type": "kanji",
-      "value": "音",
-      "id": 606,
-      "reading": "おん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%A8%92%E9%9F%B3"
+  }
 }

@@ -1,0 +1,37 @@
+{
+  "id": 6067,
+  "type": "vocabulary",
+  "characters": "執る",
+  "primaryMeaning": "To Take Control",
+  "otherMeanings": [
+    "To Carry Out"
+  ],
+  "primaryReading": "とる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1649,
+      "character": "執",
+      "readings": [
+        "しゅう",
+        "しつ",
+        "と"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you are <kanji>tenacious</kanji> you will be able <vocabulary>to take control</vocabulary> of and <vocabulary>to carry out</vocabulary> any plan you want. You are tenacious, you are.",
+  "readingMnemonic": "Notice how the word \"take\" is in this verb. If you take something, you might say 取る. This word shares take's reading.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%9F%B7%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "執",
+      "id": 1649,
+      "reading": "と"
+    },
+    {
+      "type": "kana",
+      "value": "る"
+    }
+  ]
+}

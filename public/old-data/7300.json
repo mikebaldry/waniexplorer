@@ -1,0 +1,46 @@
+{
+  "id": 7300,
+  "type": "vocabulary",
+  "characters": "気概",
+  "primaryMeaning": "Strong Spirit",
+  "otherMeanings": [
+    "Backbone"
+  ],
+  "primaryReading": "きがい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 548,
+      "character": "気",
+      "readings": [
+        "き",
+        "け"
+      ]
+    },
+    {
+      "id": 2064,
+      "character": "概",
+      "readings": [
+        "がい",
+        "おおむ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>spirit</kanji> of <kanji>approximation</kanji> is the approximation of spirit. My approximation of your spirit? I think you have a <vocabulary>strong spirit</vocabulary>. I think you have <vocabulary>backbone</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B0%97%E6%A6%82",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "気",
+      "id": 548,
+      "reading": "き"
+    },
+    {
+      "type": "kanji",
+      "value": "概",
+      "id": 2064,
+      "reading": "がい"
+    }
+  ]
+}

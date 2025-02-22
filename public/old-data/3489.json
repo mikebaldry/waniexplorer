@@ -1,0 +1,59 @@
+{
+  "id": 3489,
+  "type": "vocabulary",
+  "characters": "間に合う",
+  "primaryMeaning": "To Be In Time For",
+  "otherMeanings": [
+    "To Make It On Time",
+    "To Be On Time For"
+  ],
+  "primaryReading": "まにあう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 701,
+      "character": "間",
+      "readings": [
+        "かん",
+        "けん",
+        "あいだ",
+        "ま"
+      ]
+    },
+    {
+      "id": 852,
+      "character": "合",
+      "readings": [
+        "ごう",
+        "がっ",
+        "あ",
+        "あい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "There is an <kanji>interval</kanji> (of time) that you need \"to suit\" (合う). To suit that interval, you need to be there before the time in question. That's why this word means <vocabulary>to be in time for</vocabulary>, <vocabulary>to make it on time</vocabulary> or <vocabulary>to be on time for</vocabulary>.\n",
+  "readingMnemonic": "You learned this reading for 間 when you learned 間もなく. And the reading for 合う is just that of the word 合う. If you remember them both, you'll remember this word!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%96%93%E3%81%AB%E5%90%88%E3%81%86",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "間",
+      "id": 701,
+      "reading": "ま"
+    },
+    {
+      "type": "kana",
+      "value": "に"
+    },
+    {
+      "type": "kanji",
+      "value": "合",
+      "id": 852,
+      "reading": "あ"
+    },
+    {
+      "type": "kana",
+      "value": "う"
+    }
+  ]
+}

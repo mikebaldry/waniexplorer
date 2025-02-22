@@ -1,34 +1,42 @@
 {
   "id": 577,
   "type": "kanji",
-  "character": "肉",
-  "primaryMeaning": "Meat",
-  "otherMeanings": [],
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "肉"
+  },
   "primaryReading": "にく",
   "readings": [
     {
-      "reading": "にく",
       "primary": true,
+      "reading": "にく",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "You know there's people-eating going on here, with this kanji. So, when you think of this <kanji>meat</kanji>, you'll have to think about whose meat it is. In this case, it's <reading>Nick</reading>'s (にく) meat.",
+  "primaryMeaning": "Meat",
+  "otherMeanings": [],
   "meaningMnemonic": "The <radical>meat</radical> radical and <kanji>meat</kanji> are the same in looks as well as in meaning.",
-  "vocabularyIds": [
-    2767,
-    2768,
-    2769,
-    3119,
-    4118,
-    4971,
-    5532,
-    5591,
-    5628,
-    8176,
-    8512
-  ],
-  "radicalIds": [
-    108
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%82%89"
+  "readingMnemonic": "You know who loves <kanji>meat</kanji>? <reading>Nick</reading> (にく). You probably know a Nick — imagine him eating some succulent meat right now.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%82%89"
+  },
+  "related": {
+    "radicals": [
+      108
+    ],
+    "vocabularies": [
+      2767,
+      2768,
+      2769,
+      3119,
+      4118,
+      4971,
+      5532,
+      5591,
+      5628,
+      8176,
+      8512
+    ]
+  }
 }

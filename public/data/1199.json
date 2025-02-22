@@ -1,31 +1,39 @@
 {
   "id": 1199,
   "type": "kanji",
-  "character": "看",
-  "primaryMeaning": "Watch Over",
-  "otherMeanings": [],
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "看"
+  },
   "primaryReading": "かん",
   "readings": [
     {
-      "reading": "かん",
       "primary": true,
+      "reading": "かん",
       "type": "onyomi"
     },
     {
-      "reading": "み",
       "primary": false,
+      "reading": "み",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "As you <kanji>watch over</kanji> your friends and neighbors you see movement in the distance. Oh no, it's Genghis <reading>Khan</reading> (かん) and his army!",
+  "primaryMeaning": "Watch Over",
+  "otherMeanings": [],
   "meaningMnemonic": "Put your <radical>hand</radical> over your <radical>eye</radical> to <kanji>watch over</kanji> others.",
-  "vocabularyIds": [
-    4605,
-    5241
-  ],
-  "radicalIds": [
-    41,
-    53
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%9C%8B"
+  "readingMnemonic": "As you <kanji>watch over</kanji> your friends and neighbors you see movement in the distance. Oh no, it's Genghis <reading>Khan</reading> (かん) and his army!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%9C%8B"
+  },
+  "related": {
+    "radicals": [
+      41,
+      53
+    ],
+    "vocabularies": [
+      4605,
+      5241
+    ]
+  }
 }

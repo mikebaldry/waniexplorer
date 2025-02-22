@@ -1,0 +1,46 @@
+{
+  "id": 8478,
+  "type": "vocabulary",
+  "characters": "濁流",
+  "primaryMeaning": "Muddy Stream",
+  "otherMeanings": [],
+  "primaryReading": "だくりゅう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2372,
+      "character": "濁",
+      "readings": [
+        "だく",
+        "じょく",
+        "にご"
+      ]
+    },
+    {
+      "id": 818,
+      "character": "流",
+      "readings": [
+        "りゅう",
+        "る",
+        "なが"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>muddy</kanji> <kanji>stream</kanji> is a <vocabulary>muddy stream</vocabulary>!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%BF%81%E6%B5%81",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "濁",
+      "id": 2372,
+      "reading": "だく"
+    },
+    {
+      "type": "kanji",
+      "value": "流",
+      "id": 818,
+      "reading": "りゅう"
+    }
+  ]
+}

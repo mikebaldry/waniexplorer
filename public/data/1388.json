@@ -1,26 +1,34 @@
 {
   "id": 1388,
   "type": "kanji",
-  "character": "韓",
-  "primaryMeaning": "Korea",
-  "otherMeanings": [],
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "韓"
+  },
   "primaryReading": "かん",
   "readings": [
     {
-      "reading": "かん",
       "primary": true,
+      "reading": "かん",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "<kanji>Korea</kanji> is still here today on this beautiful morning because of Genghis <reading>Khan</reading> (かん). When he was conquering all that land in Asia and Europe he looked at Korea in the morning light and said, \"Nah, they can keep it.\"",
+  "primaryMeaning": "Korea",
+  "otherMeanings": [],
   "meaningMnemonic": "In the <radical>morning</radical>, <radical>Korea</radical> will still be <kanji>Korea</kanji>.",
-  "vocabularyIds": [
-    5294,
-    5295
-  ],
-  "radicalIds": [
-    8793,
-    294
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%9F%93"
+  "readingMnemonic": "<kanji>Korea</kanji> is still here today on this beautiful morning because of Genghis <reading>Khan</reading> (かん). When he was conquering all that land in Asia and Europe he looked at Korea in the morning light and said, \"Nah, they can keep it.\"",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%9F%93"
+  },
+  "related": {
+    "radicals": [
+      8793,
+      294
+    ],
+    "vocabularies": [
+      5294,
+      5295
+    ]
+  }
 }

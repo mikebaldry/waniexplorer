@@ -1,63 +1,21 @@
 {
   "id": 8706,
   "type": "vocabulary",
-  "characters": "文化祭",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "文化祭"
+  },
   "primaryMeaning": "School Festival",
+  "meaningMnemonic": "Remember how 文化 means \"culture?\" Well add <kanji>festival</kanji> to it and you end up with a <vocabulary>culture festival</vocabulary>! These happen all the time at Japanese schools, so sometimes they're called <vocabulary>school festival</vocabulary>s too.",
+  "primaryReading": "ぶんかさい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You've learned all of these readings already, good for you!",
   "otherMeanings": [
     "Culture Festival",
     "Arts Festival"
   ],
-  "primaryReading": "ぶんかさい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 475,
-      "character": "文",
-      "readings": [
-        "ぶん",
-        "もん",
-        "ふみ"
-      ]
-    },
-    {
-      "id": 607,
-      "character": "化",
-      "readings": [
-        "か",
-        "ば"
-      ]
-    },
-    {
-      "id": 823,
-      "character": "祭",
-      "readings": [
-        "さい",
-        "まつり",
-        "まつ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Remember how 文化 means \"culture?\" Well add <kanji>festival</kanji> to it and you end up with a <vocabulary>culture festival</vocabulary>! These happen all the time at Japanese schools, so sometimes they're called <vocabulary>school festival</vocabulary>s too.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You've learned all of these readings already, good for you!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%96%87%E5%8C%96%E7%A5%AD",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "文",
-      "id": 475,
-      "reading": "ぶん"
-    },
-    {
-      "type": "kanji",
-      "value": "化",
-      "id": 607,
-      "reading": "か"
-    },
-    {
-      "type": "kanji",
-      "value": "祭",
-      "id": 823,
-      "reading": "さい"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%96%87%E5%8C%96%E7%A5%AD"
+  }
 }

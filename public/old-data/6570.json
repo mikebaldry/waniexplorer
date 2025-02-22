@@ -1,0 +1,46 @@
+{
+  "id": 6570,
+  "type": "vocabulary",
+  "characters": "克明",
+  "primaryMeaning": "Detailed",
+  "otherMeanings": [],
+  "primaryReading": "こくめい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1804,
+      "character": "克",
+      "readings": [
+        "こく"
+      ]
+    },
+    {
+      "id": 626,
+      "character": "明",
+      "readings": [
+        "めい",
+        "みょう",
+        "あ",
+        "あか",
+        "あき"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you're <kanji>overcome</kanji> with <kanji>bright</kanji>ness, you'll be able to see all the little fine <vocabulary>detailed</vocabulary> things.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%85%8B%E6%98%8E",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "克",
+      "id": 1804,
+      "reading": "こく"
+    },
+    {
+      "type": "kanji",
+      "value": "明",
+      "id": 626,
+      "reading": "めい"
+    }
+  ]
+}

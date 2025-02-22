@@ -1,0 +1,37 @@
+{
+  "id": 8632,
+  "type": "vocabulary",
+  "characters": "湧く",
+  "primaryMeaning": "To Well Up",
+  "otherMeanings": [
+    "To Gush Out",
+    "To Arise"
+  ],
+  "primaryReading": "わく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2447,
+      "character": "湧",
+      "readings": [
+        "ゆう",
+        "わ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji itself means <kanji>well up</kanji>, and this is also <vocabulary>to well up</vocabulary> or <vocabulary>to gush out</vocabulary>.\n\nRemember us talking about courage welling up in the kanji mnemonic? This word can also be used for that kind of figurative welling up, like of emotions, which is where the meaning <vocabulary>to arise</vocabulary> comes from.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nYou're fishing in a hole in the ice when suddenly the water starts <vocabulary>to well up</vocabulary> and <vocabulary>to gush out</vocabulary> of it. A huge <reading>wa</reading>lrus (わ) splashes out and jumps on you. No wonder there weren't any fish! This is a walrus hole.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B9%A7%E3%81%8F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "湧",
+      "id": 2447,
+      "reading": "わ"
+    },
+    {
+      "type": "kana",
+      "value": "く"
+    }
+  ]
+}

@@ -1,47 +1,20 @@
 {
   "id": 8815,
   "type": "vocabulary",
-  "characters": "伝記",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "伝記"
+  },
   "primaryMeaning": "Biography",
+  "meaningMnemonic": "If you want to <kanji>transmit</kanji> the story of someone's life, you have to <kanji>write down</kanji> all of it in a <vocabulary>biography</vocabulary>.",
+  "primaryReading": "でんき",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Life Story"
   ],
-  "primaryReading": "でんき",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 777,
-      "character": "伝",
-      "readings": [
-        "でん",
-        "つた",
-        "つて"
-      ]
-    },
-    {
-      "id": 664,
-      "character": "記",
-      "readings": [
-        "き",
-        "しる"
-      ]
-    }
-  ],
-  "meaningMnemonic": "If you want to <kanji>transmit</kanji> the story of someone's life, you have to <kanji>write down</kanji> all of it in a <vocabulary>biography</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BC%9D%E8%A8%98",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "伝",
-      "id": 777,
-      "reading": "でん"
-    },
-    {
-      "type": "kanji",
-      "value": "記",
-      "id": 664,
-      "reading": "き"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BC%9D%E8%A8%98"
+  }
 }

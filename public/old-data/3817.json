@@ -1,0 +1,37 @@
+{
+  "id": 3817,
+  "type": "vocabulary",
+  "characters": "取る",
+  "primaryMeaning": "To Take",
+  "otherMeanings": [
+    "To Take Something",
+    "To Get Something"
+  ],
+  "primaryReading": "とる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 966,
+      "character": "取",
+      "readings": [
+        "と",
+        "しゅ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>take</kanji>, so the verb version is <vocabulary>to take something</vocabulary>.",
+  "readingMnemonic": "Since this word has okurigana (hiragana attached to the kanji) you know that it's probably going to be the kun'yomi reading. You already know this kun'yomi reading, so you should be able to read this word.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8F%96%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "取",
+      "id": 966,
+      "reading": "と"
+    },
+    {
+      "type": "kana",
+      "value": "る"
+    }
+  ]
+}

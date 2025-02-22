@@ -1,12 +1,15 @@
 {
   "id": 73,
   "type": "radical",
-  "primaryMeaning": "Door",
-  "otherMeanings": [],
-  "character": {
+  "level": 3,
+  "characters": {
     "type": "text",
     "value": "戸"
   },
-  "meaningMnemonic": "Where does a flag usually go? It goes over a <radical>door</radical>. I know the 一 radical usually means ground, but in this case we're going to say the flag is in the doorway (where the 一 is the top of the door).",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/door"
+  "primaryMeaning": "Door",
+  "otherMeanings": [],
+  "meaningMnemonic": "This one looks like a flag, but don't be fooled — it's got a line over the top of it, kind of like a door frame. That makes this a little <radical>door</radical>. Specifically a swinging door, with the vertical line on the left being its door hinge. Kind of a weird door, it's true, but you can see it, right?",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/door"
+  }
 }

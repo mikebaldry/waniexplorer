@@ -1,36 +1,44 @@
 {
   "id": 976,
   "type": "kanji",
-  "character": "喜",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "喜"
+  },
+  "primaryReading": "き",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "き",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "よろこ",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Rejoice",
   "otherMeanings": [
     "Delighted",
     "Pleased"
   ],
-  "primaryReading": "き",
-  "readings": [
-    {
-      "reading": "き",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "よろこ",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "You loudly <kanji>rejoice</kanji> for a while when suddenly someone runs over and shoves a <reading>key</reading> (き) in your mouth, locking it shut. You can't rejoice anymore! You need that key to unlock your mouth!",
   "meaningMnemonic": "If there is a <radical>drum</radical> in your <radical>mouth</radical> it's time to <kanji>rejoice</kanji>! And because of your mouth drum your rejoicing will be loud and booming!",
-  "vocabularyIds": [
-    3823,
-    5807,
-    5894,
-    7591
-  ],
-  "radicalIds": [
-    421,
-    16
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%96%9C"
+  "readingMnemonic": "You loudly <kanji>rejoice</kanji> for a while when suddenly someone runs over and shoves a <reading>key</reading> (き) in your mouth, locking it shut. You can't rejoice anymore! You need that key to unlock your mouth!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%96%9C"
+  },
+  "related": {
+    "radicals": [
+      421,
+      16
+    ],
+    "vocabularies": [
+      3823,
+      5807,
+      5894,
+      7591
+    ]
+  }
 }

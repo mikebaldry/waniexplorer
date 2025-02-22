@@ -1,32 +1,21 @@
 {
   "id": 6090,
   "type": "vocabulary",
-  "characters": "湾",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "湾"
+  },
   "primaryMeaning": "Gulf",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well, though it contains some extra similar meanings as well, like a <vocabulary>bay</vocabulary> or <vocabulary>inlet</vocabulary>.",
+  "primaryReading": "わん",
+  "readingMnemonic": "Same reading as what you learned with the kanji.",
   "otherMeanings": [
     "Bay",
     "Inlet"
   ],
-  "primaryReading": "わん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1657,
-      "character": "湾",
-      "readings": [
-        "わん"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well, though it contains some extra similar meanings as well, like a <vocabulary>bay</vocabulary> or <vocabulary>inlet</vocabulary>.",
-  "readingMnemonic": "Same reading as what you learned with the kanji.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B9%BE",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "湾",
-      "id": 1657,
-      "reading": "わん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B9%BE"
+  }
 }

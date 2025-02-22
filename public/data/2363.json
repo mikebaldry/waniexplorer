@@ -1,33 +1,41 @@
 {
   "id": 2363,
   "type": "kanji",
-  "character": "瑠",
-  "primaryMeaning": "Lapis Lazuli",
-  "otherMeanings": [],
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "瑠"
+  },
   "primaryReading": "る",
   "readings": [
     {
-      "reading": "る",
       "primary": true,
+      "reading": "る",
       "type": "onyomi"
     },
     {
-      "reading": "りゅう",
       "primary": false,
+      "reading": "りゅう",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "You run up and ask how this <kanji>lapis lazuli</kanji> thievery isn't illegal and one of the swordsmen just shouts, \"<reading>Loo</reading>phole (る)!\" What? What loophole? What law says that the king gets to steal your stuff?",
+  "primaryMeaning": "Lapis Lazuli",
+  "otherMeanings": [],
   "meaningMnemonic": "The <radical>king</radical> will send his men with <radical>sword</radical>s into your <radical>private</radical> <radical>rice paddy</radical> if you come across <kanji>lapis lazuli</kanji>. Even though this is your private land, he wants that lapis lazuli to make some new crowns and thrones for himself. Plus he's the king, so he can do whatever he wants.\n\nIf you've never taken an art history class (or played Minecraft) you may never have come across lapis lazuli, but think of it as a pretty, blue precious stone that people really, really liked in the olden days.",
-  "vocabularyIds": [
-    9108,
-    9109
-  ],
-  "radicalIds": [
-    48,
-    140,
-    24,
-    51
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%91%A0"
+  "readingMnemonic": "You run up and ask how this <kanji>lapis lazuli</kanji> thievery isn't illegal and one of the swordsmen just shouts, \"<reading>Loo</reading>phole (る)!\" What? What loophole? What law says that the king gets to steal your stuff?",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%91%A0"
+  },
+  "related": {
+    "radicals": [
+      48,
+      140,
+      24,
+      51
+    ],
+    "vocabularies": [
+      9108,
+      9109
+    ]
+  }
 }

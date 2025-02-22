@@ -1,0 +1,38 @@
+{
+  "id": 3901,
+  "type": "vocabulary",
+  "characters": "輪ゴム",
+  "primaryMeaning": "Rubber Band",
+  "otherMeanings": [
+    "Elastic Band"
+  ],
+  "primaryReading": "わごむ",
+  "otherReadings": [
+    "わゴム"
+  ],
+  "kanji": [
+    {
+      "id": 885,
+      "character": "輪",
+      "readings": [
+        "りん",
+        "わ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>ring</kanji> of gum (ゴム) (which is what Japanese people call rubber quite often) is a ring of rubber. What is a ring of rubber that people use often? It's a <vocabulary>rubber band</vocabulary>.",
+  "readingMnemonic": "The reading for 輪 is the kun'yomi vocab reading, which is わ, making this word <reading>わ</reading>ゴム.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%BC%AA%E3%82%B4%E3%83%A0",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "輪",
+      "id": 885,
+      "reading": "わ"
+    },
+    {
+      "type": "kana",
+      "value": "ゴム"
+    }
+  ]
+}

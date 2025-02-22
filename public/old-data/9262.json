@@ -1,0 +1,55 @@
+{
+  "id": 9262,
+  "type": "vocabulary",
+  "characters": "問い合わせる",
+  "primaryMeaning": "To Inquire",
+  "otherMeanings": [],
+  "primaryReading": "といあわせる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 859,
+      "character": "問",
+      "readings": [
+        "もん",
+        "と",
+        "とん"
+      ]
+    },
+    {
+      "id": 852,
+      "character": "合",
+      "readings": [
+        "ごう",
+        "がっ",
+        "あ",
+        "あい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The first kanji is <kanji>question</kanji>. And you learned 合わせる is \"to join together.\" What's \"to join questions together\"? It's <vocabulary>to inquire</vocabulary>. When you inquire, you <vocabulary>ask</vocabulary> all your questions together, right?",
+  "readingMnemonic": "You know how to read 合わせる already, so here's a mnemonic to help you remember the reading of 問:\n\nYou love <vocabulary>to inquire</vocabulary> with your <reading>toe</reading>s (と). By that, you mean you love to type on your keyboard with your toes. There's no particular reason for this besides that you like the feel on your toes when you type up an inquiry.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "問",
+      "id": 859,
+      "reading": "と"
+    },
+    {
+      "type": "kana",
+      "value": "い"
+    },
+    {
+      "type": "kanji",
+      "value": "合",
+      "id": 852,
+      "reading": "あ"
+    },
+    {
+      "type": "kana",
+      "value": "わせる"
+    }
+  ]
+}

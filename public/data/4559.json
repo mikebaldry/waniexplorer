@@ -1,45 +1,21 @@
 {
   "id": 4559,
   "type": "vocabulary",
-  "characters": "区域",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "区域"
+  },
   "primaryMeaning": "Zone",
+  "meaningMnemonic": "When there's a <kanji>district</kanji> in a <kanji>region</kanji>, it's called a <vocabulary>zone</vocabulary> or <vocabulary>district</vocabulary>.\n\n区域 is a formal word for a kind of designated <vocabulary>area</vocabulary>, usually one defined by specific boundaries or characteristics. It's often used in urban planning, like for no-parking zones or residential areas. It can also apply to regions like postal districts, police jurisdictions, or restricted areas.",
+  "primaryReading": "くいき",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "District",
     "Area"
   ],
-  "primaryReading": "くいき",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 937,
-      "character": "区",
-      "readings": [
-        "く"
-      ]
-    },
-    {
-      "id": 1178,
-      "character": "域",
-      "readings": [
-        "いき"
-      ]
-    }
-  ],
-  "meaningMnemonic": "When there's a <kanji>district</kanji> in a <kanji>region</kanji>, it's called a <vocabulary>zone</vocabulary> or <vocabulary>district</vocabulary>.\n\n区域 is a formal word for a kind of designated <vocabulary>area</vocabulary>, usually one defined by specific boundaries or characteristics. It's often used in urban planning, like for no-parking zones or residential areas. It can also apply to regions like postal districts, police jurisdictions, or restricted areas.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8C%BA%E5%9F%9F",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "区",
-      "id": 937,
-      "reading": "く"
-    },
-    {
-      "type": "kanji",
-      "value": "域",
-      "id": 1178,
-      "reading": "いき"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%8C%BA%E5%9F%9F"
+  }
 }

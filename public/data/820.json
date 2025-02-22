@@ -1,29 +1,37 @@
 {
   "id": 820,
   "type": "kanji",
-  "character": "倍",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "倍"
+  },
+  "primaryReading": "ばい",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ばい",
+      "type": "onyomi"
+    }
+  ],
   "primaryMeaning": "Double",
   "otherMeanings": [
     "Times",
     "Multiply"
   ],
-  "primaryReading": "ばい",
-  "readings": [
-    {
-      "reading": "ばい",
-      "primary": true,
-      "type": "onyomi"
-    }
-  ],
-  "readingMnemonic": "When the clown stops being funny, it’s time to say <reading>bye</reading> (ばい). At first, the clown <kanji>double</kanji>d the leader’s entertainment, but now the clown is just annoying. It’s time to say bye-bye.",
   "meaningMnemonic": "A <radical>leader</radical> who hires his own personal <radical>clown</radical> will likely <kanji>double</kanji> his entertainment. Clowns are funny and make people laugh, so the leader decided to hire one. Since that time, the leader’s amount of mirth has doubled. \n\nThis also means <kanji>times</kanji>, which makes sense when you think about the kind of math you'll need to double something. What is A * 2? It's A doubled, first of all, but you're using multiplication. You're \"timesing\" something.",
-  "vocabularyIds": [
-    3338,
-    3339
-  ],
-  "radicalIds": [
-    75,
-    175
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%80%8D"
+  "readingMnemonic": "When the clown stops being funny, it’s time to say <reading>bye</reading> (ばい). At first, the clown <kanji>double</kanji>d the leader’s entertainment, but now the clown is just annoying. It’s time to say bye-bye.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%80%8D"
+  },
+  "related": {
+    "radicals": [
+      75,
+      175
+    ],
+    "vocabularies": [
+      3338,
+      3339
+    ]
+  }
 }

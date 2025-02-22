@@ -1,0 +1,42 @@
+{
+  "id": 1634,
+  "type": "kanji",
+  "character": "舞",
+  "primaryMeaning": "Dance",
+  "otherMeanings": [],
+  "primaryReading": "ぶ",
+  "readings": [
+    {
+      "reading": "ぶ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "まい",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "ま",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "To help you do this <kanji>dance</kanji> you need some <reading>boo</reading>ze (ぶ). Just enough so it's easier to think of nothing, let all your fears go, and dance.",
+  "meaningMnemonic": "The <radical>nothing</radical> <radical>dance</radical> is still a <kanji>dance</kanji>!",
+  "vocabularyIds": [
+    6005,
+    6006,
+    6007,
+    6008,
+    6148,
+    6149,
+    7663,
+    8429
+  ],
+  "radicalIds": [
+    252,
+    429
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%88%9E"
+}

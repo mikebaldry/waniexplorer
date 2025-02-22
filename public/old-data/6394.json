@@ -1,0 +1,46 @@
+{
+  "id": 6394,
+  "type": "vocabulary",
+  "characters": "巡査",
+  "primaryMeaning": "Police Officer",
+  "otherMeanings": [
+    "Patrol Officer"
+  ],
+  "primaryReading": "じゅんさ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1753,
+      "character": "巡",
+      "readings": [
+        "じゅん",
+        "めぐ",
+        "まわ"
+      ]
+    },
+    {
+      "id": 1130,
+      "character": "査",
+      "readings": [
+        "さ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Those who <kanji>patrol</kanji> and <kanji>inspect</kanji> are <vocabulary>police officer</vocabulary>s or <vocabulary>patrol officer</vocabulary>s.\n\n巡査 specifically refers to the lowest-ranking officers in the police force in Japan, whose duty is patrolling or doing things around 交番 (police boxes), or responding to emergency calls.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B7%A1%E6%9F%BB",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "巡",
+      "id": 1753,
+      "reading": "じゅん"
+    },
+    {
+      "type": "kanji",
+      "value": "査",
+      "id": 1130,
+      "reading": "さ"
+    }
+  ]
+}

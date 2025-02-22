@@ -1,53 +1,61 @@
 {
   "id": 705,
   "type": "kanji",
-  "character": "話",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "話"
+  },
+  "primaryReading": "わ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "わ",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "はな",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "はなし",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Talk",
   "otherMeanings": [
     "Speak"
   ],
-  "primaryReading": "わ",
-  "readings": [
-    {
-      "reading": "わ",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "はな",
-      "primary": false,
-      "type": "kunyomi"
-    },
-    {
-      "reading": "はなし",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "If something uses their tongue, it will be able to <kanji>talk</kanji> and <kanji>speak</kanji>. To prove this, you teach a <reading>wa</reading>lrus (わ) to use its tongue, and lo and behold, it speaks to you!",
   "meaningMnemonic": "<radical>Say</radical> it with your <radical>tongue</radical>. If you do, you'll be able to <kanji>talk</kanji>. You'll be able to <kanji>speak</kanji>.",
-  "vocabularyIds": [
-    3074,
-    3075,
-    3076,
-    3370,
-    3495,
-    3555,
-    3636,
-    3785,
-    4287,
-    6351,
-    6565,
-    6715,
-    7115,
-    7169,
-    7746,
-    8149,
-    9301
-  ],
-  "radicalIds": [
-    117,
-    174
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%A9%B1"
+  "readingMnemonic": "If something uses their tongue, it will be able to <kanji>talk</kanji> and <kanji>speak</kanji>. To prove this, you teach a <reading>wa</reading>lrus (わ) to use its tongue, and lo and behold, it speaks to you!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%A9%B1"
+  },
+  "related": {
+    "radicals": [
+      117,
+      174
+    ],
+    "vocabularies": [
+      3074,
+      3075,
+      3076,
+      3370,
+      3495,
+      3555,
+      3636,
+      3785,
+      4287,
+      6351,
+      6565,
+      6715,
+      7115,
+      7169,
+      7746,
+      8149,
+      9301
+    ]
+  }
 }

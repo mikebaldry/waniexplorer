@@ -1,32 +1,20 @@
 {
   "id": 2567,
   "type": "vocabulary",
-  "characters": "左",
+  "level": 2,
+  "characters": {
+    "type": "text",
+    "value": "左"
+  },
   "primaryMeaning": "Left Direction",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "ひだり",
+  "readingMnemonic": "Since this word is made up of a single kanji, it uses the kun'yomi reading. You haven't learned this reading yet, so here's a mnemonic to help you:\n\nImagine hearing someone to your <vocabulary>left</vocabulary> saying, \"<reading>Hi Da'ri</reading>!\" (ひだり) which is supposed to be \"Hi There,\" or \"Hi Dearie.\" You turn left and there's no one there. You hear it again, \"Hi Da'ri!\" Keep turning to the left until you find the person saying hi to you.",
   "otherMeanings": [
     "Left"
   ],
-  "primaryReading": "ひだり",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 486,
-      "character": "左",
-      "readings": [
-        "さ",
-        "ひだり"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
-  "readingMnemonic": "Since this word is made up of a single kanji, it uses the kun'yomi reading. You haven't learned this reading yet, so here's a mnemonic to help you:\n\nImagine hearing someone to your <vocabulary>left</vocabulary> saying, \"<reading>Hi Da'ri</reading>!\" (ひだり) which is supposed to be \"Hi There,\" or \"Hi Dearie.\" You turn left and there's no one there. You hear it again, \"Hi Da'ri!\" Keep turning to the left until you find the person saying hi to you.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B7%A6",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "左",
-      "id": 486,
-      "reading": "ひだり"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%B7%A6"
+  }
 }

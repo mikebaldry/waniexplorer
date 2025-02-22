@@ -1,0 +1,38 @@
+{
+  "id": 5755,
+  "type": "vocabulary",
+  "characters": "うなぎ丼",
+  "primaryMeaning": "Eel Bowl",
+  "otherMeanings": [
+    "Eel Rice Bowl"
+  ],
+  "primaryReading": "うなぎどんぶり",
+  "otherReadings": [
+    "うなぎどん"
+  ],
+  "kanji": [
+    {
+      "id": 1549,
+      "character": "丼",
+      "readings": [
+        "どん",
+        "どんぶり"
+      ]
+    }
+  ],
+  "meaningMnemonic": "An unagi <kanji>rice bowl</kanji> is an <vocabulary>eel bowl</vocabulary>, and it is very good.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E3%81%86%E3%81%AA%E3%81%8E%E4%B8%BC",
+  "elements": [
+    {
+      "type": "kana",
+      "value": "うなぎ"
+    },
+    {
+      "type": "kanji",
+      "value": "丼",
+      "id": 1549,
+      "reading": "どんぶり"
+    }
+  ]
+}

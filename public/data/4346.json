@@ -1,39 +1,22 @@
 {
   "id": 4346,
   "type": "vocabulary",
-  "characters": "果たして",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "果たして"
+  },
   "primaryMeaning": "Really",
+  "meaningMnemonic": "So this doesn't really make much sense in terms of the kanji and word, but it is what it is. Let's remember it this way:\n\nThe kanji is <kanji>fruit</kanji> so the meaning is <vocabulary>really</vocabulary>? Like, really really? Because it sounds like you made that up. I really doubt it means really.\n\nIt can also mean <vocabulary>as was expected</vocabulary> or <vocabulary>just as I thought</vocabulary>, but usually we use it as a way to say, \"Really? I don't really believe you...\"",
+  "primaryReading": "はたして",
+  "readingMnemonic": "To remember the reading, just imagine yourself snorting out a sharp \"<reading>HA</reading>!\" (は) right before saying the phrase: \"<reading>HA!</reading> Just as I thought.\"",
   "otherMeanings": [
     "As Was Expected",
     "Just As I Thought",
     "As Expected"
   ],
-  "primaryReading": "はたして",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1005,
-      "character": "果",
-      "readings": [
-        "か",
-        "くだ",
-        "は"
-      ]
-    }
-  ],
-  "meaningMnemonic": "So this doesn't really make much sense in terms of the kanji and word, but it is what it is. Let's remember it this way:\n\nThe kanji is <kanji>fruit</kanji> so the meaning is <vocabulary>really</vocabulary>? Like, really really? Because it sounds like you made that up. I really doubt it means really.\n\nIt can also mean <vocabulary>as was expected</vocabulary> or <vocabulary>just as I thought</vocabulary>, but usually we use it as a way to say, \"Really? I don't really believe you...\"",
-  "readingMnemonic": "To remember the reading, just imagine yourself snorting out a sharp \"<reading>HA</reading>!\" (は) right before saying the phrase: \"<reading>HA!</reading> Just as I thought.\"",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9E%9C%E3%81%9F%E3%81%97%E3%81%A6",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "果",
-      "id": 1005,
-      "reading": "は"
-    },
-    {
-      "type": "kana",
-      "value": "たして"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%9E%9C%E3%81%9F%E3%81%97%E3%81%A6"
+  }
 }

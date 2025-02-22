@@ -1,0 +1,34 @@
+{
+  "id": 4878,
+  "type": "vocabulary",
+  "characters": "呼ばれる",
+  "primaryMeaning": "To Be Called",
+  "otherMeanings": [],
+  "primaryReading": "よばれる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1213,
+      "character": "呼",
+      "readings": [
+        "よ",
+        "こ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If 呼ぶ is \"to call\" then this is something similar. This is when you are called by someone (and you're not doing the calling). This word is <vocabulary>to be called</vocabulary>.",
+  "readingMnemonic": "The reading is shared with 呼ぶ, so remember that and you'll be able to read this too.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%91%BC%E3%81%B0%E3%82%8C%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "呼",
+      "id": 1213,
+      "reading": "よ"
+    },
+    {
+      "type": "kana",
+      "value": "ばれる"
+    }
+  ]
+}

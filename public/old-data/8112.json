@@ -1,0 +1,56 @@
+{
+  "id": 8112,
+  "type": "vocabulary",
+  "characters": "犠牲者",
+  "primaryMeaning": "Victim",
+  "otherMeanings": [],
+  "primaryReading": "ぎせいしゃ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1761,
+      "character": "犠",
+      "readings": [
+        "ぎ"
+      ]
+    },
+    {
+      "id": 2166,
+      "character": "牲",
+      "readings": [
+        "せい"
+      ]
+    },
+    {
+      "id": 690,
+      "character": "者",
+      "readings": [
+        "しゃ",
+        "もの"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You already learned that 犠牲 means \"victim,\" so when you add <kanji>someone</kanji> to that, it still means <vocabulary>victim</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%8A%A0%E7%89%B2%E8%80%85",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "犠",
+      "id": 1761,
+      "reading": "ぎ"
+    },
+    {
+      "type": "kanji",
+      "value": "牲",
+      "id": 2166,
+      "reading": "せい"
+    },
+    {
+      "type": "kanji",
+      "value": "者",
+      "id": 690,
+      "reading": "しゃ"
+    }
+  ]
+}

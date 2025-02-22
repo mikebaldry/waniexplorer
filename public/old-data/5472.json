@@ -1,0 +1,61 @@
+{
+  "id": 5472,
+  "type": "vocabulary",
+  "characters": "花粉症",
+  "primaryMeaning": "Hay Fever",
+  "otherMeanings": [
+    "Pollinosis"
+  ],
+  "primaryReading": "かふんしょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 557,
+      "character": "花",
+      "readings": [
+        "はな",
+        "か",
+        "け"
+      ]
+    },
+    {
+      "id": 1467,
+      "character": "粉",
+      "readings": [
+        "ふん",
+        "こな",
+        "こ"
+      ]
+    },
+    {
+      "id": 1334,
+      "character": "症",
+      "readings": [
+        "しょう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>flower</kanji> <kanji>powder</kanji> <kanji>symptom</kanji>s are when you start sneezing from flower powder, aka pollen that comes from all sorts of flowers, which is pretty much all plants. This word, however, refers to the most common version of this sickness, which is <vocabulary>hay fever</vocabulary>.",
+  "readingMnemonic": "The reading is all on'yomi readings, which you learned for all but 花. Instead, 花 is か, and to remember that you can think about how the only way to escape the <vocabulary>hay fever</vocabulary> is to jump in your <reading>ca</reading>r and turn on the filter. Sweet, sweet relief.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%8A%B1%E7%B2%89%E7%97%87",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "花",
+      "id": 557,
+      "reading": "か"
+    },
+    {
+      "type": "kanji",
+      "value": "粉",
+      "id": 1467,
+      "reading": "ふん"
+    },
+    {
+      "type": "kanji",
+      "value": "症",
+      "id": 1334,
+      "reading": "しょう"
+    }
+  ]
+}

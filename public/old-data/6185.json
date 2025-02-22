@@ -1,0 +1,52 @@
+{
+  "id": 6185,
+  "type": "vocabulary",
+  "characters": "却下",
+  "primaryMeaning": "Rejection",
+  "otherMeanings": [
+    "Dismissal"
+  ],
+  "primaryReading": "きゃっか",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1688,
+      "character": "却",
+      "readings": [
+        "きゃく",
+        "かえ"
+      ]
+    },
+    {
+      "id": 451,
+      "character": "下",
+      "readings": [
+        "か",
+        "げ",
+        "した",
+        "さ",
+        "くだ",
+        "お",
+        "しも",
+        "もと"
+      ]
+    }
+  ],
+  "meaningMnemonic": "It is <kanji>contrary</kanji> to what I think is good. It is <kanji>below</kanji> my standards. Thus, <vocabulary>rejection</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8D%B4%E4%B8%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "却",
+      "id": 1688,
+      "reading": null
+    },
+    {
+      "type": "kanji",
+      "value": "下",
+      "id": 451,
+      "reading": null
+    }
+  ]
+}

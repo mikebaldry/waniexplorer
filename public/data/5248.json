@@ -1,51 +1,20 @@
 {
   "id": 5248,
   "type": "vocabulary",
-  "characters": "入り江",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "入り江"
+  },
   "primaryMeaning": "Inlet",
+  "meaningMnemonic": "When you <kanji>enter</kanji> an <kanji>inlet</kanji>, you've gone into the <vocabulary>inlet</vocabulary>. It's also where water goes inside of the inlet (it's entering the inlet from the ocean, or whatever), so that's another way to think about it.",
+  "primaryReading": "いりえ",
+  "readingMnemonic": "For this reading, just imagine this as 入り with 江 pushed on at the end! Also note this is commonly written as 入江, but the reading stays the same!",
   "otherMeanings": [
     "Cove"
   ],
-  "primaryReading": "いりえ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 445,
-      "character": "入",
-      "readings": [
-        "にゅう",
-        "はい",
-        "い"
-      ]
-    },
-    {
-      "id": 1385,
-      "character": "江",
-      "readings": [
-        "え",
-        "こう"
-      ]
-    }
-  ],
-  "meaningMnemonic": "When you <kanji>enter</kanji> an <kanji>inlet</kanji>, you've gone into the <vocabulary>inlet</vocabulary>. It's also where water goes inside of the inlet (it's entering the inlet from the ocean, or whatever), so that's another way to think about it.",
-  "readingMnemonic": "For this reading, just imagine this as 入り with 江 pushed on at the end! Also note this is commonly written as 入江, but the reading stays the same!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%85%A5%E3%82%8A%E6%B1%9F",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "入",
-      "id": 445,
-      "reading": "い"
-    },
-    {
-      "type": "kana",
-      "value": "り"
-    },
-    {
-      "type": "kanji",
-      "value": "江",
-      "id": 1385,
-      "reading": "え"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%85%A5%E3%82%8A%E6%B1%9F"
+  }
 }

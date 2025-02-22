@@ -1,0 +1,48 @@
+{
+  "id": 2998,
+  "type": "vocabulary",
+  "characters": "助力",
+  "primaryMeaning": "Assistance",
+  "otherMeanings": [
+    "Support"
+  ],
+  "primaryReading": "じょりょく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 680,
+      "character": "助",
+      "readings": [
+        "じょ",
+        "たす",
+        "すけ"
+      ]
+    },
+    {
+      "id": 447,
+      "character": "力",
+      "readings": [
+        "りょく",
+        "りき",
+        "ちから"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you <kanji>help</kanji> with your <kanji>power</kanji>, you are providing <vocabulary>assistance</vocabulary> and <vocabulary>support</vocabulary>.\n\nNote that this is a formal word that’s mostly used in professional situations. It implies that someone has done something substantial for you.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 力 has two on'yomi readings, here's a mnemonic to help you remember which one to use:\n\nYou really need some <vocabulary>assistance</vocabulary> with this <reading>lock</reading> (りょく). You are certain that world peace and eternal happiness lie behind this one lock. But no one is willing to <vocabulary>support</vocabulary> you in opening it. What a cruel world.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8A%A9%E5%8A%9B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "助",
+      "id": 680,
+      "reading": "じょ"
+    },
+    {
+      "type": "kanji",
+      "value": "力",
+      "id": 447,
+      "reading": "りょく"
+    }
+  ]
+}

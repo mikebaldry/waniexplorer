@@ -1,0 +1,46 @@
+{
+  "id": 6194,
+  "type": "vocabulary",
+  "characters": "冷房",
+  "primaryMeaning": "Air Conditioning",
+  "otherMeanings": [],
+  "primaryReading": "れいぼう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1350,
+      "character": "冷",
+      "readings": [
+        "れい",
+        "つめ",
+        "ひ",
+        "さ"
+      ]
+    },
+    {
+      "id": 1692,
+      "character": "房",
+      "readings": [
+        "ぼう",
+        "ふさ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>cool</kanji> <kanji>cluster</kanji> is something that has a cluster of cool-creating coolant. This device is <vocabulary>air conditioning</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%86%B7%E6%88%BF",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "冷",
+      "id": 1350,
+      "reading": "れい"
+    },
+    {
+      "type": "kanji",
+      "value": "房",
+      "id": 1692,
+      "reading": "ぼう"
+    }
+  ]
+}

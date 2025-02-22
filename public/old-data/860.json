@@ -1,0 +1,34 @@
+{
+  "id": 860,
+  "type": "kanji",
+  "character": "宿",
+  "primaryMeaning": "Lodge",
+  "otherMeanings": [],
+  "primaryReading": "しゅく",
+  "readings": [
+    {
+      "reading": "しゅく",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "やど",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "The <kanji>lodge</kanji> <reading>shook</reading> (しゅく) as the hundred people came tumbling in through the door. It shook, but it didn't fall over. The roof stayed firmly in place, and everyone got to sleep under it okay.",
+  "meaningMnemonic": "The <radical>roof</radical> under which the <radical>leader</radical> can house one <radical>hundred</radical> of his people is at the local <kanji>lodge</kanji>.",
+  "vocabularyIds": [
+    3537,
+    3538,
+    4881,
+    6616
+  ],
+  "radicalIds": [
+    78,
+    75,
+    239
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%AE%BF"
+}

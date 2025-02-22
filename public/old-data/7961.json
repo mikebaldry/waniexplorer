@@ -1,0 +1,52 @@
+{
+  "id": 7961,
+  "type": "vocabulary",
+  "characters": "襟巻き",
+  "primaryMeaning": "Scarf",
+  "otherMeanings": [
+    "Muffler",
+    "Comforter"
+  ],
+  "primaryReading": "えりまき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2149,
+      "character": "襟",
+      "readings": [
+        "えり",
+        "きん"
+      ]
+    },
+    {
+      "id": 1273,
+      "character": "巻",
+      "readings": [
+        "かん",
+        "ま",
+        "まき"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Remember how you learned that 巻く means \"to roll?\" Well the thing you roll up around your <kanji>collar</kanji> is a <vocabulary>scarf</vocabulary>!",
+  "readingMnemonic": "The readings for this word are both kun'yomi readings. You've learned both of these readings by now so you should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A5%9F%E5%B7%BB%E3%81%8D",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "襟",
+      "id": 2149,
+      "reading": "えり"
+    },
+    {
+      "type": "kanji",
+      "value": "巻",
+      "id": 1273,
+      "reading": "まき"
+    },
+    {
+      "type": "kana",
+      "value": "き"
+    }
+  ]
+}

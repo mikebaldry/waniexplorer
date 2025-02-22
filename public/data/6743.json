@@ -1,46 +1,20 @@
 {
   "id": 6743,
   "type": "vocabulary",
-  "characters": "絶滅",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "絶滅"
+  },
   "primaryMeaning": "Extinction",
+  "meaningMnemonic": "<kanji>Extinction</kanji> where everything is <kanji>destroy</kanji>ed is <vocabulary>extinction</vocabulary>.",
+  "primaryReading": "ぜつめつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Become Extinct"
   ],
-  "primaryReading": "ぜつめつ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1371,
-      "character": "絶",
-      "readings": [
-        "ぜつ",
-        "た"
-      ]
-    },
-    {
-      "id": 1868,
-      "character": "滅",
-      "readings": [
-        "めつ",
-        "ほろ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Extinction</kanji> where everything is <kanji>destroy</kanji>ed is <vocabulary>extinction</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B5%B6%E6%BB%85",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "絶",
-      "id": 1371,
-      "reading": "ぜつ"
-    },
-    {
-      "type": "kanji",
-      "value": "滅",
-      "id": 1868,
-      "reading": "めつ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%B5%B6%E6%BB%85"
+  }
 }

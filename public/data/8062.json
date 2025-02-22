@@ -1,60 +1,18 @@
 {
   "id": 8062,
   "type": "vocabulary",
-  "characters": "風呂場",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "風呂場"
+  },
   "primaryMeaning": "Bathroom",
-  "otherMeanings": [],
-  "primaryReading": "ふろば",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 853,
-      "character": "風",
-      "readings": [
-        "ふう",
-        "ふ",
-        "かぜ"
-      ]
-    },
-    {
-      "id": 2158,
-      "character": "呂",
-      "readings": [
-        "ろ",
-        "りょ",
-        "せぼね"
-      ]
-    },
-    {
-      "id": 694,
-      "character": "場",
-      "readings": [
-        "じょう",
-        "ば"
-      ]
-    }
-  ],
   "meaningMnemonic": "Remember how you learned that 風呂 means \"bath?\" Well the <kanji>place</kanji> you take a bath in is the <vocabulary>bathroom</vocabulary>!",
+  "primaryReading": "ふろば",
   "readingMnemonic": "This word consists of the jukugo word 風呂 and the kun'yomi reading for 場. You've learned all of these readings, so you should be able to read this already too!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%A2%A8%E5%91%82%E5%A0%B4",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "風",
-      "id": 853,
-      "reading": "ふ"
-    },
-    {
-      "type": "kanji",
-      "value": "呂",
-      "id": 2158,
-      "reading": "ろ"
-    },
-    {
-      "type": "kanji",
-      "value": "場",
-      "id": 694,
-      "reading": "ば"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%A2%A8%E5%91%82%E5%A0%B4"
+  }
 }

@@ -1,0 +1,48 @@
+{
+  "id": 3658,
+  "type": "vocabulary",
+  "characters": "例文",
+  "primaryMeaning": "Example Sentence",
+  "otherMeanings": [
+    "Model Sentence",
+    "Sample Sentence"
+  ],
+  "primaryReading": "れいぶん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 896,
+      "character": "例",
+      "readings": [
+        "れい",
+        "たと"
+      ]
+    },
+    {
+      "id": 475,
+      "character": "文",
+      "readings": [
+        "ぶん",
+        "もん",
+        "ふみ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Example</kanji> <kanji>writing</kanji> is a piece of writing that is an example for maybe a word or a kanji or something like that. This is an <vocabulary>example sentence</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BE%8B%E6%96%87",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "例",
+      "id": 896,
+      "reading": "れい"
+    },
+    {
+      "type": "kanji",
+      "value": "文",
+      "id": 475,
+      "reading": "ぶん"
+    }
+  ]
+}

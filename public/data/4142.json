@@ -1,51 +1,21 @@
 {
   "id": 4142,
   "type": "vocabulary",
-  "characters": "落書き",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "落書き"
+  },
   "primaryMeaning": "Graffiti",
+  "meaningMnemonic": "When <kanji>writing</kanji> just happens to \"<kanji>fall</kanji>\" on the wall (whoops, wasn't me who did that, how strannnnge) it's writing that's not supposed to be where it is. This kind of writing is <vocabulary>graffiti</vocabulary>.",
+  "primaryReading": "らくがき",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. 書, however, is kun'yomi in this case and also has rendaku. So just remember that it's read as が for this vocab and you'll be fine.",
   "otherMeanings": [
     "Scribble",
     "Sketch"
   ],
-  "primaryReading": "らくがき",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 749,
-      "character": "落",
-      "readings": [
-        "らく",
-        "お"
-      ]
-    },
-    {
-      "id": 962,
-      "character": "書",
-      "readings": [
-        "しょ",
-        "か"
-      ]
-    }
-  ],
-  "meaningMnemonic": "When <kanji>writing</kanji> just happens to \"<kanji>fall</kanji>\" on the wall (whoops, wasn't me who did that, how strannnnge) it's writing that's not supposed to be where it is. This kind of writing is <vocabulary>graffiti</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. 書, however, is kun'yomi in this case and also has rendaku. So just remember that it's read as が for this vocab and you'll be fine.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%90%BD%E6%9B%B8%E3%81%8D",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "落",
-      "id": 749,
-      "reading": "らく"
-    },
-    {
-      "type": "kanji",
-      "value": "書",
-      "id": 962,
-      "reading": "が"
-    },
-    {
-      "type": "kana",
-      "value": "き"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%90%BD%E6%9B%B8%E3%81%8D"
+  }
 }

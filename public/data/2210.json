@@ -1,33 +1,41 @@
 {
   "id": 2210,
   "type": "kanji",
-  "character": "徐",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "徐"
+  },
+  "primaryReading": "じょ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "じょ",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "おもむ",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Gently",
   "otherMeanings": [
     "Gentle"
   ],
-  "primaryReading": "じょ",
-  "readings": [
-    {
-      "reading": "じょ",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "おもむ",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "You have to be <kanji>gentle</kanji> and handle these things <kanji>gently</kanji> because they belong to <reading>Jo</reading>-Anne (じょ). You're loitering around her surplus of (whatever you decided to imagine).",
   "meaningMnemonic": "If you <radical>loiter</radical> around a <radical>surplus</radical> of anything, you need to be <kanji>gentle</kanji> and touch everything <kanji>gently</kanji>. ",
-  "vocabularyIds": [
-    7980,
-    7981
-  ],
-  "radicalIds": [
-    99,
-    313
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%BE%90"
+  "readingMnemonic": "You have to be <kanji>gentle</kanji> and handle these things <kanji>gently</kanji> because they belong to <reading>Jo</reading>-Anne (じょ). You're loitering around her surplus of (whatever you decided to imagine).",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%BE%90"
+  },
+  "related": {
+    "radicals": [
+      99,
+      313
+    ],
+    "vocabularies": [
+      7980,
+      7981
+    ]
+  }
 }

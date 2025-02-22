@@ -1,46 +1,20 @@
 {
   "id": 4466,
   "type": "vocabulary",
-  "characters": "理解",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "理解"
+  },
   "primaryMeaning": "Comprehension",
+  "meaningMnemonic": "I've <kanji>untie</kanji>d all the <kanji>reason</kanji> and made it even simpler, making it easier to understand. This increases my <vocabulary>comprehension</vocabulary> and <vocabulary>understanding</vocabulary> by quite a bit!",
+  "primaryReading": "りかい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Understanding"
   ],
-  "primaryReading": "りかい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 669,
-      "character": "理",
-      "readings": [
-        "り",
-        "ことわり"
-      ]
-    },
-    {
-      "id": 1150,
-      "character": "解",
-      "readings": [
-        "かい",
-        "と"
-      ]
-    }
-  ],
-  "meaningMnemonic": "I've <kanji>untie</kanji>d all the <kanji>reason</kanji> and made it even simpler, making it easier to understand. This increases my <vocabulary>comprehension</vocabulary> and <vocabulary>understanding</vocabulary> by quite a bit!",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%90%86%E8%A7%A3",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "理",
-      "id": 669,
-      "reading": "り"
-    },
-    {
-      "type": "kanji",
-      "value": "解",
-      "id": 1150,
-      "reading": "かい"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%90%86%E8%A7%A3"
+  }
 }

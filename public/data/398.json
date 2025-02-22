@@ -1,12 +1,15 @@
 {
   "id": 398,
   "type": "radical",
-  "primaryMeaning": "House",
-  "otherMeanings": [],
-  "character": {
+  "level": 6,
+  "characters": {
     "type": "text",
     "value": "家"
   },
+  "primaryMeaning": "House",
+  "otherMeanings": [],
   "meaningMnemonic": "Under this roof is a pig. Your pig, because it's your <radical>house</radical>! You keep your pig inside where it's nice and warm. He's a member of your family, so he deserves to live in your house too.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/house"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/house"
+  }
 }

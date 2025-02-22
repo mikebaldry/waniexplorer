@@ -1,27 +1,35 @@
 {
   "id": 2098,
   "type": "kanji",
-  "character": "銘",
-  "primaryMeaning": "Inscription",
-  "otherMeanings": [],
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "銘"
+  },
   "primaryReading": "めい",
   "readings": [
     {
-      "reading": "めい",
       "primary": true,
+      "reading": "めい",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "The inscription is a name written on something, right? Remember the kanji for \"name\"? It is 名, and it shares the reading with this kanji as well, making both names <reading>めい</reading>.",
+  "primaryMeaning": "Inscription",
+  "otherMeanings": [],
   "meaningMnemonic": "A <radical>gold</radical> <radical>name</radical> on this piece of wood is the <kanji>inscription</kanji> that shows the artist's signature.",
-  "vocabularyIds": [
-    7386,
-    7387,
-    7388
-  ],
-  "radicalIds": [
-    118,
-    409
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%8A%98"
+  "readingMnemonic": "The inscription is a name written on something, right? Remember the kanji for \"name\"? It is 名, and it shares the reading with this kanji as well, making both names <reading>めい</reading>.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%8A%98"
+  },
+  "related": {
+    "radicals": [
+      118,
+      409
+    ],
+    "vocabularies": [
+      7386,
+      7387,
+      7388
+    ]
+  }
 }

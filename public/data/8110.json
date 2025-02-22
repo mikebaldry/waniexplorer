@@ -1,45 +1,18 @@
 {
   "id": 8110,
   "type": "vocabulary",
-  "characters": "欄外",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "欄外"
+  },
   "primaryMeaning": "Margin",
-  "otherMeanings": [],
-  "primaryReading": "らんがい",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2234,
-      "character": "欄",
-      "readings": [
-        "らん",
-        "てすり"
-      ]
-    },
-    {
-      "id": 521,
-      "character": "外",
-      "readings": [
-        "がい",
-        "そと",
-        "はず"
-      ]
-    }
-  ],
   "meaningMnemonic": "If you write <kanji>outside</kanji> the <kanji>column</kanji>s in your notebook paper you're actually writing in the <vocabulary>margin</vocabulary>s. It's a good space to put doodles.",
+  "primaryReading": "らんがい",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%AC%84%E5%A4%96",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "欄",
-      "id": 2234,
-      "reading": "らん"
-    },
-    {
-      "type": "kanji",
-      "value": "外",
-      "id": 521,
-      "reading": "がい"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%AC%84%E5%A4%96"
+  }
 }

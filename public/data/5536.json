@@ -1,44 +1,18 @@
 {
   "id": 5536,
   "type": "vocabulary",
-  "characters": "液体",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "液体"
+  },
   "primaryMeaning": "Liquid",
-  "otherMeanings": [],
-  "primaryReading": "えきたい",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1487,
-      "character": "液",
-      "readings": [
-        "えき"
-      ]
-    },
-    {
-      "id": 583,
-      "character": "体",
-      "readings": [
-        "たい",
-        "てい",
-        "からだ"
-      ]
-    }
-  ],
   "meaningMnemonic": "Things that have a <kanji>fluid</kanji> <kanji>body</kanji> are made of <vocabulary>liquid</vocabulary>.",
+  "primaryReading": "えきたい",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B6%B2%E4%BD%93",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "液",
-      "id": 1487,
-      "reading": "えき"
-    },
-    {
-      "type": "kanji",
-      "value": "体",
-      "id": 583,
-      "reading": "たい"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B6%B2%E4%BD%93"
+  }
 }

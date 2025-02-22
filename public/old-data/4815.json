@@ -1,0 +1,48 @@
+{
+  "id": 4815,
+  "type": "vocabulary",
+  "characters": "豊満",
+  "primaryMeaning": "Plump",
+  "otherMeanings": [
+    "Full-Figured",
+    "Voluptuous"
+  ],
+  "primaryReading": "ほうまん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1270,
+      "character": "豊",
+      "readings": [
+        "ほう",
+        "ゆた",
+        "とよ"
+      ]
+    },
+    {
+      "id": 1271,
+      "character": "満",
+      "readings": [
+        "まん",
+        "み"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you're <kanji>plentiful</kanji> and <kanji>full</kanji>, you could say you're <vocabulary>plump</vocabulary> or <vocabulary>full-figured</vocabulary>... in other words, you're not a snack, you're the <a href=\"https://www.youtube.com/watch?v=XaCrQL_8eMY\" target=\"_blank\">Whole. Damn. Meal.</a>\n\nThis is a literary expression used to describe the physical appearance of a woman's body, often focusing on a well-endowed chest.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%B1%8A%E6%BA%80",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "豊",
+      "id": 1270,
+      "reading": "ほう"
+    },
+    {
+      "type": "kanji",
+      "value": "満",
+      "id": 1271,
+      "reading": "まん"
+    }
+  ]
+}

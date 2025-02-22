@@ -1,0 +1,50 @@
+{
+  "id": 3476,
+  "type": "vocabulary",
+  "characters": "見付ける",
+  "primaryMeaning": "To Find",
+  "otherMeanings": [
+    "To Find Something"
+  ],
+  "primaryReading": "みつける",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 558,
+      "character": "見",
+      "readings": [
+        "み",
+        "けん"
+      ]
+    },
+    {
+      "id": 652,
+      "character": "付",
+      "readings": [
+        "つ",
+        "ふ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You know that 付ける means \"to attach\" and that 見 means \"see.\" So, when you attach your seeing to something, it's like you're looking around trying <vocabulary>to find</vocabulary> something. When you find what you're looking for, imagine your eyeballs flying out and attaching to that item, then yelling \"I FOUND IT!\"\n\nYou'll usually see this word with the 付 in kana, so 見つける.",
+  "readingMnemonic": "The readings come from 見る and 付ける. If you use those readings, you'll be able to read this word too.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A6%8B%E4%BB%98%E3%81%91%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "見",
+      "id": 558,
+      "reading": "み"
+    },
+    {
+      "type": "kanji",
+      "value": "付",
+      "id": 652,
+      "reading": "つ"
+    },
+    {
+      "type": "kana",
+      "value": "ける"
+    }
+  ]
+}

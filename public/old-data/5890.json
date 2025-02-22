@@ -1,0 +1,47 @@
+{
+  "id": 5890,
+  "type": "vocabulary",
+  "characters": "剣道",
+  "primaryMeaning": "Kendo",
+  "otherMeanings": [
+    "Japanese Fencing",
+    "Way Of The Sword"
+  ],
+  "primaryReading": "けんどう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1592,
+      "character": "剣",
+      "readings": [
+        "けん",
+        "つるぎ"
+      ]
+    },
+    {
+      "id": 700,
+      "character": "道",
+      "readings": [
+        "どう",
+        "みち"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>path</kanji> of the <kanji>sword</kanji> is known as <vocabulary>kendo</vocabulary>. You could also say <vocabulary>Japanese fencing</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%89%A3%E9%81%93",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "剣",
+      "id": 1592,
+      "reading": "けん"
+    },
+    {
+      "type": "kanji",
+      "value": "道",
+      "id": 700,
+      "reading": "どう"
+    }
+  ]
+}

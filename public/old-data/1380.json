@@ -1,0 +1,31 @@
+{
+  "id": 1380,
+  "type": "kanji",
+  "character": "杯",
+  "primaryMeaning": "Cup Of Liquid",
+  "otherMeanings": [
+    "Counter For Cups"
+  ],
+  "primaryReading": "はい",
+  "readings": [
+    {
+      "reading": "はい",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Another way to remember the <kanji>counter for cups</kanji> using a <kanji>cup of liquid</kanji> would be by creating and memorizing a <reading>hai</reading>ku (はい) about them. Aren’t haikus useful?",
+  "meaningMnemonic": "A <radical>tree</radical> is <radical>not</radical> a <kanji>cup of liquid</kanji> or a <kanji>counter for cups</kanji>. Don’t get them mixed up. The last time you tried making a cup out of a tree to count your throat got filled with splinters when you used it. There wasn't even any liquid in it.",
+  "vocabularyIds": [
+    5215,
+    5237,
+    5238,
+    5239,
+    5349
+  ],
+  "radicalIds": [
+    23,
+    96
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%9D%AF"
+}

@@ -1,0 +1,42 @@
+{
+  "id": 2495,
+  "type": "vocabulary",
+  "characters": "下げる",
+  "primaryMeaning": "To Lower Something",
+  "otherMeanings": [
+    "To Hang Something"
+  ],
+  "primaryReading": "さげる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 451,
+      "character": "下",
+      "readings": [
+        "か",
+        "げ",
+        "した",
+        "さ",
+        "くだ",
+        "お",
+        "しも",
+        "もと"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>below</kanji> so the verb version of that is when you put something below you. It's <vocabulary>to lower something</vocabulary>. It can also mean <vocabulary>to hang something</vocabulary>, such as a lamp from the ceiling.\n\nThis is a transitive verb, which means that the verb is done by one entity onto another. In other words, you lower <i>something</i>. Like your impossibly high expectations for yourself. Take it easy!",
+  "readingMnemonic": "Since this word has okurigana (hiragana attached to the kanji) you know that it's probably going to be the kun'yomi reading, which you didn't learn with the kanji. Here's a mnemonic to help you:\n\nYou want <vocabulary>to lower something</vocabulary>. In this case, it's a tree, so you need a <reading>saw</reading> (さ). Lower the tree to the ground gently while you slowly saw it down!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%8B%E3%81%92%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "下",
+      "id": 451,
+      "reading": "さ"
+    },
+    {
+      "type": "kana",
+      "value": "げる"
+    }
+  ]
+}

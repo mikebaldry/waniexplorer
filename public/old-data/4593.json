@@ -1,0 +1,45 @@
+{
+  "id": 4593,
+  "type": "vocabulary",
+  "characters": "革命",
+  "primaryMeaning": "Revolution",
+  "otherMeanings": [],
+  "primaryReading": "かくめい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1188,
+      "character": "革",
+      "readings": [
+        "かく",
+        "かわ"
+      ]
+    },
+    {
+      "id": 789,
+      "character": "命",
+      "readings": [
+        "めい",
+        "みょう",
+        "いのち"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Leather</kanji>'s <kanji>fate</kanji> is in the hands of a <vocabulary>revolution</vocabulary>. It's the leather revolution! Off with these normal clothes and on with leather ones!",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9D%A9%E5%91%BD",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "革",
+      "id": 1188,
+      "reading": "かく"
+    },
+    {
+      "type": "kanji",
+      "value": "命",
+      "id": 789,
+      "reading": "めい"
+    }
+  ]
+}

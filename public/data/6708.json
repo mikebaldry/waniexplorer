@@ -1,44 +1,18 @@
 {
   "id": 6708,
   "type": "vocabulary",
-  "characters": "山岳",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "山岳"
+  },
   "primaryMeaning": "Mountains",
-  "otherMeanings": [],
-  "primaryReading": "さんがく",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 455,
-      "character": "山",
-      "readings": [
-        "さん",
-        "やま"
-      ]
-    },
-    {
-      "id": 1855,
-      "character": "岳",
-      "readings": [
-        "がく",
-        "たけ"
-      ]
-    }
-  ],
   "meaningMnemonic": "The <kanji>mountain</kanji> <kanji>peak</kanji>s are just the <vocabulary>mountains</vocabulary>. Just because you can only see the peaks doesn't mean the rest of the mountain doesn't exist.",
+  "primaryReading": "さんがく",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B1%B1%E5%B2%B3",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "山",
-      "id": 455,
-      "reading": "さん"
-    },
-    {
-      "type": "kanji",
-      "value": "岳",
-      "id": 1855,
-      "reading": "がく"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%B1%B1%E5%B2%B3"
+  }
 }

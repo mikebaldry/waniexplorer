@@ -1,44 +1,18 @@
 {
   "id": 5554,
   "type": "vocabulary",
-  "characters": "雑費",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "雑費"
+  },
   "primaryMeaning": "Miscellaneous Expenses",
-  "otherMeanings": [],
-  "primaryReading": "ざっぴ",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1494,
-      "character": "雑",
-      "readings": [
-        "ざつ",
-        "ぞう"
-      ]
-    },
-    {
-      "id": 1165,
-      "character": "費",
-      "readings": [
-        "ひ",
-        "つい"
-      ]
-    }
-  ],
   "meaningMnemonic": "<kanji>Random</kanji> <kanji>expense</kanji>s are <vocabulary>miscellaneous expenses</vocabulary>. Not actually random, but they feel that way.",
+  "primaryReading": "ざっぴ",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. The ざつ goes to ざっ and the ひ goes to ぴ, making it into a dumb sounding word, like \"zappy\" (ざっぴ), so you can think about how some of your miscellaneous expenses were on zappy items.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9B%91%E8%B2%BB",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "雑",
-      "id": 1494,
-      "reading": null
-    },
-    {
-      "type": "kanji",
-      "value": "費",
-      "id": 1165,
-      "reading": null
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%9B%91%E8%B2%BB"
+  }
 }

@@ -1,47 +1,21 @@
 {
   "id": 2883,
   "type": "vocabulary",
-  "characters": "天国",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "天国"
+  },
   "primaryMeaning": "Kingdom Of Heaven",
+  "meaningMnemonic": "This is <kanji>heaven</kanji> <kanji>country</kanji>. Where is that? Probably just in <vocabulary>heaven</vocabulary> (or if you want to be fancy, the <vocabulary>kingdom of heaven</vocabulary>).",
+  "primaryReading": "てんごく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. The 国 is changed to the reading ごく though because of rendaku. Even heaven changes a little bit.",
   "otherMeanings": [
     "Heaven",
     "Paradise"
   ],
-  "primaryReading": "てんごく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 473,
-      "character": "天",
-      "readings": [
-        "てん",
-        "あま"
-      ]
-    },
-    {
-      "id": 621,
-      "character": "国",
-      "readings": [
-        "こく",
-        "くに"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This is <kanji>heaven</kanji> <kanji>country</kanji>. Where is that? Probably just in <vocabulary>heaven</vocabulary> (or if you want to be fancy, the <vocabulary>kingdom of heaven</vocabulary>).",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. The 国 is changed to the reading ごく though because of rendaku. Even heaven changes a little bit.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A4%A9%E5%9B%BD",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "天",
-      "id": 473,
-      "reading": "てん"
-    },
-    {
-      "type": "kanji",
-      "value": "国",
-      "id": 621,
-      "reading": "ごく"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A4%A9%E5%9B%BD"
+  }
 }

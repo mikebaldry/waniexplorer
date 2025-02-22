@@ -1,45 +1,21 @@
 {
   "id": 7556,
   "type": "vocabulary",
-  "characters": "寸法",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "寸法"
+  },
   "primaryMeaning": "Measurement",
+  "meaningMnemonic": "One of the easiest <kanji>method</kanji>s of <kanji>measurement</kanji> is to just check the <vocabulary>size</vocabulary> and <vocabulary>dimension</vocabulary>s, and there you go, you've got the <vocabulary>measurement</vocabulary>.",
+  "primaryReading": "すんぽう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Just remember that the ほう changes to ぽう.",
   "otherMeanings": [
     "Size",
     "Dimension"
   ],
-  "primaryReading": "すんぽう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1872,
-      "character": "寸",
-      "readings": [
-        "すん"
-      ]
-    },
-    {
-      "id": 949,
-      "character": "法",
-      "readings": [
-        "ほう"
-      ]
-    }
-  ],
-  "meaningMnemonic": "One of the easiest <kanji>method</kanji>s of <kanji>measurement</kanji> is to just check the <vocabulary>size</vocabulary> and <vocabulary>dimension</vocabulary>s, and there you go, you've got the <vocabulary>measurement</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Just remember that the ほう changes to ぽう.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AF%B8%E6%B3%95",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "寸",
-      "id": 1872,
-      "reading": "すん"
-    },
-    {
-      "type": "kanji",
-      "value": "法",
-      "id": 949,
-      "reading": "ぽう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%AF%B8%E6%B3%95"
+  }
 }

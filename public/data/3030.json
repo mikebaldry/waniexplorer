@@ -1,43 +1,18 @@
 {
   "id": 3030,
   "type": "vocabulary",
-  "characters": "両者",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "両者"
+  },
   "primaryMeaning": "Both People",
-  "otherMeanings": [],
-  "primaryReading": "りょうしゃ",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 609,
-      "character": "両",
-      "readings": [
-        "りょう"
-      ]
-    },
-    {
-      "id": 690,
-      "character": "者",
-      "readings": [
-        "しゃ",
-        "もの"
-      ]
-    }
-  ],
   "meaningMnemonic": "When you have <kanji>both</kanji> <kanji>someone</kanji>s, you have <vocabulary>both people</vocabulary>. You'll notice over time that 者 is often used to indicate a person or type of person, so keep that in mind for future words as well!",
+  "primaryReading": "りょうしゃ",
   "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%A1%E8%80%85",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "両",
-      "id": 609,
-      "reading": "りょう"
-    },
-    {
-      "type": "kanji",
-      "value": "者",
-      "id": 690,
-      "reading": "しゃ"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B8%A1%E8%80%85"
+  }
 }

@@ -1,43 +1,18 @@
 {
   "id": 8287,
   "type": "vocabulary",
-  "characters": "脈拍",
+  "level": 56,
+  "characters": {
+    "type": "text",
+    "value": "脈拍"
+  },
   "primaryMeaning": "Pulse",
-  "otherMeanings": [],
-  "primaryReading": "みゃくはく",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1468,
-      "character": "脈",
-      "readings": [
-        "みゃく"
-      ]
-    },
-    {
-      "id": 2295,
-      "character": "拍",
-      "readings": [
-        "はく",
-        "ひょう"
-      ]
-    }
-  ],
   "meaningMnemonic": "The <kanji>beat</kanji>ing in your <kanji>vein</kanji>s is your <vocabulary>pulse</vocabulary>.",
+  "primaryReading": "みゃくはく",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%84%88%E6%8B%8D",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "脈",
-      "id": 1468,
-      "reading": "みゃく"
-    },
-    {
-      "type": "kanji",
-      "value": "拍",
-      "id": 2295,
-      "reading": "はく"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%84%88%E6%8B%8D"
+  }
 }

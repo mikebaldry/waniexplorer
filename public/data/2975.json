@@ -1,33 +1,21 @@
 {
   "id": 2975,
   "type": "vocabulary",
-  "characters": "組",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "組"
+  },
   "primaryMeaning": "Group",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well. ",
+  "primaryReading": "くみ",
+  "readingMnemonic": "Since this word is made up of a single kanji, it should use the kun'yomi reading. That's the reading you learned with the kanji so you should be able to read this one too. If you need a refresher, here's a mnemonic to help you:\n\nYou're part of a special <vocabulary>group</vocabulary>. It is the <reading>cumi</reading>n group, and they deal with all things cumin (the spice or seed). Smell the cumin. Touch it. Taste it. You live and breathe the stuff, because you are the president of this cumin group.\n\nP.S. This can also be spelled <ja>組み</ja> (same reading: くみ) when it's a counter for groups, like ひと組み or ふた組み. ",
   "otherMeanings": [
     "Team",
     "Class"
   ],
-  "primaryReading": "くみ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 670,
-      "character": "組",
-      "readings": [
-        "くみ",
-        "そ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well. ",
-  "readingMnemonic": "Since this word is made up of a single kanji, it should use the kun'yomi reading. That's the reading you learned with the kanji so you should be able to read this one too. If you need a refresher, here's a mnemonic to help you:\n\nYou're part of a special <vocabulary>group</vocabulary>. It is the <reading>cumi</reading>n group, and they deal with all things cumin (the spice or seed). Smell the cumin. Touch it. Taste it. You live and breathe the stuff, because you are the president of this cumin group.\n\nP.S. This can also be spelled <ja>組み</ja> (same reading: くみ) when it's a counter for groups, like ひと組み or ふた組み. ",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B5%84",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "組",
-      "id": 670,
-      "reading": "くみ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%B5%84"
+  }
 }

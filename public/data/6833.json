@@ -1,46 +1,20 @@
 {
   "id": 6833,
   "type": "vocabulary",
-  "characters": "戸棚",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "戸棚"
+  },
   "primaryMeaning": "Cabinet",
+  "meaningMnemonic": "A <kanji>door</kanji> <kanji>shelf</kanji> is a shelf with a door on it. What kinds of shelves do you know of that have doors on them? How about <vocabulary>cabinet</vocabulary>s? Or maybe <vocabulary>cupboard</vocabulary>s?",
+  "primaryReading": "とだな",
+  "readingMnemonic": "These readings are the ones you learned with the kanji. Just keep in mind that 棚 gets rendaku'd to だな.",
   "otherMeanings": [
     "Cupboard"
   ],
-  "primaryReading": "とだな",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 509,
-      "character": "戸",
-      "readings": [
-        "と",
-        "こ"
-      ]
-    },
-    {
-      "id": 1900,
-      "character": "棚",
-      "readings": [
-        "たな",
-        "ほう"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>door</kanji> <kanji>shelf</kanji> is a shelf with a door on it. What kinds of shelves do you know of that have doors on them? How about <vocabulary>cabinet</vocabulary>s? Or maybe <vocabulary>cupboard</vocabulary>s?",
-  "readingMnemonic": "These readings are the ones you learned with the kanji. Just keep in mind that 棚 gets rendaku'd to だな.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%88%B8%E6%A3%9A",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "戸",
-      "id": 509,
-      "reading": "と"
-    },
-    {
-      "type": "kanji",
-      "value": "棚",
-      "id": 1900,
-      "reading": "だな"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%88%B8%E6%A3%9A"
+  }
 }

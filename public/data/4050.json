@@ -1,48 +1,22 @@
 {
   "id": 4050,
   "type": "vocabulary",
-  "characters": "鼻血",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "鼻血"
+  },
   "primaryMeaning": "Nosebleed",
+  "meaningMnemonic": "A <kanji>nose</kanji> with <kanji>blood</kanji> is a nose with a <vocabulary>nosebleed</vocabulary>. It is a <vocabulary>bloody nose</vocabulary>.",
+  "primaryReading": "はなぢ",
+  "readingMnemonic": "The readings are the kun'yomi vocab readings. You already know 鼻's reading from the kanji and vocab, and you should know the vocab reading of 血 as well. Put them together and you have はなち, though you want to change the ち to ぢ. Alternatively, it's possible (though less common, but it doesn't matter if you're turning it to kanji via an IME anyways) to write it as はなじ. I guess that blood added a little tenten (it represents the blood coming out of that nose!). Spurt spurt spurt.",
   "otherMeanings": [
     "Bloody Nose"
   ],
-  "primaryReading": "はなぢ",
   "otherReadings": [
     "はなじ"
   ],
-  "kanji": [
-    {
-      "id": 998,
-      "character": "鼻",
-      "readings": [
-        "はな",
-        "び"
-      ]
-    },
-    {
-      "id": 619,
-      "character": "血",
-      "readings": [
-        "けつ",
-        "ち"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>nose</kanji> with <kanji>blood</kanji> is a nose with a <vocabulary>nosebleed</vocabulary>. It is a <vocabulary>bloody nose</vocabulary>.",
-  "readingMnemonic": "The readings are the kun'yomi vocab readings. You already know 鼻's reading from the kanji and vocab, and you should know the vocab reading of 血 as well. Put them together and you have はなち, though you want to change the ち to ぢ. Alternatively, it's possible (though less common, but it doesn't matter if you're turning it to kanji via an IME anyways) to write it as はなじ. I guess that blood added a little tenten (it represents the blood coming out of that nose!). Spurt spurt spurt.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%BC%BB%E8%A1%80",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "鼻",
-      "id": 998,
-      "reading": "はな"
-    },
-    {
-      "type": "kanji",
-      "value": "血",
-      "id": 619,
-      "reading": "ぢ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%BC%BB%E8%A1%80"
+  }
 }

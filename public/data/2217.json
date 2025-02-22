@@ -1,46 +1,54 @@
 {
   "id": 2217,
   "type": "kanji",
-  "character": "胡",
-  "primaryMeaning": "Barbarian",
-  "otherMeanings": [],
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "胡"
+  },
   "primaryReading": "こ",
   "readings": [
     {
-      "reading": "こ",
       "primary": true,
+      "reading": "こ",
       "type": "onyomi"
     },
     {
+      "primary": false,
       "reading": "う",
-      "primary": false,
       "type": "onyomi"
     },
     {
+      "primary": false,
       "reading": "ご",
-      "primary": false,
       "type": "onyomi"
     },
     {
-      "reading": "なんぞ",
       "primary": false,
+      "reading": "なんぞ",
       "type": "kunyomi"
     },
     {
-      "reading": "きゅう",
       "primary": false,
+      "reading": "きゅう",
       "type": "nanori"
     }
   ],
-  "readingMnemonic": "At least, this is the kind of story you told your <reading>子</reading> (こ) when they asked you where the moon came from.",
+  "primaryMeaning": "Barbarian",
+  "otherMeanings": [],
   "meaningMnemonic": "The <radical>old</radical> <radical>moon</radical> (the moon we had before the current moon) was actually just a huge <kanji>barbarian</kanji> floating in the sky.",
-  "vocabularyIds": [
-    8025,
-    8026
-  ],
-  "radicalIds": [
-    69,
-    43
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%83%A1"
+  "readingMnemonic": "At least, this is the kind of story you told your <reading>子</reading> (こ) when they asked you where the moon came from.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%83%A1"
+  },
+  "related": {
+    "radicals": [
+      69,
+      43
+    ],
+    "vocabularies": [
+      8025,
+      8026
+    ]
+  }
 }

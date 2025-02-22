@@ -1,0 +1,45 @@
+{
+  "id": 5144,
+  "type": "vocabulary",
+  "characters": "婦人",
+  "primaryMeaning": "Lady",
+  "otherMeanings": [],
+  "primaryReading": "ふじん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1362,
+      "character": "婦",
+      "readings": [
+        "ふ"
+      ]
+    },
+    {
+      "id": 444,
+      "character": "人",
+      "readings": [
+        "にん",
+        "じん",
+        "ひと",
+        "と"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>wife</kanji> <kanji>person</kanji> is a <vocabulary>lady</vocabulary>, because I guess ladies are wife people? I'm guessing this is pretty sexist somewhere, somehow, but words were made a long time ago so hopefully you can give all those dead people a break.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A9%A6%E4%BA%BA",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "婦",
+      "id": 1362,
+      "reading": "ふ"
+    },
+    {
+      "type": "kanji",
+      "value": "人",
+      "id": 444,
+      "reading": "じん"
+    }
+  ]
+}

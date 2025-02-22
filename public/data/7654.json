@@ -1,66 +1,21 @@
 {
   "id": 7654,
   "type": "vocabulary",
-  "characters": "規則正しい",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "規則正しい"
+  },
   "primaryMeaning": "Regular",
+  "meaningMnemonic": "This is a combination of the words 規則 and 正しい, that you learned already. If you follow the rules in the correct order, everything will stay <vocabulary>regular</vocabulary> and <vocabulary>orderly</vocabulary>.\n\nThis word means that something follows a regular pattern or schedule. It’s commonly used to describe disciplined lifestyles, such as with regular sleep, exercise, and healthy eating habits, and implies that the regularity is desirable.",
+  "primaryReading": "きそくただしい",
+  "readingMnemonic": "This is a combination of the words 規則 and 正しい, which you learned already, so you should be able to read this word too.",
   "otherMeanings": [
     "Orderly",
     "Systematic"
   ],
-  "primaryReading": "きそくただしい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1191,
-      "character": "規",
-      "readings": [
-        "き"
-      ]
-    },
-    {
-      "id": 1201,
-      "character": "則",
-      "readings": [
-        "そく",
-        "のっと"
-      ]
-    },
-    {
-      "id": 488,
-      "character": "正",
-      "readings": [
-        "せい",
-        "しょう",
-        "ただ",
-        "まさ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This is a combination of the words 規則 and 正しい, that you learned already. If you follow the rules in the correct order, everything will stay <vocabulary>regular</vocabulary> and <vocabulary>orderly</vocabulary>.\n\nThis word means that something follows a regular pattern or schedule. It’s commonly used to describe disciplined lifestyles, such as with regular sleep, exercise, and healthy eating habits, and implies that the regularity is desirable.",
-  "readingMnemonic": "This is a combination of the words 規則 and 正しい, which you learned already, so you should be able to read this word too.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A6%8F%E5%89%87%E6%AD%A3%E3%81%97%E3%81%84",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "規",
-      "id": 1191,
-      "reading": "き"
-    },
-    {
-      "type": "kanji",
-      "value": "則",
-      "id": 1201,
-      "reading": "そく"
-    },
-    {
-      "type": "kanji",
-      "value": "正",
-      "id": 488,
-      "reading": "ただ"
-    },
-    {
-      "type": "kana",
-      "value": "しい"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%A6%8F%E5%89%87%E6%AD%A3%E3%81%97%E3%81%84"
+  }
 }

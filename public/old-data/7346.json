@@ -1,0 +1,46 @@
+{
+  "id": 7346,
+  "type": "vocabulary",
+  "characters": "劣化",
+  "primaryMeaning": "Deterioration",
+  "otherMeanings": [
+    "Degradation"
+  ],
+  "primaryReading": "れっか",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2080,
+      "character": "劣",
+      "readings": [
+        "れつ",
+        "おと"
+      ]
+    },
+    {
+      "id": 607,
+      "character": "化",
+      "readings": [
+        "か",
+        "ば"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Your <kanji>inferiority</kanji> has <kanji>change</kanji>d. In fact, it's getting worse and worse, changing by the minute. Each minute that goes by is another minute where you're getting worse. This is <vocabulary>deterioration</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8A%A3%E5%8C%96",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "劣",
+      "id": 2080,
+      "reading": null
+    },
+    {
+      "type": "kanji",
+      "value": "化",
+      "id": 607,
+      "reading": null
+    }
+  ]
+}

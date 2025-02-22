@@ -1,0 +1,47 @@
+{
+  "id": 7829,
+  "type": "vocabulary",
+  "characters": "苗字",
+  "primaryMeaning": "Surname",
+  "otherMeanings": [
+    "Family Name"
+  ],
+  "primaryReading": "みょうじ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2146,
+      "character": "苗",
+      "readings": [
+        "みょう",
+        "びょう",
+        "なえ",
+        "なわ"
+      ]
+    },
+    {
+      "id": 545,
+      "character": "字",
+      "readings": [
+        "じ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>seedling</kanji> <kanji>letter</kanji> is the very first letter you learn when you're little. What's the first thing you learn to spell when you're little? Your <vocabulary>surname</vocabulary>! You need to know who your family is, otherwise if you get lost or something happens, you won't know how to get home! Or even who you are!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%8B%97%E5%AD%97",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "苗",
+      "id": 2146,
+      "reading": "みょう"
+    },
+    {
+      "type": "kanji",
+      "value": "字",
+      "id": 545,
+      "reading": "じ"
+    }
+  ]
+}

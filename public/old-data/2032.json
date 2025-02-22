@@ -1,0 +1,34 @@
+{
+  "id": 2032,
+  "type": "kanji",
+  "character": "踊",
+  "primaryMeaning": "Dance",
+  "otherMeanings": [],
+  "primaryReading": "おど",
+  "readings": [
+    {
+      "reading": "おど",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "よう",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "You both <kanji>dance</kanji> so much that you develop an <reading>odo</reading>r (おど). Not just any odor, an odor particular to stinky dancing feet.",
+  "meaningMnemonic": "Your <radical>foot</radical>, as your <radical>mama</radical> says, was given the <radical>task</radical> to <kanji>dance</kanji>. Shake those two foots your mama gave you and dance dance dance!",
+  "vocabularyIds": [
+    7213,
+    7214,
+    7215,
+    7216
+  ],
+  "radicalIds": [
+    95,
+    141,
+    71
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%B8%8A"
+}

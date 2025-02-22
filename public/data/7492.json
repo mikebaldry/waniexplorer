@@ -1,50 +1,21 @@
 {
   "id": 7492,
   "type": "vocabulary",
-  "characters": "言葉",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "言葉"
+  },
   "primaryMeaning": "Word",
+  "meaningMnemonic": "A <kanji>leaf</kanji> of the things you <kanji>say</kanji> is like a leaf from a tree of speaking. That leaf is a part of the whole language, it is a single <vocabulary>word</vocabulary>, though it can add up to be a <vocabulary>language</vocabulary> or <vocabulary>manner of speech</vocabulary>.",
+  "primaryReading": "ことば",
+  "readingMnemonic": "The reading for 言 is one you haven't learned, so here's a mnemonic to help you:\n\nNow imagine that there are <vocabulary>word</vocabulary>s all over your <reading>coat</reading> (こと). It's completely covered in words. Which <vocabulary>language</vocabulary> are these words in? Why Japanese, of course! Think about which Japanese words you would want written on your coat.",
   "otherMeanings": [
     "Language",
     "Manner Of Speech"
   ],
-  "primaryReading": "ことば",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 593,
-      "character": "言",
-      "readings": [
-        "げん",
-        "ごん",
-        "い",
-        "こと"
-      ]
-    },
-    {
-      "id": 750,
-      "character": "葉",
-      "readings": [
-        "は",
-        "よう",
-        "ば"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>leaf</kanji> of the things you <kanji>say</kanji> is like a leaf from a tree of speaking. That leaf is a part of the whole language, it is a single <vocabulary>word</vocabulary>, though it can add up to be a <vocabulary>language</vocabulary> or <vocabulary>manner of speech</vocabulary>.",
-  "readingMnemonic": "The reading for 言 is one you haven't learned, so here's a mnemonic to help you:\n\nNow imagine that there are <vocabulary>word</vocabulary>s all over your <reading>coat</reading> (こと). It's completely covered in words. Which <vocabulary>language</vocabulary> are these words in? Why Japanese, of course! Think about which Japanese words you would want written on your coat.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A8%80%E8%91%89",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "言",
-      "id": 593,
-      "reading": "こと"
-    },
-    {
-      "type": "kanji",
-      "value": "葉",
-      "id": 750,
-      "reading": "ば"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%A8%80%E8%91%89"
+  }
 }

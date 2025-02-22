@@ -1,0 +1,46 @@
+{
+  "id": 4936,
+  "type": "vocabulary",
+  "characters": "故意",
+  "primaryMeaning": "Intentional",
+  "otherMeanings": [
+    "On Purpose",
+    "Deliberate"
+  ],
+  "primaryReading": "こい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1291,
+      "character": "故",
+      "readings": [
+        "こ",
+        "ゆえ"
+      ]
+    },
+    {
+      "id": 811,
+      "character": "意",
+      "readings": [
+        "い"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>circumstance</kanji> was caused by the <kanji>idea</kanji> I had. Because I had this idea before the circumstance, it shows I was <vocabulary>intentional</vocabulary> in doing it. I did it <vocabulary>on purpose</vocabulary>.\n\nNote that 故意 is mostly used in formal contexts.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%95%85%E6%84%8F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "故",
+      "id": 1291,
+      "reading": "こ"
+    },
+    {
+      "type": "kanji",
+      "value": "意",
+      "id": 811,
+      "reading": "い"
+    }
+  ]
+}

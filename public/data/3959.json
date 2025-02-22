@@ -1,48 +1,20 @@
 {
   "id": 3959,
   "type": "vocabulary",
-  "characters": "西側",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "西側"
+  },
   "primaryMeaning": "West Side",
+  "meaningMnemonic": "The <kanji>West</kanji> <kanji>side</kanji> of something is known as the <vocabulary>West</vocabulary> or the <vocabulary>West side</vocabulary>. Sorry, I have no story to go along with your West side.",
+  "primaryReading": "にしがわ",
+  "readingMnemonic": "The readings are the kun'yomi vocab readings. You should know both of them, with 西 being にし and 側 being がわ (what you learned with the kanji).",
   "otherMeanings": [
     "West"
   ],
-  "primaryReading": "にしがわ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 581,
-      "character": "西",
-      "readings": [
-        "せい",
-        "さい",
-        "にし"
-      ]
-    },
-    {
-      "id": 999,
-      "character": "側",
-      "readings": [
-        "がわ",
-        "そば",
-        "そく"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The <kanji>West</kanji> <kanji>side</kanji> of something is known as the <vocabulary>West</vocabulary> or the <vocabulary>West side</vocabulary>. Sorry, I have no story to go along with your West side.",
-  "readingMnemonic": "The readings are the kun'yomi vocab readings. You should know both of them, with 西 being にし and 側 being がわ (what you learned with the kanji).",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A5%BF%E5%81%B4",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "西",
-      "id": 581,
-      "reading": "にし"
-    },
-    {
-      "type": "kanji",
-      "value": "側",
-      "id": 999,
-      "reading": "がわ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%A5%BF%E5%81%B4"
+  }
 }

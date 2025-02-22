@@ -1,26 +1,34 @@
 {
   "id": 1837,
   "type": "kanji",
-  "character": "誰",
-  "primaryMeaning": "Who",
-  "otherMeanings": [],
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "誰"
+  },
   "primaryReading": "だれ",
   "readings": [
     {
-      "reading": "だれ",
       "primary": true,
+      "reading": "だれ",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "Then, someone says turkey. \"<kanji>Who</kanji> said turkey? You? How <reading>dare</reading> (だれ) you.\"",
+  "primaryMeaning": "Who",
+  "otherMeanings": [],
   "meaningMnemonic": "Who will <radical>say</radical> <radical>turkey</radical>? Who? <kanji>WHO</kanji>???",
-  "vocabularyIds": [
-    6653,
-    6654
-  ],
-  "radicalIds": [
-    117,
-    240
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%AA%B0"
+  "readingMnemonic": "Then, someone says turkey. \"<kanji>Who</kanji> said turkey? You? How <reading>dare</reading> (だれ) you.\"",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%AA%B0"
+  },
+  "related": {
+    "radicals": [
+      117,
+      240
+    ],
+    "vocabularies": [
+      6653,
+      6654
+    ]
+  }
 }

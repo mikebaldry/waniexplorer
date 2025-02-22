@@ -1,48 +1,20 @@
 {
   "id": 8155,
   "type": "vocabulary",
-  "characters": "応酬",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "応酬"
+  },
   "primaryMeaning": "Exchange",
+  "meaningMnemonic": "<kanji>Repay</kanji> what someone lent you in <kanji>response</kanji> to them already lending YOU money, and the two of you will have <vocabulary>exchange</vocabulary>d money. ",
+  "primaryReading": "おうしゅう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Reciprocation"
   ],
-  "primaryReading": "おうしゅう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1180,
-      "character": "応",
-      "readings": [
-        "おう",
-        "こた"
-      ]
-    },
-    {
-      "id": 2231,
-      "character": "酬",
-      "readings": [
-        "しゅう",
-        "しゅ",
-        "とう",
-        "むく"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Repay</kanji> what someone lent you in <kanji>response</kanji> to them already lending YOU money, and the two of you will have <vocabulary>exchange</vocabulary>d money. ",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BF%9C%E9%85%AC",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "応",
-      "id": 1180,
-      "reading": "おう"
-    },
-    {
-      "type": "kanji",
-      "value": "酬",
-      "id": 2231,
-      "reading": "しゅう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%BF%9C%E9%85%AC"
+  }
 }

@@ -1,0 +1,30 @@
+{
+  "id": 7000,
+  "type": "vocabulary",
+  "characters": "猿",
+  "primaryMeaning": "Monkey",
+  "otherMeanings": [],
+  "primaryReading": "さる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1955,
+      "character": "猿",
+      "readings": [
+        "さる",
+        "えん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%8C%BF",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "猿",
+      "id": 1955,
+      "reading": "さる"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 3234,
+  "type": "vocabulary",
+  "characters": "最高",
+  "primaryMeaning": "The Best",
+  "otherMeanings": [
+    "Best",
+    "Supreme"
+  ],
+  "primaryReading": "さいこう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 774,
+      "character": "最",
+      "readings": [
+        "さい",
+        "もっと"
+      ]
+    },
+    {
+      "id": 666,
+      "character": "高",
+      "readings": [
+        "こう",
+        "たか"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>most</kanji> <kanji>tall</kanji> isn't literally the most tall. When you think of something high above the rest, you think of something that is <vocabulary>the best</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9C%80%E9%AB%98",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "最",
+      "id": 774,
+      "reading": "さい"
+    },
+    {
+      "type": "kanji",
+      "value": "高",
+      "id": 666,
+      "reading": "こう"
+    }
+  ]
+}

@@ -1,41 +1,49 @@
 {
   "id": 1593,
   "type": "kanji",
-  "character": "寿",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "寿"
+  },
+  "primaryReading": "じゅ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "じゅ",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "す",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ことぶき",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Lifespan",
   "otherMeanings": [
     "Longevity"
   ],
-  "primaryReading": "じゅ",
-  "readings": [
-    {
-      "reading": "じゅ",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "す",
-      "primary": false,
-      "type": "onyomi"
-    },
-    {
-      "reading": "ことぶき",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "If your <kanji>lifespan</kanji> measurement isn't as long as you'd like, you need to drink more small <reading>ju</reading>ice (じゅ) boxes this year. They're good for your health, after all!",
   "meaningMnemonic": "In <radical>spring</radical>, your <radical>measurement</radical>s will reveal your <kanji>lifespan</kanji>. Only in spring can you measure your lifespan, just as easily as you measure your height and weight.",
-  "vocabularyIds": [
-    5891,
-    5892,
-    5893,
-    5894,
-    5895
-  ],
-  "radicalIds": [
-    8779,
-    74
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%AF%BF"
+  "readingMnemonic": "If your <kanji>lifespan</kanji> measurement isn't as long as you'd like, you need to drink more small <reading>ju</reading>ice (じゅ) boxes this year. They're good for your health, after all!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%AF%BF"
+  },
+  "related": {
+    "radicals": [
+      8779,
+      74
+    ],
+    "vocabularies": [
+      5891,
+      5892,
+      5893,
+      5894,
+      5895
+    ]
+  }
 }

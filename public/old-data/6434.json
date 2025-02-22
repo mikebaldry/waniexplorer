@@ -1,0 +1,37 @@
+{
+  "id": 6434,
+  "type": "vocabulary",
+  "characters": "薄い",
+  "primaryMeaning": "Thin",
+  "otherMeanings": [
+    "Weak",
+    "Dilute"
+  ],
+  "primaryReading": "うすい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1767,
+      "character": "薄",
+      "readings": [
+        "はく",
+        "うす"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>dilute</kanji>? It's <vocabulary>dilute</vocabulary>. And something that's been diluted is now <vocabulary>thin</vocabulary>.",
+  "readingMnemonic": "This drink is way too <vocabulary>dilute</vocabulary>d. <reading>You sue</reading> (うす) the makers for their thin drink.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%96%84%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "薄",
+      "id": 1767,
+      "reading": "うす"
+    },
+    {
+      "type": "kana",
+      "value": "い"
+    }
+  ]
+}

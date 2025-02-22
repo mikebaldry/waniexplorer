@@ -1,0 +1,45 @@
+{
+  "id": 7342,
+  "type": "vocabulary",
+  "characters": "老衰",
+  "primaryMeaning": "Senility",
+  "otherMeanings": [
+    "Senile Decay"
+  ],
+  "primaryReading": "ろうすい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 781,
+      "character": "老",
+      "readings": [
+        "ろう"
+      ]
+    },
+    {
+      "id": 2078,
+      "character": "衰",
+      "readings": [
+        "すい",
+        "おとろ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "An <kanji>elderly</kanji> person in <kanji>decline</kanji> is someone who is old and in decline. They are experiencing <vocabulary>senility</vocabulary> or <vocabulary>senile decay</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%80%81%E8%A1%B0",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "老",
+      "id": 781,
+      "reading": "ろう"
+    },
+    {
+      "type": "kanji",
+      "value": "衰",
+      "id": 2078,
+      "reading": "すい"
+    }
+  ]
+}

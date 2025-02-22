@@ -1,48 +1,18 @@
 {
   "id": 5310,
   "type": "vocabulary",
-  "characters": "延期する",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "延期する"
+  },
   "primaryMeaning": "To Postpone",
-  "otherMeanings": [],
-  "primaryReading": "えんきする",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1426,
-      "character": "延",
-      "readings": [
-        "えん",
-        "の"
-      ]
-    },
-    {
-      "id": 839,
-      "character": "期",
-      "readings": [
-        "き",
-        "ご"
-      ]
-    }
-  ],
   "meaningMnemonic": "Can we <kanji>prolong</kanji> this <kanji>period of time</kanji> to a later date? I want <vocabulary>to postpone</vocabulary>, if possible.",
+  "primaryReading": "えんきする",
   "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BB%B6%E6%9C%9F%E3%81%99%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "延",
-      "id": 1426,
-      "reading": "えん"
-    },
-    {
-      "type": "kanji",
-      "value": "期",
-      "id": 839,
-      "reading": "き"
-    },
-    {
-      "type": "kana",
-      "value": "する"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%BB%B6%E6%9C%9F%E3%81%99%E3%82%8B"
+  }
 }

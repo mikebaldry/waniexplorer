@@ -1,0 +1,45 @@
+{
+  "id": 7355,
+  "type": "vocabulary",
+  "characters": "王妃",
+  "primaryMeaning": "Queen",
+  "otherMeanings": [
+    "Queen Consort"
+  ],
+  "primaryReading": "おうひ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 482,
+      "character": "王",
+      "readings": [
+        "おう"
+      ]
+    },
+    {
+      "id": 2082,
+      "character": "妃",
+      "readings": [
+        "ひ",
+        "きさき"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When a king takes a princess for a wife, she becomes a <vocabulary>queen</vocabulary>. \n\n王妃 is a word for the wife of a reigning king. She's a queen because of who she married, not because she has any power herself. The more technical term for that is <vocabulary>queen consort</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%8E%8B%E5%A6%83",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "王",
+      "id": 482,
+      "reading": "おう"
+    },
+    {
+      "type": "kanji",
+      "value": "妃",
+      "id": 2082,
+      "reading": "ひ"
+    }
+  ]
+}

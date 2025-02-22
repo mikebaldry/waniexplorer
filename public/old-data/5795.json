@@ -1,0 +1,34 @@
+{
+  "id": 5795,
+  "type": "vocabulary",
+  "characters": "薦める",
+  "primaryMeaning": "To Recommend",
+  "otherMeanings": [],
+  "primaryReading": "すすめる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1564,
+      "character": "薦",
+      "readings": [
+        "せん",
+        "すす"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>recommend</kanji> so the verb vocab version is <vocabulary>to recommend</vocabulary>. This word is often used in a positive context for recommending things, actions, and people by implying or pointing out their charms, merits, or both.\n\nAlthough 薦める and 勧める are similar, there are subtle differences between the two. 勧める is often used to suggest that someone perform a specific action, often as friendly advice or encouragement. It can also be used when offering something, such as a drink. On the other hand, 薦める is used to recommend a person or thing as suitable for a particular situation, with a focus on endorsing the subject rather than a specific action.",
+  "readingMnemonic": "This has the same reading as 勧める, since they mean almost the same thing.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%96%A6%E3%82%81%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "薦",
+      "id": 1564,
+      "reading": "すす"
+    },
+    {
+      "type": "kana",
+      "value": "める"
+    }
+  ]
+}

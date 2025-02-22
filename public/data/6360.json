@@ -1,37 +1,21 @@
 {
   "id": 6360,
   "type": "vocabulary",
-  "characters": "顧みる",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "顧みる"
+  },
   "primaryMeaning": "To Look Back On Something",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>review</kanji>. What do you do when you review something? You look back on it. Meaning <vocabulary>to look back on something</vocabulary> or <vocabulary>to reflect on something</vocabulary>. This can also mean <vocabulary>to be attentive to someone</vocabulary>, for example your family.\n\nThis is a transitive verb, meaning it takes a direct object. You look back on the past, you reflect on the consequences of your actions, and you're attentive to your family.",
+  "primaryReading": "かえりみる",
+  "readingMnemonic": "For the reading, think about another word that is similar: 帰る. With 帰る you are returning to somewhere. With this word, you're returning to look back on something. They share the same first part reading, so you should take advantage of that. 帰る → かえり.",
   "otherMeanings": [
     "To Reflect On Something",
     "To Be Attentive To Someone"
   ],
-  "primaryReading": "かえりみる",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1742,
-      "character": "顧",
-      "readings": [
-        "こ",
-        "かえり"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>review</kanji>. What do you do when you review something? You look back on it. Meaning <vocabulary>to look back on something</vocabulary> or <vocabulary>to reflect on something</vocabulary>. This can also mean <vocabulary>to be attentive to someone</vocabulary>, for example your family.\n\nThis is a transitive verb, meaning it takes a direct object. You look back on the past, you reflect on the consequences of your actions, and you're attentive to your family.",
-  "readingMnemonic": "For the reading, think about another word that is similar: 帰る. With 帰る you are returning to somewhere. With this word, you're returning to look back on something. They share the same first part reading, so you should take advantage of that. 帰る → かえり.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%A1%A7%E3%81%BF%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "顧",
-      "id": 1742,
-      "reading": "かえり"
-    },
-    {
-      "type": "kana",
-      "value": "みる"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%A1%A7%E3%81%BF%E3%82%8B"
+  }
 }

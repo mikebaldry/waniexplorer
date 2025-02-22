@@ -1,38 +1,46 @@
 {
   "id": 1076,
   "type": "kanji",
-  "character": "団",
-  "primaryMeaning": "Group",
-  "otherMeanings": [],
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "団"
+  },
   "primaryReading": "だん",
   "readings": [
     {
-      "reading": "だん",
       "primary": true,
+      "reading": "だん",
       "type": "onyomi"
     },
     {
-      "reading": "とん",
       "primary": false,
+      "reading": "とん",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "This <kanji>group</kanji> is so big it takes you till <reading>dawn</reading> (だん) to get your measurement: they weigh a <reading>ton</reading> (とん) too!",
+  "primaryMeaning": "Group",
+  "otherMeanings": [],
   "meaningMnemonic": "Use your <radical>mouth</radical> to take a <radical>measurement</radical> of this <kanji>group</kanji>. Just stretch your mouth out and around every single person. Get 'em all in there.",
-  "vocabularyIds": [
-    4179,
-    4180,
-    4193,
-    4397,
-    4665,
-    5810,
-    6374,
-    7266,
-    8616
-  ],
-  "radicalIds": [
-    16,
-    74
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%9B%A3"
+  "readingMnemonic": "This <kanji>group</kanji> is so big it takes you till <reading>dawn</reading> (だん) to get your measurement: they weigh a <reading>ton</reading> (とん) too!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%9B%A3"
+  },
+  "related": {
+    "radicals": [
+      16,
+      74
+    ],
+    "vocabularies": [
+      4179,
+      4180,
+      4193,
+      4397,
+      4665,
+      5810,
+      6374,
+      7266,
+      8616
+    ]
+  }
 }

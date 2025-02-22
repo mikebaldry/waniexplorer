@@ -1,47 +1,20 @@
 {
   "id": 4934,
   "type": "vocabulary",
-  "characters": "事故",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "事故"
+  },
   "primaryMeaning": "Accident",
+  "meaningMnemonic": "An <kanji>occurrence</kanji> that only results because of <kanji>circumstance</kanji>s is also called an <vocabulary>accident</vocabulary>. You didn't want this bad thing to happen, it was just an occurrence of circumstance! Everything aligned in the worst way.\n\n事故 is mostly used to refer to physical accidents, like traffic accidents (交通事故) or construction accidents (建設事故). Sometimes other kinds of <vocabulary>mishap</vocabulary>s get the 事故 label too, like broadcast mishaps (放送事故), where something inappropriate or unplanned happens on air.",
+  "primaryReading": "じこ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Mishap"
   ],
-  "primaryReading": "じこ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 708,
-      "character": "事",
-      "readings": [
-        "じ",
-        "こと",
-        "つか"
-      ]
-    },
-    {
-      "id": 1291,
-      "character": "故",
-      "readings": [
-        "こ",
-        "ゆえ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "An <kanji>occurrence</kanji> that only results because of <kanji>circumstance</kanji>s is also called an <vocabulary>accident</vocabulary>. You didn't want this bad thing to happen, it was just an occurrence of circumstance! Everything aligned in the worst way.\n\n事故 is mostly used to refer to physical accidents, like traffic accidents (交通事故) or construction accidents (建設事故). Sometimes other kinds of <vocabulary>mishap</vocabulary>s get the 事故 label too, like broadcast mishaps (放送事故), where something inappropriate or unplanned happens on air.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BA%8B%E6%95%85",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "事",
-      "id": 708,
-      "reading": "じ"
-    },
-    {
-      "type": "kanji",
-      "value": "故",
-      "id": 1291,
-      "reading": "こ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BA%8B%E6%95%85"
+  }
 }

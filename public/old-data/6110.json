@@ -1,0 +1,47 @@
+{
+  "id": 6110,
+  "type": "vocabulary",
+  "characters": "戦闘",
+  "primaryMeaning": "Battle",
+  "otherMeanings": [
+    "A Battle"
+  ],
+  "primaryReading": "せんとう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 803,
+      "character": "戦",
+      "readings": [
+        "せん",
+        "たたか",
+        "いくさ"
+      ]
+    },
+    {
+      "id": 1663,
+      "character": "闘",
+      "readings": [
+        "とう",
+        "たたか"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>war</kanji> <kanji>struggle</kanji> is the part in war where you have to struggle at each other. This is a <vocabulary>battle</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%88%A6%E9%97%98",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "戦",
+      "id": 803,
+      "reading": "せん"
+    },
+    {
+      "type": "kanji",
+      "value": "闘",
+      "id": 1663,
+      "reading": "とう"
+    }
+  ]
+}

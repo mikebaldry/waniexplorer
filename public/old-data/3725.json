@@ -1,0 +1,43 @@
+{
+  "id": 3725,
+  "type": "vocabulary",
+  "characters": "芸者",
+  "primaryMeaning": "Geisha",
+  "otherMeanings": [],
+  "primaryReading": "げいしゃ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 916,
+      "character": "芸",
+      "readings": [
+        "げい"
+      ]
+    },
+    {
+      "id": 690,
+      "character": "者",
+      "readings": [
+        "しゃ",
+        "もの"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>art</kanji>s are performed by <kanji>someone</kanji>. Who is that someone? Well, think about the reading for this kanji. Do you recognize the word? It's <vocabulary>geisha</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%8A%B8%E8%80%85",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "芸",
+      "id": 916,
+      "reading": "げい"
+    },
+    {
+      "type": "kanji",
+      "value": "者",
+      "id": 690,
+      "reading": "しゃ"
+    }
+  ]
+}

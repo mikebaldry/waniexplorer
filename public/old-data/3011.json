@@ -1,0 +1,33 @@
+{
+  "id": 3011,
+  "type": "vocabulary",
+  "characters": "局",
+  "primaryMeaning": "Bureau",
+  "otherMeanings": [
+    "Department",
+    "Station",
+    "Office"
+  ],
+  "primaryReading": "きょく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 684,
+      "character": "局",
+      "readings": [
+        "きょく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "The kanji and the vocab are exactly the same, even the reading. This one uses the on'yomi probably because it's often attached to other words (specifying a bureau, for example), so that's why it follows jukugo conventions despite being all alone.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B1%80",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "局",
+      "id": 684,
+      "reading": "きょく"
+    }
+  ]
+}

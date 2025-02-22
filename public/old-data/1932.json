@@ -1,0 +1,35 @@
+{
+  "id": 1932,
+  "type": "kanji",
+  "character": "霊",
+  "primaryMeaning": "Ghost",
+  "otherMeanings": [],
+  "primaryReading": "れい",
+  "readings": [
+    {
+      "reading": "れい",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "りょう",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "You come across the <kanji>ghost</kanji>s, who are stabbed into the ground. \"Please,\" they beg. \"Please use that <reading>ray</reading> (れい) gun that's in that <reading>row</reading> (りょう) boat and end our suffering.\"",
+  "meaningMnemonic": "Coming down with the <radical>rain</radical> is <radical>two</radical> <radical>spikes</radical>. They go right through two <kanji>ghost</kanji>s.",
+  "vocabularyIds": [
+    6916,
+    6917,
+    6918,
+    6919,
+    7020
+  ],
+  "radicalIds": [
+    119,
+    7,
+    8768
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%9C%8A"
+}

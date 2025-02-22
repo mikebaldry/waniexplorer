@@ -1,46 +1,20 @@
 {
   "id": 6922,
   "type": "vocabulary",
-  "characters": "湿気",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "湿気"
+  },
   "primaryMeaning": "Moisture",
+  "meaningMnemonic": "A <kanji>damp</kanji> <kanji>energy</kanji> is a feeling of dampness. It is <vocabulary>moisture</vocabulary> and <vocabulary>humidity</vocabulary>.",
+  "primaryReading": "しっけ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Just be careful of the shortening, and the irregular reading for 気.",
   "otherMeanings": [
     "Humidity"
   ],
-  "primaryReading": "しっけ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1933,
-      "character": "湿",
-      "readings": [
-        "しつ",
-        "しめ"
-      ]
-    },
-    {
-      "id": 548,
-      "character": "気",
-      "readings": [
-        "き",
-        "け"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>damp</kanji> <kanji>energy</kanji> is a feeling of dampness. It is <vocabulary>moisture</vocabulary> and <vocabulary>humidity</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Just be careful of the shortening, and the irregular reading for 気.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B9%BF%E6%B0%97",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "湿",
-      "id": 1933,
-      "reading": "しっ"
-    },
-    {
-      "type": "kanji",
-      "value": "気",
-      "id": 548,
-      "reading": "け"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B9%BF%E6%B0%97"
+  }
 }

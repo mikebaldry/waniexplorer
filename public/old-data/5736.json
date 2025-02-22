@@ -1,0 +1,40 @@
+{
+  "id": 5736,
+  "type": "vocabulary",
+  "characters": "汚す",
+  "primaryMeaning": "To Make Dirty",
+  "otherMeanings": [
+    "To Make Something Dirty"
+  ],
+  "primaryReading": "よごす",
+  "otherReadings": [
+    "けがす"
+  ],
+  "kanji": [
+    {
+      "id": 1506,
+      "character": "汚",
+      "readings": [
+        "お",
+        "よご",
+        "きたな",
+        "けが"
+      ]
+    }
+  ],
+  "meaningMnemonic": "汚れる is \"to get dirty.\" This is when you make something dirty, aka \"<vocabulary>to make dirty</vocabulary>.\" You know that this is the version where you make things dirty yourself because when you make someone dirty with all that poop you're flinging, they <reading>sue</reading> (す) you immediately. This happens a lot.",
+  "readingMnemonic": "The reading comes from 汚れる, so if you know that you can read this.\n\nNote that the reading よごす  is generally used for making things physically dirty, whereas けがす means making someone or something impure in a figurative way.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B1%9A%E3%81%99",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "汚",
+      "id": 1506,
+      "reading": "よご"
+    },
+    {
+      "type": "kana",
+      "value": "す"
+    }
+  ]
+}

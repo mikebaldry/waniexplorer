@@ -1,64 +1,21 @@
 {
   "id": 7565,
   "type": "vocabulary",
-  "characters": "二十日",
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "二十日"
+  },
   "primaryMeaning": "Twentieth Day",
+  "meaningMnemonic": "<kanji>Two</kanji> times <kanji>ten</kanji> <kanji>days</kanji> is <vocabulary>twenty days</vocabulary>.",
+  "primaryReading": "はつか",
+  "readingMnemonic": "Words that count days use an exceptional reading. The readings for 二十 are exceptions, and 日 takes the kun'yomi reading. Here's a mnemonic to help with that:\n\nIf you make one hat for <vocabulary>twenty days</vocabulary> you'll have enough <reading>hats</reading> (はつ) to fill up your <reading>car</reading> (か) completely! That's a lot of days and a lot of hats.",
   "otherMeanings": [
     "Day Twenty",
     "Twenty Days"
   ],
-  "primaryReading": "はつか",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 441,
-      "character": "二",
-      "readings": [
-        "に",
-        "ふた"
-      ]
-    },
-    {
-      "id": 448,
-      "character": "十",
-      "readings": [
-        "じゅう",
-        "とお"
-      ]
-    },
-    {
-      "id": 476,
-      "character": "日",
-      "readings": [
-        "にち",
-        "じつ",
-        "ひ",
-        "か",
-        "び"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Two</kanji> times <kanji>ten</kanji> <kanji>days</kanji> is <vocabulary>twenty days</vocabulary>.",
-  "readingMnemonic": "Words that count days use an exceptional reading. The readings for 二十 are exceptions, and 日 takes the kun'yomi reading. Here's a mnemonic to help with that:\n\nIf you make one hat for <vocabulary>twenty days</vocabulary> you'll have enough <reading>hats</reading> (はつ) to fill up your <reading>car</reading> (か) completely! That's a lot of days and a lot of hats.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BA%8C%E5%8D%81%E6%97%A5",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "二",
-      "id": 441,
-      "reading": null
-    },
-    {
-      "type": "kanji",
-      "value": "十",
-      "id": 448,
-      "reading": null
-    },
-    {
-      "type": "kanji",
-      "value": "日",
-      "id": 476,
-      "reading": null
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BA%8C%E5%8D%81%E6%97%A5"
+  }
 }

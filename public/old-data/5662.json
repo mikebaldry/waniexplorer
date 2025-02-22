@@ -1,0 +1,61 @@
+{
+  "id": 5662,
+  "type": "vocabulary",
+  "characters": "皇太子",
+  "primaryMeaning": "Crown Prince",
+  "otherMeanings": [],
+  "primaryReading": "こうたいし",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1531,
+      "character": "皇",
+      "readings": [
+        "こう",
+        "おう"
+      ]
+    },
+    {
+      "id": 505,
+      "character": "太",
+      "readings": [
+        "たい",
+        "た",
+        "ふと",
+        "おお"
+      ]
+    },
+    {
+      "id": 462,
+      "character": "子",
+      "readings": [
+        "し",
+        "す",
+        "こ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>emperor</kanji>'s <kanji>fat</kanji> <kanji>child</kanji> is the <vocabulary>crown prince</vocabulary>, not because he's fat, but because he's the emperor's child.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%9A%87%E5%A4%AA%E5%AD%90",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "皇",
+      "id": 1531,
+      "reading": "こう"
+    },
+    {
+      "type": "kanji",
+      "value": "太",
+      "id": 505,
+      "reading": "たい"
+    },
+    {
+      "type": "kanji",
+      "value": "子",
+      "id": 462,
+      "reading": "し"
+    }
+  ]
+}

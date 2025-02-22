@@ -1,0 +1,47 @@
+{
+  "id": 7337,
+  "type": "vocabulary",
+  "characters": "利潤",
+  "primaryMeaning": "Profit",
+  "otherMeanings": [
+    "Returns"
+  ],
+  "primaryReading": "りじゅん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 786,
+      "character": "利",
+      "readings": [
+        "り",
+        "き"
+      ]
+    },
+    {
+      "id": 2076,
+      "character": "潤",
+      "readings": [
+        "じゅん",
+        "うるお",
+        "うる"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>profit</kanji>s that I'm <kanji>watered</kanji> with are pouring all over me. That's my <vocabulary>profit</vocabulary> and <vocabulary>returns</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%88%A9%E6%BD%A4",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "利",
+      "id": 786,
+      "reading": "り"
+    },
+    {
+      "type": "kanji",
+      "value": "潤",
+      "id": 2076,
+      "reading": "じゅん"
+    }
+  ]
+}

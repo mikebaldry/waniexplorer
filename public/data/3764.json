@@ -1,31 +1,20 @@
 {
   "id": 3764,
   "type": "vocabulary",
-  "characters": "晩",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "晩"
+  },
   "primaryMeaning": "Night",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "ばん",
+  "readingMnemonic": "The reading here is the same as the kanji reading!",
   "otherMeanings": [
     "Evening"
   ],
-  "primaryReading": "ばん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 958,
-      "character": "晩",
-      "readings": [
-        "ばん"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
-  "readingMnemonic": "The reading here is the same as the kanji reading!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%99%A9",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "晩",
-      "id": 958,
-      "reading": "ばん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%99%A9"
+  }
 }

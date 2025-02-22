@@ -1,45 +1,18 @@
 {
   "id": 9302,
   "type": "vocabulary",
-  "characters": "首相",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "首相"
+  },
   "primaryMeaning": "Prime Minister",
-  "otherMeanings": [],
-  "primaryReading": "しゅしょう",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 645,
-      "character": "首",
-      "readings": [
-        "くび",
-        "しゅ"
-      ]
-    },
-    {
-      "id": 730,
-      "character": "相",
-      "readings": [
-        "そう",
-        "しょう",
-        "あい"
-      ]
-    }
-  ],
   "meaningMnemonic": "The <kanji>neck</kanji> <kanji>minister</kanji>? This meaning <vocabulary>prime minister</vocabulary> makes sense if you think about the neck being the most important part of the body, kind of like the head! ",
+  "primaryReading": "しゅしょう",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. It also uses a reading for 相 that you haven't learned yet, so here's a mnemonic to help you:\n\nThe first <vocabulary>prime minister</vocabulary>s of Japan were actually the <reading>sho</reading>guns (しょう)… kind of.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%A6%96%E7%9B%B8",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "首",
-      "id": 645,
-      "reading": "しゅ"
-    },
-    {
-      "type": "kanji",
-      "value": "相",
-      "id": 730,
-      "reading": "しょう"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%A6%96%E7%9B%B8"
+  }
 }

@@ -1,46 +1,20 @@
 {
   "id": 3009,
   "type": "vocabulary",
-  "characters": "対立",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "対立"
+  },
   "primaryMeaning": "Confrontation",
+  "meaningMnemonic": "When you <kanji>stand</kanji> up <kanji>versus</kanji> someone, you're looking to get into a <vocabulary>confrontation</vocabulary>. Just imagine yourself doing this to someone bigger than you. You stand up to versus them and then realize this confrontation is a bad idea.",
+  "primaryReading": "たいりつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Opposition"
   ],
-  "primaryReading": "たいりつ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 683,
-      "character": "対",
-      "readings": [
-        "たい"
-      ]
-    },
-    {
-      "id": 494,
-      "character": "立",
-      "readings": [
-        "りつ",
-        "りゅう",
-        "た"
-      ]
-    }
-  ],
-  "meaningMnemonic": "When you <kanji>stand</kanji> up <kanji>versus</kanji> someone, you're looking to get into a <vocabulary>confrontation</vocabulary>. Just imagine yourself doing this to someone bigger than you. You stand up to versus them and then realize this confrontation is a bad idea.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AF%BE%E7%AB%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "対",
-      "id": 683,
-      "reading": "たい"
-    },
-    {
-      "type": "kanji",
-      "value": "立",
-      "id": 494,
-      "reading": "りつ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%AF%BE%E7%AB%8B"
+  }
 }

@@ -1,0 +1,46 @@
+{
+  "id": 3431,
+  "type": "vocabulary",
+  "characters": "全米",
+  "primaryMeaning": "All America",
+  "otherMeanings": [],
+  "primaryReading": "ぜんべい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 610,
+      "character": "全",
+      "readings": [
+        "ぜん",
+        "すべ",
+        "まった"
+      ]
+    },
+    {
+      "id": 574,
+      "character": "米",
+      "readings": [
+        "べい",
+        "まい",
+        "こめ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Do you remember how 米国 can mean \"America?\" That 米 means America sometimes. So, when you see <kanji>all</kanji> <kanji>rice</kanji> (I mean, <kanji>America</kanji>), you can think of this word as meaning <vocabulary>All America</vocabulary> (sort of like how 全日本 means \"All Japan.\").",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%85%A8%E7%B1%B3",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "全",
+      "id": 610,
+      "reading": "ぜん"
+    },
+    {
+      "type": "kanji",
+      "value": "米",
+      "id": 574,
+      "reading": "べい"
+    }
+  ]
+}

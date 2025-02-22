@@ -1,55 +1,21 @@
 {
   "id": 8242,
   "type": "vocabulary",
-  "characters": "旦那",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "旦那"
+  },
   "primaryMeaning": "Master",
+  "meaningMnemonic": "At <kanji>dawn</kanji> <kanji>what</kanji>'s the first thing you're supposed to see? Your <vocabulary>master</vocabulary>. He wants you to wake him up and bring his slippers. ",
+  "primaryReading": "だんな",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Husband",
     "Male Patron"
   ],
-  "primaryReading": "だんな",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2286,
-      "character": "旦",
-      "readings": [
-        "たん",
-        "だん",
-        "あきら",
-        "あき",
-        "あさ",
-        "あした",
-        "ただし"
-      ]
-    },
-    {
-      "id": 2294,
-      "character": "那",
-      "readings": [
-        "な",
-        "だ",
-        "いかん",
-        "なに",
-        "なんぞ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "At <kanji>dawn</kanji> <kanji>what</kanji>'s the first thing you're supposed to see? Your <vocabulary>master</vocabulary>. He wants you to wake him up and bring his slippers. ",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%97%A6%E9%82%A3",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "旦",
-      "id": 2286,
-      "reading": "だん"
-    },
-    {
-      "type": "kanji",
-      "value": "那",
-      "id": 2294,
-      "reading": "な"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%97%A6%E9%82%A3"
+  }
 }

@@ -1,12 +1,15 @@
 {
   "id": 139,
   "type": "radical",
-  "primaryMeaning": "Eat",
-  "otherMeanings": [],
-  "character": {
+  "level": 6,
+  "characters": {
     "type": "text",
     "value": "食"
   },
+  "primaryMeaning": "Eat",
+  "otherMeanings": [],
   "meaningMnemonic": "You put on your hat and go outside to kick something white. It's a big white goose and you killed it with your kick. That's because you're going to cook and <radical>eat</radical> it. Yum!",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/eat"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/eat"
+  }
 }

@@ -1,33 +1,22 @@
 {
   "id": 6803,
   "type": "vocabulary",
-  "characters": "斗",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "斗"
+  },
   "primaryMeaning": "Ladle",
+  "meaningMnemonic": "How much can you hold in this <kanji>ladle</kanji>? Why, exactly <vocabulary>eighteen liters</vocabulary> of course! Eighteen is your favorite number, how convenient.",
+  "primaryReading": "と",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
   "otherMeanings": [
     "Big Dipper",
     "Measure Of Volume",
     "Eighteen Liters"
   ],
-  "primaryReading": "と",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1886,
-      "character": "斗",
-      "readings": [
-        "と"
-      ]
-    }
-  ],
-  "meaningMnemonic": "How much can you hold in this <kanji>ladle</kanji>? Why, exactly <vocabulary>eighteen liters</vocabulary> of course! Eighteen is your favorite number, how convenient.",
-  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%96%97",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "斗",
-      "id": 1886,
-      "reading": "と"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%96%97"
+  }
 }

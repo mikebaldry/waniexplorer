@@ -1,0 +1,46 @@
+{
+  "id": 7273,
+  "type": "vocabulary",
+  "characters": "抽選",
+  "primaryMeaning": "Lottery",
+  "otherMeanings": [
+    "Raffle",
+    "Drawing Lots"
+  ],
+  "primaryReading": "ちゅうせん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2052,
+      "character": "抽",
+      "readings": [
+        "ちゅう"
+      ]
+    },
+    {
+      "id": 886,
+      "character": "選",
+      "readings": [
+        "せん",
+        "えら"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Extract</kanji> a lucky ticket to <kanji>choose</kanji> the winner of the <vocabulary>lottery</vocabulary> or <vocabulary>raffle</vocabulary>! Today I extract... number 23! We've chosen a winner!\n\n抽選 refers to <vocabulary>drawing lots</vocabulary> and randomly selecting a winner or winners from a pool of candidates or entries.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8A%BD%E9%81%B8",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "抽",
+      "id": 2052,
+      "reading": "ちゅう"
+    },
+    {
+      "type": "kanji",
+      "value": "選",
+      "id": 886,
+      "reading": "せん"
+    }
+  ]
+}

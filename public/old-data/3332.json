@@ -1,0 +1,48 @@
+{
+  "id": 3332,
+  "type": "vocabulary",
+  "characters": "大根",
+  "primaryMeaning": "Daikon",
+  "otherMeanings": [
+    "Japanese Radish"
+  ],
+  "primaryReading": "だいこん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 453,
+      "character": "大",
+      "readings": [
+        "たい",
+        "だい",
+        "おお",
+        "ひろ"
+      ]
+    },
+    {
+      "id": 817,
+      "character": "根",
+      "readings": [
+        "こん",
+        "ね"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This will be easier if you've seen or heard of daikon before. It's a really <kanji>big</kanji> <kanji>root</kanji> in the ground that's pretty delicious. It's known as <vocabulary>daikon</vocabulary> in the grocery stores for the most part, though occasionally you'll see it as <vocabulary>Japanese radish</vocabulary> instead.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. 大 uses the だい reading because if you try to put the whole thing in your mouth at once you'll probably end up choking and <reading>dy</reading>ing. ",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A4%A7%E6%A0%B9",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "大",
+      "id": 453,
+      "reading": "だい"
+    },
+    {
+      "type": "kanji",
+      "value": "根",
+      "id": 817,
+      "reading": "こん"
+    }
+  ]
+}

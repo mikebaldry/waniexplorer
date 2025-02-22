@@ -1,0 +1,31 @@
+{
+  "id": 1498,
+  "type": "kanji",
+  "character": "飼",
+  "primaryMeaning": "Domesticate",
+  "otherMeanings": [],
+  "primaryReading": "か",
+  "readings": [
+    {
+      "reading": "か",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "し",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "While you did succeed in your attempt to <kanji>domesticate</kanji> the director, he is now bleeding profusely from the bite wound. All over the script! You gotta get your <reading>ca</reading>r (か) and drive him to the hospital like right away. Get to the car! Hurry!",
+  "meaningMnemonic": "You <radical>eat</radical> part of a <radical>director</radical> to <kanji>domesticate</kanji> him. This director has been going around kicking cameramen and punching actors and it’s really ruining his reputation. You need to domesticate him. The only way to do this is to shock him into submission. His ego is so big from two blockbusters that you have to eat part of him to get him to calm down.",
+  "vocabularyIds": [
+    5560,
+    5724
+  ],
+  "radicalIds": [
+    139,
+    266
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%A3%BC"
+}

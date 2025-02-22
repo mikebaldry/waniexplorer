@@ -1,0 +1,45 @@
+{
+  "id": 6610,
+  "type": "vocabulary",
+  "characters": "中軸",
+  "primaryMeaning": "Axis",
+  "otherMeanings": [
+    "Pivot"
+  ],
+  "primaryReading": "ちゅうじく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 469,
+      "character": "中",
+      "readings": [
+        "ちゅう",
+        "なか"
+      ]
+    },
+    {
+      "id": 1822,
+      "character": "軸",
+      "readings": [
+        "じく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>middle</kanji> of the <kanji>axis</kanji> is where the <vocabulary>axis</vocabulary> is, of course, but it's also where the <vocabulary>pivot</vocabulary> is too.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%AD%E8%BB%B8",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "中",
+      "id": 469,
+      "reading": "ちゅう"
+    },
+    {
+      "type": "kanji",
+      "value": "軸",
+      "id": 1822,
+      "reading": "じく"
+    }
+  ]
+}

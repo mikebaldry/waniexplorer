@@ -1,0 +1,65 @@
+{
+  "id": 8383,
+  "type": "vocabulary",
+  "characters": "烏龍茶",
+  "primaryMeaning": "Oolong Tea",
+  "otherMeanings": [
+    "Oolong"
+  ],
+  "primaryReading": "うーろんちゃ",
+  "otherReadings": [
+    "ウーロンちゃ"
+  ],
+  "kanji": [
+    {
+      "id": 2357,
+      "character": "烏",
+      "readings": [
+        "からす",
+        "う",
+        "お"
+      ]
+    },
+    {
+      "id": 2291,
+      "character": "龍",
+      "readings": [
+        "りゅう",
+        "りょう",
+        "ろう",
+        "たつ"
+      ]
+    },
+    {
+      "id": 643,
+      "character": "茶",
+      "readings": [
+        "ちゃ",
+        "さ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Imperial</kanji> <kanji>tea</kanji> the color of a <kanji>crow</kanji>'s feathers can only be the famous, delicious <vocabulary>Oolong tea</vocabulary>. It came from the imperial people of China to Japan (probably) and there are lots of different variants. But the leaves are all that blackish/grey crow feather color.",
+  "readingMnemonic": "This word takes the on'yomi readings except for 龍 which is an exception (sorry). You haven't learned the on'yomi for 烏 yet either, so here's a mnemonic to help you:\n\nWho loves <vocabulary>Oolong tea</vocabulary> more than anyone else? <reading>Oooo Ron</reading> (うーろん) Weasley from Harry Potter. He's British, so of course you'd think he loves tea, but Oolong is his jam. Just picture him and think, oooooh it's Ron, when you drink this kind of tea.\n\nAnd make sure you remember that, because this is also a written in katakana when the kanji isn't used, to type out the long mark ー when you enter your answer.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%83%8F%E9%BE%8D%E8%8C%B6",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "烏",
+      "id": 2357,
+      "reading": "う"
+    },
+    {
+      "type": "kanji",
+      "value": "龍",
+      "id": 2291,
+      "reading": null
+    },
+    {
+      "type": "kanji",
+      "value": "茶",
+      "id": 643,
+      "reading": null
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 4809,
+  "type": "vocabulary",
+  "characters": "所属",
+  "primaryMeaning": "Affiliation",
+  "otherMeanings": [
+    "Belong To"
+  ],
+  "primaryReading": "しょぞく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 707,
+      "character": "所",
+      "readings": [
+        "しょ",
+        "ところ"
+      ]
+    },
+    {
+      "id": 1268,
+      "character": "属",
+      "readings": [
+        "ぞく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Your <kanji>place</kanji> of <kanji>belong</kanji>ing describes your <vocabulary>affiliation</vocabulary>. It’s where you <vocabulary>belong to</vocabulary>. \n\nThis is often used to describe a person’s affiliation or membership to a particular organization, team, or group.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%89%80%E5%B1%9E",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "所",
+      "id": 707,
+      "reading": "しょ"
+    },
+    {
+      "type": "kanji",
+      "value": "属",
+      "id": 1268,
+      "reading": "ぞく"
+    }
+  ]
+}

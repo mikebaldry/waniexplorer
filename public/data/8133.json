@@ -1,32 +1,21 @@
 {
   "id": 8133,
   "type": "vocabulary",
-  "characters": "紋",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "紋"
+  },
   "primaryMeaning": "Family Crest",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "もん",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
   "otherMeanings": [
     "Crest",
     "Coat Of Arms"
   ],
-  "primaryReading": "もん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2232,
-      "character": "紋",
-      "readings": [
-        "もん"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
-  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B4%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "紋",
-      "id": 2232,
-      "reading": "もん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%B4%8B"
+  }
 }

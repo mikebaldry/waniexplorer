@@ -1,45 +1,53 @@
 {
   "id": 794,
   "type": "kanji",
-  "character": "注",
-  "primaryMeaning": "Pour",
-  "otherMeanings": [],
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "注"
+  },
   "primaryReading": "ちゅう",
   "readings": [
     {
-      "reading": "ちゅう",
       "primary": true,
+      "reading": "ちゅう",
       "type": "onyomi"
     },
     {
+      "primary": false,
       "reading": "そそ",
-      "primary": false,
       "type": "kunyomi"
     },
     {
+      "primary": false,
       "reading": "さ",
-      "primary": false,
       "type": "kunyomi"
     },
     {
-      "reading": "つ",
       "primary": false,
+      "reading": "つ",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "If <reading>Chew</reading>bacca (ちゅう) was trying to attack you, you’d be able to defend yourself easily. Simply <kanji>pour</kanji> a tsunami on him and Chewbacca would surrender in a heartbeat. Chewbacca doesn’t like having water poured on him, especially not all the water from a tsunami.",
+  "primaryMeaning": "Pour",
+  "otherMeanings": [],
   "meaningMnemonic": "A <radical>tsunami</radical> <radical>master</radical> has the power to <kanji>pour</kanji> water wherever he pleases. Tsunami masters are masters over the most powerful water force in the universe, so it makes sense that they have the ability to pour water at will, wherever they please. Best not tick off the master, unless you want a tsunami poured on your head.",
-  "vocabularyIds": [
-    3281,
-    3282,
-    3283,
-    3580,
-    5782,
-    7849
-  ],
-  "radicalIds": [
-    103,
-    154
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%B3%A8"
+  "readingMnemonic": "If <reading>Chew</reading>bacca (ちゅう) was trying to attack you, you’d be able to defend yourself easily. Simply <kanji>pour</kanji> a tsunami on him and Chewbacca would surrender in a heartbeat. Chewbacca doesn’t like having water poured on him, especially not all the water from a tsunami.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%B3%A8"
+  },
+  "related": {
+    "radicals": [
+      103,
+      154
+    ],
+    "vocabularies": [
+      3281,
+      3282,
+      3283,
+      3580,
+      5782,
+      7849
+    ]
+  }
 }

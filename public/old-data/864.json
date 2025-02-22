@@ -1,0 +1,40 @@
+{
+  "id": 864,
+  "type": "kanji",
+  "character": "暗",
+  "primaryMeaning": "Dark",
+  "otherMeanings": [],
+  "primaryReading": "あん",
+  "readings": [
+    {
+      "reading": "あん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "くら",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "くれ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Since the sun has blinded you, your vision is now very <kanji>dark</kanji>. You can’t see anything, but you are hungry so you reach around for some food and eat it. Yuck! It’s <reading>an</reading>chovies (あん). You don’t even like anchovies, how did they get in your house?",
+  "meaningMnemonic": "If you yourself are a <radical>sun</radical>, and you <radical>stand</radical> next to another <radical>sun</radical>, no area around you will be <kanji>dark</kanji>. The two suns are very bright and standing right next to each other, so all the area will be lit up and nothing will be dark.",
+  "vocabularyIds": [
+    3597,
+    3598,
+    3599,
+    3904,
+    7179,
+    8562
+  ],
+  "radicalIds": [
+    22,
+    55
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%9A%97"
+}

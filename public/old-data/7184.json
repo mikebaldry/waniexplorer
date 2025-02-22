@@ -1,0 +1,47 @@
+{
+  "id": 7184,
+  "type": "vocabulary",
+  "characters": "飢餓",
+  "primaryMeaning": "Starvation",
+  "otherMeanings": [
+    "Famine",
+    "Hunger"
+  ],
+  "primaryReading": "きが",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2021,
+      "character": "飢",
+      "readings": [
+        "き",
+        "う"
+      ]
+    },
+    {
+      "id": 2022,
+      "character": "餓",
+      "readings": [
+        "が",
+        "う"
+      ]
+    }
+  ],
+  "meaningMnemonic": "One person <kanji>starve</kanji>s and another person <kanji>starve</kanji>s. Then more people. So much starve that there's <vocabulary>starvation</vocabulary> going on. It's <vocabulary>famine</vocabulary> and <vocabulary>hunger</vocabulary>, everywhere.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%A3%A2%E9%A4%93",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "飢",
+      "id": 2021,
+      "reading": "き"
+    },
+    {
+      "type": "kanji",
+      "value": "餓",
+      "id": 2022,
+      "reading": "が"
+    }
+  ]
+}

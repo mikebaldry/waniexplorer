@@ -1,0 +1,46 @@
+{
+  "id": 8453,
+  "type": "vocabulary",
+  "characters": "回忌",
+  "primaryMeaning": "Death Anniversary",
+  "otherMeanings": [
+    "Anniversary Of Death"
+  ],
+  "primaryReading": "かいき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 569,
+      "character": "回",
+      "readings": [
+        "かい",
+        "まわ"
+      ]
+    },
+    {
+      "id": 2371,
+      "character": "忌",
+      "readings": [
+        "き",
+        "い"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>times</kanji> when you are in <kanji>mourning</kanji> each year are for a loved one's <vocabulary>death anniversary</vocabulary>. They come around again every year. It's important you remember your loved ones at this time.\n\nYou'll often see this used with a number before 回忌, indicating a certain anniversary. However, you actually start counting your 回忌 starting with the first period of mourning around the time of the person's death, which would be the 一回忌. Hence, 二回忌 would usually be translated as \"first death anniversary\", 三回忌 as \"second death anniversary\", and so on. ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%9B%9E%E5%BF%8C",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "回",
+      "id": 569,
+      "reading": "かい"
+    },
+    {
+      "type": "kanji",
+      "value": "忌",
+      "id": 2371,
+      "reading": "き"
+    }
+  ]
+}

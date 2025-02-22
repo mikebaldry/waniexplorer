@@ -1,46 +1,20 @@
 {
   "id": 4135,
   "type": "vocabulary",
-  "characters": "訓練",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "訓練"
+  },
   "primaryMeaning": "Training",
+  "meaningMnemonic": "You've got your <kanji>instruction</kanji> and you have your <kanji>practice</kanji>. Time to start your <vocabulary>training</vocabulary>, or simply your <vocabulary>practice</vocabulary>.",
+  "primaryReading": "くんれん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Practice"
   ],
-  "primaryReading": "くんれん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1028,
-      "character": "訓",
-      "readings": [
-        "くん",
-        "よ"
-      ]
-    },
-    {
-      "id": 869,
-      "character": "練",
-      "readings": [
-        "れん",
-        "ね"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You've got your <kanji>instruction</kanji> and you have your <kanji>practice</kanji>. Time to start your <vocabulary>training</vocabulary>, or simply your <vocabulary>practice</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A8%93%E7%B7%B4",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "訓",
-      "id": 1028,
-      "reading": "くん"
-    },
-    {
-      "type": "kanji",
-      "value": "練",
-      "id": 869,
-      "reading": "れん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%A8%93%E7%B7%B4"
+  }
 }

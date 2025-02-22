@@ -1,45 +1,53 @@
 {
   "id": 789,
   "type": "kanji",
-  "character": "命",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "命"
+  },
+  "primaryReading": "めい",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "めい",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "みょう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "いのち",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Fate",
   "otherMeanings": [
     "Life"
   ],
-  "primaryReading": "めい",
-  "readings": [
-    {
-      "reading": "めい",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "みょう",
-      "primary": false,
-      "type": "onyomi"
-    },
-    {
-      "reading": "いのち",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "You are the commanding officer on the <reading>May</reading>flower (めい). You give orders to colonize America. The orders spewing from your mouth hole determine the <kanji>fate</kanji> of the settlers and the fate of America and the fate of the world! You and the Mayflower have changed everything forever.",
   "meaningMnemonic": "<radical>Orders</radical> coming from your <radical>mouth</radical> will determine the <kanji>fate</kanji> of your soldiers. You are their commanding officer and your orders determine their <kanji>life</kanji> and death.",
-  "vocabularyIds": [
-    3273,
-    3274,
-    3275,
-    4593,
-    4873,
-    5892,
-    6170,
-    6192,
-    6346
-  ],
-  "radicalIds": [
-    189,
-    16
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%91%BD"
+  "readingMnemonic": "You are the commanding officer on the <reading>May</reading>flower (めい). You give orders to colonize America. The orders spewing from your mouth hole determine the <kanji>fate</kanji> of the settlers and the fate of America and the fate of the world! You and the Mayflower have changed everything forever.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%91%BD"
+  },
+  "related": {
+    "radicals": [
+      189,
+      16
+    ],
+    "vocabularies": [
+      3273,
+      3274,
+      3275,
+      4593,
+      4873,
+      5892,
+      6170,
+      6192,
+      6346
+    ]
+  }
 }

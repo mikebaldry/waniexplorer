@@ -1,46 +1,18 @@
 {
   "id": 8694,
   "type": "vocabulary",
-  "characters": "大気",
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "大気"
+  },
   "primaryMeaning": "Atmosphere",
-  "otherMeanings": [],
-  "primaryReading": "たいき",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 453,
-      "character": "大",
-      "readings": [
-        "たい",
-        "だい",
-        "おお",
-        "ひろ"
-      ]
-    },
-    {
-      "id": 548,
-      "character": "気",
-      "readings": [
-        "き",
-        "け"
-      ]
-    }
-  ],
   "meaningMnemonic": "If there is a <kanji>big</kanji> <kanji>energy</kanji> it's going to fill up the <vocabulary>atmosphere</vocabulary>! Think about big energies you feel in the atmosphere: thunderstorms, tornadoes, the aurora borealis. Just remember, this is the atmosphere in the sky, not the atmosphere in a fancy restaurant.",
+  "primaryReading": "たいき",
   "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 大 has two on'yomi readings, here's a mnemonic to help you remember which one to use:\n\nImagine an <vocabulary>atmosphere</vocabulary> consisting entirely of <reading>tie</reading>s and <reading>key</reading>s (たいき), floating around. The ties are getting tangled together, and the keys keep bashing you on the head. Bring back the normal atmosphere, this one's horrible.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A4%A7%E6%B0%97",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "大",
-      "id": 453,
-      "reading": "たい"
-    },
-    {
-      "type": "kanji",
-      "value": "気",
-      "id": 548,
-      "reading": "き"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A4%A7%E6%B0%97"
+  }
 }

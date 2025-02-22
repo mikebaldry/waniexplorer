@@ -1,0 +1,45 @@
+{
+  "id": 4537,
+  "type": "vocabulary",
+  "characters": "伝統",
+  "primaryMeaning": "Tradition",
+  "otherMeanings": [],
+  "primaryReading": "でんとう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 777,
+      "character": "伝",
+      "readings": [
+        "でん",
+        "つた",
+        "つて"
+      ]
+    },
+    {
+      "id": 1170,
+      "character": "統",
+      "readings": [
+        "とう",
+        "す"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you <kanji>transmit</kanji> something that <kanji>unite</kanji>s the people, you are probably pulling on <vocabulary>tradition</vocabulary>. Tradition is what unites us all and transmits who we are to everyone else. What is your 伝統?\n\n伝統 means \"tradition\" in the sense of customs, practices, or rituals that are passed down within a culture or community. These traditions bring people together across generations and keep our shared culture alive.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BC%9D%E7%B5%B1",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "伝",
+      "id": 777,
+      "reading": "でん"
+    },
+    {
+      "type": "kanji",
+      "value": "統",
+      "id": 1170,
+      "reading": "とう"
+    }
+  ]
+}

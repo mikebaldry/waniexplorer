@@ -1,0 +1,44 @@
+{
+  "id": 1025,
+  "type": "kanji",
+  "character": "覚",
+  "primaryMeaning": "Memorize",
+  "otherMeanings": [
+    "Awake"
+  ],
+  "primaryReading": "かく",
+  "readings": [
+    {
+      "reading": "かく",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "おぼ",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "さ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Every morning, a <reading>cock</reading> (かく) crows and rouses the Vikings. Seeing this, one of the Vikings <kanji>memorize</kanji>s the cock crow so that he can mimic it and play pranks on his fellow Vikings.",
+  "meaningMnemonic": "<radical>Viking</radical> <radical>see</radical>, Viking <kanji>memorize</kanji>. That’s how Vikings learn things. They see something, and then they memorize it. Quite simple, really.\n\nIt can also mean <kanji>awake</kanji>. Just remember that Vikings can't see if they aren't awake. There won't be anything to memorize if their eyes are still closed, after all!",
+  "vocabularyIds": [
+    3989,
+    4035,
+    4036,
+    4711,
+    7282,
+    7550,
+    8332,
+    8712
+  ],
+  "radicalIds": [
+    8769,
+    91
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%A6%9A"
+}

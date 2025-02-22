@@ -1,0 +1,42 @@
+{
+  "id": 1810,
+  "type": "kanji",
+  "character": "床",
+  "primaryMeaning": "Floor",
+  "otherMeanings": [
+    "Bed"
+  ],
+  "primaryReading": "ゆか",
+  "readings": [
+    {
+      "reading": "ゆか",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "とこ",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "しょう",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "It's great having a <kanji>floor</kanji> or <kanji>bed</kanji>, but whenever you use it you say <reading>yucka</reading> (ゆか) because it just gets so dirty. That's the one flaw of using a floor as a bed. In fact, it's the dirtiest floor you've ever seen, because it's covered in <reading>yucca</reading> (ゆか) leaves. You're sleeping on a yucca floor. Ew!",
+  "meaningMnemonic": "Under the <radical>canopy</radical>, you use a <radical>tree</radical> for your <kanji>floor</kanji>. It also becomes your <kanji>bed</kanji>, because hey, what is a floor but the original bed?",
+  "vocabularyIds": [
+    6579,
+    6580,
+    6581,
+    6582,
+    6947,
+    8035
+  ],
+  "radicalIds": [
+    62,
+    23
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%BA%8A"
+}

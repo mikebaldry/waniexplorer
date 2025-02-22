@@ -1,34 +1,42 @@
 {
   "id": 1434,
   "type": "kanji",
-  "character": "漏",
-  "primaryMeaning": "Leak",
-  "otherMeanings": [],
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "漏"
+  },
   "primaryReading": "ろう",
   "readings": [
     {
-      "reading": "ろう",
       "primary": true,
+      "reading": "ろう",
       "type": "onyomi"
     },
     {
-      "reading": "も",
       "primary": false,
+      "reading": "も",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "The <kanji>leak</kanji> is getting worse and worse and so is the tsunami, when you see something outside. It’s a bunch of <reading>roe</reading> (ろう) floating in the waves. Using your quick thinking skills you scoop it up and shove it into the cracks where the water is leaking in. It works like a charm!",
+  "primaryMeaning": "Leak",
+  "otherMeanings": [],
   "meaningMnemonic": "A <radical>tsunami</radical> rips a <radical>flag</radical> off your house in the <radical>rain</radical>, causing a <kanji>leak</kanji> where it was ripped out. The rain and the tsunami combined just tore the flag right off your house. The force was so strong that it actually removed part of the wall, and now you have a leak in your home.",
-  "vocabularyIds": [
-    5334,
-    5335,
-    5336,
-    5608
-  ],
-  "radicalIds": [
-    103,
-    37,
-    119
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%BC%8F"
+  "readingMnemonic": "The <kanji>leak</kanji> is getting worse and worse and so is the tsunami, when you see something outside. It’s a bunch of <reading>roe</reading> (ろう) floating in the waves. Using your quick thinking skills you scoop it up and shove it into the cracks where the water is leaking in. It works like a charm!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%BC%8F"
+  },
+  "related": {
+    "radicals": [
+      103,
+      37,
+      119
+    ],
+    "vocabularies": [
+      5334,
+      5335,
+      5336,
+      5608
+    ]
+  }
 }

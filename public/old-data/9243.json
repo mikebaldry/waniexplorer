@@ -1,0 +1,36 @@
+{
+  "id": 9243,
+  "type": "vocabulary",
+  "characters": "行",
+  "primaryMeaning": "Line of Text",
+  "otherMeanings": [
+    "Line",
+    "Row"
+  ],
+  "primaryReading": "ぎょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 580,
+      "character": "行",
+      "readings": [
+        "こう",
+        "ぎょう",
+        "い",
+        "おこな",
+        "ゆ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You write the word <kanji>go</kanji> on a <vocabulary>line of text</vocabulary>. See the word \"go\" on that <vocabulary>line</vocabulary>, and think about where you're going.\n\nThis word can also be used for <vocabulary>row</vocabulary>s (horizontal lines in Excel and other spreadsheets).",
+  "readingMnemonic": "There are two on'yomi readings for this kanji, but when it's used to mean lines of text, it's pronounced as ぎょう. Here's a mnemonic to help you remember that:\n\nYou write out another <vocabulary>line of text</vocabulary> asking for some <reading>gyo</reading>za (ぎょう). You write out that line of text slowly and carefully, in your very best handwriting. Turns out you were going to a gyoza restaurant and you want to make sure you impress the gyoza chef, so that they give you a ton of gyoza.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A1%8C",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "行",
+      "id": 580,
+      "reading": "ぎょう"
+    }
+  ]
+}

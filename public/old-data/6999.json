@@ -1,0 +1,60 @@
+{
+  "id": 6999,
+  "type": "vocabulary",
+  "characters": "猿真似",
+  "primaryMeaning": "Monkey See Monkey Do",
+  "otherMeanings": [
+    "Mindless Imitation"
+  ],
+  "primaryReading": "さるまね",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1955,
+      "character": "猿",
+      "readings": [
+        "さる",
+        "えん"
+      ]
+    },
+    {
+      "id": 971,
+      "character": "真",
+      "readings": [
+        "しん",
+        "ま"
+      ]
+    },
+    {
+      "id": 1472,
+      "character": "似",
+      "readings": [
+        "に",
+        "じ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If 真似 is <kanji>imitation</kanji> and if a <kanji>monkey</kanji> is doing said imitation, that's summed up by the saying: <vocabulary>monkey see monkey do</vocabulary>.\n\nThis refers to when someone does a <vocabulary>mindless imitation</vocabulary> of others without any real thought, so is often used when criticizing people. ",
+  "readingMnemonic": "The readings are 猿 plus 真似 put together.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%8C%BF%E7%9C%9F%E4%BC%BC",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "猿",
+      "id": 1955,
+      "reading": "さる"
+    },
+    {
+      "type": "kanji",
+      "value": "真",
+      "id": 971,
+      "reading": "ま"
+    },
+    {
+      "type": "kanji",
+      "value": "似",
+      "id": 1472,
+      "reading": null
+    }
+  ]
+}

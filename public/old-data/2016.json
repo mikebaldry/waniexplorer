@@ -1,0 +1,33 @@
+{
+  "id": 2016,
+  "type": "kanji",
+  "character": "辱",
+  "primaryMeaning": "Humiliate",
+  "otherMeanings": [],
+  "primaryReading": "じょく",
+  "readings": [
+    {
+      "reading": "じょく",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "はずかし",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Your friends and coworkers <kanji>humiliate</kanji> you more by making <reading>joke</reading>s (じょく). \"Uh oh, I heard it might rain later, I hope you don't drown in the inch of water that's coming!\"",
+  "meaningMnemonic": "The <radical>landslide</radical> <radical>measurement</radical> <kanji>humiliate</kanji>s you. You told everyone you couldn't come to work, that your house had been destroyed and your car was carried away, but then scientists measured the landslide, and it only went a few feet.",
+  "vocabularyIds": [
+    7172,
+    7173,
+    7174,
+    8519
+  ],
+  "radicalIds": [
+    183,
+    74
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%BE%B1"
+}

@@ -1,34 +1,42 @@
 {
   "id": 1309,
   "type": "kanji",
-  "character": "豚",
-  "primaryMeaning": "Pig",
-  "otherMeanings": [],
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "豚"
+  },
   "primaryReading": "ぶた",
   "readings": [
     {
-      "reading": "ぶた",
       "primary": true,
+      "reading": "ぶた",
       "type": "kunyomi"
     },
     {
-      "reading": "とん",
       "primary": false,
+      "reading": "とん",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "Legend has it that if you catch a <kanji>pig</kanji> in moonlight, it will tell you its secrets. Sure enough, this pig tells you it's from <reading>Bhuta</reading>n (ぶた).",
+  "primaryMeaning": "Pig",
+  "otherMeanings": [],
   "meaningMnemonic": "When the <radical>moon</radical> is bright, it's easy to see that a <radical>pig</radical> is indeed a <kanji>pig</kanji>. ",
-  "vocabularyIds": [
-    4946,
-    4970,
-    4971,
-    9089,
-    9090
-  ],
-  "radicalIds": [
-    43,
-    233
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%B1%9A"
+  "readingMnemonic": "Legend has it that if you catch a <kanji>pig</kanji> in moonlight, it will tell you its secrets. Sure enough, this pig tells you it's from <reading>Bhuta</reading>n (ぶた).",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%B1%9A"
+  },
+  "related": {
+    "radicals": [
+      43,
+      233
+    ],
+    "vocabularies": [
+      4946,
+      4970,
+      4971,
+      9089,
+      9090
+    ]
+  }
 }

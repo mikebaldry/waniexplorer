@@ -1,33 +1,41 @@
 {
   "id": 1601,
   "type": "kanji",
-  "character": "熊",
-  "primaryMeaning": "Bear",
-  "otherMeanings": [],
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "熊"
+  },
   "primaryReading": "くま",
   "readings": [
     {
-      "reading": "くま",
       "primary": true,
+      "reading": "くま",
       "type": "kunyomi"
     },
     {
-      "reading": "ゆう",
       "primary": false,
+      "reading": "ゆう",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "A <kanji>bear</kanji> boiling in front of you should fill you with great honor. Or, as they say in Latin: Magma <reading>cum</reading> (くま) laude.\n\nGet it? A little hot bear humor for you.",
+  "primaryMeaning": "Bear",
+  "otherMeanings": [],
   "meaningMnemonic": "The <radical>ability</radical> to <radical>boil</radical> is one of the main abilities of a <kanji>bear</kanji>.",
-  "vocabularyIds": [
-    5910,
-    5911,
-    8341,
-    8688
-  ],
-  "radicalIds": [
-    287,
-    131
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%86%8A"
+  "readingMnemonic": "A <kanji>bear</kanji> boiling in front of you should fill you with great honor. Or, as they say in Latin: Magma <reading>cum</reading> (くま) laude.\n\nGet it? A little hot bear humor for you.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%86%8A"
+  },
+  "related": {
+    "radicals": [
+      287,
+      131
+    ],
+    "vocabularies": [
+      5910,
+      5911,
+      8341,
+      8688
+    ]
+  }
 }

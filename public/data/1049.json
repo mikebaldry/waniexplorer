@@ -1,35 +1,43 @@
 {
   "id": 1049,
   "type": "kanji",
-  "character": "可",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "可"
+  },
+  "primaryReading": "か",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "か",
+      "type": "onyomi"
+    }
+  ],
   "primaryMeaning": "Possible",
   "otherMeanings": [
     "Passable"
   ],
-  "primaryReading": "か",
-  "readings": [
-    {
-      "reading": "か",
-      "primary": true,
-      "type": "onyomi"
-    }
-  ],
-  "readingMnemonic": "Since anything and everything is <kanji>possible</kanji> with your new <kanji>passable</kanji> lip ring, you use it to get a new <reading>ca</reading>r (か). You go to the car dealership and ask for a free (passable) car. The manager is impressed with your lip ring and gladly hands over the keys to the latest model of your favorite car. Not bad.",
   "meaningMnemonic": "With a <radical>lip ring</radical>, anything is <kanji>possible</kanji>. Having a lip ring grants you the power to conquer any obstacle, achieve any goal. As long as it's a <kanji>passable</kanji> lip ring, that is. If it isn't good enough, it isn't possible to be passable.",
-  "vocabularyIds": [
-    4077,
-    4078,
-    4080,
-    4357,
-    4363,
-    4656,
-    4839,
-    4840,
-    6882,
-    7083
-  ],
-  "radicalIds": [
-    113
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%8F%AF"
+  "readingMnemonic": "Since anything and everything is <kanji>possible</kanji> with your new <kanji>passable</kanji> lip ring, you use it to get a new <reading>ca</reading>r (か). You go to the car dealership and ask for a free (passable) car. The manager is impressed with your lip ring and gladly hands over the keys to the latest model of your favorite car. Not bad.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%8F%AF"
+  },
+  "related": {
+    "radicals": [
+      113
+    ],
+    "vocabularies": [
+      4077,
+      4078,
+      4080,
+      4357,
+      4363,
+      4656,
+      4839,
+      4840,
+      6882,
+      7083
+    ]
+  }
 }

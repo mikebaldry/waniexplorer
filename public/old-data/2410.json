@@ -1,0 +1,36 @@
+{
+  "id": 2410,
+  "type": "kanji",
+  "character": "漆",
+  "primaryMeaning": "Lacquer",
+  "otherMeanings": [
+    "Varnish"
+  ],
+  "primaryReading": "しつ",
+  "readings": [
+    {
+      "reading": "しつ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "うるし",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You decide to scoop up the rest of the <kanji>lacquer</kanji> water and use it on your furniture to protect it from your <reading>shih tzu</reading> (しつ). Now it can't bite or scratch or ruin any of your things anymore!",
+  "meaningMnemonic": "A <radical>tsunami</radical> hits a <radical>tree</radical> and your <radical>hat</radical> protects you from the <radical>water</radical>, but the hat itself is now covered in <kanji>lacquer</kanji>. You take it off and see that it's shiny and hard and protected.",
+  "vocabularyIds": [
+    8553,
+    8554,
+    8555
+  ],
+  "radicalIds": [
+    103,
+    23,
+    8764,
+    45
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%BC%86"
+}

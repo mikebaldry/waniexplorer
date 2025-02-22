@@ -1,46 +1,21 @@
 {
   "id": 4508,
   "type": "vocabulary",
-  "characters": "各々",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "各々"
+  },
   "primaryMeaning": "Each",
+  "meaningMnemonic": "You have <kanji>each</kanji> <kanji>each</kanji> which is <vocabulary>each</vocabulary> (or <vocabulary>every</vocabulary>, or \"<vocabulary>respectively</vocabulary>\"). Kind of goes along the lines of \"each and every\" in English.",
+  "primaryReading": "おのおの",
+  "readingMnemonic": "The reading is weird. So sorry. Just imagine you look at <vocabulary>each</vocabulary> item. Every single one is messed up in some way. Possibly they are robots all accidentally programmed to need to kill humans. You say \"<reading>oh no oh no</reading>\" in quick succession because this is a bad situation.",
   "otherMeanings": [
     "Every",
     "Respectively"
   ],
-  "primaryReading": "おのおの",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1162,
-      "character": "各",
-      "readings": [
-        "かく",
-        "おの"
-      ]
-    },
-    {
-      "id": 856,
-      "character": "々",
-      "readings": [
-        "のま"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You have <kanji>each</kanji> <kanji>each</kanji> which is <vocabulary>each</vocabulary> (or <vocabulary>every</vocabulary>, or \"<vocabulary>respectively</vocabulary>\"). Kind of goes along the lines of \"each and every\" in English.",
-  "readingMnemonic": "The reading is weird. So sorry. Just imagine you look at <vocabulary>each</vocabulary> item. Every single one is messed up in some way. Possibly they are robots all accidentally programmed to need to kill humans. You say \"<reading>oh no oh no</reading>\" in quick succession because this is a bad situation.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%90%84%E3%80%85",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "各",
-      "id": 1162,
-      "reading": "おの"
-    },
-    {
-      "type": "kanji",
-      "value": "々",
-      "id": 1162,
-      "reading": "おの"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%90%84%E3%80%85"
+  }
 }

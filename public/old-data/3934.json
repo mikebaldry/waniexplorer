@@ -1,0 +1,62 @@
+{
+  "id": 3934,
+  "type": "vocabulary",
+  "characters": "紀元前",
+  "primaryMeaning": "Before The Common Era",
+  "otherMeanings": [
+    "BCE",
+    "Before Christ",
+    "BC"
+  ],
+  "primaryReading": "きげんぜん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 952,
+      "character": "紀",
+      "readings": [
+        "き"
+      ]
+    },
+    {
+      "id": 498,
+      "character": "元",
+      "readings": [
+        "げん",
+        "がん",
+        "もと"
+      ]
+    },
+    {
+      "id": 633,
+      "character": "前",
+      "readings": [
+        "ぜん",
+        "まえ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Remember how 紀元後 is \"Common Era\", or \"anno Domini\"? Well, this is the opposite because it has <kanji>before</kanji> (前) instead of 後. It's <vocabulary>Before the Common Era</vocabulary> or <vocabulary>Before Christ</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. It will also help if you know how to read 紀元後 already, because then you'll just have to remember the 前.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B4%80%E5%85%83%E5%89%8D",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "紀",
+      "id": 952,
+      "reading": "き"
+    },
+    {
+      "type": "kanji",
+      "value": "元",
+      "id": 498,
+      "reading": "げん"
+    },
+    {
+      "type": "kanji",
+      "value": "前",
+      "id": 633,
+      "reading": "ぜん"
+    }
+  ]
+}

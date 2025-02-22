@@ -1,41 +1,49 @@
 {
   "id": 1160,
   "type": "kanji",
-  "character": "寝",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "寝"
+  },
+  "primaryReading": "ね",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ね",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "しん",
+      "type": "onyomi"
+    }
+  ],
   "primaryMeaning": "Lie Down",
   "otherMeanings": [
     "Sleep"
   ],
-  "primaryReading": "ね",
-  "readings": [
-    {
-      "reading": "ね",
-      "primary": true,
-      "type": "kunyomi"
-    },
-    {
-      "reading": "しん",
-      "primary": false,
-      "type": "onyomi"
-    }
-  ],
-  "readingMnemonic": "While wolverine <kanji>sleep</kanji>s, he makes a horrible <reading>neigh</reading>ing (ね) sound. It's like there's a giant horse in his mouth screaming to get out! NEIGH NEIGH!",
   "meaningMnemonic": "From the <radical>roof</radical>, an <radical>icicle</radical> falls and hits <radical>wolverine</radical> in the <radical>forehead</radical>, and he has to go over to the <radical>stool</radical> to <kanji>lie down</kanji>. And eventually he goes to <kanji>sleep</kanji>.",
-  "vocabularyIds": [
-    4488,
-    4489,
-    4490,
-    4491,
-    4660,
-    4861,
-    6947
-  ],
-  "radicalIds": [
-    78,
-    8826,
-    105,
-    76,
-    30
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%AF%9D"
+  "readingMnemonic": "While wolverine <kanji>sleep</kanji>s, he makes a horrible <reading>neigh</reading>ing (ね) sound. It's like there's a giant horse in his mouth screaming to get out! NEIGH NEIGH!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%AF%9D"
+  },
+  "related": {
+    "radicals": [
+      78,
+      8826,
+      105,
+      76,
+      30
+    ],
+    "vocabularies": [
+      4488,
+      4489,
+      4490,
+      4491,
+      4660,
+      4861,
+      6947
+    ]
+  }
 }

@@ -1,0 +1,48 @@
+{
+  "id": 4932,
+  "type": "vocabulary",
+  "characters": "面接",
+  "primaryMeaning": "Interview",
+  "otherMeanings": [
+    "Job Interview",
+    "Oral Examination"
+  ],
+  "primaryReading": "めんせつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 974,
+      "character": "面",
+      "readings": [
+        "めん",
+        "おも",
+        "おもて"
+      ]
+    },
+    {
+      "id": 1311,
+      "character": "接",
+      "readings": [
+        "せつ",
+        "つ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Our <kanji>face</kanji>s have <kanji>adjoin</kanji>ed in this one room to talk. You did the telephone interview where you didn't show the face of your face. Now you're showing it, so we can begin the real <vocabulary>interview</vocabulary>.\n\n面接 generally refers to a <vocabulary>job interview</vocabulary> or an <vocabulary>oral examination</vocabulary>. For conversations between media professionals and people of public interest, インタビュー is used instead.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9D%A2%E6%8E%A5",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "面",
+      "id": 974,
+      "reading": "めん"
+    },
+    {
+      "type": "kanji",
+      "value": "接",
+      "id": 1311,
+      "reading": "せつ"
+    }
+  ]
+}

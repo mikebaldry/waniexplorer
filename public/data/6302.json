@@ -1,57 +1,18 @@
 {
   "id": 6302,
   "type": "vocabulary",
-  "characters": "埼玉県",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "埼玉県"
+  },
   "primaryMeaning": "Saitama Prefecture",
-  "otherMeanings": [],
-  "primaryReading": "さいたまけん",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1726,
-      "character": "埼",
-      "readings": [
-        "さい",
-        "き"
-      ]
-    },
-    {
-      "id": 489,
-      "character": "玉",
-      "readings": [
-        "たま",
-        "ぎょく"
-      ]
-    },
-    {
-      "id": 731,
-      "character": "県",
-      "readings": [
-        "けん"
-      ]
-    }
-  ],
   "meaningMnemonic": "The <kanji>cape</kanji> <kanji>ball</kanji> <kanji>prefecture</kanji> is <vocabulary>Saitama Prefecture</vocabulary>.",
+  "primaryReading": "さいたまけん",
   "readingMnemonic": "The readings are the kun'yomi readings of 埼 and 玉, and the regular reading for 県. ",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%9F%BC%E7%8E%89%E7%9C%8C",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "埼",
-      "id": 1726,
-      "reading": "さい"
-    },
-    {
-      "type": "kanji",
-      "value": "玉",
-      "id": 489,
-      "reading": "たま"
-    },
-    {
-      "type": "kanji",
-      "value": "県",
-      "id": 731,
-      "reading": "けん"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%9F%BC%E7%8E%89%E7%9C%8C"
+  }
 }

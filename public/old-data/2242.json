@@ -1,0 +1,29 @@
+{
+  "id": 2242,
+  "type": "kanji",
+  "character": "呈",
+  "primaryMeaning": "Present",
+  "otherMeanings": [
+    "Display"
+  ],
+  "primaryReading": "てい",
+  "readings": [
+    {
+      "reading": "てい",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "\"I will <kanji>present</kanji> to you a presentation about mouths, but I require energy. Please fill my giant mouth body with delicious <reading>ta</reading>ter (てい) tots.",
+  "meaningMnemonic": "The <radical>Mouth</radical> <radical>King</radical>, who is just one big mouth, has one skill, and that is to <kanji>present</kanji>. That big mouth is always presenting something.",
+  "vocabularyIds": [
+    8082,
+    8083,
+    8084
+  ],
+  "radicalIds": [
+    16,
+    48
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%91%88"
+}

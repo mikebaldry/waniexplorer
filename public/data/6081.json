@@ -1,48 +1,18 @@
 {
   "id": 6081,
   "type": "vocabulary",
-  "characters": "反抗する",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "反抗する"
+  },
   "primaryMeaning": "To Rebel",
-  "otherMeanings": [],
-  "primaryReading": "はんこうする",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 855,
-      "character": "反",
-      "readings": [
-        "はん",
-        "そ"
-      ]
-    },
-    {
-      "id": 1654,
-      "character": "抗",
-      "readings": [
-        "こう",
-        "あらが"
-      ]
-    }
-  ],
   "meaningMnemonic": "If you're <kanji>anti</kanji> something and you <kanji>confront</kanji> the government about it, in some cases you are going <vocabulary>to rebel</vocabulary> against the government... that is, if you're crazy enough about it.",
+  "primaryReading": "はんこうする",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8F%8D%E6%8A%97%E3%81%99%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "反",
-      "id": 855,
-      "reading": "はん"
-    },
-    {
-      "type": "kanji",
-      "value": "抗",
-      "id": 1654,
-      "reading": "こう"
-    },
-    {
-      "type": "kana",
-      "value": "する"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%8F%8D%E6%8A%97%E3%81%99%E3%82%8B"
+  }
 }

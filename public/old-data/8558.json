@@ -1,0 +1,35 @@
+{
+  "id": 8558,
+  "type": "vocabulary",
+  "characters": "漬かる",
+  "primaryMeaning": "To Be Well Pickled",
+  "otherMeanings": [
+    "To Be Well Marinated"
+  ],
+  "primaryReading": "つかる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2336,
+      "character": "漬",
+      "readings": [
+        "つ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You already learned that 漬ける means \"to pickle something.\" When it becomes 漬かる, it means the food has reached a state where the pickling or marinating process is complete, and it's ready to eat. So this word means <vocabulary>to be well pickled</vocabulary> or <vocabulary>to be well marinated</vocabulary>.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You learned this reading already when you learned 漬ける, so you should be able to read this one too.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%BC%AC%E3%81%8B%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "漬",
+      "id": 2336,
+      "reading": "つ"
+    },
+    {
+      "type": "kana",
+      "value": "かる"
+    }
+  ]
+}

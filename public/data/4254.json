@@ -1,37 +1,21 @@
 {
   "id": 4254,
   "type": "vocabulary",
-  "characters": "余る",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "余る"
+  },
   "primaryMeaning": "To Be In Surplus",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>surplus</kanji> so the verb version would be <vocabulary>to be in surplus</vocabulary>, <vocabulary>to remain left over</vocabulary>, or <vocabulary>to be in excess</vocabulary>. Too much!",
+  "primaryReading": "あまる",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \"I have a surplus of kittens from that last batch we made, Reddit. <reading>AMA</reading> (ask me anything, あま).\"",
   "otherMeanings": [
     "To Remain Left Over",
     "To Be In Excess"
   ],
-  "primaryReading": "あまる",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1094,
-      "character": "余",
-      "readings": [
-        "よ",
-        "あま"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>surplus</kanji> so the verb version would be <vocabulary>to be in surplus</vocabulary>, <vocabulary>to remain left over</vocabulary>, or <vocabulary>to be in excess</vocabulary>. Too much!",
-  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \"I have a surplus of kittens from that last batch we made, Reddit. <reading>AMA</reading> (ask me anything, あま).\"",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BD%99%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "余",
-      "id": 1094,
-      "reading": "あま"
-    },
-    {
-      "type": "kana",
-      "value": "る"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BD%99%E3%82%8B"
+  }
 }

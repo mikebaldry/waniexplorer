@@ -1,0 +1,32 @@
+{
+  "id": 1216,
+  "type": "kanji",
+  "character": "秀",
+  "primaryMeaning": "Excel",
+  "otherMeanings": [],
+  "primaryReading": "しゅう",
+  "readings": [
+    {
+      "reading": "しゅう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ひい",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "In order to <kanji>excel</kanji> at this, though, you need a good pair of <reading>shoe</reading>s (しゅう). ",
+  "meaningMnemonic": "If you can eat <radical>grain</radical>s while running up <radical>stairs</radical>, you'll <kanji>excel</kanji> at everything. ",
+  "vocabularyIds": [
+    4652,
+    4653,
+    8152
+  ],
+  "radicalIds": [
+    135,
+    200
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%A7%80"
+}

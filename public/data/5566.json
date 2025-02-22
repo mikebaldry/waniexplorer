@@ -1,57 +1,18 @@
 {
   "id": 5566,
   "type": "vocabulary",
-  "characters": "共産党",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "共産党"
+  },
   "primaryMeaning": "Communist Party",
-  "otherMeanings": [],
-  "primaryReading": "きょうさんとう",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 778,
-      "character": "共",
-      "readings": [
-        "きょう",
-        "とも"
-      ]
-    },
-    {
-      "id": 1109,
-      "character": "産",
-      "readings": [
-        "さん",
-        "う"
-      ]
-    },
-    {
-      "id": 1500,
-      "character": "党",
-      "readings": [
-        "とう"
-      ]
-    }
-  ],
   "meaningMnemonic": "The idea of everyone <kanji>together</kanji> sharing <kanji>property</kanji> between them comes from which <kanji>party</kanji>? That's the <vocabulary>Communist Party</vocabulary>.",
+  "primaryReading": "きょうさんとう",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%85%B1%E7%94%A3%E5%85%9A",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "共",
-      "id": 778,
-      "reading": "きょう"
-    },
-    {
-      "type": "kanji",
-      "value": "産",
-      "id": 1109,
-      "reading": "さん"
-    },
-    {
-      "type": "kanji",
-      "value": "党",
-      "id": 1500,
-      "reading": "とう"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%85%B1%E7%94%A3%E5%85%9A"
+  }
 }

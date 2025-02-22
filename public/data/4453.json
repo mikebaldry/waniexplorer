@@ -1,45 +1,21 @@
 {
   "id": 4453,
   "type": "vocabulary",
-  "characters": "条約",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "条約"
+  },
   "primaryMeaning": "Treaty",
+  "meaningMnemonic": "There are many <kanji>clause</kanji>s about the <kanji>promise</kanji>s you make in this contract considering it's supposed to be a <vocabulary>treaty</vocabulary>.",
+  "primaryReading": "じょうやく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Pact",
     "Agreement"
   ],
-  "primaryReading": "じょうやく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1145,
-      "character": "条",
-      "readings": [
-        "じょう"
-      ]
-    },
-    {
-      "id": 915,
-      "character": "約",
-      "readings": [
-        "やく"
-      ]
-    }
-  ],
-  "meaningMnemonic": "There are many <kanji>clause</kanji>s about the <kanji>promise</kanji>s you make in this contract considering it's supposed to be a <vocabulary>treaty</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9D%A1%E7%B4%84",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "条",
-      "id": 1145,
-      "reading": "じょう"
-    },
-    {
-      "type": "kanji",
-      "value": "約",
-      "id": 915,
-      "reading": "やく"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%9D%A1%E7%B4%84"
+  }
 }

@@ -1,47 +1,21 @@
 {
   "id": 8682,
   "type": "vocabulary",
-  "characters": "理屈",
+  "level": 27,
+  "characters": {
+    "type": "text",
+    "value": "理屈"
+  },
   "primaryMeaning": "Logic",
+  "meaningMnemonic": "<kanji>Reason</kanji> <kanji>yield</kanji>s to <vocabulary>logic</vocabulary> and more <vocabulary>reasoning</vocabulary>.\n\n理屈 can be neutral, but it often has negative connotations too, like when it refers to an <vocabulary>argument</vocabulary> that contains questionable logic, pretexts, or too much pedantry.",
+  "primaryReading": "りくつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Reasoning",
     "Argument"
   ],
-  "primaryReading": "りくつ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 669,
-      "character": "理",
-      "readings": [
-        "り",
-        "ことわり"
-      ]
-    },
-    {
-      "id": 1320,
-      "character": "屈",
-      "readings": [
-        "くつ",
-        "かが"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Reason</kanji> <kanji>yield</kanji>s to <vocabulary>logic</vocabulary> and more <vocabulary>reasoning</vocabulary>.\n\n理屈 can be neutral, but it often has negative connotations too, like when it refers to an <vocabulary>argument</vocabulary> that contains questionable logic, pretexts, or too much pedantry.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%90%86%E5%B1%88",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "理",
-      "id": 669,
-      "reading": "り"
-    },
-    {
-      "type": "kanji",
-      "value": "屈",
-      "id": 1320,
-      "reading": "くつ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%90%86%E5%B1%88"
+  }
 }

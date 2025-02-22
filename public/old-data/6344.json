@@ -1,0 +1,52 @@
+{
+  "id": 6344,
+  "type": "vocabulary",
+  "characters": "遠慮する",
+  "primaryMeaning": "To Decline",
+  "otherMeanings": [
+    "To Restrain",
+    "To Refrain"
+  ],
+  "primaryReading": "えんりょする",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 963,
+      "character": "遠",
+      "readings": [
+        "えん",
+        "とお"
+      ]
+    },
+    {
+      "id": 1690,
+      "character": "慮",
+      "readings": [
+        "りょ",
+        "おもんぱく",
+        "おもんぱか"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If 遠慮 is \"decline\" or \"restrain\" then the verb vocab version is <vocabulary>to decline</vocabulary> or <vocabulary>to restrain</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Also, the reading comes from 遠慮.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%81%A0%E6%85%AE%E3%81%99%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "遠",
+      "id": 963,
+      "reading": "えん"
+    },
+    {
+      "type": "kanji",
+      "value": "慮",
+      "id": 1690,
+      "reading": "りょ"
+    },
+    {
+      "type": "kana",
+      "value": "する"
+    }
+  ]
+}

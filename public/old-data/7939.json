@@ -1,0 +1,36 @@
+{
+  "id": 7939,
+  "type": "vocabulary",
+  "characters": "遭う",
+  "primaryMeaning": "To Meet",
+  "otherMeanings": [
+    "To Encounter"
+  ],
+  "primaryReading": "あう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2182,
+      "character": "遭",
+      "readings": [
+        "そう",
+        "あ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>encounter</kanji>, so the verb version is <vocabulary>to encounter</vocabulary> or <vocabulary>to meet</vocabulary>.",
+  "readingMnemonic": "Remember how 会う also means <vocabulary>to meet</vocabulary>? Well they're both read あう too! So if you know that one, you know this one too!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%81%AD%E3%81%86",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "遭",
+      "id": 2182,
+      "reading": "あ"
+    },
+    {
+      "type": "kana",
+      "value": "う"
+    }
+  ]
+}

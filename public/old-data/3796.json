@@ -1,0 +1,36 @@
+{
+  "id": 3796,
+  "type": "vocabulary",
+  "characters": "ご飯",
+  "primaryMeaning": "Meal",
+  "otherMeanings": [
+    "Cooked Rice"
+  ],
+  "primaryReading": "ごはん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 955,
+      "character": "飯",
+      "readings": [
+        "はん",
+        "めし"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The ご just makes this word more polite and fancy. When it comes to food, it's nice to be those things. This has the same meaning as the kanji (<kanji>meal</kanji>) making it <vocabulary>meal</vocabulary>, but it also refers to <vocabulary>cooked rice</vocabulary> as well. So, \"Come eat your ご飯\" can be both \"come eat your rice\" and \"come eat your meal.\" Really, since most Japanese meals come with rice, though, you can see how the overlap happens.",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji. Now how about you \"<reading>han</reading>d\" me another bowl of rice?",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E3%81%94%E9%A3%AF",
+  "elements": [
+    {
+      "type": "kana",
+      "value": "ご"
+    },
+    {
+      "type": "kanji",
+      "value": "飯",
+      "id": 955,
+      "reading": "はん"
+    }
+  ]
+}

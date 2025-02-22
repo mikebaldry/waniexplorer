@@ -1,38 +1,22 @@
 {
   "id": 6578,
   "type": "vocabulary",
-  "characters": "堅い",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "堅い"
+  },
   "primaryMeaning": "Solid",
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>solid</kanji>? It's <vocabulary>solid</vocabulary>, <vocabulary>serious</vocabulary>, <vocabulary>upright</vocabulary>, or <vocabulary>hard</vocabulary>. This word is often used in the figurative sense, as in a solid defence, a serious topic, or an upright person.",
+  "primaryReading": "かたい",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
   "otherMeanings": [
     "Serious",
     "Upright",
     "Hard"
   ],
-  "primaryReading": "かたい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1809,
-      "character": "堅",
-      "readings": [
-        "かた",
-        "けん"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>solid</kanji>? It's <vocabulary>solid</vocabulary>, <vocabulary>serious</vocabulary>, <vocabulary>upright</vocabulary>, or <vocabulary>hard</vocabulary>. This word is often used in the figurative sense, as in a solid defence, a serious topic, or an upright person.",
-  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A0%85%E3%81%84",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "堅",
-      "id": 1809,
-      "reading": "かた"
-    },
-    {
-      "type": "kana",
-      "value": "い"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A0%85%E3%81%84"
+  }
 }

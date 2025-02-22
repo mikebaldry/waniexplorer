@@ -1,47 +1,20 @@
 {
   "id": 6481,
   "type": "vocabulary",
-  "characters": "早瀬",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "早瀬"
+  },
   "primaryMeaning": "Swift Currents",
+  "meaningMnemonic": "A <kanji>quick</kanji> <kanji>rapids</kanji> is going to have <vocabulary>swift currents</vocabulary>.",
+  "primaryReading": "はやせ",
+  "readingMnemonic": "The reading comes from 早い and the reading you learned for 瀬.",
   "otherMeanings": [
     "Rapids"
   ],
-  "primaryReading": "はやせ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 547,
-      "character": "早",
-      "readings": [
-        "そう",
-        "はや",
-        "さ"
-      ]
-    },
-    {
-      "id": 1777,
-      "character": "瀬",
-      "readings": [
-        "せ",
-        "らい"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>quick</kanji> <kanji>rapids</kanji> is going to have <vocabulary>swift currents</vocabulary>.",
-  "readingMnemonic": "The reading comes from 早い and the reading you learned for 瀬.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%97%A9%E7%80%AC",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "早",
-      "id": 547,
-      "reading": "はや"
-    },
-    {
-      "type": "kanji",
-      "value": "瀬",
-      "id": 1777,
-      "reading": "せ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%97%A9%E7%80%AC"
+  }
 }

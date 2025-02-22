@@ -1,12 +1,15 @@
 {
   "id": 413,
   "type": "radical",
-  "primaryMeaning": "Reality",
-  "otherMeanings": [],
-  "character": {
+  "level": 39,
+  "characters": {
     "type": "text",
     "value": "真"
   },
+  "primaryMeaning": "Reality",
+  "otherMeanings": [],
   "meaningMnemonic": "This radical is the same as the kanji. It means <radical>reality</radical>.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/reality"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/reality"
+  }
 }

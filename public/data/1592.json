@@ -1,32 +1,40 @@
 {
   "id": 1592,
   "type": "kanji",
-  "character": "剣",
-  "primaryMeaning": "Sword",
-  "otherMeanings": [],
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "剣"
+  },
   "primaryReading": "けん",
   "readings": [
     {
-      "reading": "けん",
       "primary": true,
+      "reading": "けん",
       "type": "onyomi"
     },
     {
-      "reading": "つるぎ",
       "primary": false,
+      "reading": "つるぎ",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "You learned how to make <kanji>sword</kanji>s this way from <reading>Ken</reading> (けん) the samurai. He put his own little squid buddy on his knife and now no one realizes it's not a sword!",
+  "primaryMeaning": "Sword",
+  "otherMeanings": [],
   "meaningMnemonic": "Tie a <radical>squid</radical> to a <radical>knife</radical> and you get a <kanji>sword</kanji>! Knives are too small to be considered a sword on their own. That's why you strapped a squid to it. They're the right shape, kinda pointed, so no one will know it's just a knife.",
-  "vocabularyIds": [
-    5889,
-    5890,
-    7555
-  ],
-  "radicalIds": [
-    8785,
-    128
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%89%A3"
+  "readingMnemonic": "You learned how to make <kanji>sword</kanji>s this way from <reading>Ken</reading> (けん) the samurai. He put his own little squid buddy on his knife and now no one realizes it's not a sword!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%89%A3"
+  },
+  "related": {
+    "radicals": [
+      8785,
+      128
+    ],
+    "vocabularies": [
+      5889,
+      5890,
+      7555
+    ]
+  }
 }

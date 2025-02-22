@@ -1,0 +1,38 @@
+{
+  "id": 5153,
+  "type": "vocabulary",
+  "characters": "微か",
+  "primaryMeaning": "Delicate",
+  "otherMeanings": [
+    "Faint",
+    "Indistinct",
+    "Dim"
+  ],
+  "primaryReading": "かすか",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1366,
+      "character": "微",
+      "readings": [
+        "び",
+        "かす"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji means <kanji>delicate</kanji>, and so does this word. Something that's <vocabulary>delicate</vocabulary> is probably also <vocabulary>faint</vocabulary> and <vocabulary>indistinct</vocabulary>. So use 微か to describe things like faint sounds, delicate breezes, and indistinct memories.",
+  "readingMnemonic": "You should should speak in a <vocabulary>delicate</vocabulary> and <vocabulary>faint</vocabulary> voice when you <reading>cuss</reading> (かす). So delicate that the cuss words are <vocabulary>indistinct</vocabulary> to other people, even. It's the only acceptable way to cuss.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BE%AE%E3%81%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "微",
+      "id": 1366,
+      "reading": "かす"
+    },
+    {
+      "type": "kana",
+      "value": "か"
+    }
+  ]
+}

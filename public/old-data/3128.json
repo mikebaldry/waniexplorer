@@ -1,0 +1,34 @@
+{
+  "id": 3128,
+  "type": "vocabulary",
+  "characters": "待つ",
+  "primaryMeaning": "To Wait",
+  "otherMeanings": [],
+  "primaryReading": "まつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 726,
+      "character": "待",
+      "readings": [
+        "たい",
+        "ま"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>wait</kanji> so the verb version is <vocabulary>to wait</vocabulary>.",
+  "readingMnemonic": "You need <vocabulary>to wait</vocabulary> for your <reading>ma</reading>ma (ま) all the time. You want to go out? You have to wait for mama to drive you. Want to eat dinner? You have to wait for mama to make you food. Hmm. Maybe all this waiting is really a you problem.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BE%85%E3%81%A4",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "待",
+      "id": 726,
+      "reading": "ま"
+    },
+    {
+      "type": "kana",
+      "value": "つ"
+    }
+  ]
+}

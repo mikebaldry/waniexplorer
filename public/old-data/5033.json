@@ -1,0 +1,34 @@
+{
+  "id": 5033,
+  "type": "vocabulary",
+  "characters": "暇",
+  "primaryMeaning": "Spare Time",
+  "otherMeanings": [
+    "Free Time",
+    "Not Busy"
+  ],
+  "primaryReading": "ひま",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1322,
+      "character": "暇",
+      "readings": [
+        "か",
+        "ひま",
+        "いとま"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.\n\n暇 means the <vocabulary>spare time</vocabulary> or <vocabulary>free time</vocabulary> you have when you're <vocabulary>not busy</vocabulary> with work, school, or other obligations. It can also indicate a slow period for a business or a time when you have nothing to do, often suggesting a sense of boredom.",
+  "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You did not learn this reading, so here's a mnemonic to help you remember: \n\nIn your <vocabulary>spare time</vocabulary> you like to drink <reading>hima</reading> (ひま), an off brand version of Zima.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9A%87",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "暇",
+      "id": 1322,
+      "reading": "ひま"
+    }
+  ]
+}

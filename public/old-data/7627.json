@@ -1,0 +1,48 @@
+{
+  "id": 7627,
+  "type": "vocabulary",
+  "characters": "見物",
+  "primaryMeaning": "Sightseeing",
+  "otherMeanings": [
+    "Sightseer",
+    "Watching"
+  ],
+  "primaryReading": "けんぶつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 558,
+      "character": "見",
+      "readings": [
+        "み",
+        "けん"
+      ]
+    },
+    {
+      "id": 718,
+      "character": "物",
+      "readings": [
+        "ぶつ",
+        "もつ",
+        "もの"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you try to <kanji>see</kanji> a bunch of <kanji>thing</kanji>s at once, you are probably <vocabulary>sightseeing</vocabulary> or <vocabulary>watching</vocabulary>. This can also refer to the person doing the action, so it can sometimes mean <vocabulary>sightseer</vocabulary> too.",
+  "readingMnemonic": "The reading is all on'yomi, and you know how to read 物. 見's on'yomi (けん) is a reading you didn't learn with the kanji because it's so much less useful, but you do have to know it here. You've seen it with 発見 a couple levels ago, so that should help. Just imagine taking the samurai <reading>Ken</reading> on an epic <vocabulary>sightseeing</vocabulary> trip. Think of all the things you and Ken will visit!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A6%8B%E7%89%A9",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "見",
+      "id": 558,
+      "reading": "けん"
+    },
+    {
+      "type": "kanji",
+      "value": "物",
+      "id": 718,
+      "reading": "ぶつ"
+    }
+  ]
+}

@@ -1,46 +1,20 @@
 {
   "id": 8027,
   "type": "vocabulary",
-  "characters": "脂身",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "脂身"
+  },
   "primaryMeaning": "Fat Meat",
+  "meaningMnemonic": "The <kanji>fat</kanji> on an animal's <kanji>body</kanji> is called <vocabulary>fatty meat</vocabulary>. Some people really like to eat it and others really like to hate it.",
+  "primaryReading": "あぶらみ",
+  "readingMnemonic": "The readings for this word are both kun'yomi readings. You haven't learned this reading for 脂 yet, so here's a mnemonic to help you:\n\nMmm, all that <vocabulary>fatty meat</vocabulary>. Think about fatty meat on your own body. If you have a lot of fatty meat, then you need a way to support said fatty meat. To do that, you would use <reading>a bra</reading> (あぶら).",
   "otherMeanings": [
     "Fatty Meat"
   ],
-  "primaryReading": "あぶらみ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2131,
-      "character": "脂",
-      "readings": [
-        "し",
-        "あぶら"
-      ]
-    },
-    {
-      "id": 689,
-      "character": "身",
-      "readings": [
-        "しん",
-        "み"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The <kanji>fat</kanji> on an animal's <kanji>body</kanji> is called <vocabulary>fatty meat</vocabulary>. Some people really like to eat it and others really like to hate it.",
-  "readingMnemonic": "The readings for this word are both kun'yomi readings. You haven't learned this reading for 脂 yet, so here's a mnemonic to help you:\n\nMmm, all that <vocabulary>fatty meat</vocabulary>. Think about fatty meat on your own body. If you have a lot of fatty meat, then you need a way to support said fatty meat. To do that, you would use <reading>a bra</reading> (あぶら).",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%84%82%E8%BA%AB",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "脂",
-      "id": 2131,
-      "reading": "あぶら"
-    },
-    {
-      "type": "kanji",
-      "value": "身",
-      "id": 689,
-      "reading": "み"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%84%82%E8%BA%AB"
+  }
 }

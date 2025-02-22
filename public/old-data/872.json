@@ -1,0 +1,32 @@
+{
+  "id": 872,
+  "type": "kanji",
+  "character": "題",
+  "primaryMeaning": "Topic",
+  "otherMeanings": [],
+  "primaryReading": "だい",
+  "readings": [
+    {
+      "reading": "だい",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Our <kanji>topic</kanji> is actually mostly about using the sun to see different colored <reading>dye</reading>s (だい) in the water.",
+  "meaningMnemonic": "If you use the <radical>sun</radical>, you can find the <radical>correct</radical> <radical>geoduck</radical>. That's the <kanji>topic</kanji> of today's lecture.",
+  "vocabularyIds": [
+    3530,
+    3537,
+    3635,
+    3636,
+    3895,
+    3896,
+    4547
+  ],
+  "radicalIds": [
+    22,
+    229,
+    184
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%A1%8C"
+}

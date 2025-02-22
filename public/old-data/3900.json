@@ -1,0 +1,45 @@
+{
+  "id": 3900,
+  "type": "vocabulary",
+  "characters": "指輪",
+  "primaryMeaning": "Ring",
+  "otherMeanings": [],
+  "primaryReading": "ゆびわ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 797,
+      "character": "指",
+      "readings": [
+        "し",
+        "ゆび",
+        "さ"
+      ]
+    },
+    {
+      "id": 885,
+      "character": "輪",
+      "readings": [
+        "りん",
+        "わ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>finger</kanji> <kanji>ring</kanji> is the kind of <vocabulary>ring</vocabulary> you'd put on your finger. That's just simply a \"ring\" though, so you'll have to know what \"ring\" this is via context.",
+  "readingMnemonic": "The readings come from the individual vocab readings, 指 and 輪. In English we don't distinguish some other ring from a \"finger ring\" but in Japanese, you can think of this as two separate words coming together to form one word, which is why it uses the kun'yomi vocab readings like this. So, if you know the individual words, you should be able to figure out this word is read as <reading>ゆびわ</reading>.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8C%87%E8%BC%AA",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "指",
+      "id": 797,
+      "reading": "ゆび"
+    },
+    {
+      "type": "kanji",
+      "value": "輪",
+      "id": 885,
+      "reading": "わ"
+    }
+  ]
+}

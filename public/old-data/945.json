@@ -1,0 +1,39 @@
+{
+  "id": 945,
+  "type": "kanji",
+  "character": "夫",
+  "primaryMeaning": "Husband",
+  "otherMeanings": [],
+  "primaryReading": "ふう",
+  "readings": [
+    {
+      "reading": "ふう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ふ",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "おっと",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "What do all <kanji>husband</kanji>s love? <reading>Foo</reading>d (ふう)! Can you hear your future husband? He’s saying, \"Fooooood! FOOOOOD!” like some kind of food craving zombie. ",
+  "meaningMnemonic": "The <radical>husband</radical> radical and the <kanji>husband</kanji> kanji are the same. How useful, unlike some husbands, I'd imagine.",
+  "vocabularyIds": [
+    3753,
+    4280,
+    4282,
+    5145,
+    7151,
+    7277
+  ],
+  "radicalIds": [
+    146
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%A4%AB"
+}

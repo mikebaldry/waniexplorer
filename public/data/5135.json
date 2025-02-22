@@ -1,60 +1,20 @@
 {
   "id": 5135,
   "type": "vocabulary",
-  "characters": "創造力",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "創造力"
+  },
   "primaryMeaning": "Creative Power",
+  "meaningMnemonic": "If 創造 is <kanji>creation</kanji> and you add <kanji>power</kanji> to it, you have <vocabulary>creative power</vocabulary>.",
+  "primaryReading": "そうぞうりょく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well!",
   "otherMeanings": [
     "Creativity"
   ],
-  "primaryReading": "そうぞうりょく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1284,
-      "character": "創",
-      "readings": [
-        "そう"
-      ]
-    },
-    {
-      "id": 1281,
-      "character": "造",
-      "readings": [
-        "ぞう",
-        "つく"
-      ]
-    },
-    {
-      "id": 447,
-      "character": "力",
-      "readings": [
-        "りょく",
-        "りき",
-        "ちから"
-      ]
-    }
-  ],
-  "meaningMnemonic": "If 創造 is <kanji>creation</kanji> and you add <kanji>power</kanji> to it, you have <vocabulary>creative power</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%89%B5%E9%80%A0%E5%8A%9B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "創",
-      "id": 1284,
-      "reading": "そう"
-    },
-    {
-      "type": "kanji",
-      "value": "造",
-      "id": 1281,
-      "reading": "ぞう"
-    },
-    {
-      "type": "kanji",
-      "value": "力",
-      "id": 447,
-      "reading": "りょく"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%89%B5%E9%80%A0%E5%8A%9B"
+  }
 }

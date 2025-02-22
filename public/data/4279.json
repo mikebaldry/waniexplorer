@@ -1,32 +1,20 @@
 {
   "id": 4279,
   "type": "vocabulary",
-  "characters": "妻",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "妻"
+  },
   "primaryMeaning": "Wife",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well. This is used to refer to your own wife, though, for the most part.",
+  "primaryReading": "つま",
+  "readingMnemonic": "Since this word is made up of a single kanji, it should use the kun'yomi reading. When learning the kanji, you didn't learn that reading, so here's a mnemonic to help you with this word: Your <kanji>wife</kanji> does everything for you. She feeds you, she bathes you, she cleans up after you and even wipes your butt when you poop. Really, she is doing <reading>too mu</reading>ch (つま), and you should stop being a baby.",
   "otherMeanings": [
     "My Wife"
   ],
-  "primaryReading": "つま",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1113,
-      "character": "妻",
-      "readings": [
-        "さい",
-        "つま"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well. This is used to refer to your own wife, though, for the most part.",
-  "readingMnemonic": "Since this word is made up of a single kanji, it should use the kun'yomi reading. When learning the kanji, you didn't learn that reading, so here's a mnemonic to help you with this word: Your <kanji>wife</kanji> does everything for you. She feeds you, she bathes you, she cleans up after you and even wipes your butt when you poop. Really, she is doing <reading>too mu</reading>ch (つま), and you should stop being a baby.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A6%BB",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "妻",
-      "id": 1113,
-      "reading": "つま"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A6%BB"
+  }
 }

@@ -1,0 +1,48 @@
+{
+  "id": 3448,
+  "type": "vocabulary",
+  "characters": "青空",
+  "primaryMeaning": "Blue Sky",
+  "otherMeanings": [],
+  "primaryReading": "あおぞら",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 604,
+      "character": "青",
+      "readings": [
+        "せい",
+        "しょう",
+        "あお"
+      ]
+    },
+    {
+      "id": 601,
+      "character": "空",
+      "readings": [
+        "くう",
+        "そら",
+        "あ",
+        "から",
+        "す"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This is simply a <kanji>blue</kanji> <kanji>sky</kanji> (aka a <vocabulary>blue sky</vocabulary>!).",
+  "readingMnemonic": "You'd think that this word would use on'yomi readings to read it, but it doesn't (shake that angry fist at the kanji gods!). Instead, it's double kun'yomi, probably because this word is really like two separate words put together, \"blue\" and \"sky.\" In the previous level you unlocked these two separate words, learning their readings. That means you should be able to read this as well. \n\nOne quick note is the rendaku-fication of 空 as well. It becomes ぞら.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9D%92%E7%A9%BA",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "青",
+      "id": 604,
+      "reading": "あお"
+    },
+    {
+      "type": "kanji",
+      "value": "空",
+      "id": 601,
+      "reading": "ぞら"
+    }
+  ]
+}

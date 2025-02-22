@@ -1,0 +1,35 @@
+{
+  "id": 8863,
+  "type": "kanji",
+  "character": "濡",
+  "primaryMeaning": "Wet",
+  "otherMeanings": [
+    "Damp"
+  ],
+  "primaryReading": "ぬ",
+  "readings": [
+    {
+      "reading": "ぬ",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "じゅ",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "You can't stand how <kanji>wet</kanji> and <kanji>damp</kanji> you feel in these clothes so you rip them off and rake in the <reading>nu</reading>de (ぬ)!",
+  "meaningMnemonic": "If a <radical>tsunami</radical> hits, it's <radical>rain</radical>ing, and you're outside trying to use a <radical>rake</radical>, you're going to be very <kanji>wet</kanji> and <kanji>damp</kanji>.",
+  "vocabularyIds": [
+    8875,
+    8876,
+    8877
+  ],
+  "radicalIds": [
+    103,
+    119,
+    309
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%BF%A1"
+}

@@ -1,0 +1,46 @@
+{
+  "id": 6796,
+  "type": "vocabulary",
+  "characters": "謎々",
+  "primaryMeaning": "Riddle",
+  "otherMeanings": [
+    "Puzzle",
+    "Enigma"
+  ],
+  "primaryReading": "なぞなぞ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1881,
+      "character": "謎",
+      "readings": [
+        "なぞ",
+        "めい"
+      ]
+    },
+    {
+      "id": 856,
+      "character": "々",
+      "readings": [
+        "のま"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>riddle</kanji> <kanji>riddle</kanji> is a <vocabulary>riddle</vocabulary>, and it's also a <vocabulary>puzzle</vocabulary> or an <vocabulary>enigma</vocabulary>.",
+  "readingMnemonic": "This word uses the kun'yomi readings of the kanji you learned, twice. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%AC%8E%E3%80%85",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "謎",
+      "id": 1881,
+      "reading": "なぞ"
+    },
+    {
+      "type": "kanji",
+      "value": "々",
+      "id": 1881,
+      "reading": "なぞ"
+    }
+  ]
+}

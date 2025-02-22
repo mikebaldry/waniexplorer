@@ -1,34 +1,42 @@
 {
   "id": 1691,
   "type": "kanji",
-  "character": "懸",
-  "primaryMeaning": "Suspend",
-  "otherMeanings": [],
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "懸"
+  },
   "primaryReading": "けん",
   "readings": [
     {
-      "reading": "けん",
       "primary": true,
+      "reading": "けん",
       "type": "onyomi"
     },
     {
-      "reading": "か",
       "primary": false,
+      "reading": "か",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "You arrive at the <kanji>suspend</kanji>ed heart. There in front of it, protecting it, is <reading>Ken</reading> (けん) the samurai. ",
+  "primaryMeaning": "Suspend",
+  "otherMeanings": [],
   "meaningMnemonic": "In your <radical>prefecture</radical>, you come from a long <radical>lineage</radical> of people who share one <radical>heart</radical>. When the heart is passed on to the next in line, it flies out of their body, and <kanji>suspend</kanji>s itself in the sky, for you to take.",
-  "vocabularyIds": [
-    6191,
-    6192,
-    6345,
-    6346
-  ],
-  "radicalIds": [
-    369,
-    329,
-    65
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%87%B8"
+  "readingMnemonic": "You arrive at the <kanji>suspend</kanji>ed heart. There in front of it, protecting it, is <reading>Ken</reading> (けん) the samurai. ",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%87%B8"
+  },
+  "related": {
+    "radicals": [
+      369,
+      329,
+      65
+    ],
+    "vocabularies": [
+      6191,
+      6192,
+      6345,
+      6346
+    ]
+  }
 }

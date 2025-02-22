@@ -1,61 +1,18 @@
 {
   "id": 7702,
   "type": "vocabulary",
-  "characters": "子守歌",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "子守歌"
+  },
   "primaryMeaning": "Lullaby",
-  "otherMeanings": [],
-  "primaryReading": "こもりうた",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 462,
-      "character": "子",
-      "readings": [
-        "し",
-        "す",
-        "こ"
-      ]
-    },
-    {
-      "id": 968,
-      "character": "守",
-      "readings": [
-        "す",
-        "しゅ",
-        "まも",
-        "もり"
-      ]
-    },
-    {
-      "id": 761,
-      "character": "歌",
-      "readings": [
-        "か",
-        "うた"
-      ]
-    }
-  ],
   "meaningMnemonic": "A <kanji>song</kanji> you sing to <kanji>protect</kanji> your <kanji>child</kanji> while they sleep is called a <vocabulary>lullaby</vocabulary>.",
+  "primaryReading": "こもりうた",
   "readingMnemonic": "The readings for this word are all kun'yomi readings. You haven't learned this reading for 守 yet, so here's a mnemonic to help you:\n\nWhen you finish singing a <vocabulary>lullaby</vocabulary> to your child they always ask for <reading>more</reading> (もり). It doesn't matter how many you sing, they always want at least one more before they will fall asleep.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AD%90%E5%AE%88%E6%AD%8C",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "子",
-      "id": 462,
-      "reading": "こ"
-    },
-    {
-      "type": "kanji",
-      "value": "守",
-      "id": 968,
-      "reading": "もり"
-    },
-    {
-      "type": "kanji",
-      "value": "歌",
-      "id": 761,
-      "reading": "うた"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%AD%90%E5%AE%88%E6%AD%8C"
+  }
 }

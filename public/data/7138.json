@@ -1,41 +1,21 @@
 {
   "id": 7138,
   "type": "vocabulary",
-  "characters": "お嬢さん",
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "お嬢さん"
+  },
   "primaryMeaning": "Young Lady",
+  "meaningMnemonic": "Adding an お in front and a さん behind <kanji>miss</kanji> makes for a very respectful way of addressing a<vocabulary>young lady</vocabulary>. It can also be used to refer to somebody’s <vocabulary>daughter</vocabulary> in a polite manner.\n\nNote that older generations tend to use this word to directly address a young woman. But be careful when doing this yourself, as it might come across as overly formal!\n\n",
+  "primaryReading": "おじょうさん",
+  "readingMnemonic": "The reading of 嬢 is the same as the one you learned for the kanji, meaning you should already know it!\n\n",
   "otherMeanings": [
     "Miss",
     "Daughter"
   ],
-  "primaryReading": "おじょうさん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1920,
-      "character": "嬢",
-      "readings": [
-        "じょう",
-        "むすめ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Adding an お in front and a さん behind <kanji>miss</kanji> makes for a very respectful way of addressing a<vocabulary>young lady</vocabulary>. It can also be used to refer to somebody’s <vocabulary>daughter</vocabulary> in a polite manner.\n\nNote that older generations tend to use this word to directly address a young woman. But be careful when doing this yourself, as it might come across as overly formal!\n\n",
-  "readingMnemonic": "The reading of 嬢 is the same as the one you learned for the kanji, meaning you should already know it!\n\n",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E3%81%8A%E5%AC%A2%E3%81%95%E3%82%93",
-  "elements": [
-    {
-      "type": "kana",
-      "value": "お"
-    },
-    {
-      "type": "kanji",
-      "value": "嬢",
-      "id": 1920,
-      "reading": "じょう"
-    },
-    {
-      "type": "kana",
-      "value": "さん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E3%81%8A%E5%AC%A2%E3%81%95%E3%82%93"
+  }
 }

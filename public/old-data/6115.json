@@ -1,0 +1,46 @@
+{
+  "id": 6115,
+  "type": "vocabulary",
+  "characters": "香港",
+  "primaryMeaning": "Hong Kong",
+  "otherMeanings": [],
+  "primaryReading": "ほんこん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1665,
+      "character": "香",
+      "readings": [
+        "こう",
+        "きょう",
+        "かお",
+        "か"
+      ]
+    },
+    {
+      "id": 843,
+      "character": "港",
+      "readings": [
+        "こう",
+        "みなと"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>fragrance</kanji> <kanji>harbor</kanji>, perhaps this is where the perfumes came from back in the day. This place is <vocabulary>Hong Kong</vocabulary>.",
+  "readingMnemonic": "The reading doesn't follow any of the rules you might expect. Try to use the meaning mnemonic to get the meaning, then know that it sounds something similar to the reading. \"Hon(g) Kon(g)\" goes to <reading>ほんこん</reading>. Almost the same, right?",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%A6%99%E6%B8%AF",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "香",
+      "id": 1665,
+      "reading": null
+    },
+    {
+      "type": "kanji",
+      "value": "港",
+      "id": 843,
+      "reading": null
+    }
+  ]
+}

@@ -1,32 +1,40 @@
 {
   "id": 2433,
   "type": "kanji",
-  "character": "梓",
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "梓"
+  },
+  "primaryReading": "あずさ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "あずさ",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "し",
+      "type": "onyomi"
+    }
+  ],
   "primaryMeaning": "Japanese Birch",
   "otherMeanings": [
     "Birch"
   ],
-  "primaryReading": "あずさ",
-  "readings": [
-    {
-      "reading": "あずさ",
-      "primary": true,
-      "type": "kunyomi"
-    },
-    {
-      "reading": "し",
-      "primary": false,
-      "type": "onyomi"
-    }
-  ],
-  "readingMnemonic": "You can only cut down a <kanji>Japanese birch</kanji> using <reading>a zoo saw</reading> (あずさ) because a regular saw can't handle how spicy these trees are.",
   "meaningMnemonic": "What kind of <radical>tree</radical> is <radical>spicy</radical>? A <kanji>Japanese birch</kanji>, or <kanji>birch</kanji>, obviously. There's nothing spicier than a Japanese birch!\n",
-  "vocabularyIds": [
-    9120
-  ],
-  "radicalIds": [
-    23,
-    178
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%A2%93"
+  "readingMnemonic": "You can only cut down a <kanji>Japanese birch</kanji> using <reading>a zoo saw</reading> (あずさ) because a regular saw can't handle how spicy these trees are.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%A2%93"
+  },
+  "related": {
+    "radicals": [
+      23,
+      178
+    ],
+    "vocabularies": [
+      9120
+    ]
+  }
 }

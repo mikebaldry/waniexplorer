@@ -1,46 +1,20 @@
 {
   "id": 5999,
   "type": "vocabulary",
-  "characters": "治療",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "治療"
+  },
   "primaryMeaning": "Medical Therapy",
+  "meaningMnemonic": "<kanji>Cure</kanji> and <kanji>heal</kanji> me. That is <vocabulary>medical therapy</vocabulary>.",
+  "primaryReading": "ちりょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Medical Treatment"
   ],
-  "primaryReading": "ちりょう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 978,
-      "character": "治",
-      "readings": [
-        "じ",
-        "ち",
-        "なお"
-      ]
-    },
-    {
-      "id": 1631,
-      "character": "療",
-      "readings": [
-        "りょう"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Cure</kanji> and <kanji>heal</kanji> me. That is <vocabulary>medical therapy</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B2%BB%E7%99%82",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "治",
-      "id": 978,
-      "reading": "ち"
-    },
-    {
-      "type": "kanji",
-      "value": "療",
-      "id": 1631,
-      "reading": "りょう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B2%BB%E7%99%82"
+  }
 }

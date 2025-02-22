@@ -1,12 +1,15 @@
 {
   "id": 9,
   "type": "radical",
-  "primaryMeaning": "Person",
-  "otherMeanings": [],
-  "character": {
+  "level": 1,
+  "characters": {
     "type": "text",
     "value": "人"
   },
-  "meaningMnemonic": "If you were to draw a <radical>person</radical> with just strokes like you see in kanji, you'd create a stick figure, maybe something like this: 大. But this is just a person, not someone holding out their arms to show how big they are. So their arms are down, which makes them look like a torso with a pair of legs. Maybe they're walking too, which is why their legs are spread out like that. You can see the person now, can't you?",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/person"
+  "primaryMeaning": "Person",
+  "otherMeanings": [],
+  "meaningMnemonic": "This is a <radical>person</radical>. They're standing with their arms down at their sides and their legs spread out, which kind of makes them look like a torso with a pair of legs. Think of 人 as highlighting the bipedal nature of people. Walking on two legs? Probably a person.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/person"
+  }
 }

@@ -1,0 +1,27 @@
+{
+  "id": 2048,
+  "type": "kanji",
+  "character": "穫",
+  "primaryMeaning": "Harvest",
+  "otherMeanings": [],
+  "primaryReading": "かく",
+  "readings": [
+    {
+      "reading": "かく",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "You're just starting to <kanji>harvest</kanji> the grains when an angry <reading>cock</reading> (かく) shows up! He's mad because these are his grains and you're about to harvest them and feed them to a turkey instead of him.",
+  "meaningMnemonic": "You need to feed this <radical>grain</radical> to a <radical>flower</radical> wearing <radical>turkey</radical> on a <radical>stool</radical> so you start the <kanji>harvest</kanji>. Grains don't pick themselves, you have to harvest them.",
+  "vocabularyIds": [
+    7256
+  ],
+  "radicalIds": [
+    135,
+    90,
+    240,
+    30
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%A9%AB"
+}

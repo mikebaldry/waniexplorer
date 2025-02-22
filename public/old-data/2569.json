@@ -1,0 +1,30 @@
+{
+  "id": 2569,
+  "type": "vocabulary",
+  "characters": "本",
+  "primaryMeaning": "Book",
+  "otherMeanings": [],
+  "primaryReading": "ほん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 487,
+      "character": "本",
+      "readings": [
+        "ほん",
+        "もと"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This vocab word is exactly the same as its parent kanji, including its meaning as well: <vocabulary>book</vocabulary>. It doesn't have those other meanings though, when it's just 本 alone, it's just a book.",
+  "readingMnemonic": "The reading for this word is the same as the single kanji it comes from.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9C%AC",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "本",
+      "id": 487,
+      "reading": "ほん"
+    }
+  ]
+}

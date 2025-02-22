@@ -1,37 +1,21 @@
 {
   "id": 5273,
   "type": "vocabulary",
-  "characters": "締まる",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "締まる"
+  },
   "primaryMeaning": "To Tighten",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>tighten</kanji>, so the verb vocab version is <vocabulary>to tighten</vocabulary>.",
+  "primaryReading": "しまる",
+  "readingMnemonic": "What can you do if you want something <vocabulary>to tighten</vocabulary> or <vocabulary>to become tight</vocabulary>? You need to hug your <reading>shee</reading>p (し) really close until...\n\nThe sheep tightens into a tiny little ball. Cute!",
   "otherMeanings": [
     "To Become Tight",
     "To Be Toned"
   ],
-  "primaryReading": "しまる",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1335,
-      "character": "締",
-      "readings": [
-        "てい",
-        "し"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>tighten</kanji>, so the verb vocab version is <vocabulary>to tighten</vocabulary>.",
-  "readingMnemonic": "What can you do if you want something <vocabulary>to tighten</vocabulary> or <vocabulary>to become tight</vocabulary>? You need to hug your <reading>shee</reading>p (し) really close until...\n\nThe sheep tightens into a tiny little ball. Cute!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B7%A0%E3%81%BE%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "締",
-      "id": 1335,
-      "reading": "し"
-    },
-    {
-      "type": "kana",
-      "value": "まる"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%B7%A0%E3%81%BE%E3%82%8B"
+  }
 }

@@ -1,0 +1,47 @@
+{
+  "id": 5095,
+  "type": "vocabulary",
+  "characters": "途中",
+  "primaryMeaning": "On The Way",
+  "otherMeanings": [
+    "En Route",
+    "In The Middle Of",
+    "Half Done"
+  ],
+  "primaryReading": "とちゅう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1341,
+      "character": "途",
+      "readings": [
+        "と"
+      ]
+    },
+    {
+      "id": 469,
+      "character": "中",
+      "readings": [
+        "ちゅう",
+        "なか"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you're on a <kanji>route</kanji>, right in the <kanji>middle</kanji>, you're <vocabulary>on the way</vocabulary> or <vocabulary>en route</vocabulary>.\n\n途中 can also be used figuratively to say you're <vocabulary>in the middle of</vocabulary> doing something or something is <vocabulary>half done</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%80%94%E4%B8%AD",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "途",
+      "id": 1341,
+      "reading": "と"
+    },
+    {
+      "type": "kanji",
+      "value": "中",
+      "id": 469,
+      "reading": "ちゅう"
+    }
+  ]
+}

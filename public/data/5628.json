@@ -1,43 +1,18 @@
 {
   "id": 5628,
   "type": "vocabulary",
-  "characters": "筋肉",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "筋肉"
+  },
   "primaryMeaning": "Muscle",
-  "otherMeanings": [],
-  "primaryReading": "きんにく",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1518,
-      "character": "筋",
-      "readings": [
-        "きん",
-        "すじ"
-      ]
-    },
-    {
-      "id": 577,
-      "character": "肉",
-      "readings": [
-        "にく"
-      ]
-    }
-  ],
   "meaningMnemonic": "Your <kanji>muscle</kanji> <kanji>meat</kanji> is your <vocabulary>muscle</vocabulary>.",
+  "primaryReading": "きんにく",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%AD%8B%E8%82%89",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "筋",
-      "id": 1518,
-      "reading": "きん"
-    },
-    {
-      "type": "kanji",
-      "value": "肉",
-      "id": 577,
-      "reading": "にく"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%AD%8B%E8%82%89"
+  }
 }

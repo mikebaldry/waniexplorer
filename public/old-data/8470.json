@@ -1,0 +1,36 @@
+{
+  "id": 8470,
+  "type": "vocabulary",
+  "characters": "朽ちる",
+  "primaryMeaning": "To Decay",
+  "otherMeanings": [
+    "To Die Out"
+  ],
+  "primaryReading": "くちる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2375,
+      "character": "朽",
+      "readings": [
+        "きゅう",
+        "く"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>decay</kanji>, so the verb version is <vocabulary>to decay</vocabulary> or <vocabulary>to die out</vocabulary>.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nThe entire world would start <vocabulary>to die out</vocabulary> if there were no <reading>coo</reading>kies (く) left! Can you imagine your life without cookies? The trees and animals would all die too. Because they love cookies. Not just us humans.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9C%BD%E3%81%A1%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "朽",
+      "id": 2375,
+      "reading": "く"
+    },
+    {
+      "type": "kana",
+      "value": "ちる"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": 3318,
+  "type": "vocabulary",
+  "characters": "意味",
+  "primaryMeaning": "Meaning",
+  "otherMeanings": [],
+  "primaryReading": "いみ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 811,
+      "character": "意",
+      "readings": [
+        "い"
+      ]
+    },
+    {
+      "id": 812,
+      "character": "味",
+      "readings": [
+        "み",
+        "あじ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>flavor</kanji> of an <kanji>idea</kanji>, what is that? Imagine yourself licking an idea to figure out what it tastes like. What do you think you'll be tasting? Probably the <vocabulary>meaning</vocabulary> of said idea.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%84%8F%E5%91%B3",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "意",
+      "id": 811,
+      "reading": "い"
+    },
+    {
+      "type": "kanji",
+      "value": "味",
+      "id": 812,
+      "reading": "み"
+    }
+  ]
+}

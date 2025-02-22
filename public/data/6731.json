@@ -1,34 +1,20 @@
 {
   "id": 6731,
   "type": "vocabulary",
-  "characters": "沈める",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "沈める"
+  },
   "primaryMeaning": "To Sink Something",
-  "otherMeanings": [],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>sink</kanji> so the verb vocab version is <vocabulary>to sink something</vocabulary> or <vocabulary>to submerge something</vocabulary>.\n\nThis is a transitive verb, meaning it takes a direct object. So instead of describing something sinking on its own, you use 沈める when you sink an enemy ship or submerge yourself in a bathtub. \n\nYou know this because you can't sink anything until you get that <reading>mail</reading> (める) saying, \"Yes, proceed with sinking!\" You've got to have that mail if you want to sink something, or else everyone will blame you for the missing ship — or for you disappearing under the water.",
   "primaryReading": "しずめる",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1865,
-      "character": "沈",
-      "readings": [
-        "ちん",
-        "しず"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>sink</kanji> so the verb vocab version is <vocabulary>to sink</vocabulary>. \n\nThis is a transitive verb, so it's used when you're sinking something else. You can differentiate it from the intransitive 沈む by imaging that you're watching an enemy ship sink, and they shout out, \"Who did this to me!\" You respond, <reading>me</reading> (め). I did.\" ",
   "readingMnemonic": "When you sink something, like a battleship, you go on and say: \"<reading>she's</reading> (しず) sunk, I sunk her.\" That's like your tagline, or something. You say it for some reason because you think it's cool.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B2%88%E3%82%81%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "沈",
-      "id": 1865,
-      "reading": "しず"
-    },
-    {
-      "type": "kana",
-      "value": "める"
-    }
-  ]
+  "otherMeanings": [
+    "To Submerge Something"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B2%88%E3%82%81%E3%82%8B"
+  }
 }

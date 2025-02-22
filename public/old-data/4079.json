@@ -1,0 +1,47 @@
+{
+  "id": 4079,
+  "type": "vocabulary",
+  "characters": "可分",
+  "primaryMeaning": "Divisible",
+  "otherMeanings": [
+    "Separable"
+  ],
+  "primaryReading": "かぶん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1049,
+      "character": "可",
+      "readings": [
+        "か"
+      ]
+    },
+    {
+      "id": 501,
+      "character": "分",
+      "readings": [
+        "ぶん",
+        "ふん",
+        "ぶ",
+        "わ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When it's <kanji>possible</kanji> to <kanji>separate</kanji> something, it's <vocabulary>divisible</vocabulary>. Just imagine separating things into parts. It's possible. So, if that's possible, it's divisible. Now think of something that's nothing (i.e. \"no candy bars\"). That is not possible to separate into parts. That is not divisible.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8F%AF%E5%88%86-4079",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "可",
+      "id": 1049,
+      "reading": "か"
+    },
+    {
+      "type": "kanji",
+      "value": "分",
+      "id": 501,
+      "reading": "ぶん"
+    }
+  ]
+}

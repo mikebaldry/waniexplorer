@@ -1,48 +1,18 @@
 {
   "id": 8744,
   "type": "vocabulary",
-  "characters": "引き算",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "引き算"
+  },
   "primaryMeaning": "Subtraction",
-  "otherMeanings": [],
-  "primaryReading": "ひきざん",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 507,
-      "character": "引",
-      "readings": [
-        "ひ",
-        "いん"
-      ]
-    },
-    {
-      "id": 762,
-      "character": "算",
-      "readings": [
-        "さん",
-        "そろ"
-      ]
-    }
-  ],
   "meaningMnemonic": "Remember how 引く means \"to subtract?\" Add <kanji>calculate</kanji> to that and you'll have <vocabulary>subtraction</vocabulary>! It's the type of calculation you're doing when you subtract.",
+  "primaryReading": "ひきざん",
   "readingMnemonic": "This is the kun'yomi reading for 引 and the on'yomi for 算. And the さん reading is rendaku'd into ざん. This is the same for all the math-ish words (addition, subtraction, multiplication, and division), so try to remember that, because you'll see it again!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BC%95%E3%81%8D%E7%AE%97",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "引",
-      "id": 507,
-      "reading": "ひ"
-    },
-    {
-      "type": "kana",
-      "value": "き"
-    },
-    {
-      "type": "kanji",
-      "value": "算",
-      "id": 762,
-      "reading": "ざん"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%BC%95%E3%81%8D%E7%AE%97"
+  }
 }

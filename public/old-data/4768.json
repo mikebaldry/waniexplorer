@@ -1,0 +1,38 @@
+{
+  "id": 4768,
+  "type": "vocabulary",
+  "characters": "抜く",
+  "primaryMeaning": "To Pull Something Out",
+  "otherMeanings": [
+    "To Pluck"
+  ],
+  "primaryReading": "ぬく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1257,
+      "character": "抜",
+      "readings": [
+        "ぬ",
+        "ばつ",
+        "はつ",
+        "はい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>pull out</kanji> so the verb vocab version is <vocabulary>to pull something out</vocabulary>.\n\nThis word often implies that the pulling out requires force or effort. It's a pretty versatile word, and can also cover things like letting the air out of something, draining the water out of something, and even overtaking someone or pulling through difficulties.",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji. Just go ahead and extract it out of your memory so you can use it here.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8A%9C%E3%81%8F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "抜",
+      "id": 1257,
+      "reading": "ぬ"
+    },
+    {
+      "type": "kana",
+      "value": "く"
+    }
+  ]
+}

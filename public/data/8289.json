@@ -1,44 +1,18 @@
 {
   "id": 8289,
   "type": "vocabulary",
-  "characters": "搾取",
+  "level": 56,
+  "characters": {
+    "type": "text",
+    "value": "搾取"
+  },
   "primaryMeaning": "Exploitation",
-  "otherMeanings": [],
-  "primaryReading": "さくしゅ",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2321,
-      "character": "搾",
-      "readings": [
-        "さく",
-        "しぼ"
-      ]
-    },
-    {
-      "id": 966,
-      "character": "取",
-      "readings": [
-        "と",
-        "しゅ"
-      ]
-    }
-  ],
   "meaningMnemonic": "<kanji>Take</kanji> children from their homes and <kanji>squeeze</kanji> all their talent out until they have nothing left. That's called <vocabulary>exploitation</vocabulary>, and lots of companies make money off of it. It's not very nice though.",
+  "primaryReading": "さくしゅ",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%90%BE%E5%8F%96",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "搾",
-      "id": 2321,
-      "reading": "さく"
-    },
-    {
-      "type": "kanji",
-      "value": "取",
-      "id": 966,
-      "reading": "しゅ"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%90%BE%E5%8F%96"
+  }
 }

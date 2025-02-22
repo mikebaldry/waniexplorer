@@ -1,0 +1,46 @@
+{
+  "id": 6541,
+  "type": "vocabulary",
+  "characters": "夏至",
+  "primaryMeaning": "Summer Solstice",
+  "otherMeanings": [],
+  "primaryReading": "げし",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 659,
+      "character": "夏",
+      "readings": [
+        "なつ",
+        "げ",
+        "か",
+        "が"
+      ]
+    },
+    {
+      "id": 1799,
+      "character": "至",
+      "readings": [
+        "し",
+        "いた"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you have <kanji>attain</kanji>ed <kanji>summer</kanji>, that must mean you finished out with the previous season and are going into summer. This is the <vocabulary>summer solstice</vocabulary>.",
+  "readingMnemonic": "You didn't learn this reading of 夏 with the kanji, so here's a mnemonic to help:\n\nJust think about how cute little <reading>ge</reading>ckos (げ) start to come out into the open during the summer solstice. It's too cold for them to be out in the open before that, so if you look outside at the right time, you'll see geckos popping out of the ground all over the place!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A4%8F%E8%87%B3",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "夏",
+      "id": 659,
+      "reading": "げ"
+    },
+    {
+      "type": "kanji",
+      "value": "至",
+      "id": 1799,
+      "reading": "し"
+    }
+  ]
+}

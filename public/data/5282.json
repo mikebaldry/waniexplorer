@@ -1,38 +1,20 @@
 {
   "id": 5282,
   "type": "vocabulary",
-  "characters": "詰める",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "詰める"
+  },
   "primaryMeaning": "To Stuff In",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>stuffed</kanji>, this word means <vocabulary>to stuff in</vocabulary>, as in you're doing the stuffing. You know that this is the case because when it comes to the <reading>mail</reading> (める), you stuff that mail into the garbage as hard as you can (it's all junk).",
+  "primaryReading": "つめる",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You learned that reading with the kanji, so you should have no troubles here.",
   "otherMeanings": [
     "To Cram In"
   ],
-  "primaryReading": "つめる",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1411,
-      "character": "詰",
-      "readings": [
-        "つ",
-        "きつ",
-        "きち",
-        "づ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>stuffed</kanji>, this word means <vocabulary>to stuff in</vocabulary>, as in you're doing the stuffing. You know that this is the case because when it comes to the <reading>mail</reading> (める), you stuff that mail into the garbage as hard as you can (it's all junk).",
-  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You learned that reading with the kanji, so you should have no troubles here.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A9%B0%E3%82%81%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "詰",
-      "id": 1411,
-      "reading": "つ"
-    },
-    {
-      "type": "kana",
-      "value": "める"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%A9%B0%E3%82%81%E3%82%8B"
+  }
 }

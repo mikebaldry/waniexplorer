@@ -1,42 +1,50 @@
 {
   "id": 899,
   "type": "kanji",
-  "character": "参",
-  "primaryMeaning": "Participate",
-  "otherMeanings": [],
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "参"
+  },
   "primaryReading": "さん",
   "readings": [
     {
-      "reading": "さん",
       "primary": true,
+      "reading": "さん",
       "type": "onyomi"
     },
     {
+      "primary": false,
       "reading": "しん",
-      "primary": false,
       "type": "onyomi"
     },
     {
-      "reading": "まい",
       "primary": false,
+      "reading": "まい",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "You know who has big hair and loves to <kanji>participate</kanji> in everything? <reading>San</reading>ta-san (さん)! Well, his hair is more big on the bottom (it's a beard) than whatever you have on your head, but hair is hair. And he participates in present giving in every house in the world! See? Big hair = participation!",
+  "primaryMeaning": "Participate",
+  "otherMeanings": [],
   "meaningMnemonic": "You can't keep <radical>big</radical> <radical>hair</radical> <radical>private</radical>, so you end up having to <kanji>participate</kanji> in everything. Can you imagine people asking for volunteers and you trying to look inconspicuous with your big hair sticking up and out and all over? Of course they're going to notice you and make you participate.",
-  "vocabularyIds": [
-    3662,
-    4368,
-    4381,
-    4382,
-    5752,
-    6028,
-    8805
-  ],
-  "radicalIds": [
-    140,
-    18,
-    38
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%8F%82"
+  "readingMnemonic": "You know who has big hair and loves to <kanji>participate</kanji> in everything? <reading>San</reading>ta-san (さん)! Well, his hair is more big on the bottom (it's a beard) than whatever you have on your head, but hair is hair. And he participates in present giving in every house in the world! See? Big hair = participation!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%8F%82"
+  },
+  "related": {
+    "radicals": [
+      140,
+      18,
+      38
+    ],
+    "vocabularies": [
+      3662,
+      4368,
+      4381,
+      4382,
+      5752,
+      6028,
+      8805
+    ]
+  }
 }

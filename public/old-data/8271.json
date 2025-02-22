@@ -1,0 +1,47 @@
+{
+  "id": 8271,
+  "type": "vocabulary",
+  "characters": "少尉",
+  "primaryMeaning": "Second Lieutenant",
+  "otherMeanings": [
+    "Ensign"
+  ],
+  "primaryReading": "しょうい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 506,
+      "character": "少",
+      "readings": [
+        "しょう",
+        "すこ",
+        "すく"
+      ]
+    },
+    {
+      "id": 2324,
+      "character": "尉",
+      "readings": [
+        "い",
+        "じょう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Someone who's only been a <kanji>military officer</kanji> for a <kanji>few</kanji> years hasn't been able to get very far in the ranks. They're an <vocabulary>ensign</vocabulary>, or a <vocabulary>second lieutenant</vocabulary>. That's still not a bad position to be in!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B0%91%E5%B0%89",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "少",
+      "id": 506,
+      "reading": "しょう"
+    },
+    {
+      "type": "kanji",
+      "value": "尉",
+      "id": 2324,
+      "reading": "い"
+    }
+  ]
+}

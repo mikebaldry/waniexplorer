@@ -1,0 +1,49 @@
+{
+  "id": 2632,
+  "type": "vocabulary",
+  "characters": "外人",
+  "primaryMeaning": "Foreigner",
+  "otherMeanings": [
+    "Outsider"
+  ],
+  "primaryReading": "がいじん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 521,
+      "character": "外",
+      "readings": [
+        "がい",
+        "そと",
+        "はず"
+      ]
+    },
+    {
+      "id": 444,
+      "character": "人",
+      "readings": [
+        "にん",
+        "じん",
+        "ひと",
+        "と"
+      ]
+    }
+  ],
+  "meaningMnemonic": "An \"outside person\" is a <vocabulary>foreigner</vocabulary>. This word is fairly common, though it's not super polite, either. It's okay most of the time, but it can be used derogatorily depending on the situation. The more polite version is 外国人 (outside country person) but you won't learn that until you learn the kanji for 国.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 人 has two on'yomi readings, here's a mnemonic to help you remember which one to use:\n\nWho's the <vocabulary>foreigner</vocabulary>? Well obviously the <reading>guy</reading> wearing <reading>jean</reading>s (がいじん)!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A4%96%E4%BA%BA",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "外",
+      "id": 521,
+      "reading": "がい"
+    },
+    {
+      "type": "kanji",
+      "value": "人",
+      "id": 444,
+      "reading": "じん"
+    }
+  ]
+}

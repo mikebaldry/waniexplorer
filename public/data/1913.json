@@ -1,33 +1,41 @@
 {
   "id": 1913,
   "type": "kanji",
-  "character": "狩",
-  "primaryMeaning": "Hunt",
-  "otherMeanings": [],
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "狩"
+  },
   "primaryReading": "か",
   "readings": [
     {
-      "reading": "か",
       "primary": true,
+      "reading": "か",
       "type": "kunyomi"
     },
     {
-      "reading": "しゅ",
       "primary": false,
+      "reading": "しゅ",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "I also do all my <kanji>hunt</kanji>s using a <reading>ca</reading>r (か). I just run those animals down with my car. Kind of cheating, but vroom vroom anyways.",
+  "primaryMeaning": "Hunt",
+  "otherMeanings": [],
   "meaningMnemonic": "I <radical>protect</radical> my own <radical>animal</radical>s by going to <kanji>hunt</kanji> other animals... like wolves and cougars and such. ",
-  "vocabularyIds": [
-    6869,
-    6870,
-    7142,
-    7909
-  ],
-  "radicalIds": [
-    144,
-    396
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%8B%A9"
+  "readingMnemonic": "I also do all my <kanji>hunt</kanji>s using a <reading>ca</reading>r (か). I just run those animals down with my car. Kind of cheating, but vroom vroom anyways.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%8B%A9"
+  },
+  "related": {
+    "radicals": [
+      144,
+      396
+    ],
+    "vocabularies": [
+      6869,
+      6870,
+      7142,
+      7909
+    ]
+  }
 }

@@ -1,0 +1,43 @@
+{
+  "id": 819,
+  "type": "kanji",
+  "character": "消",
+  "primaryMeaning": "Extinguish",
+  "otherMeanings": [],
+  "primaryReading": "しょう",
+  "readings": [
+    {
+      "reading": "しょう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "き",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "け",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "This famous event where almost all life was <kanji>extinguish</kanji>ed is reenacted every year for the <reading>Shou</reading>gun (しょう). He's got a bit of an unhealthy obsession with extinguishing life...",
+  "meaningMnemonic": "A long time ago a huge <radical>tsunami</radical> swept a <radical>triceratops</radical> up into the <radical>moon</radical> and <kanji>extinguish</kanji>ed its life.",
+  "vocabularyIds": [
+    3337,
+    3650,
+    3880,
+    3881,
+    3926,
+    3927,
+    4517,
+    8212
+  ],
+  "radicalIds": [
+    103,
+    8765,
+    43
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%B6%88"
+}

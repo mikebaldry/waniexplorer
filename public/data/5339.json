@@ -1,49 +1,20 @@
 {
   "id": 5339,
   "type": "vocabulary",
-  "characters": "照明",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "照明"
+  },
   "primaryMeaning": "Illumination",
+  "meaningMnemonic": "<kanji>Illuminate</kanji> and make things <kanji>bright</kanji>, my <vocabulary>illumination</vocabulary>!",
+  "primaryReading": "しょうめい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Lighting"
   ],
-  "primaryReading": "しょうめい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1419,
-      "character": "照",
-      "readings": [
-        "しょう",
-        "て"
-      ]
-    },
-    {
-      "id": 626,
-      "character": "明",
-      "readings": [
-        "めい",
-        "みょう",
-        "あ",
-        "あか",
-        "あき"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Illuminate</kanji> and make things <kanji>bright</kanji>, my <vocabulary>illumination</vocabulary>!",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%85%A7%E6%98%8E",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "照",
-      "id": 1419,
-      "reading": "しょう"
-    },
-    {
-      "type": "kanji",
-      "value": "明",
-      "id": 626,
-      "reading": "めい"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%85%A7%E6%98%8E"
+  }
 }

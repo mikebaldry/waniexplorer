@@ -1,0 +1,49 @@
+{
+  "id": 3302,
+  "type": "vocabulary",
+  "characters": "初級",
+  "primaryMeaning": "Beginner Level",
+  "otherMeanings": [
+    "Elementary Level",
+    "Beginning Level"
+  ],
+  "primaryReading": "しょきゅう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 784,
+      "character": "初",
+      "readings": [
+        "しょ",
+        "はじ",
+        "はつ",
+        "そ",
+        "ぞ"
+      ]
+    },
+    {
+      "id": 801,
+      "character": "級",
+      "readings": [
+        "きゅう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>first</kanji> <kanji>rank</kanji> of something is the <vocabulary>beginner level</vocabulary>. Compare this to 中級 and 上級 (vocab from this level) to get a fuller understanding.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%88%9D%E7%B4%9A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "初",
+      "id": 784,
+      "reading": "しょ"
+    },
+    {
+      "type": "kanji",
+      "value": "級",
+      "id": 801,
+      "reading": "きゅう"
+    }
+  ]
+}

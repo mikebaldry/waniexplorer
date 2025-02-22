@@ -1,40 +1,21 @@
 {
   "id": 3115,
   "type": "vocabulary",
-  "characters": "お客さん",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "お客さん"
+  },
   "primaryMeaning": "Guest",
+  "meaningMnemonic": "The さん on the end is the name honorific さん. It's there to show some respect. It's like saying \"Mr. Guest!\" or something like that. But that sounds dumb in English. We'll just call this word <vocabulary>guest</vocabulary>, <vocabulary>visitor</vocabulary>, or <vocabulary>customer</vocabulary>. You'll hear this word a lot when you're at a store or you're a customer somewhere in Japan. You are the お客さん, in that situation. Alternatively, you'll also hear お客さま which is a more polite version of this word (because it ends in さま and not さん).",
+  "primaryReading": "おきゃくさん",
+  "readingMnemonic": "The reading is the reading you learned with the kanji. Just add the hiragana on the end and you'll be good to go.",
   "otherMeanings": [
     "Visitor",
     "Customer"
   ],
-  "primaryReading": "おきゃくさん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 723,
-      "character": "客",
-      "readings": [
-        "きゃく"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The さん on the end is the name honorific さん. It's there to show some respect. It's like saying \"Mr. Guest!\" or something like that. But that sounds dumb in English. We'll just call this word <vocabulary>guest</vocabulary>, <vocabulary>visitor</vocabulary>, or <vocabulary>customer</vocabulary>. You'll hear this word a lot when you're at a store or you're a customer somewhere in Japan. You are the お客さん, in that situation. Alternatively, you'll also hear お客さま which is a more polite version of this word (because it ends in さま and not さん).",
-  "readingMnemonic": "The reading is the reading you learned with the kanji. Just add the hiragana on the end and you'll be good to go.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E3%81%8A%E5%AE%A2%E3%81%95%E3%82%93",
-  "elements": [
-    {
-      "type": "kana",
-      "value": "お"
-    },
-    {
-      "type": "kanji",
-      "value": "客",
-      "id": 723,
-      "reading": "きゃく"
-    },
-    {
-      "type": "kana",
-      "value": "さん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E3%81%8A%E5%AE%A2%E3%81%95%E3%82%93"
+  }
 }

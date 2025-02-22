@@ -1,0 +1,25 @@
+{
+  "id": 2385,
+  "type": "kanji",
+  "character": "陪",
+  "primaryMeaning": "Accompany",
+  "otherMeanings": [],
+  "primaryReading": "ばい",
+  "readings": [
+    {
+      "reading": "ばい",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "He can only <kanji>accompany</kanji> you for so long though and soon it's time to say <reading>bye</reading> (ばい) again.",
+  "meaningMnemonic": "The <radical>building</radical> <radical>clown</radical> is the only clown allowed to <kanji>accompany</kanji> you. You hate all clowns, and so does the rest of your town. But this clown is really good at building buildings, and he's allowed to leave his part of town and accompany you while you fix buildings together.",
+  "vocabularyIds": [
+    8508
+  ],
+  "radicalIds": [
+    176,
+    175
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%99%AA"
+}

@@ -1,0 +1,48 @@
+{
+  "id": 2673,
+  "type": "vocabulary",
+  "characters": "気分",
+  "primaryMeaning": "Feeling",
+  "otherMeanings": [
+    "Mood"
+  ],
+  "primaryReading": "きぶん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 548,
+      "character": "気",
+      "readings": [
+        "き",
+        "け"
+      ]
+    },
+    {
+      "id": 501,
+      "character": "分",
+      "readings": [
+        "ぶん",
+        "ふん",
+        "ぶ",
+        "わ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Part</kanji> of your <kanji>energy</kanji> is your <vocabulary>feeling</vocabulary> or your <vocabulary>mood</vocabulary>. Just think of it like you're breaking up your energy into parts. One part is sugar giving you energy. Another part is your happiness. So, when you combine these together you get the total: your mood!",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B0%97%E5%88%86",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "気",
+      "id": 548,
+      "reading": "き"
+    },
+    {
+      "type": "kanji",
+      "value": "分",
+      "id": 501,
+      "reading": "ぶん"
+    }
+  ]
+}

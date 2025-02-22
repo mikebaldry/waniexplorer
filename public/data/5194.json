@@ -1,55 +1,18 @@
 {
   "id": 5194,
   "type": "vocabulary",
-  "characters": "衆議院",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "衆議院"
+  },
   "primaryMeaning": "House Of Representatives",
-  "otherMeanings": [],
-  "primaryReading": "しゅうぎいん",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1374,
-      "character": "衆",
-      "readings": [
-        "しゅう"
-      ]
-    },
-    {
-      "id": 1114,
-      "character": "議",
-      "readings": [
-        "ぎ"
-      ]
-    },
-    {
-      "id": 744,
-      "character": "院",
-      "readings": [
-        "いん"
-      ]
-    }
-  ],
   "meaningMnemonic": "It's the <kanji>institution</kanji> that does <kanji>deliberation</kanji> on behalf of the <kanji>populace</kanji>. They represent the people. They are the <vocabulary>house of representatives</vocabulary>.",
+  "primaryReading": "しゅうぎいん",
   "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A1%86%E8%AD%B0%E9%99%A2",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "衆",
-      "id": 1374,
-      "reading": "しゅう"
-    },
-    {
-      "type": "kanji",
-      "value": "議",
-      "id": 1114,
-      "reading": "ぎ"
-    },
-    {
-      "type": "kanji",
-      "value": "院",
-      "id": 744,
-      "reading": "いん"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%A1%86%E8%AD%B0%E9%99%A2"
+  }
 }

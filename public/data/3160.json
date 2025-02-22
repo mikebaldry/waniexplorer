@@ -1,50 +1,23 @@
 {
   "id": 3160,
   "type": "vocabulary",
-  "characters": "早速",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "早速"
+  },
   "primaryMeaning": "At Once",
+  "meaningMnemonic": "Doing something both <kanji>fast</kanji> and <kanji>early</kanji> probably requires you to do it <vocabulary>at once</vocabulary> or <vocabulary>immediately</vocabulary>. Whatever it is, be sure to do it <vocabulary>without delay</vocabulary>.",
+  "primaryReading": "さっそく",
+  "readingMnemonic": "The reading for this one is strange. The reading for 速 (そく) is what you'd expect (on'yomi), but 早 gets a reading you haven't seen before, meaning you should treat this as an exception. Just think about how you're learning this word <vocabulary>at once</vocabulary> and <vocabulary>without delay</vocabulary> so there's no time for any <reading>sa</reading>ss (さっ), just kanji learning.",
   "otherMeanings": [
     "Immediately",
     "Without Delay",
     "Right Away",
     "Right Now"
   ],
-  "primaryReading": "さっそく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 547,
-      "character": "早",
-      "readings": [
-        "そう",
-        "はや",
-        "さ"
-      ]
-    },
-    {
-      "id": 741,
-      "character": "速",
-      "readings": [
-        "そく",
-        "はや"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Doing something both <kanji>fast</kanji> and <kanji>early</kanji> probably requires you to do it <vocabulary>at once</vocabulary> or <vocabulary>immediately</vocabulary>. Whatever it is, be sure to do it <vocabulary>without delay</vocabulary>.",
-  "readingMnemonic": "The reading for this one is strange. The reading for 速 (そく) is what you'd expect (on'yomi), but 早 gets a reading you haven't seen before, meaning you should treat this as an exception. Just think about how you're learning this word <vocabulary>at once</vocabulary> and <vocabulary>without delay</vocabulary> so there's no time for any <reading>sa</reading>ss (さっ), just kanji learning.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%97%A9%E9%80%9F",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "早",
-      "id": 547,
-      "reading": "さ"
-    },
-    {
-      "type": "kanji",
-      "value": "速",
-      "id": 741,
-      "reading": null
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%97%A9%E9%80%9F"
+  }
 }

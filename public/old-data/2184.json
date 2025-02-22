@@ -1,0 +1,40 @@
+{
+  "id": 2184,
+  "type": "kanji",
+  "character": "猟",
+  "primaryMeaning": "Hunting",
+  "otherMeanings": [],
+  "primaryReading": "りょう",
+  "readings": [
+    {
+      "reading": "りょう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "かり",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "か",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You're currently <kanji>hunting</kanji> in a <reading>row</reading> (りょう) boat and you have to row as quietly and carefully as you can or the animal will run away.",
+  "meaningMnemonic": "There is an <radical>animal</radical> in the <radical>grass</radical> and your horrible <radical>task</radical> is to go <kanji>hunting</kanji> for it.",
+  "vocabularyIds": [
+    7906,
+    7907,
+    7908,
+    7909,
+    7910
+  ],
+  "radicalIds": [
+    144,
+    8783,
+    71
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%8C%9F"
+}

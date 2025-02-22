@@ -1,47 +1,20 @@
 {
   "id": 5258,
   "type": "vocabulary",
-  "characters": "略図",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "略図"
+  },
   "primaryMeaning": "Rough Diagram",
+  "meaningMnemonic": "An <kanji>abbreviation</kanji> version of a <kanji>diagram</kanji> doesn't include all the details. It's more like a <vocabulary>rough diagram</vocabulary> that shows only the essentials.\n\nWhile 略図 can be used for any simplified diagram, it most commonly refers to a <vocabulary>rough map</vocabulary> that gives a basic overview of an area.",
+  "primaryReading": "りゃくず",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Rough Map"
   ],
-  "primaryReading": "りゃくず",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1396,
-      "character": "略",
-      "readings": [
-        "りゃく"
-      ]
-    },
-    {
-      "id": 585,
-      "character": "図",
-      "readings": [
-        "ず",
-        "と",
-        "え",
-        "はか"
-      ]
-    }
-  ],
-  "meaningMnemonic": "An <kanji>abbreviation</kanji> version of a <kanji>diagram</kanji> doesn't include all the details. It's more like a <vocabulary>rough diagram</vocabulary> that shows only the essentials.\n\nWhile 略図 can be used for any simplified diagram, it most commonly refers to a <vocabulary>rough map</vocabulary> that gives a basic overview of an area.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%95%A5%E5%9B%B3",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "略",
-      "id": 1396,
-      "reading": "りゃく"
-    },
-    {
-      "type": "kanji",
-      "value": "図",
-      "id": 585,
-      "reading": "ず"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%95%A5%E5%9B%B3"
+  }
 }

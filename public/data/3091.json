@@ -1,37 +1,21 @@
 {
   "id": 3091,
   "type": "vocabulary",
-  "characters": "受ける",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "受ける"
+  },
   "primaryMeaning": "To Receive Something",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>receive</kanji>, and this verb means just about the same thing: <vocabulary>to receive something</vocabulary>!\n\nThis is a transitive verb, so it takes a direct object. But 受ける often implies passive reception, generally of intangible objects like an education, or damage. It can also mean <vocabulary>to take something</vocabulary>, like taking an exam or a job offer.",
+  "primaryReading": "うける",
+  "readingMnemonic": "There’s a creature in front of you that’s about <vocabulary>to receive something</vocabulary>, but what is it? It’s an <reading>u</reading>ni (う), and it’s going to receive a warm welcome and an education. Picture the sea urchin receiving these things, and then going on to take an exam to prove how much education it’s received.",
   "otherMeanings": [
     "To Accept Something",
     "To Take Something"
   ],
-  "primaryReading": "うける",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 711,
-      "character": "受",
-      "readings": [
-        "じゅ",
-        "う"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>receive</kanji>, and this verb means just about the same thing: <vocabulary>to receive something</vocabulary>!\n\nThis is a transitive verb, so it takes a direct object. But 受ける often implies passive reception, generally of intangible objects like an education, or damage. It can also mean <vocabulary>to take something</vocabulary>, like taking an exam or a job offer.",
-  "readingMnemonic": "There’s a creature in front of you that’s about <vocabulary>to receive something</vocabulary>, but what is it? It’s an <reading>u</reading>ni (う), and it’s going to receive a warm welcome and an education. Picture the sea urchin receiving these things, and then going on to take an exam to prove how much education it’s received.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8F%97%E3%81%91%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "受",
-      "id": 711,
-      "reading": "う"
-    },
-    {
-      "type": "kana",
-      "value": "ける"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%8F%97%E3%81%91%E3%82%8B"
+  }
 }

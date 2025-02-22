@@ -1,0 +1,30 @@
+{
+  "id": 2353,
+  "type": "kanji",
+  "character": "胎",
+  "primaryMeaning": "Womb",
+  "otherMeanings": [
+    "Uterus"
+  ],
+  "primaryReading": "たい",
+  "readings": [
+    {
+      "reading": "たい",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "It kind of sucks, but there is no way to sever this <kanji>uterus</kanji> - moon <reading>tie</reading> (たい). But if you find a way please tell me, I can't take this anymore.",
+  "meaningMnemonic": "The <radical>machine</radical> in your body that is powered by the <radical>moon</radical> is your <kanji>womb</kanji>, also called your <kanji>uterus</kanji>! Haven't you ever wondered why periods happen with the revolutions of the moon? That's because it powers your uterus and tells it what to do!",
+  "vocabularyIds": [
+    8394,
+    8395,
+    8396,
+    8397
+  ],
+  "radicalIds": [
+    43,
+    417
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%83%8E"
+}

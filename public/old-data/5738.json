@@ -1,0 +1,55 @@
+{
+  "id": 5738,
+  "type": "vocabulary",
+  "characters": "詰め込む",
+  "primaryMeaning": "To Stuff",
+  "otherMeanings": [
+    "To Cram"
+  ],
+  "primaryReading": "つめこむ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1411,
+      "character": "詰",
+      "readings": [
+        "つ",
+        "きつ",
+        "きち",
+        "づ"
+      ]
+    },
+    {
+      "id": 1504,
+      "character": "込",
+      "readings": [
+        "こ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You know that 詰める is \"to stuff in\" and the kanji 込 is <kanji>into</kanji>. When you’re stuffing something into something else, you are going <vocabulary>to stuff</vocabulary> or <vocabulary>to cram</vocabulary> it in.\n\nJust as in English, this word can also be used in a figurative sense, like cramming knowledge into your head.",
+  "readingMnemonic": "This word uses the readings you learned with the kanji. If you remember your kanji readings, you'll be fine here.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A9%B0%E3%82%81%E8%BE%BC%E3%82%80",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "詰",
+      "id": 1411,
+      "reading": "つ"
+    },
+    {
+      "type": "kana",
+      "value": "め"
+    },
+    {
+      "type": "kanji",
+      "value": "込",
+      "id": 1504,
+      "reading": "こ"
+    },
+    {
+      "type": "kana",
+      "value": "む"
+    }
+  ]
+}

@@ -1,53 +1,18 @@
 {
   "id": 7607,
   "type": "vocabulary",
-  "characters": "背が高い",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "背が高い"
+  },
   "primaryMeaning": "Tall",
-  "otherMeanings": [],
-  "primaryReading": "せがたかい",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1440,
-      "character": "背",
-      "readings": [
-        "はい",
-        "せ",
-        "そむ"
-      ]
-    },
-    {
-      "id": 666,
-      "character": "高",
-      "readings": [
-        "こう",
-        "たか"
-      ]
-    }
-  ],
   "meaningMnemonic": "This is the words 背 and 高い put together to make one adjective. When your height is tall it means you are a <vocabulary>tall</vocabulary> person. This word is only used for tall people though, not anything else that's tall like a building or a tree.",
+  "primaryReading": "せがたかい",
   "readingMnemonic": "This word is actually two separate words combined with a particle. So, since you treat them like separate words, you read each of them with the kun'yomi readings (they are both single kanji words all alone). You've learned both of these readings before now, so you should be able to read this word already!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%83%8C%E3%81%8C%E9%AB%98%E3%81%84",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "背",
-      "id": 1440,
-      "reading": "せ"
-    },
-    {
-      "type": "kana",
-      "value": "が"
-    },
-    {
-      "type": "kanji",
-      "value": "高",
-      "id": 666,
-      "reading": "たか"
-    },
-    {
-      "type": "kana",
-      "value": "い"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%83%8C%E3%81%8C%E9%AB%98%E3%81%84"
+  }
 }

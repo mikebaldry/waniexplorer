@@ -1,0 +1,45 @@
+{
+  "id": 4601,
+  "type": "vocabulary",
+  "characters": "辞職",
+  "primaryMeaning": "Resignation",
+  "otherMeanings": [
+    "Quitting"
+  ],
+  "primaryReading": "じしょく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 981,
+      "character": "辞",
+      "readings": [
+        "じ",
+        "や"
+      ]
+    },
+    {
+      "id": 1189,
+      "character": "職",
+      "readings": [
+        "しょく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you <kanji>quit</kanji> your place of <kanji>employment</kanji>, you are <vocabulary>quitting</vocabulary>, aka putting in your <vocabulary>resignation</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%BE%9E%E8%81%B7",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "辞",
+      "id": 981,
+      "reading": "じ"
+    },
+    {
+      "type": "kanji",
+      "value": "職",
+      "id": 1189,
+      "reading": "しょく"
+    }
+  ]
+}

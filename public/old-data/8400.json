@@ -1,0 +1,44 @@
+{
+  "id": 8400,
+  "type": "vocabulary",
+  "characters": "盲腸",
+  "primaryMeaning": "Appendix",
+  "otherMeanings": [],
+  "primaryReading": "もうちょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2352,
+      "character": "盲",
+      "readings": [
+        "もう",
+        "めくら"
+      ]
+    },
+    {
+      "id": 2333,
+      "character": "腸",
+      "readings": [
+        "ちょう",
+        "はらわた"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Which of your <kanji>guts</kanji> is <kanji>blind</kanji>? Your <vocabulary>appendix</vocabulary>. That's why so many people have to get them out. It's in there blind, bumping around, messing things up.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%9B%B2%E8%85%B8",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "盲",
+      "id": 2352,
+      "reading": "もう"
+    },
+    {
+      "type": "kanji",
+      "value": "腸",
+      "id": 2333,
+      "reading": "ちょう"
+    }
+  ]
+}

@@ -1,46 +1,20 @@
 {
   "id": 3378,
   "type": "vocabulary",
-  "characters": "期待",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "期待"
+  },
   "primaryMeaning": "Expectation",
+  "meaningMnemonic": "For a <kanji>period of time</kanji> you have to <kanji>wait</kanji>. During this waiting period, you’re building up an <vocabulary>expectation</vocabulary> or <vocabulary>anticipation</vocabulary> for something to happen a certain way. Waiting, expecting, waiting, expecting…\n\n期待 specifically refers to the feeling of expectation or anticipation for a desired outcome.",
+  "primaryReading": "きたい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Anticipation"
   ],
-  "primaryReading": "きたい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 839,
-      "character": "期",
-      "readings": [
-        "き",
-        "ご"
-      ]
-    },
-    {
-      "id": 726,
-      "character": "待",
-      "readings": [
-        "たい",
-        "ま"
-      ]
-    }
-  ],
-  "meaningMnemonic": "For a <kanji>period of time</kanji> you have to <kanji>wait</kanji>. During this waiting period, you’re building up an <vocabulary>expectation</vocabulary> or <vocabulary>anticipation</vocabulary> for something to happen a certain way. Waiting, expecting, waiting, expecting…\n\n期待 specifically refers to the feeling of expectation or anticipation for a desired outcome.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9C%9F%E5%BE%85",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "期",
-      "id": 839,
-      "reading": "き"
-    },
-    {
-      "type": "kanji",
-      "value": "待",
-      "id": 726,
-      "reading": "たい"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%9C%9F%E5%BE%85"
+  }
 }

@@ -1,0 +1,33 @@
+{
+  "id": 4962,
+  "type": "vocabulary",
+  "characters": "筆",
+  "primaryMeaning": "Writing Brush",
+  "otherMeanings": [
+    "Paintbrush",
+    "Brush"
+  ],
+  "primaryReading": "ふで",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1288,
+      "character": "筆",
+      "readings": [
+        "ひつ",
+        "ふで"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You did not learn this reading, so here's a mnemonic to help you to remember: For as long as you can remember, your family and another family has had a bloody <reading>feud</reading> (ふで) over this one <vocabulary>writing brush</vocabulary>. Just think of all the people killed over this brush. This feud has to end.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%AD%86",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "筆",
+      "id": 1288,
+      "reading": "ふで"
+    }
+  ]
+}

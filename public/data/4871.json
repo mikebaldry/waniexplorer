@@ -1,60 +1,20 @@
 {
   "id": 4871,
   "type": "vocabulary",
-  "characters": "観光客",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "観光客"
+  },
   "primaryMeaning": "Tourist",
+  "meaningMnemonic": "<kanji>Sightseeing</kanji> (観光) <kanji>guest</kanji>s are <vocabulary>tourist</vocabulary>s and <vocabulary>sightseer</vocabulary>s.",
+  "primaryReading": "かんこうきゃく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Will help to know 観光 as well.",
   "otherMeanings": [
     "Sightseer"
   ],
-  "primaryReading": "かんこうきゃく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1175,
-      "character": "観",
-      "readings": [
-        "かん",
-        "み"
-      ]
-    },
-    {
-      "id": 567,
-      "character": "光",
-      "readings": [
-        "こう",
-        "ひかり",
-        "ひか"
-      ]
-    },
-    {
-      "id": 723,
-      "character": "客",
-      "readings": [
-        "きゃく"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Sightseeing</kanji> (観光) <kanji>guest</kanji>s are <vocabulary>tourist</vocabulary>s and <vocabulary>sightseer</vocabulary>s.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Will help to know 観光 as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A6%B3%E5%85%89%E5%AE%A2",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "観",
-      "id": 1175,
-      "reading": "かん"
-    },
-    {
-      "type": "kanji",
-      "value": "光",
-      "id": 567,
-      "reading": "こう"
-    },
-    {
-      "type": "kanji",
-      "value": "客",
-      "id": 723,
-      "reading": "きゃく"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%A6%B3%E5%85%89%E5%AE%A2"
+  }
 }

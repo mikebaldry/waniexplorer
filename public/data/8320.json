@@ -1,43 +1,18 @@
 {
   "id": 8320,
   "type": "vocabulary",
-  "characters": "縫製",
+  "level": 56,
+  "characters": {
+    "type": "text",
+    "value": "縫製"
+  },
   "primaryMeaning": "Sewing",
-  "otherMeanings": [],
-  "primaryReading": "ほうせい",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2299,
-      "character": "縫",
-      "readings": [
-        "ほう",
-        "ぬ"
-      ]
-    },
-    {
-      "id": 1219,
-      "character": "製",
-      "readings": [
-        "せい"
-      ]
-    }
-  ],
   "meaningMnemonic": "<kanji>Sew</kanji> to <kanji>manufacture</kanji> things by <vocabulary>sewing</vocabulary>.",
+  "primaryReading": "ほうせい",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B8%AB%E8%A3%BD",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "縫",
-      "id": 2299,
-      "reading": "ほう"
-    },
-    {
-      "type": "kanji",
-      "value": "製",
-      "id": 1219,
-      "reading": "せい"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%B8%AB%E8%A3%BD"
+  }
 }

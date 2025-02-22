@@ -1,32 +1,20 @@
 {
   "id": 3825,
   "type": "vocabulary",
-  "characters": "園",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "園"
+  },
   "primaryMeaning": "Garden",
-  "otherMeanings": [],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.\n\nThis word is generally used in the names of gardens, like エデンの園 and 桜の園. It's also used in phrases like 学びの園, which means \"school\" and carries the connotation of being a haven for learning.",
   "primaryReading": "その",
+  "readingMnemonic": "This word uses the kun'yomi reading, which you didn't learn the kanji, so here's a mnemonic to help you:\n\nWhich <vocabulary>garden</vocabulary> is the Garden of Eden? <reading>その</reading> garden! That garden right next to you is the Garden of Eden!\n\nIt can also use the on'yomi, though, which you've already learned. When it takes the on'yomi and is used as a standalone word, it usually refers to some kind of institution, like a 幼稚園.",
+  "otherMeanings": [],
   "otherReadings": [
     "えん"
   ],
-  "kanji": [
-    {
-      "id": 960,
-      "character": "園",
-      "readings": [
-        "えん",
-        "その"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.\n\nThis word is generally used in the names of gardens, like エデンの園 and 桜の園. It's also used in phrases like 学びの園, which means \"school\" and carries the connotation of being a haven for learning.",
-  "readingMnemonic": "This word uses the kun'yomi reading, which you didn't learn the kanji, so here's a mnemonic to help you:\n\nWhich <vocabulary>garden</vocabulary> is the Garden of Eden? <reading>その</reading> garden! That garden right next to you is the Garden of Eden!\n\nIt can also use the on'yomi, though, which you've already learned. When it takes the on'yomi and is used as a standalone word, it usually refers to some kind of institution, like a 幼稚園.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%9C%92",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "園",
-      "id": 960,
-      "reading": "その"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%9C%92"
+  }
 }

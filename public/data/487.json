@@ -1,61 +1,69 @@
 {
   "id": 487,
   "type": "kanji",
-  "character": "本",
+  "level": 2,
+  "characters": {
+    "type": "text",
+    "value": "本"
+  },
+  "primaryReading": "ほん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ほん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "もと",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Book",
   "otherMeanings": [
     "Origin",
     "Real",
     "Main"
   ],
-  "primaryReading": "ほん",
-  "readings": [
-    {
-      "reading": "ほん",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "もと",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "<kanji>Book</kanji>s are one of the best ways to <reading>hone</reading> (ほん) your intellect, you know?",
   "meaningMnemonic": "The kanji and the radical are the same, so remembering the meaning of this kanji is as simple as making sure you know the radical for <radical>book</radical> first! If you know the radical, you know this kanji means <kanji>book</kanji> as well.\n\nTake note that the second, third, and fourth meanings of this kanji are <kanji>origin</kanji>, <kanji>real</kanji>, and <kanji>main</kanji>. You can figure this out by thinking about how books mainly have their origins in real life.",
-  "vocabularyIds": [
-    2569,
-    2570,
-    2677,
-    2679,
-    2833,
-    2856,
-    2865,
-    3108,
-    3164,
-    3210,
-    3329,
-    3336,
-    3642,
-    3670,
-    3712,
-    3911,
-    4429,
-    4680,
-    4876,
-    4877,
-    5911,
-    6244,
-    6832,
-    6881,
-    7149,
-    7766,
-    8031,
-    8736,
-    8749
-  ],
-  "radicalIds": [
-    50
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%9C%AC"
+  "readingMnemonic": "<kanji>Book</kanji>s are one of the best ways to <reading>hone</reading> (ほん) your intellect, you know?",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%9C%AC"
+  },
+  "related": {
+    "radicals": [
+      50
+    ],
+    "vocabularies": [
+      2569,
+      2570,
+      2677,
+      2679,
+      2833,
+      2856,
+      2865,
+      3108,
+      3164,
+      3210,
+      3329,
+      3336,
+      3642,
+      3670,
+      3712,
+      3911,
+      4429,
+      4680,
+      4876,
+      4877,
+      5911,
+      6244,
+      6832,
+      6881,
+      7149,
+      7766,
+      8031,
+      8736,
+      8749
+    ]
+  }
 }

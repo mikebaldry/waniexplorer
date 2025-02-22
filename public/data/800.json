@@ -1,26 +1,34 @@
 {
   "id": 800,
   "type": "kanji",
-  "character": "秒",
-  "primaryMeaning": "Second",
-  "otherMeanings": [],
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "秒"
+  },
   "primaryReading": "びょう",
   "readings": [
     {
-      "reading": "びょう",
       "primary": true,
+      "reading": "びょう",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "After the final <kanji>second</kanji>s go by, your awful <reading>B.O.</reading> (びょう) appears.",
+  "primaryMeaning": "Second",
+  "otherMeanings": [],
   "meaningMnemonic": "<radical>Grain</radical>s are <radical>few</radical>. Imagine the last few grains trickling down the hourglass. You only have a <kanji>second</kanji> left.",
-  "vocabularyIds": [
-    3300,
-    4990
-  ],
-  "radicalIds": [
-    135,
-    198
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%A7%92"
+  "readingMnemonic": "After the final <kanji>second</kanji>s go by, your awful <reading>B.O.</reading> (びょう) appears.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%A7%92"
+  },
+  "related": {
+    "radicals": [
+      135,
+      198
+    ],
+    "vocabularies": [
+      3300,
+      4990
+    ]
+  }
 }

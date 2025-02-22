@@ -1,32 +1,20 @@
 {
   "id": 3005,
   "type": "vocabulary",
-  "characters": "君",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "君"
+  },
   "primaryMeaning": "You",
+  "meaningMnemonic": "Okay, so the kanji itself means <kanji>buddy</kanji> and so does the word, but it also means <vocabulary>you</vocabulary> as well. This is one of the several ways to say \"you\" in Japanese, and this one is kind of an \"affectionate\" you. Maybe you'd say it with someone you're close to. Maybe you'd say it with a girlfriend or boyfriend. You wouldn't want to use it with your boss or teacher, though. Make sure to keep that in mind. It's kind of like saying \"hey buddy\" or \"hey you,\" after all.",
+  "primaryReading": "きみ",
+  "readingMnemonic": "Since this word is made up of a single kanji, it should use the kun'yomi reading. When learning the kanji, you didn't learn that reading, so here's a mnemonic to help you with this word: \n\nWho's your <vocabulary>buddy</vocabulary>? It's <reading>Kimmy</reading> (きみ)! If you know a Kimmy, imagine her. If you don't, find a famous Kimmy or make up a Kimmy to imagine. You ask... is it you?? Wait, you're my buddy?",
   "otherMeanings": [
     "Buddy"
   ],
-  "primaryReading": "きみ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 682,
-      "character": "君",
-      "readings": [
-        "くん",
-        "きみ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Okay, so the kanji itself means <kanji>buddy</kanji> and so does the word, but it also means <vocabulary>you</vocabulary> as well. This is one of the several ways to say \"you\" in Japanese, and this one is kind of an \"affectionate\" you. Maybe you'd say it with someone you're close to. Maybe you'd say it with a girlfriend or boyfriend. You wouldn't want to use it with your boss or teacher, though. Make sure to keep that in mind. It's kind of like saying \"hey buddy\" or \"hey you,\" after all.",
-  "readingMnemonic": "Since this word is made up of a single kanji, it should use the kun'yomi reading. When learning the kanji, you didn't learn that reading, so here's a mnemonic to help you with this word: \n\nWho's your <vocabulary>buddy</vocabulary>? It's <reading>Kimmy</reading> (きみ)! If you know a Kimmy, imagine her. If you don't, find a famous Kimmy or make up a Kimmy to imagine. You ask... is it you?? Wait, you're my buddy?",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%90%9B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "君",
-      "id": 682,
-      "reading": "きみ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%90%9B"
+  }
 }

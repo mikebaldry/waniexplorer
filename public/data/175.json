@@ -1,12 +1,15 @@
 {
   "id": 175,
   "type": "radical",
-  "primaryMeaning": "Clown",
-  "otherMeanings": [],
-  "character": {
+  "level": 9,
+  "characters": {
     "type": "text",
     "value": "咅"
   },
+  "primaryMeaning": "Clown",
+  "otherMeanings": [],
   "meaningMnemonic": "<radical>Clown</radical>s do weird tricks. One trick they might do is stand on their mouth (or stand on someone else's mouth). Imagine a clown doing either one of these things to remember this radical: clown.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/clown"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/clown"
+  }
 }

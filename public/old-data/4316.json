@@ -1,0 +1,47 @@
+{
+  "id": 4316,
+  "type": "vocabulary",
+  "characters": "穴子",
+  "primaryMeaning": "Conger Eel",
+  "otherMeanings": [
+    "Anago"
+  ],
+  "primaryReading": "あなご",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1118,
+      "character": "穴",
+      "readings": [
+        "あな",
+        "けつ"
+      ]
+    },
+    {
+      "id": 462,
+      "character": "子",
+      "readings": [
+        "し",
+        "す",
+        "こ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>hole</kanji> <kanji>child</kanji> isn't some kind of creepy hole child (not sure how else to describe it). It's a <vocabulary>conger eel</vocabulary>, a type of tasty eel eaten in Japan. It might be easier to learn the reading first, though, and use that, because the second meaning option is <vocabulary>anago</vocabulary>, the Japanese word for it (also used in English).",
+  "readingMnemonic": "The reading is the two kun'yomi vocab readings combined. So, 穴 and 子 to combine make あなご. Just watch out for rendaku, which changes the reading of 子 from こ to ご.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A9%B4%E5%AD%90",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "穴",
+      "id": 1118,
+      "reading": "あな"
+    },
+    {
+      "type": "kanji",
+      "value": "子",
+      "id": 462,
+      "reading": "ご"
+    }
+  ]
+}

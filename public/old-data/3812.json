@@ -1,0 +1,46 @@
+{
+  "id": 3812,
+  "type": "vocabulary",
+  "characters": "事典",
+  "primaryMeaning": "Encyclopedia",
+  "otherMeanings": [
+    "Dictionary"
+  ],
+  "primaryReading": "じてん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 708,
+      "character": "事",
+      "readings": [
+        "じ",
+        "こと",
+        "つか"
+      ]
+    },
+    {
+      "id": 975,
+      "character": "典",
+      "readings": [
+        "てん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you come across a <kanji>matter</kanji> in which the <kanji>rule</kanji>s aren’t clear, you’ll need to have a look in an <vocabulary>encyclopedia</vocabulary>!",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BA%8B%E5%85%B8",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "事",
+      "id": 708,
+      "reading": "じ"
+    },
+    {
+      "type": "kanji",
+      "value": "典",
+      "id": 975,
+      "reading": "てん"
+    }
+  ]
+}

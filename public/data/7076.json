@@ -1,46 +1,21 @@
 {
   "id": 7076,
   "type": "vocabulary",
-  "characters": "補佐",
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "補佐"
+  },
   "primaryMeaning": "Aid",
+  "meaningMnemonic": "A <kanji>supplement</kanji> of <kanji>help</kanji> is an <vocabulary>aid</vocabulary> or <vocabulary>help</vocabulary> or <vocabulary>assistance</vocabulary>. Not a full on help, but an aid of sorts.",
+  "primaryReading": "ほさ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Help",
     "Assistance"
   ],
-  "primaryReading": "ほさ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1261,
-      "character": "補",
-      "readings": [
-        "ほ",
-        "おぎな"
-      ]
-    },
-    {
-      "id": 1985,
-      "character": "佐",
-      "readings": [
-        "さ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>supplement</kanji> of <kanji>help</kanji> is an <vocabulary>aid</vocabulary> or <vocabulary>help</vocabulary> or <vocabulary>assistance</vocabulary>. Not a full on help, but an aid of sorts.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A3%9C%E4%BD%90",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "補",
-      "id": 1261,
-      "reading": "ほ"
-    },
-    {
-      "type": "kanji",
-      "value": "佐",
-      "id": 1985,
-      "reading": "さ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%A3%9C%E4%BD%90"
+  }
 }

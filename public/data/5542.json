@@ -1,46 +1,20 @@
 {
   "id": 5542,
   "type": "vocabulary",
-  "characters": "祖父",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "祖父"
+  },
   "primaryMeaning": "Grandfather",
+  "meaningMnemonic": "Your <kanji>ancestor</kanji> <kanji>father</kanji> isn't your father, it's the father that came before your father's generation, your <vocabulary>grandfather</vocabulary>.",
+  "primaryReading": "そふ",
+  "readingMnemonic": "The reading is all on'yomi, which is great for 祖 but not as great for 父. To remember that this 父 is ふ, just think about how much of a <reading>foo</reading>l (ふ) your grandfather was, even if he wasn't.",
   "otherMeanings": [
     "Grandpa"
   ],
-  "primaryReading": "そふ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1489,
-      "character": "祖",
-      "readings": [
-        "そ"
-      ]
-    },
-    {
-      "id": 512,
-      "character": "父",
-      "readings": [
-        "ちち",
-        "とう",
-        "ふ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Your <kanji>ancestor</kanji> <kanji>father</kanji> isn't your father, it's the father that came before your father's generation, your <vocabulary>grandfather</vocabulary>.",
-  "readingMnemonic": "The reading is all on'yomi, which is great for 祖 but not as great for 父. To remember that this 父 is ふ, just think about how much of a <reading>foo</reading>l (ふ) your grandfather was, even if he wasn't.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A5%96%E7%88%B6",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "祖",
-      "id": 1489,
-      "reading": "そ"
-    },
-    {
-      "type": "kanji",
-      "value": "父",
-      "id": 512,
-      "reading": "ふ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%A5%96%E7%88%B6"
+  }
 }

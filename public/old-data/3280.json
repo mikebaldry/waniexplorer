@@ -1,0 +1,46 @@
+{
+  "id": 3280,
+  "type": "vocabulary",
+  "characters": "電波",
+  "primaryMeaning": "Reception",
+  "otherMeanings": [
+    "Radio Wave",
+    "Electromagnetic Wave"
+  ],
+  "primaryReading": "でんぱ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 706,
+      "character": "電",
+      "readings": [
+        "でん"
+      ]
+    },
+    {
+      "id": 793,
+      "character": "波",
+      "readings": [
+        "は",
+        "なみ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>electricity</kanji> <kanji>wave</kanji> is a wave of electricity going through the air. There are many words you can use to describe this, but the easiest one is <vocabulary>reception</vocabulary> (like the reception on your phone, for example).\n\nOther more technical meanings are <vocabulary>radio wave</vocabulary> and <vocabulary>electromagnetic waves</vocabulary>. Which one you like is up to you, but reception is going to be the most common meaning on the street. Luckily people in Japan don't have AT&amp;T, otherwise you'd hear this word a lot more…",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. The は from 波 rendakus to ぱ, so be careful. Maybe it's your <reading>pa</reading> who has bad reception every time you try to call him?",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9B%BB%E6%B3%A2",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "電",
+      "id": 706,
+      "reading": "でん"
+    },
+    {
+      "type": "kanji",
+      "value": "波",
+      "id": 793,
+      "reading": "ぱ"
+    }
+  ]
+}

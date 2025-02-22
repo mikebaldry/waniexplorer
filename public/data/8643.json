@@ -1,45 +1,20 @@
 {
   "id": 8643,
   "type": "vocabulary",
-  "characters": "硫黄",
+  "level": 60,
+  "characters": {
+    "type": "text",
+    "value": "硫黄"
+  },
   "primaryMeaning": "Sulfur",
+  "meaningMnemonic": "<kanji>Sulfur</kanji> that's <kanji>yellow</kanji> is still <vocabulary>sulfur</vocabulary>. It smells like rotten eggs, which are also kinda yellow.",
+  "primaryReading": "いおう",
+  "readingMnemonic": "The reading for this word is an exception. Here's a mnemonic to help you remember it:\n\nThis <vocabulary>sulfur</vocabulary> smells like an <reading>ea</reading>gle's <reading>OOHHH</reading> (いおう)!! Oh no. Sulfur smells... it smells... like an eagle's... OH.. Oh eww no.",
   "otherMeanings": [
     "Sulphur"
   ],
-  "primaryReading": "いおう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2365,
-      "character": "硫",
-      "readings": [
-        "りゅう"
-      ]
-    },
-    {
-      "id": 676,
-      "character": "黄",
-      "readings": [
-        "き",
-        "おう"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Sulfur</kanji> that's <kanji>yellow</kanji> is still <vocabulary>sulfur</vocabulary>. It smells like rotten eggs, which are also kinda yellow.",
-  "readingMnemonic": "The reading for this word is an exception. Here's a mnemonic to help you remember it:\n\nThis <vocabulary>sulfur</vocabulary> smells like an <reading>ea</reading>gle's <reading>OOHHH</reading> (いおう)!! Oh no. Sulfur smells... it smells... like an eagle's... OH.. Oh eww no.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A1%AB%E9%BB%84",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "硫",
-      "id": 2365,
-      "reading": null
-    },
-    {
-      "type": "kanji",
-      "value": "黄",
-      "id": 676,
-      "reading": null
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%A1%AB%E9%BB%84"
+  }
 }

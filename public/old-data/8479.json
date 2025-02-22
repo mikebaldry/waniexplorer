@@ -1,0 +1,73 @@
+{
+  "id": 8479,
+  "type": "vocabulary",
+  "characters": "起訴猶予",
+  "primaryMeaning": "Suspension Of Indictment",
+  "otherMeanings": [],
+  "primaryReading": "きそゆうよ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 740,
+      "character": "起",
+      "readings": [
+        "お",
+        "き"
+      ]
+    },
+    {
+      "id": 1258,
+      "character": "訴",
+      "readings": [
+        "そ",
+        "うった"
+      ]
+    },
+    {
+      "id": 2296,
+      "character": "猶",
+      "readings": [
+        "ゆう",
+        "ゆ",
+        "なお"
+      ]
+    },
+    {
+      "id": 854,
+      "character": "予",
+      "readings": [
+        "よ",
+        "あらかじ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Remember how you learned that 猶予 means \"extension?\" Well you <kanji>wake up</kanji> ready to <kanji>sue</kanji> people when you're told there has been an extension, meaning there was a <vocabulary>suspension of indictment </vocabulary>on your case. What the heck, you woke up ready for this! Now you have to wait to try and sue them.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%B5%B7%E8%A8%B4%E7%8C%B6%E4%BA%88",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "起",
+      "id": 740,
+      "reading": "き"
+    },
+    {
+      "type": "kanji",
+      "value": "訴",
+      "id": 1258,
+      "reading": "そ"
+    },
+    {
+      "type": "kanji",
+      "value": "猶",
+      "id": 2296,
+      "reading": "ゆう"
+    },
+    {
+      "type": "kanji",
+      "value": "予",
+      "id": 854,
+      "reading": "よ"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": 7881,
+  "type": "vocabulary",
+  "characters": "恒久",
+  "primaryMeaning": "Permanent",
+  "otherMeanings": [
+    "Perpetual"
+  ],
+  "primaryReading": "こうきゅう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2171,
+      "character": "恒",
+      "readings": [
+        "こう",
+        "つね",
+        "つねに"
+      ]
+    },
+    {
+      "id": 496,
+      "character": "久",
+      "readings": [
+        "きゅう",
+        "く",
+        "ひさ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A thing that's <kanji>constant</kanji> for a <kanji>long time</kanji> becomes <vocabulary>permanent</vocabulary>. Leave a shoe on the sidewalk for a long time? Permanently stuck there. Constantly making dumb faces? Permanently stuck like that. ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%81%92%E4%B9%85",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "恒",
+      "id": 2171,
+      "reading": "こう"
+    },
+    {
+      "type": "kanji",
+      "value": "久",
+      "id": 496,
+      "reading": "きゅう"
+    }
+  ]
+}

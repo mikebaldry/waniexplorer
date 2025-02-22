@@ -1,31 +1,39 @@
 {
   "id": 1396,
   "type": "kanji",
-  "character": "略",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "略"
+  },
+  "primaryReading": "りゃく",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "りゃく",
+      "type": "onyomi"
+    }
+  ],
   "primaryMeaning": "Abbreviation",
   "otherMeanings": [
     "Abbreviate"
   ],
-  "primaryReading": "りゃく",
-  "readings": [
-    {
-      "reading": "りゃく",
-      "primary": true,
-      "type": "onyomi"
-    }
-  ],
-  "readingMnemonic": "The rice paddy still refuses to accept this <kanji>abbreviation</kanji> despite your kisses. Therefore, you are forced to take the rice paddy and hang it from a torture <reading>rack</reading> (りゃく) until it agrees to accept the abbreviation.",
   "meaningMnemonic": "You see a <radical>rice paddy</radical> and you give it a <radical>kiss</radical> before granting it the <kanji>abbreviation</kanji>, RP. The rice paddy isn’t too fond of this abbreviation, so you kiss it again to soothe it.",
-  "vocabularyIds": [
-    5255,
-    5256,
-    5257,
-    5258,
-    5259
-  ],
-  "radicalIds": [
-    51,
-    180
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%95%A5"
+  "readingMnemonic": "The rice paddy still refuses to accept this <kanji>abbreviation</kanji> despite your kisses. Therefore, you are forced to take the rice paddy and hang it from a torture <reading>rack</reading> (りゃく) until it agrees to accept the abbreviation.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%95%A5"
+  },
+  "related": {
+    "radicals": [
+      51,
+      180
+    ],
+    "vocabularies": [
+      5255,
+      5256,
+      5257,
+      5258,
+      5259
+    ]
+  }
 }

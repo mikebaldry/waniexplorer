@@ -1,0 +1,37 @@
+{
+  "id": 4779,
+  "type": "vocabulary",
+  "characters": "響く",
+  "primaryMeaning": "To Echo",
+  "otherMeanings": [
+    "To Reverberate",
+    "To Resound"
+  ],
+  "primaryReading": "ひびく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1254,
+      "character": "響",
+      "readings": [
+        "きょう",
+        "ひび"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>echo</kanji> so the verb is <vocabulary>to echo</vocabulary>.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: <reading>He be</reading> (ひび) echoing... <reading>He be</reading> (ひび) echoing... <reading>He be</reading> (ひび) echoing... <reading>He be</reading> (ひび) echoing... <reading>He be</reading> (ひび) echoing... ",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9F%BF%E3%81%8F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "響",
+      "id": 1254,
+      "reading": "ひび"
+    },
+    {
+      "type": "kana",
+      "value": "く"
+    }
+  ]
+}

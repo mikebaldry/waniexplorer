@@ -1,0 +1,47 @@
+{
+  "id": 6452,
+  "type": "vocabulary",
+  "characters": "雅楽",
+  "primaryMeaning": "Japanese Court Music",
+  "otherMeanings": [
+    "Gagaku"
+  ],
+  "primaryReading": "ががく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1773,
+      "character": "雅",
+      "readings": [
+        "が",
+        "みや"
+      ]
+    },
+    {
+      "id": 704,
+      "character": "楽",
+      "readings": [
+        "らく",
+        "がく",
+        "たの"
+      ]
+    }
+  ],
+  "meaningMnemonic": "It's so <kanji>elegant</kanji> and so <kanji>comfort</kanji>ing. This is <vocabulary>Japanese court music</vocabulary>, and it's what fancy court people listened to in Japan back in the day. You can also call it <vocabulary>gagaku</vocabulary> if you'd like.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9B%85%E6%A5%BD",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "雅",
+      "id": 1773,
+      "reading": "が"
+    },
+    {
+      "type": "kanji",
+      "value": "楽",
+      "id": 704,
+      "reading": "がく"
+    }
+  ]
+}

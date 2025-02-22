@@ -1,0 +1,33 @@
+{
+  "id": 1606,
+  "type": "kanji",
+  "character": "湖",
+  "primaryMeaning": "Lake",
+  "otherMeanings": [],
+  "primaryReading": "こ",
+  "readings": [
+    {
+      "reading": "こ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "みずうみ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "\"That's where <kanji>lake</kanji>s come from,\" you tell the <reading>子</reading> (こ).",
+  "meaningMnemonic": "The <radical>tsunami</radical>s during the <radical>old</radical> <radical>moon</radical>s (many moons ago) were responsible for the world's <kanji>lake</kanji>s.",
+  "vocabularyIds": [
+    5922,
+    5923,
+    8639
+  ],
+  "radicalIds": [
+    103,
+    69,
+    43
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%B9%96"
+}

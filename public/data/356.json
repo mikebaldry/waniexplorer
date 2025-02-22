@@ -1,12 +1,15 @@
 {
   "id": 356,
   "type": "radical",
-  "primaryMeaning": "Greenhouse",
-  "otherMeanings": [],
-  "character": {
+  "level": 25,
+  "characters": {
     "type": "text",
     "value": "莫"
   },
+  "primaryMeaning": "Greenhouse",
+  "otherMeanings": [],
   "meaningMnemonic": "Flowers need the sun to get big. To help them grow as big as possible, we put them in the <radical>greenhouse</radical>.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/greenhouse"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/greenhouse"
+  }
 }

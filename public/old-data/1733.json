@@ -1,0 +1,33 @@
+{
+  "id": 1733,
+  "type": "kanji",
+  "character": "斐",
+  "primaryMeaning": "Patterned",
+  "otherMeanings": [],
+  "primaryReading": "い",
+  "readings": [
+    {
+      "reading": "い",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ひ",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "As you look closer at the <kanji>patterned</kanji> writing you realize that it forms the shape of an <reading>eagle</reading> (い). The most American bird of them all! Maybe this guy isn't a criminal after all!",
+  "meaningMnemonic": "<radical>Criminal</radical> <radical>writing</radical> is always <kanji>patterned</kanji>. That is to say, there is a pattern to it, lots of ARGS and GONNA STAB YAs, but it's also patterned beautifully, with a collage of cut out letters.",
+  "vocabularyIds": [
+    6313,
+    6470,
+    6471,
+    6473
+  ],
+  "radicalIds": [
+    209,
+    42
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%96%90"
+}

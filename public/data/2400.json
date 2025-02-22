@@ -1,39 +1,47 @@
 {
   "id": 2400,
   "type": "kanji",
-  "character": "遷",
-  "primaryMeaning": "Transition",
-  "otherMeanings": [],
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "遷"
+  },
   "primaryReading": "せん",
   "readings": [
     {
-      "reading": "せん",
       "primary": true,
+      "reading": "せん",
       "type": "onyomi"
     },
     {
-      "reading": "うつ",
       "primary": false,
+      "reading": "うつ",
       "type": "kunyomi"
     },
     {
-      "reading": "みやこがえ",
       "primary": false,
+      "reading": "みやこがえ",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "You decide one <kanji>transition</kanji> isn't enough, so you transition to a <reading>cen</reading>taur (せん) too. Now you're a big half horse-half human creature and you'll fit in the big helicopter better.",
+  "primaryMeaning": "Transition",
+  "otherMeanings": [],
   "meaningMnemonic": "Going from a <radical>scooter</radical> to a <radical>helicopter</radical> that's <radical>big</radical> even for yourself (<radical>oneself</radical>), is a huge <kanji>transition</kanji>.",
-  "vocabularyIds": [
-    8585,
-    8586,
-    8587
-  ],
-  "radicalIds": [
-    114,
-    424,
-    18,
-    228
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%81%B7"
+  "readingMnemonic": "You decide one <kanji>transition</kanji> isn't enough, so you transition to a <reading>cen</reading>taur (せん) too. Now you're a big half horse-half human creature and you'll fit in the big helicopter better.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%81%B7"
+  },
+  "related": {
+    "radicals": [
+      114,
+      424,
+      18,
+      228
+    ],
+    "vocabularies": [
+      8585,
+      8586,
+      8587
+    ]
+  }
 }

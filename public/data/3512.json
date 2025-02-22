@@ -1,49 +1,18 @@
 {
   "id": 3512,
   "type": "vocabulary",
-  "characters": "買い物",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "買い物"
+  },
   "primaryMeaning": "Shopping",
-  "otherMeanings": [],
-  "primaryReading": "かいもの",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 699,
-      "character": "買",
-      "readings": [
-        "か",
-        "ばい"
-      ]
-    },
-    {
-      "id": 718,
-      "character": "物",
-      "readings": [
-        "ぶつ",
-        "もつ",
-        "もの"
-      ]
-    }
-  ],
   "meaningMnemonic": "You've hopefully seen 買う by now and know it means \"to buy.\" So, 買い is going to be similar to that. Add that to <kanji>thing</kanji> and you have a \"buying things\" sort of word. What does \"buying things\" describe? It describes <vocabulary>shopping</vocabulary>.",
+  "primaryReading": "かいもの",
   "readingMnemonic": "The readings are the kun'yomi, which is usually the case when there's hiragana in the middle. You learned the reading for 買い when you learned the kanji, as well as the word 買う, and you learned this reading of 物 in the word 物!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%B2%B7%E3%81%84%E7%89%A9",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "買",
-      "id": 699,
-      "reading": "か"
-    },
-    {
-      "type": "kana",
-      "value": "い"
-    },
-    {
-      "type": "kanji",
-      "value": "物",
-      "id": 718,
-      "reading": "もの"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%B2%B7%E3%81%84%E7%89%A9"
+  }
 }

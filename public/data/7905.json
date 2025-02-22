@@ -1,45 +1,21 @@
 {
   "id": 7905,
   "type": "vocabulary",
-  "characters": "犠牲",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "犠牲"
+  },
   "primaryMeaning": "Victim",
+  "meaningMnemonic": "Who do you <kanji>sacrifice</kanji> as an <kanji>offering</kanji> to the gods? A poor <vocabulary>victim</vocabulary> will be your <vocabulary>sacrifice</vocabulary>.",
+  "primaryReading": "ぎせい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Sacrifice",
     "Scapegoat"
   ],
-  "primaryReading": "ぎせい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1761,
-      "character": "犠",
-      "readings": [
-        "ぎ"
-      ]
-    },
-    {
-      "id": 2166,
-      "character": "牲",
-      "readings": [
-        "せい"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Who do you <kanji>sacrifice</kanji> as an <kanji>offering</kanji> to the gods? A poor <vocabulary>victim</vocabulary> will be your <vocabulary>sacrifice</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%8A%A0%E7%89%B2",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "犠",
-      "id": 1761,
-      "reading": "ぎ"
-    },
-    {
-      "type": "kanji",
-      "value": "牲",
-      "id": 2166,
-      "reading": "せい"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%8A%A0%E7%89%B2"
+  }
 }

@@ -1,12 +1,15 @@
 {
   "id": 387,
   "type": "radical",
-  "primaryMeaning": "Shop",
-  "otherMeanings": [],
-  "character": {
+  "level": 42,
+  "characters": {
     "type": "text",
     "value": "屋"
   },
+  "primaryMeaning": "Shop",
+  "otherMeanings": [],
   "meaningMnemonic": "We already have a roof radical, so we're going to use the secondary kanji meaning for this radical. It's <radical>shop</radical>, remember?",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/shop"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/shop"
+  }
 }

@@ -1,47 +1,21 @@
 {
   "id": 5252,
   "type": "vocabulary",
-  "characters": "猛烈",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "猛烈"
+  },
   "primaryMeaning": "Fierce",
+  "meaningMnemonic": "If you're <kanji>fierce</kanji> and <kanji>violent</kanji> then you are <vocabulary>fierce</vocabulary> and <vocabulary>violent</vocabulary>.",
+  "primaryReading": "もうれつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Violent",
     "Intense"
   ],
-  "primaryReading": "もうれつ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1408,
-      "character": "猛",
-      "readings": [
-        "もう",
-        "たけ"
-      ]
-    },
-    {
-      "id": 1409,
-      "character": "烈",
-      "readings": [
-        "れつ",
-        "はげ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "If you're <kanji>fierce</kanji> and <kanji>violent</kanji> then you are <vocabulary>fierce</vocabulary> and <vocabulary>violent</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%8C%9B%E7%83%88",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "猛",
-      "id": 1408,
-      "reading": "もう"
-    },
-    {
-      "type": "kanji",
-      "value": "烈",
-      "id": 1409,
-      "reading": "れつ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%8C%9B%E7%83%88"
+  }
 }

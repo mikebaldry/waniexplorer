@@ -1,31 +1,39 @@
 {
   "id": 9251,
   "type": "kanji",
-  "character": "揃",
-  "primaryMeaning": "Complete",
-  "otherMeanings": [],
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "揃"
+  },
   "primaryReading": "そろ",
   "readings": [
     {
-      "reading": "そろ",
       "primary": true,
+      "reading": "そろ",
       "type": "kunyomi"
     },
     {
-      "reading": "せん",
       "primary": false,
+      "reading": "せん",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "To have your <kanji>complete</kanji> fingers back, you gotta run to the hospital <reading>solo</reading> (そろ).",
+  "primaryMeaning": "Complete",
+  "otherMeanings": [],
   "meaningMnemonic": "Your <radical>fingers</radical> <radical>before</radical> were <kanji>complete</kanji>. ",
-  "vocabularyIds": [
-    9252,
-    9263
-  ],
-  "radicalIds": [
-    63,
-    8908
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%8F%83"
+  "readingMnemonic": "To have your <kanji>complete</kanji> fingers back, you gotta run to the hospital <reading>solo</reading> (そろ).",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%8F%83"
+  },
+  "related": {
+    "radicals": [
+      63,
+      8908
+    ],
+    "vocabularies": [
+      9252,
+      9263
+    ]
+  }
 }

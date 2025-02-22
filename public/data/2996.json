@@ -1,46 +1,20 @@
 {
   "id": 2996,
   "type": "vocabulary",
-  "characters": "住民",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "住民"
+  },
   "primaryMeaning": "Residents",
+  "meaningMnemonic": "They <kanji>dwell</kanji> here, these <kanji>people</kanji>. So what are they? They’re <vocabulary>residents</vocabulary>.",
+  "primaryReading": "じゅうみん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Citizens"
   ],
-  "primaryReading": "じゅうみん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 679,
-      "character": "住",
-      "readings": [
-        "じゅう",
-        "す"
-      ]
-    },
-    {
-      "id": 650,
-      "character": "民",
-      "readings": [
-        "みん",
-        "たみ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "They <kanji>dwell</kanji> here, these <kanji>people</kanji>. So what are they? They’re <vocabulary>residents</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BD%8F%E6%B0%91",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "住",
-      "id": 679,
-      "reading": "じゅう"
-    },
-    {
-      "type": "kanji",
-      "value": "民",
-      "id": 650,
-      "reading": "みん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BD%8F%E6%B0%91"
+  }
 }

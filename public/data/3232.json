@@ -1,49 +1,20 @@
 {
   "id": 3232,
   "type": "vocabulary",
-  "characters": "病人",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "病人"
+  },
   "primaryMeaning": "Sick Person",
+  "meaningMnemonic": "A <kanji>person</kanji> who is <kanji>sick</kanji> is a <vocabulary>sick person</vocabulary>. They are also a <vocabulary>patient</vocabulary>, at least we can hope they are, for their sake.",
+  "primaryReading": "びょうにん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 人 has two on'yomi readings, here's a mnemonic to help you remember which one to use:\n\nEvery <vocabulary>sick person</vocabulary> enjoys playing on their <reading>Nin</reading>tendo (にん). You have the nastiest flu, but you've still got your Nintendo, so everything is fine.",
   "otherMeanings": [
     "Patient"
   ],
-  "primaryReading": "びょうにん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 773,
-      "character": "病",
-      "readings": [
-        "びょう",
-        "や",
-        "やまい"
-      ]
-    },
-    {
-      "id": 444,
-      "character": "人",
-      "readings": [
-        "にん",
-        "じん",
-        "ひと",
-        "と"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>person</kanji> who is <kanji>sick</kanji> is a <vocabulary>sick person</vocabulary>. They are also a <vocabulary>patient</vocabulary>, at least we can hope they are, for their sake.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 人 has two on'yomi readings, here's a mnemonic to help you remember which one to use:\n\nEvery <vocabulary>sick person</vocabulary> enjoys playing on their <reading>Nin</reading>tendo (にん). You have the nastiest flu, but you've still got your Nintendo, so everything is fine.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%97%85%E4%BA%BA",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "病",
-      "id": 773,
-      "reading": "びょう"
-    },
-    {
-      "type": "kanji",
-      "value": "人",
-      "id": 444,
-      "reading": "にん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%97%85%E4%BA%BA"
+  }
 }

@@ -1,0 +1,48 @@
+{
+  "id": 7282,
+  "type": "vocabulary",
+  "characters": "覚悟",
+  "primaryMeaning": "Mental Readiness",
+  "otherMeanings": [
+    "Resolution",
+    "Determination"
+  ],
+  "primaryReading": "かくご",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1025,
+      "character": "覚",
+      "readings": [
+        "かく",
+        "おぼ",
+        "さ"
+      ]
+    },
+    {
+      "id": 2054,
+      "character": "悟",
+      "readings": [
+        "ご",
+        "さと"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you <kanji>awake</kanji> to a moment of total <kanji>comprehension</kanji>, you've achieved <vocabulary>mental readiness</vocabulary>. You have the <vocabulary>resolution</vocabulary> and <vocabulary>determination</vocabulary> to face any challenge now.\n\n覚悟 refers to mentally preparing yourself to face a difficult situation or accept an unfavorable outcome. It conveys a sense of strong determination and readiness to confront risks.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A6%9A%E6%82%9F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "覚",
+      "id": 1025,
+      "reading": "かく"
+    },
+    {
+      "type": "kanji",
+      "value": "悟",
+      "id": 2054,
+      "reading": "ご"
+    }
+  ]
+}

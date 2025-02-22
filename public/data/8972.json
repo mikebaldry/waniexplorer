@@ -1,46 +1,22 @@
 {
   "id": 8972,
   "type": "vocabulary",
-  "characters": "拉麺",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "拉麺"
+  },
   "primaryMeaning": "Ramen",
+  "meaningMnemonic": "If you're going to <kanji>abduct</kanji> some <kanji>noodles</kanji>, make sure it's everybody's favorite noodles, <vocabulary>ramen</vocabulary>! The other meaning of the first kanji actually makes more sense here though, because you <kanji>pull</kanji> the dough to stretch it when you make <vocabulary>ramen noodles</vocabulary>. Choose whichever meaning helps you remember it best!\n\nThis word is mostly written in kana, usually as ラーメン, but sometimes らーめん. You'll see the kanji version pretty often on packaging and menus, though, so it's worth knowing! The word is also occasionally written as らー麺 or ラー麺.",
+  "primaryReading": "らーめん",
+  "readingMnemonic": "Both of these kanji take the on'yomi, but the first one has a slightly irregular reading, because it's based on the modern Chinese reading. To remember that it's a long らー, just think how excited you are about these ramen! <reading>Raaaaaa</reading>! Raaaamen! So exciting!",
   "otherMeanings": [
     "Ramen Noodles"
   ],
-  "primaryReading": "らーめん",
   "otherReadings": [
     "ラーメン"
   ],
-  "kanji": [
-    {
-      "id": 8969,
-      "character": "拉",
-      "readings": [
-        "ら"
-      ]
-    },
-    {
-      "id": 8955,
-      "character": "麺",
-      "readings": [
-        "めん"
-      ]
-    }
-  ],
-  "meaningMnemonic": "If you're going to <kanji>abduct</kanji> some <kanji>noodles</kanji>, make sure it's everybody's favorite noodles, <vocabulary>ramen</vocabulary>! The other meaning of the first kanji actually makes more sense here though, because you <kanji>pull</kanji> the dough to stretch it when you make <vocabulary>ramen noodles</vocabulary>. Choose whichever meaning helps you remember it best!\n\nThis word is mostly written in kana, usually as ラーメン, but sometimes らーめん. You'll see the kanji version pretty often on packaging and menus, though, so it's worth knowing! The word is also occasionally written as らー麺 or ラー麺.",
-  "readingMnemonic": "Both of these kanji take the on'yomi, but the first one has a slightly irregular reading, because it's based on the modern Chinese reading. To remember that it's a long らー, just think how excited you are about these ramen! <reading>Raaaaaa</reading>! Raaaamen! So exciting!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8B%89%E9%BA%BA",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "拉",
-      "id": 8969,
-      "reading": "ら"
-    },
-    {
-      "type": "kanji",
-      "value": "麺",
-      "id": 8955,
-      "reading": null
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%8B%89%E9%BA%BA"
+  }
 }

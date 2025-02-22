@@ -1,33 +1,41 @@
 {
   "id": 2149,
   "type": "kanji",
-  "character": "襟",
-  "primaryMeaning": "Collar",
-  "otherMeanings": [],
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "襟"
+  },
   "primaryReading": "えり",
   "readings": [
     {
-      "reading": "えり",
       "primary": true,
+      "reading": "えり",
       "type": "kunyomi"
     },
     {
-      "reading": "きん",
       "primary": false,
+      "reading": "きん",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "The <kanji>collar</kanji> keeps whispering, \"<reading>Eri</reading>c (えり)!\" into your ear. Your name isn't Eric (I mean it could be, in that case wow, weird, right?), so you assume one of the trees you killed was named Eric. But that's the only name you hear, so maybe they were both named Eric? It's weird.",
+  "primaryMeaning": "Collar",
+  "otherMeanings": [],
   "meaningMnemonic": "The <radical>spirit</radical>s of the two <radical>tree</radical>s you destroyed with your <radical>jackhammer</radical> live on in the <kanji>collar</kanji> you made out of them.",
-  "vocabularyIds": [
-    7859,
-    7960,
-    7961
-  ],
-  "radicalIds": [
-    80,
-    23,
-    207
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%A5%9F"
+  "readingMnemonic": "The <kanji>collar</kanji> keeps whispering, \"<reading>Eri</reading>c (えり)!\" into your ear. Your name isn't Eric (I mean it could be, in that case wow, weird, right?), so you assume one of the trees you killed was named Eric. But that's the only name you hear, so maybe they were both named Eric? It's weird.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%A5%9F"
+  },
+  "related": {
+    "radicals": [
+      80,
+      23,
+      207
+    ],
+    "vocabularies": [
+      7859,
+      7960,
+      7961
+    ]
+  }
 }

@@ -1,0 +1,49 @@
+{
+  "id": 8693,
+  "type": "vocabulary",
+  "characters": "左右",
+  "primaryMeaning": "Left And Right",
+  "otherMeanings": [
+    "Both Ways",
+    "Influence",
+    "Control"
+  ],
+  "primaryReading": "さゆう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 486,
+      "character": "左",
+      "readings": [
+        "さ",
+        "ひだり"
+      ]
+    },
+    {
+      "id": 484,
+      "character": "右",
+      "readings": [
+        "ゆう",
+        "う",
+        "みぎ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Put <kanji>left</kanji> and <kanji>right</kanji> together and you end up with <vocabulary>left and right</vocabulary>! Just make sure you say them in the right order!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B7%A6%E5%8F%B3",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "左",
+      "id": 486,
+      "reading": "さ"
+    },
+    {
+      "type": "kanji",
+      "value": "右",
+      "id": 484,
+      "reading": "ゆう"
+    }
+  ]
+}

@@ -1,54 +1,62 @@
 {
   "id": 770,
   "type": "kanji",
-  "character": "親",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "親"
+  },
+  "primaryReading": "しん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "しん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "おや",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "した",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Parent",
   "otherMeanings": [
     "Intimacy"
   ],
-  "primaryReading": "しん",
-  "readings": [
-    {
-      "reading": "しん",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "おや",
-      "primary": false,
-      "type": "kunyomi"
-    },
-    {
-      "reading": "した",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "Standing under the tree, you go to give your <kanji>parent</kanji> a big hug, but you manage to bang your <reading>shin</reading> (しん)  on a huge tree root. Your parent pulls you in for a warm hug and rubs your shin. Despite the pain, it becomes an unforgettable \"shin-timate\" moment.",
   "meaningMnemonic": "If you're <radical>stand</radical>ing under a <radical>tree</radical> and you <radical>see</radical> your <kanji>parent</kanji>, it's a good chance for a moment of <kanji>intimacy</kanji>.",
-  "vocabularyIds": [
-    3223,
-    3224,
-    3225,
-    3226,
-    3551,
-    3552,
-    4161,
-    4757,
-    5938,
-    6564,
-    6716,
-    6934,
-    7749,
-    8561,
-    8667,
-    9002,
-    9292
-  ],
-  "radicalIds": [
-    55,
-    23,
-    91
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%A6%AA"
+  "readingMnemonic": "Standing under the tree, you go to give your <kanji>parent</kanji> a big hug, but you manage to bang your <reading>shin</reading> (しん)  on a huge tree root. Your parent pulls you in for a warm hug and rubs your shin. Despite the pain, it becomes an unforgettable \"shin-timate\" moment.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%A6%AA"
+  },
+  "related": {
+    "radicals": [
+      55,
+      23,
+      91
+    ],
+    "vocabularies": [
+      3223,
+      3224,
+      3225,
+      3226,
+      3551,
+      3552,
+      4161,
+      4757,
+      5938,
+      6564,
+      6716,
+      6934,
+      7749,
+      8561,
+      8667,
+      9002,
+      9292
+    ]
+  }
 }

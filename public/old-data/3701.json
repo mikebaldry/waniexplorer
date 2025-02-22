@@ -1,0 +1,45 @@
+{
+  "id": 3701,
+  "type": "vocabulary",
+  "characters": "性格",
+  "primaryMeaning": "Personality",
+  "otherMeanings": [
+    "Character"
+  ],
+  "primaryReading": "せいかく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 918,
+      "character": "性",
+      "readings": [
+        "せい",
+        "しょう"
+      ]
+    },
+    {
+      "id": 920,
+      "character": "格",
+      "readings": [
+        "かく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Your <kanji>gender</kanji> and <kanji>status</kanji> are part of your <vocabulary>personality</vocabulary>. Think about what gender you identify as, and what your current status is (in relationships, residency, employment...). Now think about how all that affects your <vocabulary>personality</vocabulary>!",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%80%A7%E6%A0%BC",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "性",
+      "id": 918,
+      "reading": "せい"
+    },
+    {
+      "type": "kanji",
+      "value": "格",
+      "id": 920,
+      "reading": "かく"
+    }
+  ]
+}

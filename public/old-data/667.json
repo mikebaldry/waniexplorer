@@ -1,0 +1,46 @@
+{
+  "id": 667,
+  "type": "kanji",
+  "character": "強",
+  "primaryMeaning": "Strong",
+  "otherMeanings": [
+    "Strength"
+  ],
+  "primaryReading": "きょう",
+  "readings": [
+    {
+      "reading": "きょう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ごう",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "つよ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You had this <kanji>strong</kanji> bow made especially for you in <reading>きょう</reading>と. きょうと is famous for their strong bows, so if you ever want another, you know where to go.",
+  "meaningMnemonic": "You have a <radical>private</radical> <radical>bow</radical> made of <radical>insect</radical>s that's extremely <kanji>strong</kanji>. Insect bodies are really durable, so they make for strong bows. You also have to be strong to use it, since it was made just for strong arms.",
+  "vocabularyIds": [
+    2969,
+    2970,
+    3221,
+    3320,
+    3886,
+    4415,
+    5251,
+    5344,
+    9145
+  ],
+  "radicalIds": [
+    36,
+    140,
+    89
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%BC%B7"
+}

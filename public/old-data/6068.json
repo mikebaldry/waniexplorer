@@ -1,0 +1,49 @@
+{
+  "id": 6068,
+  "type": "vocabulary",
+  "characters": "執着",
+  "primaryMeaning": "Attachment To",
+  "otherMeanings": [
+    "Tenacity",
+    "Obsessed With"
+  ],
+  "primaryReading": "しゅうちゃく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1649,
+      "character": "執",
+      "readings": [
+        "しゅう",
+        "しつ",
+        "と"
+      ]
+    },
+    {
+      "id": 846,
+      "character": "着",
+      "readings": [
+        "ちゃく",
+        "き",
+        "つ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You <kanji>tenacious</kanji>ly <kanji>wear</kanji> something. You have some kind of <vocabulary>attachment to</vocabulary> it. Some kind of <vocabulary>tenacity</vocabulary> that makes you <vocabulary>obsessed with</vocabulary> it.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%9F%B7%E7%9D%80",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "執",
+      "id": 1649,
+      "reading": "しゅう"
+    },
+    {
+      "type": "kanji",
+      "value": "着",
+      "id": 846,
+      "reading": "ちゃく"
+    }
+  ]
+}

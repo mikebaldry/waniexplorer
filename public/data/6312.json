@@ -1,34 +1,21 @@
 {
   "id": 6312,
   "type": "vocabulary",
-  "characters": "甲",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "甲"
+  },
   "primaryMeaning": "Turtle Shell",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.\n\n甲 has traditionally meant <vocabulary>turtle shell</vocabulary>, but these days it appears much more often in expressions like 足の甲 (<vocabulary>instep</vocabulary>) and 手の甲 (<vocabulary>back of the hand</vocabulary>). If you think about it, those body parts kind of resemble turtle shells, don’t you think?",
+  "primaryReading": "こう",
+  "readingMnemonic": "This word is made up of a single kanji, but it uses the on'yomi reading, not the kun'yomi reading. Luckily, you've learned this reading already. Yay!",
   "otherMeanings": [
     "Instep",
     "Back Of The Hand"
   ],
-  "primaryReading": "こう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1732,
-      "character": "甲",
-      "readings": [
-        "こう",
-        "かん",
-        "か"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.\n\n甲 has traditionally meant <vocabulary>turtle shell</vocabulary>, but these days it appears much more often in expressions like 足の甲 (<vocabulary>instep</vocabulary>) and 手の甲 (<vocabulary>back of the hand</vocabulary>). If you think about it, those body parts kind of resemble turtle shells, don’t you think?",
-  "readingMnemonic": "This word is made up of a single kanji, but it uses the on'yomi reading, not the kun'yomi reading. Luckily, you've learned this reading already. Yay!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%94%B2",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "甲",
-      "id": 1732,
-      "reading": "こう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%94%B2"
+  }
 }

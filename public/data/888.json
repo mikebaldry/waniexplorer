@@ -1,43 +1,51 @@
 {
   "id": 888,
   "type": "kanji",
-  "character": "願",
-  "primaryMeaning": "Request",
-  "otherMeanings": [],
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "願"
+  },
   "primaryReading": "がん",
   "readings": [
     {
-      "reading": "がん",
       "primary": true,
+      "reading": "がん",
       "type": "onyomi"
     },
     {
-      "reading": "ねが",
       "primary": false,
+      "reading": "ねが",
       "type": "kunyomi"
     },
     {
-      "reading": "ねがい",
       "primary": false,
+      "reading": "ねがい",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "The only person that would even hear the geoduck's <kanji>request</kanji> was <reading>Gan</reading>dhi (がん). Gandhi closed his eyes, sat down, and spread the geoduck's request to the rest of the world.",
+  "primaryMeaning": "Request",
+  "otherMeanings": [],
   "meaningMnemonic": "The <radical>original</radical> <radical>geoduck</radical> had a <kanji>request</kanji>. He wants there to be more geoducks in the world!",
-  "vocabularyIds": [
-    3637,
-    3638,
-    3675,
-    3690,
-    3894,
-    3941,
-    4124,
-    5286,
-    6339
-  ],
-  "radicalIds": [
-    230,
-    184
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%A1%98"
+  "readingMnemonic": "The only person that would even hear the geoduck's <kanji>request</kanji> was <reading>Gan</reading>dhi (がん). Gandhi closed his eyes, sat down, and spread the geoduck's request to the rest of the world.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%A1%98"
+  },
+  "related": {
+    "radicals": [
+      230,
+      184
+    ],
+    "vocabularies": [
+      3637,
+      3638,
+      3675,
+      3690,
+      3894,
+      3941,
+      4124,
+      5286,
+      6339
+    ]
+  }
 }

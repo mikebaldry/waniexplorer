@@ -1,0 +1,48 @@
+{
+  "id": 5893,
+  "type": "vocabulary",
+  "characters": "長寿",
+  "primaryMeaning": "Long Life",
+  "otherMeanings": [
+    "Longevity"
+  ],
+  "primaryReading": "ちょうじゅ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 632,
+      "character": "長",
+      "readings": [
+        "ちょう",
+        "なが",
+        "は"
+      ]
+    },
+    {
+      "id": 1593,
+      "character": "寿",
+      "readings": [
+        "じゅ",
+        "す",
+        "ことぶき"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>long</kanji> <kanji>lifespan</kanji> is a <vocabulary>long life</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%95%B7%E5%AF%BF",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "長",
+      "id": 632,
+      "reading": "ちょう"
+    },
+    {
+      "type": "kanji",
+      "value": "寿",
+      "id": 1593,
+      "reading": "じゅ"
+    }
+  ]
+}

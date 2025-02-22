@@ -1,52 +1,21 @@
 {
   "id": 4402,
   "type": "vocabulary",
-  "characters": "手続き",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "手続き"
+  },
   "primaryMeaning": "Procedure",
+  "meaningMnemonic": "Someone takes your <kanji>hand</kanji> and shows you how to <kanji>continue</kanji>. \"This is the <vocabulary>procedure</vocabulary>,\" they say. Move your hand like this. Verrrryyy goood. Good procedure. Good!",
+  "primaryReading": "てつづき",
+  "readingMnemonic": "The reading is the kun'yomi vocab readings of 手 and 続く put together into one. Darn these body parts making everything kun'yomi.",
   "otherMeanings": [
     "Formalities",
     "Process"
   ],
-  "primaryReading": "てつづき",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 474,
-      "character": "手",
-      "readings": [
-        "て",
-        "しゅ",
-        "ず"
-      ]
-    },
-    {
-      "id": 1083,
-      "character": "続",
-      "readings": [
-        "ぞく",
-        "つづ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Someone takes your <kanji>hand</kanji> and shows you how to <kanji>continue</kanji>. \"This is the <vocabulary>procedure</vocabulary>,\" they say. Move your hand like this. Verrrryyy goood. Good procedure. Good!",
-  "readingMnemonic": "The reading is the kun'yomi vocab readings of 手 and 続く put together into one. Darn these body parts making everything kun'yomi.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%89%8B%E7%B6%9A%E3%81%8D",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "手",
-      "id": 474,
-      "reading": "て"
-    },
-    {
-      "type": "kanji",
-      "value": "続",
-      "id": 1083,
-      "reading": "つづ"
-    },
-    {
-      "type": "kana",
-      "value": "き"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%89%8B%E7%B6%9A%E3%81%8D"
+  }
 }

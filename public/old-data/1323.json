@@ -1,0 +1,39 @@
+{
+  "id": 1323,
+  "type": "kanji",
+  "character": "織",
+  "primaryMeaning": "Weave",
+  "otherMeanings": [],
+  "primaryReading": "しき",
+  "readings": [
+    {
+      "reading": "しき",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "しょく",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "お",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "This drunkard is really <reading>chic</reading> (しき), but he's just fallen on hard times and has been hitting the bottle pretty hard lately. The piece of clothing he's using the thread to weave back together is one of his fancy chic outfits.",
+  "meaningMnemonic": "Taking a <radical>thread</radical> and moving to the <radical>sound</radical> of the music, a <radical>drunkard</radical> makes a <kanji>weave</kanji> through some fabric. He’s using the thread to weave his clothes back together after he damaged them in a fall down the stairs. You know, because he’s a drunkard.",
+  "vocabularyIds": [
+    5071,
+    5072,
+    5391,
+    8570
+  ],
+  "radicalIds": [
+    86,
+    197,
+    194
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%B9%94"
+}

@@ -1,0 +1,50 @@
+{
+  "id": 6950,
+  "type": "vocabulary",
+  "characters": "荒々しい",
+  "primaryMeaning": "Wild",
+  "otherMeanings": [
+    "Rough"
+  ],
+  "primaryReading": "あらあらしい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1835,
+      "character": "荒",
+      "readings": [
+        "あ",
+        "あら",
+        "こう"
+      ]
+    },
+    {
+      "id": 856,
+      "character": "々",
+      "readings": [
+        "のま"
+      ]
+    }
+  ],
+  "meaningMnemonic": "荒い is <kanji>rough</kanji>. Double that to 荒々しい and you have the same thing: <vocabulary>wild</vocabulary> or <vocabulary>rough</vocabulary>.",
+  "readingMnemonic": "The reading comes from 荒い. Since you already know that 々 means it repeats, you already know this reading!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%8D%92%E3%80%85%E3%81%97%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "荒",
+      "id": 1835,
+      "reading": "あら"
+    },
+    {
+      "type": "kanji",
+      "value": "々",
+      "id": 1835,
+      "reading": "あら"
+    },
+    {
+      "type": "kana",
+      "value": "しい"
+    }
+  ]
+}

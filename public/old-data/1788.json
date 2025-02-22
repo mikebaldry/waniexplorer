@@ -1,0 +1,29 @@
+{
+  "id": 1788,
+  "type": "kanji",
+  "character": "蜜",
+  "primaryMeaning": "Honey",
+  "otherMeanings": [
+    "Nectar"
+  ],
+  "primaryReading": "みつ",
+  "readings": [
+    {
+      "reading": "みつ",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "To get the <kanji>honey</kanji> out, you need to put on special <reading>mitts</reading> (みつ) so your hands don't get stung.",
+  "meaningMnemonic": "The <radical>roof</radical> (hive) on a <radical>certain</radical> <radical>insect</radical> (a bee) is what protects all of the <kanji>honey</kanji> or <kanji>nectar</kanji>.",
+  "vocabularyIds": [
+    6505,
+    6507
+  ],
+  "radicalIds": [
+    78,
+    343,
+    89
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%9C%9C"
+}

@@ -1,0 +1,48 @@
+{
+  "id": 9067,
+  "type": "vocabulary",
+  "characters": "経由",
+  "primaryMeaning": "Via",
+  "otherMeanings": [],
+  "primaryReading": "けいゆ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1120,
+      "character": "経",
+      "readings": [
+        "けい",
+        "た",
+        "へ"
+      ]
+    },
+    {
+      "id": 648,
+      "character": "由",
+      "readings": [
+        "ゆう",
+        "ゆ",
+        "ゆい",
+        "よし",
+        "よ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You <kanji>pass through</kanji> somewhere for a <kanji>reason</kanji>, so you're going <vocabulary>via</vocabulary> that place.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You learned this reading for 経 with the kanji, and you learned this reading for 由 with the word 由来. If you need an extra reminder for that one, here's a mnemonic just in case:\n\nIf you're going via an unfamiliar place, I recommend you seek out a <reading>yu</reading>rt (ゆ) to stay in. Wherever it is you're going via, you can't go wrong if you stay in a yurt.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B5%8C%E7%94%B1",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "経",
+      "id": 1120,
+      "reading": "けい"
+    },
+    {
+      "type": "kanji",
+      "value": "由",
+      "id": 648,
+      "reading": "ゆ"
+    }
+  ]
+}

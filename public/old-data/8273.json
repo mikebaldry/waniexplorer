@@ -1,0 +1,47 @@
+{
+  "id": 8273,
+  "type": "vocabulary",
+  "characters": "尚更",
+  "primaryMeaning": "All The More",
+  "otherMeanings": [
+    "Still Less"
+  ],
+  "primaryReading": "なおさら",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2236,
+      "character": "尚",
+      "readings": [
+        "しょう",
+        "なお"
+      ]
+    },
+    {
+      "id": 1431,
+      "character": "更",
+      "readings": [
+        "こう",
+        "さら",
+        "ふ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Having a <kanji>furthermore</kanji> <kanji>renewal</kanji> means things become <vocabulary>all the more</vocabulary>... good, bad, cute, ugly, whatever it is you’re talking about! Or, on the opposite side of things, <vocabulary>still less</vocabulary>.",
+  "readingMnemonic": "The readings for this word are both kun'yomi readings. You've learned both of these readings by now so you should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B0%9A%E6%9B%B4",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "尚",
+      "id": 2236,
+      "reading": "なお"
+    },
+    {
+      "type": "kanji",
+      "value": "更",
+      "id": 1431,
+      "reading": "さら"
+    }
+  ]
+}

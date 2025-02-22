@@ -1,36 +1,20 @@
 {
   "id": 6380,
   "type": "vocabulary",
-  "characters": "兼ねる",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "兼ねる"
+  },
   "primaryMeaning": "To Combine",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>concurrently</kanji>, but since you can't \"to concurrently\", we're going to have to come up with another word to use: \"<vocabulary>to combine</vocabulary>\" or \"<vocabulary>to double as</vocabulary>.\" Since this kanji has to do with something having a dual purpose, we can say that something can combine as being another thing, or double as being another thing, which is where these words come from.",
+  "primaryReading": "かねる",
+  "readingMnemonic": "For example, a <reading>ca</reading>r (か) can double as a place to sleep at night when not enough people become members of WaniKani.",
   "otherMeanings": [
     "To Double As"
   ],
-  "primaryReading": "かねる",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1749,
-      "character": "兼",
-      "readings": [
-        "けん",
-        "か"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>concurrently</kanji>, but since you can't \"to concurrently\", we're going to have to come up with another word to use: \"<vocabulary>to combine</vocabulary>\" or \"<vocabulary>to double as</vocabulary>.\" Since this kanji has to do with something having a dual purpose, we can say that something can combine as being another thing, or double as being another thing, which is where these words come from.",
-  "readingMnemonic": "For example, a <reading>ca</reading>r (か) can double as a place to sleep at night when not enough people become members of WaniKani.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%85%BC%E3%81%AD%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "兼",
-      "id": 1749,
-      "reading": "か"
-    },
-    {
-      "type": "kana",
-      "value": "ねる"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%85%BC%E3%81%AD%E3%82%8B"
+  }
 }

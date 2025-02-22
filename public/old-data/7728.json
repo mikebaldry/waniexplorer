@@ -1,0 +1,44 @@
+{
+  "id": 7728,
+  "type": "vocabulary",
+  "characters": "水中",
+  "primaryMeaning": "Underwater",
+  "otherMeanings": [],
+  "primaryReading": "すいちゅう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 479,
+      "character": "水",
+      "readings": [
+        "すい",
+        "みず"
+      ]
+    },
+    {
+      "id": 469,
+      "character": "中",
+      "readings": [
+        "ちゅう",
+        "なか"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you're in the <kanji>middle</kanji> of a bunch of <kanji>water</kanji>, then you're most likely <vocabulary>underwater</vocabulary>. ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B0%B4%E4%B8%AD",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "水",
+      "id": 479,
+      "reading": "すい"
+    },
+    {
+      "type": "kanji",
+      "value": "中",
+      "id": 469,
+      "reading": "ちゅう"
+    }
+  ]
+}

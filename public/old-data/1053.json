@@ -1,0 +1,27 @@
+{
+  "id": 1053,
+  "type": "kanji",
+  "character": "句",
+  "primaryMeaning": "Paragraph",
+  "otherMeanings": [],
+  "primaryReading": "く",
+  "readings": [
+    {
+      "reading": "く",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "You have to write an entire <kanji>paragraph</kanji> about a topic, so you choose <reading>coo</reading>kies (く).",
+  "meaningMnemonic": "The <radical>paragraph</radical> radical and the <kanji>paragraph</kanji> kanji are exactly the same!",
+  "vocabularyIds": [
+    4075,
+    4076,
+    4224,
+    4651
+  ],
+  "radicalIds": [
+    242
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%8F%A5"
+}

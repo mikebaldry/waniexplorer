@@ -1,44 +1,20 @@
 {
   "id": 4666,
   "type": "vocabulary",
-  "characters": "規準",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "規準"
+  },
   "primaryMeaning": "Criterion",
+  "meaningMnemonic": "The <kanji>standard</kanji> of <kanji>standard</kanji>s is the main <vocabulary>criterion</vocabulary> we work off of. That’s the <vocabulary>standard</vocabulary> we follow.\n\nCompared to 基準 that's often a quantitative \"standard\" for assessment, 規準 is more of a quality-focused \"criterion\" that can be a basis for goals. You'll often see this word used in academic or professional contexts.",
+  "primaryReading": "きじゅん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.\n\nAlthough they’re not official readings, people sometimes distinguish 基準 and 規準 by calling them もとじゅん and のりじゅん respectively when speaking.",
   "otherMeanings": [
     "Standard"
   ],
-  "primaryReading": "きじゅん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1191,
-      "character": "規",
-      "readings": [
-        "き"
-      ]
-    },
-    {
-      "id": 1200,
-      "character": "準",
-      "readings": [
-        "じゅん"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The <kanji>standard</kanji> of <kanji>standard</kanji>s is the main <vocabulary>criterion</vocabulary> we work off of. That’s the <vocabulary>standard</vocabulary> we follow.\n\nCompared to 基準 that's often a quantitative \"standard\" for assessment, 規準 is more of a quality-focused \"criterion\" that can be a basis for goals. You'll often see this word used in academic or professional contexts.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.\n\nAlthough they’re not official readings, people sometimes distinguish 基準 and 規準 by calling them もとじゅん and のりじゅん respectively when speaking.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A6%8F%E6%BA%96",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "規",
-      "id": 1191,
-      "reading": "き"
-    },
-    {
-      "type": "kanji",
-      "value": "準",
-      "id": 1200,
-      "reading": "じゅん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%A6%8F%E6%BA%96"
+  }
 }

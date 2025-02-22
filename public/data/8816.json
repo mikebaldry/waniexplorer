@@ -1,50 +1,20 @@
 {
   "id": 8816,
   "type": "vocabulary",
-  "characters": "祭日",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "祭日"
+  },
   "primaryMeaning": "Festival Day",
+  "meaningMnemonic": "A <kanji>festival</kanji> <kanji>day</kanji> is obviously a <vocabulary>festival day</vocabulary>. This word technically refers to days for Shinto festivals or rituals, but sometimes people also use it to mean a general <vocabulary>national holiday</vocabulary>. This is because some of the Japanese national holidays are based on those traditional Shinto festival days!",
+  "primaryReading": "さいじつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "National Holiday"
   ],
-  "primaryReading": "さいじつ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 823,
-      "character": "祭",
-      "readings": [
-        "さい",
-        "まつり",
-        "まつ"
-      ]
-    },
-    {
-      "id": 476,
-      "character": "日",
-      "readings": [
-        "にち",
-        "じつ",
-        "ひ",
-        "か",
-        "び"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>festival</kanji> <kanji>day</kanji> is obviously a <vocabulary>festival day</vocabulary>. This word technically refers to days for Shinto festivals or rituals, but sometimes people also use it to mean a general <vocabulary>national holiday</vocabulary>. This is because some of the Japanese national holidays are based on those traditional Shinto festival days!",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A5%AD%E6%97%A5",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "祭",
-      "id": 823,
-      "reading": "さい"
-    },
-    {
-      "type": "kanji",
-      "value": "日",
-      "id": 476,
-      "reading": "じつ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%A5%AD%E6%97%A5"
+  }
 }

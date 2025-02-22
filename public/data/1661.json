@@ -1,36 +1,44 @@
 {
   "id": 1661,
   "type": "kanji",
-  "character": "跡",
-  "primaryMeaning": "Traces",
-  "otherMeanings": [],
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "跡"
+  },
   "primaryReading": "せき",
   "readings": [
     {
-      "reading": "せき",
       "primary": true,
+      "reading": "せき",
       "type": "onyomi"
     },
     {
-      "reading": "あと",
       "primary": false,
+      "reading": "あと",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "Turns out you leaving <kanji>traces</kanji> everywhere is quite <reading>sexy</reading> (<ja>せき</ja>) to a lot of people.",
+  "primaryMeaning": "Traces",
+  "otherMeanings": [],
   "meaningMnemonic": "When you're stepping around with your <radical>foot</radical> <radical>again</radical> and again, you'll leave behind <kanji>traces</kanji> all over the place.",
-  "vocabularyIds": [
-    6104,
-    6105,
-    6106,
-    6107,
-    6240,
-    6257,
-    7398
-  ],
-  "radicalIds": [
-    95,
-    9329
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%B7%A1"
+  "readingMnemonic": "Turns out you leaving <kanji>traces</kanji> everywhere is quite <reading>sexy</reading> (<ja>せき</ja>) to a lot of people.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%B7%A1"
+  },
+  "related": {
+    "radicals": [
+      95,
+      9329
+    ],
+    "vocabularies": [
+      6104,
+      6105,
+      6106,
+      6107,
+      6240,
+      6257,
+      7398
+    ]
+  }
 }

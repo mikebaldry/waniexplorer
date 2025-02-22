@@ -1,0 +1,55 @@
+{
+  "id": 8086,
+  "type": "vocabulary",
+  "characters": "噴き出す",
+  "primaryMeaning": "To Burst Out",
+  "otherMeanings": [
+    "To Spout Out"
+  ],
+  "primaryReading": "ふきだす",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2164,
+      "character": "噴",
+      "readings": [
+        "ふん",
+        "ふ"
+      ]
+    },
+    {
+      "id": 483,
+      "character": "出",
+      "readings": [
+        "しゅつ",
+        "で",
+        "だ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "\"To Remove\" an <kanji>eruption</kanji> it needs <vocabulary>to burst out</vocabulary> of the earth or volcano it's in.",
+  "readingMnemonic": "Remember how you learned the word 吹き出す? Well this is read the exact same way and means almost the exact same thing. If you know one reading, you know both!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%99%B4%E3%81%8D%E5%87%BA%E3%81%99",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "噴",
+      "id": 2164,
+      "reading": "ふ"
+    },
+    {
+      "type": "kana",
+      "value": "き"
+    },
+    {
+      "type": "kanji",
+      "value": "出",
+      "id": 483,
+      "reading": "だ"
+    },
+    {
+      "type": "kana",
+      "value": "す"
+    }
+  ]
+}

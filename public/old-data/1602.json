@@ -1,0 +1,31 @@
+{
+  "id": 1602,
+  "type": "kanji",
+  "character": "獄",
+  "primaryMeaning": "Prison",
+  "otherMeanings": [],
+  "primaryReading": "ごく",
+  "readings": [
+    {
+      "reading": "ごく",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "What is the name of your animal? Your animal is named <reading>Goku</reading> (ごく). Yeah, like Goku from Dragon Ball Z. You don’t want your little Goku to go to <kanji>prison</kanji>, so you say that he’s a dog.",
+  "meaningMnemonic": "You have an <radical>animal</radical> and you <radical>say</radical> it’s a <radical>dog</radical> to prevent it from going to <kanji>prison</kanji>. Dogs are the only animals that don’t have to go to prison. Your animal is not a dog, but you say it is to prevent it from going to prison.",
+  "vocabularyIds": [
+    5912,
+    5913,
+    5914,
+    5915,
+    5916,
+    6032
+  ],
+  "radicalIds": [
+    144,
+    117,
+    47
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%8D%84"
+}

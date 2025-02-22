@@ -1,0 +1,38 @@
+{
+  "id": 5899,
+  "type": "vocabulary",
+  "characters": "恥ずかしい",
+  "primaryMeaning": "Embarrassing",
+  "otherMeanings": [
+    "Embarrassed",
+    "Ashamed"
+  ],
+  "primaryReading": "はずかしい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1595,
+      "character": "恥",
+      "readings": [
+        "は",
+        "はじ",
+        "ち"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>shame</kanji>? It could be <vocabulary>ashamed</vocabulary> or even <vocabulary> embarrassing</vocabulary>.",
+  "readingMnemonic": "When you're <vocabulary>ashamed</vocabulary> it's even worse when someone laughs at you: <reading>ha</reading> (は) ha ha!\"",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%81%A5%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "恥",
+      "id": 1595,
+      "reading": "は"
+    },
+    {
+      "type": "kana",
+      "value": "ずかしい"
+    }
+  ]
+}

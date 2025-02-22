@@ -1,45 +1,20 @@
 {
   "id": 5776,
   "type": "vocabulary",
-  "characters": "聖地",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "聖地"
+  },
   "primaryMeaning": "Holy Land",
+  "meaningMnemonic": "<kanji>Holy</kanji> <kanji>ground</kanji> is <vocabulary>holy land</vocabulary>.",
+  "primaryReading": "せいち",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Holy Ground"
   ],
-  "primaryReading": "せいち",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1558,
-      "character": "聖",
-      "readings": [
-        "せい"
-      ]
-    },
-    {
-      "id": 608,
-      "character": "地",
-      "readings": [
-        "ち",
-        "じ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Holy</kanji> <kanji>ground</kanji> is <vocabulary>holy land</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%81%96%E5%9C%B0",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "聖",
-      "id": 1558,
-      "reading": "せい"
-    },
-    {
-      "type": "kanji",
-      "value": "地",
-      "id": 608,
-      "reading": "ち"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%81%96%E5%9C%B0"
+  }
 }

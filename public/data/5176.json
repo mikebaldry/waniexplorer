@@ -1,44 +1,20 @@
 {
   "id": 5176,
   "type": "vocabulary",
-  "characters": "公益",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "公益"
+  },
   "primaryMeaning": "Public Benefit",
+  "meaningMnemonic": "Something for <kanji>public</kanji> <kanji>benefit</kanji> is for <vocabulary>public benefit</vocabulary>.",
+  "primaryReading": "こうえき",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Public Interest"
   ],
-  "primaryReading": "こうえき",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 499,
-      "character": "公",
-      "readings": [
-        "こう"
-      ]
-    },
-    {
-      "id": 1367,
-      "character": "益",
-      "readings": [
-        "えき"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Something for <kanji>public</kanji> <kanji>benefit</kanji> is for <vocabulary>public benefit</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%85%AC%E7%9B%8A",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "公",
-      "id": 499,
-      "reading": "こう"
-    },
-    {
-      "type": "kanji",
-      "value": "益",
-      "id": 1367,
-      "reading": "えき"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%85%AC%E7%9B%8A"
+  }
 }

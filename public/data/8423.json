@@ -1,46 +1,20 @@
 {
   "id": 8423,
   "type": "vocabulary",
-  "characters": "醸造",
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "醸造"
+  },
   "primaryMeaning": "Brewing",
+  "meaningMnemonic": "<kanji>Create</kanji> a <kanji>brew</kanji> of beer by <vocabulary>brewing</vocabulary> it.",
+  "primaryReading": "じょうぞう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Distillation"
   ],
-  "primaryReading": "じょうぞう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2342,
-      "character": "醸",
-      "readings": [
-        "じょう",
-        "かも"
-      ]
-    },
-    {
-      "id": 1281,
-      "character": "造",
-      "readings": [
-        "ぞう",
-        "つく"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Create</kanji> a <kanji>brew</kanji> of beer by <vocabulary>brewing</vocabulary> it.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%86%B8%E9%80%A0",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "醸",
-      "id": 2342,
-      "reading": "じょう"
-    },
-    {
-      "type": "kanji",
-      "value": "造",
-      "id": 1281,
-      "reading": "ぞう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%86%B8%E9%80%A0"
+  }
 }

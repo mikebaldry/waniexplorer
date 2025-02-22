@@ -1,36 +1,20 @@
 {
   "id": 3467,
   "type": "vocabulary",
-  "characters": "化ける",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "化ける"
+  },
   "primaryMeaning": "To Change Form",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>change</kanji> so you'd think the verb version is \"to change,\" but it's a bit more specific. This word means <vocabulary>to change form</vocabulary> or <vocabulary>to transform</vocabulary>.\n\n化ける means to change into something else, usually in a surprising and magical way. It's often used in stories where animals or spirits take on human forms. It can also describe transformations in real life that are so dramatic they feel unreal.",
+  "primaryReading": "ばける",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nYou try to transform. You want to turn into something awesome, like a dinosaur, but then *poof* you turn into a sheep. \"<reading>Ba</reading>aaa,\" you say. \"Baaa.\"",
   "otherMeanings": [
     "To Transform"
   ],
-  "primaryReading": "ばける",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 607,
-      "character": "化",
-      "readings": [
-        "か",
-        "ば"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>change</kanji> so you'd think the verb version is \"to change,\" but it's a bit more specific. This word means <vocabulary>to change form</vocabulary> or <vocabulary>to transform</vocabulary>.\n\n化ける means to change into something else, usually in a surprising and magical way. It's often used in stories where animals or spirits take on human forms. It can also describe transformations in real life that are so dramatic they feel unreal.",
-  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nYou try to transform. You want to turn into something awesome, like a dinosaur, but then *poof* you turn into a sheep. \"<reading>Ba</reading>aaa,\" you say. \"Baaa.\"",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8C%96%E3%81%91%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "化",
-      "id": 607,
-      "reading": "ば"
-    },
-    {
-      "type": "kana",
-      "value": "ける"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%8C%96%E3%81%91%E3%82%8B"
+  }
 }

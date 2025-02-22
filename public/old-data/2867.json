@@ -1,0 +1,49 @@
+{
+  "id": 2867,
+  "type": "vocabulary",
+  "characters": "名曲",
+  "primaryMeaning": "Famous Music",
+  "otherMeanings": [
+    "Famous Song",
+    "Famous Tune",
+    "Masterpiece"
+  ],
+  "primaryReading": "めいきょく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 544,
+      "character": "名",
+      "readings": [
+        "めい",
+        "みょう",
+        "な"
+      ]
+    },
+    {
+      "id": 614,
+      "character": "曲",
+      "readings": [
+        "きょく",
+        "ま"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Famous</kanji> <kanji>music</kanji> is <vocabulary>famous music</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%90%8D%E6%9B%B2",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "名",
+      "id": 544,
+      "reading": "めい"
+    },
+    {
+      "type": "kanji",
+      "value": "曲",
+      "id": 614,
+      "reading": "きょく"
+    }
+  ]
+}

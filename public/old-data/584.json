@@ -1,0 +1,56 @@
+{
+  "id": 584,
+  "type": "kanji",
+  "character": "作",
+  "primaryMeaning": "Make",
+  "otherMeanings": [],
+  "primaryReading": "さく",
+  "readings": [
+    {
+      "reading": "さく",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "さ",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "つく",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "The leader <kanji>make</kanji>s all the keys and puts them in a <reading>sack</reading> (さく) to distribute them to the underlings, who then <reading>saw</reading> (さ) them into shape.",
+  "meaningMnemonic": "The <radical>leader</radical>'s <radical>key</radical> is the key that <kanji>make</kanji>s all the other keys. It's sort of like the one ring to rule them all, the one ring to bind them... except with keys.",
+  "vocabularyIds": [
+    2805,
+    2809,
+    2810,
+    2811,
+    2812,
+    2955,
+    3031,
+    3307,
+    3422,
+    3450,
+    3819,
+    3966,
+    4678,
+    5345,
+    5645,
+    5680,
+    5855,
+    6317,
+    7574,
+    7820,
+    8184,
+    8435
+  ],
+  "radicalIds": [
+    75,
+    122
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E4%BD%9C"
+}

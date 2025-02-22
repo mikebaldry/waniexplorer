@@ -1,48 +1,22 @@
 {
   "id": 4327,
   "type": "vocabulary",
-  "characters": "論文",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "論文"
+  },
   "primaryMeaning": "Thesis",
+  "meaningMnemonic": "A <kanji>writing</kanji> of your <kanji>theory</kanji> is usually a <vocabulary>thesis</vocabulary>. Remember how school teachers always wanted you to present theories in writing? And to make sure you have a thesis in that <vocabulary>paper</vocabulary>? I do.",
+  "primaryReading": "ろんぶん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Paper",
     "Article",
     "Essay"
   ],
-  "primaryReading": "ろんぶん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1119,
-      "character": "論",
-      "readings": [
-        "ろん"
-      ]
-    },
-    {
-      "id": 475,
-      "character": "文",
-      "readings": [
-        "ぶん",
-        "もん",
-        "ふみ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>writing</kanji> of your <kanji>theory</kanji> is usually a <vocabulary>thesis</vocabulary>. Remember how school teachers always wanted you to present theories in writing? And to make sure you have a thesis in that <vocabulary>paper</vocabulary>? I do.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%AB%96%E6%96%87",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "論",
-      "id": 1119,
-      "reading": "ろん"
-    },
-    {
-      "type": "kanji",
-      "value": "文",
-      "id": 475,
-      "reading": "ぶん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%AB%96%E6%96%87"
+  }
 }

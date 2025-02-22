@@ -1,0 +1,56 @@
+{
+  "id": 6459,
+  "type": "vocabulary",
+  "characters": "岐阜県",
+  "primaryMeaning": "Gifu Prefecture",
+  "otherMeanings": [],
+  "primaryReading": "ぎふけん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1711,
+      "character": "岐",
+      "readings": [
+        "き",
+        "ぎ"
+      ]
+    },
+    {
+      "id": 1710,
+      "character": "阜",
+      "readings": [
+        "ふ"
+      ]
+    },
+    {
+      "id": 731,
+      "character": "県",
+      "readings": [
+        "けん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You've seen how 岐阜 is \"Gifu.\" Now make it a prefecture to make <vocabulary>Gifu prefecture</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B2%90%E9%98%9C%E7%9C%8C",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "岐",
+      "id": 1711,
+      "reading": "ぎ"
+    },
+    {
+      "type": "kanji",
+      "value": "阜",
+      "id": 1710,
+      "reading": "ふ"
+    },
+    {
+      "type": "kanji",
+      "value": "県",
+      "id": 731,
+      "reading": "けん"
+    }
+  ]
+}

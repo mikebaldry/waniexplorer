@@ -1,0 +1,29 @@
+{
+  "id": 1947,
+  "type": "kanji",
+  "character": "盆",
+  "primaryMeaning": "Tray",
+  "otherMeanings": [
+    "Ancestral Festival"
+  ],
+  "primaryReading": "ぼん",
+  "readings": [
+    {
+      "reading": "ぼん",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "The plate you put on the <kanji>tray</kanji> for the <kanji>ancestral festival</kanji> is made of <reading>bone</reading> (ぼん). Bone china, that is. How fancy… And appropriate, considering bone china is made from actual bone.",
+  "meaningMnemonic": "You put <radical>part</radical> of your food on a <radical>plate</radical>, then put that on a <kanji>tray</kanji> to keep it safe. This tray is an offering for the <kanji>ancestral festival</kanji>, where your ancestors' spirits visit you to check in and share some of that food you're offering on a tray.",
+  "vocabularyIds": [
+    6981,
+    7216,
+    8106
+  ],
+  "radicalIds": [
+    247,
+    84
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%9B%86"
+}

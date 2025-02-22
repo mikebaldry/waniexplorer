@@ -1,0 +1,35 @@
+{
+  "id": 2613,
+  "type": "vocabulary",
+  "characters": "止まる",
+  "primaryMeaning": "To Stop",
+  "otherMeanings": [],
+  "primaryReading": "とまる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 514,
+      "character": "止",
+      "readings": [
+        "し",
+        "と",
+        "や"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an <ja>う</ja> sound, you know this word is a verb. The kanji means <kanji>stop</kanji>, so the verb <ja>止まる</ja> means <vocabulary>to stop</vocabulary>. \n\nBut this is the intransitive version, so it doesn't take a direct object. A train stops, or you stop at a red light. See? No direct object. You can remember this because you often have to stop when you see a 丸 (まる), a.k.a. a circle. Think about it — red lights, the cancel symbol, and no trespassing signs are all 丸. Even stop signs are… sort of 丸?",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You learned this reading when you learned the 止める, so you should be able to read it already!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%AD%A2%E3%81%BE%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "止",
+      "id": 514,
+      "reading": "と"
+    },
+    {
+      "type": "kana",
+      "value": "まる"
+    }
+  ]
+}

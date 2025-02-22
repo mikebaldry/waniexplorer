@@ -1,37 +1,21 @@
 {
   "id": 4883,
   "type": "vocabulary",
-  "characters": "載せる",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "載せる"
+  },
   "primaryMeaning": "To Place On Something",
+  "meaningMnemonic": "Remember how 載る is \"to be placed on\"? This one is <vocabulary>to place on something</vocabulary>, like a mug on a table. 載せる is transitive, and you know this because you do it your<reading>sel</reading>f (せる). Like 載る, 載せる also often refers to putting something in a written document or publication, so it can mean <vocabulary>to put on record</vocabulary>.\n\nNote that 載せる is never used to refer to putting clothing or accessories on. That's 着る or 着ける respectively, which you've learned already.",
+  "primaryReading": "のせる",
+  "readingMnemonic": "The reading is shared with 載る, so as long as you remember that you can remember this.",
   "otherMeanings": [
     "To Put On Something",
     "To Put On Record"
   ],
-  "primaryReading": "のせる",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1230,
-      "character": "載",
-      "readings": [
-        "さい",
-        "の"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Remember how 載る is \"to be placed on\"? This one is <vocabulary>to place on something</vocabulary>, like a mug on a table. 載せる is transitive, and you know this because you do it your<reading>sel</reading>f (せる). Like 載る, 載せる also often refers to putting something in a written document or publication, so it can mean <vocabulary>to put on record</vocabulary>.\n\nNote that 載せる is never used to refer to putting clothing or accessories on. That's 着る or 着ける respectively, which you've learned already.",
-  "readingMnemonic": "The reading is shared with 載る, so as long as you remember that you can remember this.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%BC%89%E3%81%9B%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "載",
-      "id": 1230,
-      "reading": "の"
-    },
-    {
-      "type": "kana",
-      "value": "せる"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%BC%89%E3%81%9B%E3%82%8B"
+  }
 }

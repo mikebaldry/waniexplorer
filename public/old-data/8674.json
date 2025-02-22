@@ -1,0 +1,47 @@
+{
+  "id": 8674,
+  "type": "vocabulary",
+  "characters": "混血",
+  "primaryMeaning": "Mixed Race",
+  "otherMeanings": [
+    "Mixed Parentage"
+  ],
+  "primaryReading": "こんけつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1078,
+      "character": "混",
+      "readings": [
+        "こん",
+        "ま",
+        "こ"
+      ]
+    },
+    {
+      "id": 619,
+      "character": "血",
+      "readings": [
+        "けつ",
+        "ち"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you have <kanji>mixed</kanji> <kanji>blood</kanji>, some people might say you're of <vocabulary>mixed race</vocabulary>. Own it!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B7%B7%E8%A1%80",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "混",
+      "id": 1078,
+      "reading": "こん"
+    },
+    {
+      "type": "kanji",
+      "value": "血",
+      "id": 619,
+      "reading": "けつ"
+    }
+  ]
+}

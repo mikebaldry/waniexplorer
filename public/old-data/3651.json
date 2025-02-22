@@ -1,0 +1,48 @@
+{
+  "id": 3651,
+  "type": "vocabulary",
+  "characters": "悪気",
+  "primaryMeaning": "Evil Intent",
+  "otherMeanings": [
+    "Malice",
+    "Ill Will"
+  ],
+  "primaryReading": "わるぎ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 829,
+      "character": "悪",
+      "readings": [
+        "あく",
+        "お",
+        "わる"
+      ]
+    },
+    {
+      "id": 548,
+      "character": "気",
+      "readings": [
+        "き",
+        "け"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Someone with <kanji>bad</kanji> <kanji>energy</kanji> is someone who has <vocabulary>evil intent</vocabulary>, <vocabulary>malice</vocabulary>, or <vocabulary>ill will</vocabulary>. Hopefully you don't have too much 悪気.",
+  "readingMnemonic": "The reading itself has a lot of 悪気 with all the exceptions it has. The 悪 part is read like 悪い. Then, 気 is rendaku'd. What an evil reading. Just think \"what's the most evil reading I can come up with?\" when you see this word. Then you should hopefully be able to read it.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%82%AA%E6%B0%97",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "悪",
+      "id": 829,
+      "reading": "わる"
+    },
+    {
+      "type": "kanji",
+      "value": "気",
+      "id": 548,
+      "reading": "ぎ"
+    }
+  ]
+}

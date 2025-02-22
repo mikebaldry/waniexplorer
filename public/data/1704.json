@@ -1,34 +1,42 @@
 {
   "id": 1704,
   "type": "kanji",
-  "character": "贈",
-  "primaryMeaning": "Presents",
-  "otherMeanings": [],
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "贈"
+  },
   "primaryReading": "ぞう",
   "readings": [
     {
-      "reading": "ぞう",
       "primary": true,
+      "reading": "ぞう",
       "type": "onyomi"
     },
     {
-      "reading": "おく",
       "primary": false,
+      "reading": "おく",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "The \"<kanji>presents</kanji>\" you leave? They are actually just <reading>zo</reading>mbies (ぞう). You leave zombies in people's houses.",
+  "primaryMeaning": "Presents",
+  "otherMeanings": [],
   "meaningMnemonic": "You put on the <radical>shellfish</radical> <radical>mask</radical> once per year and break into people's beach houses, leaving behind <kanji>presents</kanji>.",
-  "vocabularyIds": [
-    6219,
-    6220,
-    6353,
-    6356,
-    8084
-  ],
-  "radicalIds": [
-    94,
-    259
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%B4%88"
+  "readingMnemonic": "The \"<kanji>presents</kanji>\" you leave? They are actually just <reading>zo</reading>mbies (ぞう). You leave zombies in people's houses.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%B4%88"
+  },
+  "related": {
+    "radicals": [
+      94,
+      259
+    ],
+    "vocabularies": [
+      6219,
+      6220,
+      6353,
+      6356,
+      8084
+    ]
+  }
 }

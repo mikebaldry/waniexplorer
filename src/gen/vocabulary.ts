@@ -1,7 +1,8 @@
 import * as WK from "./wanikani_subjects";
-import * as DB from "./subjects";
-import { SearchDocument, SearchResultCharactersType, SearchResultType } from "./search_result";
+import * as DB from "../db/subjects";
+import { SearchDocument, SearchResultType } from "../db/search_result";
 import uniq from "lodash-es/uniq";
+import { CharactersType, TextCharacters } from "../db/characters";
 
 export default async function handle(subject: WK.VocabularySubject, subjectsById: Record<number, WK.Subject>): Promise<[SearchDocument, DB.VocabularySubject]> {
   const primaryMeaning = subject.data.meanings.find((m) => m.primary);
@@ -22,14 +23,14 @@ export default async function handle(subject: WK.VocabularySubject, subjectsById
 
   const relatedKanjiIds = subject.data.component_subject_ids;
   const relatedRadicalIds = uniq(relatedKanjiIds.flatMap((kanjiId) => (subjectsById[kanjiId] as WK.KanjiSubject).data.component_subject_ids));
-
+  const characters: TextCharacters = { type: CharactersType.TEXT, value: subject.data.characters };
   const searchResult = {
     id: subject.id,
     type: SearchResultType.VOCABULARY,
     level: subject.data.level,
     primarySearch: [primaryMeaning.meaning, primaryReading.reading],
     secondarySearch: [...otherMeanings, ...otherReadings],
-    characters: { type: SearchResultCharactersType.TEXT, value: subject.data.characters },
+    characters: characters,
     description: primaryMeaning.meaning,
     related: {
       radical: relatedRadicalIds,
@@ -38,10 +39,22 @@ export default async function handle(subject: WK.VocabularySubject, subjectsById
     }
   };
 
-  const dbSubject = {
+  const dbSubject: DB.VocabularySubject = {
     id: subject.id,
-    type: DB.SubjectType.VOCABULARY
-  } as DB.VocabularySubject;
+    type: DB.SubjectType.VOCABULARY,
+    level: subject.data.level,
+    characters: characters,
+    primaryMeaning: primaryMeaning.meaning,
+    meaningMnemonic: subject.data.meaning_mnemonic,
+    primaryReading: primaryReading.reading,
+    readingMnemonic: subject.data.reading_mnemonic,
+    otherMeanings: subject.data.meanings.filter((m) => !m.primary).map((m) => m.meaning),
+    otherReadings: otherReadings,
+    urls: {
+      wanikani: subject.data.document_url
+    }
+  };
+  
 
   return [searchResult, dbSubject];
 }

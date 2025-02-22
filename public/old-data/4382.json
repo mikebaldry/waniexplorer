@@ -1,0 +1,59 @@
+{
+  "id": 4382,
+  "type": "vocabulary",
+  "characters": "参加者",
+  "primaryMeaning": "Participant",
+  "otherMeanings": [],
+  "primaryReading": "さんかしゃ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 899,
+      "character": "参",
+      "readings": [
+        "さん",
+        "しん",
+        "まい"
+      ]
+    },
+    {
+      "id": 1057,
+      "character": "加",
+      "readings": [
+        "か",
+        "くわ"
+      ]
+    },
+    {
+      "id": 690,
+      "character": "者",
+      "readings": [
+        "しゃ",
+        "もの"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You know that 参加 is <kanji>participation</kanji>, so <kanji>someone</kanji> who does participation is a <vocabulary>participant</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8F%82%E5%8A%A0%E8%80%85",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "参",
+      "id": 899,
+      "reading": "さん"
+    },
+    {
+      "type": "kanji",
+      "value": "加",
+      "id": 1057,
+      "reading": "か"
+    },
+    {
+      "type": "kanji",
+      "value": "者",
+      "id": 690,
+      "reading": "しゃ"
+    }
+  ]
+}

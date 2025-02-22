@@ -1,32 +1,40 @@
 {
   "id": 2239,
   "type": "kanji",
-  "character": "愚",
-  "primaryMeaning": "Foolish",
-  "otherMeanings": [],
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "愚"
+  },
   "primaryReading": "ぐ",
   "readings": [
     {
-      "reading": "ぐ",
       "primary": true,
+      "reading": "ぐ",
       "type": "onyomi"
     },
     {
-      "reading": "おろ",
       "primary": false,
+      "reading": "おろ",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "Splinter tells you to your face how <kanji>foolish</kanji> you are and you feel your heart turn to <reading>goo</reading> (ぐ). Now you can't even give it to someone else. No one wants goo.",
+  "primaryMeaning": "Foolish",
+  "otherMeanings": [],
   "meaningMnemonic": "If you give <radical>Splinter</radical> your <radical>heart</radical> you'll feel pretty <kanji>foolish</kanji> afterwards. His heart belongs to the art of ninjutsu! ",
-  "vocabularyIds": [
-    8098,
-    8099,
-    8284
-  ],
-  "radicalIds": [
-    410,
-    65
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%84%9A"
+  "readingMnemonic": "Splinter tells you to your face how <kanji>foolish</kanji> you are and you feel your heart turn to <reading>goo</reading> (ぐ). Now you can't even give it to someone else. No one wants goo.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%84%9A"
+  },
+  "related": {
+    "radicals": [
+      410,
+      65
+    ],
+    "vocabularies": [
+      8098,
+      8099,
+      8284
+    ]
+  }
 }

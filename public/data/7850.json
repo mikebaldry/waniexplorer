@@ -1,50 +1,21 @@
 {
   "id": 7850,
   "type": "vocabulary",
-  "characters": "会釈",
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "会釈"
+  },
   "primaryMeaning": "Nod",
+  "meaningMnemonic": "Before you can give an <kanji>explanation</kanji> of who you are to someone you're about to <kanji>meet</kanji>, you have to <vocabulary>nod</vocabulary> or <vocabulary>bow</vocabulary> as a <vocabulary>greeting</vocabulary> first. It's rude to start explaining who you are before you greet them.",
+  "primaryReading": "えしゃく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You didn't learn this reading for 会 yet, so here's a mnemonic to help you:\n\nWhen someone <vocabulary>bow</vocabulary>s to you, you always feel a little uncomfortable, so you say, \"<reading>Eh</reading>\" (え) and try to get them to stop. You're so uncomfortable that you can't think of words and \"eh\" is all you can manage to get out.",
   "otherMeanings": [
     "Greeting",
     "Bow"
   ],
-  "primaryReading": "えしゃく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 566,
-      "character": "会",
-      "readings": [
-        "かい",
-        "あ"
-      ]
-    },
-    {
-      "id": 2140,
-      "character": "釈",
-      "readings": [
-        "しゃく",
-        "せき",
-        "す",
-        "とく",
-        "ゆる"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Before you can give an <kanji>explanation</kanji> of who you are to someone you're about to <kanji>meet</kanji>, you have to <vocabulary>nod</vocabulary> or <vocabulary>bow</vocabulary> as a <vocabulary>greeting</vocabulary> first. It's rude to start explaining who you are before you greet them.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You didn't learn this reading for 会 yet, so here's a mnemonic to help you:\n\nWhen someone <vocabulary>bow</vocabulary>s to you, you always feel a little uncomfortable, so you say, \"<reading>Eh</reading>\" (え) and try to get them to stop. You're so uncomfortable that you can't think of words and \"eh\" is all you can manage to get out.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BC%9A%E9%87%88",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "会",
-      "id": 566,
-      "reading": null
-    },
-    {
-      "type": "kanji",
-      "value": "釈",
-      "id": 2140,
-      "reading": null
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BC%9A%E9%87%88"
+  }
 }

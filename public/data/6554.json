@@ -1,37 +1,21 @@
 {
   "id": 6554,
   "type": "vocabulary",
-  "characters": "侵す",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "侵す"
+  },
   "primaryMeaning": "To Invade",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>invade</kanji> and the verb vocab version means <vocabulary>to invade</vocabulary> as well!",
+  "primaryReading": "おかす",
+  "readingMnemonic": "I'm going <vocabulary>to invade</vocabulary> your country, <reading>oka</reading>y (おか)? Sorry about that, but everything will be <reading>oka</reading>y when I'm done.",
   "otherMeanings": [
     "To Violate",
     "To Intrude"
   ],
-  "primaryReading": "おかす",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1802,
-      "character": "侵",
-      "readings": [
-        "しん",
-        "おか"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>invade</kanji> and the verb vocab version means <vocabulary>to invade</vocabulary> as well!",
-  "readingMnemonic": "I'm going <vocabulary>to invade</vocabulary> your country, <reading>oka</reading>y (おか)? Sorry about that, but everything will be <reading>oka</reading>y when I'm done.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BE%B5%E3%81%99",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "侵",
-      "id": 1802,
-      "reading": "おか"
-    },
-    {
-      "type": "kana",
-      "value": "す"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BE%B5%E3%81%99"
+  }
 }

@@ -1,0 +1,48 @@
+{
+  "id": 5882,
+  "type": "vocabulary",
+  "characters": "自己",
+  "primaryMeaning": "Self",
+  "otherMeanings": [
+    "Oneself"
+  ],
+  "primaryReading": "じこ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 578,
+      "character": "自",
+      "readings": [
+        "じ",
+        "し",
+        "みずか"
+      ]
+    },
+    {
+      "id": 1588,
+      "character": "己",
+      "readings": [
+        "こ",
+        "き",
+        "おのれ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Your <kanji>self</kanji> <kanji>oneself</kanji>, is your <vocabulary>oneself</vocabulary> or <vocabulary>self</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%87%AA%E5%B7%B1",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "自",
+      "id": 578,
+      "reading": "じ"
+    },
+    {
+      "type": "kanji",
+      "value": "己",
+      "id": 1588,
+      "reading": "こ"
+    }
+  ]
+}

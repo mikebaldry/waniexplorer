@@ -1,0 +1,32 @@
+{
+  "id": 950,
+  "type": "kanji",
+  "character": "泣",
+  "primaryMeaning": "Cry",
+  "otherMeanings": [],
+  "primaryReading": "な",
+  "readings": [
+    {
+      "reading": "な",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "きゅう",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Do you know the only way to stop yourself <kanji>cry</kanji>ing after a tsunami? That's right, <reading>na</reading>chos (な)! Nachos are the only proven way to cheer people up after being hit by a tsunami.",
+  "meaningMnemonic": "If you <radical>stand</radical> in front of a <radical>tsunami</radical>, you’re going to <kanji>cry</kanji>. That tsunami is going to hit you hard, and rip you right off the ground on which you stand. Who wouldn't cry?",
+  "vocabularyIds": [
+    3776,
+    3937,
+    3938
+  ],
+  "radicalIds": [
+    103,
+    55
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%B3%A3"
+}

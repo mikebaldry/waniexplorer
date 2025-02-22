@@ -1,49 +1,18 @@
 {
   "id": 9160,
   "type": "vocabulary",
-  "characters": "自撮り",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "自撮り"
+  },
   "primaryMeaning": "Selfie",
-  "otherMeanings": [],
-  "primaryReading": "じどり",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 578,
-      "character": "自",
-      "readings": [
-        "じ",
-        "し",
-        "みずか"
-      ]
-    },
-    {
-      "id": 1441,
-      "character": "撮",
-      "readings": [
-        "さつ",
-        "と"
-      ]
-    }
-  ],
   "meaningMnemonic": "A <kanji>self</kanji> <kanji>photograph</kanji> is exactly that: a <vocabulary>selfie</vocabulary>.",
+  "primaryReading": "じどり",
   "readingMnemonic": "This word uses the on'yomi of 自, which you learned with the kanji, and the kun'yomi of 撮, which you learned with the word 撮る. Though it's a bit of an unusual combo, you can probably guess the first one since it's such a common reading, and the second one because of the り on the end. Just watch out for rendaku, which turns とり into どり.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%87%AA%E6%92%AE%E3%82%8A",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "自",
-      "id": 578,
-      "reading": "じ"
-    },
-    {
-      "type": "kanji",
-      "value": "撮",
-      "id": 1441,
-      "reading": "ど"
-    },
-    {
-      "type": "kana",
-      "value": "り"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%87%AA%E6%92%AE%E3%82%8A"
+  }
 }

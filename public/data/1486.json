@@ -1,25 +1,33 @@
 {
   "id": 1486,
   "type": "kanji",
-  "character": "永",
-  "primaryMeaning": "Eternity",
-  "otherMeanings": [],
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "永"
+  },
   "primaryReading": "えい",
   "readings": [
     {
-      "reading": "えい",
       "primary": true,
+      "reading": "えい",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "How long is an <kanji>eternity</kanji>? Just look at this little <reading>a</reading>corn (えい) and ask. The acorn starts small but it grows into a huge tree and can live for all eternity by dropping more acorns to create more trees. Its acorn line will live on forever!",
+  "primaryMeaning": "Eternity",
+  "otherMeanings": [],
   "meaningMnemonic": "The <radical>eternity</radical> radical and the <kanji>eternity</kanji> kanji are the same!",
-  "vocabularyIds": [
-    5534,
-    5535
-  ],
-  "radicalIds": [
-    8820
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%B0%B8"
+  "readingMnemonic": "How long is an <kanji>eternity</kanji>? Just look at this little <reading>a</reading>corn (えい) and ask. The acorn starts small but it grows into a huge tree and can live for all eternity by dropping more acorns to create more trees. Its acorn line will live on forever!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%B0%B8"
+  },
+  "related": {
+    "radicals": [
+      8820
+    ],
+    "vocabularies": [
+      5534,
+      5535
+    ]
+  }
 }

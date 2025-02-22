@@ -1,34 +1,42 @@
 {
   "id": 1124,
   "type": "kanji",
-  "character": "済",
-  "primaryMeaning": "Come To An End",
-  "otherMeanings": [],
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "済"
+  },
   "primaryReading": "さい",
   "readings": [
     {
-      "reading": "さい",
       "primary": true,
+      "reading": "さい",
       "type": "onyomi"
     },
     {
-      "reading": "す",
       "primary": false,
+      "reading": "す",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "Just as the world is about to <kanji>come to an end</kanji>, your <reading>cy</reading>borg (さい) appears and blocks it with its cyborg body!",
+  "primaryMeaning": "Come To An End",
+  "otherMeanings": [],
   "meaningMnemonic": "You see a <radical>tsunami</radical> that's <radical>simultaneous</radical> (with another tsunami, I assume) and you know the world is about to <kanji>come to an end</kanji>.",
-  "vocabularyIds": [
-    4400,
-    4407,
-    4578,
-    4579,
-    4851
-  ],
-  "radicalIds": [
-    103,
-    277
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%B8%88"
+  "readingMnemonic": "Just as the world is about to <kanji>come to an end</kanji>, your <reading>cy</reading>borg (さい) appears and blocks it with its cyborg body!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%B8%88"
+  },
+  "related": {
+    "radicals": [
+      103,
+      277
+    ],
+    "vocabularies": [
+      4400,
+      4407,
+      4578,
+      4579,
+      4851
+    ]
+  }
 }

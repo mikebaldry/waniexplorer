@@ -1,43 +1,18 @@
 {
   "id": 5963,
   "type": "vocabulary",
-  "characters": "同盟",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "同盟"
+  },
   "primaryMeaning": "Alliance",
-  "otherMeanings": [],
-  "primaryReading": "どうめい",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 568,
-      "character": "同",
-      "readings": [
-        "どう",
-        "おな"
-      ]
-    },
-    {
-      "id": 1615,
-      "character": "盟",
-      "readings": [
-        "めい"
-      ]
-    }
-  ],
   "meaningMnemonic": "We are of the <kanji>same</kanji> <kanji>alliance</kanji>. We are in an <vocabulary>alliance</vocabulary>.",
+  "primaryReading": "どうめい",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%90%8C%E7%9B%9F",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "同",
-      "id": 568,
-      "reading": "どう"
-    },
-    {
-      "type": "kanji",
-      "value": "盟",
-      "id": 1615,
-      "reading": "めい"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%90%8C%E7%9B%9F"
+  }
 }

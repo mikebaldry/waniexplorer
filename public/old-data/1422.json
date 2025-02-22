@@ -1,0 +1,37 @@
+{
+  "id": 1422,
+  "type": "kanji",
+  "character": "貧",
+  "primaryMeaning": "Poor",
+  "otherMeanings": [],
+  "primaryReading": "びん",
+  "readings": [
+    {
+      "reading": "びん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ひん",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "まず",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "And since they are <kanji>poor</kanji>, they are getting these shellfish parts from the trash <reading>bin</reading> (びん). It's quite unfortunate.",
+  "meaningMnemonic": "Those that can only eat a <radical>part</radical> of a <radical>shellfish</radical> are probably a bit <kanji>poor</kanji>.",
+  "vocabularyIds": [
+    5368,
+    5369,
+    5510
+  ],
+  "radicalIds": [
+    247,
+    94
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%B2%A7"
+}

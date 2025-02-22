@@ -1,47 +1,20 @@
 {
   "id": 5515,
   "type": "vocabulary",
-  "characters": "背中",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "背中"
+  },
   "primaryMeaning": "One's Back",
+  "meaningMnemonic": "The <kanji>middle</kanji> of your <kanji>back</kanji> is <vocabulary>one's back</vocabulary> (or your <vocabulary>back</vocabulary>).",
+  "primaryReading": "せなか",
+  "readingMnemonic": "The reading is the kun'yomi readings, put together, making it the words 背 and 中 combined.",
   "otherMeanings": [
     "Back"
   ],
-  "primaryReading": "せなか",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1440,
-      "character": "背",
-      "readings": [
-        "はい",
-        "せ",
-        "そむ"
-      ]
-    },
-    {
-      "id": 469,
-      "character": "中",
-      "readings": [
-        "ちゅう",
-        "なか"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The <kanji>middle</kanji> of your <kanji>back</kanji> is <vocabulary>one's back</vocabulary> (or your <vocabulary>back</vocabulary>).",
-  "readingMnemonic": "The reading is the kun'yomi readings, put together, making it the words 背 and 中 combined.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%83%8C%E4%B8%AD",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "背",
-      "id": 1440,
-      "reading": "せ"
-    },
-    {
-      "type": "kanji",
-      "value": "中",
-      "id": 469,
-      "reading": "なか"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%83%8C%E4%B8%AD"
+  }
 }

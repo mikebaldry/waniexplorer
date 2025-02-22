@@ -1,0 +1,41 @@
+{
+  "id": 604,
+  "type": "kanji",
+  "character": "青",
+  "primaryMeaning": "Blue",
+  "otherMeanings": [
+    "Young"
+  ],
+  "primaryReading": "せい",
+  "readings": [
+    {
+      "reading": "せい",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "しょう",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "あお",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You've been feeling really <kanji>blue</kanji>. Mostly because your skin, hair, and eyes have all turned blue. It was an out-of-the-blue transformation! But now someone places his hand on your shoulder and points at your <reading>sa</reading>ber (せい). It's blue too! You aren't alone!",
+  "meaningMnemonic": "The <radical>blue</radical> radical and the <kanji>blue</kanji> kanji are exactly the same.\n\nAdditionally, this can also mean <kanji>young</kanji>. You can remember this because young people have potential as limitless as the blue sky!",
+  "vocabularyIds": [
+    2801,
+    2802,
+    3181,
+    3448,
+    5924,
+    9087
+  ],
+  "radicalIds": [
+    120
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%9D%92"
+}

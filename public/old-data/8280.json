@@ -1,0 +1,39 @@
+{
+  "id": 8280,
+  "type": "vocabulary",
+  "characters": "怠い",
+  "primaryMeaning": "Sluggish",
+  "otherMeanings": [
+    "Feel Heavy",
+    "Languid",
+    "Dull"
+  ],
+  "primaryReading": "だるい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2181,
+      "character": "怠",
+      "readings": [
+        "たい",
+        "おこた",
+        "なま"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>lazy</kanji>? It's <vocabulary>sluggish</vocabulary> and <vocabulary>dull</vocabulary>. ",
+  "readingMnemonic": "The reading for this word is an exception. Here's a mnemonic to help you remember it:\n\nIf you're feeling <vocabulary>sluggish</vocabulary> just turn on <reading>Daru</reading>de's (だる) \"Sandstorm\" and it will perk you right up. But a world where people don't know Darude's \"<a href=\"https://www.youtube.com/watch?v=y6120QOlsfU\" target=\"_blank\">Sandstorm</a>\"  is full of sluggish, dull nerds.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%80%A0%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "怠",
+      "id": 2181,
+      "reading": null
+    },
+    {
+      "type": "kana",
+      "value": "い"
+    }
+  ]
+}

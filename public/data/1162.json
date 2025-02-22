@@ -1,33 +1,41 @@
 {
   "id": 1162,
   "type": "kanji",
-  "character": "各",
-  "primaryMeaning": "Each",
-  "otherMeanings": [],
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "各"
+  },
   "primaryReading": "かく",
   "readings": [
     {
-      "reading": "かく",
       "primary": true,
+      "reading": "かく",
       "type": "onyomi"
     },
     {
-      "reading": "おの",
       "primary": false,
+      "reading": "おの",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "Actually, <kanji>each</kanji> of your best pals are of the <reading>cock</reading> (かく) variety. By that, I mean they are both roosters. Imagine kissing both of these cocks on their beaks.",
+  "primaryMeaning": "Each",
+  "otherMeanings": [],
   "meaningMnemonic": "You <radical>kiss</radical> <kanji>each</kanji> of your best pals to show them how much you love and care for them. You kiss each friend right on the mouth.",
-  "vocabularyIds": [
-    4508,
-    4509,
-    4510,
-    4511,
-    4576
-  ],
-  "radicalIds": [
-    180
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%90%84"
+  "readingMnemonic": "Actually, <kanji>each</kanji> of your best pals are of the <reading>cock</reading> (かく) variety. By that, I mean they are both roosters. Imagine kissing both of these cocks on their beaks.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%90%84"
+  },
+  "related": {
+    "radicals": [
+      180
+    ],
+    "vocabularies": [
+      4508,
+      4509,
+      4510,
+      4511,
+      4576
+    ]
+  }
 }

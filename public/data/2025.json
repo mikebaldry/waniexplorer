@@ -1,28 +1,36 @@
 {
   "id": 2025,
   "type": "kanji",
-  "character": "騎",
-  "primaryMeaning": "Horse Riding",
-  "otherMeanings": [],
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "騎"
+  },
   "primaryReading": "き",
   "readings": [
     {
-      "reading": "き",
       "primary": true,
+      "reading": "き",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "Before <kanji>horse riding</kanji>, you’ll need the <reading>key</reading> (き) to access the stable and let out the odd horse you'll be riding.",
+  "primaryMeaning": "Horse Riding",
+  "otherMeanings": [],
   "meaningMnemonic": "This <radical>horse</radical> may look <radical>odd</radical> but it’s actually perfect for <kanji>horse riding</kanji>!",
-  "vocabularyIds": [
-    7191,
-    7192,
-    7193,
-    7194
-  ],
-  "radicalIds": [
-    165,
-    326
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%A8%8E"
+  "readingMnemonic": "Before <kanji>horse riding</kanji>, you’ll need the <reading>key</reading> (き) to access the stable and let out the odd horse you'll be riding.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%A8%8E"
+  },
+  "related": {
+    "radicals": [
+      165,
+      326
+    ],
+    "vocabularies": [
+      7191,
+      7192,
+      7193,
+      7194
+    ]
+  }
 }

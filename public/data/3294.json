@@ -1,62 +1,18 @@
 {
   "id": 3294,
   "type": "vocabulary",
-  "characters": "太平洋",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "太平洋"
+  },
   "primaryMeaning": "Pacific Ocean",
-  "otherMeanings": [],
-  "primaryReading": "たいへいよう",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 505,
-      "character": "太",
-      "readings": [
-        "たい",
-        "た",
-        "ふと",
-        "おお"
-      ]
-    },
-    {
-      "id": 535,
-      "character": "平",
-      "readings": [
-        "へい",
-        "ひょう",
-        "びょう",
-        "たい",
-        "ひら"
-      ]
-    },
-    {
-      "id": 798,
-      "character": "洋",
-      "readings": [
-        "よう"
-      ]
-    }
-  ],
   "meaningMnemonic": "The <kanji>fat</kanji> <kanji>peace</kanji> <kanji>ocean</kanji> is the <vocabulary>Pacific Ocean</vocabulary>. The Japanese language thinks this ocean is peaceful, just like English does (the word 太平 actually means \"peace\").\n\nNote that we're using the alternative meaning of 洋 here! If you didn't learn that with the kanji, just imagine that to get to Western Style places you need to cross the ocean from Japan!",
+  "primaryReading": "たいへいよう",
   "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A4%AA%E5%B9%B3%E6%B4%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "太",
-      "id": 505,
-      "reading": "たい"
-    },
-    {
-      "type": "kanji",
-      "value": "平",
-      "id": 535,
-      "reading": "へい"
-    },
-    {
-      "type": "kanji",
-      "value": "洋",
-      "id": 798,
-      "reading": "よう"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A4%AA%E5%B9%B3%E6%B4%8B"
+  }
 }

@@ -1,38 +1,46 @@
 {
   "id": 1643,
   "type": "kanji",
-  "character": "跳",
-  "primaryMeaning": "Hop",
-  "otherMeanings": [],
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "跳"
+  },
   "primaryReading": "ちょう",
   "readings": [
     {
-      "reading": "ちょう",
       "primary": true,
+      "reading": "ちょう",
       "type": "onyomi"
     },
     {
-      "reading": "と",
       "primary": false,
+      "reading": "と",
       "type": "kunyomi"
     },
     {
-      "reading": "は",
       "primary": false,
+      "reading": "は",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "As you hop you start to hear an awful scream coming down the street. It's Mrs. <reading>Chou</reading> (ちょう) and she's running straight for you yelling, \"STEP ON MY STREET'S CRACKS! STOP HOPPING OR YOUR MOTHER WILL NEVER BREAK HER BACK!\"",
+  "primaryMeaning": "Hop",
+  "otherMeanings": [],
   "meaningMnemonic": "Your <radical>foot</radical> heard an <radical>omen</radical> and now it's making you <kanji>hop</kanji> over things.",
-  "vocabularyIds": [
-    6050,
-    6241,
-    6242,
-    6327
-  ],
-  "radicalIds": [
-    95,
-    363
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%B7%B3"
+  "readingMnemonic": "As you hop you start to hear an awful scream coming down the street. It's Mrs. <reading>Chou</reading> (ちょう) and she's running straight for you yelling, \"STEP ON MY STREET'S CRACKS! STOP HOPPING OR YOUR MOTHER WILL NEVER BREAK HER BACK!\"",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%B7%B3"
+  },
+  "related": {
+    "radicals": [
+      95,
+      363
+    ],
+    "vocabularies": [
+      6050,
+      6241,
+      6242,
+      6327
+    ]
+  }
 }

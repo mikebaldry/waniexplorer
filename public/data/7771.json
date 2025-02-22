@@ -1,47 +1,21 @@
 {
   "id": 7771,
   "type": "vocabulary",
-  "characters": "成程",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "成程"
+  },
   "primaryMeaning": "I See",
+  "meaningMnemonic": "If you <kanji>become</kanji> aware of something to an <kanji>extent</kanji> you'll end up saying <vocabulary>I see</vocabulary> or <vocabulary>That's right</vocabulary>! But you won't see if you didn't become aware enough. So it's that extent of understanding you're trying to reach before you can chime in with an \"Ahh, <vocabulary>indeed</vocabulary>.\"",
+  "primaryReading": "なるほど",
+  "readingMnemonic": "The readings for this word are both kun'yomi readings. The reading for 成 is from 成る and it keeps the る part. It's just hidden in the kanji. If you can remember that, you'll know this reading!",
   "otherMeanings": [
     "That's Right",
     "Indeed"
   ],
-  "primaryReading": "なるほど",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 780,
-      "character": "成",
-      "readings": [
-        "せい",
-        "な"
-      ]
-    },
-    {
-      "id": 1369,
-      "character": "程",
-      "readings": [
-        "てい",
-        "ほど"
-      ]
-    }
-  ],
-  "meaningMnemonic": "If you <kanji>become</kanji> aware of something to an <kanji>extent</kanji> you'll end up saying <vocabulary>I see</vocabulary> or <vocabulary>That's right</vocabulary>! But you won't see if you didn't become aware enough. So it's that extent of understanding you're trying to reach before you can chime in with an \"Ahh, <vocabulary>indeed</vocabulary>.\"",
-  "readingMnemonic": "The readings for this word are both kun'yomi readings. The reading for 成 is from 成る and it keeps the る part. It's just hidden in the kanji. If you can remember that, you'll know this reading!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%88%90%E7%A8%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "成",
-      "id": 780,
-      "reading": "な"
-    },
-    {
-      "type": "kanji",
-      "value": "程",
-      "id": 1369,
-      "reading": null
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%88%90%E7%A8%8B"
+  }
 }

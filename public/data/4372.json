@@ -1,52 +1,21 @@
 {
   "id": 4372,
   "type": "vocabulary",
-  "characters": "連絡する",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "連絡する"
+  },
   "primaryMeaning": "To Contact",
+  "meaningMnemonic": "You <kanji>take along</kanji> a message and <kanji>entangle</kanji> it into the telephone. From there it buzzes off to the person in order for you <vocabulary>to contact</vocabulary> them.",
+  "primaryReading": "れんらくする",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "To Get In Touch",
     "To Get In Contact"
   ],
-  "primaryReading": "れんらくする",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1084,
-      "character": "連",
-      "readings": [
-        "れん",
-        "つ",
-        "つら"
-      ]
-    },
-    {
-      "id": 1087,
-      "character": "絡",
-      "readings": [
-        "らく",
-        "から"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You <kanji>take along</kanji> a message and <kanji>entangle</kanji> it into the telephone. From there it buzzes off to the person in order for you <vocabulary>to contact</vocabulary> them.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%80%A3%E7%B5%A1%E3%81%99%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "連",
-      "id": 1084,
-      "reading": "れん"
-    },
-    {
-      "type": "kanji",
-      "value": "絡",
-      "id": 1087,
-      "reading": "らく"
-    },
-    {
-      "type": "kana",
-      "value": "する"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%80%A3%E7%B5%A1%E3%81%99%E3%82%8B"
+  }
 }

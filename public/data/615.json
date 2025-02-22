@@ -1,45 +1,53 @@
 {
   "id": 615,
   "type": "kanji",
-  "character": "有",
-  "primaryMeaning": "Have",
-  "otherMeanings": [],
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "有"
+  },
   "primaryReading": "ゆう",
   "readings": [
     {
-      "reading": "ゆう",
       "primary": true,
+      "reading": "ゆう",
       "type": "onyomi"
     },
     {
+      "primary": false,
       "reading": "う",
-      "primary": false,
       "type": "onyomi"
     },
     {
-      "reading": "あ",
       "primary": false,
+      "reading": "あ",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "Everything you <kanji>have</kanji> (except the narwhal and the moon) were taken from you by a roving gang of <reading>you</reading>ths (ゆう).",
+  "primaryMeaning": "Have",
+  "otherMeanings": [],
   "meaningMnemonic": "A <radical>narwhal</radical> and a <radical>moon</radical> is all you <kanji>have</kanji>. Imagine one of each under your arms.",
-  "vocabularyIds": [
-    2868,
-    2869,
-    3249,
-    3770,
-    4321,
-    4394,
-    4599,
-    5175,
-    5909,
-    7496,
-    8713
-  ],
-  "radicalIds": [
-    26,
-    43
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%9C%89"
+  "readingMnemonic": "Everything you <kanji>have</kanji> (except the narwhal and the moon) were taken from you by a roving gang of <reading>you</reading>ths (ゆう).",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%9C%89"
+  },
+  "related": {
+    "radicals": [
+      26,
+      43
+    ],
+    "vocabularies": [
+      2868,
+      2869,
+      3249,
+      3770,
+      4321,
+      4394,
+      4599,
+      5175,
+      5909,
+      7496,
+      8713
+    ]
+  }
 }

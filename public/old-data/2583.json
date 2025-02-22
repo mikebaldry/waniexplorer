@@ -1,0 +1,30 @@
+{
+  "id": 2583,
+  "type": "vocabulary",
+  "characters": "目",
+  "primaryMeaning": "Eye",
+  "otherMeanings": [],
+  "primaryReading": "め",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 492,
+      "character": "目",
+      "readings": [
+        "め",
+        "もく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "The reading is the same as the one you learned for the kanji, meaning you should already know it!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%9B%AE",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "目",
+      "id": 492,
+      "reading": "め"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": 9314,
+  "type": "vocabulary",
+  "characters": "選択肢",
+  "primaryMeaning": "Choices",
+  "otherMeanings": [
+    "Options",
+    "Alternatives"
+  ],
+  "primaryReading": "せんたくし",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 886,
+      "character": "選",
+      "readings": [
+        "せん",
+        "えら"
+      ]
+    },
+    {
+      "id": 1695,
+      "character": "択",
+      "readings": [
+        "たく",
+        "えら"
+      ]
+    },
+    {
+      "id": 9312,
+      "character": "肢",
+      "readings": [
+        "し"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You're free to <kanji>choose</kanji> and <kanji>select</kanji> any of these <kanji>limb</kanji>s, leaving you many <vocabulary>choices</vocabulary>. With all these <vocabulary>options</vocabulary> and <vocabulary>alternatives</vocabulary>, which one will you go for?",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%81%B8%E6%8A%9E%E8%82%A2",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "選",
+      "id": 886,
+      "reading": "せん"
+    },
+    {
+      "type": "kanji",
+      "value": "択",
+      "id": 1695,
+      "reading": "たく"
+    },
+    {
+      "type": "kanji",
+      "value": "肢",
+      "id": 9312,
+      "reading": "し"
+    }
+  ]
+}

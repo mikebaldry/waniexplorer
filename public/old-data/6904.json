@@ -1,0 +1,42 @@
+{
+  "id": 6904,
+  "type": "vocabulary",
+  "characters": "電卓",
+  "primaryMeaning": "Calculator",
+  "otherMeanings": [],
+  "primaryReading": "でんたく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 706,
+      "character": "電",
+      "readings": [
+        "でん"
+      ]
+    },
+    {
+      "id": 1928,
+      "character": "卓",
+      "readings": [
+        "たく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "An <kanji>electricity</kanji> <kanji>table</kanji> is a <vocabulary>calculator</vocabulary>. Why is this? You can think about it in a couple of different ways. Maybe in the past, a calculator (aka abacus) would take up a whole table, making this \"electric\" version a calculator. Or, maybe it can be used to solve tables. Wrong kind of table, but should help you to remember the meaning of this word.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9B%BB%E5%8D%93",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "電",
+      "id": 706,
+      "reading": "でん"
+    },
+    {
+      "type": "kanji",
+      "value": "卓",
+      "id": 1928,
+      "reading": "たく"
+    }
+  ]
+}

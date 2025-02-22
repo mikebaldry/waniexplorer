@@ -1,0 +1,31 @@
+{
+  "id": 2460,
+  "type": "kanji",
+  "character": "泌",
+  "primaryMeaning": "Secrete",
+  "otherMeanings": [],
+  "primaryReading": "ひ",
+  "readings": [
+    {
+      "reading": "ひ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ひつ",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Most tsunami's <kanji>secrete</kanji> <reading>he</reading>at (ひ). It takes a lot of energy for a tsunami to crash onto the land so the water is really really hot, and it has to secrete that heat as it's going back out to sea.",
+  "meaningMnemonic": "<radical>Tsunami</radical>'s have a <radical>certain</radical> tendency to <kanji>secrete</kanji> things as they go back out to sea. When they bash themselves onto the land they just throw a bunch of sea water around, but there are only certain things that they'll secrete when they're leaving.",
+  "vocabularyIds": [
+    8628,
+    8629
+  ],
+  "radicalIds": [
+    103,
+    343
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%B3%8C"
+}

@@ -1,12 +1,15 @@
 {
   "id": 13,
   "type": "radical",
-  "primaryMeaning": "Power",
-  "otherMeanings": [],
-  "character": {
+  "level": 1,
+  "characters": {
     "type": "text",
     "value": "力"
   },
+  "primaryMeaning": "Power",
+  "otherMeanings": [],
   "meaningMnemonic": "Imagine a guy flexing his arm downward to show off his steroid-pumped arm. It's huge. It's so full of <radical>power</radical>. RARRRWWWRRR!!",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/power"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/power"
+  }
 }

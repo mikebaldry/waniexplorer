@@ -1,0 +1,45 @@
+{
+  "id": 2885,
+  "type": "vocabulary",
+  "characters": "四国",
+  "primaryMeaning": "Shikoku",
+  "otherMeanings": [],
+  "primaryReading": "しこく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 485,
+      "character": "四",
+      "readings": [
+        "し",
+        "よん",
+        "よ"
+      ]
+    },
+    {
+      "id": 621,
+      "character": "国",
+      "readings": [
+        "こく",
+        "くに"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>four</kanji> <kanji>country</kanji> is another section of Japan. It's quite nice, too. Look on a map and try to find it. So, the meaning of this word is also the reading, which you should be able to figure out because it's all on'yomi: <vocabulary>Shikoku</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You've learned them already, so you should be able to read this on your own!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%9B%9B%E5%9B%BD",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "四",
+      "id": 485,
+      "reading": "し"
+    },
+    {
+      "type": "kanji",
+      "value": "国",
+      "id": 621,
+      "reading": "こく"
+    }
+  ]
+}

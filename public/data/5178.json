@@ -1,36 +1,20 @@
 {
   "id": 5178,
   "type": "vocabulary",
-  "characters": "移す",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "移す"
+  },
   "primaryMeaning": "To Shift",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>shift</kanji> so the verb vocab version is <vocabulary>to shift</vocabulary>.",
+  "primaryReading": "うつす",
+  "readingMnemonic": "All that dubstep (<reading>うつ</reading>うつうつうつうつ) playing downstairs is causing all of your glassware <vocabulary>to shift</vocabulary> off the shelf and onto the floor. Damn that dubstep. うつうつうつうつうつ♪",
   "otherMeanings": [
     "To Transfer"
   ],
-  "primaryReading": "うつす",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1368,
-      "character": "移",
-      "readings": [
-        "い",
-        "うつ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>shift</kanji> so the verb vocab version is <vocabulary>to shift</vocabulary>.",
-  "readingMnemonic": "All that dubstep (<reading>うつ</reading>うつうつうつうつ) playing downstairs is causing all of your glassware <vocabulary>to shift</vocabulary> off the shelf and onto the floor. Damn that dubstep. うつうつうつうつうつ♪",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A7%BB%E3%81%99",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "移",
-      "id": 1368,
-      "reading": "うつ"
-    },
-    {
-      "type": "kana",
-      "value": "す"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%A7%BB%E3%81%99"
+  }
 }

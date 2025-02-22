@@ -1,32 +1,20 @@
 {
   "id": 7285,
   "type": "vocabulary",
-  "characters": "礎",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "礎"
+  },
   "primaryMeaning": "Foundation",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "いしずえ",
+  "readingMnemonic": "A foundation is made of <reading>stone</reading> (いし). And it holds up an entire <reading>zoo A</reading> (ずえ) but none of Zoo B. Zoo B will fall apart when an earthquake hits.",
   "otherMeanings": [
     "Cornerstone"
   ],
-  "primaryReading": "いしずえ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2057,
-      "character": "礎",
-      "readings": [
-        "そ",
-        "いしずえ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
-  "readingMnemonic": "A foundation is made of <reading>stone</reading> (いし). And it holds up an entire <reading>zoo A</reading> (ずえ) but none of Zoo B. Zoo B will fall apart when an earthquake hits.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A4%8E",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "礎",
-      "id": 2057,
-      "reading": "いしずえ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%A4%8E"
+  }
 }

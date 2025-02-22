@@ -1,43 +1,18 @@
 {
   "id": 5774,
   "type": "vocabulary",
-  "characters": "聖書",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "聖書"
+  },
   "primaryMeaning": "Bible",
-  "otherMeanings": [],
-  "primaryReading": "せいしょ",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1558,
-      "character": "聖",
-      "readings": [
-        "せい"
-      ]
-    },
-    {
-      "id": 962,
-      "character": "書",
-      "readings": [
-        "しょ",
-        "か"
-      ]
-    }
-  ],
   "meaningMnemonic": "The <kanji>holy</kanji> <kanji>writing</kanji> is the <vocabulary>Bible</vocabulary>.",
+  "primaryReading": "せいしょ",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%81%96%E6%9B%B8",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "聖",
-      "id": 1558,
-      "reading": "せい"
-    },
-    {
-      "type": "kanji",
-      "value": "書",
-      "id": 962,
-      "reading": "しょ"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%81%96%E6%9B%B8"
+  }
 }

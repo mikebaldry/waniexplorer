@@ -1,30 +1,38 @@
 {
   "id": 975,
   "type": "kanji",
-  "character": "典",
-  "primaryMeaning": "Rule",
-  "otherMeanings": [],
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "典"
+  },
   "primaryReading": "てん",
   "readings": [
     {
-      "reading": "てん",
       "primary": true,
+      "reading": "てん",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "There’s also a <kanji>rule</kanji> in place to limit the amount of fish fin musicians. No more than <reading>ten</reading> (てん) are allowed to gather and play their music together. That’s the rule. No more than ten.",
+  "primaryMeaning": "Rule",
+  "otherMeanings": [],
   "meaningMnemonic": "If you play <radical>music</radical> with your <radical>fins</radical>, one <kanji>rule</kanji> is that you must be a fish. You can’t play music using fish fins that don’t belong to you. That’s the rule. And it’s also rude.",
-  "vocabularyIds": [
-    3809,
-    3810,
-    3811,
-    3812,
-    4704,
-    7642
-  ],
-  "radicalIds": [
-    185,
-    2
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%85%B8"
+  "readingMnemonic": "There’s also a <kanji>rule</kanji> in place to limit the amount of fish fin musicians. No more than <reading>ten</reading> (てん) are allowed to gather and play their music together. That’s the rule. No more than ten.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%85%B8"
+  },
+  "related": {
+    "radicals": [
+      185,
+      2
+    ],
+    "vocabularies": [
+      3809,
+      3810,
+      3811,
+      3812,
+      4704,
+      7642
+    ]
+  }
 }

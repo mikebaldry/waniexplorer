@@ -1,26 +1,34 @@
 {
   "id": 1454,
   "type": "kanji",
-  "character": "廊",
-  "primaryMeaning": "Corridor",
-  "otherMeanings": [],
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "廊"
+  },
   "primaryReading": "ろう",
   "readings": [
     {
-      "reading": "ろう",
       "primary": true,
+      "reading": "ろう",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "You take the <kanji>corridor</kanji>, but this time the canopy guy is gone. In his place is a new salesman. This one is trying to sell you <reading>roe</reading> (ろう).",
+  "primaryMeaning": "Corridor",
+  "otherMeanings": [],
   "meaningMnemonic": "The <radical>canopy</radical> <radical>guy</radical> is a guy who stands in the <kanji>corridor</kanji> trying to sell people canopies.",
-  "vocabularyIds": [
-    5441,
-    5442
-  ],
-  "radicalIds": [
-    62,
-    8829
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%BB%8A"
+  "readingMnemonic": "You take the <kanji>corridor</kanji>, but this time the canopy guy is gone. In his place is a new salesman. This one is trying to sell you <reading>roe</reading> (ろう).",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%BB%8A"
+  },
+  "related": {
+    "radicals": [
+      62,
+      8829
+    ],
+    "vocabularies": [
+      5441,
+      5442
+    ]
+  }
 }

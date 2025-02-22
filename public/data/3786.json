@@ -1,46 +1,20 @@
 {
   "id": 3786,
   "type": "vocabulary",
-  "characters": "英文",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "英文"
+  },
   "primaryMeaning": "English Writing",
+  "meaningMnemonic": "<kanji>England</kanji> <kanji>writing</kanji> is <vocabulary>English Writing</vocabulary> (or if you want to be fancy, <vocabulary>English Composition</vocabulary>).",
+  "primaryReading": "えいぶん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "English Composition"
   ],
-  "primaryReading": "えいぶん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 953,
-      "character": "英",
-      "readings": [
-        "えい"
-      ]
-    },
-    {
-      "id": 475,
-      "character": "文",
-      "readings": [
-        "ぶん",
-        "もん",
-        "ふみ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>England</kanji> <kanji>writing</kanji> is <vocabulary>English Writing</vocabulary> (or if you want to be fancy, <vocabulary>English Composition</vocabulary>).",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%8B%B1%E6%96%87",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "英",
-      "id": 953,
-      "reading": "えい"
-    },
-    {
-      "type": "kanji",
-      "value": "文",
-      "id": 475,
-      "reading": "ぶん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%8B%B1%E6%96%87"
+  }
 }

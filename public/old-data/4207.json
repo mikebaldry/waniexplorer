@@ -1,0 +1,49 @@
+{
+  "id": 4207,
+  "type": "vocabulary",
+  "characters": "昆布",
+  "primaryMeaning": "Konbu",
+  "otherMeanings": [
+    "Kombu",
+    "Konbu Seaweed",
+    "Kombu Seaweed"
+  ],
+  "primaryReading": "こんぶ",
+  "otherReadings": [
+    "こぶ"
+  ],
+  "kanji": [
+    {
+      "id": 1067,
+      "character": "昆",
+      "readings": [
+        "こん"
+      ]
+    },
+    {
+      "id": 1062,
+      "character": "布",
+      "readings": [
+        "ふ",
+        "ぬの"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Insect</kanji> <kanji>cloth</kanji> is actually <vocabulary>konbu</vocabulary>. <vocabulary>Konbu seaweed</vocabulary> is very common in Japan, and it's delicious. And insects happen to love using it as cloth, too. They make all their clothes out of konbu.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. The 布 part gets changed to ぶ, probably because if a food doesn't have <vocabulary>konbu</vocabulary> you say <reading>boo</reading> (ぶ).",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%98%86%E5%B8%83",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "昆",
+      "id": 1067,
+      "reading": "こん"
+    },
+    {
+      "type": "kanji",
+      "value": "布",
+      "id": 1062,
+      "reading": "ぶ"
+    }
+  ]
+}

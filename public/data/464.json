@@ -1,33 +1,41 @@
 {
   "id": 464,
   "type": "kanji",
-  "character": "丁",
-  "primaryMeaning": "Street",
-  "otherMeanings": [],
+  "level": 2,
+  "characters": {
+    "type": "text",
+    "value": "丁"
+  },
   "primaryReading": "ちょう",
   "readings": [
     {
-      "reading": "ちょう",
       "primary": true,
+      "reading": "ちょう",
       "type": "onyomi"
     },
     {
-      "reading": "てい",
       "primary": false,
+      "reading": "てい",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "So you're walking down this <kanji>street</kanji>, and off in the distance you see the silhouette of somebody. A lady. Big, black curly hair and red eyes. It is the <kanji>street</kanji>-woman, Mrs. <reading>Chou</reading> (ちょう).",
+  "primaryMeaning": "Street",
+  "otherMeanings": [],
   "meaningMnemonic": "The kanji and the radical that look like this are exactly the same. They are both <kanji>street</kanji>.",
-  "vocabularyIds": [
-    3124,
-    6237,
-    6527,
-    6983,
-    7493
-  ],
-  "radicalIds": [
-    27
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E4%B8%81"
+  "readingMnemonic": "So you're walking down this <kanji>street</kanji>, and off in the distance you see the silhouette of somebody. A lady. Big, black curly hair and red eyes. It is the <kanji>street</kanji>-woman, Mrs. <reading>Chou</reading> (ちょう).",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E4%B8%81"
+  },
+  "related": {
+    "radicals": [
+      27
+    ],
+    "vocabularies": [
+      3124,
+      6237,
+      6527,
+      6983,
+      7493
+    ]
+  }
 }

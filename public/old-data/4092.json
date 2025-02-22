@@ -1,0 +1,44 @@
+{
+  "id": 4092,
+  "type": "vocabulary",
+  "characters": "報道",
+  "primaryMeaning": "News Report",
+  "otherMeanings": [],
+  "primaryReading": "ほうどう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1035,
+      "character": "報",
+      "readings": [
+        "ほう",
+        "むく"
+      ]
+    },
+    {
+      "id": 700,
+      "character": "道",
+      "readings": [
+        "どう",
+        "みち"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>News</kanji> travels down the <kanji>road</kanji> by way of a <vocabulary>news report</vocabulary>.\n\n報道 specifically refers to information put out by news organizations or the press in the form of newspaper articles, radio or television broadcasts, etc. Notice that it's different from 報告, which is more general and means the reporting of information by anyone.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A0%B1%E9%81%93",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "報",
+      "id": 1035,
+      "reading": "ほう"
+    },
+    {
+      "type": "kanji",
+      "value": "道",
+      "id": 700,
+      "reading": "どう"
+    }
+  ]
+}

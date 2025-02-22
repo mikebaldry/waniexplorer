@@ -1,0 +1,44 @@
+{
+  "id": 5930,
+  "type": "vocabulary",
+  "characters": "油田",
+  "primaryMeaning": "Oil Field",
+  "otherMeanings": [],
+  "primaryReading": "ゆでん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1609,
+      "character": "油",
+      "readings": [
+        "ゆ",
+        "あぶら"
+      ]
+    },
+    {
+      "id": 490,
+      "character": "田",
+      "readings": [
+        "た",
+        "でん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "An <kanji>oil</kanji> <kanji>rice paddy</kanji> is really more like an <vocabulary>oil field</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. You haven't learned this reading for 田 yet. Just think about how you walk into the <vocabulary>oil field</vocabulary> and you see a bear <reading>den</reading> (でん), filled with oil.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B2%B9%E7%94%B0",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "油",
+      "id": 1609,
+      "reading": "ゆ"
+    },
+    {
+      "type": "kanji",
+      "value": "田",
+      "id": 490,
+      "reading": "でん"
+    }
+  ]
+}

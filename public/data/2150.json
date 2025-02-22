@@ -1,38 +1,46 @@
 {
   "id": 2150,
   "type": "kanji",
-  "character": "蓮",
-  "primaryMeaning": "Lotus",
-  "otherMeanings": [],
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "蓮"
+  },
   "primaryReading": "れん",
   "readings": [
     {
-      "reading": "れん",
       "primary": true,
+      "reading": "れん",
       "type": "onyomi"
     },
     {
-      "reading": "はす",
       "primary": false,
+      "reading": "はす",
       "type": "kunyomi"
     },
     {
-      "reading": "はちす",
       "primary": false,
+      "reading": "はちす",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "You're putting a <kanji>lotus</kanji> on both your scooter and car because they are <reading>ren</reading>tals (れん).",
+  "primaryMeaning": "Lotus",
+  "otherMeanings": [],
   "meaningMnemonic": "You put <radical>flowers</radical> on your <radical>car</radical> and your <radical>scooter</radical>. The flowers you put on them are <kanji>lotus</kanji> flowers.",
-  "vocabularyIds": [
-    7830,
-    7831,
-    8038
-  ],
-  "radicalIds": [
-    90,
-    93,
-    114
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%93%AE"
+  "readingMnemonic": "You're putting a <kanji>lotus</kanji> on both your scooter and car because they are <reading>ren</reading>tals (れん).",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%93%AE"
+  },
+  "related": {
+    "radicals": [
+      90,
+      93,
+      114
+    ],
+    "vocabularies": [
+      7830,
+      7831,
+      8038
+    ]
+  }
 }

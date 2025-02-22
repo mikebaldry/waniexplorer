@@ -1,32 +1,40 @@
 {
   "id": 1383,
   "type": "kanji",
-  "character": "促",
-  "primaryMeaning": "Urge",
-  "otherMeanings": [],
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "促"
+  },
   "primaryReading": "そく",
   "readings": [
     {
-      "reading": "そく",
       "primary": true,
+      "reading": "そく",
       "type": "onyomi"
     },
     {
-      "reading": "うなが",
       "primary": false,
+      "reading": "うなが",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "As <kanji>urge</kanji>d, you put a <reading>sock</reading> (そく) on your foot. Ahh, that feels so much better. What a great thing, this sock.",
+  "primaryMeaning": "Urge",
+  "otherMeanings": [],
   "meaningMnemonic": "Your <radical>leader</radical> sees your bare <radical>foot</radical> and <kanji>urge</kanji>s you to put a sock on it.",
-  "vocabularyIds": [
-    5216,
-    5217,
-    5706
-  ],
-  "radicalIds": [
-    75,
-    95
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E4%BF%83"
+  "readingMnemonic": "As <kanji>urge</kanji>d, you put a <reading>sock</reading> (そく) on your foot. Ahh, that feels so much better. What a great thing, this sock.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E4%BF%83"
+  },
+  "related": {
+    "radicals": [
+      75,
+      95
+    ],
+    "vocabularies": [
+      5216,
+      5217,
+      5706
+    ]
+  }
 }

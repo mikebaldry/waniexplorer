@@ -1,0 +1,34 @@
+{
+  "id": 1926,
+  "type": "kanji",
+  "character": "疲",
+  "primaryMeaning": "Tired",
+  "otherMeanings": [],
+  "primaryReading": "ひ",
+  "readings": [
+    {
+      "reading": "ひ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "つか",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Why so <kanji>tired</kanji>? Your body is <reading>hea</reading>ted (ひ) up from exercising way too much. You should let that heat cool down so your skin starts looking better. ",
+  "meaningMnemonic": "I have <radical>sick</radical> in my <radical>skin</radical>. Just look at it, it doesn't look too good. Whenever I have sickness in my skin, I know that I'm probably <kanji>tired</kanji>.",
+  "vocabularyIds": [
+    6899,
+    6900,
+    7055,
+    7449,
+    8276
+  ],
+  "radicalIds": [
+    187,
+    195
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%96%B2"
+}

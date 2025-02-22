@@ -1,0 +1,37 @@
+{
+  "id": 6644,
+  "type": "vocabulary",
+  "characters": "荒れる",
+  "primaryMeaning": "To Be Stormy",
+  "otherMeanings": [
+    "To Be Rough"
+  ],
+  "primaryReading": "あれる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1835,
+      "character": "荒",
+      "readings": [
+        "あ",
+        "あら",
+        "こう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji is <kanji>wild</kanji> and the verb is <vocabulary>to be stormy</vocabulary> or <vocabulary>to be rough</vocabulary>. If something is wild, like a storm or something, then it will be stormy and rough, after all.",
+  "readingMnemonic": "The reading comes from the reading you learned with the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%8D%92%E3%82%8C%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "荒",
+      "id": 1835,
+      "reading": "あ"
+    },
+    {
+      "type": "kana",
+      "value": "れる"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 2733,
+  "type": "vocabulary",
+  "characters": "申す",
+  "primaryMeaning": "To Say Humbly",
+  "otherMeanings": [
+    "To Say"
+  ],
+  "primaryReading": "もうす",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 538,
+      "character": "申",
+      "readings": [
+        "もう",
+        "しん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>say humbly</kanji>, and this is just the verb form, <vocabulary>to say humbly</vocabulary>. You can also call this <vocabulary>to say</vocabulary>, just remember that it's humble!\n\nThis is a very humble way to say \"to say\" so it's used in especially formal situations, and only to talk about yourself or your associates. Because of its formality, it's almost always in the ます form, which is 申します.",
+  "readingMnemonic": "The reading for this kanji is the kun'yomi reading, but that's the reading you learned with the kanji. High Fives.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%94%B3%E3%81%99",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "申",
+      "id": 538,
+      "reading": "もう"
+    },
+    {
+      "type": "kana",
+      "value": "す"
+    }
+  ]
+}

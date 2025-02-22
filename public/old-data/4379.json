@@ -1,0 +1,45 @@
+{
+  "id": 4379,
+  "type": "vocabulary",
+  "characters": "曲線",
+  "primaryMeaning": "Curve",
+  "otherMeanings": [
+    "Curved Line"
+  ],
+  "primaryReading": "きょくせん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 614,
+      "character": "曲",
+      "readings": [
+        "きょく",
+        "ま"
+      ]
+    },
+    {
+      "id": 767,
+      "character": "線",
+      "readings": [
+        "せん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>bend</kanji> in a <kanji>line</kanji> is merely a <vocabulary>curve</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9B%B2%E7%B7%9A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "曲",
+      "id": 614,
+      "reading": "きょく"
+    },
+    {
+      "type": "kanji",
+      "value": "線",
+      "id": 767,
+      "reading": "せん"
+    }
+  ]
+}

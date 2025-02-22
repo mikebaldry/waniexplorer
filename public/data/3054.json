@@ -1,34 +1,18 @@
 {
   "id": 3054,
   "type": "vocabulary",
-  "characters": "買う",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "買う"
+  },
   "primaryMeaning": "To Buy",
-  "otherMeanings": [],
-  "primaryReading": "かう",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 699,
-      "character": "買",
-      "readings": [
-        "か",
-        "ばい"
-      ]
-    }
-  ],
   "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>buy</kanji> so the verb form is <vocabulary>to buy</vocabulary>.",
+  "primaryReading": "かう",
   "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. If you remember your kanji readings, you'll be just fine.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%B2%B7%E3%81%86",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "買",
-      "id": 699,
-      "reading": "か"
-    },
-    {
-      "type": "kana",
-      "value": "う"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%B2%B7%E3%81%86"
+  }
 }

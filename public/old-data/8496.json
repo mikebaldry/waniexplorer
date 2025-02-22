@@ -1,0 +1,45 @@
+{
+  "id": 8496,
+  "type": "vocabulary",
+  "characters": "系譜",
+  "primaryMeaning": "Genealogy",
+  "otherMeanings": [
+    "Pedigree",
+    "Family History"
+  ],
+  "primaryReading": "けいふ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1415,
+      "character": "系",
+      "readings": [
+        "けい"
+      ]
+    },
+    {
+      "id": 2387,
+      "character": "譜",
+      "readings": [
+        "ふ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Your <kanji>lineage</kanji> and <kanji>genealogy</kanji> make up your <vocabulary>genealogy</vocabulary>, also known as your <vocabulary>family history</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B3%BB%E8%AD%9C",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "系",
+      "id": 1415,
+      "reading": "けい"
+    },
+    {
+      "type": "kanji",
+      "value": "譜",
+      "id": 2387,
+      "reading": "ふ"
+    }
+  ]
+}

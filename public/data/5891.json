@@ -1,45 +1,18 @@
 {
   "id": 5891,
   "type": "vocabulary",
-  "characters": "寿司",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "寿司"
+  },
   "primaryMeaning": "Sushi",
-  "otherMeanings": [],
-  "primaryReading": "すし",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1593,
-      "character": "寿",
-      "readings": [
-        "じゅ",
-        "す",
-        "ことぶき"
-      ]
-    },
-    {
-      "id": 943,
-      "character": "司",
-      "readings": [
-        "し",
-        "つかさど"
-      ]
-    }
-  ],
   "meaningMnemonic": "The <kanji>lifespan</kanji> of a <kanji>director</kanji> depends on how much <vocabulary>sushi</vocabulary> they eat. \n\nOkay, the kanji in 寿司 aren't actually related to the meaning of the word, so this one's kind of tricky. Just try to think of sushi as the secret to a long lifespan for directors. Imagine all those directors wolfing down a bunch of sushi because they're desperate to lengthen their lifespans.",
+  "primaryReading": "すし",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.\n\nIt might also help to know the kanji in 寿司 are <a href=\"https://www.wanikani.com/vocabulary/%E5%BD%93%E3%81%A6%E5%AD%97\" target=\"_blank\">当て字</a> (remember those?). They have nothing to do with sushi, so they're just being used here for their sound.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AF%BF%E5%8F%B8",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "寿",
-      "id": 1593,
-      "reading": "す"
-    },
-    {
-      "type": "kanji",
-      "value": "司",
-      "id": 943,
-      "reading": "し"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%AF%BF%E5%8F%B8"
+  }
 }

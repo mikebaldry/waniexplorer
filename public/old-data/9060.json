@@ -1,0 +1,36 @@
+{
+  "id": 9060,
+  "type": "vocabulary",
+  "characters": "彫る",
+  "primaryMeaning": "To Carve Something",
+  "otherMeanings": [
+    "To Engrave Something"
+  ],
+  "primaryReading": "ほる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1580,
+      "character": "彫",
+      "readings": [
+        "ちょう",
+        "ほ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>carve</kanji> and the verb version is <vocabulary>to carve something</vocabulary>, or <vocabulary>to engrave something</vocabulary>.\n\nThis is a transitive verb, meaning it can take a direct object. You engrave letters into a stone, and you carve a scary face into a pumpkin. Those letters and that face are your objects.",
+  "readingMnemonic": "Imagine trying <vocabulary>to carve something</vocabulary> using a <reading>hoe</reading> (ほ). Its long handle makes it a pretty impractical tool for carving. Now imagine all the trouble you have carving with it.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BD%AB%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "彫",
+      "id": 1580,
+      "reading": "ほ"
+    },
+    {
+      "type": "kana",
+      "value": "る"
+    }
+  ]
+}

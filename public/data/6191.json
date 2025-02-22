@@ -1,36 +1,20 @@
 {
   "id": 6191,
   "type": "vocabulary",
-  "characters": "懸ける",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "懸ける"
+  },
   "primaryMeaning": "To Stake",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>suspend</kanji>, but in this case, you're going to suspend your win or loss and try <vocabulary>to stake</vocabulary> it all on one, big bet. You're going <vocabulary>to risk</vocabulary> it all!",
+  "primaryReading": "かける",
+  "readingMnemonic": "You decide <vocabulary>to risk</vocabulary> it all and bet everything on your <reading>ca</reading>r (か). If you lose, you lose the car, but if you win, then you were right to stake it all on this.",
   "otherMeanings": [
     "To Risk"
   ],
-  "primaryReading": "かける",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1691,
-      "character": "懸",
-      "readings": [
-        "けん",
-        "か"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>suspend</kanji>, but in this case, you're going to suspend your win or loss and try <vocabulary>to stake</vocabulary> it all on one, big bet. You're going <vocabulary>to risk</vocabulary> it all!",
-  "readingMnemonic": "You decide <vocabulary>to risk</vocabulary> it all and bet everything on your <reading>ca</reading>r (か). If you lose, you lose the car, but if you win, then you were right to stake it all on this.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%87%B8%E3%81%91%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "懸",
-      "id": 1691,
-      "reading": "か"
-    },
-    {
-      "type": "kana",
-      "value": "ける"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%87%B8%E3%81%91%E3%82%8B"
+  }
 }

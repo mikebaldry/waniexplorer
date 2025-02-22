@@ -1,0 +1,46 @@
+{
+  "id": 4923,
+  "type": "vocabulary",
+  "characters": "無我",
+  "primaryMeaning": "Selflessness",
+  "otherMeanings": [],
+  "primaryReading": "むが",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1008,
+      "character": "無",
+      "readings": [
+        "む",
+        "ぶ",
+        "な"
+      ]
+    },
+    {
+      "id": 1294,
+      "character": "我",
+      "readings": [
+        "が",
+        "われ",
+        "わ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "There is <kanji>not</kanji> any of <kanji>I</kanji>. It is all about everyone else. It is all about <vocabulary>selflessness</vocabulary>.\n\nThis word is commonly used in the phrase 無我夢中 (total absorption).",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%84%A1%E6%88%91",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "無",
+      "id": 1008,
+      "reading": "む"
+    },
+    {
+      "type": "kanji",
+      "value": "我",
+      "id": 1294,
+      "reading": "が"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 1214,
+  "type": "kanji",
+  "character": "城",
+  "primaryMeaning": "Castle",
+  "otherMeanings": [],
+  "primaryReading": "しろ",
+  "readings": [
+    {
+      "reading": "しろ",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "じょう",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Once you turn dirt into a <kanji>castle</kanji>, that's all <reading>she wro</reading>te (しろ). That's it. It's done. The story is over.",
+  "meaningMnemonic": "<radical>Dirt</radical> can <radical>become</radical> a <kanji>castle</kanji> at any time. You just have to have the right conditions. The right time, the right people, and any patch of dirt can grow into a huge castle.",
+  "vocabularyIds": [
+    4649,
+    8139,
+    9041
+  ],
+  "radicalIds": [
+    17,
+    263
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%9F%8E"
+}

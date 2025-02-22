@@ -1,0 +1,49 @@
+{
+  "id": 6262,
+  "type": "vocabulary",
+  "characters": "呼び鈴",
+  "primaryMeaning": "Doorbell",
+  "otherMeanings": [],
+  "primaryReading": "よびりん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1213,
+      "character": "呼",
+      "readings": [
+        "よ",
+        "こ"
+      ]
+    },
+    {
+      "id": 1709,
+      "character": "鈴",
+      "readings": [
+        "りん",
+        "れい",
+        "すず"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>buzzer</kanji> that will <kanji>call</kanji> you to the door is a <vocabulary>doorbell</vocabulary>.",
+  "readingMnemonic": "The reading is 呼ぶ and 鈴's reading, put together.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%91%BC%E3%81%B3%E9%88%B4",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "呼",
+      "id": 1213,
+      "reading": "よ"
+    },
+    {
+      "type": "kana",
+      "value": "び"
+    },
+    {
+      "type": "kanji",
+      "value": "鈴",
+      "id": 1709,
+      "reading": "りん"
+    }
+  ]
+}

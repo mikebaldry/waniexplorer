@@ -1,0 +1,47 @@
+{
+  "id": 3734,
+  "type": "vocabulary",
+  "characters": "信号",
+  "primaryMeaning": "Traffic Light",
+  "otherMeanings": [
+    "Signal",
+    "Traffic Signal",
+    "Stoplight",
+    "Semaphore"
+  ],
+  "primaryReading": "しんごう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 940,
+      "character": "信",
+      "readings": [
+        "しん"
+      ]
+    },
+    {
+      "id": 533,
+      "character": "号",
+      "readings": [
+        "ごう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you <kanji>believe</kanji> in the <kanji>number</kanji>s, there will be no traffic because the <vocabulary>traffic light</vocabulary> will be functioning properly. Traffic lights are based all off of traffic data and numbers. You just have to believe and hope it all works out in terms of these traffic lights.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BF%A1%E5%8F%B7",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "信",
+      "id": 940,
+      "reading": "しん"
+    },
+    {
+      "type": "kanji",
+      "value": "号",
+      "id": 533,
+      "reading": "ごう"
+    }
+  ]
+}

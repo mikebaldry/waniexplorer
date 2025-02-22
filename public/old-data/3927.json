@@ -1,0 +1,74 @@
+{
+  "id": 3927,
+  "type": "vocabulary",
+  "characters": "消化不良",
+  "primaryMeaning": "Indigestion",
+  "otherMeanings": [],
+  "primaryReading": "しょうかふりょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 819,
+      "character": "消",
+      "readings": [
+        "しょう",
+        "き",
+        "け"
+      ]
+    },
+    {
+      "id": 607,
+      "character": "化",
+      "readings": [
+        "か",
+        "ば"
+      ]
+    },
+    {
+      "id": 563,
+      "character": "不",
+      "readings": [
+        "ふ",
+        "ぶ"
+      ]
+    },
+    {
+      "id": 805,
+      "character": "良",
+      "readings": [
+        "りょう",
+        "よ",
+        "い"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You've hopefully seen 消化 by now and know that it means \"digestion.\" If you know that, then you can see that the \"digestion\" is <kanji>not</kanji> <kanji>good</kanji>. When your digestion is not good, what do you have? <vocabulary>Indigestion</vocabulary>. Excuse me, I have to run to the restroom...",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Knowing 消化 and 不良 will help as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B6%88%E5%8C%96%E4%B8%8D%E8%89%AF",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "消",
+      "id": 819,
+      "reading": "しょう"
+    },
+    {
+      "type": "kanji",
+      "value": "化",
+      "id": 607,
+      "reading": "か"
+    },
+    {
+      "type": "kanji",
+      "value": "不",
+      "id": 563,
+      "reading": "ふ"
+    },
+    {
+      "type": "kanji",
+      "value": "良",
+      "id": 805,
+      "reading": "りょう"
+    }
+  ]
+}

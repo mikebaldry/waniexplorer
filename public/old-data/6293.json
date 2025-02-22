@@ -1,0 +1,49 @@
+{
+  "id": 6293,
+  "type": "vocabulary",
+  "characters": "御免",
+  "primaryMeaning": "Sorry",
+  "otherMeanings": [
+    "I Beg Your Pardon"
+  ],
+  "primaryReading": "ごめん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1728,
+      "character": "御",
+      "readings": [
+        "ご",
+        "ぎょ",
+        "お",
+        "おん",
+        "み"
+      ]
+    },
+    {
+      "id": 1722,
+      "character": "免",
+      "readings": [
+        "めん",
+        "まぬか"
+      ]
+    }
+  ],
+  "meaningMnemonic": "An <kanji>honorable</kanji> <kanji>excuse</kanji> is all I have, and that is no good. I'm <vocabulary>sorry</vocabulary> and <vocabulary>I beg your pardon</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BE%A1%E5%85%8D",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "御",
+      "id": 1728,
+      "reading": "ご"
+    },
+    {
+      "type": "kanji",
+      "value": "免",
+      "id": 1722,
+      "reading": "めん"
+    }
+  ]
+}

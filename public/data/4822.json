@@ -1,39 +1,22 @@
 {
   "id": 4822,
   "type": "vocabulary",
-  "characters": "巻く",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "巻く"
+  },
   "primaryMeaning": "To Roll",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>scroll</kanji>. But, you don't \"to scroll.\" What do you do to scrolls, though? You roll them up, making this word \"<vocabulary>to roll</vocabulary>.\"\n\nThis word can also mean <vocabulary>to wind</vocabulary>, like when winding thread or a watch, or <vocabulary>to wrap</vocabulary> when involving a rolling or coiling motion, like wrapping sushi in seaweed or wrapping a cozy scarf around your neck.",
+  "primaryReading": "まく",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: The thing you are rolling up is your <reading>ma</reading> (ま). She's going wild again, so you throw her into a blanket and roll her up to hold her down.",
   "otherMeanings": [
     "To Wind",
     "To Wrap",
     "To Coil"
   ],
-  "primaryReading": "まく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1273,
-      "character": "巻",
-      "readings": [
-        "かん",
-        "ま",
-        "まき"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>scroll</kanji>. But, you don't \"to scroll.\" What do you do to scrolls, though? You roll them up, making this word \"<vocabulary>to roll</vocabulary>.\"\n\nThis word can also mean <vocabulary>to wind</vocabulary>, like when winding thread or a watch, or <vocabulary>to wrap</vocabulary> when involving a rolling or coiling motion, like wrapping sushi in seaweed or wrapping a cozy scarf around your neck.",
-  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: The thing you are rolling up is your <reading>ma</reading> (ま). She's going wild again, so you throw her into a blanket and roll her up to hold her down.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B7%BB%E3%81%8F",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "巻",
-      "id": 1273,
-      "reading": "ま"
-    },
-    {
-      "type": "kana",
-      "value": "く"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%B7%BB%E3%81%8F"
+  }
 }

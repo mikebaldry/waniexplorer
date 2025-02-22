@@ -1,0 +1,46 @@
+{
+  "id": 1502,
+  "type": "kanji",
+  "character": "厳",
+  "primaryMeaning": "Strict",
+  "otherMeanings": [],
+  "primaryReading": "げん",
+  "readings": [
+    {
+      "reading": "げん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ごん",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "きび",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "おごそ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "One of the <kanji>strict</kanji> parents of this elf kid is... <reading>Gen</reading>ji (げん)?! Looks like he had another illegitimate kid... this time with an elf.",
+  "meaningMnemonic": "If you see a <radical>grass</radical>y <radical>cliff</radical> with an <radical>elf</radical> under it in <radical>winter</radical>, it's because their parents are so <kanji>strict</kanji>. When elf kids misbehave they're supposed to go stand under grassy cliffs to think about what they've done.",
+  "vocabularyIds": [
+    5573,
+    5574,
+    6701,
+    8130,
+    8141
+  ],
+  "radicalIds": [
+    8783,
+    116,
+    8799,
+    60
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%8E%B3"
+}

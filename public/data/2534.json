@@ -1,36 +1,20 @@
 {
   "id": 2534,
   "type": "vocabulary",
-  "characters": "円い",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "円い"
+  },
   "primaryMeaning": "Round",
+  "meaningMnemonic": "This word is made up of a single kanji with hiragana attached to it. That hiragana ends with い which means it's an adjective. So, what's the adjective form of the kanji that's in this word? 円 means both \"yen\" and \"round\" but in this case we're looking at the round one (because something isn't going to be \"yenny\"). The adjective version of round is <vocabulary>round</vocabulary> or <vocabulary>circular</vocabulary>. Just like a yen coin, this \"round\" is a flat round. As in, if you draw a circle on a piece of paper, you could use this word. Same goes with yen, which is why \"yen\" and \"round\" both use the same kanji.",
+  "primaryReading": "まるい",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nThe reading for the 円 portion of this word is the same as a kanji you learned on level 2: 丸. That kanji means something really similar to this kanji. And guess what? They also share a reading. So, if you know that the reading of 丸 is まる then you'll also know that the reading for this word is <reading>まる</reading>!",
   "otherMeanings": [
     "Circular"
   ],
-  "primaryReading": "まるい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 472,
-      "character": "円",
-      "readings": [
-        "えん",
-        "まる"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This word is made up of a single kanji with hiragana attached to it. That hiragana ends with い which means it's an adjective. So, what's the adjective form of the kanji that's in this word? 円 means both \"yen\" and \"round\" but in this case we're looking at the round one (because something isn't going to be \"yenny\"). The adjective version of round is <vocabulary>round</vocabulary> or <vocabulary>circular</vocabulary>. Just like a yen coin, this \"round\" is a flat round. As in, if you draw a circle on a piece of paper, you could use this word. Same goes with yen, which is why \"yen\" and \"round\" both use the same kanji.",
-  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nThe reading for the 円 portion of this word is the same as a kanji you learned on level 2: 丸. That kanji means something really similar to this kanji. And guess what? They also share a reading. So, if you know that the reading of 丸 is まる then you'll also know that the reading for this word is <reading>まる</reading>!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%86%86%E3%81%84",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "円",
-      "id": 472,
-      "reading": "まる"
-    },
-    {
-      "type": "kana",
-      "value": "い"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%86%86%E3%81%84"
+  }
 }

@@ -1,0 +1,34 @@
+{
+  "id": 7141,
+  "type": "vocabulary",
+  "characters": "稼ぎ",
+  "primaryMeaning": "Earnings",
+  "otherMeanings": [],
+  "primaryReading": "かせぎ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1935,
+      "character": "稼",
+      "readings": [
+        "か",
+        "かせ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "稼ぐ is \"to earn income.\" This is the noun version. It's just <vocabulary>earnings</vocabulary>, the things you earn.",
+  "readingMnemonic": "The reading comes from 稼ぐ.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A8%BC%E3%81%8E",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "稼",
+      "id": 1935,
+      "reading": "かせ"
+    },
+    {
+      "type": "kana",
+      "value": "ぎ"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 8742,
+  "type": "vocabulary",
+  "characters": "近所",
+  "primaryMeaning": "Neighborhood",
+  "otherMeanings": [],
+  "primaryReading": "きんじょ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 596,
+      "character": "近",
+      "readings": [
+        "きん",
+        "こん",
+        "ちか"
+      ]
+    },
+    {
+      "id": 707,
+      "character": "所",
+      "readings": [
+        "しょ",
+        "ところ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>place</kanji> you live <kanji>near</kanji> is your <vocabulary>neighborhood</vocabulary>!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own as long as you remember the rendaku on しょ making it じょ.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%BF%91%E6%89%80",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "近",
+      "id": 596,
+      "reading": "きん"
+    },
+    {
+      "type": "kanji",
+      "value": "所",
+      "id": 707,
+      "reading": "じょ"
+    }
+  ]
+}

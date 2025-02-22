@@ -1,0 +1,32 @@
+{
+  "id": 7828,
+  "type": "vocabulary",
+  "characters": "苗",
+  "primaryMeaning": "Seedling",
+  "otherMeanings": [],
+  "primaryReading": "なえ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2146,
+      "character": "苗",
+      "readings": [
+        "みょう",
+        "びょう",
+        "なえ",
+        "なわ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You did not learn this reading, so here's a mnemonic to help you: \n\nThe best time to plant <vocabulary>seedling</vocabulary>s is at <reading>nigh</reading>t (なえ). If you plant them at night they'll sleep through the whole transplanting process and they'll wake up happy and ready to grow.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%8B%97",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "苗",
+      "id": 2146,
+      "reading": "なえ"
+    }
+  ]
+}

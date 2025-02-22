@@ -1,0 +1,45 @@
+{
+  "id": 3299,
+  "type": "vocabulary",
+  "characters": "神社",
+  "primaryMeaning": "Shinto Shrine",
+  "otherMeanings": [],
+  "primaryReading": "じんじゃ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 799,
+      "character": "神",
+      "readings": [
+        "しん",
+        "じん",
+        "かみ"
+      ]
+    },
+    {
+      "id": 591,
+      "character": "社",
+      "readings": [
+        "しゃ",
+        "やしろ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>God</kanji> <kanji>company</kanji>... think of this as \"what 'company' does the god's work?\" Well, the answer to that is a shrine, probably. In this case a <vocabulary>Shinto Shrine</vocabulary> because of the しん in the 神.",
+  "readingMnemonic": "But wait! 神 is read じん in this word for some reason. Darn them gods, always messing around, adding dakuten. Maybe this will help, though: Imagine yourself at a Shinto Shrine. You are praying to the Gods, asking for food. Out from the sky rains <reading>Ginger</reading> (じんじゃ). You are pelted with it and not sure if you should be happy or upset.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A5%9E%E7%A4%BE",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "神",
+      "id": 799,
+      "reading": "じん"
+    },
+    {
+      "type": "kanji",
+      "value": "社",
+      "id": 591,
+      "reading": "じゃ"
+    }
+  ]
+}

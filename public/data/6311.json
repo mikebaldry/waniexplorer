@@ -1,49 +1,20 @@
 {
   "id": 6311,
   "type": "vocabulary",
-  "characters": "枠組み",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "枠組み"
+  },
   "primaryMeaning": "Frame",
+  "meaningMnemonic": "The <kanji>frame</kanji> <kanji>group</kanji> is a <vocabulary>frame</vocabulary> or a <vocabulary>framework</vocabulary>.",
+  "primaryReading": "わくぐみ",
+  "readingMnemonic": "The reading is the reading of 枠 and the reading of the vocab word 組み. Watch out for the rendaku.",
   "otherMeanings": [
     "Framework"
   ],
-  "primaryReading": "わくぐみ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1731,
-      "character": "枠",
-      "readings": [
-        "わく"
-      ]
-    },
-    {
-      "id": 670,
-      "character": "組",
-      "readings": [
-        "くみ",
-        "そ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The <kanji>frame</kanji> <kanji>group</kanji> is a <vocabulary>frame</vocabulary> or a <vocabulary>framework</vocabulary>.",
-  "readingMnemonic": "The reading is the reading of 枠 and the reading of the vocab word 組み. Watch out for the rendaku.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9E%A0%E7%B5%84%E3%81%BF",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "枠",
-      "id": 1731,
-      "reading": "わく"
-    },
-    {
-      "type": "kanji",
-      "value": "組",
-      "id": 670,
-      "reading": "ぐみ"
-    },
-    {
-      "type": "kana",
-      "value": "み"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%9E%A0%E7%B5%84%E3%81%BF"
+  }
 }

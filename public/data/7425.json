@@ -1,43 +1,18 @@
 {
   "id": 7425,
   "type": "vocabulary",
-  "characters": "水晶",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "水晶"
+  },
   "primaryMeaning": "Crystal",
-  "otherMeanings": [],
-  "primaryReading": "すいしょう",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 479,
-      "character": "水",
-      "readings": [
-        "すい",
-        "みず"
-      ]
-    },
-    {
-      "id": 2115,
-      "character": "晶",
-      "readings": [
-        "しょう"
-      ]
-    }
-  ],
   "meaningMnemonic": "A <kanji>water</kanji> <kanji>crystal</kanji> is just a <vocabulary>crystal</vocabulary>. I guess crystals are clear and look kind of like water, yeah? That's why it's being referred to as a water crystal, making it really just a crystal.",
+  "primaryReading": "すいしょう",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B0%B4%E6%99%B6",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "水",
-      "id": 479,
-      "reading": "すい"
-    },
-    {
-      "type": "kanji",
-      "value": "晶",
-      "id": 2115,
-      "reading": "しょう"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B0%B4%E6%99%B6"
+  }
 }

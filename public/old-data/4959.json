@@ -1,0 +1,46 @@
+{
+  "id": 4959,
+  "type": "vocabulary",
+  "characters": "野獣",
+  "primaryMeaning": "Wild Beast",
+  "otherMeanings": [
+    "Wild Animal"
+  ],
+  "primaryReading": "やじゅう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 848,
+      "character": "野",
+      "readings": [
+        "や",
+        "の"
+      ]
+    },
+    {
+      "id": 1303,
+      "character": "獣",
+      "readings": [
+        "じゅう",
+        "けもの"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>field</kanji> <kanji>beast/animal</kanji> is one that lives outside and not under human care. It is a <vocabulary>wild beast</vocabulary> / <vocabulary>wild animal</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%87%8E%E7%8D%A3",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "野",
+      "id": 848,
+      "reading": "や"
+    },
+    {
+      "type": "kanji",
+      "value": "獣",
+      "id": 1303,
+      "reading": "じゅう"
+    }
+  ]
+}

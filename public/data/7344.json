@@ -1,45 +1,20 @@
 {
   "id": 7344,
   "type": "vocabulary",
-  "characters": "推奨",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "推奨"
+  },
   "primaryMeaning": "Recommendation",
+  "meaningMnemonic": "I'd like to <kanji>infer</kanji> and <kanji>encourage</kanji> this item to you. It is my <vocabulary>recommendation</vocabulary>. It is my <vocabulary>endorsement</vocabulary>.",
+  "primaryReading": "すいしょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Endorsement"
   ],
-  "primaryReading": "すいしょう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1565,
-      "character": "推",
-      "readings": [
-        "すい",
-        "お"
-      ]
-    },
-    {
-      "id": 2079,
-      "character": "奨",
-      "readings": [
-        "しょう"
-      ]
-    }
-  ],
-  "meaningMnemonic": "I'd like to <kanji>infer</kanji> and <kanji>encourage</kanji> this item to you. It is my <vocabulary>recommendation</vocabulary>. It is my <vocabulary>endorsement</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8E%A8%E5%A5%A8",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "推",
-      "id": 1565,
-      "reading": "すい"
-    },
-    {
-      "type": "kanji",
-      "value": "奨",
-      "id": 2079,
-      "reading": "しょう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%8E%A8%E5%A5%A8"
+  }
 }

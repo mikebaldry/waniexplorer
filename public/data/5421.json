@@ -1,34 +1,18 @@
 {
   "id": 5421,
   "type": "vocabulary",
-  "characters": "編む",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "編む"
+  },
   "primaryMeaning": "To Knit",
-  "otherMeanings": [],
-  "primaryReading": "あむ",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1445,
-      "character": "編",
-      "readings": [
-        "へん",
-        "あ"
-      ]
-    }
-  ],
   "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>knit</kanji> so the verb vocab version is <vocabulary>to knit</vocabulary>.",
+  "primaryReading": "あむ",
   "readingMnemonic": "When you start <vocabulary>to knit</vocabulary>, you always end up with the same thing every time when you're done, no matter what you're trying to make: The letter \"<reading>A</reading>\" (あ). It's so frustrating that you can't knit anything else.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B7%A8%E3%82%80",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "編",
-      "id": 1445,
-      "reading": "あ"
-    },
-    {
-      "type": "kana",
-      "value": "む"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%B7%A8%E3%82%80"
+  }
 }

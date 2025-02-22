@@ -1,0 +1,34 @@
+{
+  "id": 691,
+  "type": "kanji",
+  "character": "研",
+  "primaryMeaning": "Sharpen",
+  "otherMeanings": [],
+  "primaryReading": "けん",
+  "readings": [
+    {
+      "reading": "けん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "と",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Why did you <kanji>sharpen</kanji> your blade? Because you are about to do battle with <reading>Ken</reading> (けん), the famous samurai warrior.",
+  "meaningMnemonic": "A <radical>stone</radical> <radical>lantern</radical> is an excellent way to <kanji>sharpen</kanji> anything, even in the dark. Your knives, your forks, your spoons, and even your sword.",
+  "vocabularyIds": [
+    3023,
+    3024,
+    3486,
+    5113,
+    7500
+  ],
+  "radicalIds": [
+    54,
+    171
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%A0%94"
+}

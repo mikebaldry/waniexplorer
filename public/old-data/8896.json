@@ -1,0 +1,47 @@
+{
+  "id": 8896,
+  "type": "vocabulary",
+  "characters": "一斤",
+  "primaryMeaning": "One Loaf of Bread",
+  "otherMeanings": [
+    "One Loaf"
+  ],
+  "primaryReading": "いっきん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 440,
+      "character": "一",
+      "readings": [
+        "いち",
+        "いつ",
+        "ひと",
+        "かず"
+      ]
+    },
+    {
+      "id": 8884,
+      "character": "斤",
+      "readings": [
+        "きん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>One</kanji> <kanji>bread loaf counter</kanji> is counting <vocabulary>one loaf of bread</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Be careful of the shortening though!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%80%E6%96%A4",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "一",
+      "id": 440,
+      "reading": "いっ"
+    },
+    {
+      "type": "kanji",
+      "value": "斤",
+      "id": 8884,
+      "reading": "きん"
+    }
+  ]
+}

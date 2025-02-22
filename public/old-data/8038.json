@@ -1,0 +1,45 @@
+{
+  "id": 8038,
+  "type": "vocabulary",
+  "characters": "蓮根",
+  "primaryMeaning": "Lotus Root",
+  "otherMeanings": [],
+  "primaryReading": "れんこん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2150,
+      "character": "蓮",
+      "readings": [
+        "れん",
+        "はす",
+        "はちす"
+      ]
+    },
+    {
+      "id": 817,
+      "character": "根",
+      "readings": [
+        "こん",
+        "ね"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Lotus</kanji> <kanji>root</kanji> is <vocabulary>lotus root</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%93%AE%E6%A0%B9",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "蓮",
+      "id": 2150,
+      "reading": "れん"
+    },
+    {
+      "type": "kanji",
+      "value": "根",
+      "id": 817,
+      "reading": "こん"
+    }
+  ]
+}

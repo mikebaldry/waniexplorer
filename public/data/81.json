@@ -1,12 +1,15 @@
 {
   "id": 81,
   "type": "radical",
-  "primaryMeaning": "Branch",
-  "otherMeanings": [],
-  "character": {
+  "level": 4,
+  "characters": {
     "type": "text",
     "value": "支"
   },
+  "primaryMeaning": "Branch",
+  "otherMeanings": [],
   "meaningMnemonic": "There is a cross growing out of this stool. It's <radical>branch</radical>ing off of it, if you will. The tree that this stool was made of is coming back to life in the form of a branch.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/branch"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/branch"
+  }
 }

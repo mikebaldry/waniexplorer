@@ -1,0 +1,32 @@
+{
+  "id": 1741,
+  "type": "kanji",
+  "character": "鋼",
+  "primaryMeaning": "Steel",
+  "otherMeanings": [],
+  "primaryReading": "こう",
+  "readings": [
+    {
+      "reading": "こう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "はがね",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You report your findings about the <kanji>steel</kanji> you found to Emperor <reading>こう</reading>いち. He is displeased that it is a hill of steel.",
+  "meaningMnemonic": "You come across a <radical>gold</radical> <radical>hill</radical>. You think you hit it big! You start digging, only to find out that it is merely a paper-thin layer of gold covering a hill of <kanji>steel</kanji>.",
+  "vocabularyIds": [
+    6335,
+    6336,
+    6337
+  ],
+  "radicalIds": [
+    118,
+    376
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%8B%BC"
+}

@@ -1,40 +1,48 @@
 {
   "id": 1211,
   "type": "kanji",
-  "character": "現",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "現"
+  },
+  "primaryReading": "げん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "げん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "あらわ",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Present Time",
   "otherMeanings": [
     "Appear"
   ],
-  "primaryReading": "げん",
-  "readings": [
-    {
-      "reading": "げん",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "あらわ",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "At the <kanji>present time</kanji> the king is <reading>Gen</reading>ji (げん). The time has finally come for him to get serious, and as they say, there's no time like the present.",
   "meaningMnemonic": "The <radical>king</radical> can <radical>see</radical> the <kanji>present time</kanji> for what it really is. The future isn't important. The past isn't important. The present is when everything <kanji>appear</kanji>s.",
-  "vocabularyIds": [
-    4270,
-    4642,
-    4643,
-    4644,
-    4645,
-    4723,
-    4879,
-    8714,
-    9242
-  ],
-  "radicalIds": [
-    48,
-    91
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%8F%BE"
+  "readingMnemonic": "At the <kanji>present time</kanji> the king is <reading>Gen</reading>ji (げん). The time has finally come for him to get serious, and as they say, there's no time like the present.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%8F%BE"
+  },
+  "related": {
+    "radicals": [
+      48,
+      91
+    ],
+    "vocabularies": [
+      4270,
+      4642,
+      4643,
+      4644,
+      4645,
+      4723,
+      4879,
+      8714,
+      9242
+    ]
+  }
 }

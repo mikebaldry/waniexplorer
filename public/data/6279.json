@@ -1,44 +1,18 @@
 {
   "id": 6279,
   "type": "vocabulary",
-  "characters": "片道",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "片道"
+  },
   "primaryMeaning": "One Way",
-  "otherMeanings": [],
-  "primaryReading": "かたみち",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1718,
-      "character": "片",
-      "readings": [
-        "かた",
-        "へん"
-      ]
-    },
-    {
-      "id": 700,
-      "character": "道",
-      "readings": [
-        "どう",
-        "みち"
-      ]
-    }
-  ],
   "meaningMnemonic": "A <kanji>one sided</kanji> <kanji>street</kanji> is for <vocabulary>one way</vocabulary> only, because everything just goes in one direction.",
+  "primaryReading": "かたみち",
   "readingMnemonic": "The readings are the kun'yomi readings. You learned the reading from 片 already, and 道 is the vocab reading みち.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%89%87%E9%81%93",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "片",
-      "id": 1718,
-      "reading": "かた"
-    },
-    {
-      "type": "kanji",
-      "value": "道",
-      "id": 700,
-      "reading": "みち"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%89%87%E9%81%93"
+  }
 }

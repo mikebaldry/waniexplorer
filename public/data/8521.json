@@ -1,38 +1,20 @@
 {
   "id": 8521,
   "type": "vocabulary",
-  "characters": "凹む",
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "凹む"
+  },
   "primaryMeaning": "To Get Dented",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>concave</kanji>, but \"to concave\" doesn't really make sense. So the verb version is <vocabulary>to get dented</vocabulary>. Or, more figuratively, <vocabulary>to feel down</vocabulary>.\n\n凹む is used in a physical sense when the surface of something is dented, collapsed inward, or features some kind of hollow depression. That can be anything from a dented car to even a fit, slimmed-down belly (sort of like the flab is \"dented\" in).\n\nIn a figurative sense, 凹む is used when you're feeling down. Almost like your heart is dented, you know? We all have those days.",
+  "primaryReading": "へこむ",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you:\n\nYou feel like you've started <vocabulary>to get dented</vocabulary> when you have a <reading>hea</reading>d <reading>co</reading>ld (へこ). Like all that sniffling makes dents on the sides of your nose. It's easy <vocabulary>to feel down</vocabulary> when you have a head cold too, but try not to let it get to you.",
   "otherMeanings": [
     "To Feel Down"
   ],
-  "primaryReading": "へこむ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2359,
-      "character": "凹",
-      "readings": [
-        "おう",
-        "くぼ",
-        "へこ",
-        "ぼこ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>concave</kanji>, but \"to concave\" doesn't really make sense. So the verb version is <vocabulary>to get dented</vocabulary>. Or, more figuratively, <vocabulary>to feel down</vocabulary>.\n\n凹む is used in a physical sense when the surface of something is dented, collapsed inward, or features some kind of hollow depression. That can be anything from a dented car to even a fit, slimmed-down belly (sort of like the flab is \"dented\" in).\n\nIn a figurative sense, 凹む is used when you're feeling down. Almost like your heart is dented, you know? We all have those days.",
-  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you:\n\nYou feel like you've started <vocabulary>to get dented</vocabulary> when you have a <reading>hea</reading>d <reading>co</reading>ld (へこ). Like all that sniffling makes dents on the sides of your nose. It's easy <vocabulary>to feel down</vocabulary> when you have a head cold too, but try not to let it get to you.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%87%B9%E3%82%80",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "凹",
-      "id": 2359,
-      "reading": "へこ"
-    },
-    {
-      "type": "kana",
-      "value": "む"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%87%B9%E3%82%80"
+  }
 }

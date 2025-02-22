@@ -1,47 +1,20 @@
 {
   "id": 6580,
   "type": "vocabulary",
-  "characters": "起床",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "起床"
+  },
   "primaryMeaning": "Rising",
+  "meaningMnemonic": "<kanji>Wake up</kanji> from your <kanji>bed</kanji> and get up. You are <vocabulary>rising</vocabulary> or <vocabulary>getting out of bed</vocabulary>.\n\n起床 is a relatively formal word that is commonly used in writing. It's also used as a command to wake up individuals in settings like military bases or prisons.",
+  "primaryReading": "きしょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You haven't learned these readings yet, so here's a mnemonic to help you:\n\nJust remember that <vocabulary>rising</vocabulary> and <vocabulary>getting out of bed</vocabulary> early is the <reading>key</reading> (き) to the <reading>Sho</reading>gun's (しょう) heart. He doesn't like lazybones, so make sure to get out of bed at a reasonable time.",
   "otherMeanings": [
     "Getting Out Of Bed"
   ],
-  "primaryReading": "きしょう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 740,
-      "character": "起",
-      "readings": [
-        "お",
-        "き"
-      ]
-    },
-    {
-      "id": 1810,
-      "character": "床",
-      "readings": [
-        "ゆか",
-        "とこ",
-        "しょう"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Wake up</kanji> from your <kanji>bed</kanji> and get up. You are <vocabulary>rising</vocabulary> or <vocabulary>getting out of bed</vocabulary>.\n\n起床 is a relatively formal word that is commonly used in writing. It's also used as a command to wake up individuals in settings like military bases or prisons.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You haven't learned these readings yet, so here's a mnemonic to help you:\n\nJust remember that <vocabulary>rising</vocabulary> and <vocabulary>getting out of bed</vocabulary> early is the <reading>key</reading> (き) to the <reading>Sho</reading>gun's (しょう) heart. He doesn't like lazybones, so make sure to get out of bed at a reasonable time.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%B5%B7%E5%BA%8A",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "起",
-      "id": 740,
-      "reading": "き"
-    },
-    {
-      "type": "kanji",
-      "value": "床",
-      "id": 1810,
-      "reading": "しょう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%B5%B7%E5%BA%8A"
+  }
 }

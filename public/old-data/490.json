@@ -1,0 +1,38 @@
+{
+  "id": 490,
+  "type": "kanji",
+  "character": "田",
+  "primaryMeaning": "Rice Paddy",
+  "otherMeanings": [
+    "Rice Field"
+  ],
+  "primaryReading": "た",
+  "readings": [
+    {
+      "reading": "た",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "でん",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "To remember the reading た, we use the word \"taco.\"\n\nYou're in the rice field... but when you lean down to examine the rice more closely, you see that it's not rice that's growing, it's a bunch of little <reading>ta</reading>cos (た), blossoming out of the ground.",
+  "meaningMnemonic": "The <radical>rice paddy</radical> radical and the <kanji>rice paddy</kanji> kanji are the same, making this one super easy to remember, at least meaning-wise.",
+  "vocabularyIds": [
+    2580,
+    5871,
+    5930,
+    6316,
+    6524,
+    6735,
+    7537,
+    9167
+  ],
+  "radicalIds": [
+    51
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%94%B0"
+}

@@ -1,0 +1,46 @@
+{
+  "id": 5804,
+  "type": "vocabulary",
+  "characters": "電源",
+  "primaryMeaning": "Power Source",
+  "otherMeanings": [
+    "Outlet",
+    "Socket"
+  ],
+  "primaryReading": "でんげん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 706,
+      "character": "電",
+      "readings": [
+        "でん"
+      ]
+    },
+    {
+      "id": 1568,
+      "character": "源",
+      "readings": [
+        "げん",
+        "みなもと"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>electricity</kanji> <kanji>origin</kanji> is where the electricity comes from. It is the <vocabulary>power source</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9B%BB%E6%BA%90",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "電",
+      "id": 706,
+      "reading": "でん"
+    },
+    {
+      "type": "kanji",
+      "value": "源",
+      "id": 1568,
+      "reading": "げん"
+    }
+  ]
+}

@@ -1,12 +1,15 @@
 {
   "id": 151,
   "type": "radical",
-  "primaryMeaning": "Bird",
-  "otherMeanings": [],
-  "character": {
+  "level": 7,
+  "characters": {
     "type": "text",
     "value": "鳥"
   },
+  "primaryMeaning": "Bird",
+  "otherMeanings": [],
   "meaningMnemonic": "See the cool wing on the bottom? See the head with the neat feather coming out of the top? This is a <radical>bird</radical>. Tweet tweet!",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/bird"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/bird"
+  }
 }

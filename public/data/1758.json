@@ -1,34 +1,42 @@
 {
   "id": 1758,
   "type": "kanji",
-  "character": "鋭",
-  "primaryMeaning": "Sharp",
-  "otherMeanings": [],
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "鋭"
+  },
   "primaryReading": "えい",
   "readings": [
     {
-      "reading": "えい",
       "primary": true,
+      "reading": "えい",
       "type": "onyomi"
     },
     {
-      "reading": "するど",
       "primary": false,
+      "reading": "するど",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "You're setting up all these sharp traps around your gold when you step on a <kanji>sharp</kanji> <reading>a</reading>corn (えい) that's just lying on the floor. Ouch! But wait, then you get a great idea!",
+  "primaryMeaning": "Sharp",
+  "otherMeanings": [],
   "meaningMnemonic": "If you have <radical>gold</radical> you also need a <radical>guard</radical> with a very <kanji>sharp</kanji> sword to protect it.",
-  "vocabularyIds": [
-    6409,
-    6410,
-    6411,
-    6412,
-    6566
-  ],
-  "radicalIds": [
-    118,
-    422
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%8B%AD"
+  "readingMnemonic": "You're setting up all these sharp traps around your gold when you step on a <kanji>sharp</kanji> <reading>a</reading>corn (えい) that's just lying on the floor. Ouch! But wait, then you get a great idea!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%8B%AD"
+  },
+  "related": {
+    "radicals": [
+      118,
+      422
+    ],
+    "vocabularies": [
+      6409,
+      6410,
+      6411,
+      6412,
+      6566
+    ]
+  }
 }

@@ -1,0 +1,45 @@
+{
+  "id": 6884,
+  "type": "vocabulary",
+  "characters": "天井",
+  "primaryMeaning": "Ceiling",
+  "otherMeanings": [],
+  "primaryReading": "てんじょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 473,
+      "character": "天",
+      "readings": [
+        "てん",
+        "あま"
+      ]
+    },
+    {
+      "id": 1918,
+      "character": "井",
+      "readings": [
+        "い",
+        "しょう",
+        "せい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>heaven</kanji> <kanji>well</kanji> is the well that goes up into the heavens. This is above you, and it is a <vocabulary>ceiling</vocabulary>. Maybe the \"well\" part is referring to the chimney that goes up through the ceiling to the heavens when you look up in a super old house?",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You didn't learn that reading for 井, so we've got a mnemonic to help you out with that. Just note that the on'yomi for 井 isn't actually じょう, but rather しょう, it just ends up getting rendaku'd here!\n\nFixing up <vocabulary>ceilings</vocabulary> is a tricky task, but you've got just the man for it: <reading>Joe</reading> (じょう). Your local farmhand that does it all, nothing is too tricky or out of reach for him, you're starting to think that this man can do just about anything. What a handy person to have around.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A4%A9%E4%BA%95",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "天",
+      "id": 473,
+      "reading": "てん"
+    },
+    {
+      "type": "kanji",
+      "value": "井",
+      "id": 1918,
+      "reading": "じょう"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": 1659,
+  "type": "kanji",
+  "character": "弾",
+  "primaryMeaning": "Bullet",
+  "otherMeanings": [],
+  "primaryReading": "だん",
+  "readings": [
+    {
+      "reading": "だん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ひ",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "はず",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "たま",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "If you want to shoot <kanji>bullet</kanji>s, you need to do it at <reading>dawn</reading> (だん). Back in the old days, it wasn't bright enough to shoot arrows at dawn, but you can shoot bullets at dawn because they're simpler to use!",
+  "meaningMnemonic": "What's more <radical>simple</radical> than a <radical>bow</radical>? A <kanji>bullet</kanji>. Bullets just have to be shot out of a gun and somebody dies. Bows you have to load with an arrow and pull it back and aim, yuck. Bullets are the new bows, people.",
+  "vocabularyIds": [
+    6093,
+    6097,
+    6098,
+    6099,
+    6247,
+    6256,
+    6330,
+    6629,
+    8596,
+    8689,
+    9331
+  ],
+  "radicalIds": [
+    36,
+    199
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%BC%BE"
+}

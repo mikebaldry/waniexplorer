@@ -1,0 +1,44 @@
+{
+  "id": 7118,
+  "type": "vocabulary",
+  "characters": "車掌",
+  "primaryMeaning": "Train Conductor",
+  "otherMeanings": [],
+  "primaryReading": "しゃしょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 562,
+      "character": "車",
+      "readings": [
+        "しゃ",
+        "くるま"
+      ]
+    },
+    {
+      "id": 2002,
+      "character": "掌",
+      "readings": [
+        "しょう",
+        "てのひら"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>car</kanji> <kanji>manipulat</kanji>or is someone who manipulates the car. This 車 riffs off of 電車, which is a train, making the train manipulator a <vocabulary>train conductor</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%BB%8A%E6%8E%8C",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "車",
+      "id": 562,
+      "reading": "しゃ"
+    },
+    {
+      "type": "kanji",
+      "value": "掌",
+      "id": 2002,
+      "reading": "しょう"
+    }
+  ]
+}

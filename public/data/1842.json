@@ -1,33 +1,41 @@
 {
   "id": 1842,
   "type": "kanji",
-  "character": "趣",
-  "primaryMeaning": "Charm",
-  "otherMeanings": [],
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "趣"
+  },
   "primaryReading": "しゅ",
   "readings": [
     {
-      "reading": "しゅ",
       "primary": true,
+      "reading": "しゅ",
       "type": "onyomi"
     },
     {
-      "reading": "おもむき",
       "primary": false,
+      "reading": "おもむき",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "The added <kanji>charm</kanji> of this game is that there's this big <reading>chu</reading>te (しゅ) at the end. It's so charming because you love chutes. \n\n",
+  "primaryMeaning": "Charm",
+  "otherMeanings": [],
   "meaningMnemonic": "You have to <radical>run</radical>, put your <radical>ear</radical> on the <radical>stool</radical>, then run back. That's the <kanji>charm</kanji> of this game.\n\n",
-  "vocabularyIds": [
-    6667,
-    6668,
-    6951
-  ],
-  "radicalIds": [
-    124,
-    88,
-    30
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%B6%A3"
+  "readingMnemonic": "The added <kanji>charm</kanji> of this game is that there's this big <reading>chu</reading>te (しゅ) at the end. It's so charming because you love chutes. \n\n",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%B6%A3"
+  },
+  "related": {
+    "radicals": [
+      124,
+      88,
+      30
+    ],
+    "vocabularies": [
+      6667,
+      6668,
+      6951
+    ]
+  }
 }

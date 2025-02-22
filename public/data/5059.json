@@ -1,43 +1,18 @@
 {
   "id": 5059,
   "type": "vocabulary",
-  "characters": "睡眠",
+  "level": 27,
+  "characters": {
+    "type": "text",
+    "value": "睡眠"
+  },
   "primaryMeaning": "Sleep",
-  "otherMeanings": [],
-  "primaryReading": "すいみん",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1333,
-      "character": "睡",
-      "readings": [
-        "すい"
-      ]
-    },
-    {
-      "id": 1332,
-      "character": "眠",
-      "readings": [
-        "みん",
-        "ねむ"
-      ]
-    }
-  ],
   "meaningMnemonic": "Feeling <kanji>drowsy</kanji> and like I want to <kanji>sleep</kanji>. I just want to <vocabulary>sleep</vocabulary> so bad.",
+  "primaryReading": "すいみん",
   "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%9D%A1%E7%9C%A0",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "睡",
-      "id": 1333,
-      "reading": "すい"
-    },
-    {
-      "type": "kanji",
-      "value": "眠",
-      "id": 1332,
-      "reading": "みん"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%9D%A1%E7%9C%A0"
+  }
 }

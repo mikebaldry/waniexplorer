@@ -1,0 +1,30 @@
+{
+  "id": 7287,
+  "type": "vocabulary",
+  "characters": "鶴",
+  "primaryMeaning": "Crane",
+  "otherMeanings": [],
+  "primaryReading": "つる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2058,
+      "character": "鶴",
+      "readings": [
+        "つる",
+        "かく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "The reading for this word is the same as the one you learned with the vocab.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%B6%B4",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "鶴",
+      "id": 2058,
+      "reading": "つる"
+    }
+  ]
+}

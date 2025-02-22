@@ -1,45 +1,20 @@
 {
   "id": 3835,
   "type": "vocabulary",
-  "characters": "弁当",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "弁当"
+  },
   "primaryMeaning": "Bento",
+  "meaningMnemonic": "You know how 弁 means <kanji>dialect</kanji> and 当 means <kanji>success</kanji>? Well, this isn't going to help you much, because this means <vocabulary>bento</vocabulary> or <vocabulary>box lunch</vocabulary>. Chances are, though, you know the word \"bento\" from English. So, if you read this word (which you should be able to) you can figure out it's べんとう. If you do that, you can realize this word means <vocabulary>bento</vocabulary> too!",
+  "primaryReading": "べんとう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Box Lunch"
   ],
-  "primaryReading": "べんとう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 984,
-      "character": "弁",
-      "readings": [
-        "べん"
-      ]
-    },
-    {
-      "id": 571,
-      "character": "当",
-      "readings": [
-        "とう",
-        "あ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You know how 弁 means <kanji>dialect</kanji> and 当 means <kanji>success</kanji>? Well, this isn't going to help you much, because this means <vocabulary>bento</vocabulary> or <vocabulary>box lunch</vocabulary>. Chances are, though, you know the word \"bento\" from English. So, if you read this word (which you should be able to) you can figure out it's べんとう. If you do that, you can realize this word means <vocabulary>bento</vocabulary> too!",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BC%81%E5%BD%93",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "弁",
-      "id": 984,
-      "reading": "べん"
-    },
-    {
-      "type": "kanji",
-      "value": "当",
-      "id": 571,
-      "reading": "とう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%BC%81%E5%BD%93"
+  }
 }

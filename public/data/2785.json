@@ -1,47 +1,20 @@
 {
   "id": 2785,
   "type": "vocabulary",
-  "characters": "何年",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "何年"
+  },
   "primaryMeaning": "What Year",
+  "meaningMnemonic": "You have the kanji <kanji>what</kanji> and <kanji>year</kanji>, as in: \"<vocabulary>what year</vocabulary> is it?\" \n\nThis also means <vocabulary>how many years</vocabulary> too, depending on the context. As in: \"<vocabulary>How many years</vocabulary> did you play soccer?\"",
+  "primaryReading": "なんねん",
+  "readingMnemonic": "The readings are both the readings you learned with the separate kanji, meaning you should know them. How many years have you been studying kanji now? You should be able to read this one.",
   "otherMeanings": [
     "How Many Years"
   ],
-  "primaryReading": "なんねん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 582,
-      "character": "何",
-      "readings": [
-        "なに",
-        "なん",
-        "か"
-      ]
-    },
-    {
-      "id": 546,
-      "character": "年",
-      "readings": [
-        "ねん",
-        "とし"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You have the kanji <kanji>what</kanji> and <kanji>year</kanji>, as in: \"<vocabulary>what year</vocabulary> is it?\" \n\nThis also means <vocabulary>how many years</vocabulary> too, depending on the context. As in: \"<vocabulary>How many years</vocabulary> did you play soccer?\"",
-  "readingMnemonic": "The readings are both the readings you learned with the separate kanji, meaning you should know them. How many years have you been studying kanji now? You should be able to read this one.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BD%95%E5%B9%B4",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "何",
-      "id": 582,
-      "reading": "なん"
-    },
-    {
-      "type": "kanji",
-      "value": "年",
-      "id": 546,
-      "reading": "ねん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BD%95%E5%B9%B4"
+  }
 }

@@ -1,0 +1,47 @@
+{
+  "id": 3028,
+  "type": "vocabulary",
+  "characters": "全身",
+  "primaryMeaning": "Whole Body",
+  "otherMeanings": [
+    "Entire Body"
+  ],
+  "primaryReading": "ぜんしん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 610,
+      "character": "全",
+      "readings": [
+        "ぜん",
+        "すべ",
+        "まった"
+      ]
+    },
+    {
+      "id": 689,
+      "character": "身",
+      "readings": [
+        "しん",
+        "み"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>all</kanji> of <kanji>somebody</kanji> is someone's <vocabulary>whole body</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%85%A8%E8%BA%AB",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "全",
+      "id": 610,
+      "reading": "ぜん"
+    },
+    {
+      "type": "kanji",
+      "value": "身",
+      "id": 689,
+      "reading": "しん"
+    }
+  ]
+}

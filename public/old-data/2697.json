@@ -1,0 +1,36 @@
+{
+  "id": 2697,
+  "type": "vocabulary",
+  "characters": "見る",
+  "primaryMeaning": "To See",
+  "otherMeanings": [
+    "To Look"
+  ],
+  "primaryReading": "みる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 558,
+      "character": "見",
+      "readings": [
+        "み",
+        "けん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>see</kanji> so the vocab here means <vocabulary>to see</vocabulary> or <vocabulary>to look</vocabulary>.",
+  "readingMnemonic": "The reading for this word is the same as the reading you learned with the kanji (kun'yomi) so you should be able to read this.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A6%8B%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "見",
+      "id": 558,
+      "reading": "み"
+    },
+    {
+      "type": "kana",
+      "value": "る"
+    }
+  ]
+}

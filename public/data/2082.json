@@ -1,34 +1,42 @@
 {
   "id": 2082,
   "type": "kanji",
-  "character": "妃",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "妃"
+  },
+  "primaryReading": "ひ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ひ",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "きさき",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Princess",
   "otherMeanings": [
     "Queen"
   ],
-  "primaryReading": "ひ",
-  "readings": [
-    {
-      "reading": "ひ",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "きさき",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "All of us <kanji>princess</kanji>es and <kanji>queen</kanji>s share a special <reading>hea</reading>t (ひ). When we see another princess or queen that heat passes through us and we nod to one another.",
   "meaningMnemonic": "A <radical>woman</radical> sees herself (<radical>oneself</radical>) as a <kanji>princess</kanji> or a <kanji>queen</kanji>. As women should! ",
-  "vocabularyIds": [
-    7355,
-    7356,
-    7357
-  ],
-  "radicalIds": [
-    19,
-    228
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%A6%83"
+  "readingMnemonic": "All of us <kanji>princess</kanji>es and <kanji>queen</kanji>s share a special <reading>hea</reading>t (ひ). When we see another princess or queen that heat passes through us and we nod to one another.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%A6%83"
+  },
+  "related": {
+    "radicals": [
+      19,
+      228
+    ],
+    "vocabularies": [
+      7355,
+      7356,
+      7357
+    ]
+  }
 }

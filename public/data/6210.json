@@ -1,47 +1,18 @@
 {
   "id": 6210,
   "type": "vocabulary",
-  "characters": "一緒",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "一緒"
+  },
   "primaryMeaning": "Together",
-  "otherMeanings": [],
-  "primaryReading": "いっしょ",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 440,
-      "character": "一",
-      "readings": [
-        "いち",
-        "いつ",
-        "ひと",
-        "かず"
-      ]
-    },
-    {
-      "id": 1699,
-      "character": "緒",
-      "readings": [
-        "しょ",
-        "ちょ",
-        "お"
-      ]
-    }
-  ],
   "meaningMnemonic": "You are <kanji>one</kanji> and <kanji>together</kanji>. If you're together as one, you are <vocabulary>together</vocabulary>.",
+  "primaryReading": "いっしょ",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. The 一 becomes いっ.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%80%E7%B7%92",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "一",
-      "id": 440,
-      "reading": "いっ"
-    },
-    {
-      "type": "kanji",
-      "value": "緒",
-      "id": 1699,
-      "reading": "しょ"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B8%80%E7%B7%92"
+  }
 }

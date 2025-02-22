@@ -1,0 +1,45 @@
+{
+  "id": 5495,
+  "type": "vocabulary",
+  "characters": "徳川",
+  "primaryMeaning": "Tokugawa",
+  "otherMeanings": [
+    "Tokugawa Shogun"
+  ],
+  "primaryReading": "とくがわ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1476,
+      "character": "徳",
+      "readings": [
+        "とく"
+      ]
+    },
+    {
+      "id": 456,
+      "character": "川",
+      "readings": [
+        "かわ",
+        "せん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This is one of those words that makes more sense when you look at the reading. The \"Virtue River\" isn't some virtuous river, it's in fact the <vocabulary>Tokugawa</vocabulary> family name, also known as the <vocabulary>Tokugawa Shogun</vocabulary>. They ran Japan for a while, you know?",
+  "readingMnemonic": "The readings are 徳 and the vocab 川 put together into one word. Once you can read this, you'll know the meaning too, so focus on the reading for this one.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BE%B3%E5%B7%9D",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "徳",
+      "id": 1476,
+      "reading": "とく"
+    },
+    {
+      "type": "kanji",
+      "value": "川",
+      "id": 456,
+      "reading": "がわ"
+    }
+  ]
+}

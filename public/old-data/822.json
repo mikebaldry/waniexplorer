@@ -1,0 +1,37 @@
+{
+  "id": 822,
+  "type": "kanji",
+  "character": "島",
+  "primaryMeaning": "Island",
+  "otherMeanings": [],
+  "primaryReading": "しま",
+  "readings": [
+    {
+      "reading": "しま",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "とう",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "But this <kanji>island</kanji> doesn't only belong to the bird. In fact, the bird shouldn't be on this island, because it belongs to the <reading>She</reading>ep <reading>Ma</reading>ma (しま), who is like Mother Nature but for sheep. The all-powerful Sheep Mama comes to kick the bird off the island, because this place is only for sheep! All hail the Sheep Mama.",
+  "meaningMnemonic": "A <radical>bird</radical> sits upon a <radical>mountain</radical>. If you look at the radicals, the bird is quite large and the mountain quite small. Think of this in the mnemonic as well. The reason the mountain is small is because you can only see the top of it, sticking out of the water. On it is the bird. This small mountain with the bird on it is an <kanji>island</kanji>.",
+  "vocabularyIds": [
+    3344,
+    3616,
+    5496,
+    6020,
+    6648,
+    7537,
+    7634,
+    7874
+  ],
+  "radicalIds": [
+    151,
+    20
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%B3%B6"
+}

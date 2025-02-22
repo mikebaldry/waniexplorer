@@ -1,0 +1,43 @@
+{
+  "id": 3706,
+  "type": "vocabulary",
+  "characters": "残業",
+  "primaryMeaning": "Overtime",
+  "otherMeanings": [],
+  "primaryReading": "ざんぎょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 912,
+      "character": "残",
+      "readings": [
+        "ざん",
+        "のこ"
+      ]
+    },
+    {
+      "id": 756,
+      "character": "業",
+      "readings": [
+        "ぎょう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>remainder</kanji> of time that you work at the ol' <kanji>business</kanji> is extra time that you're working (above the normal work hours). This is <vocabulary>overtime</vocabulary>!",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%AE%8B%E6%A5%AD",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "残",
+      "id": 912,
+      "reading": "ざん"
+    },
+    {
+      "type": "kanji",
+      "value": "業",
+      "id": 756,
+      "reading": "ぎょう"
+    }
+  ]
+}

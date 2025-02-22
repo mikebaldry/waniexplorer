@@ -1,0 +1,37 @@
+{
+  "id": 4146,
+  "type": "vocabulary",
+  "characters": "許す",
+  "primaryMeaning": "To Permit",
+  "otherMeanings": [
+    "To Forgive",
+    "To Allow"
+  ],
+  "primaryReading": "ゆるす",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1050,
+      "character": "許",
+      "readings": [
+        "きょ",
+        "ゆる"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>permit</kanji> so the verb vocab version is <vocabulary>to permit</vocabulary>. It also means <vocabulary>to forgive</vocabulary>, in that \"I'll permit it this time... but only this time.\" Look out for 許さない in TV shows, too. It means \"I won't permit this!\" or \"I won't forgive you!\"",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: I'm going to allow it. <reading>You're</reading> (ゆる) allowed to do it this one time, okay?",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A8%B1%E3%81%99",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "許",
+      "id": 1050,
+      "reading": "ゆる"
+    },
+    {
+      "type": "kana",
+      "value": "す"
+    }
+  ]
+}

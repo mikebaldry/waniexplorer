@@ -1,36 +1,20 @@
 {
   "id": 7171,
   "type": "vocabulary",
-  "characters": "貼る",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "貼る"
+  },
   "primaryMeaning": "To Paste",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>paste</kanji> so the verb vocab is <vocabulary>to paste</vocabulary> (or <vocabulary>to stick</vocabulary>).",
+  "primaryReading": "はる",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
   "otherMeanings": [
     "To Stick"
   ],
-  "primaryReading": "はる",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2015,
-      "character": "貼",
-      "readings": [
-        "は",
-        "ちょう"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>paste</kanji> so the verb vocab is <vocabulary>to paste</vocabulary> (or <vocabulary>to stick</vocabulary>).",
-  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%B2%BC%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "貼",
-      "id": 2015,
-      "reading": "は"
-    },
-    {
-      "type": "kana",
-      "value": "る"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%B2%BC%E3%82%8B"
+  }
 }

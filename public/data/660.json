@@ -1,61 +1,69 @@
 {
   "id": 660,
   "type": "kanji",
-  "character": "家",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "家"
+  },
+  "primaryReading": "いえ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "いえ",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "や",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "うち",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "か",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "け",
+      "type": "onyomi"
+    }
+  ],
   "primaryMeaning": "House",
   "otherMeanings": [
     "Home"
   ],
-  "primaryReading": "いえ",
-  "readings": [
-    {
-      "reading": "いえ",
-      "primary": true,
-      "type": "kunyomi"
-    },
-    {
-      "reading": "や",
-      "primary": false,
-      "type": "kunyomi"
-    },
-    {
-      "reading": "うち",
-      "primary": false,
-      "type": "kunyomi"
-    },
-    {
-      "reading": "か",
-      "primary": false,
-      "type": "onyomi"
-    },
-    {
-      "reading": "け",
-      "primary": false,
-      "type": "onyomi"
-    }
-  ],
-  "readingMnemonic": "What do you do in your <kanji>house</kanji>? You <reading>ea</reading>t <reading>e</reading>ggs (いえ), that's what. You eat eggs three times a day, every day. You really love eating eggs in your <kanji>home</kanji>!",
   "meaningMnemonic": "The <radical>house</radical> radical makes up the <kanji>house</kanji> kanji! Pretty easy. This kanji is also used to mean <kanji>home</kanji>, so try to remember that too.",
-  "vocabularyIds": [
-    2954,
-    2955,
-    3090,
-    3321,
-    3361,
-    3908,
-    3933,
-    4067,
-    4683,
-    4873,
-    5697,
-    6447,
-    7188,
-    7657,
-    7712,
-    8702
-  ],
-  "radicalIds": [
-    398
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%AE%B6"
+  "readingMnemonic": "What do you do in your <kanji>house</kanji>? You <reading>ea</reading>t <reading>e</reading>ggs (いえ), that's what. You eat eggs three times a day, every day. You really love eating eggs in your <kanji>home</kanji>!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%AE%B6"
+  },
+  "related": {
+    "radicals": [
+      398
+    ],
+    "vocabularies": [
+      2954,
+      2955,
+      3090,
+      3321,
+      3361,
+      3908,
+      3933,
+      4067,
+      4683,
+      4873,
+      5697,
+      6447,
+      7188,
+      7657,
+      7712,
+      8702
+    ]
+  }
 }

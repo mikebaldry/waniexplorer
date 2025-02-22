@@ -1,0 +1,46 @@
+{
+  "id": 4373,
+  "type": "vocabulary",
+  "characters": "意外",
+  "primaryMeaning": "Unexpected",
+  "otherMeanings": [
+    "Surprising"
+  ],
+  "primaryReading": "いがい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 811,
+      "character": "意",
+      "readings": [
+        "い"
+      ]
+    },
+    {
+      "id": 521,
+      "character": "外",
+      "readings": [
+        "がい",
+        "そと",
+        "はず"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Something <kanji>outside</kanji> your normal <kanji>idea</kanji> of how things work will come as <vocabulary>unexpected</vocabulary> or <vocabulary>surprising</vocabulary> to you.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%84%8F%E5%A4%96",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "意",
+      "id": 811,
+      "reading": "い"
+    },
+    {
+      "type": "kanji",
+      "value": "外",
+      "id": 521,
+      "reading": "がい"
+    }
+  ]
+}

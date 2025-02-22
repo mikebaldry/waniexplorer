@@ -1,0 +1,32 @@
+{
+  "id": 7559,
+  "type": "vocabulary",
+  "characters": "魔",
+  "primaryMeaning": "Devil",
+  "otherMeanings": [
+    "Demon",
+    "Evil Spirit"
+  ],
+  "primaryReading": "ま",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1945,
+      "character": "魔",
+      "readings": [
+        "ま"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are the same. That means they share meanings as well.",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%AD%94",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "魔",
+      "id": 1945,
+      "reading": "ま"
+    }
+  ]
+}

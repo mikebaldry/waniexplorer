@@ -1,0 +1,49 @@
+{
+  "id": 3181,
+  "type": "vocabulary",
+  "characters": "青葉",
+  "primaryMeaning": "Fresh Leaves",
+  "otherMeanings": [
+    "Greenery",
+    "Young Leaves"
+  ],
+  "primaryReading": "あおば",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 604,
+      "character": "青",
+      "readings": [
+        "せい",
+        "しょう",
+        "あお"
+      ]
+    },
+    {
+      "id": 750,
+      "character": "葉",
+      "readings": [
+        "は",
+        "よう",
+        "ば"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>young</kanji> <kanji>leaf</kanji> is exactly what you'd expect, although most people usually just call them <vocabulary>fresh leaves</vocabulary>.",
+  "readingMnemonic": "The readings for the kanji in this word are the kun'yomi readings. Since you've already seen the word 青, hopefully you can just combine it with 葉 (you learned the reading for this part with the kanji). Be sure to pay attention to the rendaku, though. は goes to ば in this word, making it <reading>あおば</reading>.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9D%92%E8%91%89",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "青",
+      "id": 604,
+      "reading": "あお"
+    },
+    {
+      "type": "kanji",
+      "value": "葉",
+      "id": 750,
+      "reading": "ば"
+    }
+  ]
+}

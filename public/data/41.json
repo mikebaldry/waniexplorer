@@ -1,12 +1,15 @@
 {
   "id": 41,
   "type": "radical",
-  "primaryMeaning": "Hand",
-  "otherMeanings": [],
-  "character": {
+  "level": 2,
+  "characters": {
     "type": "text",
     "value": "手"
   },
-  "meaningMnemonic": "This one's a little tough to picture, but I believe in you. The barb in the middle is the wrist/arm. Then, there are four regular fingers coming off of it and then one big thumb (the slide radical at the top). So you have four fingers, a thumb, and a wrist. This is what makes up your crazy looking <radical>hand</radical>.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/hand"
+  "primaryMeaning": "Hand",
+  "otherMeanings": [],
+  "meaningMnemonic": "This is the <radical>hand</radical> radical. If you look at the palm of your right hand, the lines in it probably kinda look like the lines in 手. Sure it's not a perfect match, and everyone's got different hands, but basically this radical looks like the lines in your hand. \n\nYou could also think of the horizontal lines in 手 as fingers. That would make for a pretty alien-looking hand, but still a hand… of sorts…",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/hand"
+  }
 }

@@ -1,52 +1,22 @@
 {
   "id": 7497,
   "type": "vocabulary",
-  "characters": "保持する",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "保持する"
+  },
   "primaryMeaning": "To Keep",
+  "meaningMnemonic": "This is the verb version of 保持 (keep), so this means <vocabulary>to keep</vocabulary>, <vocabulary>to hold</vocabulary>, or <vocabulary>to maintain</vocabulary>.\n\nNote that this is a formal word that's commonly used in professional or official contexts.",
+  "primaryReading": "ほじする",
+  "readingMnemonic": "The reading is the same as 保持, so if you know that word's reading, you know this one too.",
   "otherMeanings": [
     "To Hold",
     "To Maintain",
     "To Retain"
   ],
-  "primaryReading": "ほじする",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 983,
-      "character": "保",
-      "readings": [
-        "ほ",
-        "たも"
-      ]
-    },
-    {
-      "id": 727,
-      "character": "持",
-      "readings": [
-        "じ",
-        "も"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This is the verb version of 保持 (keep), so this means <vocabulary>to keep</vocabulary>, <vocabulary>to hold</vocabulary>, or <vocabulary>to maintain</vocabulary>.\n\nNote that this is a formal word that's commonly used in professional or official contexts.",
-  "readingMnemonic": "The reading is the same as 保持, so if you know that word's reading, you know this one too.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BF%9D%E6%8C%81%E3%81%99%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "保",
-      "id": 983,
-      "reading": "ほ"
-    },
-    {
-      "type": "kanji",
-      "value": "持",
-      "id": 727,
-      "reading": "じ"
-    },
-    {
-      "type": "kana",
-      "value": "する"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BF%9D%E6%8C%81%E3%81%99%E3%82%8B"
+  }
 }

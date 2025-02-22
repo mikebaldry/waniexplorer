@@ -1,45 +1,18 @@
 {
   "id": 7908,
   "type": "vocabulary",
-  "characters": "密猟",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "密猟"
+  },
   "primaryMeaning": "Poaching",
-  "otherMeanings": [],
-  "primaryReading": "みつりょう",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1505,
-      "character": "密",
-      "readings": [
-        "みつ",
-        "ひそ"
-      ]
-    },
-    {
-      "id": 2184,
-      "character": "猟",
-      "readings": [
-        "りょう",
-        "かり",
-        "か"
-      ]
-    }
-  ],
   "meaningMnemonic": "<kanji>Hunting</kanji> in <kanji>secrecy</kanji> is only done through illegal <vocabulary>poaching</vocabulary>. If you weren't poaching protected animals you wouldn't have to do it secretly. ",
+  "primaryReading": "みつりょう",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AF%86%E7%8C%9F",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "密",
-      "id": 1505,
-      "reading": "みつ"
-    },
-    {
-      "type": "kanji",
-      "value": "猟",
-      "id": 2184,
-      "reading": "りょう"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%AF%86%E7%8C%9F"
+  }
 }

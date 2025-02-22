@@ -1,0 +1,42 @@
+{
+  "id": 8611,
+  "type": "vocabulary",
+  "characters": "寡婦",
+  "primaryMeaning": "Widow",
+  "otherMeanings": [],
+  "primaryReading": "かふ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2437,
+      "character": "寡",
+      "readings": [
+        "か"
+      ]
+    },
+    {
+      "id": 1362,
+      "character": "婦",
+      "readings": [
+        "ふ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>widow</kanji>ed <kanji>wife</kanji> is a <vocabulary>widow</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AF%A1%E5%A9%A6",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "寡",
+      "id": 2437,
+      "reading": "か"
+    },
+    {
+      "type": "kanji",
+      "value": "婦",
+      "id": 1362,
+      "reading": "ふ"
+    }
+  ]
+}

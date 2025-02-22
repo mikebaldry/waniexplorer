@@ -1,32 +1,40 @@
 {
   "id": 1687,
   "type": "kanji",
-  "character": "傾",
-  "primaryMeaning": "Lean",
-  "otherMeanings": [],
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "傾"
+  },
   "primaryReading": "けい",
   "readings": [
     {
-      "reading": "けい",
       "primary": true,
+      "reading": "けい",
       "type": "onyomi"
     },
     {
-      "reading": "かたむ",
       "primary": false,
+      "reading": "かたむ",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "To get the geoduck to <kanji>lean</kanji> you put a piece of <reading>ca</reading>ke (けい) on one of its sides.",
+  "primaryMeaning": "Lean",
+  "otherMeanings": [],
   "meaningMnemonic": "You <radical>change</radical> this <radical>geoduck</radical> because you want it to <kanji>lean</kanji>. Right now it's standing up straight, but you want it to lean to one side instead. ",
-  "vocabularyIds": [
-    6182,
-    6183,
-    6342
-  ],
-  "radicalIds": [
-    311,
-    184
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%82%BE"
+  "readingMnemonic": "To get the geoduck to <kanji>lean</kanji> you put a piece of <reading>ca</reading>ke (けい) on one of its sides.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%82%BE"
+  },
+  "related": {
+    "radicals": [
+      311,
+      184
+    ],
+    "vocabularies": [
+      6182,
+      6183,
+      6342
+    ]
+  }
 }

@@ -1,0 +1,48 @@
+{
+  "id": 7482,
+  "type": "vocabulary",
+  "characters": "車両",
+  "primaryMeaning": "Railroad Car",
+  "otherMeanings": [
+    "Vehicle",
+    "Train Car",
+    "Railway Carriage",
+    "Railcar"
+  ],
+  "primaryReading": "しゃりょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 562,
+      "character": "車",
+      "readings": [
+        "しゃ",
+        "くるま"
+      ]
+    },
+    {
+      "id": 609,
+      "character": "両",
+      "readings": [
+        "りょう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>car</kanji> with more cars on <kanji>both</kanji> sides is a car that hooks into other cars... specifically other <vocabulary>railroad car</vocabulary>s. They have hooks on both sides, they hook into other cars, and they fit all the requirements of this vocab word's kanji.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%BB%8A%E4%B8%A1",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "車",
+      "id": 562,
+      "reading": "しゃ"
+    },
+    {
+      "type": "kanji",
+      "value": "両",
+      "id": 609,
+      "reading": "りょう"
+    }
+  ]
+}

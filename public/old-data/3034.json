@@ -1,0 +1,49 @@
+{
+  "id": 3034,
+  "type": "vocabulary",
+  "characters": "場合",
+  "primaryMeaning": "Case",
+  "otherMeanings": [
+    "Circumstance",
+    "Situation"
+  ],
+  "primaryReading": "ばあい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 694,
+      "character": "場",
+      "readings": [
+        "じょう",
+        "ば"
+      ]
+    },
+    {
+      "id": 852,
+      "character": "合",
+      "readings": [
+        "ごう",
+        "がっ",
+        "あ",
+        "あい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "What <kanji>location</kanji> <kanji>suit</kanji>s a situation the best? That always depends on the <vocabulary>case</vocabulary> or <vocabulary>circumstance</vocabulary>. You can't know the suitability of the location until you have all the facts about the circumstances.",
+  "readingMnemonic": "This word uses the kun'yomi readings for both kanji. You haven't learned this kun'yomi reading for 合 yet, so here's a mnemonic to help you:\n\n To know exactly what <vocabulary>case</vocabulary> or <vocabulary>circumstance</vocabulary> you're dealing with, you keep a close <reading>eye</reading> (あい) on things. Imagine your eye really close up to the circumstances, trying to figuring out exactly what's going on.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A0%B4%E5%90%88",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "場",
+      "id": 694,
+      "reading": "ば"
+    },
+    {
+      "type": "kanji",
+      "value": "合",
+      "id": 852,
+      "reading": "あい"
+    }
+  ]
+}

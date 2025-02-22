@@ -1,67 +1,23 @@
 {
   "id": 8709,
   "type": "vocabulary",
-  "characters": "一昨日",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "一昨日"
+  },
   "primaryMeaning": "Day Before Last",
+  "meaningMnemonic": "Remember how you learned that 昨日 means \"yesterday?\" Well <kanji>one</kanji> day <kanji>previous</kanji> to that <kanji>day</kanji> is the <vocabulary>day before last</vocabulary>. ",
+  "primaryReading": "おととい",
+  "readingMnemonic": "This reading is an exception. Let's use this mnemonic to remember it:\n\nThe <vocabulary>day before last</vocabulary> you bought an <reading>\"O\" toe toy</reading> (おととい). It's a kid's toy in the shape of the letter O that you put on your toe. You know it was the day before last because you wore it all yesterday, and now today your toe is sore. If only you could go back to the <vocabulary>day before yesterday</vocabulary> to tell yourself not to buy that O toe toy! Or at least not to wear it for the whole next day!",
   "otherMeanings": [
     "Day Before Yesterday"
   ],
-  "primaryReading": "おととい",
   "otherReadings": [
     "いっさくじつ",
     "おとつい"
   ],
-  "kanji": [
-    {
-      "id": 440,
-      "character": "一",
-      "readings": [
-        "いち",
-        "いつ",
-        "ひと",
-        "かず"
-      ]
-    },
-    {
-      "id": 947,
-      "character": "昨",
-      "readings": [
-        "さく"
-      ]
-    },
-    {
-      "id": 476,
-      "character": "日",
-      "readings": [
-        "にち",
-        "じつ",
-        "ひ",
-        "か",
-        "び"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Remember how you learned that 昨日 means \"yesterday?\" Well <kanji>one</kanji> day <kanji>previous</kanji> to that <kanji>day</kanji> is the <vocabulary>day before last</vocabulary>. ",
-  "readingMnemonic": "This reading is an exception. Let's use this mnemonic to remember it:\n\nThe <vocabulary>day before last</vocabulary> you bought an <reading>\"O\" toe toy</reading> (おととい). It's a kid's toy in the shape of the letter O that you put on your toe. You know it was the day before last because you wore it all yesterday, and now today your toe is sore. If only you could go back to the <vocabulary>day before yesterday</vocabulary> to tell yourself not to buy that O toe toy! Or at least not to wear it for the whole next day!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%80%E6%98%A8%E6%97%A5",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "一",
-      "id": 440,
-      "reading": null
-    },
-    {
-      "type": "kanji",
-      "value": "昨",
-      "id": 947,
-      "reading": null
-    },
-    {
-      "type": "kanji",
-      "value": "日",
-      "id": 476,
-      "reading": null
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B8%80%E6%98%A8%E6%97%A5"
+  }
 }

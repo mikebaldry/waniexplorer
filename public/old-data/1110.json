@@ -1,0 +1,40 @@
+{
+  "id": 1110,
+  "type": "kanji",
+  "character": "倒",
+  "primaryMeaning": "Overthrow",
+  "otherMeanings": [
+    "Collapse"
+  ],
+  "primaryReading": "とう",
+  "readings": [
+    {
+      "reading": "とう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "たお",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Where do leaders get <kanji>overthrow</kanji>n the most? In <reading>とう</reading>きょう. Just think back in Japanese history, back when everyone was at war with one another. People were taking over and getting overthrown and then that guy gets overthrown and then THAT guy gets overthrown. Basically, it used to be hard to stay a leader in とうきょう.",
+  "meaningMnemonic": "Someone stabbed the <radical>leader</radical> <radical>mole</radical> with a <radical>knife</radical> to <kanji>overthrow</kanji> it. Now there is a new mole leader. Because that's what happens when you overthrow someone—someone else needs to take over. In this case, a vengeful mole.",
+  "vocabularyIds": [
+    4261,
+    4262,
+    4263,
+    4480,
+    4843,
+    4846,
+    5222,
+    8335
+  ],
+  "radicalIds": [
+    75,
+    274,
+    128
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%80%92"
+}

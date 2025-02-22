@@ -1,0 +1,38 @@
+{
+  "id": 3417,
+  "type": "vocabulary",
+  "characters": "今すぐ",
+  "primaryMeaning": "At Once",
+  "otherMeanings": [
+    "Right Now",
+    "Immediately",
+    "Right Away"
+  ],
+  "primaryReading": "いますぐ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 497,
+      "character": "今",
+      "readings": [
+        "こん",
+        "いま"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You'll have to learn this word in two parts. You already know the meaning of 今 because of the kanji, which means \"now.\" The すぐ part, however, is a new word, meaning \"soon.\" すぐ and \"soon\" even start with a similar sound, so maybe that can help you remember this! If you put 今 and すぐ together, you get \"now soon.\" Put in better English, that's <vocabulary>at once</vocabulary> or <vocabulary>right now</vocabulary>.",
+  "readingMnemonic": "Since you already know the vocab word 今 (read いま), you should be able to read this word as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BB%8A%E3%81%99%E3%81%90",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "今",
+      "id": 497,
+      "reading": "いま"
+    },
+    {
+      "type": "kana",
+      "value": "すぐ"
+    }
+  ]
+}

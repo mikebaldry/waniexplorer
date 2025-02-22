@@ -1,0 +1,32 @@
+{
+  "id": 7350,
+  "type": "vocabulary",
+  "characters": "勘",
+  "primaryMeaning": "Intuition",
+  "otherMeanings": [
+    "Perception",
+    "Hunch"
+  ],
+  "primaryReading": "かん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2081,
+      "character": "勘",
+      "readings": [
+        "かん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well. Also could mean <vocabulary>perception</vocabulary> or <vocabulary>hunch</vocabulary>.",
+  "readingMnemonic": "The reading is the one you learned from the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8B%98",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "勘",
+      "id": 2081,
+      "reading": "かん"
+    }
+  ]
+}

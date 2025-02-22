@@ -1,28 +1,36 @@
 {
   "id": 1927,
   "type": "kanji",
-  "character": "塾",
-  "primaryMeaning": "Cram School",
-  "otherMeanings": [],
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "塾"
+  },
   "primaryReading": "じゅく",
   "readings": [
     {
-      "reading": "じゅく",
       "primary": true,
+      "reading": "じゅく",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "Not only does your <kanji>cram school</kanji> teach kids in a circle in the dirt, it also plays music on a <reading>juke</reading>box (じゅく). Yes, a jukebox. They believe a jukebox's tunes help with cramming.",
+  "primaryMeaning": "Cram School",
+  "otherMeanings": [],
   "meaningMnemonic": "You <radical>receive</radical> instruction in a <radical>circle</radical> in the <radical>dirt</radical>. Where are you? <kanji>Cram school</kanji>!",
-  "vocabularyIds": [
-    6901,
-    6902,
-    6903
-  ],
-  "radicalIds": [
-    345,
-    223,
-    17
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%A1%BE"
+  "readingMnemonic": "Not only does your <kanji>cram school</kanji> teach kids in a circle in the dirt, it also plays music on a <reading>juke</reading>box (じゅく). Yes, a jukebox. They believe a jukebox's tunes help with cramming.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%A1%BE"
+  },
+  "related": {
+    "radicals": [
+      345,
+      223,
+      17
+    ],
+    "vocabularies": [
+      6901,
+      6902,
+      6903
+    ]
+  }
 }

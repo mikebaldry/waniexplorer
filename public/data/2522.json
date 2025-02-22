@@ -1,45 +1,18 @@
 {
   "id": 2522,
   "type": "vocabulary",
-  "characters": "五月",
+  "level": 2,
+  "characters": {
+    "type": "text",
+    "value": "五月"
+  },
   "primaryMeaning": "May",
-  "otherMeanings": [],
-  "primaryReading": "ごがつ",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 470,
-      "character": "五",
-      "readings": [
-        "ご",
-        "いつ"
-      ]
-    },
-    {
-      "id": 477,
-      "character": "月",
-      "readings": [
-        "げつ",
-        "がつ",
-        "つき"
-      ]
-    }
-  ],
   "meaningMnemonic": "The moon kanji also represents a month, so when you have five of these months, what month of the year is it? That would be <vocabulary>May</vocabulary>, the greatest month of the year (because it has towel day in it!).",
+  "primaryReading": "ごがつ",
   "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. 月 has two on'yomi readings, but it always uses the がつ reading in the names of the months, so here's a mnemonic to help you remember that:\n\n<vocabulary>May</vocabulary> is when you and your buddies get together to eat <reading>Go</reading>dzilla <reading>guts</reading> (ごがつ). You go hunting for Godzilla just for his delicious guts, and then eat them with your friends. Yummy.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BA%94%E6%9C%88",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "五",
-      "id": 470,
-      "reading": "ご"
-    },
-    {
-      "type": "kanji",
-      "value": "月",
-      "id": 477,
-      "reading": "がつ"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BA%94%E6%9C%88"
+  }
 }

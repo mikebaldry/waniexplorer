@@ -1,0 +1,45 @@
+{
+  "id": 7781,
+  "type": "vocabulary",
+  "characters": "両翼",
+  "primaryMeaning": "Both Wings",
+  "otherMeanings": [
+    "Both Flanks"
+  ],
+  "primaryReading": "りょうよく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 609,
+      "character": "両",
+      "readings": [
+        "りょう"
+      ]
+    },
+    {
+      "id": 1875,
+      "character": "翼",
+      "readings": [
+        "よく",
+        "つばさ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Both</kanji> <kanji>wing</kanji>s are <vocabulary>both wings</vocabulary>! There are two and you have them all!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%A1%E7%BF%BC",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "両",
+      "id": 609,
+      "reading": "りょう"
+    },
+    {
+      "type": "kanji",
+      "value": "翼",
+      "id": 1875,
+      "reading": "よく"
+    }
+  ]
+}

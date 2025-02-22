@@ -1,47 +1,20 @@
 {
   "id": 7457,
   "type": "vocabulary",
-  "characters": "都市",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "都市"
+  },
   "primaryMeaning": "City",
+  "meaningMnemonic": "A <kanji>metropolis</kanji> <kanji>city</kanji> is a <vocabulary>city</vocabulary>. When you're referring to just a plain ol' city, sans name, you can use this word.",
+  "primaryReading": "とし",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Municipality"
   ],
-  "primaryReading": "とし",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 826,
-      "character": "都",
-      "readings": [
-        "と",
-        "つ",
-        "みやこ"
-      ]
-    },
-    {
-      "id": 522,
-      "character": "市",
-      "readings": [
-        "し",
-        "いち"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>metropolis</kanji> <kanji>city</kanji> is a <vocabulary>city</vocabulary>. When you're referring to just a plain ol' city, sans name, you can use this word.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%83%BD%E5%B8%82",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "都",
-      "id": 826,
-      "reading": "と"
-    },
-    {
-      "type": "kanji",
-      "value": "市",
-      "id": 522,
-      "reading": "し"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%83%BD%E5%B8%82"
+  }
 }

@@ -1,0 +1,28 @@
+{
+  "id": 993,
+  "type": "kanji",
+  "character": "冗",
+  "primaryMeaning": "Superfluous",
+  "otherMeanings": [
+    "Unnecessary",
+    "Uselessness"
+  ],
+  "primaryReading": "じょう",
+  "readings": [
+    {
+      "reading": "じょう",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "The only person you know with a <kanji>superfluous</kanji> forehead table is <reading>Joe</reading> (じょう), the ten foot tall, simple farmhand.",
+  "meaningMnemonic": "A <radical>forehead</radical> <radical>table</radical> is completely <kanji>superfluous</kanji>.",
+  "vocabularyIds": [
+    3814
+  ],
+  "radicalIds": [
+    76,
+    177
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%86%97"
+}

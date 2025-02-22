@@ -1,31 +1,39 @@
 {
   "id": 1749,
   "type": "kanji",
-  "character": "兼",
-  "primaryMeaning": "Concurrently",
-  "otherMeanings": [],
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "兼"
+  },
   "primaryReading": "けん",
   "readings": [
     {
-      "reading": "けん",
       "primary": true,
+      "reading": "けん",
       "type": "onyomi"
     },
     {
-      "reading": "か",
       "primary": false,
+      "reading": "か",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "Your entire class finishes <kanji>concurrently</kanji>. You look at your finished result. Wait, that's not the Mona Lisa. You painted <reading>Ken</reading> (けん) the samurai.",
+  "primaryMeaning": "Concurrently",
+  "otherMeanings": [],
   "meaningMnemonic": "The <radical>Mona Lisa</radical> is in front of you. \"You must all paint the Mona Lisa <kanji>concurrently</kanji>,\" says your art class teacher.",
-  "vocabularyIds": [
-    6378,
-    6379,
-    6380
-  ],
-  "radicalIds": [
-    271
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%85%BC"
+  "readingMnemonic": "Your entire class finishes <kanji>concurrently</kanji>. You look at your finished result. Wait, that's not the Mona Lisa. You painted <reading>Ken</reading> (けん) the samurai.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%85%BC"
+  },
+  "related": {
+    "radicals": [
+      271
+    ],
+    "vocabularies": [
+      6378,
+      6379,
+      6380
+    ]
+  }
 }

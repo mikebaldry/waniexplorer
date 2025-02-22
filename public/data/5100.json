@@ -1,47 +1,21 @@
 {
   "id": 5100,
   "type": "vocabulary",
-  "characters": "靴屋",
+  "level": 27,
+  "characters": {
+    "type": "text",
+    "value": "靴屋"
+  },
   "primaryMeaning": "Shoe Store",
+  "meaningMnemonic": "A <kanji>shoes</kanji> <kanji>shop</kanji> is one that sells shoes. It's a <vocabulary>shoe store</vocabulary> or <vocabulary>shoe shop</vocabulary>.",
+  "primaryReading": "くつや",
+  "readingMnemonic": "The readings are the ones you learned with the kanji.",
   "otherMeanings": [
     "Shoe Shop",
     "Shoemaker's Shop"
   ],
-  "primaryReading": "くつや",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1337,
-      "character": "靴",
-      "readings": [
-        "くつ",
-        "か"
-      ]
-    },
-    {
-      "id": 724,
-      "character": "屋",
-      "readings": [
-        "や",
-        "おく"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>shoes</kanji> <kanji>shop</kanji> is one that sells shoes. It's a <vocabulary>shoe store</vocabulary> or <vocabulary>shoe shop</vocabulary>.",
-  "readingMnemonic": "The readings are the ones you learned with the kanji.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9D%B4%E5%B1%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "靴",
-      "id": 1337,
-      "reading": "くつ"
-    },
-    {
-      "type": "kanji",
-      "value": "屋",
-      "id": 724,
-      "reading": "や"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%9D%B4%E5%B1%8B"
+  }
 }

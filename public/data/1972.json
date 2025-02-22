@@ -1,32 +1,40 @@
 {
   "id": 1972,
   "type": "kanji",
-  "character": "阻",
-  "primaryMeaning": "Thwart",
-  "otherMeanings": [],
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "阻"
+  },
   "primaryReading": "そ",
   "readings": [
     {
-      "reading": "そ",
       "primary": true,
+      "reading": "そ",
       "type": "onyomi"
     },
     {
-      "reading": "はば",
       "primary": false,
+      "reading": "はば",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "The building next door is being painted, and the top hat building is jealous. It <kanji>thwart</kanji>s the painting plans by dumping <reading>so</reading>ap (そ) out of its windows and onto the painters and the building!",
+  "primaryMeaning": "Thwart",
+  "otherMeanings": [],
   "meaningMnemonic": "If you see a <radical>building</radical> wearing a giant <radical>top hat</radical>, beware! This building is a fake and it's trying to <kanji>thwart</kanji> all of the plans the people in other buildings have.",
-  "vocabularyIds": [
-    7041,
-    7042,
-    7043
-  ],
-  "radicalIds": [
-    176,
-    419
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%98%BB"
+  "readingMnemonic": "The building next door is being painted, and the top hat building is jealous. It <kanji>thwart</kanji>s the painting plans by dumping <reading>so</reading>ap (そ) out of its windows and onto the painters and the building!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%98%BB"
+  },
+  "related": {
+    "radicals": [
+      176,
+      419
+    ],
+    "vocabularies": [
+      7041,
+      7042,
+      7043
+    ]
+  }
 }

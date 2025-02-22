@@ -1,0 +1,45 @@
+{
+  "id": 4677,
+  "type": "vocabulary",
+  "characters": "製品",
+  "primaryMeaning": "Product",
+  "otherMeanings": [
+    "Manufactured Goods"
+  ],
+  "primaryReading": "せいひん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1219,
+      "character": "製",
+      "readings": [
+        "せい"
+      ]
+    },
+    {
+      "id": 967,
+      "character": "品",
+      "readings": [
+        "ひん",
+        "しな"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Manufacture</kanji>d <kanji>goods</kanji> are <vocabulary>manufactured goods</vocabulary>. What does that end up being? A <vocabulary>product</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A3%BD%E5%93%81",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "製",
+      "id": 1219,
+      "reading": "せい"
+    },
+    {
+      "type": "kanji",
+      "value": "品",
+      "id": 967,
+      "reading": "ひん"
+    }
+  ]
+}

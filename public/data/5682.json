@@ -1,46 +1,20 @@
 {
   "id": 5682,
   "type": "vocabulary",
-  "characters": "蒸気",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "蒸気"
+  },
   "primaryMeaning": "Steam",
+  "meaningMnemonic": "<kanji>Steam</kanji> <kanji>energy</kanji> is <vocabulary>steam</vocabulary> or <vocabulary>vapor</vocabulary>.",
+  "primaryReading": "じょうき",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Vapor"
   ],
-  "primaryReading": "じょうき",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1539,
-      "character": "蒸",
-      "readings": [
-        "じょう",
-        "む"
-      ]
-    },
-    {
-      "id": 548,
-      "character": "気",
-      "readings": [
-        "き",
-        "け"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Steam</kanji> <kanji>energy</kanji> is <vocabulary>steam</vocabulary> or <vocabulary>vapor</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%92%B8%E6%B0%97",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "蒸",
-      "id": 1539,
-      "reading": "じょう"
-    },
-    {
-      "type": "kanji",
-      "value": "気",
-      "id": 548,
-      "reading": "き"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%92%B8%E6%B0%97"
+  }
 }

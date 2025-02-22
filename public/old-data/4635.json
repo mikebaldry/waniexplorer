@@ -1,0 +1,47 @@
+{
+  "id": 4635,
+  "type": "vocabulary",
+  "characters": "優勝",
+  "primaryMeaning": "Victory",
+  "otherMeanings": [
+    "Championship"
+  ],
+  "primaryReading": "ゆうしょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1206,
+      "character": "優",
+      "readings": [
+        "ゆう",
+        "やさ",
+        "すぐ"
+      ]
+    },
+    {
+      "id": 738,
+      "character": "勝",
+      "readings": [
+        "しょう",
+        "か"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>superior</kanji> person <kanji>win</kanji>s. They will win the <vocabulary>championship</vocabulary> and be able to claim <vocabulary>victory</vocabulary> over all others.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%84%AA%E5%8B%9D",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "優",
+      "id": 1206,
+      "reading": "ゆう"
+    },
+    {
+      "type": "kanji",
+      "value": "勝",
+      "id": 738,
+      "reading": "しょう"
+    }
+  ]
+}

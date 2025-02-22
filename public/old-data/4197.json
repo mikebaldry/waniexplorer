@@ -1,0 +1,44 @@
+{
+  "id": 4197,
+  "type": "vocabulary",
+  "characters": "信徒",
+  "primaryMeaning": "Believer",
+  "otherMeanings": [
+    "Follower"
+  ],
+  "primaryReading": "しんと",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 940,
+      "character": "信",
+      "readings": [
+        "しん"
+      ]
+    },
+    {
+      "id": 1080,
+      "character": "徒",
+      "readings": [
+        "と"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>junior</kanji> <kanji>believe</kanji>r is a <vocabulary>believer</vocabulary> or <vocabulary>follower</vocabulary>. They certainly aren't the leader or anything because of their junior status, but at least they're there, and at least they're believing. Oh, and excuse me, may I take a moment of your time? I'd like to tell you about the glory that is the Crabigator....",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BF%A1%E5%BE%92",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "信",
+      "id": 940,
+      "reading": "しん"
+    },
+    {
+      "type": "kanji",
+      "value": "徒",
+      "id": 1080,
+      "reading": "と"
+    }
+  ]
+}

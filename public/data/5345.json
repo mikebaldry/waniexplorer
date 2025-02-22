@@ -1,45 +1,18 @@
 {
   "id": 5345,
   "type": "vocabulary",
-  "characters": "盗作",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "盗作"
+  },
   "primaryMeaning": "Plagiarism",
-  "otherMeanings": [],
-  "primaryReading": "とうさく",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1442,
-      "character": "盗",
-      "readings": [
-        "とう",
-        "ぬす"
-      ]
-    },
-    {
-      "id": 584,
-      "character": "作",
-      "readings": [
-        "さく",
-        "さ",
-        "つく"
-      ]
-    }
-  ],
   "meaningMnemonic": "<kanji>Steal</kanji> what other people <kanji>make</kanji>? Wow. Way to go. That is <vocabulary>plagiarism</vocabulary>.",
+  "primaryReading": "とうさく",
   "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%9B%97%E4%BD%9C",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "盗",
-      "id": 1442,
-      "reading": "とう"
-    },
-    {
-      "type": "kanji",
-      "value": "作",
-      "id": 584,
-      "reading": "さく"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%9B%97%E4%BD%9C"
+  }
 }

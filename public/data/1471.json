@@ -1,26 +1,34 @@
 {
   "id": 1471,
   "type": "kanji",
-  "character": "陸",
-  "primaryMeaning": "Land",
-  "otherMeanings": [],
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "陸"
+  },
   "primaryReading": "りく",
   "readings": [
     {
-      "reading": "りく",
       "primary": true,
+      "reading": "りく",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "The <kanji>land</kanji> around your womb building will, unfortunately, <reading>reek</reading> (りく) though.\n",
+  "primaryMeaning": "Land",
+  "otherMeanings": [],
   "meaningMnemonic": "A <radical>building</radical> made from a <radical>womb</radical> must be placed upon the <kanji>land</kanji>.",
-  "vocabularyIds": [
-    5481,
-    5482
-  ],
-  "radicalIds": [
-    176,
-    222
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%99%B8"
+  "readingMnemonic": "The <kanji>land</kanji> around your womb building will, unfortunately, <reading>reek</reading> (りく) though.\n",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%99%B8"
+  },
+  "related": {
+    "radicals": [
+      176,
+      222
+    ],
+    "vocabularies": [
+      5481,
+      5482
+    ]
+  }
 }

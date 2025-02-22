@@ -1,0 +1,37 @@
+{
+  "id": 1442,
+  "type": "kanji",
+  "character": "盗",
+  "primaryMeaning": "Steal",
+  "otherMeanings": [],
+  "primaryReading": "とう",
+  "readings": [
+    {
+      "reading": "とう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ぬす",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You <kanji>steal</kanji> this plate from a <reading>とう</reading>きょう restaurant, so after you steal it, picture yourself running through the streets of とうきょう as you lose your pursuers.",
+  "meaningMnemonic": "The <radical>next</radical> <radical>plate</radical> is the one you will <kanji>steal</kanji>. This one would be too obvious, better wait for the next one.",
+  "vocabularyIds": [
+    5319,
+    5343,
+    5344,
+    5345,
+    5346,
+    6103,
+    8411,
+    8483
+  ],
+  "radicalIds": [
+    278,
+    84
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%9B%97"
+}

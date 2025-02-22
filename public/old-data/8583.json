@@ -1,0 +1,52 @@
+{
+  "id": 8583,
+  "type": "vocabulary",
+  "characters": "一遍に",
+  "primaryMeaning": "At Once",
+  "otherMeanings": [
+    "At One Time"
+  ],
+  "primaryReading": "いっぺんに",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 440,
+      "character": "一",
+      "readings": [
+        "いち",
+        "いつ",
+        "ひと",
+        "かず"
+      ]
+    },
+    {
+      "id": 2345,
+      "character": "遍",
+      "readings": [
+        "へん",
+        "あまね"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Remember how you learned that 一遍 means \"once?\" Well if you add に and make it an adverb, it becomes <vocabulary>at once</vocabulary>.",
+  "readingMnemonic": "This has the same reading you learned with 一遍 so you should be able to remember this too!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%80%E9%81%8D%E3%81%AB",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "一",
+      "id": 440,
+      "reading": "いっ"
+    },
+    {
+      "type": "kanji",
+      "value": "遍",
+      "id": 2345,
+      "reading": "ぺん"
+    },
+    {
+      "type": "kana",
+      "value": "に"
+    }
+  ]
+}

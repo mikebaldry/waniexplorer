@@ -1,0 +1,44 @@
+{
+  "id": 6066,
+  "type": "vocabulary",
+  "characters": "応募",
+  "primaryMeaning": "Application",
+  "otherMeanings": [],
+  "primaryReading": "おうぼ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1180,
+      "character": "応",
+      "readings": [
+        "おう",
+        "こた"
+      ]
+    },
+    {
+      "id": 1648,
+      "character": "募",
+      "readings": [
+        "ぼ",
+        "つの"
+      ]
+    }
+  ],
+  "meaningMnemonic": "I <kanji>respond</kanji> to your <kanji>recruit</kanji>ment with this <vocabulary>application</vocabulary> to try and join your group.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BF%9C%E5%8B%9F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "応",
+      "id": 1180,
+      "reading": "おう"
+    },
+    {
+      "type": "kanji",
+      "value": "募",
+      "id": 1648,
+      "reading": "ぼ"
+    }
+  ]
+}

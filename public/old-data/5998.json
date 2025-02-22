@@ -1,0 +1,42 @@
+{
+  "id": 5998,
+  "type": "vocabulary",
+  "characters": "医療",
+  "primaryMeaning": "Medical Treatment",
+  "otherMeanings": [],
+  "primaryReading": "いりょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 681,
+      "character": "医",
+      "readings": [
+        "い"
+      ]
+    },
+    {
+      "id": 1631,
+      "character": "療",
+      "readings": [
+        "りょう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>medicine</kanji> can <kanji>heal</kanji>. This is <vocabulary>medical treatment</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8C%BB%E7%99%82",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "医",
+      "id": 681,
+      "reading": "い"
+    },
+    {
+      "type": "kanji",
+      "value": "療",
+      "id": 1631,
+      "reading": "りょう"
+    }
+  ]
+}

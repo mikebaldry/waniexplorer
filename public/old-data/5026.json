@@ -1,0 +1,54 @@
+{
+  "id": 5026,
+  "type": "vocabulary",
+  "characters": "間抜け",
+  "primaryMeaning": "Idiot",
+  "otherMeanings": [
+    "Dumb"
+  ],
+  "primaryReading": "まぬけ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 701,
+      "character": "間",
+      "readings": [
+        "かん",
+        "けん",
+        "あいだ",
+        "ま"
+      ]
+    },
+    {
+      "id": 1257,
+      "character": "抜",
+      "readings": [
+        "ぬ",
+        "ばつ",
+        "はつ",
+        "はい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You learned that 抜ける is \"to fall out.\" If an <kanji>interval of time</kanji> falls out of you, you're totally spaced out. You won't learn anything and you'll become an <vocabulary>idiot</vocabulary>.\n\n間抜け can refer to both a person who does something foolish and to the foolish actions themselves. It's often used to criticize <vocabulary>dumb</vocabulary> behavior.",
+  "readingMnemonic": "The readings come from the ま reading of 間 and from 抜く.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%96%93%E6%8A%9C%E3%81%91",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "間",
+      "id": 701,
+      "reading": "ま"
+    },
+    {
+      "type": "kanji",
+      "value": "抜",
+      "id": 1257,
+      "reading": "ぬ"
+    },
+    {
+      "type": "kana",
+      "value": "け"
+    }
+  ]
+}

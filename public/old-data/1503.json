@@ -1,0 +1,32 @@
+{
+  "id": 1503,
+  "type": "kanji",
+  "character": "捨",
+  "primaryMeaning": "Throw Away",
+  "otherMeanings": [],
+  "primaryReading": "す",
+  "readings": [
+    {
+      "reading": "す",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "しゃ",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "The number one thing you <kanji>throw away</kanji> while in your cottage is your <reading>su</reading>it (す). Suits just don't fit the cottage life vibe, man. ",
+  "meaningMnemonic": "When you're at your <radical>cottage</radical> the only thing you do with your <radical>fingers</radical> is <kanji>throw away</kanji> things. The cottage is for vacation. And vacation means being as lazy as possible. But you certainly don't want to live in filth, so you have to throw away your trash at least.",
+  "vocabularyIds": [
+    5575,
+    5727,
+    5728
+  ],
+  "radicalIds": [
+    63,
+    433
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%8D%A8"
+}

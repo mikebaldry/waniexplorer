@@ -1,0 +1,59 @@
+{
+  "id": 857,
+  "type": "kanji",
+  "character": "新",
+  "primaryMeaning": "New",
+  "otherMeanings": [],
+  "primaryReading": "しん",
+  "readings": [
+    {
+      "reading": "しん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "あたら",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "あら",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "にい",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You cut down the tree to make room for a <kanji>new</kanji> one, but it falls on your <reading>shin</reading> (しん). ",
+  "meaningMnemonic": "There's a <radical>stand</radical>ing <radical>tree</radical> that you're taking an <radical>axe</radical> to. You're going to cut down this tree to let a <kanji>new</kanji> tree grow.",
+  "vocabularyIds": [
+    3209,
+    3472,
+    3538,
+    3781,
+    3821,
+    4630,
+    4802,
+    5303,
+    5327,
+    6004,
+    6147,
+    6412,
+    6566,
+    6962,
+    6986,
+    7475,
+    7689,
+    8167,
+    8651
+  ],
+  "radicalIds": [
+    55,
+    23,
+    115
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%96%B0"
+}

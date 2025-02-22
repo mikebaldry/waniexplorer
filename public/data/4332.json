@@ -1,60 +1,21 @@
 {
   "id": 4332,
   "type": "vocabulary",
-  "characters": "不思議",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "不思議"
+  },
   "primaryMeaning": "Wonder",
+  "meaningMnemonic": "This is <kanji>not</kanji> what you <kanji>thought</kanji> would happen during your <kanji>deliberation</kanji>. You thought it would be very normal. Instead, it's the opposite. It's full of <vocabulary>wonder</vocabulary> and <vocabulary>mystery</vocabulary>. It's <vocabulary>marvelous</vocabulary>",
+  "primaryReading": "ふしぎ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Mystery",
     "Marvelous"
   ],
-  "primaryReading": "ふしぎ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 563,
-      "character": "不",
-      "readings": [
-        "ふ",
-        "ぶ"
-      ]
-    },
-    {
-      "id": 637,
-      "character": "思",
-      "readings": [
-        "おも",
-        "し"
-      ]
-    },
-    {
-      "id": 1114,
-      "character": "議",
-      "readings": [
-        "ぎ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This is <kanji>not</kanji> what you <kanji>thought</kanji> would happen during your <kanji>deliberation</kanji>. You thought it would be very normal. Instead, it's the opposite. It's full of <vocabulary>wonder</vocabulary> and <vocabulary>mystery</vocabulary>. It's <vocabulary>marvelous</vocabulary>",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%8D%E6%80%9D%E8%AD%B0",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "不",
-      "id": 563,
-      "reading": "ふ"
-    },
-    {
-      "type": "kanji",
-      "value": "思",
-      "id": 637,
-      "reading": "し"
-    },
-    {
-      "type": "kanji",
-      "value": "議",
-      "id": 1114,
-      "reading": "ぎ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B8%8D%E6%80%9D%E8%AD%B0"
+  }
 }

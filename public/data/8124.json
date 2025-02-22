@@ -1,47 +1,20 @@
 {
   "id": 8124,
   "type": "vocabulary",
-  "characters": "疾病",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "疾病"
+  },
   "primaryMeaning": "Illness",
+  "meaningMnemonic": "A <kanji>rapid</kanji> <kanji>sick</kanji>ness is an <vocabulary>illness</vocabulary> or a <vocabulary>disease</vocabulary>.",
+  "primaryReading": "しっぺい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You didn't learn this reading for 病 yet, so here's a mnemonic to help you:\n\nIf you don't treat an <vocabulary>illness</vocabulary> right away you'll end up <reading>pay</reading>ing (ぺい) with your life. And if you don't die, you'll still have to pay a lot for doctor and hospital fees. Yuck.",
   "otherMeanings": [
     "Disease"
   ],
-  "primaryReading": "しっぺい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2244,
-      "character": "疾",
-      "readings": [
-        "しつ",
-        "はや"
-      ]
-    },
-    {
-      "id": 773,
-      "character": "病",
-      "readings": [
-        "びょう",
-        "や",
-        "やまい"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>rapid</kanji> <kanji>sick</kanji>ness is an <vocabulary>illness</vocabulary> or a <vocabulary>disease</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You didn't learn this reading for 病 yet, so here's a mnemonic to help you:\n\nIf you don't treat an <vocabulary>illness</vocabulary> right away you'll end up <reading>pay</reading>ing (ぺい) with your life. And if you don't die, you'll still have to pay a lot for doctor and hospital fees. Yuck.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%96%BE%E7%97%85",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "疾",
-      "id": 2244,
-      "reading": "しっ"
-    },
-    {
-      "type": "kanji",
-      "value": "病",
-      "id": 773,
-      "reading": null
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%96%BE%E7%97%85"
+  }
 }

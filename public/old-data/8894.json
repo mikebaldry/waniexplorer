@@ -1,0 +1,45 @@
+{
+  "id": 8894,
+  "type": "vocabulary",
+  "characters": "挨拶",
+  "primaryMeaning": "Greeting",
+  "otherMeanings": [
+    "Salutation",
+    "Speech"
+  ],
+  "primaryReading": "あいさつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 8882,
+      "character": "挨",
+      "readings": [
+        "あい"
+      ]
+    },
+    {
+      "id": 8883,
+      "character": "拶",
+      "readings": [
+        "さつ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Push open</kanji> the door to the conversation that is going to <kanji>be imminent</kanji> by saying the proper <vocabulary>greeting</vocabulary> or <vocabulary>salutation</vocabulary>. This word might also refer to a short <vocabulary>speech</vocabulary> you give at an event or ceremony.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You've learned them already, so you should be able to read this on your own!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8C%A8%E6%8B%B6",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "挨",
+      "id": 8882,
+      "reading": "あい"
+    },
+    {
+      "type": "kanji",
+      "value": "拶",
+      "id": 8883,
+      "reading": "さつ"
+    }
+  ]
+}

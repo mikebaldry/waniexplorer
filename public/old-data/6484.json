@@ -1,0 +1,46 @@
+{
+  "id": 6484,
+  "type": "vocabulary",
+  "characters": "撤回",
+  "primaryMeaning": "Withdrawal",
+  "otherMeanings": [
+    "Repeal",
+    "Taking Back"
+  ],
+  "primaryReading": "てっかい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1778,
+      "character": "撤",
+      "readings": [
+        "てつ"
+      ]
+    },
+    {
+      "id": 569,
+      "character": "回",
+      "readings": [
+        "かい",
+        "まわ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you do a <kanji>withdrawal</kanji> of something it's like you're <kanji>revolv</kanji>ing back to how things originally were. This is a <vocabulary>withdrawal</vocabulary> or <vocabulary>repeal</vocabulary>. It's <vocabulary>taking back</vocabulary> something you said previously.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Look out for the shortened てつ.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%92%A4%E5%9B%9E",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "撤",
+      "id": 1778,
+      "reading": null
+    },
+    {
+      "type": "kanji",
+      "value": "回",
+      "id": 569,
+      "reading": null
+    }
+  ]
+}

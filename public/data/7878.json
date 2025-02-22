@@ -1,39 +1,22 @@
 {
   "id": 7878,
   "type": "vocabulary",
-  "characters": "怠る",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "怠る"
+  },
   "primaryMeaning": "To Be Negligent",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>neglect</kanji>, so the verb version is <vocabulary>to be negligent</vocabulary> or <vocabulary>to neglect</vocabulary> something.",
+  "primaryReading": "おこたる",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nIf you always seem <vocabulary>to be negligent</vocabulary> to your kids you'll end up with this situation. It's winter and your kid comes home from school covered in snow and sneezing. \"<reading>Oh, coat</reading>... (おこた)\" you say. You didn't give them a coat when they went out today. Maybe if you weren't so negligent that wouldn't have happened.",
   "otherMeanings": [
     "To Neglect",
     "To Shirk",
     "To Be Off One's Guard"
   ],
-  "primaryReading": "おこたる",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2181,
-      "character": "怠",
-      "readings": [
-        "たい",
-        "おこた",
-        "なま"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>neglect</kanji>, so the verb version is <vocabulary>to be negligent</vocabulary> or <vocabulary>to neglect</vocabulary> something.",
-  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nIf you always seem <vocabulary>to be negligent</vocabulary> to your kids you'll end up with this situation. It's winter and your kid comes home from school covered in snow and sneezing. \"<reading>Oh, coat</reading>... (おこた)\" you say. You didn't give them a coat when they went out today. Maybe if you weren't so negligent that wouldn't have happened.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%80%A0%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "怠",
-      "id": 2181,
-      "reading": "おこた"
-    },
-    {
-      "type": "kana",
-      "value": "る"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%80%A0%E3%82%8B"
+  }
 }

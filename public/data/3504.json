@@ -1,38 +1,22 @@
 {
   "id": 3504,
   "type": "vocabulary",
-  "characters": "勝ち",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "勝ち"
+  },
   "primaryMeaning": "Victory",
+  "meaningMnemonic": "You've hopefully seen 勝つ by now, which means \"to win.\" This is a nouny version of that. So, what's the noun version of \"to win?\" It's <vocabulary>a win</vocabulary> or a <vocabulary>victory</vocabulary>.",
+  "primaryReading": "かち",
+  "readingMnemonic": "The reading comes from 勝つ. So as long as you have some understanding of that reading, you should be able to read this one as well. ",
   "otherMeanings": [
     "Win",
     "A Victory",
     "A Win"
   ],
-  "primaryReading": "かち",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 738,
-      "character": "勝",
-      "readings": [
-        "しょう",
-        "か"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You've hopefully seen 勝つ by now, which means \"to win.\" This is a nouny version of that. So, what's the noun version of \"to win?\" It's <vocabulary>a win</vocabulary> or a <vocabulary>victory</vocabulary>.",
-  "readingMnemonic": "The reading comes from 勝つ. So as long as you have some understanding of that reading, you should be able to read this one as well. ",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8B%9D%E3%81%A1",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "勝",
-      "id": 738,
-      "reading": "か"
-    },
-    {
-      "type": "kana",
-      "value": "ち"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%8B%9D%E3%81%A1"
+  }
 }

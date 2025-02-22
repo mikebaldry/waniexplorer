@@ -1,12 +1,15 @@
 {
   "id": 205,
   "type": "radical",
-  "primaryMeaning": "Crab",
-  "otherMeanings": [],
-  "character": {
+  "level": 12,
+  "characters": {
     "type": "text",
     "value": "其"
   },
+  "primaryMeaning": "Crab",
+  "otherMeanings": [],
   "meaningMnemonic": "This looks like the shellfish radical but it's spikier and crazier. Which shelled creature has spikes and pincers? The mighty <radical>crab</radical>!",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/crab"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/crab"
+  }
 }

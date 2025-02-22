@@ -1,0 +1,26 @@
+{
+  "id": 1969,
+  "type": "kanji",
+  "character": "菊",
+  "primaryMeaning": "Chrysanthemum",
+  "otherMeanings": [],
+  "primaryReading": "きく",
+  "readings": [
+    {
+      "reading": "きく",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "If you go to prison for <kanji>chrysanthemum</kanji> picking, everyone in the prison is going to <reading>kick</reading> (きく) you nonstop. You broke the chrysanthemum picking law, so kicking is your punishment. And believe me, you don't want these kicks.",
+  "meaningMnemonic": "If you pick the wrong kind of <radical>flowers</radical>, you'll be put into <radical>prison</radical> with nothing but <radical>rice</radical> to eat. You'll especially want to avoid picking <kanji>chrysanthemums</kanji>. ",
+  "vocabularyIds": [
+    7034
+  ],
+  "radicalIds": [
+    90,
+    14,
+    98
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%8F%8A"
+}

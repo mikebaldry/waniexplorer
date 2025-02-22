@@ -1,45 +1,20 @@
 {
   "id": 3248,
   "type": "vocabulary",
-  "characters": "公共",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "公共"
+  },
   "primaryMeaning": "Public",
+  "meaningMnemonic": "When the <kanji>public</kanji> comes <kanji>together</kanji> you have yourself a nice <vocabulary>community</vocabulary> made up of the <vocabulary>public</vocabulary>.",
+  "primaryReading": "こうきょう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Community"
   ],
-  "primaryReading": "こうきょう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 499,
-      "character": "公",
-      "readings": [
-        "こう"
-      ]
-    },
-    {
-      "id": 778,
-      "character": "共",
-      "readings": [
-        "きょう",
-        "とも"
-      ]
-    }
-  ],
-  "meaningMnemonic": "When the <kanji>public</kanji> comes <kanji>together</kanji> you have yourself a nice <vocabulary>community</vocabulary> made up of the <vocabulary>public</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%85%AC%E5%85%B1",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "公",
-      "id": 499,
-      "reading": "こう"
-    },
-    {
-      "type": "kanji",
-      "value": "共",
-      "id": 778,
-      "reading": "きょう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%85%AC%E5%85%B1"
+  }
 }

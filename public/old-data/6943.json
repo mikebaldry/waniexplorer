@@ -1,0 +1,38 @@
+{
+  "id": 6943,
+  "type": "vocabulary",
+  "characters": "伺い",
+  "primaryMeaning": "Inquiry",
+  "otherMeanings": [
+    "Enquiry",
+    "Question",
+    "Visit"
+  ],
+  "primaryReading": "うかがい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1775,
+      "character": "伺",
+      "readings": [
+        "うかが",
+        "し"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If 伺う is \"to inquire\" or \"to visit\" then the noun version would be a polite way to say <vocabulary>inquiry</vocabulary> or <vocabulary>enquiry</vocabulary>. In other words, a <vocabulary>question</vocabulary>. It can also mean a <vocabulary>visit</vocabulary>.",
+  "readingMnemonic": "The reading comes from 伺う.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BC%BA%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "伺",
+      "id": 1775,
+      "reading": "うかが"
+    },
+    {
+      "type": "kana",
+      "value": "い"
+    }
+  ]
+}

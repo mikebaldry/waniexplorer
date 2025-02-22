@@ -1,61 +1,21 @@
 {
   "id": 4612,
   "type": "vocabulary",
-  "characters": "不文律",
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "不文律"
+  },
   "primaryMeaning": "Unwritten Law",
+  "meaningMnemonic": "This <kanji>not</kanji> <kanji>writing</kanji> <kanji>law</kanji> is a law that hasn't been written down. It's an <vocabulary>unwritten law</vocabulary>, like taking your shoes off and showering every day.",
+  "primaryReading": "ふぶんりつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Unwritten Rule",
     "Common Law"
   ],
-  "primaryReading": "ふぶんりつ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 563,
-      "character": "不",
-      "readings": [
-        "ふ",
-        "ぶ"
-      ]
-    },
-    {
-      "id": 475,
-      "character": "文",
-      "readings": [
-        "ぶん",
-        "もん",
-        "ふみ"
-      ]
-    },
-    {
-      "id": 1197,
-      "character": "律",
-      "readings": [
-        "りつ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This <kanji>not</kanji> <kanji>writing</kanji> <kanji>law</kanji> is a law that hasn't been written down. It's an <vocabulary>unwritten law</vocabulary>, like taking your shoes off and showering every day.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%8D%E6%96%87%E5%BE%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "不",
-      "id": 563,
-      "reading": "ふ"
-    },
-    {
-      "type": "kanji",
-      "value": "文",
-      "id": 475,
-      "reading": "ぶん"
-    },
-    {
-      "type": "kanji",
-      "value": "律",
-      "id": 1197,
-      "reading": "りつ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B8%8D%E6%96%87%E5%BE%8B"
+  }
 }

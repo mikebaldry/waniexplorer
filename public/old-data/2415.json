@@ -1,0 +1,26 @@
+{
+  "id": 2415,
+  "type": "kanji",
+  "character": "姻",
+  "primaryMeaning": "Marry",
+  "otherMeanings": [],
+  "primaryReading": "いん",
+  "readings": [
+    {
+      "reading": "いん",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "You <kanji>marry</kanji> this woman right away and you both go straight to an <reading>inn</reading> (いん) together!",
+  "meaningMnemonic": "You meet a <radical>woman</radical> whose <radical>mouth</radical> is <radical>big</radical> and you instantly know this is the person you want to <kanji>marry</kanji>.",
+  "vocabularyIds": [
+    8528
+  ],
+  "radicalIds": [
+    19,
+    16,
+    18
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%A7%BB"
+}

@@ -1,46 +1,20 @@
 {
   "id": 3635,
   "type": "vocabulary",
-  "characters": "〜放題",
+  "level": 13,
+  "characters": {
+    "type": "text",
+    "value": "〜放題"
+  },
   "primaryMeaning": "As Much As You Want",
+  "meaningMnemonic": "Just <kanji>release</kanji> the <kanji>topic</kanji>... let it go free! Let it do whatever it wants. Sometimes the topic will be food... if that's the case, just release yourself and do whatever you want with the food (eat it all!). If it's drinks, drink it all! This word has to do with doing whatever you want and <vocabulary>as much as you want</vocabulary>. You'll see this attached to \"all you can ____\" words, so look out for them in the next  couple levels.",
+  "primaryReading": "ほうだい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "All You Can"
   ],
-  "primaryReading": "ほうだい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 791,
-      "character": "放",
-      "readings": [
-        "ほう",
-        "はな",
-        "ほう"
-      ]
-    },
-    {
-      "id": 872,
-      "character": "題",
-      "readings": [
-        "だい"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Just <kanji>release</kanji> the <kanji>topic</kanji>... let it go free! Let it do whatever it wants. Sometimes the topic will be food... if that's the case, just release yourself and do whatever you want with the food (eat it all!). If it's drinks, drink it all! This word has to do with doing whatever you want and <vocabulary>as much as you want</vocabulary>. You'll see this attached to \"all you can ____\" words, so look out for them in the next  couple levels.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E3%80%9C%E6%94%BE%E9%A1%8C",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "放",
-      "id": 791,
-      "reading": "ほう"
-    },
-    {
-      "type": "kanji",
-      "value": "題",
-      "id": 872,
-      "reading": "だい"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E3%80%9C%E6%94%BE%E9%A1%8C"
+  }
 }

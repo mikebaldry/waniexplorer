@@ -1,0 +1,47 @@
+{
+  "id": 7504,
+  "type": "vocabulary",
+  "characters": "地球",
+  "primaryMeaning": "The Earth",
+  "otherMeanings": [
+    "The Globe",
+    "Earth"
+  ],
+  "primaryReading": "ちきゅう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 608,
+      "character": "地",
+      "readings": [
+        "ち",
+        "じ"
+      ]
+    },
+    {
+      "id": 832,
+      "character": "球",
+      "readings": [
+        "きゅう",
+        "たま"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>earth</kanji> <kanji>sphere</kanji>! It's where we live and the planet we call home. It's <vocabulary>the earth</vocabulary>!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%9C%B0%E7%90%83",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "地",
+      "id": 608,
+      "reading": "ち"
+    },
+    {
+      "type": "kanji",
+      "value": "球",
+      "id": 832,
+      "reading": "きゅう"
+    }
+  ]
+}

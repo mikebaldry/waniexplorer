@@ -1,27 +1,35 @@
 {
   "id": 1731,
   "type": "kanji",
-  "character": "枠",
-  "primaryMeaning": "Frame",
-  "otherMeanings": [],
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "枠"
+  },
   "primaryReading": "わく",
   "readings": [
     {
-      "reading": "わく",
       "primary": true,
+      "reading": "わく",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "You realize that the <kanji>frame</kanji> isn't half as nice as you thought it was, in fact it's totally <reading>wack</reading> (わく). How disappointing.",
+  "primaryMeaning": "Frame",
+  "otherMeanings": [],
   "meaningMnemonic": "In a <radical>tree</radical> on <radical>nine</radical> branches are some <radical>cross</radical> <kanji>frame</kanji>s. Each cross frame is hung on the branches of the tree. You don’t know who decided to hang the frames there, but you think it might be some new wave art or something. Actually you need a frame, and there are already nine up there, so you decide to take one.",
-  "vocabularyIds": [
-    6310,
-    6311
-  ],
-  "radicalIds": [
-    23,
-    11,
-    15
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%9E%A0"
+  "readingMnemonic": "You realize that the <kanji>frame</kanji> isn't half as nice as you thought it was, in fact it's totally <reading>wack</reading> (わく). How disappointing.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%9E%A0"
+  },
+  "related": {
+    "radicals": [
+      23,
+      11,
+      15
+    ],
+    "vocabularies": [
+      6310,
+      6311
+    ]
+  }
 }

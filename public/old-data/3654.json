@@ -1,0 +1,62 @@
+{
+  "id": 3654,
+  "type": "vocabulary",
+  "characters": "流行歌",
+  "primaryMeaning": "Popular Song",
+  "otherMeanings": [],
+  "primaryReading": "りゅうこうか",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 818,
+      "character": "流",
+      "readings": [
+        "りゅう",
+        "る",
+        "なが"
+      ]
+    },
+    {
+      "id": 580,
+      "character": "行",
+      "readings": [
+        "こう",
+        "ぎょう",
+        "い",
+        "おこな",
+        "ゆ"
+      ]
+    },
+    {
+      "id": 761,
+      "character": "歌",
+      "readings": [
+        "か",
+        "うた"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You know that 流行 refers to a \"trend.\" So, a \"trend\" <kanji>song</kanji> is a <vocabulary>popular song</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B5%81%E8%A1%8C%E6%AD%8C",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "流",
+      "id": 818,
+      "reading": "りゅう"
+    },
+    {
+      "type": "kanji",
+      "value": "行",
+      "id": 580,
+      "reading": "こう"
+    },
+    {
+      "type": "kanji",
+      "value": "歌",
+      "id": 761,
+      "reading": "か"
+    }
+  ]
+}

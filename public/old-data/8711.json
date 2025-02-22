@@ -1,0 +1,74 @@
+{
+  "id": 8711,
+  "type": "vocabulary",
+  "characters": "高等学校",
+  "primaryMeaning": "Senior High School",
+  "otherMeanings": [
+    "High School"
+  ],
+  "primaryReading": "こうとうがっこう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 666,
+      "character": "高",
+      "readings": [
+        "こう",
+        "たか"
+      ]
+    },
+    {
+      "id": 1037,
+      "character": "等",
+      "readings": [
+        "とう",
+        "ひと",
+        "など"
+      ]
+    },
+    {
+      "id": 599,
+      "character": "学",
+      "readings": [
+        "がく",
+        "まな"
+      ]
+    },
+    {
+      "id": 658,
+      "character": "校",
+      "readings": [
+        "こう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Remember when you learned that 高等 means \"high class\" and 学校 means \"school?\" Well put them together and you have <vocabulary>senior high school</vocabulary>! It's the most high class school you've got (unless you go to university, but that's considered to be separate). \n\nFun fact: 高校 is the abbreviation of this word. Neat, right?",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "高",
+      "id": 666,
+      "reading": "こう"
+    },
+    {
+      "type": "kanji",
+      "value": "等",
+      "id": 1037,
+      "reading": "とう"
+    },
+    {
+      "type": "kanji",
+      "value": "学",
+      "id": 599,
+      "reading": "がっ"
+    },
+    {
+      "type": "kanji",
+      "value": "校",
+      "id": 658,
+      "reading": "こう"
+    }
+  ]
+}

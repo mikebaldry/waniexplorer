@@ -1,37 +1,21 @@
 {
   "id": 6594,
   "type": "vocabulary",
-  "characters": "揚げる",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "揚げる"
+  },
   "primaryMeaning": "To Deep Fry",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>hoist</kanji>. But most commonly (and most importantly), this word means <vocabulary>to deep fry</vocabulary>. I guess you can think of it as hoisting that delicious deep-fried food out of the oil.\n\nOf course, 揚げる can also mean <vocabulary>to hoist</vocabulary> (a sail) or <vocabulary>to raise</vocabulary> (a flag) depending on the context.",
+  "primaryReading": "あげる",
+  "readingMnemonic": "Remember the other \"to raise\" vocabs? They are all あげる as well. For example, 上げる is あげる and 挙げる is あげる as well.",
   "otherMeanings": [
     "To Hoist",
     "To Raise"
   ],
-  "primaryReading": "あげる",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1815,
-      "character": "揚",
-      "readings": [
-        "あ",
-        "よう"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>hoist</kanji>. But most commonly (and most importantly), this word means <vocabulary>to deep fry</vocabulary>. I guess you can think of it as hoisting that delicious deep-fried food out of the oil.\n\nOf course, 揚げる can also mean <vocabulary>to hoist</vocabulary> (a sail) or <vocabulary>to raise</vocabulary> (a flag) depending on the context.",
-  "readingMnemonic": "Remember the other \"to raise\" vocabs? They are all あげる as well. For example, 上げる is あげる and 挙げる is あげる as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8F%9A%E3%81%92%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "揚",
-      "id": 1815,
-      "reading": "あ"
-    },
-    {
-      "type": "kana",
-      "value": "げる"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%8F%9A%E3%81%92%E3%82%8B"
+  }
 }

@@ -1,47 +1,20 @@
 {
   "id": 6889,
   "type": "vocabulary",
-  "characters": "西暦",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "西暦"
+  },
   "primaryMeaning": "Christian Era",
+  "meaningMnemonic": "The <kanji>West</kanji>'s <kanji>calendar</kanji> shows the history and time period of \"The West.\" To the Japanese and Chinese, this era is known as the <vocabulary>Christian Era</vocabulary>. It also used to be used as a way to refer to the <vocabulary>Western Calendar</vocabulary>, though we usually just say カレンダー nowadays.",
+  "primaryReading": "せいれき",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Western Calendar"
   ],
-  "primaryReading": "せいれき",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 581,
-      "character": "西",
-      "readings": [
-        "せい",
-        "さい",
-        "にし"
-      ]
-    },
-    {
-      "id": 1921,
-      "character": "暦",
-      "readings": [
-        "れき",
-        "こよみ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The <kanji>West</kanji>'s <kanji>calendar</kanji> shows the history and time period of \"The West.\" To the Japanese and Chinese, this era is known as the <vocabulary>Christian Era</vocabulary>. It also used to be used as a way to refer to the <vocabulary>Western Calendar</vocabulary>, though we usually just say カレンダー nowadays.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A5%BF%E6%9A%A6",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "西",
-      "id": 581,
-      "reading": "せい"
-    },
-    {
-      "type": "kanji",
-      "value": "暦",
-      "id": 1921,
-      "reading": "れき"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%A5%BF%E6%9A%A6"
+  }
 }

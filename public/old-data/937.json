@@ -1,0 +1,30 @@
+{
+  "id": 937,
+  "type": "kanji",
+  "character": "区",
+  "primaryMeaning": "District",
+  "otherMeanings": [
+    "Ward"
+  ],
+  "primaryReading": "く",
+  "readings": [
+    {
+      "reading": "く",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "There is one <kanji>district</kanji> you're interested in, and that's the <reading>coo</reading>kie (く) district.",
+  "meaningMnemonic": "This <radical>cage</radical> with <radical>treasure</radical> in it is actually a map of the <kanji>district</kanji> the treasure is in.",
+  "vocabularyIds": [
+    3740,
+    3741,
+    3742,
+    4559
+  ],
+  "radicalIds": [
+    217,
+    31
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%8C%BA"
+}

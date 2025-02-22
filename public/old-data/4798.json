@@ -1,0 +1,46 @@
+{
+  "id": 4798,
+  "type": "vocabulary",
+  "characters": "構成",
+  "primaryMeaning": "Composition",
+  "otherMeanings": [
+    "Structure"
+  ],
+  "primaryReading": "こうせい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1263,
+      "character": "構",
+      "readings": [
+        "こう",
+        "かま"
+      ]
+    },
+    {
+      "id": 780,
+      "character": "成",
+      "readings": [
+        "せい",
+        "な"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you <kanji>set up</kanji> something so that it <kanji>become</kanji>s a certain way, that's the <vocabulary>composition</vocabulary> of this thing. That's its <vocabulary>structure</vocabulary>.\n\n構成 refers to the process of assembling several elements to create a cohesive whole or the assembled whole itself. It can be applied to various contexts, such as social structures, family compositions, artistic works, or the configuration of materials.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%A7%8B%E6%88%90",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "構",
+      "id": 1263,
+      "reading": "こう"
+    },
+    {
+      "type": "kanji",
+      "value": "成",
+      "id": 780,
+      "reading": "せい"
+    }
+  ]
+}

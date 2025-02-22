@@ -1,0 +1,33 @@
+{
+  "id": 2617,
+  "type": "vocabulary",
+  "characters": "父",
+  "primaryMeaning": "Father",
+  "otherMeanings": [
+    "Dad"
+  ],
+  "primaryReading": "ちち",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 512,
+      "character": "父",
+      "readings": [
+        "ちち",
+        "とう",
+        "ふ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well. This is the polite and humble form of <vocabulary>father</vocabulary>. You use this when you're talking about your own father to other people, especially if you aren't very close to them.",
+  "readingMnemonic": "The reading for this word is the same as the one you learned when learning the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%88%B6",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "父",
+      "id": 512,
+      "reading": "ちち"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 7932,
+  "type": "vocabulary",
+  "characters": "賠償",
+  "primaryMeaning": "Reparations",
+  "otherMeanings": [
+    "Compensation"
+  ],
+  "primaryReading": "ばいしょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2162,
+      "character": "賠",
+      "readings": [
+        "ばい"
+      ]
+    },
+    {
+      "id": 1646,
+      "character": "償",
+      "readings": [
+        "しょう",
+        "つぐな"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Compensation</kanji> <kanji>reparation</kanji>s are still <vocabulary>compensation</vocabulary> and <vocabulary>reparations</vocabulary>! That's convenient.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%B3%A0%E5%84%9F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "賠",
+      "id": 2162,
+      "reading": "ばい"
+    },
+    {
+      "type": "kanji",
+      "value": "償",
+      "id": 1646,
+      "reading": "しょう"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 5569,
+  "type": "vocabulary",
+  "characters": "社会党",
+  "primaryMeaning": "Socialist Party",
+  "otherMeanings": [],
+  "primaryReading": "しゃかいとう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 591,
+      "character": "社",
+      "readings": [
+        "しゃ",
+        "やしろ"
+      ]
+    },
+    {
+      "id": 566,
+      "character": "会",
+      "readings": [
+        "かい",
+        "あ"
+      ]
+    },
+    {
+      "id": 1500,
+      "character": "党",
+      "readings": [
+        "とう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>society</kanji> (社会) <kanji>party</kanji> is the <vocabulary>socialist party</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A4%BE%E4%BC%9A%E5%85%9A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "社",
+      "id": 591,
+      "reading": "しゃ"
+    },
+    {
+      "type": "kanji",
+      "value": "会",
+      "id": 566,
+      "reading": "かい"
+    },
+    {
+      "type": "kanji",
+      "value": "党",
+      "id": 1500,
+      "reading": "とう"
+    }
+  ]
+}

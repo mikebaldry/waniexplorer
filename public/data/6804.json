@@ -1,35 +1,23 @@
 {
   "id": 6804,
   "type": "vocabulary",
-  "characters": "朱",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "朱"
+  },
   "primaryMeaning": "Vermilion",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well. You can also say it's <vocabulary>scarlet red</vocabulary> or <vocabulary>blood</vocabulary> as well, though more in a poetic sense, I'd say. I don't think you'll hear surgeons calling blood 朱.",
+  "primaryReading": "あけ",
+  "readingMnemonic": "The reading あけ is like the beginning of 開ける, which means \"to open.\" Just imagine you're opening (あけ) a person up, and out gushes a <vocabulary>vermilion</vocabulary> colored <vocabulary>blood</vocabulary>. You shouldn't open people up like that.",
   "otherMeanings": [
     "Scarlet Red",
     "Blood"
   ],
-  "primaryReading": "あけ",
   "otherReadings": [
     "しゅ"
   ],
-  "kanji": [
-    {
-      "id": 1887,
-      "character": "朱",
-      "readings": [
-        "しゅ",
-        "あけ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well. You can also say it's <vocabulary>scarlet red</vocabulary> or <vocabulary>blood</vocabulary> as well, though more in a poetic sense, I'd say. I don't think you'll hear surgeons calling blood 朱.",
-  "readingMnemonic": "The reading あけ is like the beginning of 開ける, which means \"to open.\" Just imagine you're opening (あけ) a person up, and out gushes a <vocabulary>vermilion</vocabulary> colored <vocabulary>blood</vocabulary>. You shouldn't open people up like that.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9C%B1",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "朱",
-      "id": 1887,
-      "reading": "あけ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%9C%B1"
+  }
 }

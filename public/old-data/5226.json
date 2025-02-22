@@ -1,0 +1,44 @@
+{
+  "id": 5226,
+  "type": "vocabulary",
+  "characters": "宗派",
+  "primaryMeaning": "Sect",
+  "otherMeanings": [
+    "Denomination"
+  ],
+  "primaryReading": "しゅうは",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1401,
+      "character": "宗",
+      "readings": [
+        "しゅう"
+      ]
+    },
+    {
+      "id": 1136,
+      "character": "派",
+      "readings": [
+        "は"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>religion</kanji> <kanji>sect</kanji> is a sect within religion, most likely, but it can be simply referred to as a <vocabulary>sect</vocabulary> or <vocabulary>denomination</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AE%97%E6%B4%BE",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "宗",
+      "id": 1401,
+      "reading": "しゅう"
+    },
+    {
+      "type": "kanji",
+      "value": "派",
+      "id": 1136,
+      "reading": "は"
+    }
+  ]
+}

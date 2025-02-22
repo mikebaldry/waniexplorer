@@ -1,0 +1,38 @@
+{
+  "id": 1184,
+  "type": "kanji",
+  "character": "態",
+  "primaryMeaning": "Appearance",
+  "otherMeanings": [
+    "State",
+    "Shape"
+  ],
+  "primaryReading": "たい",
+  "readings": [
+    {
+      "reading": "たい",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "わざ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "While you may have the <kanji>appearance</kanji> of someone who is super strong, powerful, and awesome, you do have one shortcoming. You don’t know how to <reading>tie</reading> (たい) a tie. Actually, you don’t even know how to tie your shoes, let alone your tie. How embarrassing.",
+  "meaningMnemonic": "You have a great <radical>ability</radical> because your <radical>heart</radical> gives you the <kanji>appearance</kanji> of a superhuman. Your heart is really strong and powerful, fuelling your body to the best of its ability. All this together gives you the appearance of someone in top condition.",
+  "vocabularyIds": [
+    4570,
+    4571,
+    4572,
+    4573,
+    4574,
+    8656
+  ],
+  "radicalIds": [
+    287,
+    65
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%85%8B"
+}

@@ -1,0 +1,47 @@
+{
+  "id": 692,
+  "type": "kanji",
+  "character": "馬",
+  "primaryMeaning": "Horse",
+  "otherMeanings": [],
+  "primaryReading": "ば",
+  "readings": [
+    {
+      "reading": "ば",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "め",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "うま",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "ま",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You are looking at a horse. It's looking at you. You try making horse noises at it, to get a reaction. Instead of reacting with a normal horse noise, it just makes sheep noises: \"<reading>Baaa</reading>,\" (ば) it says. \"Baaaaa.\"",
+  "meaningMnemonic": "The <radical>horse</radical> radical and the <kanji>horse</kanji> kanji are exactly the same! Huzzah!",
+  "vocabularyIds": [
+    2990,
+    2991,
+    6019,
+    6155,
+    6281,
+    7192,
+    7778,
+    9050,
+    9105
+  ],
+  "radicalIds": [
+    165
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%A6%AC"
+}

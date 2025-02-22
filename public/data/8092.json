@@ -1,45 +1,20 @@
 {
   "id": 8092,
   "type": "vocabulary",
-  "characters": "庶民",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "庶民"
+  },
   "primaryMeaning": "Masses",
+  "meaningMnemonic": "<kanji>Common</kanji> <kanji>peoples</kanji> make up the <vocabulary>masses</vocabulary>. They are the <vocabulary>common people</vocabulary> and no society is complete without them.\n\nDepending on the context, 庶民 can take on a slightly negative connotation, especially if the 庶民 in question are contrasted with more elite or sophisticated groups.",
+  "primaryReading": "しょみん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Common People"
   ],
-  "primaryReading": "しょみん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2240,
-      "character": "庶",
-      "readings": [
-        "しょ"
-      ]
-    },
-    {
-      "id": 650,
-      "character": "民",
-      "readings": [
-        "みん",
-        "たみ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Common</kanji> <kanji>peoples</kanji> make up the <vocabulary>masses</vocabulary>. They are the <vocabulary>common people</vocabulary> and no society is complete without them.\n\nDepending on the context, 庶民 can take on a slightly negative connotation, especially if the 庶民 in question are contrasted with more elite or sophisticated groups.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BA%B6%E6%B0%91",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "庶",
-      "id": 2240,
-      "reading": "しょ"
-    },
-    {
-      "type": "kanji",
-      "value": "民",
-      "id": 650,
-      "reading": "みん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%BA%B6%E6%B0%91"
+  }
 }

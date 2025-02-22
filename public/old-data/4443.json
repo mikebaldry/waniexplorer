@@ -1,0 +1,37 @@
+{
+  "id": 4443,
+  "type": "vocabulary",
+  "characters": "断る",
+  "primaryMeaning": "To Refuse",
+  "otherMeanings": [
+    "To Reject"
+  ],
+  "primaryReading": "ことわる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1139,
+      "character": "断",
+      "readings": [
+        "だん",
+        "ことわ",
+        "た"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>cut off</kanji>. What happens when you do the action of cutting someone off? You're going <vocabulary>to refuse</vocabulary> them whatever it is they want.",
+  "readingMnemonic": "Deciding <vocabulary>to refuse</vocabulary> something unfortunately starts a <reading>coat war</reading> (like a pillow fight, but everyone hits each other with coats instead of pillows). Coats to the ready, and let the coat war commence! ",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%96%AD%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "断",
+      "id": 1139,
+      "reading": "ことわ"
+    },
+    {
+      "type": "kana",
+      "value": "る"
+    }
+  ]
+}

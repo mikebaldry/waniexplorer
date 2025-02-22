@@ -1,33 +1,41 @@
 {
   "id": 2036,
   "type": "kanji",
-  "character": "麻",
-  "primaryMeaning": "Hemp",
-  "otherMeanings": [],
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "麻"
+  },
   "primaryReading": "ま",
   "readings": [
     {
-      "reading": "ま",
       "primary": true,
+      "reading": "ま",
       "type": "onyomi"
     },
     {
-      "reading": "あさ",
       "primary": false,
+      "reading": "あさ",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "Who planted all this <kanji>hemp</kanji>? Your <reading>ma</reading>ma (ま) did.",
+  "primaryMeaning": "Hemp",
+  "otherMeanings": [],
   "meaningMnemonic": "This <radical>canopy</radical> of <radical>tree</radical>s isn't actually a canopy of trees at all. When you look closely, you see these trees are actually giant stalks of <kanji>hemp</kanji>.",
-  "vocabularyIds": [
-    7223,
-    7224,
-    7225,
-    7445
-  ],
-  "radicalIds": [
-    62,
-    23
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%BA%BB"
+  "readingMnemonic": "Who planted all this <kanji>hemp</kanji>? Your <reading>ma</reading>ma (ま) did.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%BA%BB"
+  },
+  "related": {
+    "radicals": [
+      62,
+      23
+    ],
+    "vocabularies": [
+      7223,
+      7224,
+      7225,
+      7445
+    ]
+  }
 }

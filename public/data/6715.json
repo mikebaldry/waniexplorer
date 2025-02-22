@@ -1,46 +1,20 @@
 {
   "id": 6715,
   "type": "vocabulary",
-  "characters": "懇話",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "懇話"
+  },
   "primaryMeaning": "Friendly Talk",
+  "meaningMnemonic": "A <kanji>courteous</kanji> <kanji>talk</kanji> is a <vocabulary>friendly talk</vocabulary>. We all know that \"friendly talks\" are never what they seem, though... right?",
+  "primaryReading": "こんわ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Friendly Discussion"
   ],
-  "primaryReading": "こんわ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1857,
-      "character": "懇",
-      "readings": [
-        "こん"
-      ]
-    },
-    {
-      "id": 705,
-      "character": "話",
-      "readings": [
-        "わ",
-        "はな",
-        "はなし"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>courteous</kanji> <kanji>talk</kanji> is a <vocabulary>friendly talk</vocabulary>. We all know that \"friendly talks\" are never what they seem, though... right?",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%87%87%E8%A9%B1",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "懇",
-      "id": 1857,
-      "reading": "こん"
-    },
-    {
-      "type": "kanji",
-      "value": "話",
-      "id": 705,
-      "reading": "わ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%87%87%E8%A9%B1"
+  }
 }

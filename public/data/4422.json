@@ -1,48 +1,21 @@
 {
   "id": 4422,
   "type": "vocabulary",
-  "characters": "総合",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "総合"
+  },
   "primaryMeaning": "Overall",
+  "meaningMnemonic": "When you take the <kanji>whole</kanji> and <kanji>join</kanji> it together, you get a <vocabulary>synthesis</vocabulary>, and probably a good <vocabulary>overall</vocabulary> picture of things. ",
+  "primaryReading": "そうごう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Comprehensive",
     "Synthesis"
   ],
-  "primaryReading": "そうごう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1131,
-      "character": "総",
-      "readings": [
-        "そう"
-      ]
-    },
-    {
-      "id": 852,
-      "character": "合",
-      "readings": [
-        "ごう",
-        "がっ",
-        "あ",
-        "あい"
-      ]
-    }
-  ],
-  "meaningMnemonic": "When you take the <kanji>whole</kanji> and <kanji>join</kanji> it together, you get a <vocabulary>synthesis</vocabulary>, and probably a good <vocabulary>overall</vocabulary> picture of things. ",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B7%8F%E5%90%88",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "総",
-      "id": 1131,
-      "reading": "そう"
-    },
-    {
-      "type": "kanji",
-      "value": "合",
-      "id": 852,
-      "reading": "ごう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%B7%8F%E5%90%88"
+  }
 }

@@ -1,0 +1,61 @@
+{
+  "id": 829,
+  "type": "kanji",
+  "character": "悪",
+  "primaryMeaning": "Bad",
+  "otherMeanings": [
+    "Evil"
+  ],
+  "primaryReading": "あく",
+  "readings": [
+    {
+      "reading": "あく",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "お",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "わる",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Luckily, people in Asia know how to get the <kanji>evil</kanji> <kanji>bad</kanji>ness out of your heart with <reading>acu</reading>puncture (あく).",
+  "meaningMnemonic": "In <radical>Asia</radical> they assume everyone's <radical>heart</radical> is automatically <kanji>bad</kanji> and <kanji>evil</kanji>.",
+  "vocabularyIds": [
+    3357,
+    3358,
+    3360,
+    3651,
+    3659,
+    3882,
+    3891,
+    3969,
+    4178,
+    4274,
+    5102,
+    6868,
+    6916,
+    6951,
+    6975,
+    7347,
+    7359,
+    7710,
+    7763,
+    8228,
+    8360,
+    8621,
+    8655,
+    8669,
+    9239
+  ],
+  "radicalIds": [
+    204,
+    65
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%82%AA"
+}

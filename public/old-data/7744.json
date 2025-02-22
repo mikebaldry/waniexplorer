@@ -1,0 +1,32 @@
+{
+  "id": 7744,
+  "type": "vocabulary",
+  "characters": "別",
+  "primaryMeaning": "Different",
+  "otherMeanings": [
+    "Separate"
+  ],
+  "primaryReading": "べつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 785,
+      "character": "別",
+      "readings": [
+        "べつ",
+        "わか"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%88%A5",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "別",
+      "id": 785,
+      "reading": "べつ"
+    }
+  ]
+}

@@ -1,31 +1,18 @@
 {
   "id": 2982,
   "type": "vocabulary",
-  "characters": "魚",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "魚"
+  },
   "primaryMeaning": "Fish",
-  "otherMeanings": [],
-  "primaryReading": "さかな",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 674,
-      "character": "魚",
-      "readings": [
-        "ぎょ",
-        "さかな",
-        "うお"
-      ]
-    }
-  ],
   "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "さかな",
   "readingMnemonic": "Since this word is made up of a single kanji, it should use the kun'yomi reading. When learning the kanji, you didn't learn that reading, so here's a mnemonic to help you with this word: \n\nImagine a <vocabulary>fish</vocabulary>. Now imagine the fish playing soccer, while wearing a nun's outfit. This is a <reading>soccer nu</reading>n (さかな).",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%AD%9A",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "魚",
-      "id": 674,
-      "reading": "さかな"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%AD%9A"
+  }
 }

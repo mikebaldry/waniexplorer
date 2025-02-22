@@ -1,47 +1,20 @@
 {
   "id": 9239,
   "type": "vocabulary",
-  "characters": "悪化",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "悪化"
+  },
   "primaryMeaning": "Deterioration",
+  "meaningMnemonic": "A <kanji>bad</kanji> <kanji>change</kanji> is exactly what it sounds like: <vocabulary>deterioration</vocabulary>, aka <vocabulary>getting worse</vocabulary> .",
+  "primaryReading": "あっか",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. The on'yomi readings of the kanji are あく and か, but here they become あっか, to make the word easier to pronounce. Try and say it out loud to see if you agree.",
   "otherMeanings": [
     "Getting Worse"
   ],
-  "primaryReading": "あっか",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 829,
-      "character": "悪",
-      "readings": [
-        "あく",
-        "お",
-        "わる"
-      ]
-    },
-    {
-      "id": 607,
-      "character": "化",
-      "readings": [
-        "か",
-        "ば"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>bad</kanji> <kanji>change</kanji> is exactly what it sounds like: <vocabulary>deterioration</vocabulary>, aka <vocabulary>getting worse</vocabulary> .",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. The on'yomi readings of the kanji are あく and か, but here they become あっか, to make the word easier to pronounce. Try and say it out loud to see if you agree.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%82%AA%E5%8C%96",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "悪",
-      "id": 829,
-      "reading": "あっ"
-    },
-    {
-      "type": "kanji",
-      "value": "化",
-      "id": 607,
-      "reading": "か"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%82%AA%E5%8C%96"
+  }
 }

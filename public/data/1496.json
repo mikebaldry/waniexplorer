@@ -1,32 +1,40 @@
 {
   "id": 1496,
   "type": "kanji",
-  "character": "酸",
-  "primaryMeaning": "Acid",
-  "otherMeanings": [],
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "酸"
+  },
   "primaryReading": "さん",
   "readings": [
     {
-      "reading": "さん",
       "primary": true,
+      "reading": "さん",
       "type": "onyomi"
     },
     {
-      "reading": "す",
       "primary": false,
+      "reading": "す",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "You're trying to find a container for this <kanji>acid</kanji> when <reading>San</reading>ta-san (さん) bursts through your wall. He frowns down at you. You're on the naughty list now. You killed spiders AND made dangerous acid? Ooooh you're in trouble.",
+  "primaryMeaning": "Acid",
+  "otherMeanings": [],
   "meaningMnemonic": "Mix <radical>spider</radical>s into <radical>alcohol</radical> to make <kanji>acid</kanji>. Spiders have a little bit in them already, but if you really want to make it potent, smash them in some whiskey to make a deadly acid that will rip through anything.",
-  "vocabularyIds": [
-    5555,
-    5557,
-    8482
-  ],
-  "radicalIds": [
-    182,
-    427
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%85%B8"
+  "readingMnemonic": "You're trying to find a container for this <kanji>acid</kanji> when <reading>San</reading>ta-san (さん) bursts through your wall. He frowns down at you. You're on the naughty list now. You killed spiders AND made dangerous acid? Ooooh you're in trouble.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%85%B8"
+  },
+  "related": {
+    "radicals": [
+      182,
+      427
+    ],
+    "vocabularies": [
+      5555,
+      5557,
+      8482
+    ]
+  }
 }

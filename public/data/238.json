@@ -1,12 +1,15 @@
 {
   "id": 238,
   "type": "radical",
-  "primaryMeaning": "Now",
-  "otherMeanings": [],
-  "character": {
+  "level": 3,
+  "characters": {
     "type": "text",
     "value": "今"
   },
-  "meaningMnemonic": "This is a hat on top of the katakana for \"ra.\" Think of Ra, the Egyptian god. When is Ra wearing a hat? Right <radical>now</radical>! It's always now, because he never takes it off. No really, look it up, it's true.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/now"
+  "primaryMeaning": "Now",
+  "otherMeanings": [],
+  "meaningMnemonic": "This is the radical for <radical>now</radical>. It's a bit tough to see, but it kind of looks like a fancy clock. The 𠆢 is the top part hanging over the clock. The ラ shows a triangular clock face with a little cuckoo on top, peeking out to tell you this means now — right now!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/now"
+  }
 }

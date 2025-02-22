@@ -1,47 +1,18 @@
 {
   "id": 3209,
   "type": "vocabulary",
-  "characters": "新聞",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "新聞"
+  },
   "primaryMeaning": "Newspaper",
-  "otherMeanings": [],
-  "primaryReading": "しんぶん",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 857,
-      "character": "新",
-      "readings": [
-        "しん",
-        "あたら",
-        "あら",
-        "にい"
-      ]
-    },
-    {
-      "id": 763,
-      "character": "聞",
-      "readings": [
-        "ぶん",
-        "もん",
-        "き"
-      ]
-    }
-  ],
   "meaningMnemonic": "The <kanji>new</kanji> <kanji>hear</kanji> is what it sounds like. It's new things that you're hearing about in your ear... at least that's what it was back a long time ago. Now those new things that get to your ear get to you via other mediums. In this case, a <vocabulary>newspaper</vocabulary>.",
+  "primaryReading": "しんぶん",
   "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%96%B0%E8%81%9E",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "新",
-      "id": 857,
-      "reading": "しん"
-    },
-    {
-      "type": "kanji",
-      "value": "聞",
-      "id": 763,
-      "reading": "ぶん"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%96%B0%E8%81%9E"
+  }
 }

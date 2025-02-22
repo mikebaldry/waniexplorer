@@ -1,47 +1,20 @@
 {
   "id": 3595,
   "type": "vocabulary",
-  "characters": "映画",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "映画"
+  },
   "primaryMeaning": "Movie",
+  "meaningMnemonic": "It's a <kanji>reflect</kanji>ion of an <kanji>image</kanji> on a screen, and the image is moving! What is this? It's a <vocabulary>movie</vocabulary>.",
+  "primaryReading": "えいが",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Film"
   ],
-  "primaryReading": "えいが",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 893,
-      "character": "映",
-      "readings": [
-        "えい",
-        "うつ",
-        "は"
-      ]
-    },
-    {
-      "id": 629,
-      "character": "画",
-      "readings": [
-        "が",
-        "かく"
-      ]
-    }
-  ],
-  "meaningMnemonic": "It's a <kanji>reflect</kanji>ion of an <kanji>image</kanji> on a screen, and the image is moving! What is this? It's a <vocabulary>movie</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%98%A0%E7%94%BB",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "映",
-      "id": 893,
-      "reading": "えい"
-    },
-    {
-      "type": "kanji",
-      "value": "画",
-      "id": 629,
-      "reading": "が"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%98%A0%E7%94%BB"
+  }
 }

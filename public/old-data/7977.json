@@ -1,0 +1,47 @@
+{
+  "id": 7977,
+  "type": "vocabulary",
+  "characters": "元帥",
+  "primaryMeaning": "General Of The Army",
+  "otherMeanings": [
+    "Marshal",
+    "Admiral"
+  ],
+  "primaryReading": "げんすい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 498,
+      "character": "元",
+      "readings": [
+        "げん",
+        "がん",
+        "もと"
+      ]
+    },
+    {
+      "id": 2219,
+      "character": "帥",
+      "readings": [
+        "すい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>commander</kanji>'s <kanji>origin</kanji> was as the <vocabulary>general of the army</vocabulary>. He stepped down, but that's where he started. Maybe he's working the system backwards...",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%85%83%E5%B8%A5",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "元",
+      "id": 498,
+      "reading": "げん"
+    },
+    {
+      "type": "kanji",
+      "value": "帥",
+      "id": 2219,
+      "reading": "すい"
+    }
+  ]
+}

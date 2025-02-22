@@ -1,0 +1,36 @@
+{
+  "id": 8957,
+  "type": "vocabulary",
+  "characters": "山びこ",
+  "primaryMeaning": "Echo",
+  "otherMeanings": [
+    "Mountain Echo"
+  ],
+  "primaryReading": "やまびこ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 455,
+      "character": "山",
+      "readings": [
+        "さん",
+        "やま"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You know that 山 means mountain. Add the hiragana びこ to the end and this gives you <vocabulary>echo</vocabulary>. That's because bee children (bee 子) love echos, especially <vocabulary>mountain echo</vocabulary>s! Imagine baby bees buzzing as loudly as they can and hearing their voices echoing back at them through the mountains.\n\nAs the kanji suggests, 山びこ is generally used to describe the echo you get if you shout in the mountains. To describe other types of echo, you can use the katakana word エコー.\n\nBy the way, there is actually a kanji for the second part of this word, but it's so rare that it's usually written in kana!",
+  "readingMnemonic": "You learned this kanji reading when you learned the vocabulary 山.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B1%B1%E3%81%B3%E3%81%93",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "山",
+      "id": 455,
+      "reading": "やま"
+    },
+    {
+      "type": "kana",
+      "value": "びこ"
+    }
+  ]
+}

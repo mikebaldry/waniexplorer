@@ -1,47 +1,21 @@
 {
   "id": 4026,
   "type": "vocabulary",
-  "characters": "結局",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "結局"
+  },
   "primaryMeaning": "After All",
+  "meaningMnemonic": "If you <kanji>tie</kanji> the <kanji>bureau</kanji> up with your delays this may not get done this year <vocabulary>after all</vocabulary>.\n\nThis word carries the nuance that despite the various events or factors leading up to it, the final outcome just is what it is.",
+  "primaryReading": "けっきょく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Note the けつ gets changed to けっ as つs in this situation often do.",
   "otherMeanings": [
     "Eventually",
     "In The End"
   ],
-  "primaryReading": "けっきょく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1009,
-      "character": "結",
-      "readings": [
-        "けつ",
-        "むす",
-        "ゆ"
-      ]
-    },
-    {
-      "id": 684,
-      "character": "局",
-      "readings": [
-        "きょく"
-      ]
-    }
-  ],
-  "meaningMnemonic": "If you <kanji>tie</kanji> the <kanji>bureau</kanji> up with your delays this may not get done this year <vocabulary>after all</vocabulary>.\n\nThis word carries the nuance that despite the various events or factors leading up to it, the final outcome just is what it is.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Note the けつ gets changed to けっ as つs in this situation often do.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B5%90%E5%B1%80",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "結",
-      "id": 1009,
-      "reading": null
-    },
-    {
-      "type": "kanji",
-      "value": "局",
-      "id": 684,
-      "reading": null
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%B5%90%E5%B1%80"
+  }
 }

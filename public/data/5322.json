@@ -1,45 +1,18 @@
 {
   "id": 5322,
   "type": "vocabulary",
-  "characters": "白旗",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "白旗"
+  },
   "primaryMeaning": "White Flag",
-  "otherMeanings": [],
-  "primaryReading": "しろはた",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 491,
-      "character": "白",
-      "readings": [
-        "はく",
-        "しろ",
-        "しら"
-      ]
-    },
-    {
-      "id": 1418,
-      "character": "旗",
-      "readings": [
-        "き",
-        "はた"
-      ]
-    }
-  ],
   "meaningMnemonic": "A <kanji>white</kanji> <kanji>flag</kanji> is a <vocabulary>white flag</vocabulary>. It's one for surrender. I give up! Too many kanji!",
+  "primaryReading": "しろはた",
   "readingMnemonic": "You'll have to be careful about this one, as it's actually read with the two kanji's kun'yomi readings put together, making this しろはた.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%99%BD%E6%97%97",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "白",
-      "id": 491,
-      "reading": "しろ"
-    },
-    {
-      "type": "kanji",
-      "value": "旗",
-      "id": 1418,
-      "reading": "はた"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%99%BD%E6%97%97"
+  }
 }

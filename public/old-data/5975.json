@@ -1,0 +1,43 @@
+{
+  "id": 5975,
+  "type": "vocabulary",
+  "characters": "普及",
+  "primaryMeaning": "Diffusion",
+  "otherMeanings": [],
+  "primaryReading": "ふきゅう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1448,
+      "character": "普",
+      "readings": [
+        "ふ"
+      ]
+    },
+    {
+      "id": 1619,
+      "character": "及",
+      "readings": [
+        "きゅう",
+        "およ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When something <kanji>reach</kanji>es <kanji>normal</kanji>, it has finished <vocabulary>diffusion</vocabulary>. Normal things aren't all bunched up and concentrated. Normal things are spread out nice and evenly, via diffusion.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%99%AE%E5%8F%8A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "普",
+      "id": 1448,
+      "reading": "ふ"
+    },
+    {
+      "type": "kanji",
+      "value": "及",
+      "id": 1619,
+      "reading": "きゅう"
+    }
+  ]
+}

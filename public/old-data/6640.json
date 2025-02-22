@@ -1,0 +1,49 @@
+{
+  "id": 6640,
+  "type": "vocabulary",
+  "characters": "芝生",
+  "primaryMeaning": "Lawn",
+  "otherMeanings": [],
+  "primaryReading": "しばふ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1834,
+      "character": "芝",
+      "readings": [
+        "しば",
+        "し"
+      ]
+    },
+    {
+      "id": 850,
+      "character": "生",
+      "readings": [
+        "せい",
+        "しょう",
+        "い",
+        "なま",
+        "う",
+        "は",
+        "き"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Your <kanji>lawn</kanji> of <kanji>life</kanji> is just your <vocabulary>lawn</vocabulary>. Of course it's alive, otherwise it wouldn't be a very good lawn.",
+  "readingMnemonic": "The reading for 芝 is the one you learned with the kanji. The reading for 生 is one you haven't seen before (exception). It's ふ, and you can remember it by thinking how you were such a <reading>foo</reading>l (ふ) for putting all that poison on it. Now it's dying, and now it's becoming less of a lawn.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%8A%9D%E7%94%9F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "芝",
+      "id": 1834,
+      "reading": "しば"
+    },
+    {
+      "type": "kanji",
+      "value": "生",
+      "id": 850,
+      "reading": null
+    }
+  ]
+}

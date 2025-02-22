@@ -1,0 +1,33 @@
+{
+  "id": 6799,
+  "type": "vocabulary",
+  "characters": "俺ら",
+  "primaryMeaning": "We",
+  "otherMeanings": [],
+  "primaryReading": "おれら",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1883,
+      "character": "俺",
+      "readings": [
+        "おれ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>I</kanji> with a ら on it makes it plural. It's less formal than 俺たち (if you've seen that word yet), but has the same meaning. It's <vocabulary>we</vocabulary>.",
+  "readingMnemonic": "The reading is the same as the kanji's reading.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BF%BA%E3%82%89",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "俺",
+      "id": 1883,
+      "reading": "おれ"
+    },
+    {
+      "type": "kana",
+      "value": "ら"
+    }
+  ]
+}

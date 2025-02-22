@@ -1,0 +1,63 @@
+{
+  "id": 8248,
+  "type": "vocabulary",
+  "characters": "鎮痛剤",
+  "primaryMeaning": "Painkiller",
+  "otherMeanings": [
+    "Pain Reliever",
+    "Sedative",
+    "Tranquilizer",
+    "Tranquiliser"
+  ],
+  "primaryReading": "ちんつうざい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2261,
+      "character": "鎮",
+      "readings": [
+        "ちん",
+        "おさえ",
+        "しず"
+      ]
+    },
+    {
+      "id": 1318,
+      "character": "痛",
+      "readings": [
+        "つう",
+        "いた"
+      ]
+    },
+    {
+      "id": 1750,
+      "character": "剤",
+      "readings": [
+        "ざい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Tranquilize</kanji> your <kanji>pain</kanji> with a strong <kanji>dose</kanji> of <vocabulary>painkiller</vocabulary>s! Yum yum. Don't take too many though!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%8E%AE%E7%97%9B%E5%89%A4",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "鎮",
+      "id": 2261,
+      "reading": "ちん"
+    },
+    {
+      "type": "kanji",
+      "value": "痛",
+      "id": 1318,
+      "reading": "つう"
+    },
+    {
+      "type": "kanji",
+      "value": "剤",
+      "id": 1750,
+      "reading": "ざい"
+    }
+  ]
+}

@@ -1,32 +1,40 @@
 {
   "id": 1964,
   "type": "kanji",
-  "character": "鍛",
-  "primaryMeaning": "Forge",
-  "otherMeanings": [],
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "鍛"
+  },
   "primaryReading": "たん",
   "readings": [
     {
-      "reading": "たん",
       "primary": true,
+      "reading": "たん",
       "type": "onyomi"
     },
     {
-      "reading": "きた",
       "primary": false,
+      "reading": "きた",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "You're trying to work the <kanji>forge</kanji>, but it's harder than you thought. You end up forging outside all day and get a wicked <reading>tan</reading> (たん).",
+  "primaryMeaning": "Forge",
+  "otherMeanings": [],
   "meaningMnemonic": "You want to turn your <radical>gold</radical> <radical>comb</radical> into a <radical>weapon</radical>, so you throw it into the <kanji>forge</kanji>.",
-  "vocabularyIds": [
-    7022,
-    7024
-  ],
-  "radicalIds": [
-    118,
-    8792,
-    160
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%8D%9B"
+  "readingMnemonic": "You're trying to work the <kanji>forge</kanji>, but it's harder than you thought. You end up forging outside all day and get a wicked <reading>tan</reading> (たん).",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%8D%9B"
+  },
+  "related": {
+    "radicals": [
+      118,
+      8792,
+      160
+    ],
+    "vocabularies": [
+      7022,
+      7024
+    ]
+  }
 }

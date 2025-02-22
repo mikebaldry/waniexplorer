@@ -1,34 +1,42 @@
 {
   "id": 746,
   "type": "kanji",
-  "character": "習",
-  "primaryMeaning": "Learn",
-  "otherMeanings": [],
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "習"
+  },
   "primaryReading": "しゅう",
   "readings": [
     {
-      "reading": "しゅう",
       "primary": true,
+      "reading": "しゅう",
       "type": "onyomi"
     },
     {
-      "reading": "なら",
       "primary": false,
+      "reading": "なら",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "You <kanji>learn</kanji> that you should tie these white feathers to your <reading>shoe</reading>s (しゅう). You do it before you learn what it will do, and then suddenly you're jump-flying out of the building.",
+  "primaryMeaning": "Learn",
+  "otherMeanings": [],
   "meaningMnemonic": "You find some <radical>white</radical> <radical>feathers</radical> and you want to <kanji>learn</kanji> more about where they came from and what they're made of.",
-  "vocabularyIds": [
-    3171,
-    3619,
-    3905,
-    4813,
-    4915
-  ],
-  "radicalIds": [
-    213,
-    52
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%BF%92"
+  "readingMnemonic": "You <kanji>learn</kanji> that you should tie these white feathers to your <reading>shoe</reading>s (しゅう). You do it before you learn what it will do, and then suddenly you're jump-flying out of the building.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%BF%92"
+  },
+  "related": {
+    "radicals": [
+      213,
+      52
+    ],
+    "vocabularies": [
+      3171,
+      3619,
+      3905,
+      4813,
+      4915
+    ]
+  }
 }

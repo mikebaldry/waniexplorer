@@ -1,0 +1,47 @@
+{
+  "id": 7075,
+  "type": "vocabulary",
+  "characters": "伊達",
+  "primaryMeaning": "Flamboyance",
+  "otherMeanings": [
+    "Chic",
+    "Stylishness"
+  ],
+  "primaryReading": "だて",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1984,
+      "character": "伊",
+      "readings": [
+        "い",
+        "だ"
+      ]
+    },
+    {
+      "id": 1033,
+      "character": "達",
+      "readings": [
+        "たつ",
+        "たち"
+      ]
+    }
+  ],
+  "meaningMnemonic": "What does <kanji>Italy</kanji> <kanji>attain</kanji> like no other? <vocabulary>Flamboyance</vocabulary>! They redefine <vocabulary>chic</vocabulary> and <vocabulary>stylishness</vocabulary>, dazzling everyone with their unabashed display.\n\nThis word isn’t just about fashion; it's also for flamboyant, attention-grabbing actions. While it's an old-fashioned word, you still find it in phrases like 伊達眼鏡 (fashion glasses) or 伊達に〜はしていない (not doing something for show).",
+  "readingMnemonic": "The readings for both kanji are ones you haven't seen before. So here's a mnemonic to help you remember:\n\nSo how does Italy attain its <vocabulary>flamboyance</vocabulary>? Because it embodies <reading>Da</reading>n<reading>te</reading>’s (だて) bold essence—vibrant, captivating, and <vocabulary>chic</vocabulary> in every way. In Italy, Dante's influence is a living testament to flamboyant elegance.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BC%8A%E9%81%94",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "伊",
+      "id": 1984,
+      "reading": "だ"
+    },
+    {
+      "type": "kanji",
+      "value": "達",
+      "id": 1033,
+      "reading": null
+    }
+  ]
+}

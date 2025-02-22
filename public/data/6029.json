@@ -1,66 +1,18 @@
 {
   "id": 6029,
   "type": "vocabulary",
-  "characters": "一人暮らし",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "一人暮らし"
+  },
   "primaryMeaning": "Living Alone",
-  "otherMeanings": [],
-  "primaryReading": "ひとりぐらし",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 440,
-      "character": "一",
-      "readings": [
-        "いち",
-        "いつ",
-        "ひと",
-        "かず"
-      ]
-    },
-    {
-      "id": 444,
-      "character": "人",
-      "readings": [
-        "にん",
-        "じん",
-        "ひと",
-        "と"
-      ]
-    },
-    {
-      "id": 1527,
-      "character": "暮",
-      "readings": [
-        "ぼ",
-        "く"
-      ]
-    }
-  ],
   "meaningMnemonic": "If 暮らす is \"to live\" or \"to live one's life,\" then to live one's life as 一人, means you are <vocabulary>living alone</vocabulary>.",
+  "primaryReading": "ひとりぐらし",
   "readingMnemonic": "The reading is the vocab readings from 一人 and 暮らす.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%80%E4%BA%BA%E6%9A%AE%E3%82%89%E3%81%97",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "一",
-      "id": 440,
-      "reading": "ひと"
-    },
-    {
-      "type": "kanji",
-      "value": "人",
-      "id": 444,
-      "reading": null
-    },
-    {
-      "type": "kanji",
-      "value": "暮",
-      "id": 1527,
-      "reading": null
-    },
-    {
-      "type": "kana",
-      "value": "らし"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B8%80%E4%BA%BA%E6%9A%AE%E3%82%89%E3%81%97"
+  }
 }

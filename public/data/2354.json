@@ -1,29 +1,37 @@
 {
   "id": 2354,
   "type": "kanji",
-  "character": "酵",
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "酵"
+  },
+  "primaryReading": "こう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "こう",
+      "type": "onyomi"
+    }
+  ],
   "primaryMeaning": "Fermentation",
   "otherMeanings": [
     "Ferment"
   ],
-  "primaryReading": "こう",
-  "readings": [
-    {
-      "reading": "こう",
-      "primary": true,
-      "type": "onyomi"
-    }
-  ],
-  "readingMnemonic": "Using <kanji>fermentation</kanji>, you are indeed making some alcohol. It will be drunk at a party put on by Emperor <reading>こう</reading>いち.",
   "meaningMnemonic": "<radical>Alcohol</radical> is a good <radical>teacher</radical> on the process of <kanji>fermentation</kanji>.",
-  "vocabularyIds": [
-    8419,
-    8420,
-    8421
-  ],
-  "radicalIds": [
-    182,
-    418
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%85%B5"
+  "readingMnemonic": "Using <kanji>fermentation</kanji>, you are indeed making some alcohol. It will be drunk at a party put on by Emperor <reading>こう</reading>いち.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%85%B5"
+  },
+  "related": {
+    "radicals": [
+      182,
+      418
+    ],
+    "vocabularies": [
+      8419,
+      8420,
+      8421
+    ]
+  }
 }

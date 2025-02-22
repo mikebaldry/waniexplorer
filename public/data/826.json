@@ -1,41 +1,49 @@
 {
   "id": 826,
   "type": "kanji",
-  "character": "都",
-  "primaryMeaning": "Metropolis",
-  "otherMeanings": [],
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "都"
+  },
   "primaryReading": "と",
   "readings": [
     {
-      "reading": "と",
       "primary": true,
+      "reading": "と",
       "type": "onyomi"
     },
     {
+      "primary": false,
       "reading": "つ",
-      "primary": false,
       "type": "onyomi"
     },
     {
-      "reading": "みやこ",
       "primary": false,
+      "reading": "みやこ",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "You try to picture the faces of all the people who live in this <kanji>metropolis</kanji>, but for some reason you can only picture their <reading>toe</reading>s (と). And there are ten times as many toes in this city than someones.",
-  "meaningMnemonic": "<radical>Someone</radical> decided to build a bunch of <radical>building</radical>s and turn them into a <kanji>metropolis</kanji>. You don't know who they are, but now an absolute ton of other someones you don't know also live here in these buildings and work in this busy metropolis.",
-  "vocabularyIds": [
-    3350,
-    3351,
-    3649,
-    4706,
-    7457,
-    7582,
-    8586
-  ],
-  "radicalIds": [
-    203,
-    176
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%83%BD"
+  "primaryMeaning": "Metropolis",
+  "otherMeanings": [],
+  "meaningMnemonic": "<radical>Someone</radical>s and <radical>building</radical>s, someones and buildings, someones and buildings. So many someones and buildings. With so many someones and buildings, we have ourselves a <kanji>metropolis</kanji>.",
+  "readingMnemonic": "In this <kanji>metropolis</kanji> everything is a <reading>toe</reading> (と). The someones are toes, walking around. The buildings are toes, too.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%83%BD"
+  },
+  "related": {
+    "radicals": [
+      203,
+      176
+    ],
+    "vocabularies": [
+      3350,
+      3351,
+      3649,
+      4706,
+      7457,
+      7582,
+      8586
+    ]
+  }
 }

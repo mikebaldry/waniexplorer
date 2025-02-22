@@ -1,46 +1,20 @@
 {
   "id": 7225,
   "type": "vocabulary",
-  "characters": "麻酔",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "麻酔"
+  },
   "primaryMeaning": "Anesthesia",
+  "meaningMnemonic": "A <kanji>hemp</kanji> <kanji>drunk</kanji>ness is when you take some \"hemp\" and put it into your body so you don't really feel anything anymore. This is <vocabulary>anesthesia</vocabulary>.",
+  "primaryReading": "ますい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Anaesthesia"
   ],
-  "primaryReading": "ますい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2036,
-      "character": "麻",
-      "readings": [
-        "ま",
-        "あさ"
-      ]
-    },
-    {
-      "id": 1603,
-      "character": "酔",
-      "readings": [
-        "すい",
-        "よ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>hemp</kanji> <kanji>drunk</kanji>ness is when you take some \"hemp\" and put it into your body so you don't really feel anything anymore. This is <vocabulary>anesthesia</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%BA%BB%E9%85%94",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "麻",
-      "id": 2036,
-      "reading": "ま"
-    },
-    {
-      "type": "kanji",
-      "value": "酔",
-      "id": 1603,
-      "reading": "すい"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%BA%BB%E9%85%94"
+  }
 }

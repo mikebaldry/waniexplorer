@@ -1,38 +1,46 @@
 {
   "id": 1452,
   "type": "kanji",
-  "character": "尋",
-  "primaryMeaning": "Inquire",
-  "otherMeanings": [],
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "尋"
+  },
   "primaryReading": "じん",
   "readings": [
     {
-      "reading": "じん",
       "primary": true,
+      "reading": "じん",
       "type": "onyomi"
     },
     {
-      "reading": "たず",
       "primary": false,
+      "reading": "たず",
       "type": "kunyomi"
     },
     {
-      "reading": "ひろ",
       "primary": false,
+      "reading": "ひろ",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "You decide to <kanji>inquire</kanji> as to why Wolverine is using his mouth to measure out this construction site. As you get closer you notice his cool ripped <reading>jean</reading>s (じん). Instead you inquire how he got such a fresh style. He looks you up and down, pulls out his claws, and tears yours up to match his. You’ve completely forgotten what it was you were asking, but who cares! Look how great you look!",
+  "primaryMeaning": "Inquire",
+  "otherMeanings": [],
   "meaningMnemonic": "<radical>Wolverine</radical> is doing a <radical>construction</radical> job and he’s using his <radical>mouth</radical> to <radical>measure</radical> so he knows how many folks he needs to <kanji>inquire</kanji> about helping him with the job. Using one’s mouth is a strange way to measure something, but that’s just how Wolverine does things. Once he measures it all out, he’ll know how many construction workers he needs to inquire about working for him.",
-  "vocabularyIds": [
-    5436,
-    5437
-  ],
-  "radicalIds": [
-    105,
-    25,
-    16,
-    74
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%B0%8B"
+  "readingMnemonic": "You decide to <kanji>inquire</kanji> as to why Wolverine is using his mouth to measure out this construction site. As you get closer you notice his cool ripped <reading>jean</reading>s (じん). Instead you inquire how he got such a fresh style. He looks you up and down, pulls out his claws, and tears yours up to match his. You’ve completely forgotten what it was you were asking, but who cares! Look how great you look!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%B0%8B"
+  },
+  "related": {
+    "radicals": [
+      105,
+      25,
+      16,
+      74
+    ],
+    "vocabularies": [
+      5436,
+      5437
+    ]
+  }
 }

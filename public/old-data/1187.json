@@ -1,0 +1,28 @@
+{
+  "id": 1187,
+  "type": "kanji",
+  "character": "停",
+  "primaryMeaning": "Halt",
+  "otherMeanings": [],
+  "primaryReading": "てい",
+  "readings": [
+    {
+      "reading": "てい",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "People only <kanji>halt</kanji> because they want this restaurant's world famous <reading>ta</reading>ter (てい) tots. Which is probably why there is a leader out front making sure only people who can really appreciate the tater tots can get in to eat them.",
+  "meaningMnemonic": "The <radical>leader</radical> of the <radical>restaurant</radical> says, \"<kanji>Halt</kanji>!\" to everyone who wants to come in. The leader looks them up and down. Stares into their eyes. And then, maybe, they may go into the restaurant to eat.",
+  "vocabularyIds": [
+    4576,
+    4584,
+    4585,
+    4586
+  ],
+  "radicalIds": [
+    75,
+    290
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%81%9C"
+}

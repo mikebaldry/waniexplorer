@@ -1,0 +1,36 @@
+{
+  "id": 653,
+  "type": "kanji",
+  "character": "以",
+  "primaryMeaning": "From",
+  "otherMeanings": [
+    "Since",
+    "Compared With",
+    "With",
+    "By Means Of"
+  ],
+  "primaryReading": "い",
+  "readings": [
+    {
+      "reading": "い",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "<kanji>From</kanji> above there is a loud caw, and a giant <reading>ea</reading>gle (い) swoops down, forcing the lion to back off. The eagle grabs the person with its talons, bringing him into the air! But now he's... in the air being carried by a giant eagle, <kanji>compared with</kanji> where he was before, is this really better?!",
+  "meaningMnemonic": "The <radical>lion</radical> drops a <radical>drop</radical> of saliva onto this <radical>person</radical> <kanji>from</kanji> above. The person is in a much worse place <kanji>compared with</kanji> where they were before, <kanji>since</kanji> they only just recently fell into this pit.",
+  "vocabularyIds": [
+    2938,
+    2939,
+    2940,
+    8663,
+    8801,
+    8810
+  ],
+  "radicalIds": [
+    56,
+    3,
+    9
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E4%BB%A5"
+}

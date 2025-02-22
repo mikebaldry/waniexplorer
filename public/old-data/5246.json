@@ -1,0 +1,48 @@
+{
+  "id": 5246,
+  "type": "vocabulary",
+  "characters": "日欧",
+  "primaryMeaning": "Japan And Europe",
+  "otherMeanings": [
+    "Japanese-European"
+  ],
+  "primaryReading": "にちおう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 476,
+      "character": "日",
+      "readings": [
+        "にち",
+        "じつ",
+        "ひ",
+        "か",
+        "び"
+      ]
+    },
+    {
+      "id": 1384,
+      "character": "欧",
+      "readings": [
+        "おう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The 日 refers to \"Japan\" (It's the 日 of 日本). So, you have Japan and <kanji>Europe</kanji>, which makes this <vocabulary>Japan and Europe</vocabulary> or <vocabulary>Japanese-European</vocabulary>.\n\n日欧 is a fairly formal word commonly found in newspapers or official reports, where it’s often used for brevity when referring to Japan and Europe together, like in 日欧関係 (Japanese-European relations).",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%97%A5%E6%AC%A7",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "日",
+      "id": 476,
+      "reading": "にち"
+    },
+    {
+      "type": "kanji",
+      "value": "欧",
+      "id": 1384,
+      "reading": "おう"
+    }
+  ]
+}

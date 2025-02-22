@@ -1,12 +1,15 @@
 {
   "id": 196,
   "type": "radical",
-  "primaryMeaning": "Root",
-  "otherMeanings": [],
-  "character": {
+  "level": 11,
+  "characters": {
     "type": "text",
     "value": "艮"
   },
+  "primaryMeaning": "Root",
+  "otherMeanings": [],
   "meaningMnemonic": "If the sun is out and you kick the ground, you'll hit a <radical>root</radical>. Roots try to come up when the sun is bright. But if you kick too hard, the root will trip you, so watch out!",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/root"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/root"
+  }
 }

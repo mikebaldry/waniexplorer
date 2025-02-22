@@ -1,0 +1,37 @@
+{
+  "id": 2591,
+  "type": "vocabulary",
+  "characters": "久しい",
+  "primaryMeaning": "Long Ago",
+  "otherMeanings": [
+    "For a Long Time"
+  ],
+  "primaryReading": "ひさしい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 496,
+      "character": "久",
+      "readings": [
+        "きゅう",
+        "く",
+        "ひさ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This is a single kanji with しい on the end, meaning it's an adjective. What's the adjective form of <kanji>long time</kanji>? Well, it's <vocabulary>long ago</vocabulary>, or can mean <vocabulary>for a long time</vocabulary>.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\n<vocabulary>Long ago</vocabulary>, in a galaxy far away, a bunch of prequel movies were ruined by a single character. \"<reading>Heesa</reading> (ひさ) the best character!\" you hear. Oh no. Heesa here. Get out before Jar Jar Binks gets you! Keep him in the past!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B9%85%E3%81%97%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "久",
+      "id": 496,
+      "reading": "ひさ"
+    },
+    {
+      "type": "kana",
+      "value": "しい"
+    }
+  ]
+}

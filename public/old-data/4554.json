@@ -1,0 +1,45 @@
+{
+  "id": 4554,
+  "type": "vocabulary",
+  "characters": "観客",
+  "primaryMeaning": "Audience",
+  "otherMeanings": [
+    "Spectators"
+  ],
+  "primaryReading": "かんきゃく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1175,
+      "character": "観",
+      "readings": [
+        "かん",
+        "み"
+      ]
+    },
+    {
+      "id": 723,
+      "character": "客",
+      "readings": [
+        "きゃく"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>guest</kanji>s who are <kanji>view</kanji>ing are the <vocabulary>audience</vocabulary> and <vocabulary>spectators</vocabulary>. That's all that viewers who are guests at a location do, right? Makes total sense.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A6%B3%E5%AE%A2",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "観",
+      "id": 1175,
+      "reading": "かん"
+    },
+    {
+      "type": "kanji",
+      "value": "客",
+      "id": 723,
+      "reading": "きゃく"
+    }
+  ]
+}

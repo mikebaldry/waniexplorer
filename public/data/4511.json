@@ -1,47 +1,20 @@
 {
   "id": 4511,
   "type": "vocabulary",
-  "characters": "各自",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "各自"
+  },
   "primaryMeaning": "Each Person",
+  "meaningMnemonic": "<kanji>Each</kanji> <kanji>self</kanji> refers to <vocabulary>each person</vocabulary> or <vocabulary>individual</vocabulary>.",
+  "primaryReading": "かくじ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Individual"
   ],
-  "primaryReading": "かくじ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1162,
-      "character": "各",
-      "readings": [
-        "かく",
-        "おの"
-      ]
-    },
-    {
-      "id": 578,
-      "character": "自",
-      "readings": [
-        "じ",
-        "し",
-        "みずか"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Each</kanji> <kanji>self</kanji> refers to <vocabulary>each person</vocabulary> or <vocabulary>individual</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%90%84%E8%87%AA",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "各",
-      "id": 1162,
-      "reading": "かく"
-    },
-    {
-      "type": "kanji",
-      "value": "自",
-      "id": 578,
-      "reading": "じ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%90%84%E8%87%AA"
+  }
 }

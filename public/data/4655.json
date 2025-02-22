@@ -1,39 +1,23 @@
 {
   "id": 4655,
   "type": "vocabulary",
-  "characters": "違う",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "違う"
+  },
   "primaryMeaning": "To Be Different",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>different</kanji> so the verb vocab version is <vocabulary>to be different</vocabulary>... and of course, to be different is also <vocabulary>to be wrong</vocabulary> in Japan. Don't be different!",
+  "primaryReading": "ちがう",
+  "readingMnemonic": "The reading is the same as the reading you learned with the kanji. It's not different at all.",
   "otherMeanings": [
     "To Be Wrong",
     "To Be Mistaken",
     "To Vary",
     "To Differ"
   ],
-  "primaryReading": "ちがう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1220,
-      "character": "違",
-      "readings": [
-        "ちが",
-        "い"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>different</kanji> so the verb vocab version is <vocabulary>to be different</vocabulary>... and of course, to be different is also <vocabulary>to be wrong</vocabulary> in Japan. Don't be different!",
-  "readingMnemonic": "The reading is the same as the reading you learned with the kanji. It's not different at all.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%81%95%E3%81%86",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "違",
-      "id": 1220,
-      "reading": "ちが"
-    },
-    {
-      "type": "kana",
-      "value": "う"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%81%95%E3%81%86"
+  }
 }

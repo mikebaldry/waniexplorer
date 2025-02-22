@@ -1,45 +1,18 @@
 {
   "id": 2566,
   "type": "vocabulary",
-  "characters": "四十",
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "四十"
+  },
   "primaryMeaning": "Forty",
-  "otherMeanings": [],
-  "primaryReading": "よんじゅう",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 485,
-      "character": "四",
-      "readings": [
-        "し",
-        "よん",
-        "よ"
-      ]
-    },
-    {
-      "id": 448,
-      "character": "十",
-      "readings": [
-        "じゅう",
-        "とお"
-      ]
-    }
-  ],
   "meaningMnemonic": "What do you get when you have four tens? You get <vocabulary>forty</vocabulary>.",
+  "primaryReading": "よんじゅう",
   "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. The only exception to this is 四, which uses the kun'yomi reading, since the on'yomi reading sounds too much like the word for \"death.\" Luckily you know these reading already, so there's nothing new to learn!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%9B%9B%E5%8D%81",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "四",
-      "id": 485,
-      "reading": "よん"
-    },
-    {
-      "type": "kanji",
-      "value": "十",
-      "id": 448,
-      "reading": "じゅう"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%9B%9B%E5%8D%81"
+  }
 }

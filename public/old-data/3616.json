@@ -1,0 +1,43 @@
+{
+  "id": 3616,
+  "type": "vocabulary",
+  "characters": "福島",
+  "primaryMeaning": "Fukushima",
+  "otherMeanings": [],
+  "primaryReading": "ふくしま",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 867,
+      "character": "福",
+      "readings": [
+        "ふく"
+      ]
+    },
+    {
+      "id": 822,
+      "character": "島",
+      "readings": [
+        "しま",
+        "とう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>luck</kanji> <kanji>island</kanji> wasn't actually too lucky. This is <vocabulary>Fukushima</vocabulary> where the nuclear meltdown happened after the 2011 earthquake. So, when you think of \"luck island\" this is where you should think.",
+  "readingMnemonic": "The readings are the readings you learned with the kanji. If one thing is lucky, it's probably that.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A6%8F%E5%B3%B6",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "福",
+      "id": 867,
+      "reading": "ふく"
+    },
+    {
+      "type": "kanji",
+      "value": "島",
+      "id": 822,
+      "reading": "しま"
+    }
+  ]
+}

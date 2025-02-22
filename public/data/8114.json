@@ -1,47 +1,18 @@
 {
   "id": 8114,
   "type": "vocabulary",
-  "characters": "過疎",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "過疎"
+  },
   "primaryMeaning": "Depopulation",
-  "otherMeanings": [],
-  "primaryReading": "かそ",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1158,
-      "character": "過",
-      "readings": [
-        "か",
-        "す",
-        "あやま"
-      ]
-    },
-    {
-      "id": 2243,
-      "character": "疎",
-      "readings": [
-        "そ",
-        "しょ",
-        "うと",
-        "まば"
-      ]
-    }
-  ],
   "meaningMnemonic": "If the <kanji>neglect</kanji> of an area <kanji>surpass</kanji>es what was expected, then the result will be <vocabulary>depopulation</vocabulary>. No one wants to live in a neglected town, especially one that's worse than what they were told.",
+  "primaryReading": "かそ",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%81%8E%E7%96%8E",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "過",
-      "id": 1158,
-      "reading": "か"
-    },
-    {
-      "type": "kanji",
-      "value": "疎",
-      "id": 2243,
-      "reading": "そ"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%81%8E%E7%96%8E"
+  }
 }

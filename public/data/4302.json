@@ -1,44 +1,18 @@
 {
   "id": 4302,
   "type": "vocabulary",
-  "characters": "震災",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "震災"
+  },
   "primaryMeaning": "Earthquake Disaster",
-  "otherMeanings": [],
-  "primaryReading": "しんさい",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1099,
-      "character": "震",
-      "readings": [
-        "しん",
-        "ふる"
-      ]
-    },
-    {
-      "id": 1089,
-      "character": "災",
-      "readings": [
-        "さい",
-        "わざわ"
-      ]
-    }
-  ],
   "meaningMnemonic": "An <kanji>earthquake</kanji> <kanji>disaster</kanji> is just that, an <vocabulary>earthquake disaster</vocabulary>. These are no good.",
+  "primaryReading": "しんさい",
   "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9C%87%E7%81%BD",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "震",
-      "id": 1099,
-      "reading": "しん"
-    },
-    {
-      "type": "kanji",
-      "value": "災",
-      "id": 1089,
-      "reading": "さい"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%9C%87%E7%81%BD"
+  }
 }

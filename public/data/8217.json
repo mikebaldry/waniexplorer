@@ -1,49 +1,20 @@
 {
   "id": 8217,
   "type": "vocabulary",
-  "characters": "素朴",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "素朴"
+  },
   "primaryMeaning": "Simple",
+  "meaningMnemonic": "People made from <kanji>simple</kanji> <kanji>element</kanji>s are also pretty <vocabulary>simple</vocabulary>. And they can be <vocabulary>naive</vocabulary> too. But that's just how they're built.",
+  "primaryReading": "そぼく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Naive"
   ],
-  "primaryReading": "そぼく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1138,
-      "character": "素",
-      "readings": [
-        "そ",
-        "す",
-        "もと"
-      ]
-    },
-    {
-      "id": 2264,
-      "character": "朴",
-      "readings": [
-        "ぼく",
-        "えのき",
-        "ほう",
-        "ほお"
-      ]
-    }
-  ],
-  "meaningMnemonic": "People made from <kanji>simple</kanji> <kanji>element</kanji>s are also pretty <vocabulary>simple</vocabulary>. And they can be <vocabulary>naive</vocabulary> too. But that's just how they're built.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B4%A0%E6%9C%B4",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "素",
-      "id": 1138,
-      "reading": "そ"
-    },
-    {
-      "type": "kanji",
-      "value": "朴",
-      "id": 2264,
-      "reading": "ぼく"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%B4%A0%E6%9C%B4"
+  }
 }

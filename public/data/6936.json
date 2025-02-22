@@ -1,56 +1,21 @@
 {
   "id": 6936,
   "type": "vocabulary",
-  "characters": "吹き出す",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "吹き出す"
+  },
   "primaryMeaning": "To Begin To Blow",
+  "meaningMnemonic": "If 吹く is \"to blow\" and 出す is \"to remove,\" then you are removing your blowing. You need <vocabulary>to begin to blow</vocabulary> to do that!",
+  "primaryReading": "ふきだす",
+  "readingMnemonic": "The readings come from 吹く and 出す.",
   "otherMeanings": [
     "To Spout Out",
     "To Burst Out Laughing"
   ],
-  "primaryReading": "ふきだす",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1751,
-      "character": "吹",
-      "readings": [
-        "ふ",
-        "すい"
-      ]
-    },
-    {
-      "id": 483,
-      "character": "出",
-      "readings": [
-        "しゅつ",
-        "で",
-        "だ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "If 吹く is \"to blow\" and 出す is \"to remove,\" then you are removing your blowing. You need <vocabulary>to begin to blow</vocabulary> to do that!",
-  "readingMnemonic": "The readings come from 吹く and 出す.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%90%B9%E3%81%8D%E5%87%BA%E3%81%99",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "吹",
-      "id": 1751,
-      "reading": "ふ"
-    },
-    {
-      "type": "kana",
-      "value": "き"
-    },
-    {
-      "type": "kanji",
-      "value": "出",
-      "id": 483,
-      "reading": "だ"
-    },
-    {
-      "type": "kana",
-      "value": "す"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%90%B9%E3%81%8D%E5%87%BA%E3%81%99"
+  }
 }

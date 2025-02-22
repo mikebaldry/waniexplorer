@@ -1,0 +1,44 @@
+{
+  "id": 6778,
+  "type": "vocabulary",
+  "characters": "左翼",
+  "primaryMeaning": "Left Wing",
+  "otherMeanings": [],
+  "primaryReading": "さよく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 486,
+      "character": "左",
+      "readings": [
+        "さ",
+        "ひだり"
+      ]
+    },
+    {
+      "id": 1875,
+      "character": "翼",
+      "readings": [
+        "よく",
+        "つばさ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>left</kanji> <kanji>wing</kanji> is the <vocabulary>left wing</vocabulary>, as in the \"left wing party\" or \"left wing politics\" or something like that.",
+  "readingMnemonic": "The reading for 左 is the on'yomi reading, さ. You can remember this because the <vocabulary>left wing</vocabulary> uses <reading>saw</reading>s (さ) to cut down their right wing enemies. Imagine left wing hippies sawing down old right wing conservatives. BBrrrrbbbbbbzzzzz!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B7%A6%E7%BF%BC",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "左",
+      "id": 486,
+      "reading": "さ"
+    },
+    {
+      "type": "kanji",
+      "value": "翼",
+      "id": 1875,
+      "reading": "よく"
+    }
+  ]
+}

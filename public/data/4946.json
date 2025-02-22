@@ -1,49 +1,21 @@
 {
   "id": 4946,
   "type": "vocabulary",
-  "characters": "河豚",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "河豚"
+  },
   "primaryMeaning": "Fugu",
+  "meaningMnemonic": "The <kanji>river</kanji> <kanji>pig</kanji> is what's known as <vocabulary>fugu</vocabulary> or <vocabulary>blowfish</vocabulary>. You may know it from our mascot and best friend, the Tofugu!\n\nBut why does \"river pig\" = fugu? It's true that fugu usually live in the ocean, but sometimes they make their way into rivers near the ocean too. The \"pig\" part probably comes from their round, puffed-up appearance.",
+  "primaryReading": "ふぐ",
+  "readingMnemonic": "The reading makes no sense, really. Neither kanji readings work. But, if you remember that a river pig is a fugu, you can know the reading is <reading>ふぐ</reading>as well! YOU ARE A BLOWFISH, JESSE!",
   "otherMeanings": [
     "Blowfish",
     "Pufferfish"
   ],
-  "primaryReading": "ふぐ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1306,
-      "character": "河",
-      "readings": [
-        "か",
-        "かわ",
-        "こう",
-        "こお"
-      ]
-    },
-    {
-      "id": 1309,
-      "character": "豚",
-      "readings": [
-        "ぶた",
-        "とん"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The <kanji>river</kanji> <kanji>pig</kanji> is what's known as <vocabulary>fugu</vocabulary> or <vocabulary>blowfish</vocabulary>. You may know it from our mascot and best friend, the Tofugu!\n\nBut why does \"river pig\" = fugu? It's true that fugu usually live in the ocean, but sometimes they make their way into rivers near the ocean too. The \"pig\" part probably comes from their round, puffed-up appearance.",
-  "readingMnemonic": "The reading makes no sense, really. Neither kanji readings work. But, if you remember that a river pig is a fugu, you can know the reading is <reading>ふぐ</reading>as well! YOU ARE A BLOWFISH, JESSE!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B2%B3%E8%B1%9A",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "河",
-      "id": 1306,
-      "reading": null
-    },
-    {
-      "type": "kanji",
-      "value": "豚",
-      "id": 1309,
-      "reading": null
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B2%B3%E8%B1%9A"
+  }
 }

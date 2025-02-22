@@ -1,0 +1,43 @@
+{
+  "id": 8231,
+  "type": "vocabulary",
+  "characters": "累積",
+  "primaryMeaning": "Accumulation",
+  "otherMeanings": [],
+  "primaryReading": "るいせき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2273,
+      "character": "累",
+      "readings": [
+        "るい"
+      ]
+    },
+    {
+      "id": 1393,
+      "character": "積",
+      "readings": [
+        "せき",
+        "つ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Accumulate</kanji> and <kanji>accumulate</kanji> make <vocabulary>accumulation</vocabulary>!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B4%AF%E7%A9%8D",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "累",
+      "id": 2273,
+      "reading": "るい"
+    },
+    {
+      "type": "kanji",
+      "value": "積",
+      "id": 1393,
+      "reading": "せき"
+    }
+  ]
+}

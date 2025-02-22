@@ -1,46 +1,20 @@
 {
   "id": 3671,
   "type": "vocabulary",
-  "characters": "四季",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "四季"
+  },
   "primaryMeaning": "The Four Seasons",
+  "meaningMnemonic": "The <kanji>four</kanji> <kanji>season</kanji>s are <vocabulary>the four seasons</vocabulary>. For some reason many Japanese people think that Japan's the only place with four distinct seasons. Obviously they haven't been to half the places on their latitude around the world.",
+  "primaryReading": "しき",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Note that 四 is read using the on'yomi reading, which you've seen a few times over the course of WaniKani. Think of し meaning \"death\" (like 死), and how with the four seasons there comes death every Fall and Winter.",
   "otherMeanings": [
     "Four Seasons"
   ],
-  "primaryReading": "しき",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 485,
-      "character": "四",
-      "readings": [
-        "し",
-        "よん",
-        "よ"
-      ]
-    },
-    {
-      "id": 903,
-      "character": "季",
-      "readings": [
-        "き"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The <kanji>four</kanji> <kanji>season</kanji>s are <vocabulary>the four seasons</vocabulary>. For some reason many Japanese people think that Japan's the only place with four distinct seasons. Obviously they haven't been to half the places on their latitude around the world.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Note that 四 is read using the on'yomi reading, which you've seen a few times over the course of WaniKani. Think of し meaning \"death\" (like 死), and how with the four seasons there comes death every Fall and Winter.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%9B%9B%E5%AD%A3",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "四",
-      "id": 485,
-      "reading": "し"
-    },
-    {
-      "type": "kanji",
-      "value": "季",
-      "id": 903,
-      "reading": "き"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%9B%9B%E5%AD%A3"
+  }
 }

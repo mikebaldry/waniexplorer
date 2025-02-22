@@ -1,0 +1,37 @@
+{
+  "id": 5618,
+  "type": "vocabulary",
+  "characters": "閉める",
+  "primaryMeaning": "To Close Something",
+  "otherMeanings": [
+    "To Shut Something"
+  ],
+  "primaryReading": "しめる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1514,
+      "character": "閉",
+      "readings": [
+        "へい",
+        "し",
+        "と"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>closed</kanji> so the verb vocab version is <vocabulary>to close something</vocabulary>.\n\n閉める primarily means <vocabulary>to shut something</vocabulary> in a physical sense (often with a sliding or twisting motion), like when you close doors, windows, curtains, faucets, and so on. Additionally, it can also be used for closing shops, either for the day or permanently.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you:\n\nWhen you want <vocabulary>to close something</vocabulary>, use a <reading>shee</reading>p (し). Sheep are famously good closers. Doors, windows, curtains, you name it. Sure, they'll bleat on and on about how they're not your personal closer, they have their own doors to close, and bah bah blah, but they secretly love having the chance <vocabulary>to shut something</vocabulary> for you.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%96%89%E3%82%81%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "閉",
+      "id": 1514,
+      "reading": "し"
+    },
+    {
+      "type": "kana",
+      "value": "める"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 8163,
+  "type": "vocabulary",
+  "characters": "残酷",
+  "primaryMeaning": "Cruelty",
+  "otherMeanings": [
+    "Harshness"
+  ],
+  "primaryReading": "ざんこく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 912,
+      "character": "残",
+      "readings": [
+        "ざん",
+        "のこ"
+      ]
+    },
+    {
+      "id": 2247,
+      "character": "酷",
+      "readings": [
+        "こく",
+        "ひど",
+        "むご"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>remainder</kanji> of <kanji>cruel</kanji>ness is <vocabulary>cruelty</vocabulary>. There always seems to be plenty to go around, and it kind of sucks.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%AE%8B%E9%85%B7",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "残",
+      "id": 912,
+      "reading": "ざん"
+    },
+    {
+      "type": "kanji",
+      "value": "酷",
+      "id": 2247,
+      "reading": "こく"
+    }
+  ]
+}

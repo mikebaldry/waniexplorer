@@ -1,0 +1,47 @@
+{
+  "id": 2595,
+  "type": "vocabulary",
+  "characters": "今月",
+  "primaryMeaning": "This Month",
+  "otherMeanings": [
+    "Current Month"
+  ],
+  "primaryReading": "こんげつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 497,
+      "character": "今",
+      "readings": [
+        "こん",
+        "いま"
+      ]
+    },
+    {
+      "id": 477,
+      "character": "月",
+      "readings": [
+        "げつ",
+        "がつ",
+        "つき"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>now</kanji> <kanji>month</kanji> is actually <vocabulary>this month</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 月 has two on'yomi readings, here's a mnemonic to help you remember which one to use:\n\nOnly <vocabulary>this month</vocabulary>, your pet <reading>con</reading>dor <reading>gets</reading> (こんげつ) to sleep in your bed. You usually keep it in a cage, but once a year, you make an exception. And that's this month. How cute!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BB%8A%E6%9C%88",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "今",
+      "id": 497,
+      "reading": "こん"
+    },
+    {
+      "type": "kanji",
+      "value": "月",
+      "id": 477,
+      "reading": "げつ"
+    }
+  ]
+}

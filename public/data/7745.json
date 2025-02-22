@@ -1,52 +1,22 @@
 {
   "id": 7745,
   "type": "vocabulary",
-  "characters": "心持ち",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "心持ち"
+  },
   "primaryMeaning": "Feeling",
+  "meaningMnemonic": "Your <kanji>heart</kanji> <kanji>hold</kanji>s a lot of <vocabulary>feeling</vocabulary>s. They can be overwhelming and sometimes it feels like there are none in there at all, but that doesn't mean they aren't there in your heart.",
+  "primaryReading": "こころもち",
+  "readingMnemonic": "The readings for this word are both kun'yomi readings. You learned them when you learned the words 心 and 持つ, so you should be able to read this on your own.",
   "otherMeanings": [
     "Mood",
     "Somewhat",
     "Slightly"
   ],
-  "primaryReading": "こころもち",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 508,
-      "character": "心",
-      "readings": [
-        "しん",
-        "こころ"
-      ]
-    },
-    {
-      "id": 727,
-      "character": "持",
-      "readings": [
-        "じ",
-        "も"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Your <kanji>heart</kanji> <kanji>hold</kanji>s a lot of <vocabulary>feeling</vocabulary>s. They can be overwhelming and sometimes it feels like there are none in there at all, but that doesn't mean they aren't there in your heart.",
-  "readingMnemonic": "The readings for this word are both kun'yomi readings. You learned them when you learned the words 心 and 持つ, so you should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BF%83%E6%8C%81%E3%81%A1",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "心",
-      "id": 508,
-      "reading": "こころ"
-    },
-    {
-      "type": "kanji",
-      "value": "持",
-      "id": 727,
-      "reading": "も"
-    },
-    {
-      "type": "kana",
-      "value": "ち"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%BF%83%E6%8C%81%E3%81%A1"
+  }
 }

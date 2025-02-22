@@ -1,32 +1,40 @@
 {
   "id": 8913,
   "type": "kanji",
-  "character": "蹴",
-  "primaryMeaning": "Kick",
-  "otherMeanings": [],
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "蹴"
+  },
   "primaryReading": "け",
   "readings": [
     {
-      "reading": "け",
       "primary": true,
+      "reading": "け",
       "type": "kunyomi"
     },
     {
-      "reading": "しゅう",
       "primary": false,
+      "reading": "しゅう",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "Imagine yourself <kanji>kick</kanji>ing a <reading>ke</reading>ttle (け). There's nothing that's more satisfying to kick than a good ol' kettle, you know?",
+  "primaryMeaning": "Kick",
+  "otherMeanings": [],
   "meaningMnemonic": "In the <radical>foot</radical> <radical>capital</radical>, it's tough to be a <radical>dog</radical> because you're always getting <kanji>kick</kanji>ed. ",
-  "vocabularyIds": [
-    8920,
-    8921
-  ],
-  "radicalIds": [
-    95,
-    299,
-    47
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%B9%B4"
+  "readingMnemonic": "Imagine yourself <kanji>kick</kanji>ing a <reading>ke</reading>ttle (け). There's nothing that's more satisfying to kick than a good ol' kettle, you know?",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%B9%B4"
+  },
+  "related": {
+    "radicals": [
+      95,
+      299,
+      47
+    ],
+    "vocabularies": [
+      8920,
+      8921
+    ]
+  }
 }

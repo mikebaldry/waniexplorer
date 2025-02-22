@@ -1,0 +1,44 @@
+{
+  "id": 1514,
+  "type": "kanji",
+  "character": "閉",
+  "primaryMeaning": "Closed",
+  "otherMeanings": [
+    "Close",
+    "Closure"
+  ],
+  "primaryReading": "へい",
+  "readings": [
+    {
+      "reading": "へい",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "し",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "と",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Outside the talent gate that's always <kanji>closed</kanji>, <reading>hay</reading> (へい) is piled up to make beds for the people who are still trying to get in. Who knows how long they'll be there outside the closed gate, sleeping in the hay, but they're all working hard to become talented.",
+  "meaningMnemonic": "The <radical>gate</radical> to <radical>talent</radical> is now <kanji>closed</kanji>. In fact, the gate to talent is always closed. It's not like anyone can just waltz in and get themselves some talent. You have to work for it! You have to work hard to get through that closed gate to talent!",
+  "vocabularyIds": [
+    5618,
+    5619,
+    5620,
+    5837,
+    5845,
+    7019,
+    7944
+  ],
+  "radicalIds": [
+    214,
+    264
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%96%89"
+}

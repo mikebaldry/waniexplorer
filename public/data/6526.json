@@ -1,37 +1,20 @@
 {
   "id": 6526,
   "type": "vocabulary",
-  "characters": "包む",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "包む"
+  },
   "primaryMeaning": "To Wrap",
-  "otherMeanings": [],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>wrap</kanji> so the verb vocab version is <vocabulary>to wrap</vocabulary>.",
   "primaryReading": "つつむ",
+  "readingMnemonic": "You never wrap things once, you always wrap them twice. And then you double that. It's a <reading>two two</reading> (つつ) wrapping technique.\n\nつつむ is the reading we want you to focus on, but it's good to know that 包む can be read as くるむ as well. くるむ is used when you wrap something up carefully and protectively, like a baby in a blanket. つつむ on the other hand, has broader use and is commonly used for wrapping things like presents.",
+  "otherMeanings": [],
   "otherReadings": [
     "くるむ"
   ],
-  "kanji": [
-    {
-      "id": 1795,
-      "character": "包",
-      "readings": [
-        "ほう",
-        "つつ",
-        "くる"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>wrap</kanji> so the verb vocab version is <vocabulary>to wrap</vocabulary>.",
-  "readingMnemonic": "You never wrap things once, you always wrap them twice. And then you double that. It's a <reading>two two</reading> (つつ) wrapping technique.\n\nつつむ is the reading we want you to focus on, but it's good to know that 包む can be read as くるむ as well. くるむ is used when you wrap something up carefully and protectively, like a baby in a blanket. つつむ on the other hand, has broader use and is commonly used for wrapping things like presents.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8C%85%E3%82%80",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "包",
-      "id": 1795,
-      "reading": "つつ"
-    },
-    {
-      "type": "kana",
-      "value": "む"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%8C%85%E3%82%80"
+  }
 }

@@ -1,28 +1,36 @@
 {
   "id": 8883,
   "type": "kanji",
-  "character": "拶",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "拶"
+  },
+  "primaryReading": "さつ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "さつ",
+      "type": "onyomi"
+    }
+  ],
   "primaryMeaning": "Draw Close",
   "otherMeanings": [
     "Be Imminent"
   ],
-  "primaryReading": "さつ",
-  "readings": [
-    {
-      "reading": "さつ",
-      "primary": true,
-      "type": "onyomi"
-    }
-  ],
-  "readingMnemonic": "Luckily whenever you sense a flood starting to <kanji>draw close</kanji>, <reading>Satsu</reading>ki (さつ) prepares a raft. Remember Satsuki? Such a talented little girl. I guess floods are common enough that she's learned to make rafts?",
   "meaningMnemonic": "Your <radical>fingers</radical> told you that a <radical>flood</radical> last <radical>evening</radical> would <kanji>draw close</kanji>. There was nothing you could do to stop it, it seemed to be <kanji>be imminent</kanji>, coming in the darkness of the evening.",
-  "vocabularyIds": [
-    8894
-  ],
-  "radicalIds": [
-    63,
-    273,
-    33
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%8B%B6"
+  "readingMnemonic": "Luckily whenever you sense a flood starting to <kanji>draw close</kanji>, <reading>Satsu</reading>ki (さつ) prepares a raft. Remember Satsuki? Such a talented little girl. I guess floods are common enough that she's learned to make rafts?",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%8B%B6"
+  },
+  "related": {
+    "radicals": [
+      63,
+      273,
+      33
+    ],
+    "vocabularies": [
+      8894
+    ]
+  }
 }

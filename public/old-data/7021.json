@@ -1,0 +1,48 @@
+{
+  "id": 7021,
+  "type": "vocabulary",
+  "characters": "口癖",
+  "primaryMeaning": "Favorite Phrase",
+  "otherMeanings": [
+    "Catchphrase",
+    "Habit Of Saying"
+  ],
+  "primaryReading": "くちぐせ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 452,
+      "character": "口",
+      "readings": [
+        "こう",
+        "く",
+        "くち"
+      ]
+    },
+    {
+      "id": 1963,
+      "character": "癖",
+      "readings": [
+        "くせ",
+        "へき"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>mouth</kanji> <kanji>habit</kanji> is something you say with your mouth a lot. It's a habit. It's your <vocabulary>favorite phrase</vocabulary> or <vocabulary>catchphrase</vocabulary>. Many people have the <vocabulary>habit of saying</vocabulary> the certain things over and over again, whether they want to or not.",
+  "readingMnemonic": "The reading is the kun'yomi vocab reading of both kanji. 癖 is the reading you learned with the kanji. Watch out for the rendaku.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8F%A3%E7%99%96",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "口",
+      "id": 452,
+      "reading": "くち"
+    },
+    {
+      "type": "kanji",
+      "value": "癖",
+      "id": 1963,
+      "reading": "ぐせ"
+    }
+  ]
+}

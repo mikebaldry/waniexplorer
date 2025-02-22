@@ -1,33 +1,41 @@
 {
   "id": 1713,
   "type": "kanji",
-  "character": "雇",
-  "primaryMeaning": "Employ",
-  "otherMeanings": [],
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "雇"
+  },
   "primaryReading": "こ",
   "readings": [
     {
-      "reading": "こ",
       "primary": true,
+      "reading": "こ",
       "type": "onyomi"
     },
     {
-      "reading": "やと",
       "primary": false,
+      "reading": "やと",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "Although you <kanji>employ</kanji> turkeys, when a <reading>子</reading> (こ) walks through your door, you send them away.",
+  "primaryMeaning": "Employ",
+  "otherMeanings": [],
   "meaningMnemonic": "Whenever a <radical>turkey</radical> comes in the <radical>door</radical>, you <kanji>employ</kanji> them.",
-  "vocabularyIds": [
-    6267,
-    6268,
-    6269,
-    6460
-  ],
-  "radicalIds": [
-    240,
-    73
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%9B%87"
+  "readingMnemonic": "Although you <kanji>employ</kanji> turkeys, when a <reading>子</reading> (こ) walks through your door, you send them away.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%9B%87"
+  },
+  "related": {
+    "radicals": [
+      240,
+      73
+    ],
+    "vocabularies": [
+      6267,
+      6268,
+      6269,
+      6460
+    ]
+  }
 }

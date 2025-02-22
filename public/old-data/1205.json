@@ -1,0 +1,40 @@
+{
+  "id": 1205,
+  "type": "kanji",
+  "character": "張",
+  "primaryMeaning": "Stretch",
+  "otherMeanings": [],
+  "primaryReading": "ちょう",
+  "readings": [
+    {
+      "reading": "ちょう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "は",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "As you <kanji>stretch</kanji> the bow, you hear someone running at you. \"That's my bow you're stretching!\" yells Mrs. <reading>Chou</reading> (ちょう). She is not happy that you're stretching her things. You should probably try to un-stretch it, put it down, and run before she beats you.",
+  "meaningMnemonic": "You have a <radical>bow</radical> and you want to make it <radical>long</radical>. To do that, you'd naturally just <kanji>stretch</kanji> it.",
+  "vocabularyIds": [
+    4631,
+    4767,
+    5017,
+    5231,
+    5407,
+    5641,
+    6236,
+    6699,
+    7039,
+    7917,
+    9083
+  ],
+  "radicalIds": [
+    36,
+    138
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%BC%B5"
+}

@@ -1,0 +1,51 @@
+{
+  "id": 7726,
+  "type": "vocabulary",
+  "characters": "手頃",
+  "primaryMeaning": "Moderate",
+  "otherMeanings": [
+    "Handy",
+    "Convenient",
+    "Reasonable"
+  ],
+  "primaryReading": "てごろ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 474,
+      "character": "手",
+      "readings": [
+        "て",
+        "しゅ",
+        "ず"
+      ]
+    },
+    {
+      "id": 1914,
+      "character": "頃",
+      "readings": [
+        "ころ",
+        "ごろ",
+        "けい",
+        "きょう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you control your <kanji>hand</kanji> an <kanji>approximate</kanji> amount, you are going to be a very <vocabulary>moderate</vocabulary> and <vocabulary>reasonable</vocabulary> person.",
+  "readingMnemonic": "The readings for this word are both kun'yomi readings. You've learned both of these readings by now so you should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%89%8B%E9%A0%83",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "手",
+      "id": 474,
+      "reading": "て"
+    },
+    {
+      "type": "kanji",
+      "value": "頃",
+      "id": 1914,
+      "reading": "ごろ"
+    }
+  ]
+}

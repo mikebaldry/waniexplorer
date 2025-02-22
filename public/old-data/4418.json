@@ -1,0 +1,59 @@
+{
+  "id": 4418,
+  "type": "vocabulary",
+  "characters": "事務所",
+  "primaryMeaning": "Office",
+  "otherMeanings": [],
+  "primaryReading": "じむしょ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 708,
+      "character": "事",
+      "readings": [
+        "じ",
+        "こと",
+        "つか"
+      ]
+    },
+    {
+      "id": 1129,
+      "character": "務",
+      "readings": [
+        "む",
+        "つと"
+      ]
+    },
+    {
+      "id": 707,
+      "character": "所",
+      "readings": [
+        "しょ",
+        "ところ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When the <kanji>occurrence</kanji> of your <kanji>task</kanji>s is in the same <kanji>place</kanji> every day, that place is probably an <vocabulary>office</vocabulary>.\n\n事務所 is often for office spaces that handle back-office 事務 (administrative or clerical work). It can also be used for offices that offer more specialized services, like a 会計事務所 (accounting <vocabulary>firm</vocabulary>) or 芸能事務所 (talent <vocabulary>agency</vocabulary>).",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BA%8B%E5%8B%99%E6%89%80",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "事",
+      "id": 708,
+      "reading": "じ"
+    },
+    {
+      "type": "kanji",
+      "value": "務",
+      "id": 1129,
+      "reading": "む"
+    },
+    {
+      "type": "kanji",
+      "value": "所",
+      "id": 707,
+      "reading": "しょ"
+    }
+  ]
+}

@@ -1,62 +1,20 @@
 {
   "id": 7708,
   "type": "vocabulary",
-  "characters": "最後尾",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "最後尾"
+  },
   "primaryMeaning": "End Of A Line",
-  "otherMeanings": [],
+  "meaningMnemonic": "You have 最, which means <kanji>most</kanji>, and 後尾, which means something like \"back\" or \"rear\" (<kanji>behind</kanji> + <kanji>tail</kanji>). When you're at the most back part of something, you might find yourself at the <vocabulary>end of a line</vocabulary> or <vocabulary>end of a queue</vocabulary>.\n\n最後尾 is often seen on signs at the end of a long line to help people locate where to join the queue.",
   "primaryReading": "さいこうび",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 774,
-      "character": "最",
-      "readings": [
-        "さい",
-        "もっと"
-      ]
-    },
-    {
-      "id": 636,
-      "character": "後",
-      "readings": [
-        "ご",
-        "こう",
-        "うし",
-        "あと",
-        "のち"
-      ]
-    },
-    {
-      "id": 1101,
-      "character": "尾",
-      "readings": [
-        "び",
-        "お",
-        "ぽ"
-      ]
-    }
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. Be careful, because this is 最 + 後尾, and not 最後 + 尾, meaning that 後 is read こう, not ご! ",
+  "otherMeanings": [
+    "End Of A Queue"
   ],
-  "meaningMnemonic": "You already know that  最後 means \"end\" so the <kanji>tail</kanji> end is the <vocabulary>end of a line</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. It isn't the same as 最後 though, so watch out for that! It uses the other on'yomi reading you learned with the kanji!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9C%80%E5%BE%8C%E5%B0%BE",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "最",
-      "id": 774,
-      "reading": "さい"
-    },
-    {
-      "type": "kanji",
-      "value": "後",
-      "id": 636,
-      "reading": "こう"
-    },
-    {
-      "type": "kanji",
-      "value": "尾",
-      "id": 1101,
-      "reading": "び"
-    }
-  ]
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%9C%80%E5%BE%8C%E5%B0%BE"
+  }
 }

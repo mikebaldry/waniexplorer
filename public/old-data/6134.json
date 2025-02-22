@@ -1,0 +1,34 @@
+{
+  "id": 6134,
+  "type": "vocabulary",
+  "characters": "狙い",
+  "primaryMeaning": "Aim",
+  "otherMeanings": [],
+  "primaryReading": "ねらい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1673,
+      "character": "狙",
+      "readings": [
+        "そ",
+        "ねら"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Your <kanji>aim</kanji> is your <vocabulary>aim</vocabulary>. What are you aiming for? Despite looking like an adjective, this is a noun, so be careful!",
+  "readingMnemonic": "My <vocabulary>aim</vocabulary> is <reading>near</reading> (ねら) to here. Right there, in fact.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%8B%99%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "狙",
+      "id": 1673,
+      "reading": "ねら"
+    },
+    {
+      "type": "kana",
+      "value": "い"
+    }
+  ]
+}

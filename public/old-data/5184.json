@@ -1,0 +1,47 @@
+{
+  "id": 5184,
+  "type": "vocabulary",
+  "characters": "過程",
+  "primaryMeaning": "Process",
+  "otherMeanings": [
+    "A Process"
+  ],
+  "primaryReading": "かてい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1158,
+      "character": "過",
+      "readings": [
+        "か",
+        "す",
+        "あやま"
+      ]
+    },
+    {
+      "id": 1369,
+      "character": "程",
+      "readings": [
+        "てい",
+        "ほど"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Surpass</kanji> the <kanji>extent</kanji>... okay, what does that even mean? You figure out the extent of your abilities, and then you surpass them to get better. You have to do this over and over again in order to keep getting better. It's a <vocabulary>process</vocabulary> that must be accomplished if you ever hope to get better than you are now.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%81%8E%E7%A8%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "過",
+      "id": 1158,
+      "reading": "か"
+    },
+    {
+      "type": "kanji",
+      "value": "程",
+      "id": 1369,
+      "reading": "てい"
+    }
+  ]
+}

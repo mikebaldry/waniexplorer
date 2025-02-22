@@ -1,0 +1,44 @@
+{
+  "id": 7012,
+  "type": "vocabulary",
+  "characters": "租界",
+  "primaryMeaning": "Concession",
+  "otherMeanings": [
+    "Settlement"
+  ],
+  "primaryReading": "そかい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1960,
+      "character": "租",
+      "readings": [
+        "そ"
+      ]
+    },
+    {
+      "id": 728,
+      "character": "界",
+      "readings": [
+        "かい"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>tariff</kanji> of the <kanji>world</kanji> is a <vocabulary>concession</vocabulary> or <vocabulary>settlement</vocabulary>. That's just how the world works.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A7%9F%E7%95%8C",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "租",
+      "id": 1960,
+      "reading": "そ"
+    },
+    {
+      "type": "kanji",
+      "value": "界",
+      "id": 728,
+      "reading": "かい"
+    }
+  ]
+}

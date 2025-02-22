@@ -1,0 +1,32 @@
+{
+  "id": 5921,
+  "type": "vocabulary",
+  "characters": "鍋",
+  "primaryMeaning": "Pot",
+  "otherMeanings": [
+    "Hotpot"
+  ],
+  "primaryReading": "なべ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1605,
+      "character": "鍋",
+      "readings": [
+        "なべ",
+        "か"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "The reading is the same as you learned with the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%8D%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "鍋",
+      "id": 1605,
+      "reading": "なべ"
+    }
+  ]
+}

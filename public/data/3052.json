@@ -1,37 +1,21 @@
 {
   "id": 3052,
   "type": "vocabulary",
-  "characters": "答える",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "答える"
+  },
   "primaryMeaning": "To Answer",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>answer</kanji> so the verb version means <vocabulary>to answer</vocabulary>.",
+  "primaryReading": "こたえる",
+  "readingMnemonic": "The reading is the kun'yomi reading as you'd expect with all the hiragana, but luckily that's the reading you learned with the kanji so you should be able to read this.",
   "otherMeanings": [
     "To Reply",
     "To Respond"
   ],
-  "primaryReading": "こたえる",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 697,
-      "character": "答",
-      "readings": [
-        "こた",
-        "とう"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>answer</kanji> so the verb version means <vocabulary>to answer</vocabulary>.",
-  "readingMnemonic": "The reading is the kun'yomi reading as you'd expect with all the hiragana, but luckily that's the reading you learned with the kanji so you should be able to read this.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%AD%94%E3%81%88%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "答",
-      "id": 697,
-      "reading": "こた"
-    },
-    {
-      "type": "kana",
-      "value": "える"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%AD%94%E3%81%88%E3%82%8B"
+  }
 }

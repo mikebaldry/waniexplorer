@@ -1,0 +1,38 @@
+{
+  "id": 3212,
+  "type": "vocabulary",
+  "characters": "スペイン語",
+  "primaryMeaning": "Spanish Language",
+  "otherMeanings": [
+    "Spanish"
+  ],
+  "primaryReading": "すぺいんご",
+  "otherReadings": [
+    "スペインご"
+  ],
+  "kanji": [
+    {
+      "id": 764,
+      "character": "語",
+      "readings": [
+        "ご",
+        "かた"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You can probably figure out that スペイン is \"Spain\" just by reading it. Add the kanji <kanji>language</kanji> on there and you have the <vocabulary>Spanish language</vocabulary> (or just <vocabulary>Spanish</vocabulary>), if you'd like.",
+  "readingMnemonic": "The reading for the kanji portion is just the reading you learned with the kanji. Since it's attached to something, it's like a jukugo word.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%B3%E8%AA%9E",
+  "elements": [
+    {
+      "type": "kana",
+      "value": "スペイン"
+    },
+    {
+      "type": "kanji",
+      "value": "語",
+      "id": 764,
+      "reading": "ご"
+    }
+  ]
+}

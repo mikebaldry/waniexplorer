@@ -1,0 +1,38 @@
+{
+  "id": 647,
+  "type": "kanji",
+  "character": "氏",
+  "primaryMeaning": "Family Name",
+  "otherMeanings": [
+    "Last Name",
+    "Surname"
+  ],
+  "primaryReading": "し",
+  "readings": [
+    {
+      "reading": "し",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "うじ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Don't worry, I'll tell you where your <kanji>family name</kanji> came from. Your family used to herd <reading>shee</reading>p (し). You read that right, your family was of the sheep clan because you took care of sheep all day.",
+  "meaningMnemonic": "Your <radical>clan</radical> is where you get your name. But not your given name, your <kanji>family name</kanji>. That's why people have names that mean \"in a rice paddy\" and \"near the ferry crossing.\" The location of your clan determined your <kanji>surname</kanji>! Hope your ancestors didn't live on \"Poo Lake\" or something.",
+  "vocabularyIds": [
+    2928,
+    2929,
+    5803,
+    5897,
+    5948,
+    8291,
+    9124
+  ],
+  "radicalIds": [
+    147
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%B0%8F"
+}

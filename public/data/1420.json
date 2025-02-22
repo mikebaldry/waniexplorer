@@ -1,38 +1,46 @@
 {
   "id": 1420,
   "type": "kanji",
-  "character": "快",
-  "primaryMeaning": "Pleasant",
-  "otherMeanings": [],
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "快"
+  },
   "primaryReading": "かい",
   "readings": [
     {
-      "reading": "かい",
       "primary": true,
+      "reading": "かい",
       "type": "onyomi"
     },
     {
-      "reading": "こころよ",
       "primary": false,
+      "reading": "こころよ",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "If you want to feel this <kanji>pleasant</kanji> feeling just look at a <reading>kay</reading>ak (かい). Kayaks are the most pleasant boats in the world. Feel that pleasant feeling in your chest just from reading about kayaks in this mnemonic right now.",
+  "primaryMeaning": "Pleasant",
+  "otherMeanings": [],
   "meaningMnemonic": "The <radical>soul</radical> of a <radical>person</radical> has a <radical>hook</radical> that can make them <kanji>pleasant</kanji>. When you see, hear, or feel something pleasant, can't you feel that hook pressing into the middle of your body?",
-  "vocabularyIds": [
-    5311,
-    5312,
-    5313,
-    5314,
-    7659,
-    7719,
-    8202,
-    8363
-  ],
-  "radicalIds": [
-    232,
-    9,
-    157
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%BF%AB"
+  "readingMnemonic": "If you want to feel this <kanji>pleasant</kanji> feeling just look at a <reading>kay</reading>ak (かい). Kayaks are the most pleasant boats in the world. Feel that pleasant feeling in your chest just from reading about kayaks in this mnemonic right now.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%BF%AB"
+  },
+  "related": {
+    "radicals": [
+      232,
+      9,
+      157
+    ],
+    "vocabularies": [
+      5311,
+      5312,
+      5313,
+      5314,
+      7659,
+      7719,
+      8202,
+      8363
+    ]
+  }
 }

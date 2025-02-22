@@ -1,0 +1,32 @@
+{
+  "id": 657,
+  "type": "kanji",
+  "character": "末",
+  "primaryMeaning": "End",
+  "otherMeanings": [],
+  "primaryReading": "まつ",
+  "readings": [
+    {
+      "reading": "まつ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "すえ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "When you get to the <kanji>end</kanji> of the world, you land your jet and put out a few <reading>mats</reading> (まつ) to sit on so you can view the sights. ",
+  "meaningMnemonic": "This kanji uses a modified <radical>jet</radical> radical. The front area of the wing is wider than the middle area of the wing. This may seem counterintuitive, but by doing this they can fit so much more jet fuel. The jet zooms off and keeps going for a long, long time, until it reaches the <kanji>end</kanji> of the earth.",
+  "vocabularyIds": [
+    2947,
+    2948,
+    2949,
+    2980
+  ],
+  "radicalIds": [
+    134
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%9C%AB"
+}

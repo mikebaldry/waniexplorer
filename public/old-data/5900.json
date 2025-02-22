@@ -1,0 +1,34 @@
+{
+  "id": 5900,
+  "type": "vocabulary",
+  "characters": "恥",
+  "primaryMeaning": "Shame",
+  "otherMeanings": [
+    "Embarrassment",
+    "Disgrace"
+  ],
+  "primaryReading": "はじ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1595,
+      "character": "恥",
+      "readings": [
+        "は",
+        "はじ",
+        "ち"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "This is also the reading you learned. How nice! But if you don't remember it, what a <vocabulary>shame</vocabulary>. What an <vocabulary>embarrassment</vocabulary> this must be for you.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%81%A5",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "恥",
+      "id": 1595,
+      "reading": "はじ"
+    }
+  ]
+}

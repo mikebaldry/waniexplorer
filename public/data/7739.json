@@ -1,48 +1,21 @@
 {
   "id": 7739,
   "type": "vocabulary",
-  "characters": "具合",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "具合"
+  },
   "primaryMeaning": "Condition",
+  "meaningMnemonic": "You have to find the right <kanji>tool</kanji> to <kanji>suit</kanji> your <vocabulary>condition</vocabulary> or <vocabulary>state</vocabulary>. If you have a <vocabulary>health</vocabulary> condition, the tool is a pill, or exercise, or real life friends. But it always depends on the condition you're in.",
+  "primaryReading": "ぐあい",
+  "readingMnemonic": "This word consists of the on'yomi reading for 具 and the kun'yomi reading for 合. You've learned them both, so you should be able to read this word too!",
   "otherMeanings": [
     "State",
     "Health"
   ],
-  "primaryReading": "ぐあい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 710,
-      "character": "具",
-      "readings": [
-        "ぐ"
-      ]
-    },
-    {
-      "id": 852,
-      "character": "合",
-      "readings": [
-        "ごう",
-        "がっ",
-        "あ",
-        "あい"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You have to find the right <kanji>tool</kanji> to <kanji>suit</kanji> your <vocabulary>condition</vocabulary> or <vocabulary>state</vocabulary>. If you have a <vocabulary>health</vocabulary> condition, the tool is a pill, or exercise, or real life friends. But it always depends on the condition you're in.",
-  "readingMnemonic": "This word consists of the on'yomi reading for 具 and the kun'yomi reading for 合. You've learned them both, so you should be able to read this word too!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%85%B7%E5%90%88",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "具",
-      "id": 710,
-      "reading": "ぐ"
-    },
-    {
-      "type": "kanji",
-      "value": "合",
-      "id": 852,
-      "reading": "あい"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%85%B7%E5%90%88"
+  }
 }

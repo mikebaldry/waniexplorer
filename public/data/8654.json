@@ -1,39 +1,22 @@
 {
   "id": 8654,
   "type": "vocabulary",
-  "characters": "醜い",
+  "level": 60,
+  "characters": {
+    "type": "text",
+    "value": "醜い"
+  },
   "primaryMeaning": "Ugly",
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>ugly</kanji>? It's <vocabulary>ugly</vocabulary> still!",
+  "primaryReading": "みにくい",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nThe most <vocabulary>ugly</vocabulary> thing you've ever seen was a <reading>mini coo</reading>kie (みにく). Why would any one want a tiny cookie? Cookies should be huge, and enough to fill you up. The more you look at the mini cookie it seems to become uglier and uglier to you.",
   "otherMeanings": [
     "Unattractive",
     "Unsightly",
     "Unseemly"
   ],
-  "primaryReading": "みにくい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2448,
-      "character": "醜",
-      "readings": [
-        "しゅう",
-        "しこ",
-        "みにく"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>ugly</kanji>? It's <vocabulary>ugly</vocabulary> still!",
-  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nThe most <vocabulary>ugly</vocabulary> thing you've ever seen was a <reading>mini coo</reading>kie (みにく). Why would any one want a tiny cookie? Cookies should be huge, and enough to fill you up. The more you look at the mini cookie it seems to become uglier and uglier to you.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%86%9C%E3%81%84",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "醜",
-      "id": 2448,
-      "reading": "みにく"
-    },
-    {
-      "type": "kana",
-      "value": "い"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%86%9C%E3%81%84"
+  }
 }

@@ -1,39 +1,47 @@
 {
   "id": 679,
   "type": "kanji",
-  "character": "住",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "住"
+  },
+  "primaryReading": "じゅう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "じゅう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "す",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Dwell",
   "otherMeanings": [
     "Reside",
     "Dwelling"
   ],
-  "primaryReading": "じゅう",
-  "readings": [
-    {
-      "reading": "じゅう",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "す",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "She needs this big place to <kanji>dwell</kanji> so she has somewhere to store all of her <reading>jew</reading>els (じゅう). Masters always have lots of fancy, expensive things, and she has jewels.",
   "meaningMnemonic": "The <radical>leader</radical> of the <radical>master</radical>s gets to choose the place they <kanji>dwell</kanji>. So they <kanji>reside</kanji> in a huge mansion on the top of the mountain, surrounded by all the other masters in their smaller dwellings.",
-  "vocabularyIds": [
-    2994,
-    2995,
-    2996,
-    3043,
-    4638,
-    5180,
-    5181
-  ],
-  "radicalIds": [
-    75,
-    154
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E4%BD%8F"
+  "readingMnemonic": "She needs this big place to <kanji>dwell</kanji> so she has somewhere to store all of her <reading>jew</reading>els (じゅう). Masters always have lots of fancy, expensive things, and she has jewels.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E4%BD%8F"
+  },
+  "related": {
+    "radicals": [
+      75,
+      154
+    ],
+    "vocabularies": [
+      2994,
+      2995,
+      2996,
+      3043,
+      4638,
+      5180,
+      5181
+    ]
+  }
 }

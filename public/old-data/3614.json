@@ -1,0 +1,47 @@
+{
+  "id": 3614,
+  "type": "vocabulary",
+  "characters": "熱心",
+  "primaryMeaning": "Enthusiasm",
+  "otherMeanings": [
+    "Passion",
+    "Zeal"
+  ],
+  "primaryReading": "ねっしん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 882,
+      "character": "熱",
+      "readings": [
+        "ねつ",
+        "あつ"
+      ]
+    },
+    {
+      "id": 508,
+      "character": "心",
+      "readings": [
+        "しん",
+        "こころ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When your <kanji>heart</kanji> is <kanji>fever</kanji>ish and hot about something, it is obviously something you have a lot of <vocabulary>enthusiasm</vocabulary> about. Think about the things you've enthusiasm for. Then, imagine your heart beating and getting all hot from thinking about it. Why else would people get so upset when talking about religion and politics. It's their feverish heart! Their enthusiasm!",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Be careful of the ねっ portion (normally is ねつ).",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%86%B1%E5%BF%83",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "熱",
+      "id": 882,
+      "reading": null
+    },
+    {
+      "type": "kanji",
+      "value": "心",
+      "id": 508,
+      "reading": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 2668,
+  "type": "vocabulary",
+  "characters": "早い",
+  "primaryMeaning": "Early",
+  "otherMeanings": [
+    "Fast",
+    "Quick"
+  ],
+  "primaryReading": "はやい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 547,
+      "character": "早",
+      "readings": [
+        "そう",
+        "はや",
+        "さ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>early</kanji>? It's also <vocabulary>early</vocabulary>.",
+  "readingMnemonic": "The reading for this word is the kun'yomi reading, which you did not learn when you learned the kanji. You have to remember the はや portion to be able to read this word. In order to do that, here's a mnemonic: \n\nYou're <kanji>fast</kanji>! You're <kanji>early</kanji>! Your chop comes down onto your opponent's neck so quickly! As you chop him, you yell \"<reading>はや</reading>!\"",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%97%A9%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "早",
+      "id": 547,
+      "reading": "はや"
+    },
+    {
+      "type": "kana",
+      "value": "い"
+    }
+  ]
+}

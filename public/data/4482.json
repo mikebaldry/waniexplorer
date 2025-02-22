@@ -1,47 +1,18 @@
 {
   "id": 4482,
   "type": "vocabulary",
-  "characters": "存在する",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "存在する"
+  },
   "primaryMeaning": "To Exist",
-  "otherMeanings": [],
-  "primaryReading": "そんざいする",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 990,
-      "character": "存",
-      "readings": [
-        "そん",
-        "ぞん"
-      ]
-    },
-    {
-      "id": 1107,
-      "character": "在",
-      "readings": [
-        "ざい"
-      ]
-    }
-  ],
   "meaningMnemonic": "Know how 存在 is existence? Well, make it a verb and then you have <vocabulary>to exist</vocabulary>.",
+  "primaryReading": "そんざいする",
   "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%AD%98%E5%9C%A8%E3%81%99%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "存",
-      "id": 990,
-      "reading": "そん"
-    },
-    {
-      "type": "kanji",
-      "value": "在",
-      "id": 1107,
-      "reading": "ざい"
-    },
-    {
-      "type": "kana",
-      "value": "する"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%AD%98%E5%9C%A8%E3%81%99%E3%82%8B"
+  }
 }

@@ -1,48 +1,22 @@
 {
   "id": 3664,
   "type": "vocabulary",
-  "characters": "周囲",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "周囲"
+  },
   "primaryMeaning": "Perimeter",
+  "meaningMnemonic": "The <kanji>circumference</kanji> that <kanji>surround</kanji>s us is the <vocabulary>perimeter</vocabulary> of the area. Do not cross it.",
+  "primaryReading": "しゅうい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Circumference",
     "Surroundings",
     "Environs"
   ],
-  "primaryReading": "しゅうい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 900,
-      "character": "周",
-      "readings": [
-        "しゅう",
-        "まわ"
-      ]
-    },
-    {
-      "id": 901,
-      "character": "囲",
-      "readings": [
-        "い",
-        "かこ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The <kanji>circumference</kanji> that <kanji>surround</kanji>s us is the <vocabulary>perimeter</vocabulary> of the area. Do not cross it.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%91%A8%E5%9B%B2",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "周",
-      "id": 900,
-      "reading": "しゅう"
-    },
-    {
-      "type": "kanji",
-      "value": "囲",
-      "id": 901,
-      "reading": "い"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%91%A8%E5%9B%B2"
+  }
 }

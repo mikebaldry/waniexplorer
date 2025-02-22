@@ -1,55 +1,63 @@
 {
   "id": 565,
   "type": "kanji",
-  "character": "交",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "交"
+  },
+  "primaryReading": "こう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "こう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "まじ",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ま",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "か",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Mix",
   "otherMeanings": [
     "Mingle"
   ],
-  "primaryReading": "こう",
-  "readings": [
-    {
-      "reading": "こう",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "まじ",
-      "primary": false,
-      "type": "kunyomi"
-    },
-    {
-      "reading": "ま",
-      "primary": false,
-      "type": "kunyomi"
-    },
-    {
-      "reading": "か",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "With a <kanji>mix</kanji> of your father and other ingredients <kanji>mingl</kanji>ing in your cooking pot, you lift up the lid... your father pops up. Your father is <reading>こう</reading>いち. He stares back at you with a big smile.",
   "meaningMnemonic": "You put a <radical>lid</radical> on your <radical>father</radical>. But, he won't taste good alone, so you <kanji>mix</kanji> in some other ingredients. They <kanji>mingle</kanji> inside the pot with him.",
-  "vocabularyIds": [
-    2740,
-    2967,
-    3050,
-    3463,
-    3466,
-    3975,
-    4017,
-    4716,
-    5888,
-    6634,
-    7730,
-    8334,
-    9078,
-    9116
-  ],
-  "radicalIds": [
-    8,
-    68
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E4%BA%A4"
+  "readingMnemonic": "With a <kanji>mix</kanji> of your father and other ingredients <kanji>mingl</kanji>ing in your cooking pot, you lift up the lid... your father pops up. Your father is <reading>こう</reading>いち. He stares back at you with a big smile.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E4%BA%A4"
+  },
+  "related": {
+    "radicals": [
+      8,
+      68
+    ],
+    "vocabularies": [
+      2740,
+      2967,
+      3050,
+      3463,
+      3466,
+      3975,
+      4017,
+      4716,
+      5888,
+      6634,
+      7730,
+      8334,
+      9078,
+      9116
+    ]
+  }
 }

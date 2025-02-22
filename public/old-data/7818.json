@@ -1,0 +1,37 @@
+{
+  "id": 7818,
+  "type": "vocabulary",
+  "characters": "耕す",
+  "primaryMeaning": "To Till",
+  "otherMeanings": [
+    "To Plow",
+    "To Cultivate"
+  ],
+  "primaryReading": "たがやす",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2129,
+      "character": "耕",
+      "readings": [
+        "こう",
+        "たがや"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>plow</kanji>, so the verb version is <vocabulary>to plow</vocabulary> or <vocabulary>to till</vocabulary>.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn this reading yet, so here's a mnemonic to help you:\n\nYou need <vocabulary>to till</vocabulary> your land because you want to have a <reading>tige</reading>r <reading>ya</reading>rd (たがや). That's either when you have a yard full of live tigers, or you plant bushes and shape them into tigers. I hope it's the second kind of tiger yard. Either way, you have to plow the land to get it ready.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%80%95%E3%81%99",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "耕",
+      "id": 2129,
+      "reading": "たがや"
+    },
+    {
+      "type": "kana",
+      "value": "す"
+    }
+  ]
+}

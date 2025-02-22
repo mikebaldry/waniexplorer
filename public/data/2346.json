@@ -1,29 +1,37 @@
 {
   "id": 2346,
   "type": "kanji",
-  "character": "衡",
-  "primaryMeaning": "Equilibrium",
-  "otherMeanings": [],
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "衡"
+  },
   "primaryReading": "こう",
   "readings": [
     {
-      "reading": "こう",
       "primary": true,
+      "reading": "こう",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "To restore <kanji>equilibrium</kanji> in these parts, you throw all the 耕ing <reading>こう</reading>いち clones into the prison. ",
+  "primaryMeaning": "Equilibrium",
+  "otherMeanings": [],
   "meaningMnemonic": "You <radical>go</radical> to a <radical>big</radical> <radical>rice paddy</radical> and establish a <radical>prison</radical> right in the middle of it to restore the <kanji>equilibrium</kanji> of the area.",
-  "vocabularyIds": [
-    8406,
-    8407,
-    8580
-  ],
-  "radicalIds": [
-    111,
-    14,
-    51,
-    18
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%A1%A1"
+  "readingMnemonic": "To restore <kanji>equilibrium</kanji> in these parts, you throw all the 耕ing <reading>こう</reading>いち clones into the prison. ",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%A1%A1"
+  },
+  "related": {
+    "radicals": [
+      111,
+      14,
+      51,
+      18
+    ],
+    "vocabularies": [
+      8406,
+      8407,
+      8580
+    ]
+  }
 }

@@ -1,46 +1,20 @@
 {
   "id": 5633,
   "type": "vocabulary",
-  "characters": "国宝",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "国宝"
+  },
   "primaryMeaning": "National Treasure",
+  "meaningMnemonic": "A <kanji>country</kanji>'s <kanji>treasure</kanji> is their <vocabulary>national treasure</vocabulary>.",
+  "primaryReading": "こくほう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Nic Cage"
   ],
-  "primaryReading": "こくほう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 621,
-      "character": "国",
-      "readings": [
-        "こく",
-        "くに"
-      ]
-    },
-    {
-      "id": 1520,
-      "character": "宝",
-      "readings": [
-        "ほう",
-        "たから"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>country</kanji>'s <kanji>treasure</kanji> is their <vocabulary>national treasure</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%9B%BD%E5%AE%9D",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "国",
-      "id": 621,
-      "reading": "こく"
-    },
-    {
-      "type": "kanji",
-      "value": "宝",
-      "id": 1520,
-      "reading": "ほう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%9B%BD%E5%AE%9D"
+  }
 }

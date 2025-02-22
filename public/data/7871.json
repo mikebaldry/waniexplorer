@@ -1,44 +1,18 @@
 {
   "id": 7871,
   "type": "vocabulary",
-  "characters": "噴水",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "噴水"
+  },
   "primaryMeaning": "Water Fountain",
-  "otherMeanings": [],
-  "primaryReading": "ふんすい",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2164,
-      "character": "噴",
-      "readings": [
-        "ふん",
-        "ふ"
-      ]
-    },
-    {
-      "id": 479,
-      "character": "水",
-      "readings": [
-        "すい",
-        "みず"
-      ]
-    }
-  ],
   "meaningMnemonic": "<kanji>Water</kanji> <kanji>erupts</kanji> from <vocabulary>water fountains</vocabulary>. Sometimes they're big eruptions and sometimes they're small, but they're always fun to watch and enjoy in the hot summer.",
+  "primaryReading": "ふんすい",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%99%B4%E6%B0%B4",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "噴",
-      "id": 2164,
-      "reading": "ふん"
-    },
-    {
-      "type": "kanji",
-      "value": "水",
-      "id": 479,
-      "reading": "すい"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%99%B4%E6%B0%B4"
+  }
 }

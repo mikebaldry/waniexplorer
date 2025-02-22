@@ -1,0 +1,52 @@
+{
+  "id": 5326,
+  "type": "vocabulary",
+  "characters": "更生",
+  "primaryMeaning": "Rehabilitation",
+  "otherMeanings": [
+    "Reforming Oneself"
+  ],
+  "primaryReading": "こうせい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1431,
+      "character": "更",
+      "readings": [
+        "こう",
+        "さら",
+        "ふ"
+      ]
+    },
+    {
+      "id": 850,
+      "character": "生",
+      "readings": [
+        "せい",
+        "しょう",
+        "い",
+        "なま",
+        "う",
+        "は",
+        "き"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Experiencing a <kanji>renew</kanji>al of <kanji>life</kanji> means going through a process of <vocabulary>rehabilitation</vocabulary>.\n\n 更生 generally refers to rehabilitation from various issues such as addiction, crime,  delinquency, or personal struggles. Ideally, this leads to <vocabulary>reforming oneself</vocabulary> and reintegrating into society. ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9B%B4%E7%94%9F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "更",
+      "id": 1431,
+      "reading": "こう"
+    },
+    {
+      "type": "kanji",
+      "value": "生",
+      "id": 850,
+      "reading": "せい"
+    }
+  ]
+}

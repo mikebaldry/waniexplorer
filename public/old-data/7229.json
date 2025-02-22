@@ -1,0 +1,36 @@
+{
+  "id": 7229,
+  "type": "vocabulary",
+  "characters": "咲く",
+  "primaryMeaning": "To Bloom",
+  "otherMeanings": [
+    "To Blossom"
+  ],
+  "primaryReading": "さく",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2038,
+      "character": "咲",
+      "readings": [
+        "さ",
+        "しょう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>blossom</kanji> or <kanji>bloom</kanji> and the verb version is <vocabulary>to bloom</vocabulary>.",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%92%B2%E3%81%8F",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "咲",
+      "id": 2038,
+      "reading": "さ"
+    },
+    {
+      "type": "kana",
+      "value": "く"
+    }
+  ]
+}

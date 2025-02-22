@@ -1,0 +1,59 @@
+{
+  "id": 4080,
+  "type": "vocabulary",
+  "characters": "不可欠",
+  "primaryMeaning": "Indispensable",
+  "otherMeanings": [
+    "Essential"
+  ],
+  "primaryReading": "ふかけつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 563,
+      "character": "不",
+      "readings": [
+        "ふ",
+        "ぶ"
+      ]
+    },
+    {
+      "id": 1049,
+      "character": "可",
+      "readings": [
+        "か"
+      ]
+    },
+    {
+      "id": 646,
+      "character": "欠",
+      "readings": [
+        "けつ",
+        "か"
+      ]
+    }
+  ],
+  "meaningMnemonic": "It's <kanji>not</kanji> <kanji>possible</kanji> to <kanji>lack</kanji>. It is <vocabulary> indispensable</vocabulary> and <vocabulary>essential</vocabulary>, so don't lack it!",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%8D%E5%8F%AF%E6%AC%A0",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "不",
+      "id": 563,
+      "reading": "ふ"
+    },
+    {
+      "type": "kanji",
+      "value": "可",
+      "id": 1049,
+      "reading": "か"
+    },
+    {
+      "type": "kanji",
+      "value": "欠",
+      "id": 646,
+      "reading": "けつ"
+    }
+  ]
+}

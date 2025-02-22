@@ -1,46 +1,21 @@
 {
   "id": 5384,
   "type": "vocabulary",
-  "characters": "服飾",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "服飾"
+  },
   "primaryMeaning": "Attire",
+  "meaningMnemonic": "The <kanji>clothes</kanji> with which I <kanji>decorate</kanji> myself with is my <vocabulary>attire</vocabulary> or my <vocabulary>fashion</vocabulary>.",
+  "primaryReading": "ふくしょく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Fashion",
     "Clothing"
   ],
-  "primaryReading": "ふくしょく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 716,
-      "character": "服",
-      "readings": [
-        "ふく"
-      ]
-    },
-    {
-      "id": 1438,
-      "character": "飾",
-      "readings": [
-        "しょく",
-        "かざ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The <kanji>clothes</kanji> with which I <kanji>decorate</kanji> myself with is my <vocabulary>attire</vocabulary> or my <vocabulary>fashion</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9C%8D%E9%A3%BE",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "服",
-      "id": 716,
-      "reading": "ふく"
-    },
-    {
-      "type": "kanji",
-      "value": "飾",
-      "id": 1438,
-      "reading": "しょく"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%9C%8D%E9%A3%BE"
+  }
 }

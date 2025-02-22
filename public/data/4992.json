@@ -1,44 +1,18 @@
 {
   "id": 4992,
   "type": "vocabulary",
-  "characters": "鉛管",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "鉛管"
+  },
   "primaryMeaning": "Lead Pipe",
-  "otherMeanings": [],
-  "primaryReading": "えんかん",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1289,
-      "character": "鉛",
-      "readings": [
-        "えん",
-        "なまり"
-      ]
-    },
-    {
-      "id": 1236,
-      "character": "管",
-      "readings": [
-        "かん",
-        "くだ"
-      ]
-    }
-  ],
   "meaningMnemonic": "A <kanji>lead</kanji> <kanji>pipe</kanji> is a <vocabulary>lead pipe</vocabulary>. Don't hit people with this in the knees.",
+  "primaryReading": "えんかん",
   "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%89%9B%E7%AE%A1",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "鉛",
-      "id": 1289,
-      "reading": "えん"
-    },
-    {
-      "type": "kanji",
-      "value": "管",
-      "id": 1236,
-      "reading": "かん"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%89%9B%E7%AE%A1"
+  }
 }

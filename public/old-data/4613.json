@@ -1,0 +1,39 @@
+{
+  "id": 4613,
+  "type": "vocabulary",
+  "characters": "割る",
+  "primaryMeaning": "To Divide",
+  "otherMeanings": [
+    "To Split Something",
+    "To Break Something"
+  ],
+  "primaryReading": "わる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1193,
+      "character": "割",
+      "readings": [
+        "わり",
+        "わ",
+        "かつ",
+        "さ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>divide</kanji> so the verb vocab version is <vocabulary>to divide</vocabulary> or <vocabulary>to split something</vocabulary>.\n\nIt can also mean <vocabulary>to break something</vocabulary>, as in ワイングラスを割る (to break a wine glass). After all, you’re technically dividing the object into parts if you break it, right?",
+  "readingMnemonic": "The reading you learned with the kanji is the one you'll use here. It's the わ one, though, making it わる.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%89%B2%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "割",
+      "id": 1193,
+      "reading": "わ"
+    },
+    {
+      "type": "kana",
+      "value": "る"
+    }
+  ]
+}

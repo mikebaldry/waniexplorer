@@ -1,35 +1,18 @@
 {
   "id": 7521,
   "type": "vocabulary",
-  "characters": "白い",
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "白い"
+  },
   "primaryMeaning": "White",
-  "otherMeanings": [],
-  "primaryReading": "しろい",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 491,
-      "character": "白",
-      "readings": [
-        "はく",
-        "しろ",
-        "しら"
-      ]
-    }
-  ],
   "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>white</kanji>? <vocabulary>White</vocabulary>, of course!",
+  "primaryReading": "しろい",
   "readingMnemonic": "This has the same reading as the vocab 白 you learned, so you already know the reading. Go you!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%99%BD%E3%81%84",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "白",
-      "id": 491,
-      "reading": "しろ"
-    },
-    {
-      "type": "kana",
-      "value": "い"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%99%BD%E3%81%84"
+  }
 }

@@ -1,12 +1,15 @@
 {
   "id": 59,
   "type": "radical",
-  "primaryMeaning": "Raptor Cage",
-  "otherMeanings": [],
-  "character": {
+  "level": 3,
+  "characters": {
     "type": "text",
     "value": "久"
   },
+  "primaryMeaning": "Raptor Cage",
+  "otherMeanings": [],
   "meaningMnemonic": "This is no ordinary enclosure. It is an enclosure with an extra reinforcement (see it sticking out the bottom right of the enclosure radical?). Why is this enclosure reinforced? Because it's the <radical>raptor cage</radical>. I wonder how long they'll be able to hold the raptors... It didn't work out all that well on Jurassic Park...",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/raptor-cage-59"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/raptor-cage-59"
+  }
 }

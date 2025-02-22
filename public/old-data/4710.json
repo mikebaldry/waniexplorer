@@ -1,0 +1,51 @@
+{
+  "id": 4710,
+  "type": "vocabulary",
+  "characters": "無視する",
+  "primaryMeaning": "To Ignore",
+  "otherMeanings": [
+    "To Disregard"
+  ],
+  "primaryReading": "むしする",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1008,
+      "character": "無",
+      "readings": [
+        "む",
+        "ぶ",
+        "な"
+      ]
+    },
+    {
+      "id": 1234,
+      "character": "視",
+      "readings": [
+        "し",
+        "み"
+      ]
+    }
+  ],
+  "meaningMnemonic": "I will <kanji>look at</kanji> <kanji>nothing</kanji>. I am going <vocabulary>to ignore</vocabulary> you.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%84%A1%E8%A6%96%E3%81%99%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "無",
+      "id": 1008,
+      "reading": "む"
+    },
+    {
+      "type": "kanji",
+      "value": "視",
+      "id": 1234,
+      "reading": "し"
+    },
+    {
+      "type": "kana",
+      "value": "する"
+    }
+  ]
+}

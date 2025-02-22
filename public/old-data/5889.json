@@ -1,0 +1,44 @@
+{
+  "id": 5889,
+  "type": "vocabulary",
+  "characters": "真剣",
+  "primaryMeaning": "Serious",
+  "otherMeanings": [],
+  "primaryReading": "しんけん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 971,
+      "character": "真",
+      "readings": [
+        "しん",
+        "ま"
+      ]
+    },
+    {
+      "id": 1592,
+      "character": "剣",
+      "readings": [
+        "けん",
+        "つるぎ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>reality</kanji> of the <kanji>sword</kanji> is that it will cut you right in half and kill you, easily. The fact that this is true is a very <vocabulary>serious</vocabulary> thing. Very serious.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%9C%9F%E5%89%A3",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "真",
+      "id": 971,
+      "reading": "しん"
+    },
+    {
+      "type": "kanji",
+      "value": "剣",
+      "id": 1592,
+      "reading": "けん"
+    }
+  ]
+}

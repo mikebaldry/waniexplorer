@@ -1,0 +1,31 @@
+{
+  "id": 1102,
+  "type": "kanji",
+  "character": "械",
+  "primaryMeaning": "Contraption",
+  "otherMeanings": [],
+  "primaryReading": "かい",
+  "readings": [
+    {
+      "reading": "かい",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "かせ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You want to know what these <kanji>contraptions</kanji> are for, so you ask. The drunkard says, \"These are <reading>kay</reading>ak (かい) contraptions *urp* they're for your uh *blarp* kayak... things.\"",
+  "meaningMnemonic": "Under a <radical>tree</radical> a <radical>drunkard</radical> sits with <radical>twenty</radical> little <kanji>contraptions</kanji>. There's little electronic ones, little bopping ones, little walking ones... twenty of them.",
+  "vocabularyIds": [
+    4295
+  ],
+  "radicalIds": [
+    23,
+    194,
+    106
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%A2%B0"
+}

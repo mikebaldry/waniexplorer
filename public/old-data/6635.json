@@ -1,0 +1,58 @@
+{
+  "id": 6635,
+  "type": "vocabulary",
+  "characters": "通信網",
+  "primaryMeaning": "Communications Network",
+  "otherMeanings": [],
+  "primaryReading": "つうしんもう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 665,
+      "character": "通",
+      "readings": [
+        "つう",
+        "とお",
+        "かよ"
+      ]
+    },
+    {
+      "id": 940,
+      "character": "信",
+      "readings": [
+        "しん"
+      ]
+    },
+    {
+      "id": 1832,
+      "character": "網",
+      "readings": [
+        "もう",
+        "あみ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "It will <kanji>pass through</kanji> what you <kanji>believe</kanji> and run into some <kanji>netting</kanji>. Just think about how all these communications are passing through between people, and everyone believes everything that's being said. Netting this all up (all these communications!) leaves you with a <vocabulary>communication network</vocabulary>. What fun!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%80%9A%E4%BF%A1%E7%B6%B2",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "通",
+      "id": 665,
+      "reading": "つう"
+    },
+    {
+      "type": "kanji",
+      "value": "信",
+      "id": 940,
+      "reading": "しん"
+    },
+    {
+      "type": "kanji",
+      "value": "網",
+      "id": 1832,
+      "reading": "もう"
+    }
+  ]
+}

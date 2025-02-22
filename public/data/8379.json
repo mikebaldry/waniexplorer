@@ -1,46 +1,22 @@
 {
   "id": 8379,
   "type": "vocabulary",
-  "characters": "約款",
+  "level": 60,
+  "characters": {
+    "type": "text",
+    "value": "約款"
+  },
   "primaryMeaning": "Agreement",
+  "meaningMnemonic": "An <kanji>article</kanji> you write a <kanji>promise</kanji> on is an <vocabulary>agreement</vocabulary>. Make sure you read them thoroughly before you sign them!",
+  "primaryReading": "やっかん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Stipulation",
     "Article",
     "Clause"
   ],
-  "primaryReading": "やっかん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 915,
-      "character": "約",
-      "readings": [
-        "やく"
-      ]
-    },
-    {
-      "id": 2347,
-      "character": "款",
-      "readings": [
-        "かん"
-      ]
-    }
-  ],
-  "meaningMnemonic": "An <kanji>article</kanji> you write a <kanji>promise</kanji> on is an <vocabulary>agreement</vocabulary>. Make sure you read them thoroughly before you sign them!",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B4%84%E6%AC%BE",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "約",
-      "id": 915,
-      "reading": null
-    },
-    {
-      "type": "kanji",
-      "value": "款",
-      "id": 2347,
-      "reading": null
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%B4%84%E6%AC%BE"
+  }
 }

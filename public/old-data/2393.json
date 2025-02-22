@@ -1,0 +1,34 @@
+{
+  "id": 2393,
+  "type": "kanji",
+  "character": "傑",
+  "primaryMeaning": "Greatness",
+  "otherMeanings": [
+    "Excellence"
+  ],
+  "primaryReading": "けつ",
+  "readings": [
+    {
+      "reading": "けつ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "すぐ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "If you don't recognize the leader's <kanji>greatness</kanji> he will throw <reading>ketsu</reading>p (けつ) all over you (it's a special mix of ketchup and catsup). And it's ketsup because it looks like blood. The blood he'll spill if you don't look up and clap at his great dancing.",
+  "meaningMnemonic": "The <radical>leader</radical> does a <radical>dance</radical> on top of the <radical>tree</radical> to show his <kanji>greatness</kanji> to everyone around. If he dances all the way up there on top of the tree, then no one can deny his <kanji>excellence</kanji>!",
+  "vocabularyIds": [
+    8435,
+    8436
+  ],
+  "radicalIds": [
+    75,
+    429,
+    23
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%82%91"
+}

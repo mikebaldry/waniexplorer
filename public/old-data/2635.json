@@ -1,0 +1,30 @@
+{
+  "id": 2635,
+  "type": "vocabulary",
+  "characters": "市",
+  "primaryMeaning": "City",
+  "otherMeanings": [],
+  "primaryReading": "し",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 522,
+      "character": "市",
+      "readings": [
+        "し",
+        "いち"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "The reading for this word is the same as the one you learned when learning the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B8%82",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "市",
+      "id": 522,
+      "reading": "し"
+    }
+  ]
+}

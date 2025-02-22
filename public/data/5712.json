@@ -1,34 +1,18 @@
 {
   "id": 5712,
   "type": "vocabulary",
-  "characters": "散らかす",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "散らかす"
+  },
   "primaryMeaning": "To Scatter",
-  "otherMeanings": [],
-  "primaryReading": "ちらかす",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1466,
-      "character": "散",
-      "readings": [
-        "さん",
-        "ち"
-      ]
-    }
-  ],
   "meaningMnemonic": "散る is \"to be scattered.\" This is when you're doing the scattering. You know that because you're causing a <reading>ruckus</reading> (らかす) from all the scattering of money you're doing, down on the people below.",
+  "primaryReading": "ちらかす",
   "readingMnemonic": "The reading of the 散 comes from 散る. So, go ahead and scatter more memories around your brain, you got this already.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%95%A3%E3%82%89%E3%81%8B%E3%81%99",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "散",
-      "id": 1466,
-      "reading": "ち"
-    },
-    {
-      "type": "kana",
-      "value": "らかす"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%95%A3%E3%82%89%E3%81%8B%E3%81%99"
+  }
 }

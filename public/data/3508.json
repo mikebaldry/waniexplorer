@@ -1,50 +1,20 @@
 {
   "id": 3508,
   "type": "vocabulary",
-  "characters": "気付く",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "気付く"
+  },
   "primaryMeaning": "To Realize",
+  "meaningMnemonic": "When you <kanji>attach</kanji> your <kanji>energy</kanji> (imagine someone suddenly looking up at something, attaching their energy to it), you have noticed or realized something. That's why this word means <vocabulary>to realize</vocabulary> or <vocabulary>to notice</vocabulary>. \n\nDon't confuse this with 気を付けて which is similar in that it has all the same kanji. It's just used a little different. Try to remember the difference before moving on.",
+  "primaryReading": "きづく",
+  "readingMnemonic": "The readings come from the 気 kanji (which you know) and the word 付く which you should know by now. Combine these together and you have the ability to read this word. Take note that the 付く part is rendaku'd, though, so it is a tiny bit different.",
   "otherMeanings": [
     "To Notice"
   ],
-  "primaryReading": "きづく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 548,
-      "character": "気",
-      "readings": [
-        "き",
-        "け"
-      ]
-    },
-    {
-      "id": 652,
-      "character": "付",
-      "readings": [
-        "つ",
-        "ふ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "When you <kanji>attach</kanji> your <kanji>energy</kanji> (imagine someone suddenly looking up at something, attaching their energy to it), you have noticed or realized something. That's why this word means <vocabulary>to realize</vocabulary> or <vocabulary>to notice</vocabulary>. \n\nDon't confuse this with 気を付けて which is similar in that it has all the same kanji. It's just used a little different. Try to remember the difference before moving on.",
-  "readingMnemonic": "The readings come from the 気 kanji (which you know) and the word 付く which you should know by now. Combine these together and you have the ability to read this word. Take note that the 付く part is rendaku'd, though, so it is a tiny bit different.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B0%97%E4%BB%98%E3%81%8F",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "気",
-      "id": 548,
-      "reading": "き"
-    },
-    {
-      "type": "kanji",
-      "value": "付",
-      "id": 652,
-      "reading": "づ"
-    },
-    {
-      "type": "kana",
-      "value": "く"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B0%97%E4%BB%98%E3%81%8F"
+  }
 }

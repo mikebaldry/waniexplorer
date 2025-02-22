@@ -1,49 +1,21 @@
 {
   "id": 5645,
   "type": "vocabulary",
-  "characters": "操作",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "操作"
+  },
   "primaryMeaning": "Operation",
+  "meaningMnemonic": "If you <kanji>manipulate</kanji> the things you <kanji>make</kanji>, you are in <vocabulary>operation</vocabulary> of said things.\n\nThis can not only refer to the operation of devices and machinery, but also the <vocabulary>manipulation</vocabulary> of various elements, such as markets, stock prices, and more, with the intention of furthering one's own interests.",
+  "primaryReading": "そうさ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Handling",
     "Manipulation"
   ],
-  "primaryReading": "そうさ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1525,
-      "character": "操",
-      "readings": [
-        "そう",
-        "あやつ",
-        "みさお"
-      ]
-    },
-    {
-      "id": 584,
-      "character": "作",
-      "readings": [
-        "さく",
-        "さ",
-        "つく"
-      ]
-    }
-  ],
-  "meaningMnemonic": "If you <kanji>manipulate</kanji> the things you <kanji>make</kanji>, you are in <vocabulary>operation</vocabulary> of said things.\n\nThis can not only refer to the operation of devices and machinery, but also the <vocabulary>manipulation</vocabulary> of various elements, such as markets, stock prices, and more, with the intention of furthering one's own interests.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%93%8D%E4%BD%9C",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "操",
-      "id": 1525,
-      "reading": "そう"
-    },
-    {
-      "type": "kanji",
-      "value": "作",
-      "id": 584,
-      "reading": "さ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%93%8D%E4%BD%9C"
+  }
 }

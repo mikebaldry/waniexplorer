@@ -1,46 +1,20 @@
 {
   "id": 3842,
   "type": "vocabulary",
-  "characters": "政治",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "政治"
+  },
   "primaryMeaning": "Politics",
+  "meaningMnemonic": "If you want to <kanji>cure</kanji> the <kanji>government</kanji>, you have to get into <vocabulary>politics</vocabulary>. Gotta join 'em to fix them... but can you survive that long without being corrupted yourself?",
+  "primaryReading": "せいじ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Government"
   ],
-  "primaryReading": "せいじ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 985,
-      "character": "政",
-      "readings": [
-        "せい"
-      ]
-    },
-    {
-      "id": 978,
-      "character": "治",
-      "readings": [
-        "じ",
-        "ち",
-        "なお"
-      ]
-    }
-  ],
-  "meaningMnemonic": "If you want to <kanji>cure</kanji> the <kanji>government</kanji>, you have to get into <vocabulary>politics</vocabulary>. Gotta join 'em to fix them... but can you survive that long without being corrupted yourself?",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%94%BF%E6%B2%BB",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "政",
-      "id": 985,
-      "reading": "せい"
-    },
-    {
-      "type": "kanji",
-      "value": "治",
-      "id": 978,
-      "reading": "じ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%94%BF%E6%B2%BB"
+  }
 }

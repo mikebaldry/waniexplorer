@@ -1,0 +1,29 @@
+{
+  "id": 3300,
+  "type": "vocabulary",
+  "characters": "秒",
+  "primaryMeaning": "Second",
+  "otherMeanings": [],
+  "primaryReading": "びょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 800,
+      "character": "秒",
+      "readings": [
+        "びょう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well - that is the unit of time, <vocabulary>second</vocabulary>.",
+  "readingMnemonic": "The reading is the same as you learned with the kanji. It's presumably because it's usually attached to other things, like numbers, making it act more like a jukugo word would. Anyway, you should only need a <vocabulary>second</vocabulary> to learn this reading, since you should already know it.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%A7%92",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "秒",
+      "id": 800,
+      "reading": "びょう"
+    }
+  ]
+}

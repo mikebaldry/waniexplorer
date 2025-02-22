@@ -1,0 +1,35 @@
+{
+  "id": 1635,
+  "type": "kanji",
+  "character": "伎",
+  "primaryMeaning": "Deed",
+  "otherMeanings": [],
+  "primaryReading": "き",
+  "readings": [
+    {
+      "reading": "き",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ぎ",
+      "primary": false,
+      "type": "onyomi"
+    },
+    {
+      "reading": "わざ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "The <kanji>deed</kanji> he's currently working on is finding your lost <reading>key</reading> (き). He doesn't have to help, you're the one who lost your own house-combination-car key. But he's so used to doing deeds, he can't help but help.",
+  "meaningMnemonic": "The <radical>leader</radical> of your <radical>branch</radical> became the leader from doing <kanji>deed</kanji>s. You can't rise to the rank of branch leader if you don't perform a certain number of deeds! Most of them good, I hope.",
+  "vocabularyIds": [
+    6007
+  ],
+  "radicalIds": [
+    75,
+    81
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E4%BC%8E"
+}

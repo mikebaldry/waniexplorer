@@ -1,0 +1,34 @@
+{
+  "id": 6193,
+  "type": "vocabulary",
+  "characters": "房",
+  "primaryMeaning": "Cluster",
+  "otherMeanings": [
+    "Tassel",
+    "Bunch",
+    "Tuft"
+  ],
+  "primaryReading": "ふさ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1692,
+      "character": "房",
+      "readings": [
+        "ぼう",
+        "ふさ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You did not learn this reading, so here's a mnemonic to help you to remember: \"How many things are in this <vocabulary>cluster</vocabulary>?\" asks your boss. \"Just a <reading>few sah</reading>,\" (ふさ) you reply.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%88%BF",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "房",
+      "id": 1692,
+      "reading": "ふさ"
+    }
+  ]
+}

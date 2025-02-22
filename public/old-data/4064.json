@@ -1,0 +1,46 @@
+{
+  "id": 4064,
+  "type": "vocabulary",
+  "characters": "借用",
+  "primaryMeaning": "Borrowing",
+  "otherMeanings": [
+    "Loan"
+  ],
+  "primaryReading": "しゃくよう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1039,
+      "character": "借",
+      "readings": [
+        "しゃく",
+        "か"
+      ]
+    },
+    {
+      "id": 525,
+      "character": "用",
+      "readings": [
+        "よう",
+        "もち"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>borrowing</kanji> <kanji>task</kanji> is just another way to say <vocabulary>borrowing</vocabulary>. This is also for when you take out a <vocabulary>loan</vocabulary>.\n\n借用 is a formal word for the borrowing of things like money, facilities, or other goods. You can also use it in a jokingly formal way in everyday conversation though, like ちょっと借用しただけだよ (I just borrowed it for a moment).",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%80%9F%E7%94%A8",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "借",
+      "id": 1039,
+      "reading": "しゃく"
+    },
+    {
+      "type": "kanji",
+      "value": "用",
+      "id": 525,
+      "reading": "よう"
+    }
+  ]
+}

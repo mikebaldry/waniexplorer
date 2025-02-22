@@ -1,0 +1,31 @@
+{
+  "id": 6507,
+  "type": "vocabulary",
+  "characters": "蜜",
+  "primaryMeaning": "Honey",
+  "otherMeanings": [
+    "Nectar"
+  ],
+  "primaryReading": "みつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1788,
+      "character": "蜜",
+      "readings": [
+        "みつ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji. That's honey, baby!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%9C%9C",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "蜜",
+      "id": 1788,
+      "reading": "みつ"
+    }
+  ]
+}

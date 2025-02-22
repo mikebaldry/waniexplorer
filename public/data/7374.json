@@ -1,47 +1,21 @@
 {
   "id": 7374,
   "type": "vocabulary",
-  "characters": "唐突",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "唐突"
+  },
   "primaryMeaning": "Abrupt",
+  "meaningMnemonic": "A <kanji>sudden</kanji> <kanji>stab</kanji> is <vocabulary>abrupt</vocabulary> and <vocabulary>unexpected</vocabulary>. Quick, dodge!!\n\n唐突 describes sudden actions or events that catch people off guard.",
+  "primaryReading": "とうとつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Unexpected",
     "Sudden"
   ],
-  "primaryReading": "とうとつ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2088,
-      "character": "唐",
-      "readings": [
-        "とう",
-        "から"
-      ]
-    },
-    {
-      "id": 1304,
-      "character": "突",
-      "readings": [
-        "とつ",
-        "つ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>sudden</kanji> <kanji>stab</kanji> is <vocabulary>abrupt</vocabulary> and <vocabulary>unexpected</vocabulary>. Quick, dodge!!\n\n唐突 describes sudden actions or events that catch people off guard.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%94%90%E7%AA%81",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "唐",
-      "id": 2088,
-      "reading": "とう"
-    },
-    {
-      "type": "kanji",
-      "value": "突",
-      "id": 1304,
-      "reading": "とつ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%94%90%E7%AA%81"
+  }
 }

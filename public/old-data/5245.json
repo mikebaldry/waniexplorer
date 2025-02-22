@@ -1,0 +1,43 @@
+{
+  "id": 5245,
+  "type": "vocabulary",
+  "characters": "中欧",
+  "primaryMeaning": "Central Europe",
+  "otherMeanings": [],
+  "primaryReading": "ちゅうおう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 469,
+      "character": "中",
+      "readings": [
+        "ちゅう",
+        "なか"
+      ]
+    },
+    {
+      "id": 1384,
+      "character": "欧",
+      "readings": [
+        "おう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>middle</kanji> part of <kanji>Europe</kanji> is <vocabulary>Central Europe</vocabulary>, wherever that is.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%AD%E6%AC%A7",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "中",
+      "id": 469,
+      "reading": "ちゅう"
+    },
+    {
+      "type": "kanji",
+      "value": "欧",
+      "id": 1384,
+      "reading": "おう"
+    }
+  ]
+}

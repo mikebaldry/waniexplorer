@@ -1,0 +1,34 @@
+{
+  "id": 8859,
+  "type": "kanji",
+  "character": "諦",
+  "primaryMeaning": "Give Up",
+  "otherMeanings": [
+    "Abandon"
+  ],
+  "primaryReading": "あきら",
+  "readings": [
+    {
+      "reading": "あきら",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "てい",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Just before you're ready to <kanji>give up</kanji> on something, you yell, \"<reading>AKIRA</reading> (あきら)!\"",
+  "meaningMnemonic": "You have something to <radical>say</radical>, you <radical>stand</radical> on a <radical>towel</radical>, and shout, \"I <kanji>GIVE UP</kanji>!\" ",
+  "vocabularyIds": [
+    8866,
+    8867
+  ],
+  "radicalIds": [
+    117,
+    55,
+    102
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%AB%A6"
+}

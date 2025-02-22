@@ -1,49 +1,20 @@
 {
   "id": 4607,
   "type": "vocabulary",
-  "characters": "保護する",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "保護する"
+  },
   "primaryMeaning": "To Conserve",
+  "meaningMnemonic": "To <kanji>preserve</kanji> and <kanji>defend</kanji> something is <vocabulary>to conserve</vocabulary> and <vocabulary>to protect</vocabulary>. I won't let you destroy this land I'm trying <vocabulary>to protect</vocabulary>!",
+  "primaryReading": "ほごする",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "To Protect"
   ],
-  "primaryReading": "ほごする",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 983,
-      "character": "保",
-      "readings": [
-        "ほ",
-        "たも"
-      ]
-    },
-    {
-      "id": 1192,
-      "character": "護",
-      "readings": [
-        "ご"
-      ]
-    }
-  ],
-  "meaningMnemonic": "To <kanji>preserve</kanji> and <kanji>defend</kanji> something is <vocabulary>to conserve</vocabulary> and <vocabulary>to protect</vocabulary>. I won't let you destroy this land I'm trying <vocabulary>to protect</vocabulary>!",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BF%9D%E8%AD%B7%E3%81%99%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "保",
-      "id": 983,
-      "reading": "ほ"
-    },
-    {
-      "type": "kanji",
-      "value": "護",
-      "id": 1192,
-      "reading": "ご"
-    },
-    {
-      "type": "kana",
-      "value": "する"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BF%9D%E8%AD%B7%E3%81%99%E3%82%8B"
+  }
 }

@@ -1,0 +1,34 @@
+{
+  "id": 8953,
+  "type": "vocabulary",
+  "characters": "産まれる",
+  "primaryMeaning": "To Be Born",
+  "otherMeanings": [],
+  "primaryReading": "うまれる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1109,
+      "character": "産",
+      "readings": [
+        "さん",
+        "う"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb.\n\nThis is an intransitive verb. That means that it just happens, and we're not talking about what makes it happen. So this verb means <vocabulary>to be born</vocabulary>.",
+  "readingMnemonic": "Since this word has okurigana (hiragana attached to the kanji) you know that it's probably going to be the kun'yomi reading.\n\nYou know another word that means \"to be born\" (生まれる), and they both have the same reading!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%94%A3%E3%81%BE%E3%82%8C%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "産",
+      "id": 1109,
+      "reading": "う"
+    },
+    {
+      "type": "kana",
+      "value": "まれる"
+    }
+  ]
+}

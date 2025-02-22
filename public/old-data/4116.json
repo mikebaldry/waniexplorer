@@ -1,0 +1,54 @@
+{
+  "id": 4116,
+  "type": "vocabulary",
+  "characters": "日焼け",
+  "primaryMeaning": "Sunburn",
+  "otherMeanings": [
+    "Suntan",
+    "Tan"
+  ],
+  "primaryReading": "ひやけ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 476,
+      "character": "日",
+      "readings": [
+        "にち",
+        "じつ",
+        "ひ",
+        "か",
+        "び"
+      ]
+    },
+    {
+      "id": 1040,
+      "character": "焼",
+      "readings": [
+        "や",
+        "しょう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When the <kanji>sun</kanji> <kanji>burn</kanji>s something, and that something is you, it's giving you <vocabulary>sunburn</vocabulary>.",
+  "readingMnemonic": "The readings here are the vocab kun'yomi readings. You have ひ for 日 and や for 焼け (which you learned with the vocab). Combine it with some sunscreen and hopefully you'll prevent the <vocabulary>sunburn</vocabulary>.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%97%A5%E7%84%BC%E3%81%91",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "日",
+      "id": 476,
+      "reading": "ひ"
+    },
+    {
+      "type": "kanji",
+      "value": "焼",
+      "id": 1040,
+      "reading": "や"
+    },
+    {
+      "type": "kana",
+      "value": "け"
+    }
+  ]
+}

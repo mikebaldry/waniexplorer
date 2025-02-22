@@ -1,37 +1,21 @@
 {
   "id": 3113,
   "type": "vocabulary",
-  "characters": "乗せる",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "乗せる"
+  },
   "primaryMeaning": "To Give Someone A Ride",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>ride</kanji> so this word has to do with riding. There's another word that's similar (乗る which means to ride). This particular one is transitive, meaning there is a direct object. The action is done to someone or something. So this means <vocabulary>to give someone a ride</vocabulary> when it's used for people, and <vocabulary>to place something on</vocabulary>, or <vocabulary>to load something</vocabulary> when it's used for things. \n\nUse the せ as a hint. The せ is a \"sail\" (せ) that you use on your boat to give someone a ride. How nice of you.",
+  "primaryReading": "のせる",
+  "readingMnemonic": "The reading is kun'yomi (see that hiragana?) but that's the reading you learned with the kanji so you should be okay with this. Allow me to give you a ride to the next item to study.",
   "otherMeanings": [
     "To Place Something On",
     "To Load Something"
   ],
-  "primaryReading": "のせる",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 722,
-      "character": "乗",
-      "readings": [
-        "の",
-        "じょう"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>ride</kanji> so this word has to do with riding. There's another word that's similar (乗る which means to ride). This particular one is transitive, meaning there is a direct object. The action is done to someone or something. So this means <vocabulary>to give someone a ride</vocabulary> when it's used for people, and <vocabulary>to place something on</vocabulary>, or <vocabulary>to load something</vocabulary> when it's used for things. \n\nUse the せ as a hint. The せ is a \"sail\" (せ) that you use on your boat to give someone a ride. How nice of you.",
-  "readingMnemonic": "The reading is kun'yomi (see that hiragana?) but that's the reading you learned with the kanji so you should be okay with this. Allow me to give you a ride to the next item to study.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B9%97%E3%81%9B%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "乗",
-      "id": 722,
-      "reading": "の"
-    },
-    {
-      "type": "kana",
-      "value": "せる"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B9%97%E3%81%9B%E3%82%8B"
+  }
 }

@@ -1,0 +1,46 @@
+{
+  "id": 6525,
+  "type": "vocabulary",
+  "characters": "麦畑",
+  "primaryMeaning": "Wheat Field",
+  "otherMeanings": [
+    "Barley Field"
+  ],
+  "primaryReading": "むぎばたけ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 598,
+      "character": "麦",
+      "readings": [
+        "むぎ",
+        "ばく"
+      ]
+    },
+    {
+      "id": 1794,
+      "character": "畑",
+      "readings": [
+        "はたけ",
+        "はた"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>wheat</kanji> <kanji>field</kanji> is a <vocabulary>wheat field</vocabulary> or <vocabulary>barley field</vocabulary> ",
+  "readingMnemonic": "The readings are the kun'yomi readings, but they're also the readings you learned with the kanji. Watch out for the rendaku.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%BA%A6%E7%95%91",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "麦",
+      "id": 598,
+      "reading": "むぎ"
+    },
+    {
+      "type": "kanji",
+      "value": "畑",
+      "id": 1794,
+      "reading": "ばたけ"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": 4048,
+  "type": "vocabulary",
+  "characters": "鼻先",
+  "primaryMeaning": "Tip Of The Nose",
+  "otherMeanings": [
+    "Tip Of Nose",
+    "Nose Tip"
+  ],
+  "primaryReading": "はなさき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 998,
+      "character": "鼻",
+      "readings": [
+        "はな",
+        "び"
+      ]
+    },
+    {
+      "id": 543,
+      "character": "先",
+      "readings": [
+        "せん",
+        "さき",
+        "ま"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You know the <kanji>previous</kanji> part of your <kanji>nose</kanji>? The part of your nose I just chopped off? Well, you were lucky, as that was only the <vocabulary>tip of the nose</vocabulary>. Time to cut off the rest, next!",
+  "readingMnemonic": "The readings are the kun'yomi vocab readings. With 鼻 you learned that with the kanji. With 先 you learned that with the vocab. So, you should have all the pieces to be able to read this. Remember, body parts tend to change words into kun'yomi readings for some reason, no exception here.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%BC%BB%E5%85%88",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "鼻",
+      "id": 998,
+      "reading": "はな"
+    },
+    {
+      "type": "kanji",
+      "value": "先",
+      "id": 543,
+      "reading": "さき"
+    }
+  ]
+}

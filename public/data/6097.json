@@ -1,35 +1,21 @@
 {
   "id": 6097,
   "type": "vocabulary",
-  "characters": "弾",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "弾"
+  },
   "primaryMeaning": "Bullet",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.\n\n弾 refers to <vocabulary>bullet</vocabulary>s and other projectiles, including artillery <vocabulary>shell</vocabulary>s and BB <vocabulary>pellet</vocabulary>s. ",
+  "primaryReading": "たま",
+  "readingMnemonic": "Bullets used to be round, so maybe that's why this vocab shares a たま reading with other words you've learned for round things, like 玉 and 球. Remember those?\n\nIf not, just imagine a <vocabulary>bullet</vocabulary> being grabbed out of the air by <reading>Tama</reading>ra (たま), the local ball girl. She heard there was a たま and mistook it for a ball, and now her hand is kinda messed up. Try not to repeat her mistake.",
   "otherMeanings": [
     "Shell",
     "Pellet"
   ],
-  "primaryReading": "たま",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1659,
-      "character": "弾",
-      "readings": [
-        "だん",
-        "ひ",
-        "はず",
-        "たま"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.\n\n弾 refers to <vocabulary>bullet</vocabulary>s and other projectiles, including artillery <vocabulary>shell</vocabulary>s and BB <vocabulary>pellet</vocabulary>s. ",
-  "readingMnemonic": "Bullets used to be round, so maybe that's why this vocab shares a たま reading with other words you've learned for round things, like 玉 and 球. Remember those?\n\nIf not, just imagine a <vocabulary>bullet</vocabulary> being grabbed out of the air by <reading>Tama</reading>ra (たま), the local ball girl. She heard there was a たま and mistook it for a ball, and now her hand is kinda messed up. Try not to repeat her mistake.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BC%BE",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "弾",
-      "id": 1659,
-      "reading": "たま"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%BC%BE"
+  }
 }

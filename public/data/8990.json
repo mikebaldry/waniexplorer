@@ -1,42 +1,50 @@
 {
   "id": 8990,
   "type": "kanji",
-  "character": "苛",
-  "primaryMeaning": "Frustration",
-  "otherMeanings": [],
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "苛"
+  },
   "primaryReading": "いじ",
   "readings": [
     {
-      "reading": "いじ",
       "primary": true,
+      "reading": "いじ",
       "type": "kunyomi"
     },
     {
+      "primary": false,
       "reading": "いら",
-      "primary": false,
       "type": "kunyomi"
     },
     {
+      "primary": false,
       "reading": "さいな",
-      "primary": false,
       "type": "kunyomi"
     },
     {
-      "reading": "か",
       "primary": false,
+      "reading": "か",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "After some <kanji>frustration</kanji>, you made your flower lip ring. Now you look like an <reading>Egy</reading>ptian  (いじ) pharaoh. Because all ancient Egyptian monarchs wore flower lip rings (historical fact)!",
+  "primaryMeaning": "Frustration",
+  "otherMeanings": [],
   "meaningMnemonic": "Using <radical>flowers</radical> to make a <radical>lip ring</radical> is always going to end in <kanji>frustration</kanji>.",
-  "vocabularyIds": [
-    8997,
-    8998,
-    9008
-  ],
-  "radicalIds": [
-    90,
-    113
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%8B%9B"
+  "readingMnemonic": "After some <kanji>frustration</kanji>, you made your flower lip ring. Now you look like an <reading>Egy</reading>ptian  (いじ) pharaoh. Because all ancient Egyptian monarchs wore flower lip rings (historical fact)!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%8B%9B"
+  },
+  "related": {
+    "radicals": [
+      90,
+      113
+    ],
+    "vocabularies": [
+      8997,
+      8998,
+      9008
+    ]
+  }
 }

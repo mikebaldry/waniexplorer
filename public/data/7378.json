@@ -1,46 +1,21 @@
 {
   "id": 7378,
   "type": "vocabulary",
-  "characters": "帳簿",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "帳簿"
+  },
   "primaryMeaning": "Account Book",
+  "meaningMnemonic": "A <kanji>notebook</kanji> that is also a <kanji>record book</kanji> is an <vocabulary>account book</vocabulary> or <vocabulary>register</vocabulary>, showing the records of all the transactions that have gone through.",
+  "primaryReading": "ちょうぼ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Register",
     "Ledger"
   ],
-  "primaryReading": "ちょうぼ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2012,
-      "character": "帳",
-      "readings": [
-        "ちょう",
-        "とばり"
-      ]
-    },
-    {
-      "id": 2093,
-      "character": "簿",
-      "readings": [
-        "ぼ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>notebook</kanji> that is also a <kanji>record book</kanji> is an <vocabulary>account book</vocabulary> or <vocabulary>register</vocabulary>, showing the records of all the transactions that have gone through.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B8%B3%E7%B0%BF",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "帳",
-      "id": 2012,
-      "reading": "ちょう"
-    },
-    {
-      "type": "kanji",
-      "value": "簿",
-      "id": 2093,
-      "reading": "ぼ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%B8%B3%E7%B0%BF"
+  }
 }

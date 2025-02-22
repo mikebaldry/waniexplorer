@@ -1,0 +1,43 @@
+{
+  "id": 7017,
+  "type": "vocabulary",
+  "characters": "発泡",
+  "primaryMeaning": "Foaming",
+  "otherMeanings": [],
+  "primaryReading": "はっぽう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 729,
+      "character": "発",
+      "readings": [
+        "はつ"
+      ]
+    },
+    {
+      "id": 1962,
+      "character": "泡",
+      "readings": [
+        "ほう",
+        "あわ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>departure</kanji> of <kanji>bubbles</kanji> is when bubbles leave something, like a mouth. That's why this is <vocabulary>foaming</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%99%BA%E6%B3%A1",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "発",
+      "id": 729,
+      "reading": null
+    },
+    {
+      "type": "kanji",
+      "value": "泡",
+      "id": 1962,
+      "reading": null
+    }
+  ]
+}

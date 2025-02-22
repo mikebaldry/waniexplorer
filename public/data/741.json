@@ -1,34 +1,42 @@
 {
   "id": 741,
   "type": "kanji",
-  "character": "速",
-  "primaryMeaning": "Fast",
-  "otherMeanings": [],
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "速"
+  },
   "primaryReading": "そく",
   "readings": [
     {
-      "reading": "そく",
       "primary": true,
+      "reading": "そく",
       "type": "onyomi"
     },
     {
-      "reading": "はや",
       "primary": false,
+      "reading": "はや",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "You were going so <kanji>fast</kanji>, you only put on <reading>sock</reading>s (そく). So now you're barreling down the street at top speeds in just your sad, white socks.",
+  "primaryMeaning": "Fast",
+  "otherMeanings": [],
   "meaningMnemonic": "You jump on your <radical>scooter</radical> with a big <radical>bundle</radical> to go as <kanji>fast</kanji> as you can! You have a bundle of pizzas in here, and they need to be delivered as fast as you can get them there!",
-  "vocabularyIds": [
-    3160,
-    3161,
-    5313,
-    7190,
-    7472
-  ],
-  "radicalIds": [
-    114,
-    219
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E9%80%9F"
+  "readingMnemonic": "You were going so <kanji>fast</kanji>, you only put on <reading>sock</reading>s (そく). So now you're barreling down the street at top speeds in just your sad, white socks.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%80%9F"
+  },
+  "related": {
+    "radicals": [
+      114,
+      219
+    ],
+    "vocabularies": [
+      3160,
+      3161,
+      5313,
+      7190,
+      7472
+    ]
+  }
 }

@@ -1,0 +1,37 @@
+{
+  "id": 4225,
+  "type": "vocabulary",
+  "characters": "絡む",
+  "primaryMeaning": "To Be Involved With",
+  "otherMeanings": [
+    "To Get Tangled",
+    "To Entwine"
+  ],
+  "primaryReading": "からむ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1087,
+      "character": "絡",
+      "readings": [
+        "らく",
+        "から"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>entangle</kanji>, but this verb version is usually used in a figurative sense, so it means <vocabulary>to be involved with</vocabulary>, as in 事件に絡む (to be involved with an incident).\n\n絡む can still describe something thread-like winding around something else though, like ツタが木に絡む (the ivy twines around the tree), so it also means <vocabulary>to get tangled</vocabulary> and <vocabulary>to entwine</vocabulary>. Note that this use is still intransitive because it focuses on the state of things being entwined, and に marks the location of the action, not a direct object.\n\nTo remember that this is intransitive, imagine suddenly hearing a lot of <reading>moo</reading>ing (む) and turning around to find that your cows have somehow gotten entangled. They're all just suddenly in a knot. HOW??",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you:\n\nThere's an accident you happen <vocabulary>to be involved with</vocabulary> in <reading>から</reading>て class, where it's common <vocabulary>to get tangled</vocabulary> up during sparring. This time you and your partner's limbs are literally in a big entangled mess. Good luck getting out of that.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B5%A1%E3%82%80",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "絡",
+      "id": 1087,
+      "reading": "から"
+    },
+    {
+      "type": "kana",
+      "value": "む"
+    }
+  ]
+}

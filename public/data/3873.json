@@ -1,49 +1,22 @@
 {
   "id": 3873,
   "type": "vocabulary",
-  "characters": "前面",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "前面"
+  },
   "primaryMeaning": "Front",
+  "meaningMnemonic": "The <kanji>front</kanji> <kanji>face</kanji> of something is the <vocabulary>front</vocabulary> or the <vocabulary>front side</vocabulary> of it (kind of like how 外面 is the exterior because it's the outside face). This also means <vocabulary>fore</vocabulary> or <vocabulary>forefront</vocabulary>, especially when used metaphorically.",
+  "primaryReading": "ぜんめん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Front Side",
     "Fore",
     "Forefront"
   ],
-  "primaryReading": "ぜんめん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 633,
-      "character": "前",
-      "readings": [
-        "ぜん",
-        "まえ"
-      ]
-    },
-    {
-      "id": 974,
-      "character": "面",
-      "readings": [
-        "めん",
-        "おも",
-        "おもて"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The <kanji>front</kanji> <kanji>face</kanji> of something is the <vocabulary>front</vocabulary> or the <vocabulary>front side</vocabulary> of it (kind of like how 外面 is the exterior because it's the outside face). This also means <vocabulary>fore</vocabulary> or <vocabulary>forefront</vocabulary>, especially when used metaphorically.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%89%8D%E9%9D%A2",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "前",
-      "id": 633,
-      "reading": "ぜん"
-    },
-    {
-      "type": "kanji",
-      "value": "面",
-      "id": 974,
-      "reading": "めん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%89%8D%E9%9D%A2"
+  }
 }

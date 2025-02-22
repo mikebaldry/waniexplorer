@@ -1,0 +1,62 @@
+{
+  "id": 5842,
+  "type": "vocabulary",
+  "characters": "裏切り者",
+  "primaryMeaning": "Traitor",
+  "otherMeanings": [],
+  "primaryReading": "うらぎりもの",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1542,
+      "character": "裏",
+      "readings": [
+        "うら",
+        "り"
+      ]
+    },
+    {
+      "id": 502,
+      "character": "切",
+      "readings": [
+        "せつ",
+        "き"
+      ]
+    },
+    {
+      "id": 690,
+      "character": "者",
+      "readings": [
+        "しゃ",
+        "もの"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Someone</kanji> who backstabs (裏切り) someone is a <vocabulary>traitor</vocabulary>.",
+  "readingMnemonic": "The reading is 裏切り and an exception reading for 者. Just think about how you'd think of a traitor as a \"thing\" (物) and not a person.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A3%8F%E5%88%87%E3%82%8A%E8%80%85",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "裏",
+      "id": 1542,
+      "reading": "うら"
+    },
+    {
+      "type": "kanji",
+      "value": "切",
+      "id": 502,
+      "reading": "ぎ"
+    },
+    {
+      "type": "kana",
+      "value": "り"
+    },
+    {
+      "type": "kanji",
+      "value": "者",
+      "id": 690,
+      "reading": "もの"
+    }
+  ]
+}

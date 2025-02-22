@@ -1,39 +1,47 @@
 {
   "id": 2233,
   "type": "kanji",
-  "character": "卸",
-  "primaryMeaning": "Wholesale",
-  "otherMeanings": [],
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "卸"
+  },
   "primaryReading": "おろし",
   "readings": [
     {
-      "reading": "おろし",
       "primary": true,
+      "reading": "おろし",
       "type": "kunyomi"
     },
     {
+      "primary": false,
       "reading": "おろ",
-      "primary": false,
       "type": "kunyomi"
     },
     {
-      "reading": "しゃ",
       "primary": false,
+      "reading": "しゃ",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "Oh, one more thing. Going at noon isn't enough, you have to say the password to get them at <kanji>wholesale</kanji> price too. The password is \"<reading>Oh Roshi</reading>\" (おろし). Okay, so maybe that's just the name of the guy there, but it always works when I want to get stamps wholesale so you should do it too!",
+  "primaryMeaning": "Wholesale",
+  "otherMeanings": [],
   "meaningMnemonic": "You should <radical>stop</radical> to buy <radical>stamp</radical>s at <radical>noon</radical> because that's the only time they're being sold at <kanji>wholesale</kanji> price. Everyone's so busy eating and working and being at school, that they miss this awesome deal, but not you. Everyday at noon you stock up on wholesale stamps. Do you send a lot of mail? No, you probably just collect them. But they were cheap, so who cares!",
-  "vocabularyIds": [
-    8072,
-    8073,
-    8074,
-    8075
-  ],
-  "radicalIds": [
-    415,
-    44,
-    145
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%8D%B8"
+  "readingMnemonic": "Oh, one more thing. Going at noon isn't enough, you have to say the password to get them at <kanji>wholesale</kanji> price too. The password is \"<reading>Oh Roshi</reading>\" (おろし). Okay, so maybe that's just the name of the guy there, but it always works when I want to get stamps wholesale so you should do it too!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%8D%B8"
+  },
+  "related": {
+    "radicals": [
+      415,
+      44,
+      145
+    ],
+    "vocabularies": [
+      8072,
+      8073,
+      8074,
+      8075
+    ]
+  }
 }

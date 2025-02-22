@@ -1,0 +1,47 @@
+{
+  "id": 8649,
+  "type": "vocabulary",
+  "characters": "南蛮",
+  "primaryMeaning": "Southern Barbarians",
+  "otherMeanings": [
+    "Nanban",
+    "South Sea Countries"
+  ],
+  "primaryReading": "なんばん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 634,
+      "character": "南",
+      "readings": [
+        "なん",
+        "みなみ"
+      ]
+    },
+    {
+      "id": 2464,
+      "character": "蛮",
+      "readings": [
+        "ばん",
+        "えびす"
+      ]
+    }
+  ],
+  "meaningMnemonic": "<kanji>Southern</kanji> <kanji>barbarian</kanji>s are called <vocabulary>Southern barbarians</vocabulary>! While it originally referred to the people of Southeast Asia, the term <vocabulary>Nanban</vocabulary> was used to refer to <a href=\"http://en.wikipedia.org/wiki/Nanban_trade\" target=\"_blank\">Western traders</a> who began arriving in Japan in the 1500s. There's yummy food named after them too!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8D%97%E8%9B%AE",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "南",
+      "id": 634,
+      "reading": "なん"
+    },
+    {
+      "type": "kanji",
+      "value": "蛮",
+      "id": 2464,
+      "reading": "ばん"
+    }
+  ]
+}

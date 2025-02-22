@@ -1,37 +1,20 @@
 {
   "id": 2614,
   "type": "vocabulary",
-  "characters": "止める",
+  "level": 3,
+  "characters": {
+    "type": "text",
+    "value": "止める"
+  },
   "primaryMeaning": "To Stop Something",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>stop</kanji> and the verb vocab version of that is <vocabulary>to stop something</vocabulary>.\n\nThis particular word is when you're stopping something (i.e. doing the action of stopping it).",
+  "primaryReading": "とめる",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nYou need <vocabulary>to stop something</vocabulary> from moving. Maybe a car... or a door... or a person... whatever you want. To stop this thing, you throw out your <reading>toe</reading> (と), getting it smashed in the process. Imagine it bleeding and swelling up. How much it hurts! You put your toe out to stop this big thing, what a mistake!",
   "otherMeanings": [
     "To Prevent Something"
   ],
-  "primaryReading": "とめる",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 514,
-      "character": "止",
-      "readings": [
-        "し",
-        "と",
-        "や"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>stop</kanji> and the verb vocab version of that is <vocabulary>to stop something</vocabulary>.\n\nThis particular word is when you're stopping something (i.e. doing the action of stopping it).",
-  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nYou need <vocabulary>to stop something</vocabulary> from moving. Maybe a car... or a door... or a person... whatever you want. To stop this thing, you throw out your <reading>toe</reading> (と), getting it smashed in the process. Imagine it bleeding and swelling up. How much it hurts! You put your toe out to stop this big thing, what a mistake!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%AD%A2%E3%82%81%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "止",
-      "id": 514,
-      "reading": "と"
-    },
-    {
-      "type": "kana",
-      "value": "める"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%AD%A2%E3%82%81%E3%82%8B"
+  }
 }

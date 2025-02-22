@@ -1,46 +1,20 @@
 {
   "id": 6713,
   "type": "vocabulary",
-  "characters": "慰安",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "慰安"
+  },
   "primaryMeaning": "Solace",
+  "meaningMnemonic": "You have <kanji>consolation</kanji> so now you can <kanji>relax</kanji>. What a great feeling this is. You now have <vocabulary>solace</vocabulary> and <vocabulary>relaxation</vocabulary>.",
+  "primaryReading": "いあん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Relaxation"
   ],
-  "primaryReading": "いあん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1856,
-      "character": "慰",
-      "readings": [
-        "い",
-        "なぐさ"
-      ]
-    },
-    {
-      "id": 612,
-      "character": "安",
-      "readings": [
-        "あん",
-        "やす"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You have <kanji>consolation</kanji> so now you can <kanji>relax</kanji>. What a great feeling this is. You now have <vocabulary>solace</vocabulary> and <vocabulary>relaxation</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%85%B0%E5%AE%89",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "慰",
-      "id": 1856,
-      "reading": "い"
-    },
-    {
-      "type": "kanji",
-      "value": "安",
-      "id": 612,
-      "reading": "あん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%85%B0%E5%AE%89"
+  }
 }

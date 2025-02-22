@@ -1,0 +1,44 @@
+{
+  "id": 5875,
+  "type": "vocabulary",
+  "characters": "講師",
+  "primaryMeaning": "Lecturer",
+  "otherMeanings": [
+    "Instructor"
+  ],
+  "primaryReading": "こうし",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1584,
+      "character": "講",
+      "readings": [
+        "こう"
+      ]
+    },
+    {
+      "id": 1198,
+      "character": "師",
+      "readings": [
+        "し"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>lecture</kanji> <kanji>expert</kanji> is a <vocabulary>lecturer</vocabulary> or <vocabulary>instructor</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%AC%9B%E5%B8%AB",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "講",
+      "id": 1584,
+      "reading": "こう"
+    },
+    {
+      "type": "kanji",
+      "value": "師",
+      "id": 1198,
+      "reading": "し"
+    }
+  ]
+}

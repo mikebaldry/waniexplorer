@@ -1,35 +1,18 @@
 {
   "id": 4458,
   "type": "vocabulary",
-  "characters": "増える",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "増える"
+  },
   "primaryMeaning": "To Increase",
-  "otherMeanings": [],
-  "primaryReading": "ふえる",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1148,
-      "character": "増",
-      "readings": [
-        "ぞう",
-        "ふ",
-        "ま"
-      ]
-    }
-  ],
   "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>increase</kanji>, so the vocabulary verb version means <vocabulary>to increase</vocabulary>. This is when something is just increasing on its own, and you're not doing the increasing. You know this because you like to <reading>err</reading> (える) on the side of caution and not touch anything when it's increasing, therefore you're not doing any of the increasing yourself (it's just happening).\n\nThis is an everyday word that refers to an increase in number or quantity, but keep in mind that it cannot be used to express an increase in degree.",
+  "primaryReading": "ふえる",
   "readingMnemonic": "It would be <reading>foo</reading>lish (ふ) of you to touch anything while things are increasing anyways. You don't want to mess up a good thing, do you? Don't be a fool.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A2%97%E3%81%88%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "増",
-      "id": 1148,
-      "reading": "ふ"
-    },
-    {
-      "type": "kana",
-      "value": "える"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A2%97%E3%81%88%E3%82%8B"
+  }
 }

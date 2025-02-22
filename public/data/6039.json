@@ -1,37 +1,20 @@
 {
   "id": 6039,
   "type": "vocabulary",
-  "characters": "遅い",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "遅い"
+  },
   "primaryMeaning": "Slow",
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>slow</kanji>? It's <vocabulary>slow</vocabulary> (or, if you're slow, you're probably <vocabulary>late</vocabulary>, too).",
+  "primaryReading": "おそい",
+  "readingMnemonic": "How <vocabulary>slow</vocabulary> are you? You are <reading>oh so</reading> slow (おそ).",
   "otherMeanings": [
     "Late"
   ],
-  "primaryReading": "おそい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1579,
-      "character": "遅",
-      "readings": [
-        "ち",
-        "おそ",
-        "おく"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>slow</kanji>? It's <vocabulary>slow</vocabulary> (or, if you're slow, you're probably <vocabulary>late</vocabulary>, too).",
-  "readingMnemonic": "How <vocabulary>slow</vocabulary> are you? You are <reading>oh so</reading> slow (おそ).",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%81%85%E3%81%84",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "遅",
-      "id": 1579,
-      "reading": "おそ"
-    },
-    {
-      "type": "kana",
-      "value": "い"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%81%85%E3%81%84"
+  }
 }

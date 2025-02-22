@@ -1,54 +1,20 @@
 {
   "id": 5957,
   "type": "vocabulary",
-  "characters": "甘く見る",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "甘く見る"
+  },
   "primaryMeaning": "To Not Take Seriously",
+  "meaningMnemonic": "When you <kanji>see</kanji> something as <kanji>sweet</kanji>, you're just looking at it like it's some little sweet kid with sweet flavoring. You are not taking it seriously, or you are taking it lightly. So sweet! That's why this word is <vocabulary>to not take seriously</vocabulary> or <vocabulary>to take lightly</vocabulary>.",
+  "primaryReading": "あまくみる",
+  "readingMnemonic": "The reading comes from 甘い and 見る. Don't take this word lightly and you should be able to learn it no problem.",
   "otherMeanings": [
     "To Take Lightly"
   ],
-  "primaryReading": "あまくみる",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1623,
-      "character": "甘",
-      "readings": [
-        "あま",
-        "かん"
-      ]
-    },
-    {
-      "id": 558,
-      "character": "見",
-      "readings": [
-        "み",
-        "けん"
-      ]
-    }
-  ],
-  "meaningMnemonic": "When you <kanji>see</kanji> something as <kanji>sweet</kanji>, you're just looking at it like it's some little sweet kid with sweet flavoring. You are not taking it seriously, or you are taking it lightly. So sweet! That's why this word is <vocabulary>to not take seriously</vocabulary> or <vocabulary>to take lightly</vocabulary>.",
-  "readingMnemonic": "The reading comes from 甘い and 見る. Don't take this word lightly and you should be able to learn it no problem.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%94%98%E3%81%8F%E8%A6%8B%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "甘",
-      "id": 1623,
-      "reading": "あま"
-    },
-    {
-      "type": "kana",
-      "value": "く"
-    },
-    {
-      "type": "kanji",
-      "value": "見",
-      "id": 558,
-      "reading": "み"
-    },
-    {
-      "type": "kana",
-      "value": "る"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%94%98%E3%81%8F%E8%A6%8B%E3%82%8B"
+  }
 }

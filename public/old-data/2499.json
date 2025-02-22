@@ -1,0 +1,38 @@
+{
+  "id": 2499,
+  "type": "vocabulary",
+  "characters": "大きい",
+  "primaryMeaning": "Big",
+  "otherMeanings": [
+    "Large"
+  ],
+  "primaryReading": "おおきい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 453,
+      "character": "大",
+      "readings": [
+        "たい",
+        "だい",
+        "おお",
+        "ひろ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This is the adjective form of <kanji>big</kanji>. It has the same meaning, though it is a word for describing. Words that end with い are often adjectives, remember that for future words as well. So, as long as you know the meaning of this kanji, you can transfer that to the meaning of this word. It's the adjective <vocabulary>big</vocabulary>, or <vocabulary>large</vocabulary>.",
+  "readingMnemonic": "What do you do when you see something really, really <vocabulary>big</vocabulary>? You say <reading>おお</reading> because you can't believe your eyes. Imagine something really large and say おお out loud to help seal the memory in that brain of yours.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A4%A7%E3%81%8D%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "大",
+      "id": 453,
+      "reading": "おお"
+    },
+    {
+      "type": "kana",
+      "value": "きい"
+    }
+  ]
+}

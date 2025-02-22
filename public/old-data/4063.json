@@ -1,0 +1,37 @@
+{
+  "id": 4063,
+  "type": "vocabulary",
+  "characters": "笑い",
+  "primaryMeaning": "A Laugh",
+  "otherMeanings": [
+    "Laugh"
+  ],
+  "primaryReading": "わらい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 980,
+      "character": "笑",
+      "readings": [
+        "わら",
+        "え",
+        "しょう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You know that 笑う is \"to laugh.\" This is the noun version, because the う in 笑う turns to い (so don't confuse this as an adjective). What is the noun version of \"to laugh\"? It's <vocabulary>a laugh</vocabulary>.",
+  "readingMnemonic": "The reading is the same as 笑う, so just make sure you know that so you can know this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%AC%91%E3%81%84",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "笑",
+      "id": 980,
+      "reading": "わら"
+    },
+    {
+      "type": "kana",
+      "value": "い"
+    }
+  ]
+}

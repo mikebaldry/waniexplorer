@@ -1,12 +1,15 @@
 {
   "id": 259,
   "type": "radical",
-  "primaryMeaning": "Mask",
-  "otherMeanings": [],
-  "character": {
+  "level": 18,
+  "characters": {
     "type": "text",
     "value": "曽"
   },
+  "primaryMeaning": "Mask",
+  "otherMeanings": [],
   "meaningMnemonic": "This looks kind of like a <radical>mask</radical>, right? It has horns, it has crazy eyes, and it has a big mouth. Nobody would actually look like this, which is why this is just a mask.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/mask"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/mask"
+  }
 }

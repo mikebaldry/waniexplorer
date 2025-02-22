@@ -1,39 +1,47 @@
 {
   "id": 683,
   "type": "kanji",
-  "character": "対",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "対"
+  },
+  "primaryReading": "たい",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "たい",
+      "type": "onyomi"
+    }
+  ],
   "primaryMeaning": "Versus",
   "otherMeanings": [
     "Opposite"
   ],
-  "primaryReading": "たい",
-  "readings": [
-    {
-      "reading": "たい",
-      "primary": true,
-      "type": "onyomi"
-    }
-  ],
-  "readingMnemonic": "You let your nerves get the better of you and right when it's about to be you <kanji>versus</kanji> your professor, you hand him a new <reading>tie</reading> (たい). Is this also the <kanji>opposite</kanji> of what you should be doing? Probably, since it's bribery. But no one can say no to a tie, right?",
   "meaningMnemonic": "You want to take a <radical>measurement</radical> of what you're <radical>writing</radical> to make sure it's long enough to hand in to your professor, when you realize it's the <kanji>opposite</kanji> of what you should be doing. You don't measure writing, you check things like word count and page numbers. Now it's going to be you <kanji>versus</kanji> the teacher on who determines how long this thing you're writing should be.",
-  "vocabularyIds": [
-    3007,
-    3008,
-    3009,
-    3010,
-    4219,
-    4663,
-    4722,
-    5189,
-    6080,
-    6207,
-    7487,
-    7760,
-    7764
-  ],
-  "radicalIds": [
-    42,
-    74
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%AF%BE"
+  "readingMnemonic": "You let your nerves get the better of you and right when it's about to be you <kanji>versus</kanji> your professor, you hand him a new <reading>tie</reading> (たい). Is this also the <kanji>opposite</kanji> of what you should be doing? Probably, since it's bribery. But no one can say no to a tie, right?",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%AF%BE"
+  },
+  "related": {
+    "radicals": [
+      42,
+      74
+    ],
+    "vocabularies": [
+      3007,
+      3008,
+      3009,
+      3010,
+      4219,
+      4663,
+      4722,
+      5189,
+      6080,
+      6207,
+      7487,
+      7760,
+      7764
+    ]
+  }
 }

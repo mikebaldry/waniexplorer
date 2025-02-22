@@ -1,0 +1,49 @@
+{
+  "id": 7691,
+  "type": "vocabulary",
+  "characters": "期間",
+  "primaryMeaning": "Period",
+  "otherMeanings": [
+    "Term",
+    "Interval"
+  ],
+  "primaryReading": "きかん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 839,
+      "character": "期",
+      "readings": [
+        "き",
+        "ご"
+      ]
+    },
+    {
+      "id": 701,
+      "character": "間",
+      "readings": [
+        "かん",
+        "けん",
+        "あいだ",
+        "ま"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>period of time</kanji> <kanji>interval</kanji> is still a <vocabulary>period</vocabulary> or <vocabulary>interval</vocabulary> of time.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9C%9F%E9%96%93",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "期",
+      "id": 839,
+      "reading": "き"
+    },
+    {
+      "type": "kanji",
+      "value": "間",
+      "id": 701,
+      "reading": "かん"
+    }
+  ]
+}

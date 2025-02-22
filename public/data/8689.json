@@ -1,49 +1,20 @@
 {
   "id": 8689,
   "type": "vocabulary",
-  "characters": "弾力",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "弾力"
+  },
   "primaryMeaning": "Elasticity",
+  "meaningMnemonic": "If you want the <kanji>power</kanji> to stop a <kanji>bullet</kanji> you need to have just the right amount of <vocabulary>elasticity</vocabulary>. Bullets go right through rigid things, but if the material is strong and has the right amount of <vocabulary>flexibility</vocabulary>, the bullet will bounce right off!",
+  "primaryReading": "だんりょく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Flexibility"
   ],
-  "primaryReading": "だんりょく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1659,
-      "character": "弾",
-      "readings": [
-        "だん",
-        "ひ",
-        "はず",
-        "たま"
-      ]
-    },
-    {
-      "id": 447,
-      "character": "力",
-      "readings": [
-        "りょく",
-        "りき",
-        "ちから"
-      ]
-    }
-  ],
-  "meaningMnemonic": "If you want the <kanji>power</kanji> to stop a <kanji>bullet</kanji> you need to have just the right amount of <vocabulary>elasticity</vocabulary>. Bullets go right through rigid things, but if the material is strong and has the right amount of <vocabulary>flexibility</vocabulary>, the bullet will bounce right off!",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%BC%BE%E5%8A%9B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "弾",
-      "id": 1659,
-      "reading": "だん"
-    },
-    {
-      "type": "kanji",
-      "value": "力",
-      "id": 447,
-      "reading": "りょく"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%BC%BE%E5%8A%9B"
+  }
 }

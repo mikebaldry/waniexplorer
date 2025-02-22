@@ -1,0 +1,33 @@
+{
+  "id": 1249,
+  "type": "kanji",
+  "character": "与",
+  "primaryMeaning": "Give",
+  "otherMeanings": [],
+  "primaryReading": "よ",
+  "readings": [
+    {
+      "reading": "よ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "あた",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "When you set the money down next to the beggar he shouts, “No! I want a <reading>yo</reading>-yo (よ)!” so you go to the corner store and buy him a yo-yo with the money instead. You <kanji>give</kanji> the yo-yo to the beggar and he looks very happy.",
+  "meaningMnemonic": "A <radical>beggar</radical> lies sprawled on the <radical>ground</radical> so you <kanji>give</kanji> him some money. You feel bad for the beggar on the ground, so that’s why you decided to give him something.",
+  "vocabularyIds": [
+    4771,
+    4772,
+    5065,
+    7604
+  ],
+  "radicalIds": [
+    8766,
+    1
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E4%B8%8E"
+}

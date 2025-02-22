@@ -1,0 +1,52 @@
+{
+  "id": 8004,
+  "type": "vocabulary",
+  "characters": "渦巻き",
+  "primaryMeaning": "Whirlpool",
+  "otherMeanings": [
+    "Eddy",
+    "Coil"
+  ],
+  "primaryReading": "うずまき",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2147,
+      "character": "渦",
+      "readings": [
+        "か",
+        "うず"
+      ]
+    },
+    {
+      "id": 1273,
+      "character": "巻",
+      "readings": [
+        "かん",
+        "ま",
+        "まき"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This is a combination of the word 渦 meaning \"whirlpool\" and 巻く meaning \"to roll.\" A rolling whirlpool is still a <vocabulary>whirlpool</vocabulary>, just a really violent one.",
+  "readingMnemonic": "This is a combination of the words 渦 and 巻く. 巻く becomes 巻き and you just add 渦 to it. So reading this should be pretty simple.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B8%A6%E5%B7%BB%E3%81%8D",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "渦",
+      "id": 2147,
+      "reading": "うず"
+    },
+    {
+      "type": "kanji",
+      "value": "巻",
+      "id": 1273,
+      "reading": "まき"
+    },
+    {
+      "type": "kana",
+      "value": "き"
+    }
+  ]
+}

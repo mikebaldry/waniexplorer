@@ -1,47 +1,20 @@
 {
   "id": 3031,
   "type": "vocabulary",
-  "characters": "作者",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "作者"
+  },
   "primaryMeaning": "Author",
+  "meaningMnemonic": "<kanji>Someone</kanji> who <kanji>make</kanji>s is someone who creates things. Back in the day, a creator like this may have been known as many things, but the big one that stands out is an <vocabulary>author</vocabulary>.\n\nWondering about the difference between 作者 and 作家? Basically, 作者 just refers to the creator of a particular creative work, such as a book, article, artwork, piece of music, etc., while 作家 refers to someone who creates those things as an occupation.",
+  "primaryReading": "さくしゃ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 作 has two on'yomi readings, here's a mnemonic to help you remember which one to use:\n\nYour favorite <vocabulary>author</vocabulary> is also a <reading>sack</reading> <reading>sha</reading>man (さくしゃ). They do all sorts of weird magic involving sacks, and you just love reading about it. Maybe one day, you can become a sack shaman and <vocabulary>writer</vocabulary> yourself.",
   "otherMeanings": [
     "Writer"
   ],
-  "primaryReading": "さくしゃ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 584,
-      "character": "作",
-      "readings": [
-        "さく",
-        "さ",
-        "つく"
-      ]
-    },
-    {
-      "id": 690,
-      "character": "者",
-      "readings": [
-        "しゃ",
-        "もの"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Someone</kanji> who <kanji>make</kanji>s is someone who creates things. Back in the day, a creator like this may have been known as many things, but the big one that stands out is an <vocabulary>author</vocabulary>.\n\nWondering about the difference between 作者 and 作家? Basically, 作者 just refers to the creator of a particular creative work, such as a book, article, artwork, piece of music, etc., while 作家 refers to someone who creates those things as an occupation.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 作 has two on'yomi readings, here's a mnemonic to help you remember which one to use:\n\nYour favorite <vocabulary>author</vocabulary> is also a <reading>sack</reading> <reading>sha</reading>man (さくしゃ). They do all sorts of weird magic involving sacks, and you just love reading about it. Maybe one day, you can become a sack shaman and <vocabulary>writer</vocabulary> yourself.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BD%9C%E8%80%85",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "作",
-      "id": 584,
-      "reading": "さく"
-    },
-    {
-      "type": "kanji",
-      "value": "者",
-      "id": 690,
-      "reading": "しゃ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BD%9C%E8%80%85"
+  }
 }

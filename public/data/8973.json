@@ -1,47 +1,21 @@
 {
   "id": 8973,
   "type": "vocabulary",
-  "characters": "素麺",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "素麺"
+  },
   "primaryMeaning": "Somen",
+  "meaningMnemonic": "If you can read this word, you may well know what it means. It's everybody's second favorite noodle dish, <vocabulary>somen</vocabulary>, or <vocabulary>somen noodles</vocabulary>, which are <vocabulary>fine white noodles</vocabulary>.",
+  "primaryReading": "そうめん",
+  "readingMnemonic": "The first kanji has a slightly irregular reading because it's prolonged. That's because <vocabulary>somen</vocabulary> are your <reading>sou</reading>l (そう) food.",
   "otherMeanings": [
     "Somen Noodles",
     "Fine White Noodles"
   ],
-  "primaryReading": "そうめん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1138,
-      "character": "素",
-      "readings": [
-        "そ",
-        "す",
-        "もと"
-      ]
-    },
-    {
-      "id": 8955,
-      "character": "麺",
-      "readings": [
-        "めん"
-      ]
-    }
-  ],
-  "meaningMnemonic": "If you can read this word, you may well know what it means. It's everybody's second favorite noodle dish, <vocabulary>somen</vocabulary>, or <vocabulary>somen noodles</vocabulary>, which are <vocabulary>fine white noodles</vocabulary>.",
-  "readingMnemonic": "The first kanji has a slightly irregular reading because it's prolonged. That's because <vocabulary>somen</vocabulary> are your <reading>sou</reading>l (そう) food.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%B4%A0%E9%BA%BA",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "素",
-      "id": 1138,
-      "reading": "そ"
-    },
-    {
-      "type": "kanji",
-      "value": "麺",
-      "id": 8955,
-      "reading": null
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%B4%A0%E9%BA%BA"
+  }
 }

@@ -1,0 +1,47 @@
+{
+  "id": 8333,
+  "type": "vocabulary",
+  "characters": "錯乱",
+  "primaryMeaning": "Confusion",
+  "otherMeanings": [
+    "Distraction",
+    "Derangement"
+  ],
+  "primaryReading": "さくらん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2303,
+      "character": "錯",
+      "readings": [
+        "さく",
+        "しゃく"
+      ]
+    },
+    {
+      "id": 1079,
+      "character": "乱",
+      "readings": [
+        "らん",
+        "みだ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>confused</kanji> <kanji>riot</kanji> causes even more <vocabulary>confusion</vocabulary>. Soon there will be so many <vocabulary>distraction</vocabulary>s happening, what with cars tipping over and fires starting, that no one will know which way is up!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%8C%AF%E4%B9%B1",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "錯",
+      "id": 2303,
+      "reading": "さく"
+    },
+    {
+      "type": "kanji",
+      "value": "乱",
+      "id": 1079,
+      "reading": "らん"
+    }
+  ]
+}

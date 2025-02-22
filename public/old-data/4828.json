@@ -1,0 +1,45 @@
+{
+  "id": 4828,
+  "type": "vocabulary",
+  "characters": "捜査",
+  "primaryMeaning": "Criminal Investigation",
+  "otherMeanings": [
+    "Manhunt"
+  ],
+  "primaryReading": "そうさ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1274,
+      "character": "捜",
+      "readings": [
+        "そう",
+        "さが"
+      ]
+    },
+    {
+      "id": 1130,
+      "character": "査",
+      "readings": [
+        "さ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "When you <kanji>search</kanji> and <kanji>inspect</kanji> things, you are probably part of a <vocabulary>criminal investigation</vocabulary>. You may even be subject to a <vocabulary>manhunt</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8D%9C%E6%9F%BB",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "捜",
+      "id": 1274,
+      "reading": "そう"
+    },
+    {
+      "type": "kanji",
+      "value": "査",
+      "id": 1130,
+      "reading": "さ"
+    }
+  ]
+}

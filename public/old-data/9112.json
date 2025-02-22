@@ -1,0 +1,44 @@
+{
+  "id": 9112,
+  "type": "vocabulary",
+  "characters": "拓哉",
+  "primaryMeaning": "Takuya",
+  "otherMeanings": [],
+  "primaryReading": "たくや",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2055,
+      "character": "拓",
+      "readings": [
+        "たく"
+      ]
+    },
+    {
+      "id": 2361,
+      "character": "哉",
+      "readings": [
+        "や",
+        "さい",
+        "かな"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>cultivation</kanji> of a <kanji>question mark</kanji> is something that only people called <vocabulary>Takuya</vocabulary> can do. Imagine a famous Takuya, like actor and singer Kimura Takuya (木村 拓哉 a.k.a. キムタク), or a Takuya you know, cultivating a huge field of question marks. Rows and rows of question marks. I wonder what he's going to do with all those question marks once they're ready to harvest. Other people who must have an abundance of question marks are pro baseball player Kinoshita Takuya (木下 拓哉 a.k.a. キノタク) and actor, model, and K-Pop star Terada Takuya (寺田 拓哉).",
+  "readingMnemonic": "You learned both of these readings with the kanji, so you should be able to read this name on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8B%93%E5%93%89",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "拓",
+      "id": 2055,
+      "reading": "たく"
+    },
+    {
+      "type": "kanji",
+      "value": "哉",
+      "id": 2361,
+      "reading": "や"
+    }
+  ]
+}

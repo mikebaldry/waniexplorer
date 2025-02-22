@@ -1,47 +1,21 @@
 {
   "id": 3133,
   "type": "vocabulary",
-  "characters": "世界",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "世界"
+  },
   "primaryMeaning": "The World",
+  "meaningMnemonic": "Both kanji mean <kanji>world</kanji>, so it should be easy to guess this is a word for <vocabulary>the World</vocabulary>. It also means <vocabulary>society</vocabulary> or <vocabulary>the Universe</vocabulary>.",
+  "primaryReading": "せかい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. You know the on'yomi reading for 界, but you didn't learn this on'yomi reading of 世, so here's a mnemonic to help you remember:\n\nWhat's the most hated vegetable in <vocabulary>the world</vocabulary>? <reading>Ce</reading>lery (せ), probably. The world is divided into those who love celery and those who hate celery. Which one are you?",
   "otherMeanings": [
     "Society",
     "The Universe"
   ],
-  "primaryReading": "せかい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 527,
-      "character": "世",
-      "readings": [
-        "せい",
-        "せ",
-        "よ"
-      ]
-    },
-    {
-      "id": 728,
-      "character": "界",
-      "readings": [
-        "かい"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Both kanji mean <kanji>world</kanji>, so it should be easy to guess this is a word for <vocabulary>the World</vocabulary>. It also means <vocabulary>society</vocabulary> or <vocabulary>the Universe</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. You know the on'yomi reading for 界, but you didn't learn this on'yomi reading of 世, so here's a mnemonic to help you remember:\n\nWhat's the most hated vegetable in <vocabulary>the world</vocabulary>? <reading>Ce</reading>lery (せ), probably. The world is divided into those who love celery and those who hate celery. Which one are you?",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%96%E7%95%8C",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "世",
-      "id": 527,
-      "reading": "せ"
-    },
-    {
-      "type": "kanji",
-      "value": "界",
-      "id": 728,
-      "reading": "かい"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B8%96%E7%95%8C"
+  }
 }

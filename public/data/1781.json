@@ -1,29 +1,37 @@
 {
   "id": 1781,
   "type": "kanji",
-  "character": "儀",
-  "primaryMeaning": "Ceremony",
-  "otherMeanings": [],
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "儀"
+  },
   "primaryReading": "ぎ",
   "readings": [
     {
-      "reading": "ぎ",
       "primary": true,
+      "reading": "ぎ",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "Sadly, the reason only the righteous can run this <kanji>ceremony</kanji> is because it's a punishment ceremony, where he pulls the cord to cut someone's head off via a <reading>gui</reading>llotine (ぎ).",
+  "primaryMeaning": "Ceremony",
+  "otherMeanings": [],
   "meaningMnemonic": "The <radical>leader</radical> of <radical>righteousness</radical> is the only one who can run this <kanji>ceremony</kanji>. Why? Because it's a very pure ceremony, and only those with an extremely righteous mind can run it.",
-  "vocabularyIds": [
-    6354,
-    6492,
-    6493,
-    6494,
-    6495
-  ],
-  "radicalIds": [
-    75,
-    383
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%84%80"
+  "readingMnemonic": "Sadly, the reason only the righteous can run this <kanji>ceremony</kanji> is because it's a punishment ceremony, where he pulls the cord to cut someone's head off via a <reading>gui</reading>llotine (ぎ).",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%84%80"
+  },
+  "related": {
+    "radicals": [
+      75,
+      383
+    ],
+    "vocabularies": [
+      6354,
+      6492,
+      6493,
+      6494,
+      6495
+    ]
+  }
 }

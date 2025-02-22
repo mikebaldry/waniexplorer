@@ -1,46 +1,21 @@
 {
   "id": 3660,
   "type": "vocabulary",
-  "characters": "協会",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "協会"
+  },
   "primaryMeaning": "Association",
+  "meaningMnemonic": "When you <kanji>meet</kanji> for <kanji>cooperation</kanji>, you're coming together to help each other. One form of this is when people form <vocabulary>association</vocabulary>s. They're all cooperating and coming together to help each other and themselves.",
+  "primaryReading": "きょうかい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Organization",
     "Society"
   ],
-  "primaryReading": "きょうかい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 898,
-      "character": "協",
-      "readings": [
-        "きょう"
-      ]
-    },
-    {
-      "id": 566,
-      "character": "会",
-      "readings": [
-        "かい",
-        "あ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "When you <kanji>meet</kanji> for <kanji>cooperation</kanji>, you're coming together to help each other. One form of this is when people form <vocabulary>association</vocabulary>s. They're all cooperating and coming together to help each other and themselves.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8D%94%E4%BC%9A",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "協",
-      "id": 898,
-      "reading": "きょう"
-    },
-    {
-      "type": "kanji",
-      "value": "会",
-      "id": 566,
-      "reading": "かい"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%8D%94%E4%BC%9A"
+  }
 }

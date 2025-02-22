@@ -1,0 +1,45 @@
+{
+  "id": 8135,
+  "type": "vocabulary",
+  "characters": "波紋",
+  "primaryMeaning": "Ripple",
+  "otherMeanings": [
+    "Repercussions"
+  ],
+  "primaryReading": "はもん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 793,
+      "character": "波",
+      "readings": [
+        "は",
+        "なみ"
+      ]
+    },
+    {
+      "id": 2232,
+      "character": "紋",
+      "readings": [
+        "もん"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Throw your <kanji>family crest</kanji> into the <kanji>wave</kanji>s and you'll make lots of <vocabulary>ripple</vocabulary>s. There will probably also be <vocabulary>repercussions</vocabulary> with your family because those things are important and you really shouldn't be tossing them into the sea's waves.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B3%A2%E7%B4%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "波",
+      "id": 793,
+      "reading": "は"
+    },
+    {
+      "type": "kanji",
+      "value": "紋",
+      "id": 2232,
+      "reading": "もん"
+    }
+  ]
+}

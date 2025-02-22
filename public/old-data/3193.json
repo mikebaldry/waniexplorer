@@ -1,0 +1,43 @@
+{
+  "id": 3193,
+  "type": "vocabulary",
+  "characters": "工業",
+  "primaryMeaning": "Industry",
+  "otherMeanings": [],
+  "primaryReading": "こうぎょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 457,
+      "character": "工",
+      "readings": [
+        "こう",
+        "く"
+      ]
+    },
+    {
+      "id": 756,
+      "character": "業",
+      "readings": [
+        "ぎょう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>business</kanji> of <kanji>industry</kanji> is... well... <vocabulary>industry</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%B7%A5%E6%A5%AD",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "工",
+      "id": 457,
+      "reading": "こう"
+    },
+    {
+      "type": "kanji",
+      "value": "業",
+      "id": 756,
+      "reading": "ぎょう"
+    }
+  ]
+}

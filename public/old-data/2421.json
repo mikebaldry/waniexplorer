@@ -1,0 +1,34 @@
+{
+  "id": 2421,
+  "type": "kanji",
+  "character": "卑",
+  "primaryMeaning": "Lowly",
+  "otherMeanings": [
+    "Base"
+  ],
+  "primaryReading": "ひ",
+  "readings": [
+    {
+      "reading": "ひ",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "いや",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "The only problem about being <kanji>lowly</kanji> is the <reading>he</reading>at (ひ). Everyone always told you that heat rises, but not here. The rice paddy is incredibly hot... unless oh no. Is that the heat of hell?",
+  "meaningMnemonic": "You <radical>drop</radical> to the ground in a <radical>rice paddy</radical>, and then <radical>drop</radical> down in front of the <radical>cross</radical> you keep on you because you're trying to make yourself as <kanji>lowly</kanji> as you can in front of God. He said to lower yourself and this is the only way you can interpret that.",
+  "vocabularyIds": [
+    8522,
+    8523
+  ],
+  "radicalIds": [
+    3,
+    51,
+    15
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%8D%91"
+}

@@ -1,59 +1,18 @@
 {
   "id": 6170,
   "type": "vocabulary",
-  "characters": "致命的",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "致命的"
+  },
   "primaryMeaning": "Fatal",
-  "otherMeanings": [],
-  "primaryReading": "ちめいてき",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1682,
-      "character": "致",
-      "readings": [
-        "ち",
-        "いた"
-      ]
-    },
-    {
-      "id": 789,
-      "character": "命",
-      "readings": [
-        "めい",
-        "みょう",
-        "いのち"
-      ]
-    },
-    {
-      "id": 914,
-      "character": "的",
-      "readings": [
-        "てき",
-        "まと"
-      ]
-    }
-  ],
   "meaningMnemonic": "Somebody <kanji>do</kanji>ing you <kanji>fate</kanji> <kanji>-al</kanji> would... probably be pretty <vocabulary>fatal</vocabulary>!",
+  "primaryReading": "ちめいてき",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%87%B4%E5%91%BD%E7%9A%84",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "致",
-      "id": 1682,
-      "reading": "ち"
-    },
-    {
-      "type": "kanji",
-      "value": "命",
-      "id": 789,
-      "reading": "めい"
-    },
-    {
-      "type": "kanji",
-      "value": "的",
-      "id": 914,
-      "reading": "てき"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%87%B4%E5%91%BD%E7%9A%84"
+  }
 }

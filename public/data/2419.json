@@ -1,46 +1,54 @@
 {
   "id": 2419,
   "type": "kanji",
-  "character": "曹",
-  "primaryMeaning": "Official",
-  "otherMeanings": [],
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "曹"
+  },
   "primaryReading": "そう",
   "readings": [
     {
-      "reading": "そう",
       "primary": true,
+      "reading": "そう",
       "type": "onyomi"
     },
     {
+      "primary": false,
       "reading": "ぞう",
-      "primary": false,
       "type": "onyomi"
     },
     {
+      "primary": false,
       "reading": "つかさ",
-      "primary": false,
       "type": "kunyomi"
     },
     {
+      "primary": false,
       "reading": "ともがら",
-      "primary": false,
       "type": "kunyomi"
     },
     {
-      "reading": "へや",
       "primary": false,
+      "reading": "へや",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "Once the music is <kanji>official</kanji>, you'll feel it in your <reading>sou</reading>l (そう). When you listen to it outside, under the bright sun, your soul gets to finally hear it too.",
+  "primaryMeaning": "Official",
+  "otherMeanings": [],
   "meaningMnemonic": "When under<radical>ground</radical> <radical>music</radical> makes it out into the light of the <radical>sun</radical> (the public), it finally becomes <kanji>official</kanji>. Music isn't really real unless people hear it outside of those secret underground concerts.",
-  "vocabularyIds": [
-    8546
-  ],
-  "radicalIds": [
-    1,
-    185,
-    22
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%9B%B9"
+  "readingMnemonic": "Once the music is <kanji>official</kanji>, you'll feel it in your <reading>sou</reading>l (そう). When you listen to it outside, under the bright sun, your soul gets to finally hear it too.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%9B%B9"
+  },
+  "related": {
+    "radicals": [
+      1,
+      185,
+      22
+    ],
+    "vocabularies": [
+      8546
+    ]
+  }
 }

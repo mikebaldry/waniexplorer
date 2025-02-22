@@ -1,37 +1,21 @@
 {
   "id": 7326,
   "type": "vocabulary",
-  "characters": "隔てる",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "隔てる"
+  },
   "primaryMeaning": "To Isolate",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>isolate</kanji> and the verb vocab version is <vocabulary>to isolate</vocabulary> or <vocabulary>to partition</vocabulary> or <vocabulary>to separate</vocabulary>. You get the idea, anyways.",
+  "primaryReading": "へだてる",
+  "readingMnemonic": "Why did you have <vocabulary>to isolate</vocabulary> him from the rest of the soccer players? Because all he could do was <reading>header</reading>s (へだ) and that was getting pretty dangerous. He would head everything in his reach. He was going crazy with headers. He had to be isolated!",
   "otherMeanings": [
     "To Partition",
     "To Separate"
   ],
-  "primaryReading": "へだてる",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2071,
-      "character": "隔",
-      "readings": [
-        "かく",
-        "へだ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>isolate</kanji> and the verb vocab version is <vocabulary>to isolate</vocabulary> or <vocabulary>to partition</vocabulary> or <vocabulary>to separate</vocabulary>. You get the idea, anyways.",
-  "readingMnemonic": "Why did you have <vocabulary>to isolate</vocabulary> him from the rest of the soccer players? Because all he could do was <reading>header</reading>s (へだ) and that was getting pretty dangerous. He would head everything in his reach. He was going crazy with headers. He had to be isolated!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9A%94%E3%81%A6%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "隔",
-      "id": 2071,
-      "reading": "へだ"
-    },
-    {
-      "type": "kana",
-      "value": "てる"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%9A%94%E3%81%A6%E3%82%8B"
+  }
 }

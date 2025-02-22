@@ -1,38 +1,22 @@
 {
   "id": 4166,
   "type": "vocabulary",
-  "characters": "乱れる",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "乱れる"
+  },
   "primaryMeaning": "To Be In Disorder",
+  "meaningMnemonic": "The kanji means <kanji>riot</kanji>, but this verb version word doesn't really mean \"to riot.\" It's more like <vocabulary>to be in disorder</vocabulary>. But if you think about it, when things are rioting and crazy, they definitely are in disorder, so you can think of it that way. You can differentiate this from the future word 乱す because with れる you know it is <reading>rare</reading> for it to be like this. You aren't doing it, but it just happens on occasion (rarely) so you take advantage of it.",
+  "primaryReading": "みだれる",
+  "readingMnemonic": "When everything is in disorder it's finally your chance! You run to the bar, break the windows, and grab all the <reading>mead</reading> (みだ) you can carry.",
   "otherMeanings": [
     "To Be In Disarray",
     "To Be Disordered",
     "To Be Disturbed"
   ],
-  "primaryReading": "みだれる",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1079,
-      "character": "乱",
-      "readings": [
-        "らん",
-        "みだ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The kanji means <kanji>riot</kanji>, but this verb version word doesn't really mean \"to riot.\" It's more like <vocabulary>to be in disorder</vocabulary>. But if you think about it, when things are rioting and crazy, they definitely are in disorder, so you can think of it that way. You can differentiate this from the future word 乱す because with れる you know it is <reading>rare</reading> for it to be like this. You aren't doing it, but it just happens on occasion (rarely) so you take advantage of it.",
-  "readingMnemonic": "When everything is in disorder it's finally your chance! You run to the bar, break the windows, and grab all the <reading>mead</reading> (みだ) you can carry.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B9%B1%E3%82%8C%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "乱",
-      "id": 1079,
-      "reading": "みだ"
-    },
-    {
-      "type": "kana",
-      "value": "れる"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B9%B1%E3%82%8C%E3%82%8B"
+  }
 }

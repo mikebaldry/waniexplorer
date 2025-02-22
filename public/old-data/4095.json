@@ -1,0 +1,48 @@
+{
+  "id": 4095,
+  "type": "vocabulary",
+  "characters": "正座",
+  "primaryMeaning": "Seiza",
+  "otherMeanings": [
+    "Traditional Japanese Sitting"
+  ],
+  "primaryReading": "せいざ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 488,
+      "character": "正",
+      "readings": [
+        "せい",
+        "しょう",
+        "ただ",
+        "まさ"
+      ]
+    },
+    {
+      "id": 1041,
+      "character": "座",
+      "readings": [
+        "ざ",
+        "すわ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>correct</kanji> way to <kanji>sit</kanji> is this way: <vocabulary>traditional Japanese sitting</vocabulary> (this is when you sit on your legs and your feet, kneeling). You can also call it <vocabulary>seiza</vocabulary>. Learning the reading will help with the meaning.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%AD%A3%E5%BA%A7",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "正",
+      "id": 488,
+      "reading": "せい"
+    },
+    {
+      "type": "kanji",
+      "value": "座",
+      "id": 1041,
+      "reading": "ざ"
+    }
+  ]
+}

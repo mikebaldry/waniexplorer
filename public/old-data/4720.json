@@ -1,0 +1,46 @@
+{
+  "id": 4720,
+  "type": "vocabulary",
+  "characters": "血管",
+  "primaryMeaning": "Blood Vessel",
+  "otherMeanings": [
+    "Vein"
+  ],
+  "primaryReading": "けっかん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 619,
+      "character": "血",
+      "readings": [
+        "けつ",
+        "ち"
+      ]
+    },
+    {
+      "id": 1236,
+      "character": "管",
+      "readings": [
+        "かん",
+        "くだ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The <kanji>pipe</kanji>s that hold your <kanji>blood</kanji> are your <vocabulary>blood vessel</vocabulary>s, or your <vocabulary>vein</vocabulary>s.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. The けつ goes to けっ.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A1%80%E7%AE%A1",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "血",
+      "id": 619,
+      "reading": null
+    },
+    {
+      "type": "kanji",
+      "value": "管",
+      "id": 1236,
+      "reading": null
+    }
+  ]
+}

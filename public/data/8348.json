@@ -1,41 +1,21 @@
 {
   "id": 8348,
   "type": "vocabulary",
-  "characters": "傍ら",
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "傍ら"
+  },
   "primaryMeaning": "While",
+  "meaningMnemonic": "You're only <kanji>nearby</kanji> <vocabulary>while</vocabulary> you are nearby, that's it.",
+  "primaryReading": "かたわら",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading.  You haven't learned this reading yet, so here's a mnemonic to help you:\n\n<vocabulary>While</vocabulary> you live as a normal human citizen you also have another life as a <reading>cutter wa</reading>lrus (かたわ)! That's a walrus that cuts fish up while eating. It's your secret double life. You do it at night while you are a human by day!",
   "otherMeanings": [
     "While Doing",
     "Besides"
   ],
-  "primaryReading": "かたわら",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2272,
-      "character": "傍",
-      "readings": [
-        "ぼう",
-        "かたわ",
-        "わき",
-        "おか",
-        "はた",
-        "そば"
-      ]
-    }
-  ],
-  "meaningMnemonic": "You're only <kanji>nearby</kanji> <vocabulary>while</vocabulary> you are nearby, that's it.",
-  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading.  You haven't learned this reading yet, so here's a mnemonic to help you:\n\n<vocabulary>While</vocabulary> you live as a normal human citizen you also have another life as a <reading>cutter wa</reading>lrus (かたわ)! That's a walrus that cuts fish up while eating. It's your secret double life. You do it at night while you are a human by day!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%82%8D%E3%82%89",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "傍",
-      "id": 2272,
-      "reading": "かたわ"
-    },
-    {
-      "type": "kana",
-      "value": "ら"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%82%8D%E3%82%89"
+  }
 }

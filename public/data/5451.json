@@ -1,58 +1,20 @@
 {
   "id": 5451,
   "type": "vocabulary",
-  "characters": "感嘆符",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "感嘆符"
+  },
   "primaryMeaning": "Exclamation Mark",
+  "meaningMnemonic": "A <kanji>feeling</kanji> where you <kanji>sigh</kanji> is one in which you're surprised by something, and can't believe it, so you sigh. Ugh, *sigh*. What <kanji>token</kanji> represents this in writing? An <vocabulary>exclamation mark</vocabulary>!!!!",
+  "primaryReading": "かんたんふ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Exclamation Point"
   ],
-  "primaryReading": "かんたんふ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 862,
-      "character": "感",
-      "readings": [
-        "かん"
-      ]
-    },
-    {
-      "id": 1459,
-      "character": "嘆",
-      "readings": [
-        "たん",
-        "なげ"
-      ]
-    },
-    {
-      "id": 1435,
-      "character": "符",
-      "readings": [
-        "ふ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>feeling</kanji> where you <kanji>sigh</kanji> is one in which you're surprised by something, and can't believe it, so you sigh. Ugh, *sigh*. What <kanji>token</kanji> represents this in writing? An <vocabulary>exclamation mark</vocabulary>!!!!",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%84%9F%E5%98%86%E7%AC%A6",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "感",
-      "id": 862,
-      "reading": "かん"
-    },
-    {
-      "type": "kanji",
-      "value": "嘆",
-      "id": 1459,
-      "reading": "たん"
-    },
-    {
-      "type": "kanji",
-      "value": "符",
-      "id": 1435,
-      "reading": "ふ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%84%9F%E5%98%86%E7%AC%A6"
+  }
 }

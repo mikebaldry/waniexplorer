@@ -1,48 +1,20 @@
 {
   "id": 6208,
   "type": "vocabulary",
-  "characters": "仮称",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "仮称"
+  },
   "primaryMeaning": "Working Name",
+  "meaningMnemonic": "A <kanji>temporary</kanji> <kanji>title</kanji> is what you give something when you don't have a final title for it. it's a <vocabulary>working name</vocabulary> or a <vocabulary>tentative name</vocabulary>.",
+  "primaryReading": "かしょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Tentative Name"
   ],
-  "primaryReading": "かしょう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 739,
-      "character": "仮",
-      "readings": [
-        "か",
-        "かり"
-      ]
-    },
-    {
-      "id": 1698,
-      "character": "称",
-      "readings": [
-        "しょう",
-        "とな",
-        "たた",
-        "ほめ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>temporary</kanji> <kanji>title</kanji> is what you give something when you don't have a final title for it. it's a <vocabulary>working name</vocabulary> or a <vocabulary>tentative name</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BB%AE%E7%A7%B0",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "仮",
-      "id": 739,
-      "reading": "か"
-    },
-    {
-      "type": "kanji",
-      "value": "称",
-      "id": 1698,
-      "reading": "しょう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BB%AE%E7%A7%B0"
+  }
 }

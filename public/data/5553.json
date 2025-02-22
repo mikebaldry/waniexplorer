@@ -1,47 +1,20 @@
 {
   "id": 5553,
   "type": "vocabulary",
-  "characters": "雑音",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "雑音"
+  },
   "primaryMeaning": "Noise",
+  "meaningMnemonic": "<kanji>Random</kanji> <kanji>noise</kanji> is still <vocabulary>noise</vocabulary>, though more specifically it is random noise, like <vocabulary>static</vocabulary>.",
+  "primaryReading": "ざつおん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Static"
   ],
-  "primaryReading": "ざつおん",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1494,
-      "character": "雑",
-      "readings": [
-        "ざつ",
-        "ぞう"
-      ]
-    },
-    {
-      "id": 606,
-      "character": "音",
-      "readings": [
-        "おん",
-        "おと",
-        "ね"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Random</kanji> <kanji>noise</kanji> is still <vocabulary>noise</vocabulary>, though more specifically it is random noise, like <vocabulary>static</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9B%91%E9%9F%B3",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "雑",
-      "id": 1494,
-      "reading": "ざつ"
-    },
-    {
-      "type": "kanji",
-      "value": "音",
-      "id": 606,
-      "reading": "おん"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%9B%91%E9%9F%B3"
+  }
 }

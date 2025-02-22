@@ -1,32 +1,40 @@
 {
   "id": 1963,
   "type": "kanji",
-  "character": "癖",
-  "primaryMeaning": "Habit",
-  "otherMeanings": [],
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "癖"
+  },
   "primaryReading": "くせ",
   "readings": [
     {
-      "reading": "くせ",
       "primary": true,
+      "reading": "くせ",
       "type": "kunyomi"
     },
     {
-      "reading": "へき",
       "primary": false,
+      "reading": "へき",
       "type": "onyomi"
     }
   ],
-  "readingMnemonic": "Everyone you know has a different <kanji>habit</kanji> when they get sick. Instead, they eat <reading>cous</reading>cous (くせ). But you think couscous is gross. It's bland and does nothing for your stuffy noses and scratchy throats. I wonder how you can convince them to replace their habit with your own.",
+  "primaryMeaning": "Habit",
+  "otherMeanings": [],
   "meaningMnemonic": "When you get <radical>sick</radical> you always eat a <radical>hot pepper</radical>. It's a <kanji>habit</kanji> you've picked up and you can't seem to shake it. One sniffle, one cough, and before you know it, you're eating a hot pepper or two.",
-  "vocabularyIds": [
-    7018,
-    7021,
-    7152
-  ],
-  "radicalIds": [
-    187,
-    367
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%99%96"
+  "readingMnemonic": "Everyone you know has a different <kanji>habit</kanji> when they get sick. Instead, they eat <reading>cous</reading>cous (くせ). But you think couscous is gross. It's bland and does nothing for your stuffy noses and scratchy throats. I wonder how you can convince them to replace their habit with your own.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%99%96"
+  },
+  "related": {
+    "radicals": [
+      187,
+      367
+    ],
+    "vocabularies": [
+      7018,
+      7021,
+      7152
+    ]
+  }
 }

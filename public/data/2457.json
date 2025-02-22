@@ -1,34 +1,42 @@
 {
   "id": 2457,
   "type": "kanji",
-  "character": "矯",
+  "level": 60,
+  "characters": {
+    "type": "text",
+    "value": "矯"
+  },
+  "primaryReading": "きょう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "きょう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "た",
+      "type": "kunyomi"
+    }
+  ],
   "primaryMeaning": "Correct",
   "otherMeanings": [
     "Straighten"
   ],
-  "primaryReading": "きょう",
-  "readings": [
-    {
-      "reading": "きょう",
-      "primary": true,
-      "type": "onyomi"
-    },
-    {
-      "reading": "た",
-      "primary": false,
-      "type": "kunyomi"
-    }
-  ],
-  "readingMnemonic": "These heavenly <kanji>correct</kanji>ing arrows actually come from <reading>きょう</reading>と. They hate seeing people with crooked mustaches, so they shoot them out on the regular. It just looks like they're coming from heaven because they fall out of the sky.",
   "meaningMnemonic": "An <radical>arrow </radical>is shot from <radical>heaven</radical> and hits right between your <radical>mouth</radical> and your <radical>mustache</radical> to <kanji>correct</kanji> your crooked smile. It also <kanji>straighten</kanji>s your teeth and the crooked cut of your mustache too. Who told you that looked good? Well, it doesn't matter. The heaven arrow corrected it for you.",
-  "vocabularyIds": [
-    8642
-  ],
-  "radicalIds": [
-    72,
-    40,
-    16,
-    121
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%9F%AF"
+  "readingMnemonic": "These heavenly <kanji>correct</kanji>ing arrows actually come from <reading>きょう</reading>と. They hate seeing people with crooked mustaches, so they shoot them out on the regular. It just looks like they're coming from heaven because they fall out of the sky.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%9F%AF"
+  },
+  "related": {
+    "radicals": [
+      72,
+      40,
+      16,
+      121
+    ],
+    "vocabularies": [
+      8642
+    ]
+  }
 }

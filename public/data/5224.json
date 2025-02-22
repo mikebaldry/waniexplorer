@@ -1,61 +1,18 @@
 {
   "id": 5224,
   "type": "vocabulary",
-  "characters": "一人娘",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "一人娘"
+  },
   "primaryMeaning": "Only Daughter",
-  "otherMeanings": [],
-  "primaryReading": "ひとりむすめ",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 440,
-      "character": "一",
-      "readings": [
-        "いち",
-        "いつ",
-        "ひと",
-        "かず"
-      ]
-    },
-    {
-      "id": 444,
-      "character": "人",
-      "readings": [
-        "にん",
-        "じん",
-        "ひと",
-        "と"
-      ]
-    },
-    {
-      "id": 1403,
-      "character": "娘",
-      "readings": [
-        "むすめ"
-      ]
-    }
-  ],
   "meaningMnemonic": "An \"alone\" (一人) <kanji>daughter</kanji> is a daughter with no other daughter siblings, making her the <vocabulary>only daughter</vocabulary>.",
+  "primaryReading": "ひとりむすめ",
   "readingMnemonic": "The readings are 一人 plus 娘 put together into one, single (daughter) word.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%80%E4%BA%BA%E5%A8%98",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "一",
-      "id": 440,
-      "reading": "ひと"
-    },
-    {
-      "type": "kanji",
-      "value": "人",
-      "id": 444,
-      "reading": null
-    },
-    {
-      "type": "kanji",
-      "value": "娘",
-      "id": 1403,
-      "reading": null
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B8%80%E4%BA%BA%E5%A8%98"
+  }
 }

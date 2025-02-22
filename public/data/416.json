@@ -1,12 +1,15 @@
 {
   "id": 416,
   "type": "radical",
-  "primaryMeaning": "Wind",
-  "otherMeanings": [],
-  "character": {
+  "level": 44,
+  "characters": {
     "type": "text",
     "value": "風"
   },
+  "primaryMeaning": "Wind",
+  "otherMeanings": [],
   "meaningMnemonic": "This radical is the same as the kanji. It means <radical>wind</radical>.",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/wind"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/wind"
+  }
 }

@@ -1,0 +1,35 @@
+{
+  "id": 1674,
+  "type": "kanji",
+  "character": "葬",
+  "primaryMeaning": "Burial",
+  "otherMeanings": [],
+  "primaryReading": "そう",
+  "readings": [
+    {
+      "reading": "そう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "ほうむ",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Once the <kanji>burial</kanji> is complete the <reading>sou</reading>ls (そう) of all the dead people come floating up and out of the ground. \"Thaaannk YooOoOO~\" they moan, as they ascend to the sky.",
+  "meaningMnemonic": "You brought <radical>flowers</radical> to place on top of the place where a <radical>yakuza</radical> took a <radical>spoon</radical> and killed <radical>twenty</radical> people, and there is now a <kanji>burial</kanji> happening. You carefully toss the flowers in with the dirt and everything is buried together.",
+  "vocabularyIds": [
+    6136,
+    6137,
+    6138,
+    6354
+  ],
+  "radicalIds": [
+    90,
+    132,
+    57,
+    106
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%91%AC"
+}

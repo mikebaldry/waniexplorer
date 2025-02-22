@@ -1,0 +1,36 @@
+{
+  "id": 6891,
+  "type": "vocabulary",
+  "characters": "曇り",
+  "primaryMeaning": "Cloudy Weather",
+  "otherMeanings": [
+    "Cloudiness",
+    "Fog"
+  ],
+  "primaryReading": "くもり",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1922,
+      "character": "曇",
+      "readings": [
+        "くも"
+      ]
+    }
+  ],
+  "meaningMnemonic": "The noun version of <kanji>cloudy</kanji> is <vocabulary>cloudy weather</vocabulary> or <vocabulary>cloudiness</vocabulary>. In some cases, this can also refer to the type of <vocabulary>fog</vocabulary> you'd find on a window or your glasses.\n\nDespite being a noun in Japanese, you'll actually see this translated as the adjective \"cloudy\" in English a lot. Don't let that fool you, though, it still behaves as a noun in Japanese! It's just another example of word types not quite matching up between English and Japanese.",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%9B%87%E3%82%8A",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "曇",
+      "id": 1922,
+      "reading": "くも"
+    },
+    {
+      "type": "kana",
+      "value": "り"
+    }
+  ]
+}

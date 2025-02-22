@@ -1,0 +1,36 @@
+{
+  "id": 4005,
+  "type": "vocabulary",
+  "characters": "敗れる",
+  "primaryMeaning": "To Be Defeated",
+  "otherMeanings": [
+    "To Be Unsuccessful"
+  ],
+  "primaryReading": "やぶれる",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1004,
+      "character": "敗",
+      "readings": [
+        "はい",
+        "やぶ"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>defeat</kanji>, so this means <vocabulary>to be defeated</vocabulary>, but also <vocabulary>to be unsuccessful</vocabulary>.",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: You have been defeated. You lay there on the ground, and the fans around the stadium are disgusted with your performance. Some hipster walks up to you and says: \"<reading>Yah, Boo</reading>\" (やぶ) referring to how poorly you did. \"No boo!\", you reply back. \"Yah boo\", they say again.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%95%97%E3%82%8C%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "敗",
+      "id": 1004,
+      "reading": "やぶ"
+    },
+    {
+      "type": "kana",
+      "value": "れる"
+    }
+  ]
+}

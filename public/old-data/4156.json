@@ -1,0 +1,49 @@
+{
+  "id": 4156,
+  "type": "vocabulary",
+  "characters": "静止",
+  "primaryMeaning": "Still",
+  "otherMeanings": [
+    "Standstill",
+    "At Rest",
+    "Stationary"
+  ],
+  "primaryReading": "せいし",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1052,
+      "character": "静",
+      "readings": [
+        "せい",
+        "しず"
+      ]
+    },
+    {
+      "id": 514,
+      "character": "止",
+      "readings": [
+        "し",
+        "と",
+        "や"
+      ]
+    }
+  ],
+  "meaningMnemonic": "Everything is <kanji>quiet</kanji> and <kanji>stop</kanji>ped. The world is <vocabulary>still</vocabulary> and everything is <vocabulary>at rest</vocabulary>.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9D%99%E6%AD%A2",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "静",
+      "id": 1052,
+      "reading": "せい"
+    },
+    {
+      "type": "kanji",
+      "value": "止",
+      "id": 514,
+      "reading": "し"
+    }
+  ]
+}

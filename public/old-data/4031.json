@@ -1,0 +1,47 @@
+{
+  "id": 4031,
+  "type": "vocabulary",
+  "characters": "薬物",
+  "primaryMeaning": "Drugs",
+  "otherMeanings": [
+    "Medicine"
+  ],
+  "primaryReading": "やくぶつ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 997,
+      "character": "薬",
+      "readings": [
+        "やく",
+        "くすり"
+      ]
+    },
+    {
+      "id": 718,
+      "character": "物",
+      "readings": [
+        "ぶつ",
+        "もつ",
+        "もの"
+      ]
+    }
+  ],
+  "meaningMnemonic": "These <kanji>medicine</kanji> <kanji>thing</kanji>s are of the bad kind, they're <vocabulary>drugs</vocabulary>!\n\nAs a standalone word, 薬物 generally refers to (often) illegal drugs that cause addiction or have a stimulating effect. Depending on the context, it can also refer to pharmaceutical drugs (aka <vocabulary>medicine</vocabulary>), but in that case, it's usually used in compounds like 薬物アレルギー (drug allergy).",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%96%AC%E7%89%A9",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "薬",
+      "id": 997,
+      "reading": "やく"
+    },
+    {
+      "type": "kanji",
+      "value": "物",
+      "id": 718,
+      "reading": "ぶつ"
+    }
+  ]
+}

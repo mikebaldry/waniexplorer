@@ -1,0 +1,46 @@
+{
+  "id": 944,
+  "type": "kanji",
+  "character": "変",
+  "primaryMeaning": "Change",
+  "otherMeanings": [
+    "Strange"
+  ],
+  "primaryReading": "へん",
+  "readings": [
+    {
+      "reading": "へん",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "か",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "You know what else <kanji>change</kanji>s each winter? <reading>Hen</reading>s (へん)! They're constantly laying eggs, which then (possibly) turn into new hens.",
+  "meaningMnemonic": "<radical>Again</radical> and again, <radical>winter</radical> <kanji>change</kanji>s you each year. ",
+  "vocabularyIds": [
+    3747,
+    3748,
+    3749,
+    3750,
+    3751,
+    3752,
+    3932,
+    4571,
+    5328,
+    5688,
+    5983,
+    5985,
+    7588,
+    7701,
+    8587
+  ],
+  "radicalIds": [
+    9329,
+    60
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%A4%89"
+}

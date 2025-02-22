@@ -1,30 +1,18 @@
 {
   "id": 4592,
   "type": "vocabulary",
-  "characters": "革",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "革"
+  },
   "primaryMeaning": "Leather",
-  "otherMeanings": [],
-  "primaryReading": "かわ",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1188,
-      "character": "革",
-      "readings": [
-        "かく",
-        "かわ"
-      ]
-    }
-  ],
   "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "かわ",
   "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You did not learn this reading, so here's a mnemonic to help you remember: \n\n<vocabulary>Leather</vocabulary> is the skin of a cow, right? How do you say \"skin\" in Japanese? Remember <reading>皮</reading> (かわ)? It has the same reading as that, and they're both skin, so hopefully that makes it easier to remember.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%9D%A9",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "革",
-      "id": 1188,
-      "reading": "かわ"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%9D%A9"
+  }
 }

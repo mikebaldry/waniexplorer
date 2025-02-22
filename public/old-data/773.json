@@ -1,0 +1,52 @@
+{
+  "id": 773,
+  "type": "kanji",
+  "character": "病",
+  "primaryMeaning": "Sick",
+  "otherMeanings": [
+    "Sickness",
+    "Ill",
+    "Illness"
+  ],
+  "primaryReading": "びょう",
+  "readings": [
+    {
+      "reading": "びょう",
+      "primary": true,
+      "type": "onyomi"
+    },
+    {
+      "reading": "や",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "やまい",
+      "primary": false,
+      "type": "kunyomi"
+    }
+  ],
+  "readingMnemonic": "Being nervous all the time about spontaneously exploding would probably make you sweat profusely. And you know what sweating causes? <reading>B.O.</reading> (びょう). You’d be one smelly stick of dynamite. B.O. is a very unpleasant smell, and being <kanji>sick</kanji> is no excuse.",
+  "meaningMnemonic": "A <radical>sick</radical> stick of <radical>dynamite</radical> is going to be <kanji>sick</kanji> forever. Unfortunately there are no medicines that are effective on sticks of dynamite, so once they contract a sickness, they’re sick for good.",
+  "vocabularyIds": [
+    3165,
+    3230,
+    3231,
+    3232,
+    3679,
+    5351,
+    5584,
+    5677,
+    6582,
+    6984,
+    7432,
+    7575,
+    7959,
+    8124
+  ],
+  "radicalIds": [
+    187,
+    186
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E7%97%85"
+}

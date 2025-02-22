@@ -1,38 +1,21 @@
 {
   "id": 2706,
   "type": "vocabulary",
-  "characters": "足りる",
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "足りる"
+  },
   "primaryMeaning": "To Be Enough",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>leg</kanji> or <kanji>sufficient</kanji>, and we're going with the \"sufficient\" meaning for this word! This word means <vocabulary>to be enough</vocabulary>.",
+  "primaryReading": "たりる",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you to remember the た portion. Whenever we need to remember the た we use the word \"taco.\" \n\nWhat do you have enough of? What is sufficient? Turns out it's <reading>ta</reading>cos (た). Your bunker is filled with them and it's going <vocabulary>to be enough</vocabulary> to last the winter.",
   "otherMeanings": [
     "To Be Sufficient",
     "To Suffice"
   ],
-  "primaryReading": "たりる",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 561,
-      "character": "足",
-      "readings": [
-        "そく",
-        "あし",
-        "た"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>leg</kanji> or <kanji>sufficient</kanji>, and we're going with the \"sufficient\" meaning for this word! This word means <vocabulary>to be enough</vocabulary>.",
-  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you to remember the た portion. Whenever we need to remember the た we use the word \"taco.\" \n\nWhat do you have enough of? What is sufficient? Turns out it's <reading>ta</reading>cos (た). Your bunker is filled with them and it's going <vocabulary>to be enough</vocabulary> to last the winter.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%B6%B3%E3%82%8A%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "足",
-      "id": 561,
-      "reading": "た"
-    },
-    {
-      "type": "kana",
-      "value": "りる"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%B6%B3%E3%82%8A%E3%82%8B"
+  }
 }

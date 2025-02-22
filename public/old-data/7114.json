@@ -1,0 +1,43 @@
+{
+  "id": 7114,
+  "type": "vocabulary",
+  "characters": "挿絵",
+  "primaryMeaning": "Book Illustration",
+  "otherMeanings": [],
+  "primaryReading": "さしえ",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 2001,
+      "character": "挿",
+      "readings": [
+        "そう",
+        "さ"
+      ]
+    },
+    {
+      "id": 698,
+      "character": "絵",
+      "readings": [
+        "え"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you <kanji>insert</kanji> a <kanji>picture</kanji> into a book, it becomes a <vocabulary>book illustration</vocabulary>.",
+  "readingMnemonic": "The reading used for 挿絵 is an exceptional one. Instead of そう it's さし. When you think of a <vocabulary>book illustration</vocabulary>, think of an illustration of a <reading>sash</reading>. Just picture after picture of a sash. Purple sashes. Green sashes. Flashy sashes. What a weird book, that only has illustrations of sashes.\n\n絵, however, is the reading you learned with the kanji, so at least you have that.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8C%BF%E7%B5%B5",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "挿",
+      "id": 2001,
+      "reading": "さ"
+    },
+    {
+      "type": "kanji",
+      "value": "絵",
+      "id": 698,
+      "reading": null
+    }
+  ]
+}

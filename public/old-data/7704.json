@@ -1,0 +1,60 @@
+{
+  "id": 7704,
+  "type": "vocabulary",
+  "characters": "辞書形",
+  "primaryMeaning": "Dictionary Form",
+  "otherMeanings": [],
+  "primaryReading": "じしょけい",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 981,
+      "character": "辞",
+      "readings": [
+        "じ",
+        "や"
+      ]
+    },
+    {
+      "id": 962,
+      "character": "書",
+      "readings": [
+        "しょ",
+        "か"
+      ]
+    },
+    {
+      "id": 589,
+      "character": "形",
+      "readings": [
+        "けい",
+        "ぎょう",
+        "かた",
+        "かたち"
+      ]
+    }
+  ],
+  "meaningMnemonic": "This is a combination of the word 辞書 \"dictionary\" and the suffix 〜形 or \"form.\" Put them together and you get <vocabulary>dictionary form</vocabulary>!",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%BE%9E%E6%9B%B8%E5%BD%A2",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "辞",
+      "id": 981,
+      "reading": "じ"
+    },
+    {
+      "type": "kanji",
+      "value": "書",
+      "id": 962,
+      "reading": "しょ"
+    },
+    {
+      "type": "kanji",
+      "value": "形",
+      "id": 589,
+      "reading": "けい"
+    }
+  ]
+}

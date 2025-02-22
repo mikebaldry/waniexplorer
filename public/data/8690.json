@@ -1,39 +1,23 @@
 {
   "id": 8690,
   "type": "vocabulary",
-  "characters": "控え",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "控え"
+  },
   "primaryMeaning": "Backup",
+  "meaningMnemonic": "Something that can <kanji>abstain</kanji> until it's needed makes for good <vocabulary>backup</vocabulary>. Think about it — you don't want backup rushing in too early, right? It should abstain until the backup is actually needed.\n\nNote that 控え isn't used for spares and extras. It's more for necessary backups, like a backup player in sports, a document <vocabulary>copy</vocabulary> for record keeping, or a <vocabulary>receipt stub</vocabulary>.",
+  "primaryReading": "ひかえ",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading.  You learned this reading already! Good for you!",
   "otherMeanings": [
     "Reserve",
     "Spare",
     "Copy",
     "Stub"
   ],
-  "primaryReading": "ひかえ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1714,
-      "character": "控",
-      "readings": [
-        "ひか",
-        "こう"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Something that can <kanji>abstain</kanji> until it's needed makes for good <vocabulary>backup</vocabulary>. Think about it — you don't want backup rushing in too early, right? It should abstain until the backup is actually needed.\n\nNote that 控え isn't used for spares and extras. It's more for necessary backups, like a backup player in sports, a document <vocabulary>copy</vocabulary> for record keeping, or a <vocabulary>receipt stub</vocabulary>.",
-  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading.  You learned this reading already! Good for you!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%8E%A7%E3%81%88",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "控",
-      "id": 1714,
-      "reading": "ひか"
-    },
-    {
-      "type": "kana",
-      "value": "え"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%8E%A7%E3%81%88"
+  }
 }

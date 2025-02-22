@@ -1,68 +1,21 @@
 {
   "id": 5428,
   "type": "vocabulary",
-  "characters": "地下街",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "地下街"
+  },
   "primaryMeaning": "Underground Shopping Mall",
+  "meaningMnemonic": "An <kanji>underground</kanji> (地下) <kanji>street</kanji> isn't as underground streety as it sounds. A lot of the underground streets and areas in Japan tend to be <vocabulary>underground shopping mall</vocabulary>s, though. That or subways/trains, but <vocabulary>underground shopping center</vocabulary>s are way more interesting.",
+  "primaryReading": "ちかがい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
   "otherMeanings": [
     "Underground Shopping Center",
     "Shopping Centre"
   ],
-  "primaryReading": "ちかがい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 608,
-      "character": "地",
-      "readings": [
-        "ち",
-        "じ"
-      ]
-    },
-    {
-      "id": 451,
-      "character": "下",
-      "readings": [
-        "か",
-        "げ",
-        "した",
-        "さ",
-        "くだ",
-        "お",
-        "しも",
-        "もと"
-      ]
-    },
-    {
-      "id": 1400,
-      "character": "街",
-      "readings": [
-        "がい",
-        "かい",
-        "まち"
-      ]
-    }
-  ],
-  "meaningMnemonic": "An <kanji>underground</kanji> (地下) <kanji>street</kanji> isn't as underground streety as it sounds. A lot of the underground streets and areas in Japan tend to be <vocabulary>underground shopping mall</vocabulary>s, though. That or subways/trains, but <vocabulary>underground shopping center</vocabulary>s are way more interesting.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%9C%B0%E4%B8%8B%E8%A1%97",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "地",
-      "id": 608,
-      "reading": "ち"
-    },
-    {
-      "type": "kanji",
-      "value": "下",
-      "id": 451,
-      "reading": "か"
-    },
-    {
-      "type": "kanji",
-      "value": "街",
-      "id": 1400,
-      "reading": "がい"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%9C%B0%E4%B8%8B%E8%A1%97"
+  }
 }

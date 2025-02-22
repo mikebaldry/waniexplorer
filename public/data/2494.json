@@ -1,44 +1,22 @@
 {
   "id": 2494,
   "type": "vocabulary",
-  "characters": "下がる",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "下がる"
+  },
   "primaryMeaning": "To Get Lower",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an <jう sound, you know this word is a verb. The kanji means <kanji>below</kanji>, and 下がる means <vocabulary>to get lower</vocabulary> or <vocabulary>to go down</vocabulary>.\n\nIt's an intransitive verb, so it doesn't take a direct object. For example: Prices fall. Temperatures come down. See? No direct object. You can remember this because your fever only goes down when a <reading>girl</reading> (<ja>がる</ja>) takes care of you. It has to be a girl if you want your fever to come down!",
+  "primaryReading": "さがる",
+  "readingMnemonic": "Since this word has okurigana (hiragana attached to the kanji) you know that it's probably going to be the kun'yomi reading. Let's use a mnemonic to remember the reading of the kanji:\n\nYou know it means <vocabulary>to fall</vocabulary> so instead of using a <reading>sa</reading>w (さ) to cut down the tree, you decide to let it come to you. It has to come down all by itself. Picture yourself placing a saw at the foot of a tree then sitting back and waiting for it to drop itself at your knees. (This could actually work, don't you judge my methods!)",
   "otherMeanings": [
     "To Go Down",
     "To Come Down",
     "To Hang Down"
   ],
-  "primaryReading": "さがる",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 451,
-      "character": "下",
-      "readings": [
-        "か",
-        "げ",
-        "した",
-        "さ",
-        "くだ",
-        "お",
-        "しも",
-        "もと"
-      ]
-    }
-  ],
-  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an <jう sound, you know this word is a verb. The kanji means <kanji>below</kanji>, and 下がる means <vocabulary>to get lower</vocabulary> or <vocabulary>to go down</vocabulary>.\n\nIt's an intransitive verb, so it doesn't take a direct object. For example: Prices fall. Temperatures come down. See? No direct object. You can remember this because your fever only goes down when a <reading>girl</reading> (<ja>がる</ja>) takes care of you. It has to be a girl if you want your fever to come down!",
-  "readingMnemonic": "Since this word has okurigana (hiragana attached to the kanji) you know that it's probably going to be the kun'yomi reading. Let's use a mnemonic to remember the reading of the kanji:\n\nYou know it means <vocabulary>to fall</vocabulary> so instead of using a <reading>sa</reading>w (さ) to cut down the tree, you decide to let it come to you. It has to come down all by itself. Picture yourself placing a saw at the foot of a tree then sitting back and waiting for it to drop itself at your knees. (This could actually work, don't you judge my methods!)",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%8B%E3%81%8C%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "下",
-      "id": 451,
-      "reading": "さ"
-    },
-    {
-      "type": "kana",
-      "value": "がる"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B8%8B%E3%81%8C%E3%82%8B"
+  }
 }

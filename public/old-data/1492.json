@@ -1,0 +1,27 @@
+{
+  "id": 1492,
+  "type": "kanji",
+  "character": "衛",
+  "primaryMeaning": "Defense",
+  "otherMeanings": [],
+  "primaryReading": "えい",
+  "readings": [
+    {
+      "reading": "えい",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "You need a good <kanji>defense</kanji> to go to Korea, so you fill your pockets with <reading>a</reading>corns (えい). When you get to Korea you plant them all around yourself. In no time you'll have a strong tree defense, keeping you safe.",
+  "meaningMnemonic": "If you want to <radical>go</radical> to <radical>Korea</radical> you'll need a good <kanji>defense</kanji>.",
+  "vocabularyIds": [
+    5547,
+    5548,
+    5550
+  ],
+  "radicalIds": [
+    111,
+    294
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%A1%9B"
+}

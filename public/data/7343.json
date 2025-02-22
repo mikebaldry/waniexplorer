@@ -1,49 +1,20 @@
 {
   "id": 7343,
   "type": "vocabulary",
-  "characters": "衰退",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "衰退"
+  },
   "primaryMeaning": "Decline",
+  "meaningMnemonic": "Something that <kanji>decline</kanji>s and <kanji>retreats</kanji> from decline is something that's on a <vocabulary>decline</vocabulary>. It's also <vocabulary>decay</vocabulary>.",
+  "primaryReading": "すいたい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Decay"
   ],
-  "primaryReading": "すいたい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 2078,
-      "character": "衰",
-      "readings": [
-        "すい",
-        "おとろ"
-      ]
-    },
-    {
-      "id": 1319,
-      "character": "退",
-      "readings": [
-        "たい",
-        "しりぞ",
-        "ひ",
-        "ど",
-        "の"
-      ]
-    }
-  ],
-  "meaningMnemonic": "Something that <kanji>decline</kanji>s and <kanji>retreats</kanji> from decline is something that's on a <vocabulary>decline</vocabulary>. It's also <vocabulary>decay</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%A1%B0%E9%80%80",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "衰",
-      "id": 2078,
-      "reading": "すい"
-    },
-    {
-      "type": "kanji",
-      "value": "退",
-      "id": 1319,
-      "reading": "たい"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%A1%B0%E9%80%80"
+  }
 }

@@ -1,49 +1,57 @@
 {
   "id": 668,
   "type": "kanji",
-  "character": "教",
-  "primaryMeaning": "Teach",
-  "otherMeanings": [],
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "教"
+  },
   "primaryReading": "きょう",
   "readings": [
     {
-      "reading": "きょう",
       "primary": true,
+      "reading": "きょう",
       "type": "onyomi"
     },
     {
-      "reading": "おし",
       "primary": false,
+      "reading": "おし",
       "type": "kunyomi"
     },
     {
-      "reading": "おそ",
       "primary": false,
+      "reading": "おそ",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "Teachers can teach the most about Japan in winter by going to <reading>きょう</reading>と. きょうと is where all the old temples and history of Japan is centered. And it's really gorgeous when it snows.",
+  "primaryMeaning": "Teach",
+  "otherMeanings": [],
   "meaningMnemonic": "A <radical>teacher</radical> in <radical>winter</radical> is happiest because they get to <kanji>teach</kanji>! The kids can't go out and play because it's too cold. They all have to come in and stay warm as the teacher teaches!",
-  "vocabularyIds": [
-    2971,
-    2972,
-    3286,
-    3730,
-    4145,
-    4196,
-    4608,
-    4929,
-    5225,
-    7476,
-    7572,
-    7712,
-    8045,
-    9240,
-    9285
-  ],
-  "radicalIds": [
-    418,
-    60
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%95%99"
+  "readingMnemonic": "Teachers can teach the most about Japan in winter by going to <reading>きょう</reading>と. きょうと is where all the old temples and history of Japan is centered. And it's really gorgeous when it snows.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%95%99"
+  },
+  "related": {
+    "radicals": [
+      418,
+      60
+    ],
+    "vocabularies": [
+      2971,
+      2972,
+      3286,
+      3730,
+      4145,
+      4196,
+      4608,
+      4929,
+      5225,
+      7476,
+      7572,
+      7712,
+      8045,
+      9240,
+      9285
+    ]
+  }
 }

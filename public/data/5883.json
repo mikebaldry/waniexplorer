@@ -1,46 +1,21 @@
 {
   "id": 5883,
   "type": "vocabulary",
-  "characters": "厄介",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "厄介"
+  },
   "primaryMeaning": "Troublesome",
+  "meaningMnemonic": "The <kanji>misfortune</kanji> is just getting <kanji>jammed in</kanji> there. So much misfortune leads to very <vocabulary>troublesome</vocabulary> <vocabulary>trouble</vocabulary>.\n\n厄介 describes something or someone that is troublesome, or the trouble itself. It's very similar to 面倒, but 厄介 is often used for more challenging or complicated situations.",
+  "primaryReading": "やっかい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. The やく gets changed to やっ.",
   "otherMeanings": [
     "Hard To Deal With",
     "Trouble"
   ],
-  "primaryReading": "やっかい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1589,
-      "character": "厄",
-      "readings": [
-        "やく"
-      ]
-    },
-    {
-      "id": 1587,
-      "character": "介",
-      "readings": [
-        "かい",
-        "すけ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The <kanji>misfortune</kanji> is just getting <kanji>jammed in</kanji> there. So much misfortune leads to very <vocabulary>troublesome</vocabulary> <vocabulary>trouble</vocabulary>.\n\n厄介 describes something or someone that is troublesome, or the trouble itself. It's very similar to 面倒, but 厄介 is often used for more challenging or complicated situations.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. The やく gets changed to やっ.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%8E%84%E4%BB%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "厄",
-      "id": 1589,
-      "reading": null
-    },
-    {
-      "type": "kanji",
-      "value": "介",
-      "id": 1587,
-      "reading": null
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%8E%84%E4%BB%8B"
+  }
 }

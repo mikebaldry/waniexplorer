@@ -1,46 +1,18 @@
 {
   "id": 6753,
   "type": "vocabulary",
-  "characters": "克服する",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "克服する"
+  },
   "primaryMeaning": "To Conquer",
-  "otherMeanings": [],
-  "primaryReading": "こくふくする",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1804,
-      "character": "克",
-      "readings": [
-        "こく"
-      ]
-    },
-    {
-      "id": 716,
-      "character": "服",
-      "readings": [
-        "ふく"
-      ]
-    }
-  ],
   "meaningMnemonic": "克服 is \"conquest\" so the verb version of that is <vocabulary>to conquer</vocabulary>.",
+  "primaryReading": "こくふくする",
   "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%85%8B%E6%9C%8D%E3%81%99%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "克",
-      "id": 1804,
-      "reading": "こく"
-    },
-    {
-      "type": "kanji",
-      "value": "服",
-      "id": 716,
-      "reading": "ふく"
-    },
-    {
-      "type": "kana",
-      "value": "する"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%85%8B%E6%9C%8D%E3%81%99%E3%82%8B"
+  }
 }

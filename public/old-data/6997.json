@@ -1,0 +1,50 @@
+{
+  "id": 6997,
+  "type": "vocabulary",
+  "characters": "清涼",
+  "primaryMeaning": "Refreshing",
+  "otherMeanings": [
+    "Cool",
+    "Fresh"
+  ],
+  "primaryReading": "せいりょう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1356,
+      "character": "清",
+      "readings": [
+        "せい",
+        "しょう",
+        "しん",
+        "きよ",
+        "し"
+      ]
+    },
+    {
+      "id": 1954,
+      "character": "涼",
+      "readings": [
+        "すず",
+        "りょう"
+      ]
+    }
+  ],
+  "meaningMnemonic": "A <kanji>pure</kanji> <kanji>cool</kanji> is <vocabulary>refreshing</vocabulary> and <vocabulary>cool</vocabulary>, isn't it.",
+  "readingMnemonic": "The reading is all on'yomi, and you know how to read 清. You didn't learn 涼's on'yomi (りょう) with the kanji though, so here's a mnemonic to help:\n\nYou want a <vocabulary>refreshing</vocabulary> and <vocabulary>cool</vocabulary> drink really badly. Why? You just had to <reading>row</reading> (りょう) across a huge lake. With the wind in your face. Imagine how refreshing a cool soda would be after rowing all day!",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B8%85%E6%B6%BC",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "清",
+      "id": 1356,
+      "reading": "せい"
+    },
+    {
+      "type": "kanji",
+      "value": "涼",
+      "id": 1954,
+      "reading": "りょう"
+    }
+  ]
+}

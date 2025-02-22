@@ -1,58 +1,18 @@
 {
   "id": 7750,
   "type": "vocabulary",
-  "characters": "顔文字",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "顔文字"
+  },
   "primaryMeaning": "Kaomoji",
-  "otherMeanings": [],
-  "primaryReading": "かおもじ",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 772,
-      "character": "顔",
-      "readings": [
-        "かお",
-        "がん"
-      ]
-    },
-    {
-      "id": 475,
-      "character": "文",
-      "readings": [
-        "ぶん",
-        "もん",
-        "ふみ"
-      ]
-    },
-    {
-      "id": 545,
-      "character": "字",
-      "readings": [
-        "じ"
-      ]
-    }
-  ],
   "meaningMnemonic": "Remember how you learned that 文字 can mean \"characters?\" Well make a <kanji>face</kanji> out of those characters and you've made a <vocabulary>kaomoji</vocabulary>! ʅ(◔౪◔ ) ʃ",
+  "primaryReading": "かおもじ",
   "readingMnemonic": "This word consists of the kun'yomi reading for 顔 added to the jukugo word 文字 that you already learned. You've learned these readings before, so reading this word should be nice and easy!",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%A1%94%E6%96%87%E5%AD%97",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "顔",
-      "id": 772,
-      "reading": "かお"
-    },
-    {
-      "type": "kanji",
-      "value": "文",
-      "id": 475,
-      "reading": "も"
-    },
-    {
-      "type": "kanji",
-      "value": "字",
-      "id": 545,
-      "reading": "じ"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%A1%94%E6%96%87%E5%AD%97"
+  }
 }

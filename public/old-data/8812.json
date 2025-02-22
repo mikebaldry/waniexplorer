@@ -1,0 +1,49 @@
+{
+  "id": 8812,
+  "type": "vocabulary",
+  "characters": "辛口",
+  "primaryMeaning": "Spicy Taste",
+  "otherMeanings": [
+    "Dry Taste",
+    "Dry Tasting"
+  ],
+  "primaryReading": "からくち",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1880,
+      "character": "辛",
+      "readings": [
+        "から",
+        "つら",
+        "しん"
+      ]
+    },
+    {
+      "id": 452,
+      "character": "口",
+      "readings": [
+        "こう",
+        "く",
+        "くち"
+      ]
+    }
+  ],
+  "meaningMnemonic": "If you put something <kanji>spicy</kanji> in your <kanji>mouth</kanji> you'll end up with a <vocabulary>spicy taste</vocabulary> or a <vocabulary>dry taste</vocabulary> in there. Spice sucks up all your mouth moistness.",
+  "readingMnemonic": "This is the kun'yomi readings together. You should have learned them both by now.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%BE%9B%E5%8F%A3",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "辛",
+      "id": 1880,
+      "reading": "から"
+    },
+    {
+      "type": "kanji",
+      "value": "口",
+      "id": 452,
+      "reading": "くち"
+    }
+  ]
+}

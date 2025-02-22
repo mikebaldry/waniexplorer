@@ -1,0 +1,30 @@
+{
+  "id": 928,
+  "type": "kanji",
+  "character": "寺",
+  "primaryMeaning": "Temple",
+  "otherMeanings": [],
+  "primaryReading": "てら",
+  "readings": [
+    {
+      "reading": "てら",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "じ",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "Someone died. You ask how this person died, the person who's getting buried by the <kanji>temple</kanji>. The priest/monk says it was in a tragic <reading>terror</reading> (てら) attack.",
+  "meaningMnemonic": "The <radical>temple</radical> radical and the <kanji>temple</kanji> kanji are exactly the same! Brilliant.",
+  "vocabularyIds": [
+    3943,
+    4127
+  ],
+  "radicalIds": [
+    192
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%AF%BA"
+}

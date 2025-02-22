@@ -1,0 +1,36 @@
+{
+  "id": 1909,
+  "type": "kanji",
+  "character": "舟",
+  "primaryMeaning": "Boat",
+  "otherMeanings": [],
+  "primaryReading": "ふね",
+  "readings": [
+    {
+      "reading": "ふね",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "ふな",
+      "primary": false,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "しゅう",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "The reading is the same reading that you learned with the vocabulary 船.",
+  "meaningMnemonic": "The <radical>boat</radical> radical and the <kanji>boat</kanji> kanji are the same!",
+  "vocabularyIds": [
+    6862,
+    6863,
+    8264
+  ],
+  "radicalIds": [
+    149
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%88%9F"
+}

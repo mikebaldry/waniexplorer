@@ -1,56 +1,18 @@
 {
   "id": 9044,
   "type": "vocabulary",
-  "characters": "お持ち帰り",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "お持ち帰り"
+  },
   "primaryMeaning": "Takeout",
-  "otherMeanings": [],
-  "primaryReading": "おもちかえり",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 727,
-      "character": "持",
-      "readings": [
-        "じ",
-        "も"
-      ]
-    },
-    {
-      "id": 930,
-      "character": "帰",
-      "readings": [
-        "かえ",
-        "き"
-      ]
-    }
-  ],
   "meaningMnemonic": "When you're <kanji>hold</kanji>ing food and <kanji>return</kanji>ing home with it, you're likely getting <vocabulary>takeout</vocabulary>.",
+  "primaryReading": "おもちかえり",
   "readingMnemonic": "You've already learned how to read both 持つ and 帰る, so you should be able to read this as well.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E3%81%8A%E6%8C%81%E3%81%A1%E5%B8%B0%E3%82%8A",
-  "elements": [
-    {
-      "type": "kana",
-      "value": "お"
-    },
-    {
-      "type": "kanji",
-      "value": "持",
-      "id": 727,
-      "reading": "も"
-    },
-    {
-      "type": "kana",
-      "value": "ち"
-    },
-    {
-      "type": "kanji",
-      "value": "帰",
-      "id": 930,
-      "reading": "かえ"
-    },
-    {
-      "type": "kana",
-      "value": "り"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E3%81%8A%E6%8C%81%E3%81%A1%E5%B8%B0%E3%82%8A"
+  }
 }

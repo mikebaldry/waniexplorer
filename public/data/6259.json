@@ -1,46 +1,20 @@
 {
   "id": 6259,
   "type": "vocabulary",
-  "characters": "邦訳",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "邦訳"
+  },
   "primaryMeaning": "Translation Into Japanese",
+  "meaningMnemonic": "A <kanji>home country</kanji> <kanji>translation</kanji> is a translation to your home country's language. Since this is a Japanese word, this translation would be a <vocabulary>translation into Japanese</vocabulary>.",
+  "primaryReading": "ほうやく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Japanese Version"
   ],
-  "primaryReading": "ほうやく",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1708,
-      "character": "邦",
-      "readings": [
-        "ほう",
-        "くに"
-      ]
-    },
-    {
-      "id": 1511,
-      "character": "訳",
-      "readings": [
-        "やく",
-        "わけ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "A <kanji>home country</kanji> <kanji>translation</kanji> is a translation to your home country's language. Since this is a Japanese word, this translation would be a <vocabulary>translation into Japanese</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E9%82%A6%E8%A8%B3",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "邦",
-      "id": 1708,
-      "reading": "ほう"
-    },
-    {
-      "type": "kanji",
-      "value": "訳",
-      "id": 1511,
-      "reading": "やく"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%82%A6%E8%A8%B3"
+  }
 }

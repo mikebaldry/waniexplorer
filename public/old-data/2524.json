@@ -1,0 +1,44 @@
+{
+  "id": 2524,
+  "type": "vocabulary",
+  "characters": "五十",
+  "primaryMeaning": "Fifty",
+  "otherMeanings": [],
+  "primaryReading": "ごじゅう",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 470,
+      "character": "五",
+      "readings": [
+        "ご",
+        "いつ"
+      ]
+    },
+    {
+      "id": 448,
+      "character": "十",
+      "readings": [
+        "じゅう",
+        "とお"
+      ]
+    }
+  ],
+  "meaningMnemonic": "What happens when you have ten five times? You get <vocabulary>fifty</vocabulary>!",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. That's the case for this word too, which means you should already know how to read this word.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%BA%94%E5%8D%81",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "五",
+      "id": 470,
+      "reading": "ご"
+    },
+    {
+      "type": "kanji",
+      "value": "十",
+      "id": 448,
+      "reading": "じゅう"
+    }
+  ]
+}

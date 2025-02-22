@@ -1,46 +1,20 @@
 {
   "id": 6678,
   "type": "vocabulary",
-  "characters": "牧草",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "牧草"
+  },
   "primaryMeaning": "Pasture",
+  "meaningMnemonic": "The <kanji>pasture</kanji> <kanji>grass</kanji> is the <vocabulary>pasture</vocabulary> and <vocabulary>grass</vocabulary>.",
+  "primaryReading": "ぼくそう",
+  "readingMnemonic": "With 草 you learned a different reading from the one here. Just think about how with this <vocabulary>pasture</vocabulary> you have to constantly <reading>sew</reading> (そう) it together to make it come together, otherwise it comes apart and moves all around, and that's no good for any pasture.",
   "otherMeanings": [
     "Grass"
   ],
-  "primaryReading": "ぼくそう",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1846,
-      "character": "牧",
-      "readings": [
-        "ぼく",
-        "まき"
-      ]
-    },
-    {
-      "id": 605,
-      "character": "草",
-      "readings": [
-        "くさ",
-        "そう"
-      ]
-    }
-  ],
-  "meaningMnemonic": "The <kanji>pasture</kanji> <kanji>grass</kanji> is the <vocabulary>pasture</vocabulary> and <vocabulary>grass</vocabulary>.",
-  "readingMnemonic": "With 草 you learned a different reading from the one here. Just think about how with this <vocabulary>pasture</vocabulary> you have to constantly <reading>sew</reading> (そう) it together to make it come together, otherwise it comes apart and moves all around, and that's no good for any pasture.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E7%89%A7%E8%8D%89",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "牧",
-      "id": 1846,
-      "reading": "ぼく"
-    },
-    {
-      "type": "kanji",
-      "value": "草",
-      "id": 605,
-      "reading": "そう"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%89%A7%E8%8D%89"
+  }
 }

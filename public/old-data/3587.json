@@ -1,0 +1,50 @@
+{
+  "id": 3587,
+  "type": "vocabulary",
+  "characters": "感動する",
+  "primaryMeaning": "To Be Emotionally Moved",
+  "otherMeanings": [
+    "To Be Moved Emotionally",
+    "To Be Moving"
+  ],
+  "primaryReading": "かんどうする",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 862,
+      "character": "感",
+      "readings": [
+        "かん"
+      ]
+    },
+    {
+      "id": 827,
+      "character": "動",
+      "readings": [
+        "どう",
+        "うご"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You know this is a verb from the する. Your <kanji>feeling</kanji>s have been <kanji>move</kanji>d. So, when your feelings have been moved, you are emotionally moved. This word is <vocabulary>to be emotionally moved</vocabulary> or simply <vocabulary>to be moving</vocabulary>. Just be sure to know this has to do with emotions.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%84%9F%E5%8B%95%E3%81%99%E3%82%8B",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "感",
+      "id": 862,
+      "reading": "かん"
+    },
+    {
+      "type": "kanji",
+      "value": "動",
+      "id": 827,
+      "reading": "どう"
+    },
+    {
+      "type": "kana",
+      "value": "する"
+    }
+  ]
+}

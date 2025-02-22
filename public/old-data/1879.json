@@ -1,0 +1,31 @@
+{
+  "id": 1879,
+  "type": "kanji",
+  "character": "桃",
+  "primaryMeaning": "Peach",
+  "otherMeanings": [],
+  "primaryReading": "もも",
+  "readings": [
+    {
+      "reading": "もも",
+      "primary": true,
+      "type": "kunyomi"
+    },
+    {
+      "reading": "とう",
+      "primary": false,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "If <reading>momo</reading>taro (もも) wasn't enough, think about the <kanji>peach</kanji> growing larger and larger. You want it to grow bigger, so you yell at it: \"<reading>MO</reading>RE! <reading>MO</reading>RE!\" (もも).",
+  "meaningMnemonic": "The <radical>tree</radical> has an <radical>omen</radical> growing from it, one single <kanji>peach</kanji> that is the size of a house. Inside is a child who will save the village from demons.",
+  "vocabularyIds": [
+    6788,
+    6789
+  ],
+  "radicalIds": [
+    23,
+    363
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%A1%83"
+}

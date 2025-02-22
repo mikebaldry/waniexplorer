@@ -1,28 +1,36 @@
 {
   "id": 2092,
   "type": "kanji",
-  "character": "蟹",
-  "primaryMeaning": "Crab",
-  "otherMeanings": [],
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "蟹"
+  },
   "primaryReading": "かに",
   "readings": [
     {
-      "reading": "かに",
       "primary": true,
+      "reading": "かに",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "The reading is the same as the <reading>かに</reading> in WaniKani.",
+  "primaryMeaning": "Crab",
+  "otherMeanings": [],
   "meaningMnemonic": "This is an animal with an <radical>angle</radical>d <radical>sword</radical> claw that's filled with <radical>cow</radical> meat but looks like an <radical>insect</radical>. What kind of animal is that? It's a <kanji>crab</kanji>.",
-  "vocabularyIds": [
-    7361,
-    7860
-  ],
-  "radicalIds": [
-    281,
-    24,
-    126,
-    89
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E8%9F%B9"
+  "readingMnemonic": "The reading is the same as the <reading>かに</reading> in WaniKani.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%9F%B9"
+  },
+  "related": {
+    "radicals": [
+      281,
+      24,
+      126,
+      89
+    ],
+    "vocabularies": [
+      7361,
+      7860
+    ]
+  }
 }

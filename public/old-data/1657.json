@@ -1,0 +1,27 @@
+{
+  "id": 1657,
+  "type": "kanji",
+  "character": "湾",
+  "primaryMeaning": "Gulf",
+  "otherMeanings": [],
+  "primaryReading": "わん",
+  "readings": [
+    {
+      "reading": "わん",
+      "primary": true,
+      "type": "onyomi"
+    }
+  ],
+  "readingMnemonic": "How many <kanji>gulf</kanji>s will this create? Just <reading>one</reading> (<ja>わん</ja>).",
+  "meaningMnemonic": "<radical>Tsunami</radical>s hit these lands <radical>again</radical> and again, molding it into some kind of <radical>bow</radical> shape. Or in other words, creating a <kanji>gulf</kanji>. ",
+  "vocabularyIds": [
+    6090,
+    6091
+  ],
+  "radicalIds": [
+    103,
+    9329,
+    36
+  ],
+  "wanikaniUrl": "https://www.wanikani.com/kanji/%E6%B9%BE"
+}

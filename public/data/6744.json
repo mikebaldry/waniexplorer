@@ -1,46 +1,20 @@
 {
   "id": 6744,
   "type": "vocabulary",
-  "characters": "壊滅",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "壊滅"
+  },
   "primaryMeaning": "Destruction",
+  "meaningMnemonic": "If you <kanji>break</kanji> and <kanji>destroy</kanji> something, that is <vocabulary>destruction</vocabulary>. That is <vocabulary>annihilation</vocabulary>.",
+  "primaryReading": "かいめつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
   "otherMeanings": [
     "Annihilation"
   ],
-  "primaryReading": "かいめつ",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 1389,
-      "character": "壊",
-      "readings": [
-        "かい",
-        "こわ"
-      ]
-    },
-    {
-      "id": 1868,
-      "character": "滅",
-      "readings": [
-        "めつ",
-        "ほろ"
-      ]
-    }
-  ],
-  "meaningMnemonic": "If you <kanji>break</kanji> and <kanji>destroy</kanji> something, that is <vocabulary>destruction</vocabulary>. That is <vocabulary>annihilation</vocabulary>.",
-  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%A3%8A%E6%BB%85",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "壊",
-      "id": 1389,
-      "reading": "かい"
-    },
-    {
-      "type": "kanji",
-      "value": "滅",
-      "id": 1868,
-      "reading": "めつ"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A3%8A%E6%BB%85"
+  }
 }

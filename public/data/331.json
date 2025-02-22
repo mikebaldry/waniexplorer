@@ -1,12 +1,15 @@
 {
   "id": 331,
   "type": "radical",
-  "primaryMeaning": "Call",
-  "otherMeanings": [],
-  "character": {
+  "level": 27,
+  "characters": {
     "type": "text",
     "value": "召"
   },
+  "primaryMeaning": "Call",
+  "otherMeanings": [],
   "meaningMnemonic": "If you have a sword in your mouth you need to <radical>call</radical> upon someone to help! That thing should not be in there. Call someone over right now! Go ahead, call them! Let’s hope they can get that sword out of your mouth. ",
-  "wanikaniUrl": "https://www.wanikani.com/radicals/call"
+  "urls": {
+    "wanikani": "https://www.wanikani.com/radicals/call"
+  }
 }

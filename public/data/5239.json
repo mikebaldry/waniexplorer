@@ -1,46 +1,21 @@
 {
   "id": 5239,
   "type": "vocabulary",
-  "characters": "三杯",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "三杯"
+  },
   "primaryMeaning": "Three Cups",
+  "meaningMnemonic": "<kanji>Three</kanji> <kanji>cups of liquid</kanji> is equals to <vocabulary>three cups</vocabulary> or <vocabulary>three drinks</vocabulary>. It can also mean <vocabulary>three glasses</vocabulary> depending on what your drink is in!\n\n〜杯 is a counter used to count the amount that fills a container, such as a cup, glass, bowl, or even a spoon! The contents don't have to be liquid—you can use 三杯 for three bowls of rice or three spoons of sugar as well.",
+  "primaryReading": "さんばい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Just watch out for 杯, which becomes ばい thanks to our old friend rendaku.",
   "otherMeanings": [
     "Three Drinks",
     "Three Glasses"
   ],
-  "primaryReading": "さんばい",
   "otherReadings": [],
-  "kanji": [
-    {
-      "id": 449,
-      "character": "三",
-      "readings": [
-        "さん",
-        "み"
-      ]
-    },
-    {
-      "id": 1380,
-      "character": "杯",
-      "readings": [
-        "はい"
-      ]
-    }
-  ],
-  "meaningMnemonic": "<kanji>Three</kanji> <kanji>cups of liquid</kanji> is equals to <vocabulary>three cups</vocabulary> or <vocabulary>three drinks</vocabulary>. It can also mean <vocabulary>three glasses</vocabulary> depending on what your drink is in!\n\n〜杯 is a counter used to count the amount that fills a container, such as a cup, glass, bowl, or even a spoon! The contents don't have to be liquid—you can use 三杯 for three bowls of rice or three spoons of sugar as well.",
-  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Just watch out for 杯, which becomes ばい thanks to our old friend rendaku.",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E4%B8%89%E6%9D%AF",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "三",
-      "id": 449,
-      "reading": "さん"
-    },
-    {
-      "type": "kanji",
-      "value": "杯",
-      "id": 1380,
-      "reading": "ばい"
-    }
-  ]
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B8%89%E6%9D%AF"
+  }
 }

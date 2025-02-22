@@ -1,0 +1,48 @@
+{
+  "id": 4338,
+  "type": "vocabulary",
+  "characters": "困難",
+  "primaryMeaning": "Hardship",
+  "otherMeanings": [
+    "Difficulty",
+    "Hard",
+    "Difficult"
+  ],
+  "primaryReading": "こんなん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1086,
+      "character": "困",
+      "readings": [
+        "こん",
+        "こま"
+      ]
+    },
+    {
+      "id": 1095,
+      "character": "難",
+      "readings": [
+        "なん",
+        "むずか"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You're <kanji>distressed</kanji> and it's <kanji>difficult</kanji>. This is quite the <vocabulary>hardship</vocabulary> and <vocabulary>difficulty</vocabulary> you're feeling.",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E5%9B%B0%E9%9B%A3",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "困",
+      "id": 1086,
+      "reading": "こん"
+    },
+    {
+      "type": "kanji",
+      "value": "難",
+      "id": 1095,
+      "reading": "なん"
+    }
+  ]
+}

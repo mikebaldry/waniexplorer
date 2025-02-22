@@ -1,36 +1,44 @@
 {
   "id": 519,
   "type": "kanji",
-  "character": "古",
-  "primaryMeaning": "Old",
-  "otherMeanings": [],
+  "level": 3,
+  "characters": {
+    "type": "text",
+    "value": "古"
+  },
   "primaryReading": "こ",
   "readings": [
     {
-      "reading": "こ",
       "primary": true,
+      "reading": "こ",
       "type": "onyomi"
     },
     {
-      "reading": "ふる",
       "primary": false,
+      "reading": "ふる",
       "type": "kunyomi"
     }
   ],
-  "readingMnemonic": "<kanji>Old</kanji> things are misunderstood by the <reading>子</reading>s (こ) of the world.\n\n*Note:* Come up with a 子 character you can use for all the こ reading mnemonics going forward. This child will show up many times throughout your mnemonic journey, and it will help if you imagine the same character the whole time.",
+  "primaryMeaning": "Old",
+  "otherMeanings": [],
   "meaningMnemonic": "The kanji and the radical are the same, so remembering the meaning of this kanji is as simple as making sure you know the radical for <radical>old</radical> first! If you know the radical, you know this kanji means <kanji>old</kanji> as well.\n\nNote: This \"old\" does not refer to people. Think of it as \"old things\" instead.",
-  "vocabularyIds": [
-    2625,
-    2626,
-    2827,
-    3122,
-    3809,
-    7414,
-    7568,
-    8037
-  ],
-  "radicalIds": [
-    69
-  ],
-  "wanikaniUrl": "https://www.wanikani.com/kanji/%E5%8F%A4"
+  "readingMnemonic": "<kanji>Old</kanji> things are misunderstood by the <reading>子</reading>s (こ) of the world.\n\n*Note:* Come up with a 子 character you can use for all the こ reading mnemonics going forward. This child will show up many times throughout your mnemonic journey, and it will help if you imagine the same character the whole time.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%8F%A4"
+  },
+  "related": {
+    "radicals": [
+      69
+    ],
+    "vocabularies": [
+      2625,
+      2626,
+      2827,
+      3122,
+      3809,
+      7414,
+      7568,
+      8037
+    ]
+  }
 }

@@ -1,0 +1,44 @@
+{
+  "id": 4455,
+  "type": "vocabulary",
+  "characters": "責任",
+  "primaryMeaning": "Responsibility",
+  "otherMeanings": [],
+  "primaryReading": "せきにん",
+  "otherReadings": [],
+  "kanji": [
+    {
+      "id": 1146,
+      "character": "責",
+      "readings": [
+        "せき",
+        "せ"
+      ]
+    },
+    {
+      "id": 1142,
+      "character": "任",
+      "readings": [
+        "にん",
+        "まか"
+      ]
+    }
+  ],
+  "meaningMnemonic": "You can <kanji>blame</kanji> <kanji>duty</kanji> all you want, but you still have a <vocabulary>responsibility</vocabulary> as well, no matter what your duty dictates.",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E8%B2%AC%E4%BB%BB",
+  "elements": [
+    {
+      "type": "kanji",
+      "value": "責",
+      "id": 1146,
+      "reading": "せき"
+    },
+    {
+      "type": "kanji",
+      "value": "任",
+      "id": 1142,
+      "reading": "にん"
+    }
+  ]
+}

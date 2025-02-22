@@ -1,34 +1,18 @@
 {
   "id": 3018,
   "type": "vocabulary",
-  "characters": "決める",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "決める"
+  },
   "primaryMeaning": "To Decide",
-  "otherMeanings": [],
-  "primaryReading": "きめる",
-  "otherReadings": [],
-  "kanji": [
-    {
-      "id": 687,
-      "character": "決",
-      "readings": [
-        "けつ",
-        "き"
-      ]
-    }
-  ],
   "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>decide</kanji> so the verb version is <vocabulary>to decide</vocabulary>.",
+  "primaryReading": "きめる",
   "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nYou have <vocabulary>to decide</vocabulary>. You have two <reading>key</reading>s (き) in front of you. You have to decide on one of them and use it to unlock the door to get away from the monster. Why do monster attacks always come down to keys and doors?",
-  "wanikaniUrl": "https://www.wanikani.com/vocabulary/%E6%B1%BA%E3%82%81%E3%82%8B",
-  "elements": [
-    {
-      "type": "kanji",
-      "value": "決",
-      "id": 687,
-      "reading": "き"
-    },
-    {
-      "type": "kana",
-      "value": "める"
-    }
-  ]
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B1%BA%E3%82%81%E3%82%8B"
+  }
 }
