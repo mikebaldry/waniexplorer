@@ -34,6 +34,7 @@
 .information {
   display: flex;
   flex: 1;
+  gap: 0.4rem;
   flex-direction: column;
   text-align: left;
 }
@@ -59,6 +60,29 @@
     height: 2rem;
   }
 }
+
+.badge {
+  --bs-badge-padding-x: 0.4rem;
+  --bs-badge-padding-y: 0.3rem;
+  margin-right: 0.5rem;
+}
+
+.levelBadge {
+  margin-right: 1rem;
+}
+
+.kanjiBadge {
+  background-color: #f0a;
+}
+
+.radicalBadge {
+  background-color: #0af;
+}
+
+.vocabularyBadge {
+  background-color: #a0f;
+}
+
 
 //   &.search-item--active, &:active {
 //     --color-text: var(--bs-list-group-action-hover-color);

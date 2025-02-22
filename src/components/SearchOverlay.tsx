@@ -1,4 +1,4 @@
-import { ChangeEventHandler, KeyboardEventHandler, MouseEventHandler, RefObject, useCallback, useRef, useState } from 'react'
+import { ChangeEventHandler, KeyboardEventHandler, MouseEventHandler, RefObject, useCallback, useRef, useState, WheelEventHandler } from 'react'
 import { useNavigate } from 'react-router'
 import { useKey } from 'react-use';
 

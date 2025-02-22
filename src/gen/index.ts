@@ -8,7 +8,7 @@ export default async function generate(force: boolean) {
   const subjects = await loadSubjects(force);
 
   const subjctsById = subjects.reduce((acc, subject: Subject) => {
-    acc[subject.id] = subject; // Use the key's value as the new key
+    acc[subject.id] = subject;
     return acc;
   }, {} as Record<number, Subject>);
 
