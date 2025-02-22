@@ -1,5 +1,5 @@
-import { ChangeEventHandler, KeyboardEventHandler, MouseEventHandler, useCallback, useRef, useState } from 'react'
-import { useNavigate } from 'react-router'
+import { ChangeEventHandler, KeyboardEventHandler, MouseEventHandler, useCallback, useEffect, useRef, useState } from 'react'
+import { useLocation, useNavigate } from 'react-router'
 
 import db, {  SearchResult } from '../db/db.ts'
 
@@ -18,6 +18,13 @@ function SearchOverlay() {
   const [results, setResults] = useState<SearchResult[]>([])
   const [selectedResultIndex, setSelectedResultIndex] = useState<number>(0);
   const searchRef = useRef<HTMLInputElement>(null);
+  const location = useLocation();
+
+  useEffect(() => {
+    if (location.pathname === "/") {
+      setOpen(true);
+    } 
+  }, []);
 
   const handleOpen = useCallback(() => {
     if (!open) {
