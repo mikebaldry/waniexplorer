@@ -1,18 +1,28 @@
 import { useReactFlow, useNodesInitialized, Node } from '@xyflow/react';
 import { useEffect } from 'react';
 import chunk from 'lodash-es/chunk';
+import { StandardViewOrdering } from './StandardView';
 
-const applyLayout = (nodes: Node[]) => {
+const applyLayout = (nodes: Node[], ordering: StandardViewOrdering) => {
   const maxNodesPerRow = 6;
   const paddingBetweenGroups = 30;
   const paddingBetweenRows = 20;
   const paddingBetweenNodesX = 20;
   
-  const groups = [
-    chunk(nodes.filter(n => n.type == 'radical'), maxNodesPerRow),
-    chunk(nodes.filter(n => n.type == 'kanji'), maxNodesPerRow),
-    chunk(nodes.filter(n => n.type == 'vocabulary'), maxNodesPerRow)
-  ]
+  const radicalNodes = chunk(nodes.filter(n => n.type == 'radical'), maxNodesPerRow);
+  const kanjiNodes = chunk(nodes.filter(n => n.type == 'kanji'), maxNodesPerRow);
+  const vocabularyNodes = chunk(nodes.filter(n => n.type == 'vocabulary'), maxNodesPerRow);
+
+  let groups: (Node[][])[];
+
+  switch (ordering) {
+    case StandardViewOrdering.RADICAL_KANJI_VOCABULARY:
+      groups = [radicalNodes, kanjiNodes, vocabularyNodes];
+      break;
+    case StandardViewOrdering.VOCABULARY_KANJI_RADICAL:
+      groups = [vocabularyNodes, kanjiNodes, radicalNodes];
+      break;
+  }
 
 
   let maxRowWidth = 0;
@@ -65,7 +75,7 @@ const applyLayout = (nodes: Node[]) => {
   return nodes;
 }
 
-export default function useGraphLayout() {
+export default function useGraphLayout({ ordering }: { ordering: StandardViewOrdering }) {
   const nodesInitialized = useNodesInitialized();
   const { getNodes, setNodes, fitView } = useReactFlow();
  
@@ -73,11 +83,12 @@ export default function useGraphLayout() {
     if (nodesInitialized) {
       const layoutedNodes = applyLayout(
         getNodes(),
+        ordering
       );
 
       setNodes(layoutedNodes);
     }
-  }, [nodesInitialized, getNodes, setNodes, fitView]);
+  }, [nodesInitialized, getNodes, setNodes, fitView, ordering]);
  
   return null;
 }

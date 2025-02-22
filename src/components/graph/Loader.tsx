@@ -24,7 +24,7 @@ function DataLoader() {
   });
   
   return (
-    (view && <StandardView view={view} primarySubjectId={id} ordering={StandardViewOrdering.RADICAL_KANJI_VOCABULARY} />)
+    (view && <StandardView view={view} primarySubjectId={id} ordering={type === "vocabulary" ? StandardViewOrdering.VOCABULARY_KANJI_RADICAL : StandardViewOrdering.RADICAL_KANJI_VOCABULARY} />)
   )
 }
 

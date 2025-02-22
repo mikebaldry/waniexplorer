@@ -22,7 +22,7 @@ export type StandardViewProps = {
   ordering: StandardViewOrdering
 }
 
-const StandardView = ({ view, primarySubjectId }: StandardViewProps) => {
+const StandardView = ({ view, primarySubjectId, ordering }: StandardViewProps) => {
   const nodeTypes = useMemo(() => ({ radical: RadicalNode, kanji: KanjiNode, vocabulary: VocabularyNode }), []);
   const { fitView, zoomIn, zoomOut } = useReactFlow();
 
@@ -54,7 +54,7 @@ const StandardView = ({ view, primarySubjectId }: StandardViewProps) => {
 
   }, [fitView, nodes, onNodesChange]);
 
-  useGraphLayout();
+  useGraphLayout({ ordering });
 
   useKeyboardEvent("0", handleResetView);
   useKeyboardEvent("+", () => zoomIn());
