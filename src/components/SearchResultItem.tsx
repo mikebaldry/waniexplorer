@@ -5,12 +5,12 @@ import { CharactersType } from "../db/characters";
 import styles from "./SearchResultItem.module.scss";
 import { useEffect } from "react";
 import { useInView } from "react-intersection-observer";
-import { useMedia } from "react-use";
+import { useMediaQuery } from "@react-hookz/web";
 
 type SearchResultItemProps = { searchResult: SearchResult, selected: boolean, onClick: () => void, onSelect: () => void };
 
 function SearchResultItem({ searchResult, selected, onClick, onSelect }: SearchResultItemProps) {
-  const cantHover = useMedia('(hover: none)');
+  const cantHover = useMediaQuery('(hover: none)');
   const { ref, inView, entry } = useInView({ threshold: 1 });
   
   useEffect(() => {

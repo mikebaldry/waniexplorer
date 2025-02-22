@@ -18,6 +18,18 @@
     "そとづら"
   ],
   "urls": {
-    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A4%96%E9%9D%A2"
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A4%96%E9%9D%A2",
+    "graph": "/v/vocabulary/3875"
+  },
+  "related": {
+    "radicals": [
+      33,
+      10,
+      250
+    ],
+    "kanjis": [
+      521,
+      974
+    ]
   }
 }

@@ -1,16 +1,13 @@
 import parse, { Element } from 'html-react-parser';
-import { useMemo } from "react";
 
 type MnemonicProps = { value: string };
 
 export default function Mnemonic(props: MnemonicProps) {
-  const parsed = useMemo(() => parseMnemonic(props.value), [props.value]);
-
-  return <>{parsed}</>
+  return <>{parseMnemonic(props.value)}</>
 }
 
 export function parseMnemonic(str: string) {
-  return parse(
+  const result = parse(
     str, { 
       replace(domNode) {
         if (domNode instanceof Element) {
@@ -39,4 +36,6 @@ export function parseMnemonic(str: string) {
       }
     }
   );
+
+  return result;
 }

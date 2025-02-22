@@ -17,6 +17,16 @@
     "シアトルし"
   ],
   "urls": {
-    "wanikani": "https://www.wanikani.com/vocabulary/%E3%82%B7%E3%82%A2%E3%83%88%E3%83%AB%E5%B8%82"
+    "wanikani": "https://www.wanikani.com/vocabulary/%E3%82%B7%E3%82%A2%E3%83%88%E3%83%AB%E5%B8%82",
+    "graph": "/v/vocabulary/2637"
+  },
+  "related": {
+    "radicals": [
+      8,
+      102
+    ],
+    "kanjis": [
+      522
+    ]
   }
 }

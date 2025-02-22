@@ -52,7 +52,8 @@ export default async function handle(subject: WK.KanjiSubject): Promise<[SearchD
     meaningMnemonic: subject.data.meaning_mnemonic,
     readingMnemonic: subject.data.reading_mnemonic,
     urls: {
-      wanikani: subject.data.document_url
+      wanikani: subject.data.document_url,
+      graph: `/v/kanji/${subject.id}`
     },
     related: {
       radicals: relatedRadicalIds,

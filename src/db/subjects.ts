@@ -1,4 +1,4 @@
-import { SvgCharacters, TextCharacters } from "./characters";
+import { Characters, TextCharacters } from "./characters";
 
 export type Subject = RadicalSubject | KanjiSubject | VocabularySubject;
 export enum SubjectType { 
@@ -7,16 +7,28 @@ export enum SubjectType {
   VOCABULARY = "vocabulary"
 };
 
-export type RadicalSubject = {
+export type BasicSubject = {
   id: number,
-  type: SubjectType.RADICAL,
+  type: SubjectType,
   level: number,
   primaryMeaning: string,
   otherMeanings: string[],
-  characters: TextCharacters | SvgCharacters,
-  meaningMnemonic: string,
+  characters: Characters,
   urls: {
     wanikani: string
+    graph: string
+  }
+}
+
+
+export type RadicalSubject = BasicSubject & {
+  type: SubjectType.RADICAL,
+
+  meaningMnemonic: string,
+  
+  related: {
+    kanjis: number[],
+    vocabularies: number[]
   }
 }
 
@@ -26,38 +38,28 @@ export type KanjiReading = {
   type: "onyomi" | "kunyomi" | "nanori"
 }
 
-export type KanjiSubject = {
-  id: number,
+export type KanjiSubject = BasicSubject & {
   type: SubjectType.KANJI,
-  level: number,
   characters: TextCharacters,
-  primaryMeaning: string,
-  otherMeanings: string[],
   primaryReading: string,
   readings: KanjiReading[],
   readingMnemonic: string,
   meaningMnemonic: string,
-  urls: {
-    wanikani: string
-  },
   related: {
     radicals: number[],
     vocabularies: number[]
   }
 }
 
-export type VocabularySubject = {
-  id: number,
+export type VocabularySubject = BasicSubject & {
   type: SubjectType.VOCABULARY,
-  level: number,
   characters: TextCharacters,
-  primaryMeaning: string,
-  otherMeanings: string[],
   primaryReading: string,
   otherReadings: string[],
   readingMnemonic: string,
   meaningMnemonic: string,
-  urls: {
-    wanikani: string,
+  related: {
+    radicals: number[],
+    kanjis: number[]
   }
 }

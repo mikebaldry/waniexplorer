@@ -18,6 +18,19 @@
     "ぎんなん"
   ],
   "urls": {
-    "wanikani": "https://www.wanikani.com/vocabulary/%E9%8A%80%E6%9D%8F"
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%8A%80%E6%9D%8F",
+    "graph": "/v/vocabulary/8103"
+  },
+  "related": {
+    "radicals": [
+      118,
+      196,
+      23,
+      16
+    ],
+    "kanjis": [
+      871,
+      2257
+    ]
   }
 }

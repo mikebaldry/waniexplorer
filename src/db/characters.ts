@@ -13,3 +13,5 @@ export type SvgCharacters = {
   value: string
 }
 
+export type Characters = TextCharacters | SvgCharacters;
+

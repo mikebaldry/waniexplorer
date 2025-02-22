@@ -17,6 +17,8 @@ function KeyboardShortcuts() {
         <div className={clsx("card-text", styles.legends)}>
           <div><kbd>Enter</kbd><kbd>Space</kbd> open search</div>
           <div><kbd>0</kbd> reset view</div>
+          <div><kbd>+</kbd> zoom in</div>
+          <div><kbd>-</kbd> zoom out</div>
         </div>
       </div>
     </div>

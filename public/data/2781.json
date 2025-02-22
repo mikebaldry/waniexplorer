@@ -15,6 +15,16 @@
     "なん"
   ],
   "urls": {
-    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BD%95"
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BD%95",
+    "graph": "/v/vocabulary/2781"
+  },
+  "related": {
+    "radicals": [
+      75,
+      113
+    ],
+    "kanjis": [
+      582
+    ]
   }
 }

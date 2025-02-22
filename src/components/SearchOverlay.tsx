@@ -1,6 +1,5 @@
 import { ChangeEventHandler, KeyboardEventHandler, MouseEventHandler, useCallback, useRef, useState } from 'react'
 import { useNavigate } from 'react-router'
-import { useKey } from 'react-use';
 
 import db, {  SearchResult } from '../db/db.ts'
 
@@ -10,6 +9,7 @@ import FloatingSearchButton from './FloatingSearchButton.tsx';
 
 import styles from './SearchOverlay.module.scss'
 import clsx from 'clsx';
+import { useKeyboardEvent } from '@react-hookz/web';
 
 function SearchOverlay() {
   const navigate = useNavigate();
@@ -36,6 +36,7 @@ function SearchOverlay() {
   const handleClear = useCallback(() => {
     setQuery("");
     setResults([]);
+    setSelectedResultIndex(0);
   }, [setOpen, setResults]);
 
   const handleClose = useCallback(() => {
@@ -44,9 +45,9 @@ function SearchOverlay() {
   }, [setOpen, handleClear]);
 
   const handleOpenResult = useCallback((searchResult: SearchResult) => {
-    navigate(`/${searchResult.type}/${searchResult.id}`);
-    setOpen(false);
-  }, [navigate, setOpen]);
+    navigate(`/v/${searchResult.type}/${searchResult.id}`);
+    handleClose();
+  }, [navigate, handleClose]);
 
   const handleClickBackdrop : MouseEventHandler = useCallback((e) => {
     if (e.currentTarget === e.target) {
@@ -88,9 +89,9 @@ function SearchOverlay() {
     }
   }, [selectedResultIndex, setSelectedResultIndex, results, handleClear, handleClose]);
 
-  useKey('Enter', handleOpen);
-  useKey(' ', handleOpen);
-  useKey('Escape', handleClose);
+  useKeyboardEvent('Enter', handleOpen);
+  useKeyboardEvent(' ', handleOpen);
+  useKeyboardEvent('Escape', handleClose);
 
   return (
     <div className={styles.container}>

@@ -17,6 +17,24 @@
     "せんたっき"
   ],
   "urls": {
-    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B4%97%E6%BF%AF%E6%A9%9F"
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B4%97%E6%BF%AF%E6%A9%9F",
+    "graph": "/v/vocabulary/7806"
+  },
+  "related": {
+    "radicals": [
+      103,
+      258,
+      105,
+      240,
+      23,
+      87,
+      194,
+      9
+    ],
+    "kanjis": [
+      1043,
+      2126,
+      1090
+    ]
   }
 }

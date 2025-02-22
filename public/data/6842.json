@@ -15,6 +15,17 @@
     "バベルのとう"
   ],
   "urls": {
-    "wanikani": "https://www.wanikani.com/vocabulary/%E3%83%90%E3%83%99%E3%83%AB%E3%81%AE%E5%A1%94"
+    "wanikani": "https://www.wanikani.com/vocabulary/%E3%83%90%E3%83%99%E3%83%AB%E3%81%AE%E5%A1%94",
+    "graph": "/v/vocabulary/6842"
+  },
+  "related": {
+    "radicals": [
+      17,
+      90,
+      216
+    ],
+    "kanjis": [
+      1905
+    ]
   }
 }

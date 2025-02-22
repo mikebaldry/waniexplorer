@@ -16,6 +16,15 @@
   ],
   "otherReadings": [],
   "urls": {
-    "wanikani": "https://www.wanikani.com/vocabulary/%E9%87%8C"
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%87%8C",
+    "graph": "/v/vocabulary/3647"
+  },
+  "related": {
+    "radicals": [
+      125
+    ],
+    "kanjis": [
+      597
+    ]
   }
 }

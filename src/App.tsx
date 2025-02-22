@@ -1,28 +1,18 @@
-import {useEffect } from 'react'
-import { Outlet, useParams } from 'react-router'
+import { Outlet } from 'react-router'
 import SearchOverlay from './components/SearchOverlay.tsx';
+import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
+
+const queryClient = new QueryClient()
 
 function App() {
-  let { id } = useParams();
-
-  useEffect(() => {
-    async function doIt() {
-      if (id) {
-        // const kanji = await db.kanji(parseInt(id));
-        // setSelectedKanji(kanji);
-      }
-    }
-    doIt();
-  }, [id]);
-
   return (
-    <>
+    <QueryClientProvider client={queryClient}>
       <SearchOverlay />
       
       <div className="position-absolute vw-100 vh-100 top-0 start-0 z-0">
         <Outlet />
       </div>
-    </>
+    </QueryClientProvider>
   )
 }
 

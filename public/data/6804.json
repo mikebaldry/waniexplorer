@@ -18,6 +18,16 @@
     "しゅ"
   ],
   "urls": {
-    "wanikani": "https://www.wanikani.com/vocabulary/%E6%9C%B1"
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%9C%B1",
+    "graph": "/v/vocabulary/6804"
+  },
+  "related": {
+    "radicals": [
+      5,
+      134
+    ],
+    "kanjis": [
+      1887
+    ]
   }
 }

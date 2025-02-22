@@ -17,6 +17,17 @@
     "こする"
   ],
   "urls": {
-    "wanikani": "https://www.wanikani.com/vocabulary/%E6%93%A6%E3%82%8B"
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%93%A6%E3%82%8B",
+    "graph": "/v/vocabulary/6955"
+  },
+  "related": {
+    "radicals": [
+      63,
+      78,
+      8825
+    ],
+    "kanjis": [
+      1860
+    ]
   }
 }

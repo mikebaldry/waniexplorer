@@ -18,6 +18,22 @@
     "めんどくさい"
   ],
   "urls": {
-    "wanikani": "https://www.wanikani.com/vocabulary/%E9%9D%A2%E5%80%92%E8%87%AD%E3%81%84"
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%9D%A2%E5%80%92%E8%87%AD%E3%81%84",
+    "graph": "/v/vocabulary/4846"
+  },
+  "related": {
+    "radicals": [
+      250,
+      75,
+      274,
+      128,
+      109,
+      18
+    ],
+    "kanjis": [
+      974,
+      1110,
+      1111
+    ]
   }
 }

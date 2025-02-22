@@ -51,7 +51,12 @@ export default async function handle(subject: WK.RadicalSubject, subjectsById: R
     otherMeanings: otherMeanings,
     meaningMnemonic: subject.data.meaning_mnemonic,
     urls: {
-      wanikani: subject.data.document_url
+      wanikani: subject.data.document_url,
+      graph: `/v/radical/${subject.id}`
+    },
+    related: {
+      kanjis: relatedKanjiIds,
+      vocabularies: relatedVocabularyIds
     }
   };
 

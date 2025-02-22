@@ -18,6 +18,16 @@
     "ごろ"
   ],
   "urls": {
-    "wanikani": "https://www.wanikani.com/vocabulary/%E9%A0%83"
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%A0%83",
+    "graph": "/v/vocabulary/6871"
+  },
+  "related": {
+    "radicals": [
+      57,
+      184
+    ],
+    "kanjis": [
+      1914
+    ]
   }
 }

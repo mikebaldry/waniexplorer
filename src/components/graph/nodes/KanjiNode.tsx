@@ -1,13 +1,19 @@
 import { Handle, Position } from "@xyflow/react";
 import { NodeProps, Node } from '@xyflow/react';
-import { Fragment } from "react/jsx-runtime";
 import Mnemonic from "../Mnemonic";
-import { KanjiSubject } from "../../../db/subjects";
+import { KanjiReading, KanjiSubject } from "../../../db/subjects";
+import Urls from "./Urls";
+import CommaSeparatedList, { SpanItem } from "./CommaSeparatedList";
+import Heading from "./Heading";
 
 export type KanjiNode = Node<
   KanjiSubject,
   'kanji'
 >;
+
+function ReadingItem({ item }: { item: KanjiReading }) {
+  return <span className={item.primary ? "fw-bold" : ""}>{item.reading}</span>;
+}
 
 export default function KanjiNode(props: NodeProps<KanjiNode>) {
   const kanji = props.data;
@@ -19,22 +25,15 @@ export default function KanjiNode(props: NodeProps<KanjiNode>) {
   return (
     <>
       <div className="card card-node card-node-kanji">
-        <div className="card-header text-center">
-          {kanji.characters.value}
-          <div className="card-header-sub">{kanji.primaryMeaning}</div>
-        </div>
+        <Heading subject={kanji} />
 
         <ul className="list-group list-group-flush">
+
           {kanji.otherMeanings.length > 0 && (
             <li className="list-group-item">
               <div><strong>Other meanings</strong></div>
               <div>
-                {kanji.otherMeanings.map((m, i) => (
-                  <Fragment key={m}>
-                    <span>{m}</span>
-                    {i !== kanji.otherMeanings.length - 1 && ", "}
-                  </Fragment>
-                ))}
+                <CommaSeparatedList items={kanji.otherMeanings} component={SpanItem} />
               </div>
             </li>
           )}
@@ -49,36 +48,21 @@ export default function KanjiNode(props: NodeProps<KanjiNode>) {
             {onyomi.length > 0 && (
               <div className="lh-2">
                 <span className="badge text-bg-secondary badge-reading-type">Onyomi</span>
-                {onyomi.map((r,i ) => (
-                  <Fragment key={r.reading}>
-                    <span className={r.primary ? "fw-bold" : ""}>{r.reading}</span>
-                    {i !== onyomi.length - 1 && ", "}
-                  </Fragment>
-                ))}
+                <CommaSeparatedList items={onyomi} component={ReadingItem} />
               </div>
             )}
 
             {kunyomi.length > 0 && (
               <div className="lh-2">
                 <span className="badge text-bg-secondary badge-reading-type">Kunyomi</span>
-                {kunyomi.map((r, i) => (
-                  <Fragment key={r.reading}>
-                    <span className={r.primary ? "fw-bold" : ""}>{r.reading}</span>
-                    {i !== kunyomi.length - 1 && ", "}
-                  </Fragment>
-                ))}
+                <CommaSeparatedList items={kunyomi} component={ReadingItem} />
               </div>
             )}
 
             {nanori.length > 0 && (
               <div className="lh-2">
                 <span className="badge text-bg-secondary badge-reading-type">Nanori</span>
-                {nanori.map((r, i) => (
-                  <Fragment key={r.reading}>
-                    <span className={r.primary ? "fw-bold" : ""}>{r.reading}</span>
-                    {i !== nanori.length - 1 && ", "}
-                  </Fragment>
-                ))}
+                <CommaSeparatedList items={nanori} component={ReadingItem} />
               </div>
             )}
           </li>
@@ -87,6 +71,8 @@ export default function KanjiNode(props: NodeProps<KanjiNode>) {
             <div><strong>Reading mnemonic</strong></div>
             <div><Mnemonic value={kanji.readingMnemonic} /></div>
           </li>
+
+          <Urls subject={kanji} />
         </ul>
       </div>
       <Handle type="source" position={Position.Top} hidden={true} />

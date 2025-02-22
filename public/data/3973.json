@@ -20,6 +20,20 @@
     "しおみ"
   ],
   "urls": {
-    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A1%A9%E5%91%B3"
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A1%A9%E5%91%B3",
+    "graph": "/v/vocabulary/3973"
+  },
+  "related": {
+    "radicals": [
+      17,
+      8762,
+      16,
+      84,
+      134
+    ],
+    "kanjis": [
+      1002,
+      812
+    ]
   }
 }

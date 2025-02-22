@@ -13,7 +13,7 @@ const documents = avroType.fromBuffer(Buffer.from(searchData)) as SearchResult[]
 
 const miniSearch = new MiniSearch<SearchResult>({
   fields: ['primarySearch', 'secondarySearch'],
-  storeFields: ['id', 'type', 'level', 'characters', 'description', 'related'], // fields to return with search results
+  storeFields: ['id', 'type', 'level', 'characters', 'description', 'related'], 
   searchOptions: {
     boost: { primarySearch: 2 }
   }
@@ -21,10 +21,29 @@ const miniSearch = new MiniSearch<SearchResult>({
 
 miniSearch.addAll(documents)
 
-export type KanjiView = {
-  kanji: KanjiSubject,
-  relatedRadicals: RadicalSubject[],
+export type View = {
+  radicals: RadicalSubject[],
+  kanjis: KanjiSubject[],
+  vocabularies: VocabularySubject[]
+};
+
+
+export type RadicalView = {
+  radical: RadicalSubject,
+  relatedKanji: KanjiSubject[],
   relatedVocabulary: VocabularySubject[]
+};
+
+export type KanjiView = {
+  relatedRadicals: RadicalSubject[],
+  kanji: KanjiSubject,
+  relatedVocabulary: VocabularySubject[]
+};
+
+export type VocabularyView = {
+  relatedRadicals: RadicalSubject[],
+  relatedKanji: KanjiSubject[]
+  vocabulary: VocabularySubject,
 };
 
 class Db {
@@ -47,16 +66,42 @@ class Db {
     });
   }
 
-  public async kanjiView(id: number): Promise<KanjiView> {
+  public async radicalView(id: number): Promise<View> {
+    const radical = await loadId(id) as RadicalSubject;
+    const kanjiPromises = radical.related.kanjis.map(loadId);
+    const vocabularyPromises = radical.related.vocabularies.map(loadId);
+    const [kanjis, vocabularies] = await Promise.all([Promise.all(kanjiPromises), Promise.all(vocabularyPromises)]);
+  
+    return {
+      radicals: [radical], 
+      kanjis: kanjis as KanjiSubject[],
+      vocabularies: vocabularies as VocabularySubject[]
+    };
+  }
+
+  public async kanjiView(id: number): Promise<View> {
     const kanji = await loadId(id) as KanjiSubject;
     const radicalPromises = kanji.related.radicals.map(loadId);
     const vocabularyPromises = kanji.related.vocabularies.map(loadId);
     const [radicals, vocabularies] = await Promise.all([Promise.all(radicalPromises), Promise.all(vocabularyPromises)]);
   
     return {
-      kanji, 
-      relatedRadicals: radicals as RadicalSubject[],
-      relatedVocabulary: vocabularies as VocabularySubject[]
+      kanjis: [kanji], 
+      radicals: radicals as RadicalSubject[],
+      vocabularies: vocabularies as VocabularySubject[]
+    };
+  }
+
+  public async vocabularyView(id: number): Promise<View> {
+    const vocabulary = await loadId(id) as VocabularySubject;
+    const radicalPromises = vocabulary.related.radicals.map(loadId);
+    const kanjiPromises = vocabulary.related.kanjis.map(loadId);
+    const [radicals, kanjis] = await Promise.all([Promise.all(radicalPromises), Promise.all(kanjiPromises)]);
+  
+    return {
+      vocabularies: [vocabulary], 
+      radicals: radicals as RadicalSubject[],
+      kanjis: kanjis as KanjiSubject[]
     };
   }
 
