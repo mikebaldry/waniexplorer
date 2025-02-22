@@ -18,7 +18,6 @@ let miniSearch = new MiniSearch<SearchResult>({
   }
 })
 
-
 miniSearch.addAll(documents)
 
 export type KanjiResult = SearchResult & {
