@@ -58,5 +58,11 @@ export type VocabularySubject = BasicSubject & {
   related: {
     radicals: number[],
     kanjis: number[]
-  }
+  },
+  readingAudio: VocabularyReadingAudio[]
+}
+
+export type VocabularyReadingAudio = {
+  reading: string,
+  url: string
 }

@@ -3,6 +3,7 @@ import * as DB from "../db/subjects";
 import { SearchDocument, SearchResultType } from "../db/search_result";
 import uniq from "lodash-es/uniq";
 import { CharactersType, TextCharacters } from "../db/characters";
+import groupBy from "lodash-es/groupBy";
 
 export default async function handle(subject: WK.VocabularySubject, subjectsById: Record<number, WK.Subject>): Promise<[SearchDocument, DB.VocabularySubject]> {
   const primaryMeaning = subject.data.meanings.find((m) => m.primary);
@@ -39,6 +40,19 @@ export default async function handle(subject: WK.VocabularySubject, subjectsById
     }
   };
 
+  const readingAudio: DB.VocabularyReadingAudio[] = [];
+  const audioByReading = groupBy(subject.data.pronunciation_audios, (pa) => pa.metadata.pronunciation);
+  Object.entries(audioByReading).forEach(([reading, audios]) => {
+    const bestAudio = audios.find((a) => a.content_type === "audio/mpeg") || audios.find((a) => a.content_type === "audio/ogg");
+
+    if (bestAudio) {
+      readingAudio.push({
+        reading: reading,
+        url: bestAudio.url,
+      })
+    }
+  });
+
   const dbSubject: DB.VocabularySubject = {
     id: subject.id,
     type: DB.SubjectType.VOCABULARY,
@@ -54,7 +68,8 @@ export default async function handle(subject: WK.VocabularySubject, subjectsById
     related: {
       radicals: relatedRadicalIds,
       kanjis: relatedKanjiIds
-    }
+    },
+    readingAudio
   };
   
 

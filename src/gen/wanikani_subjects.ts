@@ -73,7 +73,19 @@ export type VocabularySubject = {
     meaning_mnemonic: string,
     readings: Reading[],
     reading_mnemonic: string,
-    component_subject_ids: number[]
+    component_subject_ids: number[],
+    pronunciation_audios: PronunciationAudio[]
+  }
+}
+
+export type PronunciationAudio = {
+  url: string,
+  content_type: string,
+  metadata: {
+    gender: string,
+    pronunciation: string,
+    voice_actor_name: string,
+    voice_description: string
   }
 }
 

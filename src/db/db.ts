@@ -2,7 +2,7 @@ import SubjectMap from "virtual:subject_map";
 
 import { SearchResult } from "./search_result";
 export type { SearchResult } from "./search_result";
-import { compact } from "lodash-es";
+import compact from "lodash-es/compact";
 import MiniSearch, { Query } from "minisearch";
 import { toKana, tokenize } from "wanakana";
 import { KanjiSubject, RadicalSubject, Subject, VocabularySubject } from "./subjects";
