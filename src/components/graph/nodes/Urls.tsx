@@ -40,7 +40,7 @@ function wkUrl(subject: BasicSubject): string {
 }
 
 function graphUrl(subject: BasicSubject): string {
-  return `/v/${subject.type}/${subject.id}`;
+  return `/${subject.type}/${subject.id}`;
 }
 
 function makeJishoUrl(subject: BasicSubject): string | undefined {

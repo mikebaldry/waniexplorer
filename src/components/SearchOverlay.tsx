@@ -53,7 +53,7 @@ function SearchOverlay() {
   }, [setOpen, handleClear]);
 
   const handleOpenResult = useCallback((searchResult: SearchResult) => {
-    navigate(`/v/${searchResult.type}/${searchResult.id}`);
+    navigate(`/${searchResult.type}/${searchResult.id}`);
     handleClose();
   }, [navigate, handleClose]);
 
