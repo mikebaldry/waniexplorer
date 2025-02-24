@@ -44,9 +44,7 @@ class Db {
   }
 
   public async search(query: string): Promise<SearchResult[]> {
-    const [queryExpression, queryString] = this.buildSearchQuery(query)
-
-    console.debug("query", queryExpression, queryString);
+    const [queryExpression] = this.buildSearchQuery(query)
 
     const miniSearch = await this._miniSearch;
     const results = miniSearch.search(queryExpression, { prefix: true, combineWith: "AND" }).slice(0, 15);
