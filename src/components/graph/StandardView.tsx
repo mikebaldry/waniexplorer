@@ -1,7 +1,7 @@
 import { useCallback, useEffect, useMemo } from "react";
 import { View } from "../../db/db";
 
-import { Background, ReactFlow, Node, useNodesState, NodeChange, useReactFlow, NodeSelectionChange, Controls } from '@xyflow/react';
+import { Background, ReactFlow, Node, useNodesState, NodeChange, useReactFlow, Controls } from '@xyflow/react';
 import '@xyflow/react/dist/style.css';
 import useGraphLayout from "./graphLayout";
 import KanjiNode from "./nodes/KanjiNode";
@@ -43,15 +43,6 @@ const StandardView = ({ view, primarySubjectId, ordering }: StandardViewProps) =
       })
       return;
     }
-
-    const sel = changes.find((nc) => nc.type === "select" && nc.selected == true) as NodeSelectionChange | undefined;
-    if (sel) {
-      requestAnimationFrame(() => {
-        fitView({ nodes: [ { id: sel.id }], duration: 500 });
-      })
-      return;
-    }
-
   }, [fitView, nodes, onNodesChange]);
 
   useGraphLayout({ ordering });

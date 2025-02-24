@@ -65,6 +65,14 @@ function SearchOverlay() {
     }
   }, [handleClose]);
 
+  const handleToggle = useCallback(() => {
+    if (open) {
+      handleClose()
+    } else {
+      handleOpen();
+    }
+  }, [open, handleOpen, handleClose]);
+
   const handleKeyDown: KeyboardEventHandler<HTMLInputElement> = useCallback((e) => {
     const looper = (x: number, m: number) => ((x % m) + m) % m;
     if (e.key === 'ArrowDown') {
@@ -103,7 +111,7 @@ function SearchOverlay() {
 
   return (
     <div className={styles.container}>
-        {!open && <FloatingSearchButton onClick={handleOpen}/>}
+        <FloatingSearchButton onClick={handleToggle} showKanji={open} />
 
         {open && (
           <div className={styles.backdrop} onClick={handleClickBackdrop}>
