@@ -1,0 +1,34 @@
+{
+  "id": 2675,
+  "type": "vocabulary",
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "元気"
+  },
+  "primaryMeaning": "Energy",
+  "meaningMnemonic": "What is the <kanji>origin</kanji> of your <kanji>energy</kanji>? It is your <vocabulary>health</vocabulary>. This word also means <vocabulary>energy</vocabulary>, and when it's used as an adjective it means <vocabulary>healthy</vocabulary> or <vocabulary>energetic</vocabulary>.",
+  "primaryReading": "げんき",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Health",
+    "Energetic",
+    "Healthy"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%85%83%E6%B0%97",
+    "graph": "/v/vocabulary/2675"
+  },
+  "related": {
+    "radicals": [
+      64,
+      82,
+      31
+    ],
+    "kanjis": [
+      498,
+      548
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 4389,
+  "type": "vocabulary",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "混む"
+  },
+  "primaryMeaning": "To Be Crowded",
+  "meaningMnemonic": "This one is a little strange. You have 混じる (to get mixed up in), 混ぜる (to mix), 混ざる (to get mixed), and now this: 混む, <vocabulary>to be crowded</vocabulary>. It makes sense that when everyone's all mixed up it's going to be crowded, but how to differentiate between this and the other 混 words? Just think of how cows <reading>muuuuu</reading> (む) get all bunched up and crowded, which is why this word is <vocabulary>to be crowded</vocabulary>.",
+  "primaryReading": "こむ",
+  "readingMnemonic": "Hey, <reading>come</reading> (こむ) out of that crowd of cows. It's going <vocabulary>to be crowded</vocabulary> in there.",
+  "otherMeanings": [
+    "To Be Packed"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B7%B7%E3%82%80",
+    "graph": "/v/vocabulary/4389"
+  },
+  "related": {
+    "radicals": [
+      103,
+      22,
+      161
+    ],
+    "kanjis": [
+      1078
+    ]
+  }
+}

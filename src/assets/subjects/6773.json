@@ -1,0 +1,30 @@
+{
+  "id": 6773,
+  "type": "vocabulary",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "竜巻"
+  },
+  "primaryMeaning": "Tornado",
+  "meaningMnemonic": "A <kanji>dragon</kanji> <kanji>scroll</kanji> is a dragon that's shaped kind of like a scroll, spinning around. This is a <vocabulary>tornado</vocabulary>.",
+  "primaryReading": "たつまき",
+  "readingMnemonic": "The reading is the kun'yomi readings of the kanji. For 竜 just think about how it's a <reading>stand</reading>ing (立つ) dragon, because it would have to be if it's a <vocabulary>tornado</vocabulary>. Your まき reading comes from 巻く, but the kana is pushed into the kanji.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%AB%9C%E5%B7%BB",
+    "graph": "/v/vocabulary/6773"
+  },
+  "related": {
+    "radicals": [
+      394,
+      8819,
+      228
+    ],
+    "kanjis": [
+      1873,
+      1273
+    ]
+  }
+}

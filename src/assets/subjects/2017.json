@@ -1,0 +1,36 @@
+{
+  "id": 2017,
+  "type": "kanji",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "鉢"
+  },
+  "primaryReading": "はち",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "はち",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Bowl",
+  "otherMeanings": [],
+  "meaningMnemonic": "Cast a <radical>book</radical> in <radical>gold</radical> to make a <kanji>bowl</kanji>. Books can be bent into the shape of a bowl, so then all you have to do is pour gold over it to keep it in that shape and ta-da! A bowl has been born!",
+  "readingMnemonic": "The gold <kanji>bowl</kanji> has a <reading>hatch</reading> (はち) attached to it, which used to be the book's back cover. That's fine, you use the hatch as a lid for the bowl!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%89%A2",
+    "graph": "/v/kanji/2017"
+  },
+  "related": {
+    "radicals": [
+      118,
+      50
+    ],
+    "vocabularies": [
+      7175,
+      7176,
+      7177
+    ]
+  }
+}

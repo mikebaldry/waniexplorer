@@ -1,0 +1,31 @@
+{
+  "id": 3986,
+  "type": "vocabulary",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "干天"
+  },
+  "primaryMeaning": "Dry Weather",
+  "meaningMnemonic": "Remember how 天気 is weather (and how 天 often refers to sky things?). Well, when those sky things are dry, you have <vocabulary>dry weather</vocabulary>.\n\nNote that 干天 is quite old-fashioned and you'll find it mainly in formal writing and advanced set expressions.",
+  "primaryReading": "かんてん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Drought"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%B9%B2%E5%A4%A9",
+    "graph": "/v/vocabulary/3986"
+  },
+  "related": {
+    "radicals": [
+      61,
+      40
+    ],
+    "kanjis": [
+      1014,
+      473
+    ]
+  }
+}

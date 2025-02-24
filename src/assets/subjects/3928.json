@@ -1,0 +1,35 @@
+{
+  "id": 3928,
+  "type": "vocabulary",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "不合格"
+  },
+  "primaryMeaning": "Fail A Test",
+  "meaningMnemonic": "You know that 合格する is \"to pass a test,\" so what's the opposite of that? <vocabulary>Fail a test</vocabulary> or <vocabulary>failure</vocabulary>.",
+  "primaryReading": "ふごうかく",
+  "readingMnemonic": "If you know the reading for 合格, all you have to do is add 不 to it! You've learned all these readings, yay!",
+  "otherMeanings": [
+    "Failure",
+    "Rejection"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B8%8D%E5%90%88%E6%A0%BC",
+    "graph": "/v/vocabulary/3928"
+  },
+  "related": {
+    "radicals": [
+      96,
+      216,
+      23,
+      180
+    ],
+    "kanjis": [
+      563,
+      852,
+      920
+    ]
+  }
+}

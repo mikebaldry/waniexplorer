@@ -1,0 +1,44 @@
+{
+  "id": 961,
+  "type": "kanji",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "曜"
+  },
+  "primaryReading": "よう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "よう",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Weekday",
+  "otherMeanings": [
+    "Day Of The Week"
+  ],
+  "meaningMnemonic": "As the <radical>sun</radical> rises over the hills, the ferocious <radical>wolverine</radical> stalks a <radical>turkey</radical> on a <kanji>weekday</kanji> morning. The wolverine hunts turkeys for a living, but on the weekends, he likes to play racquetball at the local gym. That’s why the turkey is getting hunted on a weekday.",
+  "readingMnemonic": "This wolverine has a strange palate, however. It likes to turn its turkey into turkey <reading>yo</reading>gurt (よう). After the hunt every <kanji>weekday</kanji>, the wolverine spends the evening turning the turkey meat into a strange, thick and chunky, turkey yogurt.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%9B%9C",
+    "graph": "/v/kanji/961"
+  },
+  "related": {
+    "radicals": [
+      22,
+      105,
+      240
+    ],
+    "vocabularies": [
+      3948,
+      4054,
+      4055,
+      4056,
+      4057,
+      4058,
+      4361,
+      4362
+    ]
+  }
+}

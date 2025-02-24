@@ -1,0 +1,30 @@
+{
+  "id": 3652,
+  "type": "vocabulary",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "山登り"
+  },
+  "primaryMeaning": "Mountain Climbing",
+  "meaningMnemonic": "You've hopefully seen how 登る means \"to climb.\" So, if you're <kanji>climb</kanji>ing a <kanji>mountain</kanji> what is that? It's <vocabulary>mountain climbing</vocabulary>.\n\nIn case you're wondering what the difference is between this and 登山, they are essentially the same. The main difference is that 山登り is a little less formal, and is generally used as a standalone word, whereas 登山 can be used in compound words like 登山家 (mountaineer).",
+  "primaryReading": "やまのぼり",
+  "readingMnemonic": "The reading comes from combining 山 and 登る together to form one word, 山登り. If you know the readings of those two words you know the reading of this word too.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%B1%B1%E7%99%BB%E3%82%8A",
+    "graph": "/v/vocabulary/3652"
+  },
+  "related": {
+    "radicals": [
+      20,
+      168,
+      181
+    ],
+    "kanjis": [
+      455,
+      845
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": 830,
+  "type": "kanji",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "族"
+  },
+  "primaryReading": "ぞく",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ぞく",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Tribe",
+  "otherMeanings": [
+    "Family"
+  ],
+  "meaningMnemonic": "If someone is headed in your <radical>direction</radical> with a <radical>gun</radical>, nock an <radical>arrow</radical> in your bow and gather your <kanji>tribe</kanji> behind you because it’s about to get real! This man with a gun is headed your direction and he doesn’t even know what you and your tribe are gonna do to him. If he gets any closer, you’re likely to shoot that arrow right at him.",
+  "readingMnemonic": "When he starts to get closer, you notice that this guy is a boso<reading>zoku</reading> (ぞく) bike gang member. Bosozoku means “running <kanji>tribe</kanji>” and this guy is running right at you. With a gun. So gather your own tribe behind you and prepare to defend yourself against this bosozoku member.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%97%8F",
+    "graph": "/v/kanji/830"
+  },
+  "related": {
+    "radicals": [
+      66,
+      8762,
+      72
+    ],
+    "vocabularies": [
+      3361,
+      3362,
+      3363,
+      4399,
+      5663,
+      5750
+    ]
+  }
+}

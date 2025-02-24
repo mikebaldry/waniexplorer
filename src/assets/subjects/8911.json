@@ -1,0 +1,49 @@
+{
+  "id": 8911,
+  "type": "kanji",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "鮭"
+  },
+  "primaryReading": "さけ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "さけ",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "しゃけ",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "かい",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "けい",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Salmon",
+  "otherMeanings": [],
+  "meaningMnemonic": "What kind of <radical>fish</radical> jumps from <radical>dirt</radical> to <radical>dirt</radical>? A <kanji>salmon</kanji>!",
+  "readingMnemonic": "You make a drinking game out of watching the <kanji>salmon</kanji> going up stream. Every time one jumps onto the dirt, you drink a shot of <reading>酒</reading> (さけ). You realize you're drunk when you ask for more さけ but it comes out as <reading>しゃけ</reading>.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%AE%AD",
+    "graph": "/v/kanji/8911"
+  },
+  "related": {
+    "radicals": [
+      150,
+      17
+    ],
+    "vocabularies": [
+      8918
+    ]
+  }
+}

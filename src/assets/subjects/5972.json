@@ -1,0 +1,36 @@
+{
+  "id": 5972,
+  "type": "vocabulary",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "債権"
+  },
+  "primaryMeaning": "Credit",
+  "meaningMnemonic": "Your <kanji>debt</kanji> <kanji>rights</kanji> state that you have a certain amount of <vocabulary>credit</vocabulary> with your bank. And if they try to say you don't have that credit you can file a <vocabulary>claim</vocabulary> against them!",
+  "primaryReading": "さいけん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Claim",
+    "Debt",
+    "Liabilities"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%82%B5%E6%A8%A9",
+    "graph": "/v/vocabulary/5972"
+  },
+  "related": {
+    "radicals": [
+      75,
+      321,
+      23,
+      72,
+      240
+    ],
+    "kanjis": [
+      1618,
+      1134
+    ]
+  }
+}

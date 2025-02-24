@@ -1,0 +1,32 @@
+{
+  "id": 3790,
+  "type": "vocabulary",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "合計"
+  },
+  "primaryMeaning": "Total",
+  "meaningMnemonic": "When you <kanji>join</kanji> all your <kanji>measure</kanji>ments together you have yourself a <vocabulary>total</vocabulary>.",
+  "primaryReading": "ごうけい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Sum"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%90%88%E8%A8%88",
+    "graph": "/v/vocabulary/3790"
+  },
+  "related": {
+    "radicals": [
+      216,
+      117,
+      15
+    ],
+    "kanjis": [
+      852,
+      935
+    ]
+  }
+}

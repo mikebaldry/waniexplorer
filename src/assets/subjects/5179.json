@@ -1,0 +1,35 @@
+{
+  "id": 5179,
+  "type": "vocabulary",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "移民"
+  },
+  "primaryMeaning": "Immigration",
+  "meaningMnemonic": "When you’re <kanji>shift</kanji>ing <kanji>peoples</kanji>, you’re causing either <vocabulary>immigration</vocabulary> or <vocabulary>emigration</vocabulary>, which leads to… <vocabulary>immigrant</vocabulary>s, or <vocabulary>emigrant</vocabulary>s.",
+  "primaryReading": "いみん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Emigration",
+    "Immigrant",
+    "Emigrant"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%A7%BB%E6%B0%91",
+    "graph": "/v/vocabulary/5179"
+  },
+  "related": {
+    "radicals": [
+      135,
+      33,
+      16,
+      147
+    ],
+    "kanjis": [
+      1368,
+      650
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": 484,
+  "type": "kanji",
+  "level": 2,
+  "characters": {
+    "type": "text",
+    "value": "右"
+  },
+  "primaryReading": "ゆう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ゆう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "う",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "みぎ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Right",
+  "otherMeanings": [],
+  "meaningMnemonic": "<radical>Narwhal</radical> <radical>mouth</radical>s are on the <kanji>right</kanji> side of their head. In fact, some people didn't think they had mouths at all because they weren't looking from the right. Rookie mistake.\n\nSee how the \"mouth\" radical is to the right of the \"narwhal\" radical? That should help you remember that this means <kanji>right</kanji>.",
+  "readingMnemonic": "How did we know to look from the <kanji>right</kanji>, though? Because the <reading>you</reading>ths (ゆう) figured it out. Youths think in ways that older people usually don't. That's why they can see the swirls on cereal, hear the music behind noise, and of course, look at things from the right side.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%8F%B3",
+    "graph": "/v/kanji/484"
+  },
+  "related": {
+    "radicals": [
+      26,
+      16
+    ],
+    "vocabularies": [
+      2559,
+      2560,
+      3574,
+      3953,
+      6779,
+      8693,
+      8717
+    ]
+  }
+}

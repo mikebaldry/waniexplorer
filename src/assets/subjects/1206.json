@@ -1,0 +1,59 @@
+{
+  "id": 1206,
+  "type": "kanji",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "優"
+  },
+  "primaryReading": "ゆう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ゆう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "やさ",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "すぐ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Superior",
+  "otherMeanings": [
+    "Gentle"
+  ],
+  "meaningMnemonic": "The <radical>leader</radical> of a <radical>hundred</radical> <radical>forehead</radical>s in the <radical>heart</radical> of <radical>winter</radical> is <kanji>superior</kanji> at being <kanji>gentle</kanji>. These hundred foreheads are sensitive, especially in the heart of winter, so the leader must be very gentle. Not just any kind of gentle though—the superior kind of gentle that will keep a hundred foreheads following.",
+  "readingMnemonic": "You need to be <kanji>superior</kanji> because all of these foreheads belong to <reading>you</reading>ths (ゆう). They don't know how to take care of themselves, though they try to convince you they can. They're too young to know any better.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%84%AA",
+    "graph": "/v/kanji/1206"
+  },
+  "related": {
+    "radicals": [
+      75,
+      239,
+      76,
+      65,
+      60
+    ],
+    "vocabularies": [
+      4632,
+      4633,
+      4634,
+      4635,
+      4650,
+      4653,
+      4872,
+      6453,
+      7936,
+      8154,
+      8809
+    ]
+  }
+}

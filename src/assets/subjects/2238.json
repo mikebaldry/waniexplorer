@@ -1,0 +1,48 @@
+{
+  "id": 2238,
+  "type": "kanji",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "粛"
+  },
+  "primaryReading": "しゅく",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "しゅく",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "すく",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "つつし",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Solemn",
+  "otherMeanings": [],
+  "meaningMnemonic": "A <radical>wolverine</radical> that <radical>stick</radical>s its <radical>legs</radical> in <radical>rice</radical> will become very <kanji>solemn</kanji>, very fast. This is weird to you because wolverines always seem so happy. Well his dad died from his legs getting stuck in rice, so just leave the poor solemn creature alone.",
+  "readingMnemonic": "Remember how <kanji>solemn</kanji> wolverine looked when his dad died? You hated seeing him like this so you ran up and <reading>shook</reading> (しゅく) him. You shook the solemn sadness right out of him! You should do that again now!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%B2%9B",
+    "graph": "/v/kanji/2238"
+  },
+  "related": {
+    "radicals": [
+      105,
+      8761,
+      28,
+      98
+    ],
+    "vocabularies": [
+      8129,
+      8130,
+      8131
+    ]
+  }
+}

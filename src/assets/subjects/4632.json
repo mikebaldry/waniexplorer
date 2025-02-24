@@ -1,0 +1,35 @@
+{
+  "id": 4632,
+  "type": "vocabulary",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "優しい"
+  },
+  "primaryMeaning": "Gentle",
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>gentle</kanji>? It's <vocabulary>gentle</vocabulary> (but also <vocabulary>kind</vocabulary> or <vocabulary>warm hearted</vocabulary>).",
+  "primaryReading": "やさしい",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: What do people who are <vocabulary>gentle</vocabulary> and <vocabulary>kind</vocabulary> say when someone asks of them a favor? Always \"<reading>yessir</reading>\" (やさ). Always, always \"yessir\"!",
+  "otherMeanings": [
+    "Kind",
+    "Warm Hearted",
+    "Nice"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%84%AA%E3%81%97%E3%81%84",
+    "graph": "/v/vocabulary/4632"
+  },
+  "related": {
+    "radicals": [
+      75,
+      239,
+      76,
+      65,
+      60
+    ],
+    "kanjis": [
+      1206
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 2254,
+  "type": "kanji",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "茎"
+  },
+  "primaryReading": "くき",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "くき",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "きょう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "けい",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Stem",
+  "otherMeanings": [],
+  "meaningMnemonic": "When you leave <radical>flowers</radical> on a <radical>tombstone</radical> they look good at first, but after a few days or some harsh weather, there's nothing left but <kanji>stem</kanji>s. That's why you have to replace flowers on tombstones all the time. If you don't it will look like you only left the stems there, and that's pretty disrespectful.",
+  "readingMnemonic": "You have an idea that can make these tombstones look better than just having leftover <kanji>stem</kanji>s all over them. You brought <reading>cookie</reading>s (くき)! Cookies don't fall apart in the wind, and everyone loves cookies, alive or dead. You replace the stems with the cookies and everything looks a lot nicer.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%8C%8E",
+    "graph": "/v/kanji/2254"
+  },
+  "related": {
+    "radicals": [
+      90,
+      179
+    ],
+    "vocabularies": [
+      8138
+    ]
+  }
+}

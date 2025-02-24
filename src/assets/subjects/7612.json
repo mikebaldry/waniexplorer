@@ -1,0 +1,32 @@
+{
+  "id": 7612,
+  "type": "vocabulary",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "縁"
+  },
+  "primaryMeaning": "Edge",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "ふち",
+  "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You did not learn this reading, so here's a mnemonic to help you: \n\nThe <vocabulary>edge</vocabulary> of the cheese is what we call the <reading>foo</reading>l (ふ) <reading>chee</reading>se (ち) because nobody wants that part.",
+  "otherMeanings": [
+    "Rim",
+    "Brim"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%B8%81",
+    "graph": "/v/vocabulary/7612"
+  },
+  "related": {
+    "radicals": [
+      86,
+      105,
+      233
+    ],
+    "kanjis": [
+      1874
+    ]
+  }
+}

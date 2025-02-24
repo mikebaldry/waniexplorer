@@ -1,0 +1,32 @@
+{
+  "id": 4823,
+  "type": "vocabulary",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "一巻"
+  },
+  "primaryMeaning": "One Volume",
+  "meaningMnemonic": "<kanji>One</kanji> <kanji>scroll</kanji> is one scroll back in the day, but now it refers to books and means <vocabulary>one volume</vocabulary>.",
+  "primaryReading": "いっかん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. いち goes to いっ.",
+  "otherMeanings": [
+    "First Volume"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B8%80%E5%B7%BB",
+    "graph": "/v/vocabulary/4823"
+  },
+  "related": {
+    "radicals": [
+      1,
+      8819,
+      228
+    ],
+    "kanjis": [
+      440,
+      1273
+    ]
+  }
+}

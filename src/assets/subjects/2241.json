@@ -1,0 +1,41 @@
+{
+  "id": 2241,
+  "type": "kanji",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "践"
+  },
+  "primaryReading": "せん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "せん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ふ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Practice",
+  "otherMeanings": [
+    "Trample"
+  ],
+  "meaningMnemonic": "You put your <radical>foot</radical> on the <radical>bar</radical> at the gymnasium at your very first <kanji>practice</kanji>. That's a big accomplishment since you're here learning how to walk on that long bar like all the cool gymnasts. But you can't just start right away, you need lots of practice so that's why you're here in this class. But so far you got your foot on the bar already, good for you!",
+  "readingMnemonic": "This type of <kanji>practice</kanji> is especially hard for you because you're a <reading>cen</reading>taur (せん). You only have hooves for feet, and balancing on a bar is going to be a huge hurdle. But your teacher promised if you practiced enough you could make it, and here you are! With your hoofed foot on the bar!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%B7%B5",
+    "graph": "/v/kanji/2241"
+  },
+  "related": {
+    "radicals": [
+      95,
+      8782
+    ],
+    "vocabularies": [
+      8148
+    ]
+  }
+}

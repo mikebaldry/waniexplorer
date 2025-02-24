@@ -1,0 +1,34 @@
+{
+  "id": 8306,
+  "type": "vocabulary",
+  "level": 56,
+  "characters": {
+    "type": "text",
+    "value": "穀類"
+  },
+  "primaryMeaning": "Grains",
+  "meaningMnemonic": "<kanji>Grain</kanji>s are <kanji>type</kanji>s of <vocabulary>grains</vocabulary>! You thought they would be something else? Nope. Grains are pretty boring.",
+  "primaryReading": "こくるい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%A9%80%E9%A1%9E",
+    "graph": "/v/vocabulary/8306"
+  },
+  "related": {
+    "radicals": [
+      97,
+      76,
+      135,
+      160,
+      98,
+      18,
+      184
+    ],
+    "kanjis": [
+      2304,
+      1034
+    ]
+  }
+}

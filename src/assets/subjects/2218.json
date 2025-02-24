@@ -1,0 +1,47 @@
+{
+  "id": 2218,
+  "type": "kanji",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "瓜"
+  },
+  "primaryReading": "か",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "か",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "け",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "うり",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Melon",
+  "otherMeanings": [],
+  "meaningMnemonic": "The <radical>melon</radical> radical and the <kanji>melon</kanji> kanji are exactly the same! Wahoo!",
+  "readingMnemonic": "What's the best use for a <kanji>melon</kanji>? Not eating it, but running over it in your <reading>ca</reading>r (か)! Melons make a nice big splat sound when you drive over them, and that's what you plan to do to every melon you see.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%93%9C",
+    "graph": "/v/kanji/2218"
+  },
+  "related": {
+    "radicals": [
+      384
+    ],
+    "vocabularies": [
+      8006,
+      8007,
+      8026,
+      8222,
+      8223
+    ]
+  }
+}

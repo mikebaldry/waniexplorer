@@ -1,0 +1,39 @@
+{
+  "id": 2319,
+  "type": "kanji",
+  "level": 56,
+  "characters": {
+    "type": "text",
+    "value": "靖"
+  },
+  "primaryReading": "やす",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "やす",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "せい",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Peaceful",
+  "otherMeanings": [],
+  "meaningMnemonic": "<radical>Stand</radical> staring up at the <radical>blue</radical> sky and you'll feel more <kanji>peaceful</kanji> than you ever have. Blue is a color that promotes peaceful thoughts and feelings. That's why all the social media sites are blue. To stop you from being a jerk.",
+  "readingMnemonic": "Now if someone asks you if the color blue makes you <kanji>peaceful</kanji> you should say \"<reading>YAASS</reading> (やす)!\" And you'll have us to thank for that! All those peaceful blue radicals. They're the easiest thing on the site, and if someone asks you if radicals make you feel peaceful say \"YAASS\" again!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%9D%96",
+    "graph": "/v/kanji/2319"
+  },
+  "related": {
+    "radicals": [
+      55,
+      120
+    ],
+    "vocabularies": [
+      8337
+    ]
+  }
+}

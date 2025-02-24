@@ -1,0 +1,30 @@
+{
+  "id": 3754,
+  "type": "vocabulary",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "岩"
+  },
+  "primaryMeaning": "Boulder",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "いわ",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji, so you can read this one!",
+  "otherMeanings": [
+    "Rock"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%B2%A9",
+    "graph": "/v/vocabulary/3754"
+  },
+  "related": {
+    "radicals": [
+      20,
+      54
+    ],
+    "kanjis": [
+      929
+    ]
+  }
+}

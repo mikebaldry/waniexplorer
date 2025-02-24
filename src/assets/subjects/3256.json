@@ -1,0 +1,32 @@
+{
+  "id": 3256,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "一位"
+  },
+  "primaryMeaning": "First Place",
+  "meaningMnemonic": "When you are number <kanji>one</kanji> in <kanji>rank</kanji>, you're in <vocabulary>first place</vocabulary>.",
+  "primaryReading": "いちい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "First Rank"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B8%80%E4%BD%8D",
+    "graph": "/v/vocabulary/3256"
+  },
+  "related": {
+    "radicals": [
+      1,
+      75,
+      55
+    ],
+    "kanjis": [
+      440,
+      782
+    ]
+  }
+}

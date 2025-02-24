@@ -1,0 +1,34 @@
+{
+  "id": 6332,
+  "type": "vocabulary",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "項目"
+  },
+  "primaryMeaning": "Item",
+  "meaningMnemonic": "You need to go through a <kanji>paragraph</kanji> in chunks that you can easily see with your <kanji>eye</kanji> so you break it up by <vocabulary>item</vocabulary>.",
+  "primaryReading": "こうもく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. Here's a mnemonic to help you out with 目. If you can't see this <vocabulary>item</vocabulary> in the paragraph with your eye, someone will <reading>mock</reading> (もく) you for sure.",
+  "otherMeanings": [
+    "Entry",
+    "Clause",
+    "Data Item"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%A0%85%E7%9B%AE",
+    "graph": "/v/vocabulary/6332"
+  },
+  "related": {
+    "radicals": [
+      25,
+      184,
+      53
+    ],
+    "kanjis": [
+      1740,
+      492
+    ]
+  }
+}

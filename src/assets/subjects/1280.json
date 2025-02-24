@@ -1,0 +1,45 @@
+{
+  "id": 1280,
+  "type": "kanji",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "居"
+  },
+  "primaryReading": "きょ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "きょ",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "い",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Alive",
+  "otherMeanings": [],
+  "meaningMnemonic": "The <radical>flag</radical> is <radical>old</radical> but that doesn't mean it's not still <kanji>alive</kanji>. This is a living flag, and it gets old just like other living things.",
+  "readingMnemonic": "The flag that is old and <kanji>alive</kanji> is actually a Buddhist relic (that's why it's alive, in fact ... and old!). But, it's a really dumb relic, so it's put in Little <reading>Kyo</reading>to (きょ).",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%B1%85",
+    "graph": "/v/kanji/1280"
+  },
+  "related": {
+    "radicals": [
+      37,
+      69
+    ],
+    "vocabularies": [
+      4835,
+      4885,
+      5103,
+      5104,
+      7603,
+      7718,
+      9064
+    ]
+  }
+}

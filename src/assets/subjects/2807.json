@@ -1,0 +1,34 @@
+{
+  "id": 2807,
+  "type": "vocabulary",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "体力"
+  },
+  "primaryMeaning": "Physical Strength",
+  "meaningMnemonic": "You have your <kanji>body</kanji> <kanji>power</kanji>. This is just another way to say <vocabulary>physical strength</vocabulary>. Watch out, if you use too much of your physical strength you may run out of physical <vocabulary>stamina</vocabulary> and <vocabulary>endurance</vocabulary> completely! They're tied together, so make sure to pace yourself.",
+  "primaryReading": "たいりょく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 力 has two on'yomi readings, here's a mnemonic to help you remember which one to use:\n\nYour <vocabulary>physical strength</vocabulary> and <vocabulary>stamina</vocabulary> are tied together with a <reading>tie</reading> <reading>lock</reading> (たいりょく). That's a lock made of ties that ties your strength and stamina up together, making it much easier to pace yourself.",
+  "otherMeanings": [
+    "Physical Power",
+    "Stamina",
+    "Endurance"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BD%93%E5%8A%9B",
+    "graph": "/v/vocabulary/2807"
+  },
+  "related": {
+    "radicals": [
+      75,
+      50,
+      13
+    ],
+    "kanjis": [
+      583,
+      447
+    ]
+  }
+}

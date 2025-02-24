@@ -1,0 +1,30 @@
+{
+  "id": 9001,
+  "type": "vocabulary",
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "煎る"
+  },
+  "primaryMeaning": "To Roast",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>roast</kanji>, and the verb version is <vocabulary>to roast</vocabulary> or <vocabulary>to toast</vocabulary>. This verb is most commonly used when referring to dry roasting things like coffee, tea, or beans. ",
+  "primaryReading": "いる",
+  "readingMnemonic": "Do you know what animal likes <vocabulary>to roast</vocabulary> and <vocabulary>to toast</vocabulary> things? <reading>Ea</reading>gles (い)! They're always roasting coffee beans and the like. That's how they stay so alert. ",
+  "otherMeanings": [
+    "To Toast"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%85%8E%E3%82%8B",
+    "graph": "/v/vocabulary/9001"
+  },
+  "related": {
+    "radicals": [
+      8908,
+      131
+    ],
+    "kanjis": [
+      8991
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 2054,
+  "type": "kanji",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "悟"
+  },
+  "primaryReading": "ご",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ご",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "さと",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Comprehension",
+  "otherMeanings": [],
+  "meaningMnemonic": "Your <radical>soul</radical> connects to <radical>five</radical> different <radical>mouths</radical>, enhancing your <kanji>comprehension</kanji>. You can easily comprehend what each of those souls belonging to those mouths wants and feels deep down.",
+  "readingMnemonic": "Your <kanji>comprehension</kanji> is the strongest with the fifth mouth, belonging to <reading>Go</reading>dzilla (ご). You finally get why he wants to destroy buildings and cities.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%82%9F",
+    "graph": "/v/kanji/2054"
+  },
+  "related": {
+    "radicals": [
+      232,
+      39,
+      16
+    ],
+    "vocabularies": [
+      7281,
+      7282
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": 1394,
+  "type": "kanji",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "督"
+  },
+  "primaryReading": "とく",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "とく",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Director",
+  "otherMeanings": [
+    "Supervise"
+  ],
+  "meaningMnemonic": "<radical>Above</radical> you on a <radical>small</radical> <radical>stool</radical> is the <radical>eye</radical> of the one who will <kanji>direct</kanji> and <kanji>supervise</kanji> you at work. He’s really high above you, so all you can see is the glint of his supervising eye. But you can hear him shouting directions clearly, telling you exactly what to do. ",
+  "readingMnemonic": "A man who can <kanji>direct</kanji> others so well must be <reading>Toku</reading>gawa (とく) Ieyasu. Sure enough, when he finally comes down off his stool you see that he’s the ghost of Tokugawa Ieyasu!!! That explains why you could only make out the ghostly gleam of his supervising eye before.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%9D%A3",
+    "graph": "/v/kanji/1394"
+  },
+  "related": {
+    "radicals": [
+      325,
+      35,
+      30,
+      53
+    ],
+    "vocabularies": [
+      5431
+    ]
+  }
+}

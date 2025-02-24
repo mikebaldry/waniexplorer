@@ -1,0 +1,57 @@
+{
+  "id": 500,
+  "type": "kanji",
+  "level": 3,
+  "characters": {
+    "type": "text",
+    "value": "内"
+  },
+  "primaryReading": "ない",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ない",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "うち",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Inside",
+  "otherMeanings": [
+    "Within"
+  ],
+  "meaningMnemonic": "Your <radical>head</radical> has a <radical>person</radical> <kanji>inside</kanji> it!",
+  "readingMnemonic": "You know this kanji means inside, so you can keep thinking about the person that’s inside you, running around. You finally discover him, and try to take him out, but before you can, he pulls out a <reading>kni</reading>fe (ない) and threatens to cut you if you do anything irrational.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%86%85",
+    "graph": "/v/kanji/500"
+  },
+  "related": {
+    "radicals": [
+      29,
+      9
+    ],
+    "vocabularies": [
+      2663,
+      2710,
+      2808,
+      2830,
+      3955,
+      3967,
+      4185,
+      4512,
+      5389,
+      5500,
+      5720,
+      5913,
+      6211,
+      6351,
+      6388,
+      7844,
+      9150
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": 2703,
+  "type": "vocabulary",
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "貝"
+  },
+  "primaryMeaning": "Shell",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "かい",
+  "readingMnemonic": "The reading for this word is the same as the one you learned with the kanji, meaning you should be able to read this already.",
+  "otherMeanings": [
+    "Shellfish",
+    "Clam"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%B2%9D",
+    "graph": "/v/vocabulary/2703"
+  },
+  "related": {
+    "radicals": [
+      94
+    ],
+    "kanjis": [
+      559
+    ]
+  }
+}

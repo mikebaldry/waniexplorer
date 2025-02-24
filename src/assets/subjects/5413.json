@@ -1,0 +1,31 @@
+{
+  "id": 5413,
+  "type": "vocabulary",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "印鑑"
+  },
+  "primaryMeaning": "Seal",
+  "meaningMnemonic": "A <kanji>seal</kanji> <kanji>model</kanji> is the best kind of <vocabulary>seal</vocabulary>, but it's still just a seal.",
+  "primaryReading": "いんかん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%8D%B0%E9%91%91",
+    "graph": "/v/vocabulary/5413"
+  },
+  "related": {
+    "radicals": [
+      8792,
+      145,
+      118,
+      328
+    ],
+    "kanjis": [
+      1283,
+      1450
+    ]
+  }
+}

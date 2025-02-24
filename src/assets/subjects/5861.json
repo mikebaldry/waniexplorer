@@ -1,0 +1,32 @@
+{
+  "id": 5861,
+  "type": "vocabulary",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "遅延"
+  },
+  "primaryMeaning": "Delay",
+  "meaningMnemonic": "I was too <kanji>slow</kanji>, so we'll have to <kanji>prolong</kanji> the time in which this product will come out. This is a <vocabulary>delay</vocabulary> :(",
+  "primaryReading": "ちえん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%81%85%E5%BB%B6",
+    "graph": "/v/vocabulary/5861"
+  },
+  "related": {
+    "radicals": [
+      114,
+      37,
+      136,
+      206,
+      229
+    ],
+    "kanjis": [
+      1579,
+      1426
+    ]
+  }
+}

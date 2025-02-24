@@ -1,0 +1,48 @@
+{
+  "id": 780,
+  "type": "kanji",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "成"
+  },
+  "primaryReading": "せい",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "せい",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "な",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Become",
+  "otherMeanings": [],
+  "meaningMnemonic": "When a <radical>drunkard</radical> holds a <radical>sword</radical> it <kanji>becomes</kanji> something else. The drunkard doesn't become a swordsman, they're still just a drunkard. But the sword in their hands does.",
+  "readingMnemonic": "The sword has <kanji>become</kanji> a <reading>sa</reading>ber (せい)! It's just like the saber you have! Hey, wait.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%88%90",
+    "graph": "/v/kanji/780"
+  },
+  "related": {
+    "radicals": [
+      194,
+      24
+    ],
+    "vocabularies": [
+      3252,
+      3253,
+      3674,
+      4798,
+      5545,
+      5556,
+      5656,
+      5742,
+      7771,
+      8422
+    ]
+  }
+}

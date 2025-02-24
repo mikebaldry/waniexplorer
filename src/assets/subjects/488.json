@@ -1,0 +1,62 @@
+{
+  "id": 488,
+  "type": "kanji",
+  "level": 2,
+  "characters": {
+    "type": "text",
+    "value": "正"
+  },
+  "primaryReading": "せい",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "せい",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "しょう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ただ",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "まさ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Correct",
+  "otherMeanings": [],
+  "meaningMnemonic": "There is a line on the <radical>ground</radical> so you <radical>stop</radical>, making a giant sign pop up that says <kanji>CORRECT</kanji>! You obeyed the rules of the road and did the correct thing. Good on you.",
+  "readingMnemonic": "You did the <kanji>correct</kanji> thing, so here's your reward: a <reading>sa</reading>ber (せい) from the <reading>Shou</reading>gun (しょう) himself! ",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%AD%A3",
+    "graph": "/v/kanji/488"
+  },
+  "related": {
+    "radicals": [
+      1,
+      44
+    ],
+    "vocabularies": [
+      2571,
+      2572,
+      2739,
+      2904,
+      4095,
+      4205,
+      4311,
+      4467,
+      4476,
+      7382,
+      7654,
+      8642,
+      9069,
+      9241
+    ]
+  }
+}

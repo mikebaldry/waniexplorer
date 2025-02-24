@@ -1,0 +1,34 @@
+{
+  "id": 7704,
+  "type": "vocabulary",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "辞書形"
+  },
+  "primaryMeaning": "Dictionary Form",
+  "meaningMnemonic": "This is a combination of the word 辞書 \"dictionary\" and the suffix 〜形 or \"form.\" Put them together and you get <vocabulary>dictionary form</vocabulary>!",
+  "primaryReading": "じしょけい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%BE%9E%E6%9B%B8%E5%BD%A2",
+    "graph": "/v/vocabulary/7704"
+  },
+  "related": {
+    "radicals": [
+      174,
+      178,
+      220,
+      22,
+      171,
+      38
+    ],
+    "kanjis": [
+      981,
+      962,
+      589
+    ]
+  }
+}

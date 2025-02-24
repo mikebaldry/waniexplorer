@@ -1,0 +1,31 @@
+{
+  "id": 7034,
+  "type": "vocabulary",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "白菊"
+  },
+  "primaryMeaning": "White Chrysanthemum",
+  "meaningMnemonic": "A <kanji>white</kanji> <kanji>chrysanthemum</kanji> is a <vocabulary>white chrysanthemum</vocabulary>.",
+  "primaryReading": "しらぎく",
+  "readingMnemonic": "The reading of 白 is a bit different from normal. It's <reading>しら</reading> instead of しろ, so do your best to keep that in mind. Watch out for the rendaku.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%99%BD%E8%8F%8A",
+    "graph": "/v/vocabulary/7034"
+  },
+  "related": {
+    "radicals": [
+      52,
+      90,
+      14,
+      98
+    ],
+    "kanjis": [
+      491,
+      1969
+    ]
+  }
+}

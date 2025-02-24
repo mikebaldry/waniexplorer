@@ -1,0 +1,33 @@
+{
+  "id": 3001,
+  "type": "vocabulary",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "医大"
+  },
+  "primaryMeaning": "Medical University",
+  "meaningMnemonic": "You've seen 大学 to mean \"college.\" So take the 大 and put it with <kanji>medicine</kanji> to create \"medicine college\", or <vocabulary>medical university</vocabulary>.",
+  "primaryReading": "いだい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 大 has two on'yomi readings, here's a mnemonic to help you remember which one to use:\n\nYour local <vocabulary>medical university</vocabulary> really prides itself on its <reading>ea</reading>gle <reading>dye</reading> (いだい). It's the only dye in the world made straight out of eagles. A bit strange for a medical university, but impressive nonetheless!",
+  "otherMeanings": [
+    "Medical School",
+    "Med School"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%8C%BB%E5%A4%A7",
+    "graph": "/v/vocabulary/3001"
+  },
+  "related": {
+    "radicals": [
+      217,
+      72,
+      18
+    ],
+    "kanjis": [
+      681,
+      453
+    ]
+  }
+}

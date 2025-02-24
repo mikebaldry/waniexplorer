@@ -1,0 +1,41 @@
+{
+  "id": 9246,
+  "type": "kanji",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "繋"
+  },
+  "primaryReading": "つな",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "つな",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "けい",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Connect",
+  "otherMeanings": [],
+  "meaningMnemonic": "You've got a <radical>car</radical>, a <radical>weapon</radical>, and some <radical>thread</radical> lying around. So of course you decide to <kanji>connect</kanji> them all together.",
+  "readingMnemonic": "There's only one reason you've <kanji>connected</kanji> all this together: <reading>Tuna</reading> (つな) fishing. Obviously!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%B9%8B",
+    "graph": "/v/kanji/9246"
+  },
+  "related": {
+    "radicals": [
+      93,
+      160,
+      86
+    ],
+    "vocabularies": [
+      9247,
+      9253
+    ]
+  }
+}

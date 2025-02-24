@@ -1,0 +1,30 @@
+{
+  "id": 6104,
+  "type": "vocabulary",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "跡"
+  },
+  "primaryMeaning": "Traces",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "あと",
+  "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You did not learn this reading, so here's a mnemonic to help you: \n\nWhen something leaves <vocabulary>traces</vocabulary> or <vocabulary>mark</vocabulary>s behind, it's because they were there, but now they're gone, and you've come <reading>後</reading> (あと) they left.",
+  "otherMeanings": [
+    "Mark"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%B7%A1",
+    "graph": "/v/vocabulary/6104"
+  },
+  "related": {
+    "radicals": [
+      95,
+      9329
+    ],
+    "kanjis": [
+      1661
+    ]
+  }
+}

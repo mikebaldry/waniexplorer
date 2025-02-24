@@ -1,0 +1,36 @@
+{
+  "id": 7713,
+  "type": "vocabulary",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "不規則"
+  },
+  "primaryMeaning": "Irregularity",
+  "meaningMnemonic": "You know that 規則 means \"rule\" or \"regulation.\" So a <kanji>not</kanji> \"rule\" or \"regulation\" is an <vocabulary>irregularity</vocabulary>.",
+  "primaryReading": "ふきそく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Irregular",
+    "Disorderly"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B8%8D%E8%A6%8F%E5%89%87",
+    "graph": "/v/vocabulary/7713"
+  },
+  "related": {
+    "radicals": [
+      96,
+      146,
+      91,
+      94,
+      128
+    ],
+    "kanjis": [
+      563,
+      1191,
+      1201
+    ]
+  }
+}

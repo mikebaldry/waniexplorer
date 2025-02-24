@@ -1,0 +1,32 @@
+{
+  "id": 4098,
+  "type": "vocabulary",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "銀座"
+  },
+  "primaryMeaning": "Ginza",
+  "meaningMnemonic": "The <kanji>silver</kanji> <kanji>seat</kanji> isn't some crazy kingdom where the king sits upon a silver seat. It is a famous place in Tokyo. Perhaps if you read the reading it will become more apparent what the meaning is (since they're the same). This silver seat place is <vocabulary>Ginza</vocabulary>.",
+  "primaryReading": "ぎんざ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%8A%80%E5%BA%A7",
+    "graph": "/v/vocabulary/4098"
+  },
+  "related": {
+    "radicals": [
+      118,
+      196,
+      62,
+      9,
+      17
+    ],
+    "kanjis": [
+      871,
+      1041
+    ]
+  }
+}

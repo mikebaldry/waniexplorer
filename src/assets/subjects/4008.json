@@ -1,0 +1,33 @@
+{
+  "id": 4008,
+  "type": "vocabulary",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "敗者"
+  },
+  "primaryMeaning": "Loser",
+  "meaningMnemonic": "The <kanji>defeat</kanji>ed <kanji>someone</kanji> is the <vocabulary>loser</vocabulary> or <vocabulary>the defeated</vocabulary>.",
+  "primaryReading": "はいしゃ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "The Defeated"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%95%97%E8%80%85",
+    "graph": "/v/vocabulary/4008"
+  },
+  "related": {
+    "radicals": [
+      94,
+      60,
+      104,
+      22
+    ],
+    "kanjis": [
+      1004,
+      690
+    ]
+  }
+}

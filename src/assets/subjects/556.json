@@ -1,0 +1,42 @@
+{
+  "id": 556,
+  "type": "kanji",
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "町"
+  },
+  "primaryReading": "ちょう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ちょう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "まち",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Town",
+  "otherMeanings": [],
+  "meaningMnemonic": "When you see both a <radical>rice paddy</radical> and a <radical>street</radical> in the same place, you have the makings of a whole <kanji>town</kanji>!",
+  "readingMnemonic": "You go to visit this nice little <kanji>town</kanji>. But then, there she is... Every time you walk down the street, the street-woman Mrs. <reading>Chou</reading> (ちょう) arrives to ruin your day.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%94%BA",
+    "graph": "/v/kanji/556"
+  },
+  "related": {
+    "radicals": [
+      51,
+      27
+    ],
+    "vocabularies": [
+      2693,
+      3410,
+      8695,
+      9152
+    ]
+  }
+}

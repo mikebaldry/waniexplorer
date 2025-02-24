@@ -1,0 +1,37 @@
+{
+  "id": 7632,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "文字通り"
+  },
+  "primaryMeaning": "Literal",
+  "meaningMnemonic": "Remember how you learned the words 文字 and 通り? Well an \"avenue\" made of \"letters\" is <vocabulary>literally</vocabulary> <vocabulary>to the letter</vocabulary>. Wink.",
+  "primaryReading": "もじどおり",
+  "readingMnemonic": "This is a combination of the words 文字 and 通り, which you learned already, so you should be able to read this one. Just make sure you remember that とおり becomes どおり because of rendaku.",
+  "otherMeanings": [
+    "Literally",
+    "To The Letter"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%96%87%E5%AD%97%E9%80%9A%E3%82%8A",
+    "graph": "/v/vocabulary/7632"
+  },
+  "related": {
+    "radicals": [
+      42,
+      78,
+      34,
+      114,
+      141,
+      71
+    ],
+    "kanjis": [
+      475,
+      545,
+      665
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": 4010,
+  "type": "vocabulary",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "果物"
+  },
+  "primaryMeaning": "Fruit",
+  "meaningMnemonic": "A <kanji>fruit</kanji> <kanji>thing</kanji> is just <vocabulary>fruit</vocabulary>.",
+  "primaryReading": "くだもの",
+  "readingMnemonic": "The reading for this is an exception, at least for the 果 portion. To remember this part, imagine yourself asking for some <vocabulary>fruit</vocabulary>. <reading>Could I</reading> (くだ) have some fruit, please?",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%9E%9C%E7%89%A9",
+    "graph": "/v/vocabulary/4010"
+  },
+  "related": {
+    "radicals": [
+      235,
+      126,
+      173
+    ],
+    "kanjis": [
+      1005,
+      718
+    ]
+  }
+}

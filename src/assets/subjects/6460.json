@@ -1,0 +1,35 @@
+{
+  "id": 6460,
+  "type": "vocabulary",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "雇用者"
+  },
+  "primaryMeaning": "Employer",
+  "meaningMnemonic": "An <kanji>employment</kanji> (雇用) <kanji>someone</kanji> is someone who gives you employment, aka an <vocabulary>employer</vocabulary>.",
+  "primaryReading": "こようしゃ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Employee"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%9B%87%E7%94%A8%E8%80%85",
+    "graph": "/v/vocabulary/6460"
+  },
+  "related": {
+    "radicals": [
+      240,
+      73,
+      71,
+      104,
+      22
+    ],
+    "kanjis": [
+      1713,
+      525,
+      690
+    ]
+  }
+}

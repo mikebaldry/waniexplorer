@@ -1,0 +1,40 @@
+{
+  "id": 1729,
+  "type": "kanji",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "慎"
+  },
+  "primaryReading": "しん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "しん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "つつし",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Humility",
+  "otherMeanings": [],
+  "meaningMnemonic": "When someone wants to view the <radical>reality</radical> of your <radical>soul</radical>, show it with <kanji>humility</kanji>. Because the reality is... our souls are all a little dirty. And we haven't been the best versions we could be. So make sure when you show all of yourself you do so with some humility.",
+  "readingMnemonic": "As <kanji>humility</kanji> washes over you, you feel a shaking in your <reading>shin</reading>s (しん). Humility lives in your shins, so now they're shaking and trying to bring you down to the ground.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%85%8E",
+    "graph": "/v/kanji/1729"
+  },
+  "related": {
+    "radicals": [
+      232,
+      413
+    ],
+    "vocabularies": [
+      6306,
+      6307
+    ]
+  }
+}

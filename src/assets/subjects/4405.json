@@ -1,0 +1,33 @@
+{
+  "id": 4405,
+  "type": "vocabulary",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "大敵"
+  },
+  "primaryMeaning": "Arch Enemy",
+  "meaningMnemonic": "Your <kanji>big</kanji> <kanji>enemy</kanji> is your worst enemy. Your <vocabulary>arch enemy</vocabulary>.",
+  "primaryReading": "たいてき",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Rival",
+    "Enemy"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A4%A7%E6%95%B5",
+    "graph": "/v/vocabulary/4405"
+  },
+  "related": {
+    "radicals": [
+      18,
+      276,
+      60
+    ],
+    "kanjis": [
+      453,
+      1123
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": 900,
+  "type": "kanji",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "周"
+  },
+  "primaryReading": "しゅう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "しゅう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "まわ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Circumference",
+  "otherMeanings": [],
+  "meaningMnemonic": "The <radical>circumference</radical> radical and the <kanji>circumference</kanji> kanji are the same!",
+  "readingMnemonic": "Practice how to measure the <kanji>circumference</kanji> of an item by using your <reading>shoe</reading> (しゅう). Your shoe is kind of round, and it's free. I mean it's right there on your foot.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%91%A8",
+    "graph": "/v/kanji/900"
+  },
+  "related": {
+    "radicals": [
+      169
+    ],
+    "vocabularies": [
+      3663,
+      3664,
+      3665,
+      7584,
+      7638,
+      8456
+    ]
+  }
+}

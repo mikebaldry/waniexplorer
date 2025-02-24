@@ -1,0 +1,46 @@
+{
+  "id": 1429,
+  "type": "kanji",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "懐"
+  },
+  "primaryReading": "なつ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "なつ",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ふところ",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "かい",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Nostalgia",
+  "otherMeanings": [],
+  "meaningMnemonic": "Your <radical>soul</radical> will <radical>cross</radical> through your body and into the <radical>net</radical> of your <radical>clothes</radical> so that you'll be hit with <kanji>nostalgia</kanji> when you wear them again. Nostalgia for all the things that happened every single time you wore those clothes.",
+  "readingMnemonic": "This <kanji>nostalgia</kanji> ties <reading>knots</reading> (なつ) in your stomach and your chest. Even if the memories and feelings weren't particularly bad, there's something about the wistful feeling of nostalgia that knots up your insides.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%87%90",
+    "graph": "/v/kanji/1429"
+  },
+  "related": {
+    "radicals": [
+      232,
+      15,
+      163,
+      320
+    ],
+    "vocabularies": [
+      5315
+    ]
+  }
+}

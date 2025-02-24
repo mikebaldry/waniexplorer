@@ -1,0 +1,41 @@
+{
+  "id": 1923,
+  "type": "kanji",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "眺"
+  },
+  "primaryReading": "ちょう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ちょう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "なが",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Stare",
+  "otherMeanings": [],
+  "meaningMnemonic": "When your <radical>eye</radical> catches an <radical>omen</radical>, it's only natural that you will <kanji>stare</kanji> at it. ",
+  "readingMnemonic": "As you <kanji>stare</kanji> at the omen, you see Mrs. <reading>Chou</reading> (ちょう) knocking down buildings, putting nails on the street, and making herself way longer than you ever thought possible. Oh, and there she is, destroying the world.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%9C%BA",
+    "graph": "/v/kanji/1923"
+  },
+  "related": {
+    "radicals": [
+      53,
+      363
+    ],
+    "vocabularies": [
+      6892,
+      6893,
+      7054
+    ]
+  }
+}

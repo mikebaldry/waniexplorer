@@ -1,0 +1,53 @@
+{
+  "id": 1306,
+  "type": "kanji",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "河"
+  },
+  "primaryReading": "か",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "か",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "かわ",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "こう",
+      "type": "nanori"
+    },
+    {
+      "primary": false,
+      "reading": "こお",
+      "type": "nanori"
+    }
+  ],
+  "primaryMeaning": "River",
+  "otherMeanings": [],
+  "meaningMnemonic": "During a <radical>tsunami</radical>, your <radical>lip ring</radical> is ripped off while you’re trying to cross a <kanji>river</kanji>. There was no other path to safety, you had to cross the raging river, but you lost your footing and smashed your face on a rock and lost your lip ring.",
+  "readingMnemonic": "But why were you trying to cross this <kanji>river</kanji> anyway? Well your <reading>ca</reading>r (か) was on the other side of it, and you figured if you could get to your car you could outrun the tsunami and be safe. Too bad you fell and ripped out your lip ring though.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%B2%B3",
+    "graph": "/v/kanji/1306"
+  },
+  "related": {
+    "radicals": [
+      103,
+      113
+    ],
+    "vocabularies": [
+      4942,
+      4943,
+      4944,
+      4945,
+      4946
+    ]
+  }
+}

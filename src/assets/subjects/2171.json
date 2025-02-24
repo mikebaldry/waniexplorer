@@ -1,0 +1,50 @@
+{
+  "id": 2171,
+  "type": "kanji",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "恒"
+  },
+  "primaryReading": "こう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "こう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "つね",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "つねに",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Constant",
+  "otherMeanings": [
+    "Always"
+  ],
+  "meaningMnemonic": "Your <radical>soul</radical> is like the <radical>ground</radical> or the <radical>dawn</radical>. It is <kanji>constant</kanji>, never changing.",
+  "readingMnemonic": "Also <kanji>constant</kanji> is the Emperor <reading>こう</reading>いち, who will surely rule for a thousand more years!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%81%92",
+    "graph": "/v/kanji/2171"
+  },
+  "related": {
+    "radicals": [
+      232,
+      1,
+      293
+    ],
+    "vocabularies": [
+      7879,
+      7880,
+      7881,
+      7882
+    ]
+  }
+}

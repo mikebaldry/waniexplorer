@@ -1,0 +1,33 @@
+{
+  "id": 5354,
+  "type": "vocabulary",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "太陽系"
+  },
+  "primaryMeaning": "Solar System",
+  "meaningMnemonic": "You know 太陽 means \"sun,\" so hopefully you can guess what a sun <kanji>system</kanji> is. That's right — it's the <vocabulary>solar system</vocabulary>!",
+  "primaryReading": "たいようけい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Will help to know 太陽.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A4%AA%E9%99%BD%E7%B3%BB",
+    "graph": "/v/vocabulary/5354"
+  },
+  "related": {
+    "radicals": [
+      18,
+      3,
+      176,
+      172,
+      329
+    ],
+    "kanjis": [
+      505,
+      834,
+      1415
+    ]
+  }
+}

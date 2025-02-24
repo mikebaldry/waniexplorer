@@ -1,0 +1,32 @@
+{
+  "id": 5828,
+  "type": "vocabulary",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "納豆"
+  },
+  "primaryMeaning": "Natto",
+  "meaningMnemonic": "A <kanji>supply</kanji> of <kanji>bean</kanji>s is when you take a bunch of beans, mash them up into a supply, and then ferment them all together to make them into <vocabulary>natto</vocabulary> (also known as <vocabulary>fermented soybeans</vocabulary>).",
+  "primaryReading": "なっとう",
+  "readingMnemonic": "The reading is an exceptional one. 豆 is okay, and is the on'yomi reading from the kanji. The 納 part is weird though. Instead of being のう it's なっ. But, if you can remember the meaning of this word, you can just think about how you do <reading>not</reading> (なっとう) want to eat <vocabulary>natto</vocabulary>. At least a lot of people don't want to eat it. It's quite the acquired taste.",
+  "otherMeanings": [
+    "Fermented Soybeans"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%B4%8D%E8%B1%86",
+    "graph": "/v/vocabulary/5828"
+  },
+  "related": {
+    "radicals": [
+      86,
+      346,
+      181
+    ],
+    "kanjis": [
+      1536,
+      1576
+    ]
+  }
+}

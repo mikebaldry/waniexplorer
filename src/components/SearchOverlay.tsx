@@ -34,11 +34,12 @@ function SearchOverlay() {
   }, [open, setOpen, searchRef]);
 
   const handleChange: ChangeEventHandler<HTMLInputElement> = useCallback((e) => {
-    setQuery(e.currentTarget.value)
-    setResults(db.search(e.currentTarget.value));
-    setSelectedResultIndex(0);
-    setOpen(true);
-  }, [setQuery, setResults, setOpen, setSelectedResultIndex])
+    setQuery(e.currentTarget.value);
+    db.search(e.currentTarget.value).then((results) => {
+      setResults(results);
+      setSelectedResultIndex(0);
+    })
+  }, [setQuery, setResults, setSelectedResultIndex])
 
   const handleClear = useCallback(() => {
     setQuery("");
@@ -109,13 +110,16 @@ function SearchOverlay() {
             <div className={styles.search}>
               <div className={styles.inputArea}>
                 <input 
+                  name="query"
                   type="text" 
                   className="form-control form-control-lg fs-2" 
                   value={query}
                   onChange={handleChange}
                   onKeyDown={handleKeyDown}
+                  autoComplete="false"
+                  autoCorrect="false"
                   autoFocus
-                    ref={searchRef}
+                  ref={searchRef}
                 />
 
                 {results.length === 0 && (

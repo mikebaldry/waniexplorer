@@ -1,0 +1,36 @@
+{
+  "id": 1995,
+  "type": "kanji",
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "幣"
+  },
+  "primaryReading": "へい",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "へい",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Cash",
+  "otherMeanings": [],
+  "meaningMnemonic": "That <radical>penguin</radical> over there seems to have a <radical>towel</radical> stuffed with <kanji>cash</kanji>.",
+  "readingMnemonic": "Your eyes follow the <kanji>cash</kanji>, and you watch as the penguin stuffs it, towel and all, into a <reading>hay</reading> (へい) stack. What a smart penguin, people don't look for cash in hay, they're too busy looking for needles.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%B9%A3",
+    "graph": "/v/kanji/1995"
+  },
+  "related": {
+    "radicals": [
+      431,
+      102
+    ],
+    "vocabularies": [
+      7101,
+      7102,
+      7257
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 951,
+  "type": "kanji",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "浅"
+  },
+  "primaryReading": "あさ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "あさ",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "せん",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Shallow",
+  "otherMeanings": [],
+  "meaningMnemonic": "If you visit a <radical>bar</radical> after a <radical>tsunami</radical>, you’ll be hanging out in <kanji>shallow</kanji> water. After a tsunami, you want to relax with a drink at the bar. Unfortunately, tsunamis cause floods, and the bar floor is immersed in shallow water.",
+  "readingMnemonic": "What beer are you drinking at this bar while standing in <kanji>shallow</kanji> water? You’re drinking <reading>Asa</reading>hi (あさ), the beer of the salaryman. Asahi is super dry, so it takes your attention away from the shallow water a bit.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%B5%85",
+    "graph": "/v/kanji/951"
+  },
+  "related": {
+    "radicals": [
+      103,
+      8782
+    ],
+    "vocabularies": [
+      3777
+    ]
+  }
+}

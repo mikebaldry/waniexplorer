@@ -1,0 +1,39 @@
+{
+  "id": 1487,
+  "type": "kanji",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "液"
+  },
+  "primaryReading": "えき",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "えき",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Fluid",
+  "otherMeanings": [
+    "Liquid"
+  ],
+  "meaningMnemonic": "A <radical>tsunami</radical> that hits at <radical>night</radical> leaves even more <kanji>fluid</kanji> than normal. It's dark at night, so the sun isn't there to help evaporate all that tsunami <kanji>liquid</kanji>.",
+  "readingMnemonic": "This <kanji>fluid</kanji> stays in the <reading>駅</reading> (えき) longer than anywhere else. All of those tsunami liquids pour deep inside the 駅 late at night and the sun still can't reach them to help evaporate them during the day. It's a real *night*mare.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%B6%B2",
+    "graph": "/v/kanji/1487"
+  },
+  "related": {
+    "radicals": [
+      103,
+      342
+    ],
+    "vocabularies": [
+      5536,
+      5537,
+      5740,
+      7424
+    ]
+  }
+}

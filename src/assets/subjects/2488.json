@@ -1,0 +1,32 @@
+{
+  "id": 2488,
+  "type": "vocabulary",
+  "level": 1,
+  "characters": {
+    "type": "text",
+    "value": "三人"
+  },
+  "primaryMeaning": "Three People",
+  "meaningMnemonic": "You have the kanji for <kanji>three</kanji> and <kanji>person</kanji>. Common sense will tell you what this word is. It's <vocabulary>three people</vocabulary>.",
+  "primaryReading": "さんにん",
+  "readingMnemonic": "This is a jukugo (kanji compound) word, which usually means on'yomi readings from the kanji. Since 人 has two on'yomi readings, here's a mnemonic to help you remember which one to use:\n\nApparently, there are <vocabulary>three people</vocabulary> working as <reading>San</reading>ta-san at <reading>Nin</reading>tendo (さんにん)! It's a big company, so obviously they need three Santas.",
+  "otherMeanings": [
+    "Three Persons"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B8%89%E4%BA%BA",
+    "graph": "/v/vocabulary/2488"
+  },
+  "related": {
+    "radicals": [
+      1,
+      7,
+      9
+    ],
+    "kanjis": [
+      449,
+      444
+    ]
+  }
+}

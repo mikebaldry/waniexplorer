@@ -1,0 +1,37 @@
+{
+  "id": 1068,
+  "type": "kanji",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "閥"
+  },
+  "primaryReading": "ばつ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ばつ",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Clique",
+  "otherMeanings": [
+    "Clan"
+  ],
+  "meaningMnemonic": "Passed out in front of the <radical>gate</radical> lies a <radical>drunkard</radical> who used to be the <radical>leader</radical> of a popular <kanji>clique</kanji>, the Cool Kids <kanji>Clan</kanji>. Once, he was a leader, but now he is but a drunkard. The clan has fallen apart, and he no longer has a clique to call his own.",
+  "readingMnemonic": "Eventually you get sick and tired of this washed up <kanji>clan</kanji> leader and you gather your own <kanji>clique</kanji> to chase this guy away from your gate and your property. You and your friends grab some <reading>bats</reading> (ばつ) and use these bats to beat the drunkard leader. Being beaten with bats frightens him, and he scurries away.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%96%A5",
+    "graph": "/v/kanji/1068"
+  },
+  "related": {
+    "radicals": [
+      214,
+      75,
+      194
+    ],
+    "vocabularies": [
+      4244
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": 3293,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "洋服"
+  },
+  "primaryMeaning": "Clothes",
+  "meaningMnemonic": "<kanji>Western style</kanji> <kanji>clothes</kanji> is just <vocabulary>Western clothing</vocabulary> (or <vocabulary>Western style clothes</vocabulary>). But nowadays, because Japanese people wear Western clothing all the time, we use it to just mean <vocabulary>clothes</vocabulary>. We're talking things that aren't kimonos, etc.",
+  "primaryReading": "ようふく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Western Clothing",
+    "Western Style Clothes"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B4%8B%E6%9C%8D",
+    "graph": "/v/vocabulary/3293"
+  },
+  "related": {
+    "radicals": [
+      103,
+      136,
+      43,
+      145,
+      30
+    ],
+    "kanjis": [
+      798,
+      716
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 701,
+  "type": "kanji",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "間"
+  },
+  "primaryReading": "かん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "かん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "けん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "あいだ",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ま",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Interval",
+  "otherMeanings": [
+    "Interval of Time",
+    "Interval of Space"
+  ],
+  "meaningMnemonic": "There's a <radical>gate</radical> that the <radical>sun</radical> goes through at a regular <kanji>interval</kanji>. There is an <kanji>interval of time</kanji> in the sense that the sun goes through it at the same time every day. And there is an <kanji>interval of space</kanji> in the sense that it has to go through the space between the gate posts.",
+  "readingMnemonic": "This method of keeping track of <kanji>interval</kanji>s of time was invented by the great Khans of Mongolia, specifically the most famous Khan of all: Genghis <reading>Khan</reading> (かん).\n\nGenghis Khan has had a huge impact on the world as we know it, especially the Eurasian continent of the past, so he's going to come up a lot from now on. Be prepared to get very familiar with him and his friends!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%96%93",
+    "graph": "/v/kanji/701"
+  },
+  "related": {
+    "radicals": [
+      214,
+      22
+    ],
+    "vocabularies": [
+      3058,
+      3059,
+      3060,
+      3061,
+      3062,
+      3063,
+      3241,
+      3489,
+      4882,
+      4931,
+      5026,
+      5202,
+      7032,
+      7182,
+      7324,
+      7603,
+      7691,
+      8344,
+      8757,
+      8873,
+      8978,
+      9300
+    ]
+  }
+}

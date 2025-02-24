@@ -1,0 +1,34 @@
+{
+  "id": 5269,
+  "type": "vocabulary",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "検索"
+  },
+  "primaryMeaning": "Lookup",
+  "meaningMnemonic": "You <kanji>examine</kanji> then <kanji>search</kanji>. These are the steps you take in order to perform a <vocabulary>lookup</vocabulary> of some kind (or, as the case may be in modern times, do an <vocabulary>internet search</vocabulary>).",
+  "primaryReading": "けんさく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Internet Search"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%A4%9C%E7%B4%A2",
+    "graph": "/v/vocabulary/5269"
+  },
+  "related": {
+    "radicals": [
+      23,
+      8785,
+      15,
+      76,
+      86
+    ],
+    "kanjis": [
+      1143,
+      1410
+    ]
+  }
+}

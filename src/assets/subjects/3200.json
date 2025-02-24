@@ -1,0 +1,32 @@
+{
+  "id": 3200,
+  "type": "vocabulary",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "農業"
+  },
+  "primaryMeaning": "Agriculture",
+  "meaningMnemonic": "What's another way to call the <kanji>farming</kanji> <kanji>business</kanji>? If you encapsulated it into one word (assuming we're talking about plant farming, here), you could call it <vocabulary>agriculture</vocabulary>.",
+  "primaryReading": "のうぎょう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%BE%B2%E6%A5%AD",
+    "graph": "/v/vocabulary/3200"
+  },
+  "related": {
+    "radicals": [
+      185,
+      183,
+      8768,
+      136,
+      2
+    ],
+    "kanjis": [
+      759,
+      756
+    ]
+  }
+}

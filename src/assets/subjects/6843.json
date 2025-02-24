@@ -1,0 +1,31 @@
+{
+  "id": 6843,
+  "type": "vocabulary",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "エッフェル塔"
+  },
+  "primaryMeaning": "Eiffel Tower",
+  "meaningMnemonic": "The <kanji>Eiffel</kanji> (エッフェル) <kanji>tower</kanji> is the <vocabulary>Eiffel Tower</vocabulary>.",
+  "primaryReading": "えっふぇるとう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [
+    "エッフェルとう"
+  ],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E3%82%A8%E3%83%83%E3%83%95%E3%82%A7%E3%83%AB%E5%A1%94",
+    "graph": "/v/vocabulary/6843"
+  },
+  "related": {
+    "radicals": [
+      17,
+      90,
+      216
+    ],
+    "kanjis": [
+      1905
+    ]
+  }
+}

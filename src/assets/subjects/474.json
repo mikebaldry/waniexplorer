@@ -1,0 +1,86 @@
+{
+  "id": 474,
+  "type": "kanji",
+  "level": 2,
+  "characters": {
+    "type": "text",
+    "value": "手"
+  },
+  "primaryReading": "て",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "て",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "しゅ",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ず",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Hand",
+  "otherMeanings": [
+    "Doer"
+  ],
+  "meaningMnemonic": "The <radical>hand</radical> radical and the <kanji>hand</kanji> kanji are identical in looks and meaning! That should make things easy!",
+  "readingMnemonic": "To remember the reading て we will use the word \"television.\" You have great hands. Go ahead and look at them. OH MY GOD. You have little <reading>te</reading>levisions (て) on your hands. They are playing the dumbest show you can think of, too, both hands at the same time.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%89%8B",
+    "graph": "/v/kanji/474"
+  },
+  "related": {
+    "radicals": [
+      41
+    ],
+    "vocabularies": [
+      2537,
+      2538,
+      2539,
+      2560,
+      2568,
+      2819,
+      2851,
+      2964,
+      2999,
+      3138,
+      3205,
+      3404,
+      3422,
+      3513,
+      3549,
+      3567,
+      3571,
+      3629,
+      4061,
+      4264,
+      4353,
+      4402,
+      4438,
+      5030,
+      6276,
+      6458,
+      6472,
+      6596,
+      6771,
+      6948,
+      7167,
+      7193,
+      7467,
+      7726,
+      7770,
+      8286,
+      8506,
+      8737,
+      8814,
+      9082,
+      9238,
+      9270
+    ]
+  }
+}

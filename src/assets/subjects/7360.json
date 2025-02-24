@@ -1,0 +1,32 @@
+{
+  "id": 7360,
+  "type": "vocabulary",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "輝き"
+  },
+  "primaryMeaning": "Radiance",
+  "meaningMnemonic": "If 輝く is \"to shine\" or \"to glitter\" think about the noun version of this. This would be <vocabulary>radiance</vocabulary>. Radiance can come in the form of shining and glittering.",
+  "primaryReading": "かがやき",
+  "readingMnemonic": "The reading comes from 輝く.",
+  "otherMeanings": [
+    "Brightness",
+    "Sparkle"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%BC%9D%E3%81%8D",
+    "graph": "/v/vocabulary/7360"
+  },
+  "related": {
+    "radicals": [
+      405,
+      76,
+      93
+    ],
+    "kanjis": [
+      2034
+    ]
+  }
+}

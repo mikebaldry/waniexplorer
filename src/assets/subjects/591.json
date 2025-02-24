@@ -1,0 +1,57 @@
+{
+  "id": 591,
+  "type": "kanji",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "社"
+  },
+  "primaryReading": "しゃ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "しゃ",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "やしろ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Company",
+  "otherMeanings": [],
+  "meaningMnemonic": "Plant a <radical>spirit</radical> in the <radical>dirt</radical> before you start your <kanji>company</kanji> and it will be successful. That's what all the great, old Japanese companies did back in the olden days. That's why companies like Mitsubishi have been around for hundreds of years. They planted a spirit in the dirt to help their company grow, and grow it did!",
+  "readingMnemonic": "Where did you learn about this method of <kanji>company</kanji> growing? From a <reading>sha</reading>man (しゃ), of course. Shamans aren't just spouting nonsense, they know what they're talking about. And spirits are right up their shaman alley.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%A4%BE",
+    "graph": "/v/kanji/591"
+  },
+  "related": {
+    "radicals": [
+      80,
+      17
+    ],
+    "vocabularies": [
+      2830,
+      2831,
+      2832,
+      2833,
+      2834,
+      2907,
+      3299,
+      3342,
+      3343,
+      4518,
+      4937,
+      5509,
+      5569,
+      5717,
+      6139,
+      6463,
+      8337,
+      9054,
+      9084
+    ]
+  }
+}

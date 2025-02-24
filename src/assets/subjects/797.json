@@ -1,0 +1,62 @@
+{
+  "id": 797,
+  "type": "kanji",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "指"
+  },
+  "primaryReading": "し",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "し",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ゆび",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "さ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Finger",
+  "otherMeanings": [],
+  "meaningMnemonic": "Try to use your <radical>fingers</radical> to <radical>spoon</radical> out some of the <radical>sun</radical> and you'll come back with just one <kanji>finger</kanji>.",
+  "readingMnemonic": "Don't worry, you aren't the only one out there with just one <kanji>finger</kanji>, <reading>shee</reading>p (し) only have one finger too. I mean, they're hooves, which are really just a single animal finger. It's just big and kind of flat.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%8C%87",
+    "graph": "/v/kanji/797"
+  },
+  "related": {
+    "radicals": [
+      63,
+      57,
+      22
+    ],
+    "vocabularies": [
+      3288,
+      3289,
+      3290,
+      3291,
+      3900,
+      4268,
+      4534,
+      4628,
+      4909,
+      5797,
+      5947,
+      5987,
+      6144,
+      7576,
+      7711,
+      8134,
+      8667,
+      8746
+    ]
+  }
+}

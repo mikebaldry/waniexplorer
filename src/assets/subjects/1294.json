@@ -1,0 +1,52 @@
+{
+  "id": 1294,
+  "type": "kanji",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "我"
+  },
+  "primaryReading": "が",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "が",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "われ",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "わ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "I",
+  "otherMeanings": [
+    "Me"
+  ],
+  "meaningMnemonic": "Your <radical>ego</radical>... it's totally out of control. <kanji>I</kanji> mean, my ego isn't out of control. I'm the greatest. That's <kanji>me</kanji>. But your ego? Ugh, so out of control unlike my amazing ego.",
+  "readingMnemonic": "<kanji>I</kanji> am the greatest in the world! I am no baby like you, that's why. A baby who says \"<reading>ga</reading> (が) ga ga ga!\"",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%88%91",
+    "graph": "/v/kanji/1294"
+  },
+  "related": {
+    "radicals": [
+      272
+    ],
+    "vocabularies": [
+      4922,
+      4923,
+      5157,
+      5390,
+      7884,
+      9046,
+      9047,
+      9074
+    ]
+  }
+}

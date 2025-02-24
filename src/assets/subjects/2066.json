@@ -1,0 +1,40 @@
+{
+  "id": 2066,
+  "type": "kanji",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "淡"
+  },
+  "primaryReading": "たん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "たん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "あわ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Faint",
+  "otherMeanings": [],
+  "meaningMnemonic": "A <radical>tsunami</radical> and a couple <radical>fire</radical>s run into each other. They cancel each other out completely, and the remainder left behind is a <kanji>faint</kanji> remnant of what was once there.",
+  "readingMnemonic": "Just like the tsunami and fire canceling each other out, leaving a <kanji>faint</kanji> remainder of what was, your <reading>tan</reading> (たん) is extremely faint as well.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%B7%A1",
+    "graph": "/v/kanji/2066"
+  },
+  "related": {
+    "radicals": [
+      103,
+      46
+    ],
+    "vocabularies": [
+      7309,
+      7310
+    ]
+  }
+}

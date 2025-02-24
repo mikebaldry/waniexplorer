@@ -1,0 +1,35 @@
+{
+  "id": 3122,
+  "type": "vocabulary",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "名古屋"
+  },
+  "primaryMeaning": "Nagoya",
+  "meaningMnemonic": "The place that's <kanji>famous</kanji> for <kanji>old</kanji> <kanji>roof</kanji>s. I don't know why, but it's the city of <vocabulary>Nagoya</vocabulary>. Just associate the two things together and it'll be hard to forget (so long as you've heard of Nagoya before - if not, read up about it!).",
+  "primaryReading": "なごや",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji (except for 名 and 屋, which are kun'yomi here). If you know the readings of your kanji you'll know how to read this as well. For な just think to 名前 (なまえ) which uses the な reading. The \"name\" (名前) of this city is what? It's <reading>Na</reading>goya. Watch out for rendaku changing こ to ご too.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%90%8D%E5%8F%A4%E5%B1%8B",
+    "graph": "/v/vocabulary/3122"
+  },
+  "related": {
+    "radicals": [
+      33,
+      16,
+      69,
+      37,
+      1,
+      140,
+      17
+    ],
+    "kanjis": [
+      544,
+      519,
+      724
+    ]
+  }
+}

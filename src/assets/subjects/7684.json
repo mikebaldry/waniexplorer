@@ -1,0 +1,37 @@
+{
+  "id": 7684,
+  "type": "vocabulary",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "記事"
+  },
+  "primaryMeaning": "Article",
+  "meaningMnemonic": "When you <kanji>write down</kanji> a lot of stuff focusing on one <kanji>thing</kanji> it's called an <vocabulary>article</vocabulary>. If it's on something that just happened it will probably be a <vocabulary>news story</vocabulary>.",
+  "primaryReading": "きじ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "News Story",
+    "Report",
+    "Account",
+    "News Article"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%A8%98%E4%BA%8B",
+    "graph": "/v/vocabulary/7684"
+  },
+  "related": {
+    "radicals": [
+      117,
+      228,
+      15,
+      16,
+      105
+    ],
+    "kanjis": [
+      664,
+      708
+    ]
+  }
+}

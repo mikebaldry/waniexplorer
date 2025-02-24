@@ -1,0 +1,41 @@
+{
+  "id": 1942,
+  "type": "kanji",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "鳩"
+  },
+  "primaryReading": "はと",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "はと",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "く",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Dove",
+  "otherMeanings": [
+    "Pigeon"
+  ],
+  "meaningMnemonic": "There are <radical>nine</radical> <radical>bird</radical>s and one of them is a <kanji>dove</kanji> and another is a <kanji>pigeon</kanji>. These nine birds are a flock of all kinds, but the dove and the pigeon are the leaders.",
+  "readingMnemonic": "Take a look at the <kanji>pigeon</kanji> in front of you. Now, grab it, tear it in half, and grab the <reading>heart</reading> (はと) from its little body. ",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%B3%A9",
+    "graph": "/v/kanji/1942"
+  },
+  "related": {
+    "radicals": [
+      11,
+      151
+    ],
+    "vocabularies": [
+      6967
+    ]
+  }
+}

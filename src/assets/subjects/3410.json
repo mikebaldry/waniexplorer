@@ -1,0 +1,33 @@
+{
+  "id": 3410,
+  "type": "vocabulary",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "下町"
+  },
+  "primaryMeaning": "Downtown",
+  "meaningMnemonic": "You have the <kanji>below</kanji> <kanji>town</kanji>. Does this sort of sound familiar? We have another word for it in English, but it's essentially the same thing: <vocabulary>downtown</vocabulary>. It isn't the downtown you might be used to though. In Japan, this is an old word that was used for the commercial districts literally, physically down (lower than) the main city. So picture an old, urban Japanese area!",
+  "primaryReading": "したまち",
+  "readingMnemonic": "The reading for this word is all kun'yomi despite being jukugo. Just think of sketchy things going on in the downtown, just like how there's sketchy kun'yomi readings for this word. You should know both the kun'yomi readings from the previous level, though, so if you do you know the reading for this word as well.",
+  "otherMeanings": [
+    "Backstreets"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B8%8B%E7%94%BA",
+    "graph": "/v/vocabulary/3410"
+  },
+  "related": {
+    "radicals": [
+      1,
+      10,
+      51,
+      27
+    ],
+    "kanjis": [
+      451,
+      556
+    ]
+  }
+}

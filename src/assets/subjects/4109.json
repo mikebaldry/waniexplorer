@@ -1,0 +1,33 @@
+{
+  "id": 4109,
+  "type": "vocabulary",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "枚数"
+  },
+  "primaryMeaning": "Number Of Sheets",
+  "meaningMnemonic": "You have <kanji>flat object</kanji>s. You have a <kanji>number</kanji> of them. These flat objects are flat things, right? Flat things like sheets of paper, perhaps (or other sheets of things). So, this word is <vocabulary>number of sheets</vocabulary>.",
+  "primaryReading": "まいすう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Number Of Flat Objects"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%9E%9A%E6%95%B0",
+    "graph": "/v/vocabulary/4109"
+  },
+  "related": {
+    "radicals": [
+      23,
+      60,
+      98,
+      19
+    ],
+    "kanjis": [
+      1051,
+      703
+    ]
+  }
+}

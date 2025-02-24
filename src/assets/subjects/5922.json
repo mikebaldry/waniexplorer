@@ -1,0 +1,29 @@
+{
+  "id": 5922,
+  "type": "vocabulary",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "湖"
+  },
+  "primaryMeaning": "Lake",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "みずうみ",
+  "readingMnemonic": "The reading is crazy long, but also crazy easy! You know みず means \"water,\" and うみ means \"sea.\" So, you have a \"water sea\" which is a lake, which is a <reading>みずうみ</reading>.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B9%96",
+    "graph": "/v/vocabulary/5922"
+  },
+  "related": {
+    "radicals": [
+      103,
+      69,
+      43
+    ],
+    "kanjis": [
+      1606
+    ]
+  }
+}

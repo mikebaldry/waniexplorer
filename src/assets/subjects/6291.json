@@ -1,0 +1,33 @@
+{
+  "id": 6291,
+  "type": "vocabulary",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "免許"
+  },
+  "primaryMeaning": "License",
+  "meaningMnemonic": "You have an <kanji>excuse</kanji> that <kanji>permit</kanji>s you to do what you want. It is a <vocabulary>license</vocabulary> and <vocabulary>certificate</vocabulary> allowing you to do this.",
+  "primaryReading": "めんきょ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Certificate",
+    "Permit"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%85%8D%E8%A8%B1",
+    "graph": "/v/vocabulary/6291"
+  },
+  "related": {
+    "radicals": [
+      208,
+      117,
+      415
+    ],
+    "kanjis": [
+      1722,
+      1050
+    ]
+  }
+}

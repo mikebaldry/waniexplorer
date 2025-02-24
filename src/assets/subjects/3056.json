@@ -1,0 +1,35 @@
+{
+  "id": 3056,
+  "type": "vocabulary",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "歩道"
+  },
+  "primaryMeaning": "Sidewalk",
+  "meaningMnemonic": "The <kanji>road</kanji> you <kanji>walk</kanji> on is the <vocabulary>sidewalk</vocabulary>... at least I hope that's where you walk.",
+  "primaryReading": "ほどう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Footpath",
+    "Pavement"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%AD%A9%E9%81%93",
+    "graph": "/v/vocabulary/3056"
+  },
+  "related": {
+    "radicals": [
+      44,
+      35,
+      5,
+      114,
+      156
+    ],
+    "kanjis": [
+      628,
+      700
+    ]
+  }
+}

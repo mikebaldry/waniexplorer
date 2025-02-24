@@ -1,0 +1,31 @@
+{
+  "id": 7564,
+  "type": "vocabulary",
+  "level": 3,
+  "characters": {
+    "type": "text",
+    "value": "今日は"
+  },
+  "primaryMeaning": "Hello",
+  "meaningMnemonic": "This is a strange one. It's こんにちは, which you've probably heard before, but it's spelled using the kanji <kanji>now</kanji> and <kanji>day</kanji>. So when you say \"now day!\" you're really saying <vocabulary>hello</vocabulary>!\n\nWarning! Don't mix this up with きょうは! While they may look the same, they don't mean the same thing. We will only ever ask you for こんにちは, so please try to remember that!\n\nWe usually don't use kanji for this, so don't use it when you're writing. But you'll probably run into it in the wild so it's good to know!",
+  "primaryReading": "こんにちは",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Just be aware that the は at the end is actually the particle は so it's pronounced like わ.",
+  "otherMeanings": [
+    "Good Day"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BB%8A%E6%97%A5%E3%81%AF-7564",
+    "graph": "/v/vocabulary/7564"
+  },
+  "related": {
+    "radicals": [
+      238,
+      22
+    ],
+    "kanjis": [
+      497,
+      476
+    ]
+  }
+}

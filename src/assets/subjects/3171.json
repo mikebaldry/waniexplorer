@@ -1,0 +1,30 @@
+{
+  "id": 3171,
+  "type": "vocabulary",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "習う"
+  },
+  "primaryMeaning": "To Learn",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>learn</kanji> so the vocab verb version means <vocabulary>to learn</vocabulary> or <vocabulary>to take lessons in</vocabulary> something.",
+  "primaryReading": "ならう",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nYou have <vocabulary>to learn</vocabulary> about <reading>Nara</reading>, the city of deer... lots and lots of deer. If you don't know about it, how about learning about it?",
+  "otherMeanings": [
+    "To Take Lessons In"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%BF%92%E3%81%86",
+    "graph": "/v/vocabulary/3171"
+  },
+  "related": {
+    "radicals": [
+      213,
+      52
+    ],
+    "kanjis": [
+      746
+    ]
+  }
+}

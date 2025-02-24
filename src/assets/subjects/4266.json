@@ -1,0 +1,32 @@
+{
+  "id": 4266,
+  "type": "vocabulary",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "圧力"
+  },
+  "primaryMeaning": "Pressure",
+  "meaningMnemonic": "The <kanji>pressure</kanji> <kanji>power</kanji> is the <vocabulary>pressure</vocabulary>. This can also be <vocabulary>stress</vocabulary> as well.",
+  "primaryReading": "あつりょく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Stress"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%9C%A7%E5%8A%9B",
+    "graph": "/v/vocabulary/4266"
+  },
+  "related": {
+    "radicals": [
+      116,
+      17,
+      13
+    ],
+    "kanjis": [
+      1106,
+      447
+    ]
+  }
+}

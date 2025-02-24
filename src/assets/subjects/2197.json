@@ -1,0 +1,40 @@
+{
+  "id": 2197,
+  "type": "kanji",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "舗"
+  },
+  "primaryReading": "ほ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ほ",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Shop",
+  "otherMeanings": [
+    "Pave"
+  ],
+  "meaningMnemonic": "You want to have a quaint <radical>cottage</radical> <radical>wedding</radical>, so you have to go to the cottage wedding <kanji>shop</kanji> to get everything you need.\n\nUnfortunately, there’s no road to the shop, so… you’ll just have to <kanji>pave</kanji> one yourself! Every shop needs a road, so get to paving.",
+  "readingMnemonic": "You're browsing everything in the <kanji>shop</kanji> when a garden <reading>hoe</reading> (ほ) catches your eye. Yes. This will make your cottage wedding the absolute best one. The hoe will give you away at your wedding.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%88%97",
+    "graph": "/v/kanji/2197"
+  },
+  "related": {
+    "radicals": [
+      433,
+      300
+    ],
+    "vocabularies": [
+      8028,
+      8029,
+      8030,
+      8031,
+      8232
+    ]
+  }
+}

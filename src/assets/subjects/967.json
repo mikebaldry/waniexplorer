@@ -1,0 +1,57 @@
+{
+  "id": 967,
+  "type": "kanji",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "品"
+  },
+  "primaryReading": "ひん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ひん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "しな",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Product",
+  "otherMeanings": [
+    "Article",
+    "Goods",
+    "Products"
+  ],
+  "meaningMnemonic": "The <radical>products</radical> radical and the <kanji>product</kanji> kanji are exactly the same! Productive!",
+  "readingMnemonic": "As you try to sell these <kanji>product</kanji>s, you finally get a buyer. It's a <reading>Hin</reading>du (ひん) person. She walks in and buys your products on the spot!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%93%81",
+    "graph": "/v/kanji/967"
+  },
+  "related": {
+    "radicals": [
+      227
+    ],
+    "vocabularies": [
+      3818,
+      3819,
+      3820,
+      3821,
+      3822,
+      3844,
+      4051,
+      4677,
+      4738,
+      5346,
+      6157,
+      7480,
+      7777,
+      8150,
+      8671,
+      8807
+    ]
+  }
+}

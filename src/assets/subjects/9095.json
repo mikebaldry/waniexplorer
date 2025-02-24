@@ -1,0 +1,34 @@
+{
+  "id": 9095,
+  "type": "kanji",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "勿"
+  },
+  "primaryReading": "もち",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "もち",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Must Not",
+  "otherMeanings": [],
+  "meaningMnemonic": "A <radical>wing</radical> is something you <kanji>must not</kanji> do anything with. Wings are fragile (think bird's wings and butterfly's wings) and sometimes dangerous (like the wings of a plane) and you must not touch them, or even go near them! You MUST NOT. You. MUST. NOT.",
+  "readingMnemonic": "Apart from staying away from wings, the other thing you <kanji>must not</kanji> do is eat <reading>mochi</reading> (もち). Okay, they're not fragile or dangerous, but I love mochi and I don't want you eating them.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%8B%BF",
+    "graph": "/v/kanji/9095"
+  },
+  "related": {
+    "radicals": [
+      173
+    ],
+    "vocabularies": [
+      9096,
+      9097
+    ]
+  }
+}

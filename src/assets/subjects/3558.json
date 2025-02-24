@@ -1,0 +1,32 @@
+{
+  "id": 3558,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "落とす"
+  },
+  "primaryMeaning": "To Drop Something",
+  "meaningMnemonic": "You've seen how 落ちる means \"to fall down.\" Now you're doing the action of \"falling something down,\" aka you're dropping it. You can remember this because you kind of <reading>toss</reading> (とす) something and it drops to the ground, making this word mean <vocabulary>to drop something</vocabulary>.",
+  "primaryReading": "おとす",
+  "readingMnemonic": "The reading comes from 落ちる. So long as you know that word you can apply that reading over here, too.",
+  "otherMeanings": [
+    "To Let Something Fall",
+    "To Lose Something"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%90%BD%E3%81%A8%E3%81%99",
+    "graph": "/v/vocabulary/3558"
+  },
+  "related": {
+    "radicals": [
+      90,
+      103,
+      180
+    ],
+    "kanjis": [
+      749
+    ]
+  }
+}

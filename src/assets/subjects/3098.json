@@ -1,0 +1,32 @@
+{
+  "id": 3098,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "始まる"
+  },
+  "primaryMeaning": "To Begin",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an <ja>う</ja> sound, you know this word is a verb. The kanji itself means <ja>start</ja>, and this verb means <vocabulary>to begin</vocabulary> or <vocabulary>to start</vocabulary>. 始まる is the intransitive version, so it doesn't take a direct object. A war begins, for example, or the new school term starts. No direct object, right?\n\nVerbs ending in okurigana that rhyme with <ja>ある</ja> tend to be intransitive like this. You can remember this because if something is <ja>ある</ja>, it's just there, existing, not acting <em>on</em> anything else. That's why verbs that sound like it are often intransitive too!",
+  "primaryReading": "はじまる",
+  "readingMnemonic": "Since this word has okurigana (hiragana attached to the kanji) you know that it's probably going to be the kun'yomi reading.\n\nLucky for you, the kanji readings for transitive and intransitive verbs are almost always the same. Once you learn one, you know them both! This reading is the same as 始める.",
+  "otherMeanings": [
+    "Something Begins",
+    "To Start",
+    "Something Starts"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A7%8B%E3%81%BE%E3%82%8B",
+    "graph": "/v/vocabulary/3098"
+  },
+  "related": {
+    "radicals": [
+      19,
+      417
+    ],
+    "kanjis": [
+      713
+    ]
+  }
+}

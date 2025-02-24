@@ -1,0 +1,47 @@
+{
+  "id": 2252,
+  "type": "kanji",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "哺"
+  },
+  "primaryReading": "ほ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ほ",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ほぐく",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ふく",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Suckle",
+  "otherMeanings": [
+    "Nurse"
+  ],
+  "meaningMnemonic": "After your <radical>wedding</radical> you have a baby and it uses its <radical>mouth</radical> to <kanji>suckle</kanji> from your post-wedding boobs. Yes, babies <kanji>nurse</kanji> from breasts. Get over it, kids.",
+  "readingMnemonic": "The baby wants to <kanji>nurse</kanji> all day and the only thing you can seem to do at the same time is <reading>hoe</reading> (ほ) your garden. You hold the baby to your breast with one arm and hoe little rows with the other. It's actually a great workout and a nice way to spend time!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%93%BA",
+    "graph": "/v/kanji/2252"
+  },
+  "related": {
+    "radicals": [
+      16,
+      300
+    ],
+    "vocabularies": [
+      8085,
+      8113
+    ]
+  }
+}

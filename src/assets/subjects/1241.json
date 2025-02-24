@@ -1,0 +1,48 @@
+{
+  "id": 1241,
+  "type": "kanji",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "武"
+  },
+  "primaryReading": "ぶ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ぶ",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "む",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "たけ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Military",
+  "otherMeanings": [],
+  "meaningMnemonic": "On the <radical>ground</radical> there's a <radical>ceremony</radical> where everyone keeps <radical>stop</radical>ping. This stopping ceremony is being performed by the <kanji>military</kanji>. They'll march one direction, then stop and turn, then march another direction, then stop again.",
+  "readingMnemonic": "You look closer at the people in the <kanji>military</kanji> and realize that every time they stop they take a drink of <reading>boo</reading>ze (ぶ)!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%AD%A6",
+    "graph": "/v/kanji/1241"
+  },
+  "related": {
+    "radicals": [
+      1,
+      79,
+      44
+    ],
+    "vocabularies": [
+      4733,
+      4734,
+      4735,
+      8687
+    ]
+  }
+}

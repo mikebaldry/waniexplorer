@@ -1,0 +1,32 @@
+{
+  "id": 5220,
+  "type": "vocabulary",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "壊す"
+  },
+  "primaryMeaning": "To Break Something",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>break</kanji> so the verb vocab version is <vocabulary>to break something</vocabulary>, because you're doing the breaking. You know this because someone is trying to <reading>sue</reading> (す) you for the things you broke of theirs.",
+  "primaryReading": "こわす",
+  "readingMnemonic": "The thing you broke? A beautiful ceramic <reading>koa</reading>la (こわ). Watch it shatter to the ground, because you threw it there. What a jerk you are.",
+  "otherMeanings": [
+    "To Break"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A3%8A%E3%81%99",
+    "graph": "/v/vocabulary/5220"
+  },
+  "related": {
+    "radicals": [
+      17,
+      15,
+      163,
+      320
+    ],
+    "kanjis": [
+      1389
+    ]
+  }
+}

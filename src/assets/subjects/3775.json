@@ -1,0 +1,32 @@
+{
+  "id": 3775,
+  "type": "vocabulary",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "不法"
+  },
+  "primaryMeaning": "Illegal",
+  "meaningMnemonic": "A <kanji>not</kanji> <kanji>law</kanji> is something that's against the law. It's <vocabulary>illegal</vocabulary> or <vocabulary>unlawful</vocabulary>.",
+  "primaryReading": "ふほう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Unlawful"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B8%8D%E6%B3%95",
+    "graph": "/v/vocabulary/3775"
+  },
+  "related": {
+    "radicals": [
+      96,
+      103,
+      244
+    ],
+    "kanjis": [
+      563,
+      949
+    ]
+  }
+}

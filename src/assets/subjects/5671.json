@@ -1,0 +1,34 @@
+{
+  "id": 5671,
+  "type": "vocabulary",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "無糖"
+  },
+  "primaryMeaning": "Sugar Free",
+  "meaningMnemonic": "Something with <kanji>not</kanji> <kanji>sugar</kanji> is something that is <vocabulary>sugar free</vocabulary> or <vocabulary>unsweetened</vocabulary>.",
+  "primaryReading": "むとう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Unsweetened"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%84%A1%E7%B3%96",
+    "graph": "/v/vocabulary/5671"
+  },
+  "related": {
+    "radicals": [
+      252,
+      98,
+      62,
+      105,
+      16
+    ],
+    "kanjis": [
+      1008,
+      1535
+    ]
+  }
+}

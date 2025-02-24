@@ -1,0 +1,42 @@
+{
+  "id": 4371,
+  "type": "vocabulary",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "電子機器"
+  },
+  "primaryMeaning": "Electronic Device",
+  "meaningMnemonic": "You have an <kanji>electronic</kanji> (電子) <kanji>container</kanji> <kanji>machine</kanji>. This is just a machine that contains electricity and electric parts. So basically, an <vocabulary>electronic device</vocabulary>, or more generally, <vocabulary>electronic equipment</vocabulary> or <vocabulary>electronics</vocabulary>.\n\n電子機器 refers to complex electronic devices like computers, smartphones, medical devices, control systems, and more. So while it can be used to refer to a wide range of electronic devices, it's usually not used for things like simple household appliances like toasters or kettles.",
+  "primaryReading": "でんしきき",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Electronic Equipment",
+    "Electronics"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%9B%BB%E5%AD%90%E6%A9%9F%E5%99%A8",
+    "graph": "/v/vocabulary/4371"
+  },
+  "related": {
+    "radicals": [
+      119,
+      51,
+      211,
+      34,
+      23,
+      87,
+      194,
+      9,
+      18,
+      227
+    ],
+    "kanjis": [
+      706,
+      462,
+      1090,
+      876
+    ]
+  }
+}

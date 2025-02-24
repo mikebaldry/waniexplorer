@@ -1,0 +1,32 @@
+{
+  "id": 5247,
+  "type": "vocabulary",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "江戸"
+  },
+  "primaryMeaning": "Edo",
+  "meaningMnemonic": "The <kanji>bay</kanji> <kanji>door</kanji> isn't what you might think, it refers to <vocabulary>Edo</vocabulary>, which is what Tokyo was called back in the day. You'll still see references to it everywhere, though, so it's good to learn. You can also call this <vocabulary>Tokyo</vocabulary> if you want, but I'd prefer if you answered \"Edo,\" instead.",
+  "primaryReading": "えど",
+  "readingMnemonic": "The readings are the ones you learned with the kanji. Of course, it will be easy if you know the word <vocabulary>Edo</vocabulary> already.",
+  "otherMeanings": [
+    "Tokyo"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B1%9F%E6%88%B8",
+    "graph": "/v/vocabulary/5247"
+  },
+  "related": {
+    "radicals": [
+      103,
+      25,
+      73
+    ],
+    "kanjis": [
+      1385,
+      509
+    ]
+  }
+}

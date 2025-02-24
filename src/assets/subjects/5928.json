@@ -1,0 +1,28 @@
+{
+  "id": 5928,
+  "type": "vocabulary",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "油"
+  },
+  "primaryMeaning": "Oil",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "あぶら",
+  "readingMnemonic": "You need to apply <vocabulary>oil</vocabulary> to <reading>a bra</reading> (あぶら) because it's stuck on you. You can't get it unhooked, so you have to slide it off. Problem is, it's too tight, which is why <reading>a bra</reading> needs oil to slide off.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B2%B9",
+    "graph": "/v/vocabulary/5928"
+  },
+  "related": {
+    "radicals": [
+      103,
+      268
+    ],
+    "kanjis": [
+      1609
+    ]
+  }
+}

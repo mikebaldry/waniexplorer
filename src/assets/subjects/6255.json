@@ -1,0 +1,31 @@
+{
+  "id": 6255,
+  "type": "vocabulary",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "取り戻す"
+  },
+  "primaryMeaning": "To Take Back",
+  "meaningMnemonic": "To <kanji>take</kanji> and <kanji>return</kanji> something to yourself is <vocabulary>to take back</vocabulary> something. Give it back!",
+  "primaryReading": "とりもどす",
+  "readingMnemonic": "The readings come from 取る and 戻す. Combine them to get this.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%8F%96%E3%82%8A%E6%88%BB%E3%81%99",
+    "graph": "/v/vocabulary/6255"
+  },
+  "related": {
+    "radicals": [
+      88,
+      30,
+      73,
+      18
+    ],
+    "kanjis": [
+      966,
+      1653
+    ]
+  }
+}

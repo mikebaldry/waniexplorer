@@ -1,0 +1,48 @@
+{
+  "id": 1538,
+  "type": "kanji",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "著"
+  },
+  "primaryReading": "ちょ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ちょ",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "いちじる",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "あらわ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Author",
+  "otherMeanings": [],
+  "meaningMnemonic": "If <radical>someone</radical> is holding <radical>flowers</radical>, they're probably an <kanji>author</kanji>. Authors really love flowers, because they help them think of flowery language they can use to sound smart in their books.",
+  "readingMnemonic": "Unfortunately, the <kanji>author</kanji> is allergic to flowers. They are only allergic to touching them though, so the author is holding the flowers with a pair of <reading>cho</reading>psticks (ちょ), really close to their face. Using the chopsticks, they can still use the flowers to think of fancy, author-ly words without touching them.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%91%97",
+    "graph": "/v/kanji/1538"
+  },
+  "related": {
+    "radicals": [
+      90,
+      203
+    ],
+    "vocabularies": [
+      5678,
+      5679,
+      5680,
+      5855,
+      8172
+    ]
+  }
+}

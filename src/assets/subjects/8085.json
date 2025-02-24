@@ -1,0 +1,33 @@
+{
+  "id": 8085,
+  "type": "vocabulary",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "哺育"
+  },
+  "primaryMeaning": "Nursing",
+  "meaningMnemonic": "<kanji>Nurse</kanji> and <kanji>raise</kanji> your baby by <vocabulary>nursing</vocabulary>. Milk helps babies grow up big and strong.",
+  "primaryReading": "ほいく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Suckling"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%93%BA%E8%82%B2",
+    "graph": "/v/vocabulary/8085"
+  },
+  "related": {
+    "radicals": [
+      16,
+      300,
+      8776,
+      43
+    ],
+    "kanjis": [
+      2252,
+      795
+    ]
+  }
+}

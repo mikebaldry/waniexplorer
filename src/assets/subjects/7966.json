@@ -1,0 +1,36 @@
+{
+  "id": 7966,
+  "type": "vocabulary",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "余剰"
+  },
+  "primaryMeaning": "Redundant",
+  "meaningMnemonic": "If you have a <kanji>surplus</kanji> <kanji>surplus</kanji> it's a little <vocabulary>redundant</vocabulary> and you end up having a <vocabulary>surplus</vocabulary> of surpluses! ",
+  "primaryReading": "よじょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Surplus",
+    "Residue",
+    "Balance"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BD%99%E5%89%B0",
+    "graph": "/v/vocabulary/7966"
+  },
+  "related": {
+    "radicals": [
+      8764,
+      207,
+      135,
+      16,
+      128
+    ],
+    "kanjis": [
+      1094,
+      2204
+    ]
+  }
+}

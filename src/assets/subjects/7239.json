@@ -1,0 +1,31 @@
+{
+  "id": 7239,
+  "type": "vocabulary",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "未遂"
+  },
+  "primaryMeaning": "Attempt",
+  "meaningMnemonic": "I have <kanji>not yet</kanji> <kanji>accomplish</kanji>ed anything yet. This is only an <vocabulary>attempt</vocabulary>, so we'll see how it goes.",
+  "primaryReading": "みすい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%9C%AA%E9%81%82",
+    "graph": "/v/vocabulary/7239"
+  },
+  "related": {
+    "radicals": [
+      134,
+      114,
+      8767,
+      233
+    ],
+    "kanjis": [
+      656,
+      2042
+    ]
+  }
+}

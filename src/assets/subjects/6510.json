@@ -1,0 +1,34 @@
+{
+  "id": 6510,
+  "type": "vocabulary",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "艦隊"
+  },
+  "primaryMeaning": "Naval Fleet",
+  "meaningMnemonic": "A <kanji>warship</kanji> <kanji>squad</kanji> is a <vocabulary>naval fleet</vocabulary> or an <vocabulary>armada</vocabulary>.",
+  "primaryReading": "かんたい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Armada"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%89%A6%E9%9A%8A",
+    "graph": "/v/vocabulary/6510"
+  },
+  "related": {
+    "radicals": [
+      149,
+      328,
+      176,
+      8767,
+      233
+    ],
+    "kanjis": [
+      1790,
+      1359
+    ]
+  }
+}

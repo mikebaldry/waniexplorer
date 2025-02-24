@@ -1,0 +1,40 @@
+{
+  "id": 7806,
+  "type": "vocabulary",
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "洗濯機"
+  },
+  "primaryMeaning": "Washing Machine",
+  "meaningMnemonic": "A <kanji>wash</kanji> <kanji>wash</kanji> <kanji>machine</kanji> is just another way of saying <vocabulary>washing machine</vocabulary>. It does extra washing that you can't do by hand so there are two washes here. ",
+  "primaryReading": "せんたくき",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.\n\nNote that although せんたくき is the official reading, this word is commonly pronounced せんたっき when spoken.",
+  "otherMeanings": [
+    "Laundry Machine"
+  ],
+  "otherReadings": [
+    "せんたっき"
+  ],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B4%97%E6%BF%AF%E6%A9%9F",
+    "graph": "/v/vocabulary/7806"
+  },
+  "related": {
+    "radicals": [
+      103,
+      258,
+      105,
+      240,
+      23,
+      87,
+      194,
+      9
+    ],
+    "kanjis": [
+      1043,
+      2126,
+      1090
+    ]
+  }
+}

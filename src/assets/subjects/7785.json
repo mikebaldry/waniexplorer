@@ -1,0 +1,32 @@
+{
+  "id": 7785,
+  "type": "vocabulary",
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "偉い"
+  },
+  "primaryMeaning": "Great",
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>greatness</kanji>? <vocabulary>Great</vocabulary>! ",
+  "primaryReading": "えらい",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nThe only thing a <vocabulary>great</vocabulary> person doesn't do is make <reading>error</reading>s (えら). That's what makes them so great. They can always sense when an error is about to happen and they correct it before it even has a chance!",
+  "otherMeanings": [
+    "Excellent",
+    "Admirable",
+    "Remarkable"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%81%89%E3%81%84",
+    "graph": "/v/vocabulary/7785"
+  },
+  "related": {
+    "radicals": [
+      75,
+      294
+    ],
+    "kanjis": [
+      2120
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": 1014,
+  "type": "kanji",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "干"
+  },
+  "primaryReading": "かん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "かん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ほ",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ひ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Dry",
+  "otherMeanings": [],
+  "meaningMnemonic": "The <radical>dry</radical> radical and the <kanji>dry</kanji> kanji are the same!",
+  "readingMnemonic": "You need to <kanji>dry</kanji> Genghis <reading>Khan</reading> (かん). He hates being wet, all of the Mongols do, so your job is to dry his entire body. And his clothes, and his horse. In fact, when it rains, you have to ride next to him keeping him dry by holding an umbrella above his head.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%B9%B2",
+    "graph": "/v/kanji/1014"
+  },
+  "related": {
+    "radicals": [
+      61
+    ],
+    "vocabularies": [
+      3985,
+      3986,
+      3987,
+      4214,
+      6621,
+      8109
+    ]
+  }
+}

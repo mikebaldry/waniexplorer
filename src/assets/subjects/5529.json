@@ -1,0 +1,33 @@
+{
+  "id": 5529,
+  "type": "vocabulary",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "採算"
+  },
+  "primaryMeaning": "Profit",
+  "meaningMnemonic": "<kanji>Gather</kanji> the money and then <kanji>calculate</kanji> how much of it you have. Oh, nice, looks like you have a <vocabulary>profit</vocabulary>.",
+  "primaryReading": "さいさん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%8E%A1%E7%AE%97",
+    "graph": "/v/vocabulary/5529"
+  },
+  "related": {
+    "radicals": [
+      63,
+      8772,
+      23,
+      85,
+      53,
+      106
+    ],
+    "kanjis": [
+      1484,
+      762
+    ]
+  }
+}

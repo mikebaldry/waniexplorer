@@ -1,0 +1,50 @@
+{
+  "id": 1550,
+  "type": "kanji",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "吐"
+  },
+  "primaryReading": "は",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "は",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "つ",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "と",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Throw Up",
+  "otherMeanings": [
+    "Spit",
+    "Vomit"
+  ],
+  "meaningMnemonic": "If you put <radical>dirt</radical> in your <radical>mouth</radical> you're going to <kanji>throw up</kanji>. That's just a fact.",
+  "readingMnemonic": "When you <kanji>throw up</kanji> it sounds like you're shouting, \"<reading>HA</reading> (は)!\" Then all the dirt-puke comes out in a wave. It's less of a laugh ha and more of an oh no I'm throwing up ha.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%90%90",
+    "graph": "/v/kanji/1550"
+  },
+  "related": {
+    "radicals": [
+      16,
+      17
+    ],
+    "vocabularies": [
+      5757,
+      5939,
+      5940,
+      8846
+    ]
+  }
+}

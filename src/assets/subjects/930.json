@@ -1,0 +1,46 @@
+{
+  "id": 930,
+  "type": "kanji",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "帰"
+  },
+  "primaryReading": "かえ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "かえ",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "き",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Return",
+  "otherMeanings": [
+    "Return Home"
+  ],
+  "meaningMnemonic": "A <radical>knife</radical> got stuck in <radical>Wolverine</radical>'s <radical>forehead</radical>, and he has a <radical>towel</radical> wrapped around it to stop the bleeding, but he really needs to <kanji>return home</kanji>.",
+  "readingMnemonic": "Wolverine wants to <kanji>return home</kanji>, but he can't drive himself because there's a knife in his forehead and lots of blood, so he asks his friend the <reading>ca</reading>r <reading>e</reading>lephant (かえ) to take him. Car elephant is just an elephant mutant that has a car on his back.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%B8%B0",
+    "graph": "/v/kanji/930"
+  },
+  "related": {
+    "radicals": [
+      128,
+      105,
+      76,
+      102
+    ],
+    "vocabularies": [
+      3755,
+      6551,
+      8947,
+      9044
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 3892,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "不良"
+  },
+  "primaryMeaning": "Bad",
+  "meaningMnemonic": "Something that's <kanji>not</kanji> <kanji>good</kanji> is <vocabulary>bad</vocabulary> or <vocabulary>substandard</vocabulary>. This usage is more formal and frequently paired with other kanji compounds. Alternatively, it can refer to someone who is a  <vocabulary>delinquent</vocabulary>, in which case it is often used as a standalone word. ",
+  "primaryReading": "ふりょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Substandard",
+    "Delinquent"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B8%8D%E8%89%AF",
+    "graph": "/v/vocabulary/3892"
+  },
+  "related": {
+    "radicals": [
+      96,
+      3,
+      196
+    ],
+    "kanjis": [
+      563,
+      805
+    ]
+  }
+}

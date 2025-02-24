@@ -1,0 +1,31 @@
+{
+  "id": 3396,
+  "type": "vocabulary",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "下着"
+  },
+  "primaryMeaning": "Underwear",
+  "meaningMnemonic": "The things you <kanji>wear</kanji> <kanji>below</kanji> your other clothes. That is your <vocabulary>underwear</vocabulary>. You do wear underwear, right?",
+  "primaryReading": "したぎ",
+  "readingMnemonic": "The reading for this one is all kun'yomi vocab reading, but you should know these by now. 着 uses the reading you learned with 着る, but this word employs that pesky rendaku, so remember that き becomes ぎ here.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B8%8B%E7%9D%80",
+    "graph": "/v/vocabulary/3396"
+  },
+  "related": {
+    "radicals": [
+      1,
+      10,
+      136,
+      53
+    ],
+    "kanjis": [
+      451,
+      846
+    ]
+  }
+}

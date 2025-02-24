@@ -1,0 +1,36 @@
+{
+  "id": 5654,
+  "type": "vocabulary",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "熟語"
+  },
+  "primaryMeaning": "Compound Word",
+  "meaningMnemonic": "<kanji>Ripen</kanji>ed <kanji>language</kanji>s are words that have taken some time to come into their form. They ripened up, starting with just one kanji, but then became two, or three, or more. That is a <vocabulary>compound word</vocabulary> or <vocabulary>compound kanji</vocabulary>. You know that \"jukugo\" thing I talk about so much? That's this!",
+  "primaryReading": "じゅくご",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Compound Kanji",
+    "Jukugo"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%86%9F%E8%AA%9E",
+    "graph": "/v/vocabulary/5654"
+  },
+  "related": {
+    "radicals": [
+      345,
+      223,
+      131,
+      117,
+      39,
+      16
+    ],
+    "kanjis": [
+      1529,
+      764
+    ]
+  }
+}

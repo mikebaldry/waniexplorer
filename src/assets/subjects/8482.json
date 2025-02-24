@@ -1,0 +1,34 @@
+{
+  "id": 8482,
+  "type": "vocabulary",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "硫酸"
+  },
+  "primaryMeaning": "Sulfuric Acid",
+  "meaningMnemonic": "Mix <kanji>sulfur</kanji> and <kanji>acid</kanji> and you'll get <vocabulary>sulfuric acid</vocabulary>! That's how science works! How simple!",
+  "primaryReading": "りゅうさん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Sulphuric Acid"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%A1%AB%E9%85%B8",
+    "graph": "/v/vocabulary/8482"
+  },
+  "related": {
+    "radicals": [
+      54,
+      8776,
+      21,
+      182,
+      427
+    ],
+    "kanjis": [
+      2365,
+      1496
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": 835,
+  "type": "kanji",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "階"
+  },
+  "primaryReading": "かい",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "かい",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Floor",
+  "otherMeanings": [
+    "Story"
+  ],
+  "meaningMnemonic": "Look at a <radical>building</radical> and <radical>compare</radical> the <radical>white</radical> parts. Each of those white parts is a <kanji>floor</kanji>. Multi-<kanji>story</kanji> buildings have tons of different floors that you can see from the outside.",
+  "readingMnemonic": "One <kanji>floor</kanji> is just all <reading>kay</reading>aks (かい). You're looking at this building, and every other <kanji>story</kanji> is normal, but that one floor is kayak after kayak after kayak.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%9A%8E",
+    "graph": "/v/kanji/835"
+  },
+  "related": {
+    "radicals": [
+      176,
+      161,
+      52
+    ],
+    "vocabularies": [
+      3372,
+      3373,
+      3374,
+      5047,
+      5049,
+      7452
+    ]
+  }
+}

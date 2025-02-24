@@ -1,0 +1,68 @@
+{
+  "id": 475,
+  "type": "kanji",
+  "level": 2,
+  "characters": {
+    "type": "text",
+    "value": "文"
+  },
+  "primaryReading": "ぶん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ぶん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "もん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ふみ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Writing",
+  "otherMeanings": [
+    "Sentence"
+  ],
+  "meaningMnemonic": "The kanji and the radical are the same, so remembering the meaning of this kanji is as simple as making sure you know the radical for <radical>writing</radical> first! If you know the radical, you know this kanji means <kanji>writing</kanji> as well.",
+  "readingMnemonic": "This kanji has more than one important reading you need to learn! But don't worry, here's a mnemonic to help you:\n\nYou always put <kanji>writing</kanji> on your <reading>bun</reading>s (ぶん) to keep them from getting eaten by the bun <reading>mon</reading>ster (もん). What kind of writing? Usually it's just an X to show the monster these buns are off-limits. (In fact, it kind of looks like the X part in 文. Hmm…)",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%96%87",
+    "graph": "/v/kanji/475"
+  },
+  "related": {
+    "radicals": [
+      42
+    ],
+    "vocabularies": [
+      2540,
+      2659,
+      2660,
+      2661,
+      2809,
+      2846,
+      3283,
+      3346,
+      3411,
+      3580,
+      3658,
+      3774,
+      3786,
+      4075,
+      4327,
+      4612,
+      5519,
+      5994,
+      7632,
+      7750,
+      8303,
+      8696,
+      8706,
+      8740
+    ]
+  }
+}

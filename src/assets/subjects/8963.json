@@ -1,0 +1,35 @@
+{
+  "id": 8963,
+  "type": "kanji",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "苺"
+  },
+  "primaryReading": "いちご",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "いちご",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Strawberry",
+  "otherMeanings": [],
+  "meaningMnemonic": "If <radical>flowers</radical> are in the <radical>sun</radical> and they receive one <radical>drop</radical> and then another <radical>drop</radical> of water, they turn into a <kanji>strawberry</kanji>.",
+  "readingMnemonic": "Believe it or not, a giant <kanji>strawberry</kanji> is the only cure for an <reading>itchy Go</reading>dzilla (いちご). ",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%8B%BA",
+    "graph": "/v/kanji/8963"
+  },
+  "related": {
+    "radicals": [
+      90,
+      22,
+      3
+    ],
+    "vocabularies": [
+      8975
+    ]
+  }
+}

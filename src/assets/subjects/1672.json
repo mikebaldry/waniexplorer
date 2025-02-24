@@ -1,0 +1,45 @@
+{
+  "id": 1672,
+  "type": "kanji",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "掲"
+  },
+  "primaryReading": "けい",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "けい",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "かか",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Display",
+  "otherMeanings": [],
+  "meaningMnemonic": "You're in <radical>prison</radical>, but you can use your <radical>fingers</radical> and a <radical>spoon</radical> in the light of the <radical>sun</radical> to <kanji>display</kanji> little moving pictures on your cell wall. It's like a shadow puppet display except you can only make a few characters with your limited hand tools.",
+  "readingMnemonic": "There is one thing you <kanji>display</kanji> more than anything else and it's <reading>ca</reading>ke (けい). You smush your fingers to make a cake shape and use the spoon to pretend you're eating it.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%8E%B2",
+    "graph": "/v/kanji/1672"
+  },
+  "related": {
+    "radicals": [
+      63,
+      22,
+      14,
+      57
+    ],
+    "vocabularies": [
+      6131,
+      6132,
+      6133,
+      6251,
+      7511
+    ]
+  }
+}

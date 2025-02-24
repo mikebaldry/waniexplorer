@@ -1,0 +1,34 @@
+{
+  "id": 7763,
+  "type": "vocabulary",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "嫌悪"
+  },
+  "primaryMeaning": "Disgust",
+  "meaningMnemonic": "You <kanji>dislike</kanji> someone so <kanji>bad</kanji>ly that it turns to <vocabulary>disgust</vocabulary> and <vocabulary>hate</vocabulary>.",
+  "primaryReading": "けんお",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You haven't learned this reading for 悪 yet, so here's a mnemonic to help you:\n\nWhen you feel <vocabulary>disgust</vocabulary> for someone all you can manage to say when you see them is, \"<reading>Oh</reading>... (お), it's you.\" Feel the anger when you see their face, \"Oh, you again. Bleh.\"",
+  "otherMeanings": [
+    "Hate",
+    "Repugnance"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%AB%8C%E6%82%AA",
+    "graph": "/v/vocabulary/7763"
+  },
+  "related": {
+    "radicals": [
+      19,
+      271,
+      204,
+      65
+    ],
+    "kanjis": [
+      1104,
+      829
+    ]
+  }
+}

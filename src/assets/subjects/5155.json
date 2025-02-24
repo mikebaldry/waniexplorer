@@ -1,0 +1,33 @@
+{
+  "id": 5155,
+  "type": "vocabulary",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "憲法"
+  },
+  "primaryMeaning": "Constitution",
+  "meaningMnemonic": "The <kanji>constitution</kanji> <kanji>law</kanji>s are what makes up the <vocabulary>constitution</vocabulary>.",
+  "primaryReading": "けんぽう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%86%B2%E6%B3%95",
+    "graph": "/v/vocabulary/5155"
+  },
+  "related": {
+    "radicals": [
+      78,
+      210,
+      163,
+      65,
+      103,
+      244
+    ],
+    "kanjis": [
+      1373,
+      949
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 5302,
+  "type": "vocabulary",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "求婚"
+  },
+  "primaryMeaning": "Marriage Proposal",
+  "meaningMnemonic": "When you <kanji>request</kanji> <kanji>marriage</kanji> with someone else, you are doing a <vocabulary>marriage proposal</vocabulary>. Will you marry me, Brad Pitt?",
+  "primaryReading": "きゅうこん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B1%82%E5%A9%9A",
+    "graph": "/v/vocabulary/5302"
+  },
+  "related": {
+    "radicals": [
+      1,
+      45,
+      3,
+      19,
+      147,
+      22
+    ],
+    "kanjis": [
+      913,
+      1416
+    ]
+  }
+}

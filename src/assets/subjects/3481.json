@@ -1,0 +1,34 @@
+{
+  "id": 3481,
+  "type": "vocabulary",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "一番目"
+  },
+  "primaryMeaning": "First Thing",
+  "meaningMnemonic": "You've seen 一番 (number one), so what in the world is this eye on the end? This eye (目) signifies the order. So, add this to \"number one\" and you have the <vocabulary>first thing</vocabulary> / <vocabulary>the first</vocabulary>.",
+  "primaryReading": "いちばんめ",
+  "readingMnemonic": "The reading for this word is just the vocab word 一番 plus the word 目. If you know both of those readings you'll be able to read this one as well.",
+  "otherMeanings": [
+    "The First"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B8%80%E7%95%AA%E7%9B%AE",
+    "graph": "/v/vocabulary/3481"
+  },
+  "related": {
+    "radicals": [
+      1,
+      164,
+      51,
+      53
+    ],
+    "kanjis": [
+      440,
+      696,
+      492
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 2442,
+  "type": "kanji",
+  "level": 60,
+  "characters": {
+    "type": "text",
+    "value": "唄"
+  },
+  "primaryReading": "うた",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "うた",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ばい",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Shamisen Song",
+  "otherMeanings": [],
+  "meaningMnemonic": "Use your <radical>mouth</radical> to sing and a <radical>shellfish</radical> to stroke your shamisen, and you'll be performing a <kanji>shamisen song</kanji> just like that! Yes, it's that easy. Just go find a shell, open your mouth, and you'll be singing one too in no time!",
+  "readingMnemonic": "A <kanji>shamisen song</kanji> is just an <reading>歌</reading> (うた) but with a shamisen. They're still songs so they're said the exact same way!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%94%84",
+    "graph": "/v/kanji/2442"
+  },
+  "related": {
+    "radicals": [
+      16,
+      94
+    ],
+    "vocabularies": [
+      8601,
+      8602,
+      8603
+    ]
+  }
+}

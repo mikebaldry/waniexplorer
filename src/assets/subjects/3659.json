@@ -1,0 +1,34 @@
+{
+  "id": 3659,
+  "type": "vocabulary",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "悪例"
+  },
+  "primaryMeaning": "Bad Example",
+  "meaningMnemonic": "A <kanji>bad</kanji> <kanji>example</kanji> is a <vocabulary>bad example</vocabulary> and is something you don't want.\n\nThis is a formal expression and less common than 悪い例 (bad example) or 良くない例 (not good example).",
+  "primaryReading": "あくれい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Bad Precedent"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%82%AA%E4%BE%8B",
+    "graph": "/v/vocabulary/3659"
+  },
+  "related": {
+    "radicals": [
+      204,
+      65,
+      75,
+      132,
+      128
+    ],
+    "kanjis": [
+      829,
+      896
+    ]
+  }
+}

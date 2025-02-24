@@ -1,0 +1,36 @@
+{
+  "id": 1618,
+  "type": "kanji",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "債"
+  },
+  "primaryReading": "さい",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "さい",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Debt",
+  "otherMeanings": [],
+  "meaningMnemonic": "Your <radical>leader</radical> gets the <radical>blame</radical> if your company is in <kanji>debt</kanji>. They're the one who led you all into that debt, so they should get the blame too.",
+  "readingMnemonic": "To pay off this <kanji>debt</kanji> your leader says you need to sell your <reading>cy</reading>borg (さい) to help the company. You fight him! You yell! You scream! The cyborg puts a half-human half-robot hand on your shoulder and shakes its head sadly.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%82%B5",
+    "graph": "/v/kanji/1618"
+  },
+  "related": {
+    "radicals": [
+      75,
+      321
+    ],
+    "vocabularies": [
+      5971,
+      5972,
+      5973
+    ]
+  }
+}

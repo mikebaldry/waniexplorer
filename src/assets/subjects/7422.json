@@ -1,0 +1,33 @@
+{
+  "id": 7422,
+  "type": "vocabulary",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "搬送"
+  },
+  "primaryMeaning": "Transportation",
+  "meaningMnemonic": "Things that <kanji>transport</kanji> and <kanji>send</kanji> you places are forms of <vocabulary>transportation</vocabulary>.\n\n搬送 is most often used in medical contexts to refer to the transportation of patients.",
+  "primaryReading": "はんそう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%90%AC%E9%80%81",
+    "graph": "/v/vocabulary/7422"
+  },
+  "related": {
+    "radicals": [
+      63,
+      149,
+      160,
+      114,
+      8767,
+      40
+    ],
+    "kanjis": [
+      2114,
+      734
+    ]
+  }
+}

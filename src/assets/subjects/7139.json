@@ -1,0 +1,30 @@
+{
+  "id": 7139,
+  "type": "vocabulary",
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "裸足"
+  },
+  "primaryMeaning": "Barefoot",
+  "meaningMnemonic": "If you have a <kanji>naked</kanji> <kanji>foot</kanji>, it means you're not wearing anything on your foot, making you <vocabulary>barefoot</vocabulary>.",
+  "primaryReading": "はだし",
+  "readingMnemonic": "The reading here is a bit weird. It's like the words 裸 (はだか) and 足 (あし) were smushed together into one word. The 裸 becomes はだ and the 足 becomes し. You can think of it this way: You were <vocabulary>barefoot</vocabulary> too long, and because of this, you don't have feet anymore, though you <reading>had ashi</reading> (はだし) at one point in the past.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%A3%B8%E8%B6%B3",
+    "graph": "/v/vocabulary/7139"
+  },
+  "related": {
+    "radicals": [
+      80,
+      235,
+      95
+    ],
+    "kanjis": [
+      1924,
+      561
+    ]
+  }
+}

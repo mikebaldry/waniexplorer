@@ -1,0 +1,42 @@
+{
+  "id": 1013,
+  "type": "kanji",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "非"
+  },
+  "primaryReading": "ひ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ひ",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Injustice",
+  "otherMeanings": [
+    "Negative",
+    "Mistake"
+  ],
+  "meaningMnemonic": "A <radical>criminal</radical> has done an <kanji>injustice</kanji> on the world or other people. Being a criminal is a <kanji>negative</kanji> thing, and even if it was just a <kanji>mistake</kanji>, it was still a crime.",
+  "readingMnemonic": "When you commit an <kanji>injustice</kanji>, you'll know because <reading>he</reading>at (ひ) fills your body. Maybe you've never done any kind of big thing, but when you make a <kanji>mistake</kanji> your face fills with heat and you turn red!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%9D%9E",
+    "graph": "/v/kanji/1013"
+  },
+  "related": {
+    "radicals": [
+      209
+    ],
+    "vocabularies": [
+      4009,
+      4045,
+      4245,
+      4246,
+      4339,
+      4841,
+      8254
+    ]
+  }
+}

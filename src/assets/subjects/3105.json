@@ -1,0 +1,31 @@
+{
+  "id": 3105,
+  "type": "vocabulary",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "服"
+  },
+  "primaryMeaning": "Clothes",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "ふく",
+  "readingMnemonic": "The reading is the reading you learned with the kanji and uses the on'yomi even though it's a single word. Very strange, but convenient for you so long as you remember this exception reading word.",
+  "otherMeanings": [
+    "Clothing"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%9C%8D",
+    "graph": "/v/vocabulary/3105"
+  },
+  "related": {
+    "radicals": [
+      43,
+      145,
+      30
+    ],
+    "kanjis": [
+      716
+    ]
+  }
+}

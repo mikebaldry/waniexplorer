@@ -1,0 +1,30 @@
+{
+  "id": 5300,
+  "type": "vocabulary",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "冷やす"
+  },
+  "primaryMeaning": "To Chill Something",
+  "meaningMnemonic": "冷たい is \"cold.\" This is the verb version, so you're making something cold. This word is <vocabulary>to chill something</vocabulary> or <vocabulary>to cool something</vocabulary>.",
+  "primaryReading": "ひやす",
+  "readingMnemonic": "<vocabulary>To chill something</vocabulary>, you need to apply cold, not <reading>hea</reading>t (ひ).",
+  "otherMeanings": [
+    "To Cool Something"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%86%B7%E3%82%84%E3%81%99",
+    "graph": "/v/vocabulary/5300"
+  },
+  "related": {
+    "radicals": [
+      123,
+      189
+    ],
+    "kanjis": [
+      1350
+    ]
+  }
+}

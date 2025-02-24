@@ -1,0 +1,35 @@
+{
+  "id": 1946,
+  "type": "kanji",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "寮"
+  },
+  "primaryReading": "りょう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "りょう",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Dormitory",
+  "otherMeanings": [],
+  "meaningMnemonic": "You need to bring <radical>charcoal</radical> under this <radical>roof</radical> to heat the <kanji>dormitory</kanji>. You live in this dormitory with a bunch of other kids, and you all have to take turns bringing in the charcoal from outside to heat it.",
+  "readingMnemonic": "The <kanji>dormitory</kanji> is on an island, so when you go out to get the charcoal you have to take a <reading>row</reading> (りょう) boat. You row and row and row until you reach the shed with all the charcoal. Then you row and row and row it back to the dormitory.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%AF%AE",
+    "graph": "/v/kanji/1946"
+  },
+  "related": {
+    "radicals": [
+      78,
+      319
+    ],
+    "vocabularies": [
+      6979,
+      6980
+    ]
+  }
+}

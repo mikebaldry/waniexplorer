@@ -1,0 +1,37 @@
+{
+  "id": 1990,
+  "type": "kanji",
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "墜"
+  },
+  "primaryReading": "つい",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "つい",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Crash",
+  "otherMeanings": [],
+  "meaningMnemonic": "A <radical>building</radical> falls into the <radical>dirt</radical> when a <radical>pig</radical> with <radical>horns</radical> <kanji>crash</kanji>es into it. The building literally crashes to the ground when the horned pig attacks it.",
+  "readingMnemonic": "You pull the poor pig out of the rubble of the <kanji>crash</kanji>. It's not dead, but it had a nasty bump to the head and now thinks it's a bird. \"<reading>TWEE</reading>T (つい)!\" says the pig. \"Tweet, tweet, tweet!\" Poor confused pig.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%A2%9C",
+    "graph": "/v/kanji/1990"
+  },
+  "related": {
+    "radicals": [
+      176,
+      8767,
+      233,
+      17
+    ],
+    "vocabularies": [
+      7090,
+      7091
+    ]
+  }
+}

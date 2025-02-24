@@ -1,0 +1,38 @@
+{
+  "id": 959,
+  "type": "kanji",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "猫"
+  },
+  "primaryReading": "ねこ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ねこ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Cat",
+  "otherMeanings": [],
+  "meaningMnemonic": "If you see an <radical>animal</radical> among the <radical>flowers</radical> in a <radical>rice paddy</radical>, chances are it’s a <kanji>cat</kanji>. Cats love rice paddy flowers, almost as much as they love catnip.",
+  "readingMnemonic": "Wait a minute… This <kanji>cat</kanji> is pretty odd looking. You take a closer look, seeing it is missing its <reading>neck</reading> (ねこ). You go to pet it, but it's super sensitive about that area of its head, which is basically a face connected to a body...",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%8C%AB",
+    "graph": "/v/kanji/959"
+  },
+  "related": {
+    "radicals": [
+      144,
+      90,
+      51
+    ],
+    "vocabularies": [
+      3778,
+      3779,
+      4229,
+      5395
+    ]
+  }
+}

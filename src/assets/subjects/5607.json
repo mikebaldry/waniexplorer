@@ -1,0 +1,33 @@
+{
+  "id": 5607,
+  "type": "vocabulary",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "今更"
+  },
+  "primaryMeaning": "Too Late",
+  "meaningMnemonic": "<kanji>Now</kanji> isn’t good enough for <kanji>renew</kanji>al. It’s already <vocabulary>too late</vocabulary>. The time has passed <vocabulary>now</vocabulary>.",
+  "primaryReading": "いまさら",
+  "readingMnemonic": "You might be tempted to read this with on’yomi, but this is actually 今 and 更に put together, just without the に particle at the end. Try to remember it in this way, or just make a mental note to use kun’yomi here!",
+  "otherMeanings": [
+    "Now"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BB%8A%E6%9B%B4",
+    "graph": "/v/vocabulary/5607"
+  },
+  "related": {
+    "radicals": [
+      238,
+      1,
+      51,
+      31
+    ],
+    "kanjis": [
+      497,
+      1431
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": 708,
+  "type": "kanji",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "事"
+  },
+  "primaryReading": "じ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "じ",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "こと",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "つか",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Occurrence",
+  "otherMeanings": [
+    "Matter",
+    "Thing"
+  ],
+  "meaningMnemonic": "You find a <radical>cross</radical> in the <radical>mouth</radical> of a <radical>wolverine</radical>. What a strange <kanji>occurrence</kanji>. Why would someone do such a <kanji>thing</kanji>? This is a <kanji>matter</kanji> you want nothing to do with, so you'd better move along.",
+  "readingMnemonic": "This occurrence doesn't impress <reading>Je</reading>sus (じ), who appears and gently removes the cross from the wolverine's mouth.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E4%BA%8B",
+    "graph": "/v/kanji/708"
+  },
+  "related": {
+    "radicals": [
+      15,
+      16,
+      105
+    ],
+    "vocabularies": [
+      3082,
+      3083,
+      3084,
+      3085,
+      3086,
+      3087,
+      3103,
+      3500,
+      3520,
+      3539,
+      3752,
+      3812,
+      3932,
+      3941,
+      4021,
+      4418,
+      4437,
+      4920,
+      4934,
+      6059,
+      6333,
+      7125,
+      7684,
+      7740,
+      7747,
+      7912,
+      7982,
+      8076,
+      8535,
+      8702
+    ]
+  }
+}

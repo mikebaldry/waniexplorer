@@ -1,0 +1,39 @@
+{
+  "id": 613,
+  "type": "kanji",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "州"
+  },
+  "primaryReading": "しゅう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "しゅう",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "State",
+  "otherMeanings": [
+    "Province",
+    "County"
+  ],
+  "meaningMnemonic": "Think about Japan. Japan is a country made up of islands. They're basically three <radical>drop</radical> <radical>drop</radical> <radical>drop</radical>s in the large <radical>river</radical> that is the Pacific Ocean. These are Japan's <kanji>states</kanji> or <kanji>province</kanji>s.",
+  "readingMnemonic": "Each <kanji>state</kanji> has its own <reading>shoe</reading> (しゅう) to represent it. The bottom of each shoe is the shape of the state, so when you step it leaves a state-shaped imprint in the ground.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%B7%9E",
+    "graph": "/v/kanji/613"
+  },
+  "related": {
+    "radicals": [
+      3,
+      21
+    ],
+    "vocabularies": [
+      2863,
+      2864,
+      2865
+    ]
+  }
+}

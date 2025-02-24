@@ -1,0 +1,30 @@
+{
+  "id": 2750,
+  "type": "vocabulary",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "回る"
+  },
+  "primaryMeaning": "To Revolve",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>times</kanji>. There's no good verb for the word \"times\" but you can probably imagine something doing something over and over and over again. What word would represent this? It would be <vocabulary>to revolve</vocabulary>, <vocabulary>to go around</vocabulary>, or <vocabulary>to rotate</vocabulary>.\n\nBear in mind that this verb is intransitive, so it happens on its own. Something revolves or rotates, all by itself.",
+  "primaryReading": "まわる",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nYou have a bag of walnuts that you're bringing to a friend's house but you trip and drop them all on the ground. You shout, \"<reading>Mah Wa</reading>lnuts! (まわ)\" as they start <vocabulary>to revolve</vocabulary> around you on the ground. Picture your walnuts going around you, getting all dirty.",
+  "otherMeanings": [
+    "To Go Around",
+    "To Rotate"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%9B%9E%E3%82%8B",
+    "graph": "/v/vocabulary/2750"
+  },
+  "related": {
+    "radicals": [
+      16
+    ],
+    "kanjis": [
+      569
+    ]
+  }
+}

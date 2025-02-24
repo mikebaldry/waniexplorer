@@ -1,0 +1,43 @@
+{
+  "id": 1529,
+  "type": "kanji",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "熟"
+  },
+  "primaryReading": "じゅく",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "じゅく",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "う",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Ripen",
+  "otherMeanings": [],
+  "meaningMnemonic": "If you <radical>receive</radical> something edible, arrange it in a <radical>circle</radical> and <radical>boil</radical> it. That way, it’ll <kanji>ripen</kanji> more quickly.",
+  "readingMnemonic": "Once everything you received has <kanji>ripen</kanji>ed, you kick back near your <reading>juke</reading>box (じゅく) and eat it. The jukebox sets the mood, making the ripened treat feels twice as sweet.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%86%9F",
+    "graph": "/v/kanji/1529"
+  },
+  "related": {
+    "radicals": [
+      345,
+      223,
+      131
+    ],
+    "vocabularies": [
+      5653,
+      5654,
+      5655,
+      5656
+    ]
+  }
+}

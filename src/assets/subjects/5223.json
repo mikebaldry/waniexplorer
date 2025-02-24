@@ -1,0 +1,30 @@
+{
+  "id": 5223,
+  "type": "vocabulary",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "娘"
+  },
+  "primaryMeaning": "Daughter",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.\n\n娘 primarily means <vocabulary>daughter</vocabulary> but can also refer to a <vocabulary>young woman</vocabulary> (often unmarried). This is because its original form is 産す女 (むすめ), or \"a woman who gives birth.\" Over time, it came to represent both daughters and young women.",
+  "primaryReading": "むすめ",
+  "readingMnemonic": "The reading is the same as what you learned with the kanji.",
+  "otherMeanings": [
+    "Young Woman"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A8%98",
+    "graph": "/v/vocabulary/5223"
+  },
+  "related": {
+    "radicals": [
+      19,
+      8822
+    ],
+    "kanjis": [
+      1403
+    ]
+  }
+}

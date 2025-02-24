@@ -1,0 +1,31 @@
+{
+  "id": 3795,
+  "type": "vocabulary",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "飯"
+  },
+  "primaryMeaning": "Meal",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well. It also refers to <vocabulary>cooked rice</vocabulary>, because you gotta eat cooked rice with every meal, so it's basically synonymous with \"meal\" itself.\n\nThis word has a slightly gruff feel to it so it's used mostly in informal situations.",
+  "primaryReading": "めし",
+  "readingMnemonic": "Since this word is made up of a single kanji, it should use the kun'yomi reading. When learning the kanji, you didn't learn that reading, so here's a mnemonic to help you with this word: You're eating a <vocabulary>meal</vocabulary>... MMmm, delicious! What are you eating? Well, it's a <reading>Mesh</reading> (めし) net. Taste the mesh net. It tastes terrible. This is a bad meal. Feel it in your mouth. It's weird and meshy.",
+  "otherMeanings": [
+    "Cooked Rice",
+    "Food"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%A3%AF",
+    "graph": "/v/vocabulary/3795"
+  },
+  "related": {
+    "radicals": [
+      139,
+      218
+    ],
+    "kanjis": [
+      955
+    ]
+  }
+}

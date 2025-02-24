@@ -1,0 +1,29 @@
+{
+  "id": 2471,
+  "type": "vocabulary",
+  "level": 1,
+  "characters": {
+    "type": "text",
+    "value": "九"
+  },
+  "primaryMeaning": "Nine",
+  "meaningMnemonic": "When a vocab is made up of a single kanji with no okurigana (hiragana attached to the kanji), it often has the same meaning as the kanji it's based off of. Same goes for the word <vocabulary>九</vocabulary>, as well. It has the same meaning as its kanji counterpart.",
+  "primaryReading": "きゅう",
+  "readingMnemonic": "When a vocab is made up of a single kanji with no okurigana (hiragana attached to the kanji), it usually uses the kun'yomi reading. Numbers are the exception, as you might already know. When they're alone with no okurigana they're the on'yomi reading, which you should already know from learning the kanji that makes up this word.",
+  "otherMeanings": [],
+  "otherReadings": [
+    "く"
+  ],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B9%9D",
+    "graph": "/v/vocabulary/2471"
+  },
+  "related": {
+    "radicals": [
+      11
+    ],
+    "kanjis": [
+      442
+    ]
+  }
+}

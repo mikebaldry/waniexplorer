@@ -1,0 +1,76 @@
+{
+  "id": 626,
+  "type": "kanji",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "明"
+  },
+  "primaryReading": "めい",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "めい",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "みょう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "あ",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "あか",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "あき",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Bright",
+  "otherMeanings": [],
+  "meaningMnemonic": "The <radical>sun</radical> AND the <radical>moon</radical> are out? With both their light-powers combined, it's incredibly <kanji>bright</kanji> outside.",
+  "readingMnemonic": "When do things start to get <kanji>bright</kanji> outside? I'd say when things start getting sunny, and that is the month of <reading>May</reading> (めい). If you live in the Southern Hemisphere, it's bright in May because of all the snow, or because that's when all the streetlights come on.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%98%8E",
+    "graph": "/v/kanji/626"
+  },
+  "related": {
+    "radicals": [
+      22,
+      43
+    ],
+    "vocabularies": [
+      2895,
+      2896,
+      3022,
+      3848,
+      3947,
+      4037,
+      4062,
+      4350,
+      5339,
+      5934,
+      6147,
+      6445,
+      6568,
+      6570,
+      6682,
+      7130,
+      7219,
+      7258,
+      7823,
+      7848,
+      9258,
+      9274,
+      9288
+    ]
+  }
+}

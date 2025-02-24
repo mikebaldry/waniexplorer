@@ -1,0 +1,43 @@
+{
+  "id": 825,
+  "type": "kanji",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "第"
+  },
+  "primaryReading": "だい",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "だい",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Ordinal Number Prefix",
+  "otherMeanings": [
+    "Ordinal Prefix",
+    "Number"
+  ],
+  "meaningMnemonic": "<radical>Bamboo</radical>'s <radical>younger brother</radical> is counted with an <kanji>ordinal number prefix</kanji>. An ordinal number is one that represents a position or rank in sequential order (like first, second, third, etc.). We use this ordinal number prefix before counting these things in Japanese sometimes. Like with bamboo, going down in order toward the youngest.",
+  "readingMnemonic": "To remember you need to use the <kanji>ordinal number prefix</kanji> before you count these bamboo, you <reading>dye</reading> (だい) them.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%AC%AC",
+    "graph": "/v/kanji/825"
+  },
+  "related": {
+    "radicals": [
+      85,
+      202
+    ],
+    "vocabularies": [
+      3347,
+      3348,
+      3349,
+      4906,
+      5050,
+      5976,
+      9331
+    ]
+  }
+}

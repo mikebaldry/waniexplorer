@@ -1,0 +1,32 @@
+{
+  "id": 3771,
+  "type": "vocabulary",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "食中毒"
+  },
+  "primaryMeaning": "Food Poisoning",
+  "meaningMnemonic": "If you <kanji>eat</kanji> and find yourself in the <kanji>middle</kanji> of <kanji>poison</kanji>, you've probably got <vocabulary>food poisoning</vocabulary>. No fun when you get this :(",
+  "primaryReading": "しょくちゅうどく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%A3%9F%E4%B8%AD%E6%AF%92",
+    "graph": "/v/vocabulary/3771"
+  },
+  "related": {
+    "radicals": [
+      139,
+      49,
+      210,
+      107
+    ],
+    "kanjis": [
+      644,
+      469,
+      948
+    ]
+  }
+}

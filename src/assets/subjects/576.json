@@ -1,0 +1,45 @@
+{
+  "id": 576,
+  "type": "kanji",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "考"
+  },
+  "primaryReading": "こう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "こう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "かんが",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Think",
+  "otherMeanings": [
+    "Consider"
+  ],
+  "meaningMnemonic": "In a <radical>coffin</radical> is someone <radical>begging</radical>. But, it won't work. You won't listen. So, the man in the coffin just begins to <kanji>think</kanji>: What could I have done better in my life? Why am I in this situation? How will I get out? Think, damnit, think!!",
+  "readingMnemonic": "What is the beggar <kanji>think</kanji>ing of? A thought bubble pops up into existence near his head. In it is a picture of <reading>こう</reading>いち! He's thinking that if こういち was here, he'd save him. Oh, if only こういち could save us all!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%80%83",
+    "graph": "/v/kanji/576"
+  },
+  "related": {
+    "radicals": [
+      104,
+      8766
+    ],
+    "vocabularies": [
+      2764,
+      2765,
+      2766,
+      6190,
+      7568
+    ]
+  }
+}

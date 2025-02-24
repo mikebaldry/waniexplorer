@@ -1,0 +1,33 @@
+{
+  "id": 7122,
+  "type": "vocabulary",
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "点滴"
+  },
+  "primaryMeaning": "Intravenous Drip",
+  "meaningMnemonic": "<kanji>Point</kanji> <kanji>drip</kanji>s are drips coming down little by little. These are the drips of an <vocabulary>intravenous drip</vocabulary>. \n\nBack in the day this was a way of talking about raindrops, or really any falling drops of water. But nowadays we only use it for <vocabulary>IV drip</vocabulary>s.",
+  "primaryReading": "てんてき",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "IV Drip"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%82%B9%E6%BB%B4",
+    "graph": "/v/vocabulary/7122"
+  },
+  "related": {
+    "radicals": [
+      143,
+      131,
+      103,
+      276
+    ],
+    "kanjis": [
+      641,
+      2003
+    ]
+  }
+}

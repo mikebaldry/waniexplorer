@@ -1,0 +1,42 @@
+{
+  "id": 1055,
+  "type": "kanji",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "喫"
+  },
+  "primaryReading": "きつ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "きつ",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "の",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Consume",
+  "otherMeanings": [],
+  "meaningMnemonic": "In your <radical>mouth</radical> you put your <radical>life</radical> on the line by putting in a <radical>sword</radical> that is <radical>big</radical>. You put it all the way down there, so you <kanji>consume</kanji> it.",
+  "readingMnemonic": "The \"<kanji>consume</kanji> a sword\" illusion came with a cheap magic <reading>kit</reading> (きつ) you had.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%96%AB",
+    "graph": "/v/kanji/1055"
+  },
+  "related": {
+    "radicals": [
+      16,
+      210,
+      24,
+      18
+    ],
+    "vocabularies": [
+      4087,
+      4088
+    ]
+  }
+}

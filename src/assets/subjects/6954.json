@@ -1,0 +1,33 @@
+{
+  "id": 6954,
+  "type": "vocabulary",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "黒潮"
+  },
+  "primaryMeaning": "Japan Current",
+  "meaningMnemonic": "The <kanji>black</kanji> <kanji>tide</kanji> isn't what you think, most likely. This is the <vocabulary>Japan current</vocabulary>, aka the <vocabulary>Kuroshio Current</vocabulary>. It's a Northern flowing  current on the West side of the Pacific Ocean. Have you heard of the Gulf Stream? It's kind of like that.",
+  "primaryReading": "くろしお",
+  "readingMnemonic": "The reading is the kun'yomi readings of the two kanji, put together. 黒 and 潮.",
+  "otherMeanings": [
+    "Kuroshio Current"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%BB%92%E6%BD%AE",
+    "graph": "/v/vocabulary/6954"
+  },
+  "related": {
+    "radicals": [
+      153,
+      103,
+      8793,
+      43
+    ],
+    "kanjis": [
+      677,
+      1849
+    ]
+  }
+}

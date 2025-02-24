@@ -1,0 +1,34 @@
+{
+  "id": 1596,
+  "type": "kanji",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "杉"
+  },
+  "primaryReading": "すぎ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "すぎ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Cedar",
+  "otherMeanings": [],
+  "meaningMnemonic": "There’s a <radical>tree</radical> in your <radical>hair</radical>, I think it’s a <kanji>cedar</kanji>. How did that cedar tree get in your hair?\n\n(Certain types of cedar trees have bark that comes off in fine threads, making them very hairy trees. So this kanji makes perfect sense!)",
+  "readingMnemonic": "Once the <kanji>cedar</kanji> is fully grown, you use the cedar wood to make a guitar for Sue. A <reading>Sue gui</reading>tar (すぎ), if you will. This Sue guitar was made just for Sue. She’ll love it.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%9D%89",
+    "graph": "/v/kanji/1596"
+  },
+  "related": {
+    "radicals": [
+      23,
+      38
+    ],
+    "vocabularies": [
+      5901
+    ]
+  }
+}

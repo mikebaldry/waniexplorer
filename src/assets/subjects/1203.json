@@ -1,0 +1,40 @@
+{
+  "id": 1203,
+  "type": "kanji",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "導"
+  },
+  "primaryReading": "どう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "どう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "みちび",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Lead",
+  "otherMeanings": [],
+  "meaningMnemonic": "Take a <radical>measurement</radical> of the <radical>road</radical>. Hmm. It seems a bit too long. As you measure it, you continue down this road, wondering where it will <kanji>lead</kanji> you.",
+  "readingMnemonic": "Where does the road that you're measuring <kanji>lead</kanji> you? An awesome <reading>dou</reading>ghnut (どう) shop!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%B0%8E",
+    "graph": "/v/kanji/1203"
+  },
+  "related": {
+    "radicals": [
+      291,
+      74
+    ],
+    "vocabularies": [
+      4627,
+      4628
+    ]
+  }
+}

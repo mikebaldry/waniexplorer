@@ -1,0 +1,41 @@
+{
+  "id": 1910,
+  "type": "kanji",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "鐘"
+  },
+  "primaryReading": "しょう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "しょう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "かね",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Bell",
+  "otherMeanings": [],
+  "meaningMnemonic": "Something made of <radical>gold</radical> <radical>stand</radical>s in a <radical>village</radical>. It's a <kanji>bell</kanji>!  The village bell.",
+  "readingMnemonic": "The <kanji>bell</kanji> rings whenever the <reading>Shou</reading>gun (しょう) arrives in the village. Its ringing echoes throughout the entire village so everyone knows they have to come out and pay their respects.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%90%98",
+    "graph": "/v/kanji/1910"
+  },
+  "related": {
+    "radicals": [
+      118,
+      55,
+      125
+    ],
+    "vocabularies": [
+      6864,
+      6865
+    ]
+  }
+}

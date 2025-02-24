@@ -1,0 +1,51 @@
+{
+  "id": 2458,
+  "type": "kanji",
+  "level": 60,
+  "characters": {
+    "type": "text",
+    "value": "某"
+  },
+  "primaryReading": "ぼう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ぼう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "それがし",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "なにがし",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Certain",
+  "otherMeanings": [
+    "One",
+    "That Person"
+  ],
+  "meaningMnemonic": "If you think a <radical>tree</radical> looks <radical>sweet</radical> you have to be <kanji>certain</kanji> before you bite into it. Trees are really hard, and usually pretty bitter (believe me) so if you don't want a mouthful of broken teeth, sap, and sadness, you really need to be sure it's the one before you start munching.",
+  "readingMnemonic": "If you really want to be <kanji>certain</kanji>, and not just guess, take out your <reading>bow</reading>ling (ぼう) ball and roll it as hard as you can into the tree. If its the right one it will let out a sweet smell, if it's not the tree will punch you.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%9F%90",
+    "graph": "/v/kanji/2458"
+  },
+  "related": {
+    "radicals": [
+      360,
+      23
+    ],
+    "vocabularies": [
+      8624,
+      9121,
+      9122,
+      9123,
+      9124
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 8892,
+  "type": "vocabulary",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "恐慌"
+  },
+  "primaryMeaning": "Panic",
+  "meaningMnemonic": "<kanji>Fear</kanji> mixed with <kanji>confusion</kanji> creates <vocabulary>panic</vocabulary>! You get a <vocabulary>scare</vocabulary> so bad, you're fearful and you don't know what to do.",
+  "primaryReading": "きょうこう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You've learned them already, so you should be able to read this on your own!",
+  "otherMeanings": [
+    "Scare"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%81%90%E6%85%8C",
+    "graph": "/v/vocabulary/8892"
+  },
+  "related": {
+    "radicals": [
+      241,
+      65,
+      232,
+      8857
+    ],
+    "kanjis": [
+      1406,
+      8881
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 3086,
+  "type": "vocabulary",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "返事"
+  },
+  "primaryMeaning": "Reply",
+  "meaningMnemonic": "You know 事 means \"occurrence,\" but it can also mean \"matter.\" And if you <kanji>return</kanji> the <kanji>matter</kanji> to another person, you're giving a <vocabulary>reply</vocabulary> or <vocabulary>response</vocabulary>.",
+  "primaryReading": "へんじ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Response"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%BF%94%E4%BA%8B",
+    "graph": "/v/vocabulary/3086"
+  },
+  "related": {
+    "radicals": [
+      114,
+      218,
+      15,
+      16,
+      105
+    ],
+    "kanjis": [
+      858,
+      708
+    ]
+  }
+}

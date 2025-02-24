@@ -1,0 +1,34 @@
+{
+  "id": 5549,
+  "type": "vocabulary",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "複雑"
+  },
+  "primaryMeaning": "Complicated",
+  "meaningMnemonic": "There are <kanji>duplicate</kanji>s of everything, not to mention the duplicates are <kanji>random</kanji>. Nothing makes sense, and everything is super <vocabulary>complicated</vocabulary>.",
+  "primaryReading": "ふくざつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Complex"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%A4%87%E9%9B%91",
+    "graph": "/v/vocabulary/5549"
+  },
+  "related": {
+    "radicals": [
+      80,
+      265,
+      11,
+      23,
+      240
+    ],
+    "kanjis": [
+      1493,
+      1494
+    ]
+  }
+}

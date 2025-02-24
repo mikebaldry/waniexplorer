@@ -1,0 +1,36 @@
+{
+  "id": 8585,
+  "type": "vocabulary",
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "左遷"
+  },
+  "primaryMeaning": "Demotion",
+  "meaningMnemonic": "Usually if you're going to the left in Japanese, it's not a good thing. So if you <kanji>transition</kanji> to the <kanji>left</kanji> it's seen as a <vocabulary>demotion</vocabulary>. Going to the right is way better.",
+  "primaryReading": "させん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Degradation",
+    "Demolish"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%B7%A6%E9%81%B7",
+    "graph": "/v/vocabulary/8585"
+  },
+  "related": {
+    "radicals": [
+      26,
+      25,
+      114,
+      424,
+      18,
+      228
+    ],
+    "kanjis": [
+      486,
+      2400
+    ]
+  }
+}

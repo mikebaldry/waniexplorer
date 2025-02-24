@@ -1,0 +1,39 @@
+{
+  "id": 2332,
+  "type": "kanji",
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "旋"
+  },
+  "primaryReading": "せん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "せん",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Rotation",
+  "otherMeanings": [
+    "Revolution"
+  ],
+  "meaningMnemonic": "Move your <radical>coat rack</radical> in one <radical>direction</radical> by shooting it with a <radical>gun</radical>. Then you can keep shooting it to get a good <kanji>rotation</kanji> going. If you think there is a better way to make your coat rack make <kanji>revolution</kanji>s, you're probably wrong. ",
+  "readingMnemonic": "As you watch your coat rack's <kanji>rotation</kanji>s a <reading>cen</reading>taur (せん) barges in and takes the gun from you, stops the rotating coat rack and leaves. How rude! I guess centaurs don't like when things rotate.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%97%8B",
+    "graph": "/v/kanji/2332"
+  },
+  "related": {
+    "radicals": [
+      66,
+      8762,
+      420
+    ],
+    "vocabularies": [
+      8371,
+      8372,
+      8373
+    ]
+  }
+}

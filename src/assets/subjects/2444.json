@@ -1,0 +1,46 @@
+{
+  "id": 2444,
+  "type": "kanji",
+  "level": 60,
+  "characters": {
+    "type": "text",
+    "value": "渓"
+  },
+  "primaryReading": "けい",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "けい",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "たに",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "たにがわ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Valley",
+  "otherMeanings": [],
+  "meaningMnemonic": "The <radical>tsunami</radical> swept away one of the <radical>cleat</radical>s your <radical>husband</radical> just bought and creates an entire <kanji>valley</kanji> with it.",
+  "readingMnemonic": "When the water clears, you and your husband go to the <kanji>valley</kanji> to look for the cleat and instead you find a bunch of <reading>ca</reading>ke (けい)! Maybe this is the tsunami's way of saying, \"Thanks for letting me steal your cleat so I could make this valley shortcut.\" ",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%B8%93",
+    "graph": "/v/kanji/2444"
+  },
+  "related": {
+    "radicals": [
+      103,
+      8772,
+      146
+    ],
+    "vocabularies": [
+      8630,
+      8631
+    ]
+  }
+}

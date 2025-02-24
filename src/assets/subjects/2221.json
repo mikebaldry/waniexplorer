@@ -1,0 +1,41 @@
+{
+  "id": 2221,
+  "type": "kanji",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "葵"
+  },
+  "primaryReading": "あおい",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "あおい",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "き",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Hollyhock",
+  "otherMeanings": [],
+  "meaningMnemonic": "<radical>Flowers</radical> that are thought to be little <radical>tent</radical>s sent from <radical>heaven</radical> are <kanji>hollyhock</kanji>s. They're shaped almost like little teepees and would make the perfect tent for a faerie or a little yokai! ",
+  "readingMnemonic": "<kanji>Hollyhock</kanji>s are mostly <reading>あおい</reading> (blue) because they copy the color of the heavens, where they came from.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%91%B5",
+    "graph": "/v/kanji/2221"
+  },
+  "related": {
+    "radicals": [
+      90,
+      168,
+      40
+    ],
+    "vocabularies": [
+      8036,
+      8233
+    ]
+  }
+}

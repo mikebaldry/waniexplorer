@@ -1,0 +1,45 @@
+{
+  "id": 1816,
+  "type": "kanji",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "握"
+  },
+  "primaryReading": "あく",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "あく",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "にぎ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Grip",
+  "otherMeanings": [],
+  "meaningMnemonic": "You use your <radical>fingers</radical> in a <radical>shop</radical> to <kanji>grip</kanji> what you want to buy.",
+  "readingMnemonic": "You have a really strong <kanji>grip</kanji> thanks to <reading>acu</reading>puncture (あく)! All your fingers are primed for buying things. You can grip anything at a shop—pineapples, tires, even live turtles. All thanks to some well-placed needles.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%8F%A1",
+    "graph": "/v/kanji/1816"
+  },
+  "related": {
+    "radicals": [
+      63,
+      387
+    ],
+    "vocabularies": [
+      6595,
+      6596,
+      6597,
+      6758,
+      6958,
+      7119,
+      7420
+    ]
+  }
+}

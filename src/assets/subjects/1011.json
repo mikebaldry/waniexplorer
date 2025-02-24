@@ -1,0 +1,51 @@
+{
+  "id": 1011,
+  "type": "kanji",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "常"
+  },
+  "primaryReading": "じょう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "じょう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "つね",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Normal",
+  "otherMeanings": [
+    "Ordinary",
+    "Usual"
+  ],
+  "meaningMnemonic": "A <radical>viking</radical> with a <radical>mouth</radical> <radical>towel</radical> is a totally <kanji>normal</kanji> thing. It's <kanji>ordinary</kanji>.",
+  "readingMnemonic": "It's <kanji>normal</kanji> for a viking to have a mouth towel, but your sloppy farmhand friend <reading>Joe</reading>(じょう) has a mouth towel too. That's a habit that's only <kanji>normal</kanji> for vikings, so why does he have one?",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%B8%B8",
+    "graph": "/v/kanji/1011"
+  },
+  "related": {
+    "radicals": [
+      8769,
+      16,
+      102
+    ],
+    "vocabularies": [
+      3982,
+      3983,
+      3984,
+      4045,
+      4245,
+      4246,
+      5815,
+      7882,
+      8724
+    ]
+  }
+}

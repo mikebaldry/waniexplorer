@@ -1,0 +1,34 @@
+{
+  "id": 3247,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "共同"
+  },
+  "primaryMeaning": "Cooperation",
+  "meaningMnemonic": "People working <kanji>together</kanji> on the <kanji>same</kanji> thing is <vocabulary>cooperation</vocabulary>.",
+  "primaryReading": "きょうどう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Collaboration",
+    "Joint"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%85%B1%E5%90%8C",
+    "graph": "/v/vocabulary/3247"
+  },
+  "related": {
+    "radicals": [
+      8775,
+      2,
+      121,
+      1
+    ],
+    "kanjis": [
+      778,
+      568
+    ]
+  }
+}

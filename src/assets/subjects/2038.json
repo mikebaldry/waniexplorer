@@ -1,0 +1,44 @@
+{
+  "id": 2038,
+  "type": "kanji",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "咲"
+  },
+  "primaryReading": "さ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "さ",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "しょう",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Blossom",
+  "otherMeanings": [
+    "Bloom"
+  ],
+  "meaningMnemonic": "Having a foul <radical>mouth</radical> and <radical>horns</radical> will prevent you from getting into <radical>Heaven</radical> where you would <kanji>blossom</kanji> into an angel. If you have horns, you are not meant for Heaven and will not blossom there. To blossom in Heaven, you must not have horns or a foul mouth.",
+  "readingMnemonic": "You don’t want to <kanji>blossom</kanji> into a demon so you <reading>saw</reading> (さ) off your horns with a saw. If you saw off your horns, maybe you can beg for forgiveness and have your foul mouth forgiven.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%92%B2",
+    "graph": "/v/kanji/2038"
+  },
+  "related": {
+    "radicals": [
+      16,
+      8767,
+      40
+    ],
+    "vocabularies": [
+      7229,
+      7230,
+      7231
+    ]
+  }
+}

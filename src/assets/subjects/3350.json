@@ -1,0 +1,39 @@
+{
+  "id": 3350,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "東京都"
+  },
+  "primaryMeaning": "Tokyo Metropolis",
+  "meaningMnemonic": "The <kanji>Tokyo</kanji> <kanji>Metropolis</kanji> is, of course, the <vocabulary>Tokyo Metropolis</vocabulary>. Technically this is one of Japan's prefectures, but it's called a \"Metropolis\" instead. It's the capital and the largest city in all of Japan! ",
+  "primaryReading": "とうきょうと",
+  "readingMnemonic": "The reading is just 東京 and 都 (と). Really it's all just the reading you learned with the kanji, too, so you can think of it that way as well.",
+  "otherMeanings": [
+    "Tokyo Metro",
+    "Tokyo Metropolitan Area",
+    "Tokyo Metro Area"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%9D%B1%E4%BA%AC%E9%83%BD",
+    "graph": "/v/vocabulary/3350"
+  },
+  "related": {
+    "radicals": [
+      23,
+      22,
+      8,
+      16,
+      35,
+      203,
+      176
+    ],
+    "kanjis": [
+      627,
+      620,
+      826
+    ]
+  }
+}

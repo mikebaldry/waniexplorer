@@ -1,0 +1,33 @@
+{
+  "id": 8615,
+  "type": "vocabulary",
+  "level": 60,
+  "characters": {
+    "type": "text",
+    "value": "廉価"
+  },
+  "primaryMeaning": "Low Price",
+  "meaningMnemonic": "Buy something at <kanji>bargain</kanji> <kanji>value</kanji> and you'll be getting it at a really <vocabulary>low price</vocabulary>. Good for you!",
+  "primaryReading": "れんか",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Cheap"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%BB%89%E4%BE%A1",
+    "graph": "/v/vocabulary/8615"
+  },
+  "related": {
+    "radicals": [
+      62,
+      271,
+      75,
+      424
+    ],
+    "kanjis": [
+      2445,
+      1166
+    ]
+  }
+}

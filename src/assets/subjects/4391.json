@@ -1,0 +1,34 @@
+{
+  "id": 4391,
+  "type": "vocabulary",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "混乱する"
+  },
+  "primaryMeaning": "To Be Confused",
+  "meaningMnemonic": "If 混乱 is <kanji>confusion</kanji> then making it into a verb would cause it <vocabulary>to be confused</vocabulary>.",
+  "primaryReading": "こんらんする",
+  "readingMnemonic": "The reading is the same as 混乱 so no reason for you <vocabulary>to be confused</vocabulary>, right?",
+  "otherMeanings": [
+    "To Be In Disorder"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B7%B7%E4%B9%B1%E3%81%99%E3%82%8B",
+    "graph": "/v/vocabulary/4391"
+  },
+  "related": {
+    "radicals": [
+      103,
+      22,
+      161,
+      174,
+      211
+    ],
+    "kanjis": [
+      1078,
+      1079
+    ]
+  }
+}

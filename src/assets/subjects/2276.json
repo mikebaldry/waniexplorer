@@ -1,0 +1,37 @@
+{
+  "id": 2276,
+  "type": "kanji",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "尿"
+  },
+  "primaryReading": "にょう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "にょう",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Urine",
+  "otherMeanings": [
+    "Pee"
+  ],
+  "meaningMnemonic": "When you go to the pool or lake to swim, you'll see a <radical>flag</radical> stuck somewhere in the <radical>water</radical>. That flag is there so you know it's okay to <kanji>pee</kanji> in that area of the pool. Everyone knows <kanji>urine</kanji> dilutes in water, and if everyone just pees in one place, it won't be gross. So go pee over by that flag when you have to go. Don't bother getting out of the water.",
+  "readingMnemonic": "Right as you start to <kanji>pee</kanji>, you hear the life guard start to yell, \"<reading>NYOOOOOO</reading>! (にょう)\" and he's pointing at you! You were just peeing by the pee flag! Why is he mad?",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%B0%BF",
+    "graph": "/v/kanji/2276"
+  },
+  "related": {
+    "radicals": [
+      37,
+      45
+    ],
+    "vocabularies": [
+      8195,
+      8629
+    ]
+  }
+}

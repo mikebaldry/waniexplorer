@@ -1,0 +1,30 @@
+{
+  "id": 6637,
+  "type": "vocabulary",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "肝炎"
+  },
+  "primaryMeaning": "Hepatitis",
+  "meaningMnemonic": "If you have the ol' <kanji>liver</kanji> <kanji>flame</kanji> then you probably have <vocabulary>hepatitis</vocabulary>. AUGH! MY LIVER IS ON FIRE.",
+  "primaryReading": "かんえん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%82%9D%E7%82%8E",
+    "graph": "/v/vocabulary/6637"
+  },
+  "related": {
+    "radicals": [
+      43,
+      61,
+      46
+    ],
+    "kanjis": [
+      1833,
+      1599
+    ]
+  }
+}

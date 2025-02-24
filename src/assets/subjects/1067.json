@@ -1,0 +1,35 @@
+{
+  "id": 1067,
+  "type": "kanji",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "昆"
+  },
+  "primaryReading": "こん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "こん",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Insect",
+  "otherMeanings": [],
+  "meaningMnemonic": "If the <radical>sun</radical> is <radical>compare</radical>d to an <kanji>insect</kanji>, you’ll see that they're both shiny, but that the sun is much shinier than the insect.",
+  "readingMnemonic": "While you’re holding up an <kanji>insect</kanji> to the sun for comparison, a flock of <reading>con</reading>dors (こん) flies by, blocking out the sun. There are so many condors that they manage to totally block out the sun.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%98%86",
+    "graph": "/v/kanji/1067"
+  },
+  "related": {
+    "radicals": [
+      22,
+      161
+    ],
+    "vocabularies": [
+      4207,
+      9039
+    ]
+  }
+}

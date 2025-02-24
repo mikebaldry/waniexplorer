@@ -1,0 +1,48 @@
+{
+  "id": 2199,
+  "type": "kanji",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "緯"
+  },
+  "primaryReading": "い",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "い",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ぬき",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "よこいと",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Latitude",
+  "otherMeanings": [],
+  "meaningMnemonic": "The <radical>thread</radical> that goes through <radical>Korea</radical> is the <kanji>latitude</kanji> line splitting up North and South Korea.",
+  "readingMnemonic": "The only way you can see this <kanji>latitude</kanji> line is to ride an <reading>ea</reading>gle (い) over it. The line isn't visible from a car, you're too close, and a plane is too high. You have to see it from an eagle's point of view.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%B7%AF",
+    "graph": "/v/kanji/2199"
+  },
+  "related": {
+    "radicals": [
+      86,
+      294
+    ],
+    "vocabularies": [
+      8012,
+      8013,
+      8014,
+      8015,
+      8016
+    ]
+  }
+}

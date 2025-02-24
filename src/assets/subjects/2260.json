@@ -1,0 +1,46 @@
+{
+  "id": 2260,
+  "type": "kanji",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "伏"
+  },
+  "primaryReading": "ふく",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ふく",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ふ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Bow",
+  "otherMeanings": [
+    "Lay"
+  ],
+  "meaningMnemonic": "When you meet the <radical>leader</radical> <radical>dog</radical> you have to <kanji>bow</kanji> to show your respect. Dogs are pretty great, so the leader of all dogs must be the greatest! You should bow really deeply to this one.",
+  "readingMnemonic": "You <kanji>bow</kanji> as low as you can, but you lose your balance and fall over. \"<reading>F**k</reading> you (ふく)!\" the leader dog barks. Oh no. You messed up and now the leader dog is super mad. Saying f**k you is a little harsh for falling over though, you think.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E4%BC%8F",
+    "graph": "/v/kanji/2260"
+  },
+  "related": {
+    "radicals": [
+      75,
+      47
+    ],
+    "vocabularies": [
+      8178,
+      8179,
+      8180,
+      8181,
+      8182,
+      8183
+    ]
+  }
+}

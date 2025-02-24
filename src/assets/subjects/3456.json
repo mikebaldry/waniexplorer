@@ -1,0 +1,36 @@
+{
+  "id": 3456,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "安売り"
+  },
+  "primaryMeaning": "Sell Cheaply",
+  "meaningMnemonic": "When you <kanji>sell</kanji> something <kanji>cheap</kanji>, you're selling it at a <vocabulary>discount</vocabulary>. Alternatively you can remember this word as <vocabulary>sell cheaply</vocabulary> or <vocabulary>bargain sale</vocabulary>. These are good deals!",
+  "primaryReading": "やすうり",
+  "readingMnemonic": "The hiragana on the end hints that the readings are the kun'yomi readings. Use your memory of 安い and 売る to help you to remember how to read this.",
+  "otherMeanings": [
+    "Discount",
+    "Bargain Sale",
+    "Sale"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%AE%89%E5%A3%B2%E3%82%8A",
+    "graph": "/v/vocabulary/3456"
+  },
+  "related": {
+    "radicals": [
+      78,
+      19,
+      97,
+      76,
+      28
+    ],
+    "kanjis": [
+      612,
+      587
+    ]
+  }
+}

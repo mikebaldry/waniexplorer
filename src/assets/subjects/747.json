@@ -1,0 +1,50 @@
+{
+  "id": 747,
+  "type": "kanji",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "転"
+  },
+  "primaryReading": "てん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "てん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ころ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Revolve",
+  "otherMeanings": [],
+  "meaningMnemonic": "If your <radical>car</radical> runs into a <radical>cloud</radical> you'll <kanji>revolve</kanji> around it instead of going straight through. Clouds are really hard to see through, so even though you're trying not to, you revolve in a tight circle up and around the cloud anyway.",
+  "readingMnemonic": "You have to <kanji>revolve</kanji> around the cloud <reading>ten</reading> (てん) times before it disappears and you're able to go through.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%BB%A2",
+    "graph": "/v/kanji/747"
+  },
+  "related": {
+    "radicals": [
+      93,
+      159
+    ],
+    "vocabularies": [
+      3172,
+      3173,
+      3174,
+      3175,
+      3176,
+      3549,
+      3556,
+      3945,
+      3946,
+      7316,
+      8932,
+      9018
+    ]
+  }
+}

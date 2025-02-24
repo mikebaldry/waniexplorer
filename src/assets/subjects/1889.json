@@ -1,0 +1,40 @@
+{
+  "id": 1889,
+  "type": "kanji",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "梨"
+  },
+  "primaryReading": "なし",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "なし",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "り",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Pear",
+  "otherMeanings": [],
+  "meaningMnemonic": "The <radical>grain</radical> you cut off a <radical>tree</radical> with a <radical>knife</radical> is a <kanji>pear</kanji>. I don't know if you've ever seen Asian pears, but they're pretty big and sturdy. You can't just pick them off of the tree, you need the help of a knife. That's why this is a pear, and not an apple or peach or something else.",
+  "readingMnemonic": "As you cut the <kanji>pear</kanji>s down, you can't help but <reading>gnash</reading> (なし) your teeth. You want to eat these pears right now. You gnash and grind and wait though, because you want to have them all down before you start the feast.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%A2%A8",
+    "graph": "/v/kanji/1889"
+  },
+  "related": {
+    "radicals": [
+      135,
+      128,
+      23
+    ],
+    "vocabularies": [
+      6808
+    ]
+  }
+}

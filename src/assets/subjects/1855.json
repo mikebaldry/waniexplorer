@@ -1,0 +1,41 @@
+{
+  "id": 1855,
+  "type": "kanji",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "岳"
+  },
+  "primaryReading": "がく",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "がく",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "たけ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Peak",
+  "otherMeanings": [],
+  "meaningMnemonic": "An <radical>axe</radical> is sticking in the <radical>ground</radical> on top of a <radical>mountain</radical>. It's sticking into the very <kanji>peak</kanji>. Because why would you bother to stick your axe anywhere else on the mountain to prove you climbed it? ",
+  "readingMnemonic": "You can't help but <reading>gawk</reading> (がく) at the <kanji>peak</kanji>. Somehow it looks even higher now.\n",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%B2%B3",
+    "graph": "/v/kanji/1855"
+  },
+  "related": {
+    "radicals": [
+      115,
+      1,
+      20
+    ],
+    "vocabularies": [
+      6708,
+      6709
+    ]
+  }
+}

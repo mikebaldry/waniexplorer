@@ -1,0 +1,47 @@
+{
+  "id": 1348,
+  "type": "kanji",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "庫"
+  },
+  "primaryReading": "こ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "こ",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "くら",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Storage",
+  "otherMeanings": [
+    "Storehouse",
+    "Warehouse"
+  ],
+  "meaningMnemonic": "A <radical>canopy</radical> is over your <radical>car</radical> because your car is in <kanji>storage</kanji> in a large <kanji>storehouse</kanji>.",
+  "readingMnemonic": "Your car is in this <kanji>storage</kanji> <kanji>warehouse</kanji>, just sitting there. A <reading>子</reading> (こ) notices this, and decides to take your car on a joyride. You won't notice, right? You never drive it.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%BA%AB",
+    "graph": "/v/kanji/1348"
+  },
+  "related": {
+    "radicals": [
+      62,
+      93
+    ],
+    "vocabularies": [
+      5123,
+      5149,
+      5150,
+      5151,
+      5452,
+      5684
+    ]
+  }
+}

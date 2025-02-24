@@ -1,0 +1,32 @@
+{
+  "id": 5806,
+  "type": "vocabulary",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "劇"
+  },
+  "primaryMeaning": "Drama",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well (<vocabulary>drama</vocabulary>). Can also mean <vocabulary>play</vocabulary> or <vocabulary>show</vocabulary> as well.",
+  "primaryReading": "げき",
+  "readingMnemonic": "The reading is the same as the kanji. No more drama from you, okay?",
+  "otherMeanings": [
+    "Play",
+    "Show"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%8A%87",
+    "graph": "/v/vocabulary/5806"
+  },
+  "related": {
+    "radicals": [
+      254,
+      233,
+      128
+    ],
+    "kanjis": [
+      1569
+    ]
+  }
+}

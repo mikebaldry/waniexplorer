@@ -1,0 +1,43 @@
+{
+  "id": 1219,
+  "type": "kanji",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "製"
+  },
+  "primaryReading": "せい",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "せい",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Manufacture",
+  "otherMeanings": [],
+  "meaningMnemonic": "In an attempt to <radical>control</radical> your <radical>clothes</radical>, you <kanji>manufacture</kanji> a mind control device. This mind control device will allow you to control the mind of your clothes and all that they do. You just need to manufacture it.",
+  "readingMnemonic": "You <kanji>manufacture</kanji> these clothes to control your <reading>sa</reading>ber (せい). It's hard to manufacture, you have to do a lot of work, but you manage to make your clothes control your saber. Now you don't need to rely on your hands!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%A3%BD",
+    "graph": "/v/kanji/1219"
+  },
+  "related": {
+    "radicals": [
+      296,
+      320
+    ],
+    "vocabularies": [
+      4677,
+      4678,
+      4679,
+      4680,
+      4681,
+      4682,
+      4683,
+      4979,
+      6337,
+      8320
+    ]
+  }
+}

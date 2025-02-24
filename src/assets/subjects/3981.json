@@ -1,0 +1,34 @@
+{
+  "id": 3981,
+  "type": "vocabulary",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "空席"
+  },
+  "primaryMeaning": "Open Seat",
+  "meaningMnemonic": "A <kanji>sky</kanji> <kanji>seat</kanji> is a seat full of sky (aka nothing!). This is an <vocabulary>empty seat</vocabulary> or <vocabulary>open seat</vocabulary>.",
+  "primaryReading": "くうせき",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Empty Seat",
+    "Free Seat"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%A9%BA%E5%B8%AD",
+    "graph": "/v/vocabulary/3981"
+  },
+  "related": {
+    "radicals": [
+      170,
+      25,
+      8787,
+      102
+    ],
+    "kanjis": [
+      601,
+      1003
+    ]
+  }
+}

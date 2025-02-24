@@ -1,0 +1,38 @@
+{
+  "id": 2368,
+  "type": "kanji",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "慨"
+  },
+  "primaryReading": "がい",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "がい",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Sigh",
+  "otherMeanings": [],
+  "meaningMnemonic": "Deep in your <radical>soul</radical>, you feel like you want to pull your <radical>fang</radical>s out by the <radical>root</radical>, but instead you let out a loud <kanji>sigh</kanji>. You're one of the only people you know that has fangs, and it weighs heavily on your soul.",
+  "readingMnemonic": "You <kanji>sigh</kanji> again and say, \"I wish I was just a normal <reading>guy</reading> (がい).\" I swear the rest of me is a guy like the rest of you. *sigh*",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%85%A8",
+    "graph": "/v/kanji/2368"
+  },
+  "related": {
+    "radicals": [
+      232,
+      196,
+      333
+    ],
+    "vocabularies": [
+      8458,
+      8459,
+      8619,
+      8620
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 1367,
+  "type": "kanji",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "益"
+  },
+  "primaryReading": "えき",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "えき",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Benefit",
+  "otherMeanings": [],
+  "meaningMnemonic": "There are some <radical>horns</radical> on the <radical>ground</radical> next to <radical>fins</radical> on a <radical>plate</radical> that are meant to <kanji>benefit</kanji> everyone. If you're a member of this town, one of your benefits is this little set up.",
+  "readingMnemonic": "Another <kanji>benefit</kanji> is free <reading>駅</reading> (えき) usage! Whenever you come back home from places on the train, this 駅 is completely free.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%9B%8A",
+    "graph": "/v/kanji/1367"
+  },
+  "related": {
+    "radicals": [
+      8767,
+      1,
+      2,
+      84
+    ],
+    "vocabularies": [
+      5174,
+      5175,
+      5176,
+      5177
+    ]
+  }
+}

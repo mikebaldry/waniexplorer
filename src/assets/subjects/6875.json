@@ -1,0 +1,30 @@
+{
+  "id": 6875,
+  "type": "vocabulary",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "いつ頃"
+  },
+  "primaryMeaning": "About When",
+  "meaningMnemonic": "いつ is \"when\" and 頃 is \"about.\" Combine those together and you have \"<vocabulary>about when</vocabulary>?\" or \"<vocabulary>how soon</vocabulary>?\"",
+  "primaryReading": "いつごろ",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji, just rendaku'd.",
+  "otherMeanings": [
+    "How Soon"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E3%81%84%E3%81%A4%E9%A0%83",
+    "graph": "/v/vocabulary/6875"
+  },
+  "related": {
+    "radicals": [
+      57,
+      184
+    ],
+    "kanjis": [
+      1914
+    ]
+  }
+}

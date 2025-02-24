@@ -1,0 +1,38 @@
+{
+  "id": 5007,
+  "type": "vocabulary",
+  "level": 27,
+  "characters": {
+    "type": "text",
+    "value": "健忘症"
+  },
+  "primaryMeaning": "Amnesia",
+  "meaningMnemonic": "A <kanji>healthy</kanji> bit of <kanji>forget</kanji>ting <kanji>symptom</kanji>s means you might have <vocabulary>amnesia</vocabulary>.\n\n健忘症 often refers to short-term <vocabulary>memory loss</vocabulary>, either full or partial, but some people might also use it in a sort of joking way for everyday <vocabulary>forgetfulness</vocabulary>.",
+  "primaryReading": "けんぼうしょう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Memory Loss",
+    "Forgetfulness"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%81%A5%E5%BF%98%E7%97%87",
+    "graph": "/v/vocabulary/5007"
+  },
+  "related": {
+    "radicals": [
+      75,
+      206,
+      220,
+      212,
+      65,
+      187,
+      229
+    ],
+    "kanjis": [
+      1342,
+      1042,
+      1334
+    ]
+  }
+}

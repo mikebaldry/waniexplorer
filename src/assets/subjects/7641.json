@@ -1,0 +1,33 @@
+{
+  "id": 7641,
+  "type": "vocabulary",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "場面"
+  },
+  "primaryMeaning": "Scene",
+  "meaningMnemonic": "Everything on a <kanji>location</kanji>'s <kanji>surface</kanji> is really just a part of the <vocabulary>scene</vocabulary> before you. This is the kind of scene that would be set in a novel. It's the <vocabulary>setting</vocabulary>.",
+  "primaryReading": "ばめん",
+  "readingMnemonic": "The reading is a combination of kun'yomi and on'yomi readings. That being said, both readings for both kanji are the readings you learned already, so you should be able to read this.",
+  "otherMeanings": [
+    "Setting",
+    "Locale"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A0%B4%E9%9D%A2",
+    "graph": "/v/vocabulary/7641"
+  },
+  "related": {
+    "radicals": [
+      17,
+      172,
+      250
+    ],
+    "kanjis": [
+      694,
+      974
+    ]
+  }
+}

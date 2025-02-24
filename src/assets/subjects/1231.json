@@ -1,0 +1,35 @@
+{
+  "id": 1231,
+  "type": "kanji",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "層"
+  },
+  "primaryReading": "そう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "そう",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Layer",
+  "otherMeanings": [],
+  "meaningMnemonic": "Behind the <radical>flag</radical> lies a <radical>mask</radical>—yet another <kanji>layer</kanji> of secrecy. You’re standing in front of a crowd, giving a rousing speech. Hiding your face is the flag of your country, and behind that flag you’re also wearing a mask, just in case the flag falls down. The extra layer of secrecy is just to be safe.",
+  "readingMnemonic": "Someone jumps up on stage and starts peeling off your <kanji>layer</kanji>s! You stand there, first goes the flag, then the mask, then ... your <reading>sou</reading>l (そう) is laid bare. No, literally. You don't have a body, your soul was under that mask. And now it's floating there for all to see.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%B1%A4",
+    "graph": "/v/kanji/1231"
+  },
+  "related": {
+    "radicals": [
+      37,
+      259
+    ],
+    "vocabularies": [
+      4701,
+      4702
+    ]
+  }
+}

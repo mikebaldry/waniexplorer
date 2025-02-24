@@ -1,0 +1,41 @@
+{
+  "id": 1569,
+  "type": "kanji",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "劇"
+  },
+  "primaryReading": "げき",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "げき",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Drama",
+  "otherMeanings": [],
+  "meaningMnemonic": "A <radical>tiger</radical> kills a <radical>pig</radical> with a <radical>knife</radical> in this new <kanji>drama</kanji> about the animal kingdom! The tiger and pig used to be friends when they were younger, but now they're bitter enemies and the tiger just stabbed the pig right in the chest with a knife.",
+  "readingMnemonic": "This <kanji>drama</kanji> is being put on by <reading>Gecki</reading> (げき), your childhood pet gecko. Gecki is playing all the parts, because as true drama fans know, one-gecko-shows are the highest form of art.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%8A%87",
+    "graph": "/v/kanji/1569"
+  },
+  "related": {
+    "radicals": [
+      254,
+      233,
+      128
+    ],
+    "vocabularies": [
+      5806,
+      5807,
+      5808,
+      5809,
+      5810,
+      5811,
+      5812
+    ]
+  }
+}

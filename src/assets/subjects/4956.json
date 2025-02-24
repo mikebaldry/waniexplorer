@@ -1,0 +1,35 @@
+{
+  "id": 4956,
+  "type": "vocabulary",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "怪獣"
+  },
+  "primaryMeaning": "Giant Monster",
+  "meaningMnemonic": "Look at that <kanji>suspicious</kanji> <kanji>beast</kanji>... it's Godzilla, walking around looking suspicious. What is Godzilla? He is a <vocabulary>giant monster</vocabulary>.",
+  "primaryReading": "かいじゅう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Kaiju"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%80%AA%E7%8D%A3",
+    "graph": "/v/vocabulary/4956"
+  },
+  "related": {
+    "radicals": [
+      232,
+      179,
+      8783,
+      51,
+      8781,
+      47
+    ],
+    "kanjis": [
+      1302,
+      1303
+    ]
+  }
+}

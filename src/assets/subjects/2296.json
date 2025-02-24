@@ -1,0 +1,49 @@
+{
+  "id": 2296,
+  "type": "kanji",
+  "level": 56,
+  "characters": {
+    "type": "text",
+    "value": "猶"
+  },
+  "primaryReading": "ゆう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ゆう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ゆ",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "なお",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Still",
+  "otherMeanings": [
+    "Yet"
+  ],
+  "meaningMnemonic": "An <radical>animal</radical> with <radical>horns</radical> is drinking our <radical>alcohol</radical>? <kanji>Still</kanji>?",
+  "readingMnemonic": "The animal with horns that is <kanji>still</kanji> drinking your alcohol is no animal at all. It is actually one of the local <reading>you</reading>ths (ゆう) dressed up like a horned animal so they can drink as long as they want and you'll be too scared to shoo them away.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%8C%B6",
+    "graph": "/v/kanji/2296"
+  },
+  "related": {
+    "radicals": [
+      144,
+      8767,
+      182
+    ],
+    "vocabularies": [
+      8298,
+      8479,
+      8480
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": 7619,
+  "type": "vocabulary",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "水星"
+  },
+  "primaryMeaning": "Mercury",
+  "meaningMnemonic": "The <kanji>water</kanji> <kanji>star</kanji> is the planet <vocabulary>Mercury</vocabulary>. That's where we hid all of our secret moon water. Mercury looks enough like our moon, so we put it there so no one could find it.",
+  "primaryReading": "すいせい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B0%B4%E6%98%9F",
+    "graph": "/v/vocabulary/7619"
+  },
+  "related": {
+    "radicals": [
+      45,
+      22,
+      210
+    ],
+    "kanjis": [
+      479,
+      638
+    ]
+  }
+}

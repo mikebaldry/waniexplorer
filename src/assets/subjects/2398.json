@@ -1,0 +1,38 @@
+{
+  "id": 2398,
+  "type": "kanji",
+  "level": 60,
+  "characters": {
+    "type": "text",
+    "value": "漣"
+  },
+  "primaryReading": "れん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "れん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "さざなみ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Ripples",
+  "otherMeanings": [],
+  "meaningMnemonic": "As the <radical>tsunami</radical> hits your <radical>scooter</radical> and your <radical>car</radical>, it alters the wave, creating <kanji>ripples</kanji>.",
+  "readingMnemonic": "<kanji>Ripples</kanji> come off of your scooter and car from when they were hit by a tsunami. More importantly, those things were <reading>ren</reading>tals (れん), so ripples or not, it doesn't matter if they were hit by a tsunami.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%BC%A3",
+    "graph": "/v/kanji/2398"
+  },
+  "related": {
+    "radicals": [
+      103,
+      114,
+      93
+    ],
+    "vocabularies": []
+  }
+}

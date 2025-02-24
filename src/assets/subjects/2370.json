@@ -1,0 +1,59 @@
+{
+  "id": 2370,
+  "type": "kanji",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "戯"
+  },
+  "primaryReading": "ぎ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ぎ",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "げ",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ざ",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "じゃ",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "たわむ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Play",
+  "otherMeanings": [],
+  "meaningMnemonic": "Throw a <radical>drunkard</radical> in a cage with a <radical>tiger</radical> and some <radical>spikes</radical> and the tiger will have the time of its life <kanji>play</kanji>ing with them! Think of all the tiger play time possibilities! ",
+  "readingMnemonic": "If you aren't the tiger, watching it <kanji>play</kanji> is a little like watching someone's head get cut off with a <reading>gui</reading>llotine (ぎ). In fact, you don't want to watch it play at all anymore.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%88%AF",
+    "graph": "/v/kanji/2370"
+  },
+  "related": {
+    "radicals": [
+      254,
+      8768,
+      194
+    ],
+    "vocabularies": [
+      8461,
+      8462,
+      8463,
+      8621,
+      8622
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2801,
+  "type": "vocabulary",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "青い"
+  },
+  "primaryMeaning": "Blue",
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>blue</kanji>? It's still <vocabulary>blue</vocabulary>! It can also mean <vocabulary>unripe</vocabulary>, which might sound confusing, but it comes down to the fact that in Japanese there's some overlap between blue and green. So while in English we think of the \"go\" traffic light and unripe bananas as \"green,\" in Japanese they're actually called \"blue.\"",
+  "primaryReading": "あおい",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nYou have to remember the あお portion to read this word. Think of <vocabulary>blue</vocabulary> things on your body. Those are bruises. Touch them. What would you say? <reading>OW!</reading> (あお).",
+  "otherMeanings": [
+    "Unripe"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%9D%92%E3%81%84",
+    "graph": "/v/vocabulary/2801"
+  },
+  "related": {
+    "radicals": [
+      120
+    ],
+    "kanjis": [
+      604
+    ]
+  }
+}

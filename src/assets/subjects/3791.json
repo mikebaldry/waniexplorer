@@ -1,0 +1,35 @@
+{
+  "id": 3791,
+  "type": "vocabulary",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "計画"
+  },
+  "primaryMeaning": "Plan",
+  "meaningMnemonic": "You need <kanji>measurement</kanji>s and <kanji>image</kanji>s to make a <vocabulary>plan</vocabulary>. You can't follow a plan without measurements and images to refer to, right? Any good plan has measurements and drawings.",
+  "primaryReading": "けいかく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. The reading for 画 is the secondary reading though (かく), so take note of that.",
+  "otherMeanings": [
+    "Planning",
+    "Project"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%A8%88%E7%94%BB",
+    "graph": "/v/vocabulary/3791"
+  },
+  "related": {
+    "radicals": [
+      117,
+      15,
+      27,
+      51,
+      127
+    ],
+    "kanjis": [
+      935,
+      629
+    ]
+  }
+}

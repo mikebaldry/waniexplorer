@@ -1,0 +1,35 @@
+{
+  "id": 2678,
+  "type": "vocabulary",
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "平気"
+  },
+  "primaryMeaning": "Calm",
+  "meaningMnemonic": "You have a <kanji>flat</kanji> <kanji>energy</kanji>. What kind of energy would be a flat one? Probably a <vocabulary>cool</vocabulary> or <vocabulary>calm</vocabulary> one. You'd also tell people about this flat energy by saying you are <vocabulary>all right</vocabulary> or just <vocabulary>okay</vocabulary>.",
+  "primaryReading": "へいき",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Cool",
+    "All Right",
+    "Okay"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%B9%B3%E6%B0%97",
+    "graph": "/v/vocabulary/2678"
+  },
+  "related": {
+    "radicals": [
+      61,
+      8767,
+      82,
+      31
+    ],
+    "kanjis": [
+      535,
+      548
+    ]
+  }
+}

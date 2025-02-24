@@ -1,0 +1,34 @@
+{
+  "id": 4517,
+  "type": "vocabulary",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "消費"
+  },
+  "primaryMeaning": "Consumption",
+  "meaningMnemonic": "You <kanji>extinguish</kanji> an item and therefore have to <kanji>expense</kanji> it. This is how <vocabulary>consumption</vocabulary> works. Expense, extinguish, consumption.",
+  "primaryReading": "しょうひ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Expenditure"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B6%88%E8%B2%BB",
+    "graph": "/v/vocabulary/4517"
+  },
+  "related": {
+    "radicals": [
+      103,
+      8765,
+      43,
+      284,
+      94
+    ],
+    "kanjis": [
+      819,
+      1165
+    ]
+  }
+}

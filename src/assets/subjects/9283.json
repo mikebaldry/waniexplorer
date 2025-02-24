@@ -1,0 +1,33 @@
+{
+  "id": 9283,
+  "type": "vocabulary",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "立ち去る"
+  },
+  "primaryMeaning": "To Leave",
+  "meaningMnemonic": "You 立ち and then 去る. Makes sense, as in order <vocabulary>to leave</vocabulary>, you'll have to stand up first.",
+  "primaryReading": "たちさる",
+  "readingMnemonic": "This combines the readings of two verbs you already know, so you should be good to go here!",
+  "otherMeanings": [
+    "To Walk Away",
+    "To Depart"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%AB%8B%E3%81%A1%E5%8E%BB%E3%82%8B",
+    "graph": "/v/vocabulary/9283"
+  },
+  "related": {
+    "radicals": [
+      55,
+      17,
+      140
+    ],
+    "kanjis": [
+      494,
+      532
+    ]
+  }
+}

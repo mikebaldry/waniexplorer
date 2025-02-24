@@ -1,0 +1,47 @@
+{
+  "id": 722,
+  "type": "kanji",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "乗"
+  },
+  "primaryReading": "の",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "の",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "じょう",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Ride",
+  "otherMeanings": [],
+  "meaningMnemonic": "You put a <radical>grain</radical> in your <radical>mouth</radical> and let it take a <kanji>ride</kanji>. This kanji has the same radicals as 和, but this time the grain is <i>in</i> your mouth, which is why there's little pieces of grain sticking out of the 口 part ;)",
+  "readingMnemonic": "You decide the grain is probably lonely on this <kanji>ride</kanji> alone, so you add some <reading>no</reading>ri (の) seaweed, so it has a friend.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E4%B9%97",
+    "graph": "/v/kanji/722"
+  },
+  "related": {
+    "radicals": [
+      135,
+      16
+    ],
+    "vocabularies": [
+      3112,
+      3113,
+      3114,
+      3498,
+      6143,
+      7991,
+      9048,
+      9049,
+      9050
+    ]
+  }
+}

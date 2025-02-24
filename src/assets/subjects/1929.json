@@ -1,0 +1,42 @@
+{
+  "id": 1929,
+  "type": "kanji",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "磨"
+  },
+  "primaryReading": "みが",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "みが",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ま",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Polish",
+  "otherMeanings": [],
+  "meaningMnemonic": "Below this <radical>canopy</radical> of <radical>tree</radical>s is a <radical>stone</radical>. Since it's the only stone here, you make sure to <kanji>polish</kanji> it.",
+  "readingMnemonic": "You <kanji>polish</kanji> the stone due to your <reading>meager</reading> (みが) lifestyle.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%A3%A8",
+    "graph": "/v/kanji/1929"
+  },
+  "related": {
+    "radicals": [
+      62,
+      23,
+      54
+    ],
+    "vocabularies": [
+      6908,
+      6909,
+      7143
+    ]
+  }
+}

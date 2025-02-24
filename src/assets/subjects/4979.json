@@ -1,0 +1,31 @@
+{
+  "id": 4979,
+  "type": "vocabulary",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "製造"
+  },
+  "primaryMeaning": "Manufacturing",
+  "meaningMnemonic": "<kanji>Manufacture</kanji> and <kanji>create</kanji>. That is <vocabulary>manufacturing</vocabulary>.",
+  "primaryReading": "せいぞう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%A3%BD%E9%80%A0",
+    "graph": "/v/vocabulary/4979"
+  },
+  "related": {
+    "radicals": [
+      296,
+      320,
+      114,
+      306
+    ],
+    "kanjis": [
+      1219,
+      1281
+    ]
+  }
+}

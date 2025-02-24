@@ -1,0 +1,30 @@
+{
+  "id": 3279,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "昔"
+  },
+  "primaryMeaning": "Long Ago",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well. This is a good way to start stories, by the way: 昔々に… (Long, long ago).",
+  "primaryReading": "むかし",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji. むかし sounds like a kun'yomi reading, doesn't it? It's so long.",
+  "otherMeanings": [
+    "Long Time Ago"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%98%94",
+    "graph": "/v/vocabulary/3279"
+  },
+  "related": {
+    "radicals": [
+      8775,
+      22
+    ],
+    "kanjis": [
+      792
+    ]
+  }
+}

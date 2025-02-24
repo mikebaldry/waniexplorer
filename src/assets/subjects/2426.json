@@ -1,0 +1,38 @@
+{
+  "id": 2426,
+  "type": "kanji",
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "浪"
+  },
+  "primaryReading": "ろう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ろう",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Wander",
+  "otherMeanings": [],
+  "meaningMnemonic": "The <radical>tsunami</radical> that is <radical>good</radical>. This fabled creature has never been seen, but you <kanji>wander</kanji> the lands in search of it.",
+  "readingMnemonic": "As you <kanji>wander</kanji>, you come across a clue. It is fish <reading>roe</reading> (ろう). ",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%B5%AA",
+    "graph": "/v/kanji/2426"
+  },
+  "related": {
+    "radicals": [
+      103,
+      8822
+    ],
+    "vocabularies": [
+      8548,
+      8549,
+      8550,
+      8551,
+      8552
+    ]
+  }
+}

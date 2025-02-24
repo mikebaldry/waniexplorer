@@ -1,0 +1,34 @@
+{
+  "id": 7561,
+  "type": "vocabulary",
+  "level": 2,
+  "characters": {
+    "type": "text",
+    "value": "一日"
+  },
+  "primaryMeaning": "One Day",
+  "meaningMnemonic": "This word has two different meanings. <vocabulary>One day</vocabulary> and <vocabulary>first day</vocabulary>. No matter how you look at this word, those meanings make a lot of sense.",
+  "primaryReading": "いちにち",
+  "readingMnemonic": "The first meaning is <vocabulary>one day</vocabulary>, and it has the same reading as the kanji you learned, so you should already know this reading.\n\nThe reading for ”first day,\" however, is a big old exception. It doesn’t take the on’yomi or kun’yomi readings, and has its own special (weird) readings. Here’s a mnemonic to help  you remember this one:\n\nOn the <vocabulary>first day</vocabulary> of a new relationship you just <reading>tweet a chee</reading>sy (ついたち) line at each other. You're so in love you can't speak normally, so you just use bird calls and cheesy lines to communicate.",
+  "otherMeanings": [
+    "Day One",
+    "First Day"
+  ],
+  "otherReadings": [
+    "ついたち"
+  ],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B8%80%E6%97%A5",
+    "graph": "/v/vocabulary/7561"
+  },
+  "related": {
+    "radicals": [
+      1,
+      22
+    ],
+    "kanjis": [
+      440,
+      476
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": 2068,
+  "type": "kanji",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "覆"
+  },
+  "primaryReading": "ふく",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ふく",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "おお",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "くつがえ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Capsize",
+  "otherMeanings": [
+    "Cover"
+  ],
+  "meaningMnemonic": "If a <radical>helicopter</radical> <radical>loiter</radical>s near a <radical>black hole</radical> then it's going to <kanji>capsize</kanji>. I mean, yeah, it's not a boat, but just look, that's what's happening! That helicopter is going down!\n\nIf you want to save it you better <kanji>cover</kanji> up the black hole! The only way to save it from capsizing is to cover it right up!",
+  "readingMnemonic": "You're doing your best to <kanji>cover</kanji> the black hole to stop the helicopter from <kanji>capsiz</kanji>ing but it's not working! “<reading>F**k</reading> you (ふく) black hole!\" you shout. You just want to cover it up! You just want to do the right thing!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%A6%86",
+    "graph": "/v/kanji/2068"
+  },
+  "related": {
+    "radicals": [
+      424,
+      99,
+      265
+    ],
+    "vocabularies": [
+      7314,
+      7315,
+      7316,
+      7832
+    ]
+  }
+}

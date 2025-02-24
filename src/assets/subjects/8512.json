@@ -1,0 +1,31 @@
+{
+  "id": 8512,
+  "type": "vocabulary",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "鶏肉"
+  },
+  "primaryMeaning": "Chicken Meat",
+  "meaningMnemonic": "<kanji>Chicken</kanji> <kanji>meat</kanji> is <vocabulary>chicken meat</vocabulary>!",
+  "primaryReading": "とりにく",
+  "readingMnemonic": "This word uses a kun'yomi reading for 鶏 that you haven't learned yet (とり), plus the usual on'yomi for 肉. Sounds tricky, but remember how 鳥 is とり? Chicken meat is basically just bird meat, so think of it like that when you're trying to remember this reading!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%B6%8F%E8%82%89",
+    "graph": "/v/vocabulary/8512"
+  },
+  "related": {
+    "radicals": [
+      8772,
+      146,
+      151,
+      108
+    ],
+    "kanjis": [
+      2380,
+      577
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": 3836,
+  "type": "vocabulary",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "東京弁"
+  },
+  "primaryMeaning": "Tokyo Dialect",
+  "meaningMnemonic": "You know that 東京 is <kanji>Tokyo</kanji>, and you know that 弁 is <kanji>dialect</kanji>, so you have yourself <vocabulary>Tokyo dialect</vocabulary>.",
+  "primaryReading": "とうきょうべん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. It will help to know how to read 東京 already, which you should.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%9D%B1%E4%BA%AC%E5%BC%81",
+    "graph": "/v/vocabulary/3836"
+  },
+  "related": {
+    "radicals": [
+      23,
+      22,
+      8,
+      16,
+      35,
+      140,
+      106
+    ],
+    "kanjis": [
+      627,
+      620,
+      984
+    ]
+  }
+}

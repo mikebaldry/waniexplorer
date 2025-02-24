@@ -1,0 +1,30 @@
+{
+  "id": 5703,
+  "type": "vocabulary",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "迷わす"
+  },
+  "primaryMeaning": "To Lead Astray",
+  "meaningMnemonic": "The word 迷う means \"to go astray\" but this word is <vocabulary>to lead astray</vocabulary>. You are doing the astraying to someone or something else. You know this because the other person <reading>was</reading> (わす) just fine until you came along to lead them astray.",
+  "primaryReading": "まよわす",
+  "readingMnemonic": "The reading comes from 迷う, so use that so you aren't lead astray too.",
+  "otherMeanings": [
+    "To Perplex"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%BF%B7%E3%82%8F%E3%81%99",
+    "graph": "/v/vocabulary/5703"
+  },
+  "related": {
+    "radicals": [
+      114,
+      98
+    ],
+    "kanjis": [
+      1325
+    ]
+  }
+}

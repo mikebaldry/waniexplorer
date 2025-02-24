@@ -1,0 +1,49 @@
+{
+  "id": 1148,
+  "type": "kanji",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "増"
+  },
+  "primaryReading": "ぞう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ぞう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ふ",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ま",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Increase",
+  "otherMeanings": [],
+  "meaningMnemonic": "The <radical>dirt</radical> <radical>mask</radical> is a mask which, when put on, will greatly <kanji>increase</kanji> the amount of dirt.",
+  "readingMnemonic": "Use the dirt mask to <kanji>increase</kanji> the dirt around you. The <reading>zo</reading>mbies (ぞう) are trying to escape, so you just keep increasing the dirt on top of them so they can't get out.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%A2%97",
+    "graph": "/v/kanji/1148"
+  },
+  "related": {
+    "radicals": [
+      17,
+      259
+    ],
+    "vocabularies": [
+      4458,
+      4459,
+      4460,
+      4461,
+      4856,
+      8716
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 2459,
+  "type": "kanji",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "囚"
+  },
+  "primaryReading": "しゅう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "しゅう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "とら",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Criminal",
+  "otherMeanings": [],
+  "meaningMnemonic": "Inside this giant <radical>mouth</radical> is a <radical>person</radical>, trapped, because they're a <kanji>criminal</kanji>. They did something bad (they touched the mouth of another person without consent) and now they're in mouth jail for criminals.",
+  "readingMnemonic": "The <kanji>criminal</kanji> is only wearing <reading>shoe</reading>s (しゅう). They're completely naked otherwise. They have to wear shoes because the mouth jail would be too slippery for them to stand otherwise.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%9B%9A",
+    "graph": "/v/kanji/2459"
+  },
+  "related": {
+    "radicals": [
+      16,
+      9
+    ],
+    "vocabularies": [
+      8604,
+      8605
+    ]
+  }
+}

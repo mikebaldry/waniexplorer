@@ -1,0 +1,52 @@
+{
+  "id": 743,
+  "type": "kanji",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "酒"
+  },
+  "primaryReading": "しゅ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "しゅ",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "さけ",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "さか",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Alcohol",
+  "otherMeanings": [],
+  "meaningMnemonic": "A <radical>tsunami</radical> is an <radical>alcohol</radical>ic beverage containing a lot of <kanji>alcohol</kanji>. It’s 3 different kinds of rums, pineapple juice, and grenadine. It’ll hit you like a tsunami though. This alcoholic drink has a kick to it.",
+  "readingMnemonic": "As you lie on this beach, the <kanji>alcohol</kanji> keeps coming down a <reading>chu</reading>te (しゅ), straight into your mouth. You can feel the sand in your toes and the alcohol sliding down your throat from this special tsunami chute.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%85%92",
+    "graph": "/v/kanji/743"
+  },
+  "related": {
+    "radicals": [
+      103,
+      182
+    ],
+    "vocabularies": [
+      3163,
+      3164,
+      3515,
+      3516,
+      4016,
+      4983,
+      5104,
+      9018,
+      9019
+    ]
+  }
+}

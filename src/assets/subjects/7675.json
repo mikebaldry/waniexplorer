@@ -1,0 +1,35 @@
+{
+  "id": 7675,
+  "type": "vocabulary",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "〜号室"
+  },
+  "primaryMeaning": "Room Number",
+  "meaningMnemonic": "This is a counter that can be used after numbers to let you know what <kanji>number</kanji> <kanji>room</kanji> it is. It's a <vocabulary>room number</vocabulary> that you use in apartments and hotels to know exactly which room you're looking for.",
+  "primaryReading": "ごうしつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Suffix For Room Numbers"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E3%80%9C%E5%8F%B7%E5%AE%A4",
+    "graph": "/v/vocabulary/7675"
+  },
+  "related": {
+    "radicals": [
+      16,
+      1,
+      14,
+      78,
+      140,
+      17
+    ],
+    "kanjis": [
+      533,
+      635
+    ]
+  }
+}

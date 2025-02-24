@@ -1,0 +1,31 @@
+{
+  "id": 3445,
+  "type": "vocabulary",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "代える"
+  },
+  "primaryMeaning": "To Replace Something",
+  "meaningMnemonic": "You know the kanji is <kanji>substitute</kanji>, and you know this is a verb. There are other similar ones, but this one means <vocabulary>to replace something</vocabulary>. In order to remember that this particular word means \"to replace something\" focus in on the え. You have an egg in your hands that you notice isn't any good (it's black and moldy). So, you replace it with another egg (or substitute it with another egg, or exchange it with another egg, etc).\n\nThis verb is transitive, meaning it has a direct object. You replace something, like that egg!",
+  "primaryReading": "かえる",
+  "readingMnemonic": "The reading for this one is the same as 代わる which you learned in a previous level. As long as you know that one you should be able to learn this one's reading as well.",
+  "otherMeanings": [
+    "To Substitute Something",
+    "To Exchange Something"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BB%A3%E3%81%88%E3%82%8B",
+    "graph": "/v/vocabulary/3445"
+  },
+  "related": {
+    "radicals": [
+      75,
+      79
+    ],
+    "kanjis": [
+      530
+    ]
+  }
+}

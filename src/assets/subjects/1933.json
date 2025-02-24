@@ -1,0 +1,44 @@
+{
+  "id": 1933,
+  "type": "kanji",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "湿"
+  },
+  "primaryReading": "しつ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "しつ",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "しめ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Damp",
+  "otherMeanings": [],
+  "meaningMnemonic": "After the <radical>tsunami</radical> the <radical>sun</radical> comes out again and shines on these <radical>spikes</radical>. They were super wet before, but you figure the sun probably dried them off. You lean down to touch them and nope, they's still <kanji>damp</kanji>.",
+  "readingMnemonic": "As you're looking at the <kanji>damp</kanji> spikes, a <reading>shih tzu</reading> (しつ) prances over, slips on the damp ground, and falls right on the spike! Oh nooo!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%B9%BF",
+    "graph": "/v/kanji/1933"
+  },
+  "related": {
+    "radicals": [
+      103,
+      22,
+      8768
+    ],
+    "vocabularies": [
+      6920,
+      6921,
+      6922,
+      6923,
+      7056
+    ]
+  }
+}

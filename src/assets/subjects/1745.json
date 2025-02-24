@@ -1,0 +1,41 @@
+{
+  "id": 1745,
+  "type": "kanji",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "柱"
+  },
+  "primaryReading": "ちゅう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ちゅう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "はしら",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Pillar",
+  "otherMeanings": [],
+  "meaningMnemonic": "This <radical>tree</radical> is the <radical>master</radical> of a <kanji>pillar</kanji>. The pillar is subservient to its tree master because the tree is so great and awesome and big and cool and stuff. The pillar has great respect for its tree master.",
+  "readingMnemonic": "While bowing, the <kanji>pillar</kanji> accidentally smashes <reading>Chew</reading>bacca (ちゅう). The pillar is horrified for having murdered Chewbacca, his tree master’s closest friend. The pillar is going to be punished.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%9F%B1",
+    "graph": "/v/kanji/1745"
+  },
+  "related": {
+    "radicals": [
+      23,
+      154
+    ],
+    "vocabularies": [
+      6367,
+      6368,
+      8614
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": 6443,
+  "type": "vocabulary",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "褒賞"
+  },
+  "primaryMeaning": "Medal",
+  "meaningMnemonic": "I <kanji>praise</kanji> you for what you did, so here's your <kanji>prize</kanji> to go along with my praise, a <vocabulary>medal</vocabulary>!",
+  "primaryReading": "ほうしょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Prize",
+    "Reward"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%A4%92%E8%B3%9E",
+    "graph": "/v/vocabulary/6443"
+  },
+  "related": {
+    "radicals": [
+      8,
+      380,
+      8770,
+      8769,
+      16,
+      94
+    ],
+    "kanjis": [
+      1770,
+      884
+    ]
+  }
+}

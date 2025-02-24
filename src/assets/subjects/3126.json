@@ -1,0 +1,31 @@
+{
+  "id": 3126,
+  "type": "vocabulary",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "角度"
+  },
+  "primaryMeaning": "Angle",
+  "meaningMnemonic": "An <kanji>angle</kanji> <kanji>degree</kanji> is just an <vocabulary>angle</vocabulary>. 90 degrees? 160 degrees? They're all still angles when you come down to it.",
+  "primaryReading": "かくど",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%A7%92%E5%BA%A6",
+    "graph": "/v/vocabulary/3126"
+  },
+  "related": {
+    "radicals": [
+      14,
+      71,
+      8787,
+      30
+    ],
+    "kanjis": [
+      592,
+      725
+    ]
+  }
+}

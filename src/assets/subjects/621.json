@@ -1,0 +1,71 @@
+{
+  "id": 621,
+  "type": "kanji",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "国"
+  },
+  "primaryReading": "こく",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "こく",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "くに",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Country",
+  "otherMeanings": [],
+  "meaningMnemonic": "The <radical>mouth</radical> of the <radical>king</radical> extends all the way around him (like in this kanji). Where his mouth reaches, that is his <kanji>country</kanji>, give or take a few <radical>drop</radical>s.",
+  "readingMnemonic": "Turns out the king of this <kanji>country</kanji> loves drinking <reading>Coke</reading> (こく). Every morning that big mouth of his swallows a whole 2-liter bottle of Coke for breakfast.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%9B%BD",
+    "graph": "/v/kanji/621"
+  },
+  "related": {
+    "radicals": [
+      16,
+      48,
+      3
+    ],
+    "vocabularies": [
+      2881,
+      2882,
+      2883,
+      2884,
+      2885,
+      2886,
+      2887,
+      2888,
+      2934,
+      3004,
+      3787,
+      4000,
+      4470,
+      4681,
+      4730,
+      5177,
+      5294,
+      5323,
+      5633,
+      5973,
+      6449,
+      6612,
+      6671,
+      7029,
+      7153,
+      7618,
+      7942,
+      8204,
+      8238,
+      8337,
+      9046,
+      9122
+    ]
+  }
+}

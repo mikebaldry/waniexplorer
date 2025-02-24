@@ -1,0 +1,47 @@
+{
+  "id": 2176,
+  "type": "kanji",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "遇"
+  },
+  "primaryReading": "ぐう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ぐう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "あ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Treatment",
+  "otherMeanings": [
+    "Encounter"
+  ],
+  "meaningMnemonic": "Your poor little <radical>scooter</radical> got a <radical>splinter</radical>, so make sure to give it extra nice <kanji>treatment</kanji>. \n\nThis can also mean <kanji>encounter</kanji>. Makes sense when you think about how you first have to encounter someone before deciding how you're going to treat them!\n\nAlso, when this means \"treatment,\" note that it doesn't refer to medical treatment, but rather about how you personally treat or receive people.",
+  "readingMnemonic": "Give your scooter only the best <kanji>treatment</kanji>, so it can feel real <reading>goo</reading>ooood (ぐう).",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%81%87",
+    "graph": "/v/kanji/2176"
+  },
+  "related": {
+    "radicals": [
+      114,
+      410
+    ],
+    "vocabularies": [
+      7933,
+      7934,
+      7935,
+      7936,
+      7937,
+      7938,
+      8154
+    ]
+  }
+}

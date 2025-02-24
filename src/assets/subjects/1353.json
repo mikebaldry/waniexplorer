@@ -1,0 +1,36 @@
+{
+  "id": 1353,
+  "type": "kanji",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "稚"
+  },
+  "primaryReading": "ち",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ち",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Immature",
+  "otherMeanings": [],
+  "meaningMnemonic": "Only give <radical>grain</radical>s to a <radical>turkey</radical> if it's <kanji>immature</kanji>. Adult turkeys should be eating healthier things, like insects and grass. But immature turkeys don't care if they get fat, so they whine and whine and whine until you give them grains.",
+  "readingMnemonic": "Another thing <kanji>immature</kanji> turkeys (and people) love is <reading>chee</reading>se (ち). Most of us non-immature people and birds still like cheese, but if you didn't have an immature cheese phase as a kid or teen, you won't be able to like cheese as a mature old person.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%A8%9A",
+    "graph": "/v/kanji/1353"
+  },
+  "related": {
+    "radicals": [
+      135,
+      240
+    ],
+    "vocabularies": [
+      5186,
+      5347,
+      8542
+    ]
+  }
+}

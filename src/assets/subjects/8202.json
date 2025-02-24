@@ -1,0 +1,33 @@
+{
+  "id": 8202,
+  "type": "vocabulary",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "愉快"
+  },
+  "primaryMeaning": "Pleasant",
+  "meaningMnemonic": "A <kanji>pleasant</kanji> <kanji>pleasant</kanji> person is super <vocabulary>pleasant</vocabulary>! They're <vocabulary>happy</vocabulary> and nice to everybody all the time!",
+  "primaryReading": "ゆかい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Happy"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%84%89%E5%BF%AB",
+    "graph": "/v/vocabulary/8202"
+  },
+  "related": {
+    "radicals": [
+      232,
+      8790,
+      9,
+      157
+    ],
+    "kanjis": [
+      2287,
+      1420
+    ]
+  }
+}

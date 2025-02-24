@@ -1,0 +1,27 @@
+{
+  "id": 2775,
+  "type": "vocabulary",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "行く"
+  },
+  "primaryMeaning": "To Go",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>go</kanji> so the verb form of this is <vocabulary>to go</vocabulary>.",
+  "primaryReading": "いく",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nYou have to remember the い portion. To remember い we use the word \"eagle.\" \n\nYou want <vocabulary>to go</vocabulary> somewhere (anywhere!) but you can't. An <reading>ea</reading>gle (い) blocks your path. You try to go forward and it opens its wings and bites at you. You try to go back and it jumps at you. There's nowhere for you to go with this eagle standing there.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%A1%8C%E3%81%8F",
+    "graph": "/v/vocabulary/2775"
+  },
+  "related": {
+    "radicals": [
+      111
+    ],
+    "kanjis": [
+      580
+    ]
+  }
+}

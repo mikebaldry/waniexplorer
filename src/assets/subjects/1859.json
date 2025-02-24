@@ -1,0 +1,40 @@
+{
+  "id": 1859,
+  "type": "kanji",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "摩"
+  },
+  "primaryReading": "ま",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ま",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "さす",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Chafe",
+  "otherMeanings": [],
+  "meaningMnemonic": "Below the <radical>canopy</radical> of <radical>tree</radical>s is a <radical>hand</radical>. The hand is just there to <kanji>chafe</kanji> against the trees.",
+  "readingMnemonic": "As the hand <kanji>chafe</kanji>s on the trees, it says <reading>ma</reading>ma (ま), mama.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%91%A9",
+    "graph": "/v/kanji/1859"
+  },
+  "related": {
+    "radicals": [
+      62,
+      23,
+      41
+    ],
+    "vocabularies": [
+      6720
+    ]
+  }
+}

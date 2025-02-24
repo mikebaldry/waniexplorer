@@ -1,0 +1,34 @@
+{
+  "id": 6053,
+  "type": "vocabulary",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "漁船"
+  },
+  "primaryMeaning": "Fishing Boat",
+  "meaningMnemonic": "A <kanji>fishing</kanji> <kanji>boat</kanji> is a <vocabulary>fishing boat</vocabulary>.",
+  "primaryReading": "ぎょせん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Fishing Vessel"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%BC%81%E8%88%B9",
+    "graph": "/v/vocabulary/6053"
+  },
+  "related": {
+    "radicals": [
+      103,
+      150,
+      149,
+      2,
+      16
+    ],
+    "kanjis": [
+      1645,
+      671
+    ]
+  }
+}

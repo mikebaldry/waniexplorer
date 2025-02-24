@@ -1,0 +1,35 @@
+{
+  "id": 5494,
+  "type": "vocabulary",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "道徳"
+  },
+  "primaryMeaning": "Morals",
+  "meaningMnemonic": "The <kanji>way</kanji> of <kanji>virtue</kanji> is the way you take if you have <vocabulary>morals</vocabulary>. Hopefully you have some.",
+  "primaryReading": "どうとく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Morality"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%81%93%E5%BE%B3",
+    "graph": "/v/vocabulary/5494"
+  },
+  "related": {
+    "radicals": [
+      114,
+      156,
+      99,
+      15,
+      163,
+      65
+    ],
+    "kanjis": [
+      700,
+      1476
+    ]
+  }
+}

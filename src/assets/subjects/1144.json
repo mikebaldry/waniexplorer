@@ -1,0 +1,37 @@
+{
+  "id": 1144,
+  "type": "kanji",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "審"
+  },
+  "primaryReading": "しん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "しん",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Judge",
+  "otherMeanings": [],
+  "meaningMnemonic": "You're about to enter a <radical>roof</radical> that has your <radical>number</radical> on it so you can face the <kanji>judge</kanji>. You've been sitting here for what feels like hours, waiting for your number to come up. Finally the time has come—the judge will see you now.",
+  "readingMnemonic": "The <kanji>judge</kanji> is not happy with you. He tells you to come closer and when you do, he takes his gavel and hits you in the <reading>shin</reading>s (しん). Ouch!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%AF%A9",
+    "graph": "/v/kanji/1144"
+  },
+  "related": {
+    "radicals": [
+      78,
+      280
+    ],
+    "vocabularies": [
+      4421,
+      4452,
+      6072,
+      8508
+    ]
+  }
+}

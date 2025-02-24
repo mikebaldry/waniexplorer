@@ -1,0 +1,34 @@
+{
+  "id": 7303,
+  "type": "vocabulary",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "概要"
+  },
+  "primaryMeaning": "Outline",
+  "meaningMnemonic": "An <kanji>approximation</kanji> of what we <kanji>need</kanji> is my <vocabulary>outline</vocabulary> / <vocabulary>summary</vocabulary>.",
+  "primaryReading": "がいよう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Summary"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%A6%82%E8%A6%81",
+    "graph": "/v/vocabulary/7303"
+  },
+  "related": {
+    "radicals": [
+      23,
+      196,
+      333,
+      424,
+      19
+    ],
+    "kanjis": [
+      2064,
+      737
+    ]
+  }
+}

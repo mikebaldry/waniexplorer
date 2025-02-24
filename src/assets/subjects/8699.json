@@ -1,0 +1,33 @@
+{
+  "id": 8699,
+  "type": "vocabulary",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "科目"
+  },
+  "primaryMeaning": "Subject",
+  "meaningMnemonic": "If you've got an <kanji>eye</kanji> on a certain <kanji>course</kanji>, it's a <vocabulary>subject</vocabulary> you really want to take. Maybe you're in school and that means you'll be taking a lot of <vocabulary>course</vocabulary>s. Maybe you're a teacher and you're planning out your <vocabulary>curriculum</vocabulary>. Either way, you have your eye on the course-prize.",
+  "primaryReading": "かもく",
+  "readingMnemonic": "The readings are the on'yomi readings, but you learned the kun'yomi reading for 目 before. So, you have to remember that this word uses もく instead of め. To do that, imagine seeing that the <vocabulary>subjects</vocabulary> you're allowed to take next term are different than everyone else's. The other kids notice, and start <reading>mock</reading>ing (もく) you for it. Think of what those subjects are and how you're being mocked for having to take them.",
+  "otherMeanings": [
+    "Course",
+    "Curriculum"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%A7%91%E7%9B%AE",
+    "graph": "/v/vocabulary/8699"
+  },
+  "related": {
+    "radicals": [
+      135,
+      129,
+      53
+    ],
+    "kanjis": [
+      642,
+      492
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 1488,
+  "type": "kanji",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "眼"
+  },
+  "primaryReading": "がん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "がん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "め",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Eyeball",
+  "otherMeanings": [],
+  "meaningMnemonic": "The <radical>eye</radical>'s <radical>root</radical> is the <kanji>eyeball</kanji>.",
+  "readingMnemonic": "You know who has some pretty good <kanji>eyeball</kanji>s? <reading>Gan</reading>dhi (がん). Gandhi used his eyes to see the oppression around him and decided to do something about it. But it's all thanks to his eyeballs.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%9C%BC",
+    "graph": "/v/kanji/1488"
+  },
+  "related": {
+    "radicals": [
+      53,
+      196
+    ],
+    "vocabularies": [
+      5538,
+      5539,
+      5540,
+      6574,
+      7473,
+      7510
+    ]
+  }
+}

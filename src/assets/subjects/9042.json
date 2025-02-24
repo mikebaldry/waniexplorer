@@ -1,0 +1,31 @@
+{
+  "id": 9042,
+  "type": "vocabulary",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "人里"
+  },
+  "primaryMeaning": "Human Habitation",
+  "meaningMnemonic": "A <kanji>person</kanji>'s <kanji>hometown</kanji> is a <vocabulary>human habitation</vocabulary>, or a <vocabulary>village</vocabulary>. This word has a slightly old-fashioned feel, and it's usually used for small villages in the countryside.\n\nIt's often combined with はなれた (separated) to talk about how far away from the nearest human habitation something is.",
+  "primaryReading": "ひとざと",
+  "readingMnemonic": "This jukugo uses the kun'yomi of the kanji instead of the more usual on'yomi. You learned both of these readings when you learned the vocabulary 人 and 里. Just notice that さと becomes ざと, because of rendaku.",
+  "otherMeanings": [
+    "Village"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BA%BA%E9%87%8C",
+    "graph": "/v/vocabulary/9042"
+  },
+  "related": {
+    "radicals": [
+      9,
+      125
+    ],
+    "kanjis": [
+      444,
+      597
+    ]
+  }
+}

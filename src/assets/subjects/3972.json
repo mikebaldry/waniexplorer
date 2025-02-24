@@ -1,0 +1,34 @@
+{
+  "id": 3972,
+  "type": "vocabulary",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "塩水"
+  },
+  "primaryMeaning": "Salt Water",
+  "meaningMnemonic": "<kanji>Water</kanji> with <kanji>salt</kanji> in it is <vocabulary>salt water</vocabulary>. Best not to drink 塩水.",
+  "primaryReading": "しおみず",
+  "readingMnemonic": "The readings are the kun'yomi vocab readings. You know 塩's from the kanji and you know 水's from the vocab word 水. Combine them together and you have <reading>しおみず</reading>.",
+  "otherMeanings": [],
+  "otherReadings": [
+    "えんすい"
+  ],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A1%A9%E6%B0%B4",
+    "graph": "/v/vocabulary/3972"
+  },
+  "related": {
+    "radicals": [
+      17,
+      8762,
+      16,
+      84,
+      45
+    ],
+    "kanjis": [
+      1002,
+      479
+    ]
+  }
+}

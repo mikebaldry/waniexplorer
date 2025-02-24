@@ -1,0 +1,33 @@
+{
+  "id": 7203,
+  "type": "vocabulary",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "記憶"
+  },
+  "primaryMeaning": "Memory",
+  "meaningMnemonic": "When you <kanji>record</kanji> <kanji>recollection</kanji>s in your mind, that concept is the concept of <vocabulary>memory</vocabulary>. This word is not a specific memory, instead it's the idea of memory itself. So, uh, try to memorize that.",
+  "primaryReading": "きおく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Recollection"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%A8%98%E6%86%B6",
+    "graph": "/v/vocabulary/7203"
+  },
+  "related": {
+    "radicals": [
+      117,
+      228,
+      232,
+      221
+    ],
+    "kanjis": [
+      664,
+      2029
+    ]
+  }
+}

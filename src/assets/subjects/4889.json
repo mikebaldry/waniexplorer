@@ -1,0 +1,36 @@
+{
+  "id": 4889,
+  "type": "vocabulary",
+  "level": 27,
+  "characters": {
+    "type": "text",
+    "value": "再来年"
+  },
+  "primaryMeaning": "Year After Next",
+  "meaningMnemonic": "You have <kanji>next year</kanji> (来年), but then you do a year <kanji>again</kanji>. That's the <vocabulary>year after next</vocabulary>.",
+  "primaryReading": "さらいねん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "The Year After Next"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%86%8D%E6%9D%A5%E5%B9%B4",
+    "graph": "/v/vocabulary/4889"
+  },
+  "related": {
+    "radicals": [
+      1,
+      29,
+      17,
+      98,
+      8762,
+      126
+    ],
+    "kanjis": [
+      1310,
+      590,
+      546
+    ]
+  }
+}

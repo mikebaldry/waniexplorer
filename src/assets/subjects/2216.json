@@ -1,0 +1,40 @@
+{
+  "id": 2216,
+  "type": "kanji",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "曙"
+  },
+  "primaryReading": "あけぼの",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "あけぼの",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "しょ",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Dawn",
+  "otherMeanings": [],
+  "meaningMnemonic": "The <radical>sun</radical> is rising and there is a <radical>net</radical> covering <radical>someone</radical>, who's being forced to watch as <kanji>dawn</kanji> appears. They've never seen dawn before, and they didn't want to, but you're making them.",
+  "readingMnemonic": "The someone who saw <kanji>dawn</kanji> for the first time goes on to become sumo wrestling champ <reading>Akebono</reading> Taro (あけぼの). He always gazes at the sunrise at dawn before he wrestles and it fills him with strength.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%9B%99",
+    "graph": "/v/kanji/2216"
+  },
+  "related": {
+    "radicals": [
+      22,
+      163,
+      203
+    ],
+    "vocabularies": [
+      7992
+    ]
+  }
+}

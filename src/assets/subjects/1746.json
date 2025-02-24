@@ -1,0 +1,44 @@
+{
+  "id": 1746,
+  "type": "kanji",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "唱"
+  },
+  "primaryReading": "しょう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "しょう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "とな",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Chant",
+  "otherMeanings": [],
+  "meaningMnemonic": "It's time to do the <radical>mouth</radical> <radical>sun</radical> <radical>sun</radical> <kanji>chant</kanji>. That's when you use your mouth to chant sun sun, sun sun, sun sun, over and over until the sun appears.",
+  "readingMnemonic": "You're doing this <kanji>chant</kanji> because the <reading>Shou</reading>gun (しょう) ordered you to. The sun hasn't been shining on him as much lately, and he's displeased. So now you have to chant for him.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%94%B1",
+    "graph": "/v/kanji/1746"
+  },
+  "related": {
+    "radicals": [
+      16,
+      22
+    ],
+    "vocabularies": [
+      6369,
+      6370,
+      6371,
+      6372,
+      6373,
+      6374
+    ]
+  }
+}

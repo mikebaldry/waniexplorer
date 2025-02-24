@@ -1,0 +1,29 @@
+{
+  "id": 2544,
+  "type": "vocabulary",
+  "level": 2,
+  "characters": {
+    "type": "text",
+    "value": "一月"
+  },
+  "primaryMeaning": "January",
+  "meaningMnemonic": "Since the kanji 月 mean both moon and month (because a moon cycle is about a month, presumably), what is the number one month? In English we have an actual name for it, and that name is <vocabulary>January</vocabulary>.",
+  "primaryReading": "いちがつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. 月 has two on'yomi readings, but it always uses the がつ reading in the names of the months, so here's a mnemonic to help you remember that:\n\n<vocabulary>January</vocabulary> always gives you <reading>itchy</reading> <reading>guts</reading> (いちがつ). It's a weird affliction that comes around every January and makes your guts incredibly itchy. Probably due to all that overindulgence over the new year.\n",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B8%80%E6%9C%88",
+    "graph": "/v/vocabulary/2544"
+  },
+  "related": {
+    "radicals": [
+      1,
+      43
+    ],
+    "kanjis": [
+      440,
+      477
+    ]
+  }
+}

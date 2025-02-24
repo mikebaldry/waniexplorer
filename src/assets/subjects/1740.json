@@ -1,0 +1,36 @@
+{
+  "id": 1740,
+  "type": "kanji",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "項"
+  },
+  "primaryReading": "こう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "こう",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Paragraph",
+  "otherMeanings": [],
+  "meaningMnemonic": "<radical>Construction</radical> for <radical>geoduck</radical>s doesn't require as much paperwork as construction for humans, but you still need to write at least a <kanji>paragraph</kanji> to explain what you're doing.",
+  "readingMnemonic": "You turn in your <kanji>paragraph</kanji>, and it is given to Emperor <reading>こう</reading>いち, who insists on being involved in all construction projects. Surprisingly, he approves your construction project, thanks to that paragraph you wrote in the application.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%A0%85",
+    "graph": "/v/kanji/1740"
+  },
+  "related": {
+    "radicals": [
+      25,
+      184
+    ],
+    "vocabularies": [
+      6332,
+      6333,
+      6334
+    ]
+  }
+}

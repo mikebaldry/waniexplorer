@@ -1,0 +1,30 @@
+{
+  "id": 2676,
+  "type": "vocabulary",
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "天気"
+  },
+  "primaryMeaning": "Weather",
+  "meaningMnemonic": "What is the <kanji>heaven</kanji> <kanji>energy</kanji>? If you think about it, that's all the stuff that falls on us from the sky. Lightning, rain, snow, hail... What is all of that? It's the <vocabulary>weather</vocabulary>.",
+  "primaryReading": "てんき",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A4%A9%E6%B0%97",
+    "graph": "/v/vocabulary/2676"
+  },
+  "related": {
+    "radicals": [
+      40,
+      82,
+      31
+    ],
+    "kanjis": [
+      473,
+      548
+    ]
+  }
+}

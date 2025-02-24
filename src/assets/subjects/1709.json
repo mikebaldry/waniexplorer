@@ -1,0 +1,47 @@
+{
+  "id": 1709,
+  "type": "kanji",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "鈴"
+  },
+  "primaryReading": "りん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "りん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "れい",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "すず",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Buzzer",
+  "otherMeanings": [
+    "Small Bell"
+  ],
+  "meaningMnemonic": "You take <radical>gold</radical> in exchange for executing <radical>orders</radical> to construct a <kanji>buzzer</kanji>. You are a <kanji>small bell</kanji> maker and someone orders you to make one into a buzzer in exchange for some gold. This is how you make a living.",
+  "readingMnemonic": "Finally the <kanji>buzzer</kanji> is done. You’ve earned your gold. You test the buzzer and it goes <reading>rin</reading>g (りん)! Ring! Ring! Ring! Ring ring ring ring ring! Man, that ringing is annoying but hey, that’s what buzzers do.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%88%B4",
+    "graph": "/v/kanji/1709"
+  },
+  "related": {
+    "radicals": [
+      118,
+      189
+    ],
+    "vocabularies": [
+      6262,
+      6263
+    ]
+  }
+}

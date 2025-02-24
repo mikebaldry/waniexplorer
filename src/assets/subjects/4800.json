@@ -1,0 +1,31 @@
+{
+  "id": 4800,
+  "type": "vocabulary",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "模様"
+  },
+  "primaryMeaning": "Pattern",
+  "meaningMnemonic": "様 uses its alternative meaning \"manner\" here, so we have an <kanji>imitation</kanji> <kanji>manner</kanji>. An imitation of the same manner over and over creates a <vocabulary>pattern</vocabulary>.",
+  "primaryReading": "もよう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since you didn't learn the on'yomi for 様 with the kanji, here's a mnemonic to help you out. You see a pattern in your <reading>yo</reading>gurt (よう). The yogurt is an imitation of life. So deep, man. So deep.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%A8%A1%E6%A7%98",
+    "graph": "/v/vocabulary/4800"
+  },
+  "related": {
+    "radicals": [
+      23,
+      356,
+      136,
+      45
+    ],
+    "kanjis": [
+      1264,
+      865
+    ]
+  }
+}

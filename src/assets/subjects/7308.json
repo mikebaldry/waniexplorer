@@ -1,0 +1,34 @@
+{
+  "id": 7308,
+  "type": "vocabulary",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "侵食"
+  },
+  "primaryMeaning": "Erosion",
+  "meaningMnemonic": "Something that <kanji>invade</kanji>s and <kanji>eat</kanji>s away at something is something that causes <vocabulary>erosion</vocabulary> and <vocabulary>corrosion</vocabulary>.",
+  "primaryReading": "しんしょく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Corrosion"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BE%B5%E9%A3%9F",
+    "graph": "/v/vocabulary/7308"
+  },
+  "related": {
+    "radicals": [
+      75,
+      105,
+      76,
+      30,
+      139
+    ],
+    "kanjis": [
+      1802,
+      644
+    ]
+  }
+}

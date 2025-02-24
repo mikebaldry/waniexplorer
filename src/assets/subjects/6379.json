@@ -1,0 +1,31 @@
+{
+  "id": 6379,
+  "type": "vocabulary",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "兼用"
+  },
+  "primaryMeaning": "Combined Use",
+  "meaningMnemonic": "If you <kanji>concurrently</kanji> <kanji>use</kanji> one thing for multiple purposes, you're using something with a <vocabulary>combined use</vocabulary>. Something that is <vocabulary>serving two purposes</vocabulary>.",
+  "primaryReading": "けんよう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Serving Two Purposes"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%85%BC%E7%94%A8",
+    "graph": "/v/vocabulary/6379"
+  },
+  "related": {
+    "radicals": [
+      271,
+      71
+    ],
+    "kanjis": [
+      1749,
+      525
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": 678,
+  "type": "kanji",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "支"
+  },
+  "primaryReading": "し",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "し",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ささ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Support",
+  "otherMeanings": [
+    "Branch"
+  ],
+  "meaningMnemonic": "The <radical>branch</radical> radical and the <kanji>branch</kanji> kanji are the same! This kanji also means <kanji>support</kanji>. To remember it, think about a tree with lots of branches. The branches support each other and the trunk of the tree. If you were to climb the tree, the branches would be able to support your weight too!",
+  "readingMnemonic": "You're happily sitting on this <kanji>branch</kanji>, letting it <kanji>support</kanji> all this weight, when a <reading>shee</reading>p (し) starts to climb the tree. A very, very big sheep. Uh oh... no no, sheep. If you get on this branch it won't be able to support all this weight!!!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%94%AF",
+    "graph": "/v/kanji/678"
+  },
+  "related": {
+    "radicals": [
+      81
+    ],
+    "vocabularies": [
+      2992,
+      2993,
+      3012,
+      4568,
+      4870,
+      7578,
+      8728
+    ]
+  }
+}

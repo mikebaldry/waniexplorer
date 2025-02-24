@@ -1,0 +1,32 @@
+{
+  "id": 4945,
+  "type": "vocabulary",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "運河"
+  },
+  "primaryMeaning": "Canal",
+  "meaningMnemonic": "It can <kanji>carry</kanji> a <kanji>river</kanji>. It's a <vocabulary>canal</vocabulary>.",
+  "primaryReading": "うんが",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. The か goes to が, probably while floating down said <vocabulary>canal</vocabulary>.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%81%8B%E6%B2%B3",
+    "graph": "/v/vocabulary/4945"
+  },
+  "related": {
+    "radicals": [
+      114,
+      76,
+      93,
+      103,
+      113
+    ],
+    "kanjis": [
+      752,
+      1306
+    ]
+  }
+}

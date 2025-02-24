@@ -1,0 +1,44 @@
+{
+  "id": 1787,
+  "type": "kanji",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "酎"
+  },
+  "primaryReading": "ちゅう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ちゅう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ちゅ",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "かも",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Hard Liquor",
+  "otherMeanings": [],
+  "meaningMnemonic": "The <radical>alcohol</radical> that needs <radical>measurement</radical> is <kanji>hard liquor</kanji>. Drinking too much hard liquor isn't good for you, so you must make sure to measure it out in precise quantities.",
+  "readingMnemonic": "You know who enjoyed <kanji>hard liquor</kanji> a lot? <reading>Chew</reading>bacca (ちゅう). He was always drinking, which is concerning when you think about all the driving he did.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%85%8E",
+    "graph": "/v/kanji/1787"
+  },
+  "related": {
+    "radicals": [
+      182,
+      74
+    ],
+    "vocabularies": [
+      6506
+    ]
+  }
+}

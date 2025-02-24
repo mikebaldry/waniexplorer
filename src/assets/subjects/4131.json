@@ -1,0 +1,32 @@
+{
+  "id": 4131,
+  "type": "vocabulary",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "等しい"
+  },
+  "primaryMeaning": "Equal",
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>equal</kanji>? It's <vocabulary>equal</vocabulary> (and also <vocabulary>similar</vocabulary> or <vocabulary>equivalent</vocabulary>). That \"similar\" one is a bit weird, because \"similar\" is not equal, though I'd lean more towards equal.",
+  "primaryReading": "ひとしい",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: What should be equal above all things? I think each <reading>人</reading> (ひと) should be equal!",
+  "otherMeanings": [
+    "The Same",
+    "Equivalent",
+    "Similar"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%AD%89%E3%81%97%E3%81%84",
+    "graph": "/v/vocabulary/4131"
+  },
+  "related": {
+    "radicals": [
+      85,
+      192
+    ],
+    "kanjis": [
+      1037
+    ]
+  }
+}

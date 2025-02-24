@@ -1,0 +1,48 @@
+{
+  "id": 1313,
+  "type": "kanji",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "占"
+  },
+  "primaryReading": "せん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "せん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "うらな",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "し",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Fortune",
+  "otherMeanings": [
+    "Occupy"
+  ],
+  "meaningMnemonic": "The  <radical>fortune</radical> radical and the <kanji>fortune</kanji> kanji are exactly the same! This can also mean <kanji>occupy</kanji>, maybe because learning your fortune shows you how you're going to occupy your life. Or how it will occupy you…\n\nYou haven't seen the radical in a while, so here's a mnemonic to help you remember the kanji: Put your toe in your mouth to learn your <kanji>fortune</kanji>. The taste will tell you everything you need to know about your fortune. But your toe has to <kanji>occupy</kanji> your mouth first for it to work.",
+  "readingMnemonic": "To <kanji>occupy</kanji> some free time you have, you go and get your <kanji>fortune</kanji> told at a fortune teller. Your fortune is that you’ll have an encounter with a <reading>cen</reading>taur (せん) in the near future. Just then you realize that the fortune teller is actually a centaur! The fortune has come true!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%8D%A0",
+    "graph": "/v/kanji/1313"
+  },
+  "related": {
+    "radicals": [
+      143
+    ],
+    "vocabularies": [
+      4902,
+      4903,
+      4904,
+      5140
+    ]
+  }
+}

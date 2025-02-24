@@ -1,0 +1,32 @@
+{
+  "id": 5686,
+  "type": "vocabulary",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "装い"
+  },
+  "primaryMeaning": "Attire",
+  "meaningMnemonic": "This looks like it's an adjective, but it's just a tricky word. It's a noun, and it means the same thing as the kanji, making it <vocabulary>attire</vocabulary>.",
+  "primaryReading": "よそおい",
+  "readingMnemonic": "\"<reading>Yo, so, oh</reading>, you gonna wear that <vocabulary>attire</vocabulary> today or what?\"",
+  "otherMeanings": [
+    "Dress",
+    "Garb"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%A3%85%E3%81%84",
+    "graph": "/v/vocabulary/5686"
+  },
+  "related": {
+    "radicals": [
+      8826,
+      97,
+      320
+    ],
+    "kanjis": [
+      1541
+    ]
+  }
+}

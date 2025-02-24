@@ -1,25 +1,15 @@
-// @ts-ignore: Including type support for ?arraybuffer breaks other things
-import searchData from "../assets/search.avsc?arraybuffer";
-import { avroType, SearchResult } from "./search_result";
+import SubjectMap from "virtual:subject_map"; 
+
+import { SearchResult } from "./search_result";
 export type { SearchResult } from "./search_result";
-import { Buffer } from "buffer/";
 import { compact } from "lodash-es";
 import MiniSearch, { Query } from "minisearch";
 import { toKana, tokenize } from "wanakana";
 import { KanjiSubject, RadicalSubject, Subject, VocabularySubject } from "./subjects";
+import { unpack } from "msgpackr/unpack";
 
-// @ts-ignore: Buffer polyfill doesn't match exactly, but works enough!
-const documents = avroType.fromBuffer(Buffer.from(searchData)) as SearchResult[];
-
-const miniSearch = new MiniSearch<SearchResult>({
-  fields: ['primarySearch', 'secondarySearch'],
-  storeFields: ['id', 'type', 'level', 'characters', 'description', 'related'], 
-  searchOptions: {
-    boost: { primarySearch: 2 }
-  }
-})
-
-miniSearch.addAll(documents)
+import searchDataUrl from "../assets/search.data?url";
+import { searchOpts } from "./search_opts";
 
 export type View = {
   radicals: RadicalSubject[],
@@ -47,11 +37,18 @@ export type VocabularyView = {
 };
 
 class Db {
-  public search(query: string): SearchResult[] {
+  private _miniSearch: Promise<MiniSearch<SearchResult>>;
+
+  constructor() {
+    this._miniSearch = loadIndex();
+  }
+
+  public async search(query: string): Promise<SearchResult[]> {
     const [queryExpression, queryString] = this.buildSearchQuery(query)
 
     console.debug("query", queryExpression, queryString);
 
+    const miniSearch = await this._miniSearch;
     const results = miniSearch.search(queryExpression, { prefix: true, combineWith: "AND" }).slice(0, 15);
 
     return results.map((result) => {
@@ -129,8 +126,6 @@ class Db {
             return [token.value.trim()];
           }
         }));
-        
-    // ... ? four  red くるま kuruma. electric
 
     const userString = words.map((word) => {
       if (Array.isArray(word)) {
@@ -154,12 +149,20 @@ class Db {
   }
 }
 
+async function loadIndex(): Promise<MiniSearch<SearchResult>> {
+  const response = await fetch(searchDataUrl); 
+  const buffer = new Uint8Array(await response.arrayBuffer());
+  const searchData = unpack(buffer);
+
+  return MiniSearch.loadJS<SearchResult>(searchData, searchOpts)
+}
+
 async function loadId(id: number): Promise<Subject> {
-  const base = import.meta.env.BASE_URL.replace(/\/$/, '');
-  const response = await fetch(`${base}/data/${id}.json`); 
+  const response = await fetch(SubjectMap[id]); 
 
   return await response.json();
 }
 
 const db = new Db();
 export default db;
+

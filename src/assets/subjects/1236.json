@@ -1,0 +1,48 @@
+{
+  "id": 1236,
+  "type": "kanji",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "管"
+  },
+  "primaryReading": "かん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "かん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "くだ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Pipe",
+  "otherMeanings": [],
+  "meaningMnemonic": "On your <radical>bamboo</radical> <radical>roof</radical> is a <radical>bear</radical>. It is pulling the bamboo off, because it wants to use it to make a long <kanji>pipe</kanji>.",
+  "readingMnemonic": "The <kanji>pipe</kanji> will be for Genghis <reading>Khan</reading> (かん), who would like some pipes for his house.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%AE%A1",
+    "graph": "/v/kanji/1236"
+  },
+  "related": {
+    "radicals": [
+      85,
+      78,
+      8777
+    ],
+    "vocabularies": [
+      4718,
+      4719,
+      4720,
+      4964,
+      4992,
+      6841,
+      8325,
+      8452,
+      8616
+    ]
+  }
+}

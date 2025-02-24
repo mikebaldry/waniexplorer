@@ -1,0 +1,32 @@
+{
+  "id": 2968,
+  "type": "vocabulary",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "高い"
+  },
+  "primaryMeaning": "Tall",
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>tall</kanji> or <kanji>expensive</kanji>? It's the same: <vocabulary>tall</vocabulary> or <vocabulary>expensive</vocabulary>. \n\nWeird that this word means both of these things, yeah? Just imagine money piled up to be really tall. That money is tall because it needs to buy something expensive.",
+  "primaryReading": "たかい",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nBeing <vocabulary>tall</vocabulary> is really <vocabulary>expensive</vocabulary> because you have to buy a <reading>ta</reading>ll <reading>car</reading> (たか). If it's not a tall car then your tall body won't fit inside, and those tall cars are expensive!",
+  "otherMeanings": [
+    "High",
+    "Expensive"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%AB%98%E3%81%84",
+    "graph": "/v/vocabulary/2968"
+  },
+  "related": {
+    "radicals": [
+      8,
+      16,
+      121
+    ],
+    "kanjis": [
+      666
+    ]
+  }
+}

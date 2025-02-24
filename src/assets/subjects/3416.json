@@ -1,0 +1,31 @@
+{
+  "id": 3416,
+  "type": "vocabulary",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "毛糸"
+  },
+  "primaryMeaning": "Wool Yarn",
+  "meaningMnemonic": "When you have <kanji>fur</kanji> <kanji>string</kanji> (aka string made of fur) what do you think of? Hopefully <vocabulary>wool yarn</vocabulary>.",
+  "primaryReading": "けいと",
+  "readingMnemonic": "The readings for these kanji are the kun'yomi readings. With 毛 you should have learned this reading via the vocab word in the previous level. With 糸 it's actually the main reading for the kanji, so you should already know it.",
+  "otherMeanings": [
+    "Yarn"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%AF%9B%E7%B3%B8",
+    "graph": "/v/vocabulary/3416"
+  },
+  "related": {
+    "radicals": [
+      67,
+      86
+    ],
+    "kanjis": [
+      513,
+      551
+    ]
+  }
+}

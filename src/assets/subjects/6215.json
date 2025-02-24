@@ -1,0 +1,35 @@
+{
+  "id": 6215,
+  "type": "vocabulary",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "委託"
+  },
+  "primaryMeaning": "Consign",
+  "meaningMnemonic": "To the <kanji>committee</kanji> I would like to <kanji>consign</kanji> these things. This is what I <vocabulary>consign</vocabulary>.",
+  "primaryReading": "いたく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Entrust",
+    "Consignment"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A7%94%E8%A8%97",
+    "graph": "/v/vocabulary/6215"
+  },
+  "related": {
+    "radicals": [
+      135,
+      19,
+      117,
+      5,
+      4
+    ],
+    "kanjis": [
+      1125,
+      1701
+    ]
+  }
+}

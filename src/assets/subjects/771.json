@@ -1,0 +1,54 @@
+{
+  "id": 771,
+  "type": "kanji",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "頭"
+  },
+  "primaryReading": "あたま",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "あたま",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "かしら",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ず",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "とう",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Head",
+  "otherMeanings": [],
+  "meaningMnemonic": "If a <radical>geoduck</radical> eats lots of <radical>beans</radical>, its <kanji>head</kanji> will grow larger. To a geoduck, beans are a brain food, so by eating beans, a geoduck’s head will grow incredibly large. Geoducks already look strange enough as it is, let alone with engorged heads.",
+  "readingMnemonic": "As the geoduck eats more and more beans, its <kanji>head</kanji> gets bigger and bigger until finally the geoduck’s head explodes like an <reading>atomi</reading>c (あたま) bomb. BOOM! Geoduck parts go flying everywhere and pieces of the geoduck’s massive head float to the ground as atomic fallout.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%A0%AD",
+    "graph": "/v/kanji/771"
+  },
+  "related": {
+    "radicals": [
+      181,
+      184
+    ],
+    "vocabularies": [
+      3227,
+      5057,
+      7900,
+      8851,
+      8853,
+      8870
+    ]
+  }
+}

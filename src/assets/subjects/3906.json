@@ -1,0 +1,30 @@
+{
+  "id": 3906,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "映す"
+  },
+  "primaryMeaning": "To Project",
+  "meaningMnemonic": "You know that 映る is \"to be reflected.\" Now you're doing the reflecting, which is really projecting (light). That's why this word is <vocabulary>to project</vocabulary>.",
+  "primaryReading": "うつす",
+  "readingMnemonic": "The reading is the same as 映る. So long as you know the reading of 映る you should be able to read this one too.",
+  "otherMeanings": [
+    "To Reflect"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%98%A0%E3%81%99",
+    "graph": "/v/vocabulary/3906"
+  },
+  "related": {
+    "radicals": [
+      22,
+      231
+    ],
+    "kanjis": [
+      893
+    ]
+  }
+}

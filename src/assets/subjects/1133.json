@@ -1,0 +1,39 @@
+{
+  "id": 1133,
+  "type": "kanji",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "資"
+  },
+  "primaryReading": "し",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "し",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Resources",
+  "otherMeanings": [],
+  "meaningMnemonic": "The <radical>next</radical> <radical>shellfish</radical> will be yours, but this shellfish will be mine. These are the <kanji>resources</kanji> we have to share and distribute.",
+  "readingMnemonic": "You save up all of your <kanji>resources</kanji> so you can buy a <reading>shee</reading>p (し). You bring a big sack of your shellfish resources to the market and finally get to pick out that sheep you've had your eyes on for months.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%B3%87",
+    "graph": "/v/kanji/1133"
+  },
+  "related": {
+    "radicals": [
+      278,
+      94
+    ],
+    "vocabularies": [
+      4429,
+      4430,
+      4431,
+      4432,
+      5409,
+      8752
+    ]
+  }
+}

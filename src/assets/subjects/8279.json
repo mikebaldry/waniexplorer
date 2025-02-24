@@ -1,0 +1,32 @@
+{
+  "id": 8279,
+  "type": "vocabulary",
+  "level": 56,
+  "characters": {
+    "type": "text",
+    "value": "弦楽"
+  },
+  "primaryMeaning": "String Music",
+  "meaningMnemonic": "Remember how 楽 was used in 音楽 and meant \"music?\" Well this is that 楽 again. <kanji>Music</kanji> made with a <kanji>bowstring</kanji> is <vocabulary>string music</vocabulary>.",
+  "primaryReading": "げんがく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%BC%A6%E6%A5%BD",
+    "graph": "/v/vocabulary/8279"
+  },
+  "related": {
+    "radicals": [
+      36,
+      403,
+      52,
+      123,
+      23
+    ],
+    "kanjis": [
+      2312,
+      704
+    ]
+  }
+}

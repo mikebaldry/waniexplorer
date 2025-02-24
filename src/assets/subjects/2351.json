@@ -1,0 +1,37 @@
+{
+  "id": 2351,
+  "type": "kanji",
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "膜"
+  },
+  "primaryReading": "まく",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "まく",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Membrane",
+  "otherMeanings": [],
+  "meaningMnemonic": "If you trap the <radical>moon</radical> in a <radical>greenhouse</radical> it will grow a creepy <kanji>membrane</kanji> around itself. The moon isn't used to the heat it would be exposed to in a greenhouse so that membrane is there to protect it. It's really gross looking though.",
+  "readingMnemonic": "You decide to open the greenhouse to check this moon <kanji>membrane</kanji> out but when you open the door the smell of big <reading>mac</reading>s (まく) hits you in the face. Eww. Why does this membrane smell like a big mac... or does that mean big macs smell like a festering moon?",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%86%9C",
+    "graph": "/v/kanji/2351"
+  },
+  "related": {
+    "radicals": [
+      43,
+      356
+    ],
+    "vocabularies": [
+      8402,
+      8403,
+      8404,
+      8432
+    ]
+  }
+}

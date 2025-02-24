@@ -1,0 +1,52 @@
+{
+  "id": 1169,
+  "type": "kanji",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "示"
+  },
+  "primaryReading": "じ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "じ",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "し",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "しめ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Indicate",
+  "otherMeanings": [
+    "Show"
+  ],
+  "meaningMnemonic": "You can use a <radical>jackhammer</radical> to <kanji>indicate</kanji> and <kanji>show</kanji> someone where the prize is buried. You buried the prize to keep it safe, but the jackhammer is great at unearthing it. Jackhammers do a great job and show where the treasure lies. They indicate quite clearly where one needs to go.",
+  "readingMnemonic": "Actually, you're unearthing <reading>Je</reading>sus (じ). He’s the treasure. For your soul. He’s here to show you that Jesus is still a hip and cool guy and he wants to <kanji>indicate</kanji> to you that having faith in Jesus and God and stuff is super rad. Jesus is all like, “Who has two thumbs and wants to <kanji>show</kanji> you the way of the Lord? This guy.”",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%A4%BA",
+    "graph": "/v/kanji/1169"
+  },
+  "related": {
+    "radicals": [
+      207
+    ],
+    "vocabularies": [
+      4533,
+      4534,
+      4535,
+      4754,
+      6132,
+      6251,
+      7867,
+      7969
+    ]
+  }
+}

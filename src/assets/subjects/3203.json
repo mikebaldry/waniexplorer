@@ -1,0 +1,32 @@
+{
+  "id": 3203,
+  "type": "vocabulary",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "電鉄"
+  },
+  "primaryMeaning": "Electric Railway",
+  "meaningMnemonic": "The <kanji>electricity</kanji> <kanji>iron</kanji> sounds scary, but if you think to back in the day and to where iron was used a lot, you probably think of the railway systems... big hunky pieces of iron on the ground to make the railway. So, you can advance this by adding electricity instead of coal, creating an <vocabulary>electric railway</vocabulary>.",
+  "primaryReading": "でんてつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%9B%BB%E9%89%84",
+    "graph": "/v/vocabulary/3203"
+  },
+  "related": {
+    "radicals": [
+      119,
+      51,
+      211,
+      118,
+      275
+    ],
+    "kanjis": [
+      706,
+      760
+    ]
+  }
+}

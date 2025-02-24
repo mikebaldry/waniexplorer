@@ -1,0 +1,30 @@
+{
+  "id": 4230,
+  "type": "vocabulary",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "若い"
+  },
+  "primaryMeaning": "Young",
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>young</kanji>? It's <vocabulary>young</vocabulary>.",
+  "primaryReading": "わかい",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji. Oh how nice it is to be <vocabulary>young</vocabulary> and to be able to remember that.",
+  "otherMeanings": [
+    "Youthful"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%8B%A5%E3%81%84",
+    "graph": "/v/vocabulary/4230"
+  },
+  "related": {
+    "radicals": [
+      90,
+      362
+    ],
+    "kanjis": [
+      1065
+    ]
+  }
+}

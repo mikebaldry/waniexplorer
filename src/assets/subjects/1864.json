@@ -1,0 +1,47 @@
+{
+  "id": 1864,
+  "type": "kanji",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "柔"
+  },
+  "primaryReading": "じゅう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "じゅう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "にゅう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "やわ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Gentle",
+  "otherMeanings": [],
+  "meaningMnemonic": "You've been ordered to <radical>spear</radical> this <radical>tree</radical> but you decide to be really <kanji>gentle</kanji> instead.",
+  "readingMnemonic": "You're being really <kanji>gentle</kanji> to the tree when a <reading>jewel</reading> (じゅう) falls out of its branches and hits you on the head.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%9F%94",
+    "graph": "/v/kanji/1864"
+  },
+  "related": {
+    "radicals": [
+      148,
+      23
+    ],
+    "vocabularies": [
+      6728,
+      6729,
+      6730,
+      7838
+    ]
+  }
+}

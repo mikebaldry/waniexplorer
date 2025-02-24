@@ -1,0 +1,44 @@
+{
+  "id": 1876,
+  "type": "kanji",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "吉"
+  },
+  "primaryReading": "きつ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "きつ",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "きち",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "よし",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Good Luck",
+  "otherMeanings": [],
+  "meaningMnemonic": "The <radical>good luck</radical> radical and the <kanji>good luck</kanji> kanji are the same!",
+  "readingMnemonic": "For <kanji>good luck</kanji>, you keep special <reading>kits</reading> (きつ) in your <reading>kitch</reading>en (きち). These kitchen kits contain good luck charms.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%90%89",
+    "graph": "/v/kanji/1876"
+  },
+  "related": {
+    "radicals": [
+      253
+    ],
+    "vocabularies": [
+      6781,
+      6782
+    ]
+  }
+}

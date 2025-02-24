@@ -1,0 +1,46 @@
+{
+  "id": 1295,
+  "type": "kanji",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "激"
+  },
+  "primaryReading": "げき",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "げき",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "はげ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Fierce",
+  "otherMeanings": [
+    "Violent"
+  ],
+  "meaningMnemonic": "A <radical>tsunami</radical> that is <radical>white</radical>, traveling in the <radical>direction</radical> of <radical>winter</radical> is a <kanji>fierce</kanji> and <kanji>violent</kanji> force of nature. This white tsunami is chasing after winter, and that’s why the tsunami is white—it’s a winter tsunami. It’s the most fierce and most violent kind of tsunami in existence.",
+  "readingMnemonic": "The tsunami is too <kanji>fierce</kanji>, too <kanji>violent</kanji>, and before you realize what's happening, <reading>Gecki</reading> (げき), your beloved gecko, is lifted up and carried off into the air.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%BF%80",
+    "graph": "/v/kanji/1295"
+  },
+  "related": {
+    "radicals": [
+      103,
+      52,
+      66,
+      60
+    ],
+    "vocabularies": [
+      4894,
+      4900,
+      4947,
+      9094
+    ]
+  }
+}

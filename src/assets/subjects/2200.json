@@ -1,0 +1,36 @@
+{
+  "id": 2200,
+  "type": "kanji",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "艇"
+  },
+  "primaryReading": "てい",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "てい",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Rowboat",
+  "otherMeanings": [],
+  "meaningMnemonic": "A <radical>boat</radical> owned by a <radical>Yoga</radical> <radical>King</radical> needs to be able to let him keep doing his exercises while he's on it. That's why his boat is a <kanji>rowboat</kanji>, so he can work on his yoga arms as he gets around.",
+  "readingMnemonic": "As he rows the <kanji>rowboat</kanji> with his butt, you see the Yoga King eating something with his toes. They're <reading>ta</reading>ter tots (てい). Tater tots are the perfect snack for a rowboat. They're small, delicious, and they float if you drop them in the water.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%89%87",
+    "graph": "/v/kanji/2200"
+  },
+  "related": {
+    "radicals": [
+      149,
+      206,
+      48
+    ],
+    "vocabularies": [
+      8032,
+      8033
+    ]
+  }
+}

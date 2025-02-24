@@ -1,0 +1,53 @@
+{
+  "id": 969,
+  "type": "kanji",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "幸"
+  },
+  "primaryReading": "こう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "こう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "しあわ",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "さいわ",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "さち",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Happiness",
+  "otherMeanings": [],
+  "meaningMnemonic": "Put a <radical>lid</radical> on something <radical>spicy</radical> and you'll cook up pure <kanji>happiness</kanji>.",
+  "readingMnemonic": "Out of spicy foods you made pure <kanji>happiness</kanji>. You give it to your sad friend <reading>こう</reading>いち, who waits at the table.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%B9%B8",
+    "graph": "/v/kanji/969"
+  },
+  "related": {
+    "radicals": [
+      8,
+      178
+    ],
+    "vocabularies": [
+      3832,
+      3833,
+      3855,
+      7698,
+      8673
+    ]
+  }
+}

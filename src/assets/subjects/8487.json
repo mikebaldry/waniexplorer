@@ -1,0 +1,33 @@
+{
+  "id": 8487,
+  "type": "vocabulary",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "金縛り"
+  },
+  "primaryMeaning": "Sleep Paralysis",
+  "meaningMnemonic": "Remember how you learned that 縛る means \"to bind?\" Well, in Japanese being bound by <kanji>gold</kanji> means you're experiencing <vocabulary>sleep paralysis</vocabulary>, or <vocabulary>temporary paralysis</vocabulary>. Just imagine that you're waking from a dream where you're bound up in gold thread, and it's stopping you from moving.",
+  "primaryReading": "かなしばり",
+  "readingMnemonic": "This is a combination of the words 金 and 縛る. Both use the kun'yomi readings, but 金 becomes かな instead of かね. If you can remember that exception, this should be easy!",
+  "otherMeanings": [
+    "Temporary Paralysis"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%87%91%E7%B8%9B%E3%82%8A",
+    "graph": "/v/vocabulary/8487"
+  },
+  "related": {
+    "radicals": [
+      118,
+      86,
+      317,
+      3
+    ],
+    "kanjis": [
+      602,
+      2310
+    ]
+  }
+}

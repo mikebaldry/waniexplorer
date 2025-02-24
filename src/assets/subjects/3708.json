@@ -1,0 +1,33 @@
+{
+  "id": 3708,
+  "type": "vocabulary",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "求人"
+  },
+  "primaryMeaning": "Job Posting",
+  "meaningMnemonic": "When you're <kanji>request</kanji>ing <kanji>people</kanji>, you put up a <vocabulary>job posting</vocabulary> because you’re <vocabulary>seeking workers</vocabulary>.",
+  "primaryReading": "きゅうじん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 人 has two on'yomi readings, here's a mnemonic to help you remember which one to use:\n\nAs you're looking at <vocabulary>job posting</vocabulary>s, you notice they're all looking for people with <reading>cu</reading>cumbers and <reading>jean</reading>s (きゅうじん). That's the only qualification they're after, cucumbers and jeans. ",
+  "otherMeanings": [
+    "Seeking Workers"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B1%82%E4%BA%BA",
+    "graph": "/v/vocabulary/3708"
+  },
+  "related": {
+    "radicals": [
+      1,
+      45,
+      3,
+      9
+    ],
+    "kanjis": [
+      913,
+      444
+    ]
+  }
+}

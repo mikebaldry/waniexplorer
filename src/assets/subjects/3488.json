@@ -1,0 +1,31 @@
+{
+  "id": 3488,
+  "type": "vocabulary",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "助かる"
+  },
+  "primaryMeaning": "To Be Helped",
+  "meaningMnemonic": "You know that <ja>助ける</ja> means \"to help.\" This word, <ja>助かる</ja>, is related, but it's a bit different. It means <vocabulary>to be helped</vocabulary> or <vocabulary>to be saved</vocabulary>. It's intransitive, so it doesn't take a direct object. Imagine shouting \"I'm saved!\" No direct object, right?\n\nVerbs ending in okurigana that rhyme with <ja>ある</ja> tend to be intransitive like this. You can remember this because if something is <ja>ある</ja>, it's just there, existing, not acting <em>on</em> anything else. That's why verbs that sound like it are often intransitive too!",
+  "primaryReading": "たすかる",
+  "readingMnemonic": "The reading is the same as 助ける, so hopefully you know that word and can apply that knowledge over here.",
+  "otherMeanings": [
+    "To Be Saved",
+    "To Be Rescued"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%8A%A9%E3%81%8B%E3%82%8B",
+    "graph": "/v/vocabulary/3488"
+  },
+  "related": {
+    "radicals": [
+      419,
+      13
+    ],
+    "kanjis": [
+      680
+    ]
+  }
+}

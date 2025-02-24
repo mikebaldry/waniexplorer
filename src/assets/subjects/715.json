@@ -1,0 +1,61 @@
+{
+  "id": 715,
+  "type": "kanji",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "実"
+  },
+  "primaryReading": "じつ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "じつ",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "み",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "みの",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Truth",
+  "otherMeanings": [
+    "Reality"
+  ],
+  "meaningMnemonic": "Climb onto the <radical>roof</radical> in <radical>spring</radical> to see the <kanji>truth</kanji>. The world is waking back up from winter and revealing the <kanji>reality</kanji> of what it is all around you. ",
+  "readingMnemonic": "At the moment, you're trying to learn the <kanji>truth</kanji> about the deer that is coming out of the snowy woods when you see not one, but two baby deer appear with it! <reading>Gee! Two</reading> (じつ) babies! You keep looking around and realize that all of the animals seem to have two babies that they had hidden in the snow.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%AE%9F",
+    "graph": "/v/kanji/715"
+  },
+  "related": {
+    "radicals": [
+      78,
+      8779
+    ],
+    "vocabularies": [
+      3102,
+      3103,
+      3104,
+      3830,
+      4164,
+      4271,
+      4469,
+      4644,
+      5638,
+      5991,
+      6286,
+      6547,
+      7483,
+      8148,
+      8223,
+      8341
+    ]
+  }
+}

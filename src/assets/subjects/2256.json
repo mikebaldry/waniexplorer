@@ -1,0 +1,38 @@
+{
+  "id": 2256,
+  "type": "kanji",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "悠"
+  },
+  "primaryReading": "ゆう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ゆう",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Leisure",
+  "otherMeanings": [],
+  "meaningMnemonic": "The <radical>leader</radical> who usually hits you with a <radical>stick</radical> in <radical>winter</radical> finds it in his <radical>heart</radical> to give you some <kanji>leisure</kanji> time.",
+  "readingMnemonic": "You're just about to start your <kanji>leisure</kanji> time when a group of <reading>you</reading>ths (ゆう) appears with their own sticks. You look back for the leader, and he's wearing a bathrobe, sunglasses, and is drinking some hot cocoa. Wait... this is leisure time for... HIM?! OH NO!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%82%A0",
+    "graph": "/v/kanji/2256"
+  },
+  "related": {
+    "radicals": [
+      75,
+      8761,
+      60,
+      65
+    ],
+    "vocabularies": [
+      8095,
+      8096,
+      8097
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 2083,
+  "type": "kanji",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "丈"
+  },
+  "primaryReading": "じょう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "じょう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "たけ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Height",
+  "otherMeanings": [
+    "Ten Feet"
+  ],
+  "meaningMnemonic": "The <radical>height</radical> radical and the <kanji>height</kanji> kanji are the same!\n\nThat said, there's a secondary meaning to this kanji of <kanji>ten feet</kanji>. So, when you think of height, think of that height as being ten feet tall.",
+  "readingMnemonic": "When you think of <kanji>height</kanji>, think of our huge farmhand friend, <reading>Joe</reading> (じょう). He's a big guy, and he has a lot of height to him. In fact, he's <kanji>ten feet</kanji> tall.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E4%B8%88",
+    "graph": "/v/kanji/2083"
+  },
+  "related": {
+    "radicals": [
+      408
+    ],
+    "vocabularies": [
+      7151,
+      7277,
+      7278,
+      7279,
+      7280
+    ]
+  }
+}

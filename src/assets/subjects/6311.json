@@ -1,0 +1,34 @@
+{
+  "id": 6311,
+  "type": "vocabulary",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "枠組み"
+  },
+  "primaryMeaning": "Frame",
+  "meaningMnemonic": "The <kanji>frame</kanji> <kanji>group</kanji> is a <vocabulary>frame</vocabulary> or a <vocabulary>framework</vocabulary>.",
+  "primaryReading": "わくぐみ",
+  "readingMnemonic": "The reading is the reading of 枠 and the reading of the vocab word 組み. Watch out for the rendaku.",
+  "otherMeanings": [
+    "Framework"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%9E%A0%E7%B5%84%E3%81%BF",
+    "graph": "/v/vocabulary/6311"
+  },
+  "related": {
+    "radicals": [
+      23,
+      11,
+      15,
+      86,
+      419
+    ],
+    "kanjis": [
+      1731,
+      670
+    ]
+  }
+}

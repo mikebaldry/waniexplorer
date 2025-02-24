@@ -1,0 +1,47 @@
+{
+  "id": 1304,
+  "type": "kanji",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "突"
+  },
+  "primaryReading": "とつ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "とつ",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "つ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Stab",
+  "otherMeanings": [
+    "Thrust",
+    "Sudden"
+  ],
+  "meaningMnemonic": "In a <radical>hole</radical>, you see a <radical>big</radical> monster who wants to <kanji>stab</kanji> you. It <kanji>thrust</kanji>s its big spikes at you menacingly. No <kanji>sudden</kanji> movements now, or you'll fall right in!\n",
+  "readingMnemonic": "You fall in the big hole. What did I say about <kanji>sudden</kanji> movements!? It’s <reading>totes</reading> (とつ) going to <kanji>stab</kanji> you for sure. Totes.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%AA%81",
+    "graph": "/v/kanji/1304"
+  },
+  "related": {
+    "radicals": [
+      170,
+      18
+    ],
+    "vocabularies": [
+      4960,
+      4961,
+      6438,
+      7093,
+      7374,
+      7931
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 1582,
+  "type": "kanji",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "破"
+  },
+  "primaryReading": "は",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "は",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "やぶ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Tear",
+  "otherMeanings": [],
+  "meaningMnemonic": "If you scrape a sharp <radical>stone</radical> against your <radical>skin</radical>, it will <kanji>tear</kanji>. The sharp stone tears your skin. It hurts!",
+  "readingMnemonic": "The moment your skin <kanji>tear</kanji>s you can't help but yelp \"<reading>Ha</reading> (は)!\" It sounds like a laugh, but it's more like a pained bark.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%A0%B4",
+    "graph": "/v/kanji/1582"
+  },
+  "related": {
+    "radicals": [
+      54,
+      195
+    ],
+    "vocabularies": [
+      5867,
+      5868,
+      5869,
+      5870,
+      6041,
+      6461
+    ]
+  }
+}

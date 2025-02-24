@@ -1,0 +1,61 @@
+{
+  "id": 630,
+  "type": "kanji",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "直"
+  },
+  "primaryReading": "ちょく",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ちょく",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "じき",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "なお",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Fix",
+  "otherMeanings": [
+    "Direct"
+  ],
+  "meaningMnemonic": "You accidentally stab your <radical>cross</radical> into the <radical>eye</radical> of a <radical>lion</radical>. This is a terrible thing you did and you need to <kanji>fix</kanji> it right now. I'll be <kanji>direct</kanji> with you, this is something you have to fix on your own.",
+  "readingMnemonic": "As you try to <kanji>fix</kanji> the lion's eye, it starts to <reading>choke</reading> (ちょく) and make what can only be described as a <reading>jiki</reading>jiki sound (じき). Through its choking jikijiki sounds, it coughs up a gear. Wait. Is this a machine lion?",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%9B%B4",
+    "graph": "/v/kanji/630"
+  },
+  "related": {
+    "radicals": [
+      56,
+      15,
+      53
+    ],
+    "vocabularies": [
+      2902,
+      2903,
+      2904,
+      2905,
+      3243,
+      3453,
+      4107,
+      4930,
+      5277,
+      5392,
+      5462,
+      5630,
+      6854,
+      8327,
+      9280
+    ]
+  }
+}

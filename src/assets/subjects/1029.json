@@ -1,0 +1,53 @@
+{
+  "id": 1029,
+  "type": "kanji",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "試"
+  },
+  "primaryReading": "し",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "し",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "こころ",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ため",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Try",
+  "otherMeanings": [
+    "Attempt"
+  ],
+  "meaningMnemonic": "If you want to <radical>say</radical> something at a <radical>ceremony</radical> for <radical>construction</radical> workers you're going to have to <kanji>try</kanji> really hard. Construction is loud, so if you want to be heard you have to <kanji>attempt</kanji> to be louder than the drilling and smashing and digging and handing out of awards.",
+  "readingMnemonic": "You <kanji>try</kanji> to get their attention the only way you know how, by lifting a <reading>shee</reading>p (し) above your head. The sheep baas and suddenly everything is silent, all eyes are on you. Well, they're on the sheep.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%A9%A6",
+    "graph": "/v/kanji/1029"
+  },
+  "related": {
+    "radicals": [
+      117,
+      79,
+      25
+    ],
+    "vocabularies": [
+      4147,
+      4148,
+      4149,
+      4150,
+      4165,
+      4354,
+      6032
+    ]
+  }
+}

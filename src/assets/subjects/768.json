@@ -1,0 +1,44 @@
+{
+  "id": 768,
+  "type": "kanji",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "横"
+  },
+  "primaryReading": "よこ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "よこ",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "おう",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Side",
+  "otherMeanings": [
+    "Horizontal"
+  ],
+  "meaningMnemonic": "The <radical>tree</radical> marked with a <radical>yellow</radical> X on the <kanji>side</kanji> of the house is going to get cut down. You’ve marked it with a yellow X so the hired help knows which tree to cut down. There are a lot of trees on the side of the house, but the tree marked with a yellow X is the only one in danger of causing damage to your roof in the event of a storm.",
+  "readingMnemonic": "Wait, that woman with the chainsaw is <reading>Yoko</reading> (よこ) Ono! Yes, the same Yoko Ono who’s married to John Lennon of the Beatles. What’s she doing chopping down trees on the <kanji>side</kanji> of your house? Who can say. Silly Yoko.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%A8%AA",
+    "graph": "/v/kanji/768"
+  },
+  "related": {
+    "radicals": [
+      23,
+      152
+    ],
+    "vocabularies": [
+      3219,
+      5168,
+      5770,
+      6631
+    ]
+  }
+}

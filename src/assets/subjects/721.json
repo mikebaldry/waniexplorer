@@ -1,0 +1,47 @@
+{
+  "id": 721,
+  "type": "kanji",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "部"
+  },
+  "primaryReading": "ぶ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ぶ",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "へ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Part",
+  "otherMeanings": [
+    "Department",
+    "Club"
+  ],
+  "meaningMnemonic": "The <radical>clown</radical> <radical>building</radical> is over in that <kanji>part</kanji> of town. We keep the clown part as separate as we can from the rest of the normal people. In fact, the entire clown education <kanji>department</kanji> and their clown <kanji>club</kanji>s have to stay in their part, they can't come in ours.",
+  "readingMnemonic": "You see, that <kanji>part</kanji> of town is full of <reading>boo</reading>ze (ぶ). Clowns need a lot of booze to keep their charade going, so we just let them have it. But they aren't allowed in our part anymore, because they all stink of nasty clown booze.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%83%A8",
+    "graph": "/v/kanji/721"
+  },
+  "related": {
+    "radicals": [
+      175,
+      176
+    ],
+    "vocabularies": [
+      3118,
+      7460,
+      7532,
+      7533,
+      8665,
+      8741
+    ]
+  }
+}

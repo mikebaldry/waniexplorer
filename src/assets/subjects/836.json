@@ -1,0 +1,40 @@
+{
+  "id": 836,
+  "type": "kanji",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "寒"
+  },
+  "primaryReading": "さむ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "さむ",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "かん",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Cold",
+  "otherMeanings": [],
+  "meaningMnemonic": "The <radical>roof</radical>, even though it's almost <radical>spring</radical>, is still covered in <radical>ice</radical> so it's <kanji>cold</kanji>. Inside the house is cold, outside the house is cold. Everything is cold!",
+  "readingMnemonic": "You can't stand the <kanji>cold</kanji> anymore, so you hire a <reading>samu</reading>rai (さむ) to come try to hack the ice off of your roof with his sword. You stand outside shivering, and watching as the samurai tries to stab the ice off of your roof.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%AF%92",
+    "graph": "/v/kanji/836"
+  },
+  "related": {
+    "radicals": [
+      78,
+      8779,
+      123
+    ],
+    "vocabularies": [
+      3375
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": 5379,
+  "type": "vocabulary",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "不適"
+  },
+  "primaryMeaning": "Unsuitable",
+  "meaningMnemonic": "Something that is <kanji>not</kanji> <kanji>suitable</kanji> is <vocabulary>unsuitable</vocabulary> and <vocabulary>inappropriate</vocabulary>.",
+  "primaryReading": "ふてき",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Inappropriate"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B8%8D%E9%81%A9",
+    "graph": "/v/vocabulary/5379"
+  },
+  "related": {
+    "radicals": [
+      96,
+      114,
+      276
+    ],
+    "kanjis": [
+      563,
+      1424
+    ]
+  }
+}

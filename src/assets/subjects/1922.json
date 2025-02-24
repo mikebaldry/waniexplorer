@@ -1,0 +1,36 @@
+{
+  "id": 1922,
+  "type": "kanji",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "曇"
+  },
+  "primaryReading": "くも",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "くも",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Cloudy",
+  "otherMeanings": [],
+  "meaningMnemonic": "The <radical>sun</radical> is being blocked by a <radical>rain</radical> <radical>cloud</radical>, making it <kanji>cloudy</kanji>.",
+  "readingMnemonic": "Remember 雲? It means \"cloud\" and has the same reading as \"cloudy,\" making them both <reading>くも</reading>.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%9B%87",
+    "graph": "/v/kanji/1922"
+  },
+  "related": {
+    "radicals": [
+      22,
+      119,
+      159
+    ],
+    "vocabularies": [
+      6890,
+      6891
+    ]
+  }
+}

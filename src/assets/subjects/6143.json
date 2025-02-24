@@ -1,0 +1,35 @@
+{
+  "id": 6143,
+  "type": "vocabulary",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "乗り換える"
+  },
+  "primaryMeaning": "To Transfer",
+  "meaningMnemonic": "You have <kanji>ride</kanji> and <kanji>exchange</kanji>, so you take your ride (bus, train, whatever) and exchange to another bus, train, or whatever. That's why this word means <vocabulary>to transfer</vocabulary>, and most commonly <vocabulary>to change trains</vocabulary>.",
+  "primaryReading": "のりかえる",
+  "readingMnemonic": "The reading comes from 乗る and 換える.",
+  "otherMeanings": [
+    "To Change Trains"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B9%97%E3%82%8A%E6%8F%9B%E3%81%88%E3%82%8B",
+    "graph": "/v/vocabulary/6143"
+  },
+  "related": {
+    "radicals": [
+      135,
+      16,
+      63,
+      14,
+      28,
+      18
+    ],
+    "kanjis": [
+      722,
+      1624
+    ]
+  }
+}

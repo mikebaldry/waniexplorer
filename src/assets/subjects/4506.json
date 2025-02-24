@@ -1,0 +1,33 @@
+{
+  "id": 4506,
+  "type": "vocabulary",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "坊主"
+  },
+  "primaryMeaning": "Buddhist Priest",
+  "meaningMnemonic": "A <kanji>monk</kanji> who is at <kanji>master</kanji> status is probably a priest by now... though not just any priest, this refers to a <vocabulary>Buddhist priest</vocabulary>. In modern Japanese this has also come to mean a <vocabulary>shaved head</vocabulary> or <vocabulary>close-cropped hair</vocabulary>. You can probably guess why!",
+  "primaryReading": "ぼうず",
+  "readingMnemonic": "The 坊 reads like you'd expect. Unfortunately 主 is an exception and read ず. Just think of a <reading>zoo</reading> that holds <vocabulary>Buddhist priest</vocabulary>s in captivity. How sad for those Buddhist priests.",
+  "otherMeanings": [
+    "Shaved Head",
+    "Close-Cropped Hair"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%9D%8A%E4%B8%BB",
+    "graph": "/v/vocabulary/4506"
+  },
+  "related": {
+    "radicals": [
+      17,
+      66,
+      154
+    ],
+    "kanjis": [
+      1159,
+      528
+    ]
+  }
+}

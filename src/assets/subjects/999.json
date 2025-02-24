@@ -1,0 +1,52 @@
+{
+  "id": 999,
+  "type": "kanji",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "側"
+  },
+  "primaryReading": "がわ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "がわ",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "そば",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "そく",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Side",
+  "otherMeanings": [],
+  "meaningMnemonic": "The <radical>leader</radical> of the <radical>shellfish</radical> has a <radical>knife</radical> in its <kanji>side</kanji>. It's fine though, don't worry, it's just a reminder that he won the great shellfish war back when they were trying to choose the new leader.",
+  "readingMnemonic": "Because of this knife in his <kanji>side</kanji>, he can't pronounce certain words correctly. The most obvious one is when he says <reading>川</reading> (かわ), but it comes out of the side of his mouth as がわ.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%81%B4",
+    "graph": "/v/kanji/999"
+  },
+  "related": {
+    "radicals": [
+      75,
+      94,
+      128
+    ],
+    "vocabularies": [
+      3953,
+      3954,
+      3955,
+      3956,
+      3957,
+      3958,
+      3959,
+      7548
+    ]
+  }
+}

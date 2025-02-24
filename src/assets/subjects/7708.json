@@ -1,0 +1,38 @@
+{
+  "id": 7708,
+  "type": "vocabulary",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "最後尾"
+  },
+  "primaryMeaning": "End Of A Line",
+  "meaningMnemonic": "You have 最, which means <kanji>most</kanji>, and 後尾, which means something like \"back\" or \"rear\" (<kanji>behind</kanji> + <kanji>tail</kanji>). When you're at the most back part of something, you might find yourself at the <vocabulary>end of a line</vocabulary> or <vocabulary>end of a queue</vocabulary>.\n\n最後尾 is often seen on signs at the end of a long line to help people locate where to join the queue.",
+  "primaryReading": "さいこうび",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. Be careful, because this is 最 + 後尾, and not 最後 + 尾, meaning that 後 is read こう, not ご! ",
+  "otherMeanings": [
+    "End Of A Queue"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%9C%80%E5%BE%8C%E5%B0%BE",
+    "graph": "/v/vocabulary/7708"
+  },
+  "related": {
+    "radicals": [
+      22,
+      88,
+      30,
+      99,
+      87,
+      60,
+      37,
+      67
+    ],
+    "kanjis": [
+      774,
+      636,
+      1101
+    ]
+  }
+}

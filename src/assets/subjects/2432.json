@@ -1,0 +1,54 @@
+{
+  "id": 2432,
+  "type": "kanji",
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "汰"
+  },
+  "primaryReading": "た",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "た",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "たい",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "おご",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "にご",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "よな",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Select",
+  "otherMeanings": [],
+  "meaningMnemonic": "If the <radical>tsunami</radical> that's heading for your village is <radical>fat</radical> you should try to <kanji>select</kanji> a different one to hit instead. You don't want to select fat tsunamis because they do more damage.",
+  "readingMnemonic": "If you're having trouble <kanji>select</kanji>ing which one is the least fat just check to see which tsunamis are eating <reading>ta</reading>cos (た). Only fat tsunamis will be eating them, so just look for one without a taco.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%B1%B0",
+    "graph": "/v/kanji/2432"
+  },
+  "related": {
+    "radicals": [
+      103,
+      411
+    ],
+    "vocabularies": [
+      8547
+    ]
+  }
+}

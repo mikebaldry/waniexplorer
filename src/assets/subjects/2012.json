@@ -1,0 +1,44 @@
+{
+  "id": 2012,
+  "type": "kanji",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "帳"
+  },
+  "primaryReading": "ちょう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ちょう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "とばり",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Notebook",
+  "otherMeanings": [],
+  "meaningMnemonic": "Take your <radical>towel</radical> and make it <radical>long</radical>. It has to be longer than that! For this will be your <kanji>notebook</kanji>, which you will write all your notes in.",
+  "readingMnemonic": "Inside your long towel <kanji>notebook</kanji> you just write the same name over and over again: \"Mrs. <reading>Chou</reading>\" (ちょう).",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%B8%B3",
+    "graph": "/v/kanji/2012"
+  },
+  "related": {
+    "radicals": [
+      102,
+      138
+    ],
+    "vocabularies": [
+      7165,
+      7166,
+      7167,
+      7168,
+      7169,
+      7378
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": 966,
+  "type": "kanji",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "取"
+  },
+  "primaryReading": "と",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "と",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "しゅ",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Take",
+  "otherMeanings": [],
+  "meaningMnemonic": "There's an <radical>ear</radical> just sitting on a <radical>stool</radical>. Nobody's watching, so, you <kanji>take</kanji> it.",
+  "readingMnemonic": "You're the kind of person who likes <vocabulary>to take</vocabulary> things. \"What things?\" you ask. Little <reading>toe</reading>s (と). Because that isn't creepy.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%8F%96",
+    "graph": "/v/kanji/966"
+  },
+  "related": {
+    "radicals": [
+      88,
+      30
+    ],
+    "vocabularies": [
+      3691,
+      3817,
+      4070,
+      4071,
+      4072,
+      4073,
+      4074,
+      5036,
+      6255,
+      6348,
+      6941,
+      7066,
+      7290,
+      8289,
+      8293,
+      8545,
+      9057,
+      9279
+    ]
+  }
+}

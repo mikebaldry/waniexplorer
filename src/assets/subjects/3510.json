@@ -1,0 +1,33 @@
+{
+  "id": 3510,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "時々"
+  },
+  "primaryMeaning": "Sometimes",
+  "meaningMnemonic": "You know the single word 時, right? It means <kanji>time</kanji>. This is that twice. So you have one time, and you have another time. They are separate. Things don't happen in every of these times you have. They happen <vocabulary>sometimes</vocabulary>.",
+  "primaryReading": "ときどき",
+  "readingMnemonic": "The reading is the vocab word 時 twice, with the second one getting rendaku'd.",
+  "otherMeanings": [
+    "At Times"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%99%82%E3%80%85",
+    "graph": "/v/vocabulary/3510"
+  },
+  "related": {
+    "radicals": [
+      22,
+      192,
+      14,
+      3
+    ],
+    "kanjis": [
+      662,
+      856
+    ]
+  }
+}

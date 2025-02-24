@@ -1,0 +1,34 @@
+{
+  "id": 3075,
+  "type": "vocabulary",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "電話"
+  },
+  "primaryMeaning": "Telephone",
+  "meaningMnemonic": "An <kanji>electricity</kanji> <kanji>talk</kanji>. What is this witchcraft? The only way to talk via electricity is with a <vocabulary>telephone</vocabulary>.",
+  "primaryReading": "でんわ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Phone"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%9B%BB%E8%A9%B1",
+    "graph": "/v/vocabulary/3075"
+  },
+  "related": {
+    "radicals": [
+      119,
+      51,
+      211,
+      117,
+      174
+    ],
+    "kanjis": [
+      706,
+      705
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 1298,
+  "type": "kanji",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "討"
+  },
+  "primaryReading": "とう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "とう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "う",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Chastise",
+  "otherMeanings": [],
+  "meaningMnemonic": "They <radical>say</radical> using a <radical>measurement</radical> device (like a ruler) is a good way to <kanji>chastise</kanji> someone. They do something bad? Chastise them by slapping their wrists, their feet, their eyes, ears, anything! They say something out of turn? CHASTISE THEM!",
+  "readingMnemonic": "You're being <kanji>chastise</kanji>d because you tried to say something in English in <reading>とう</reading>きょう. Everyone around you slowly turned around, eyes aflame and rulers in hand, ready to chastise you for uttering those forbidden words.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%A8%8E",
+    "graph": "/v/kanji/1298"
+  },
+  "related": {
+    "radicals": [
+      117,
+      74
+    ],
+    "vocabularies": [
+      4967,
+      4968
+    ]
+  }
+}

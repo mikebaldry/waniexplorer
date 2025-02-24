@@ -1,0 +1,33 @@
+{
+  "id": 4052,
+  "type": "vocabulary",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "大阪弁"
+  },
+  "primaryMeaning": "Osaka Dialect",
+  "meaningMnemonic": "Remember 大阪 (Osaka)? This is the <kanji>dialect</kanji> they speak, making this word <vocabulary>Osaka dialect</vocabulary>.",
+  "primaryReading": "おおさかべん",
+  "readingMnemonic": "If you know how to read 大阪 you can just add 弁 to it and be able to read the whole thing, though maybe not in <vocabulary>Osaka dialect</vocabulary>. Okay, fine, it's probably the same thing in Osaka dialect.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A4%A7%E9%98%AA%E5%BC%81",
+    "graph": "/v/vocabulary/4052"
+  },
+  "related": {
+    "radicals": [
+      18,
+      176,
+      218,
+      140,
+      106
+    ],
+    "kanjis": [
+      453,
+      994,
+      984
+    ]
+  }
+}

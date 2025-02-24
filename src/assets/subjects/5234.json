@@ -1,0 +1,34 @@
+{
+  "id": 5234,
+  "type": "vocabulary",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "恐怖"
+  },
+  "primaryMeaning": "Terror",
+  "meaningMnemonic": "I <kanji>fear</kanji> it. It is <kanji>scary</kanji>. It is pure <vocabulary>terror</vocabulary>.",
+  "primaryReading": "きょうふ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Fear"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%81%90%E6%80%96",
+    "graph": "/v/vocabulary/5234"
+  },
+  "related": {
+    "radicals": [
+      241,
+      65,
+      232,
+      26,
+      102
+    ],
+    "kanjis": [
+      1406,
+      1405
+    ]
+  }
+}

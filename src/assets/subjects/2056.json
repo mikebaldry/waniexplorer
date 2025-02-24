@@ -1,0 +1,39 @@
+{
+  "id": 2056,
+  "type": "kanji",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "拘"
+  },
+  "primaryReading": "こう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "こう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "かか",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Arrest",
+  "otherMeanings": [],
+  "meaningMnemonic": "You run your <radical>fingers</radical> along the words of a  <radical>paragraph</radical>. You are learning about the law because you plan to <kanji>arrest</kanji> somebody.",
+  "readingMnemonic": "Who do you want to <kanji>arrest</kanji>? You want to arrest <reading>こう</reading>いち. Even though he's started wars, created a religion, and trapped a child in a cavity, it's going to be tricky to arrest him because he's the emperor now.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%8B%98",
+    "graph": "/v/kanji/2056"
+  },
+  "related": {
+    "radicals": [
+      63,
+      242
+    ],
+    "vocabularies": [
+      7284
+    ]
+  }
+}

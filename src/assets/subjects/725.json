@@ -1,0 +1,68 @@
+{
+  "id": 725,
+  "type": "kanji",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "度"
+  },
+  "primaryReading": "ど",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ど",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "たく",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "たび",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Degree",
+  "otherMeanings": [
+    "Occurrence"
+  ],
+  "meaningMnemonic": "A <radical>yurt</radical>'s <radical>stool</radical> is always placed at certain <kanji>degree</kanji>s. The degrees change depending on specific <kanji>occurrence</kanji>s.",
+  "readingMnemonic": "Also angled at exact <kanji>degree</kanji>s is the <reading>do</reading>g (ど).",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%BA%A6",
+    "graph": "/v/kanji/725"
+  },
+  "related": {
+    "radicals": [
+      8787,
+      30
+    ],
+    "vocabularies": [
+      3123,
+      3124,
+      3125,
+      3126,
+      3127,
+      3161,
+      3387,
+      4342,
+      4414,
+      4573,
+      4746,
+      4893,
+      5052,
+      5183,
+      5188,
+      6429,
+      7222,
+      7493,
+      7578,
+      7605,
+      7682,
+      8012,
+      9022
+    ]
+  }
+}

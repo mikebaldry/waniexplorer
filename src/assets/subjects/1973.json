@@ -1,0 +1,43 @@
+{
+  "id": 1973,
+  "type": "kanji",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "黙"
+  },
+  "primaryReading": "もく",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "もく",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "だま",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Shut Up",
+  "otherMeanings": [],
+  "meaningMnemonic": "Your village wants to take the <radical>village</radical> <radical>dog</radical> and <radical>boil</radical> it, and you can think of no other response than <kanji>SHUT UP</kanji>! ",
+  "readingMnemonic": "The villagers are mad that you told them to <kanji>shut up</kanji>, and they start to <reading>mock</reading> (もく) you. They put their hands on their hips, lean forward, cross their eyes, and yell \"SHUT UP!\" back.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%BB%99",
+    "graph": "/v/kanji/1973"
+  },
+  "related": {
+    "radicals": [
+      125,
+      47,
+      131
+    ],
+    "vocabularies": [
+      7044,
+      7045,
+      7046,
+      8612
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 2151,
+  "type": "kanji",
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "亮"
+  },
+  "primaryReading": "りょう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "りょう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "あきらか",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Clear",
+  "otherMeanings": [],
+  "meaningMnemonic": "There is a special type of meditation where you put a <radical>lid</radical> on your <radical>mouth</radical> and touch your <radical>forehead</radical> down to your <radical>legs</radical>. If you can do this pose, everything in life will become completely <kanji>clear</kanji>. Everything will clear out of your head too. You should try it.",
+  "readingMnemonic": "Your mind is as <kanji>clear</kanji> as a sparkling clear pond. On this pond you see yourself in a <reading>row</reading> (りょう) boat. A single row boat on the clear pond that is now your mind.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E4%BA%AE",
+    "graph": "/v/kanji/2151"
+  },
+  "related": {
+    "radicals": [
+      8,
+      16,
+      76,
+      28
+    ],
+    "vocabularies": [
+      9100
+    ]
+  }
+}

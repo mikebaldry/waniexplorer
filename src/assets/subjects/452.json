@@ -1,0 +1,62 @@
+{
+  "id": 452,
+  "type": "kanji",
+  "level": 1,
+  "characters": {
+    "type": "text",
+    "value": "口"
+  },
+  "primaryReading": "こう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "こう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "く",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "くち",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Mouth",
+  "otherMeanings": [],
+  "meaningMnemonic": "The <radical>mouth</radical> radical and the <kanji>mouth</kanji> kanji are exactly the same!",
+  "readingMnemonic": "Do you remember seeing the construction worker こういち earlier in the 工 mnemonic? If you haven't yet, not to worry! \n\nFor kanji with こう readings (there are a lot of them!) we will use the character こういち every time. He's one of the people who started this website, so we'll do our best in the mnemonics to embarrass him as much as possible. Anyways, remember that whenever you see こう, think こういち.\n\nEveryone agrees, (<reading>こう</reading>いち)'s <kanji>mouth</kanji> is his best feature. You stare at it lovingly as he whispers sweet kanji readings to you.\n\n",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%8F%A3",
+    "graph": "/v/kanji/452"
+  },
+  "related": {
+    "radicals": [
+      16
+    ],
+    "vocabularies": [
+      2497,
+      2498,
+      2558,
+      2611,
+      3402,
+      3432,
+      3439,
+      3458,
+      3891,
+      4246,
+      4360,
+      5622,
+      5690,
+      5942,
+      6938,
+      7021,
+      7685,
+      8812,
+      8961,
+      9299
+    ]
+  }
+}

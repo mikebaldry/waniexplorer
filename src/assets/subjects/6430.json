@@ -1,0 +1,33 @@
+{
+  "id": 6430,
+  "type": "vocabulary",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "頻発"
+  },
+  "primaryMeaning": "Frequent Occurrence",
+  "meaningMnemonic": "Something that <kanji>frequent</kanji>ly <kanji>departure</kanji>s has much frequency and is a <vocabulary>frequent occurrence</vocabulary>. Oh, that? Yeah, it departures with much frequency.",
+  "primaryReading": "ひんぱつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Occur Frequently"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%A0%BB%E7%99%BA",
+    "graph": "/v/vocabulary/6430"
+  },
+  "related": {
+    "radicals": [
+      245,
+      184,
+      168,
+      171
+    ],
+    "kanjis": [
+      1765,
+      729
+    ]
+  }
+}

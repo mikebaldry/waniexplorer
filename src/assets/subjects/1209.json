@@ -1,0 +1,41 @@
+{
+  "id": 1209,
+  "type": "kanji",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "贅"
+  },
+  "primaryReading": "ぜい",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ぜい",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "いぼ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Extravagant",
+  "otherMeanings": [],
+  "meaningMnemonic": "In <radical>winter</radical>, <radical>shellfish</radical> head in the <radical>direction</radical> of <radical>dirt</radical>, which is what makes them so <kanji>extravagant</kanji>. ",
+  "readingMnemonic": "One of the shellfish stands out to you as being extra <kanji>extravagant</kanji> because… it’s holding onto a German saber, a <reading>zei</reading>ber (ぜい)?! ",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%B4%85",
+    "graph": "/v/kanji/1209"
+  },
+  "related": {
+    "radicals": [
+      17,
+      66,
+      60,
+      94
+    ],
+    "vocabularies": [
+      4640
+    ]
+  }
+}

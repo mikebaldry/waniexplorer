@@ -1,0 +1,42 @@
+{
+  "id": 931,
+  "type": "kanji",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "春"
+  },
+  "primaryReading": "はる",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "はる",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "しゅん",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Spring",
+  "otherMeanings": [],
+  "meaningMnemonic": "When you see the <radical>spring</radical> <radical>sun</radical> you know it's finally the  <kanji>spring</kanji> season.",
+  "readingMnemonic": "When the <kanji>spring</kanji> season comes around, it makes you want to laugh: \"<reading>HAR</reading> (はる) HAR HAR!\" you yell.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%98%A5",
+    "graph": "/v/kanji/931"
+  },
+  "related": {
+    "radicals": [
+      8779,
+      22
+    ],
+    "vocabularies": [
+      3759,
+      3760,
+      5016,
+      9087
+    ]
+  }
+}

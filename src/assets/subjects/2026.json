@@ -1,0 +1,42 @@
+{
+  "id": 2026,
+  "type": "kanji",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "蓄"
+  },
+  "primaryReading": "ちく",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ちく",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "たくわ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Amass",
+  "otherMeanings": [],
+  "meaningMnemonic": "<radical>Flowers</radical> are <radical>mysterious</radical>ly appearing in the <radical>rice paddy</radical>. No matter what you do to them, they continue to <kanji>amass</kanji>.",
+  "readingMnemonic": "As the flowers <kanji>amass</kanji> it starts attracting wildlife. Soon thousands of baby <reading>chick</reading>s (ちく) are amassing in the rice paddy as well. ",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%93%84",
+    "graph": "/v/kanji/2026"
+  },
+  "related": {
+    "radicals": [
+      90,
+      403,
+      51
+    ],
+    "vocabularies": [
+      7161,
+      7162,
+      7163
+    ]
+  }
+}

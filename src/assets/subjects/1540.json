@@ -1,0 +1,40 @@
+{
+  "id": 1540,
+  "type": "kanji",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "蔵"
+  },
+  "primaryReading": "ぞう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ぞう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "くら",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Storehouse",
+  "otherMeanings": [],
+  "meaningMnemonic": "The <radical>storehouse</radical> radical and the <kanji>storehouse</kanji> kanji meanings are the same. If you know the radical, you know the kanji!",
+  "readingMnemonic": "You have a <kanji>storehouse</kanji>. Inside is where you keep all your <reading>zo</reading>mbies (ぞう).",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%94%B5",
+    "graph": "/v/kanji/1540"
+  },
+  "related": {
+    "radicals": [
+      347
+    ],
+    "vocabularies": [
+      5683,
+      5684,
+      5685
+    ]
+  }
+}

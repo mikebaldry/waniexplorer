@@ -1,0 +1,33 @@
+{
+  "id": 7099,
+  "type": "vocabulary",
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "雑巾"
+  },
+  "primaryMeaning": "Dust Cloth",
+  "meaningMnemonic": "A <kanji>miscellaneous</kanji> <kanji>cloth</kanji> is a <vocabulary>dust cloth</vocabulary> or <vocabulary>house cloth</vocabulary>. It's just a cloth that you use on random things.",
+  "primaryReading": "ぞうきん",
+  "readingMnemonic": "The reading of 雑 is different from what you've learned. Instead of ざつ it's ぞう. Just imagine using this <vocabulary>dust cloth</vocabulary> to wipe down a <reading>象</reading> (ぞう). Its trunk is particularly dusty.",
+  "otherMeanings": [
+    "House Cloth"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%9B%91%E5%B7%BE",
+    "graph": "/v/vocabulary/7099"
+  },
+  "related": {
+    "radicals": [
+      11,
+      23,
+      240,
+      102
+    ],
+    "kanjis": [
+      1494,
+      2049
+    ]
+  }
+}

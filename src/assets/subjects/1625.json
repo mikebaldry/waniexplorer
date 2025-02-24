@@ -1,0 +1,42 @@
+{
+  "id": 1625,
+  "type": "kanji",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "摘"
+  },
+  "primaryReading": "てき",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "てき",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "つ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Pluck",
+  "otherMeanings": [],
+  "meaningMnemonic": "Stick your <radical>fingers</radical> in your <radical>mohawk</radical> and <kanji>pluck</kanji> each hair out, one by one.",
+  "readingMnemonic": "You want to <kanji>pluck</kanji> all your mohawk hair out because you're a <reading>techie</reading> (てき), and everyone at your techie job keeps making fun of you for your hair choices. \"Techies should be bald!\" your boss screamed. So here you are, plucking your hair out to fit in.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%91%98",
+    "graph": "/v/kanji/1625"
+  },
+  "related": {
+    "radicals": [
+      63,
+      276
+    ],
+    "vocabularies": [
+      5986,
+      5987,
+      5988,
+      6144
+    ]
+  }
+}

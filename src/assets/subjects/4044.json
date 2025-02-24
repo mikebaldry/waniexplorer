@@ -1,0 +1,32 @@
+{
+  "id": 4044,
+  "type": "vocabulary",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "警察"
+  },
+  "primaryMeaning": "Police",
+  "meaningMnemonic": "They <kanji>warn</kanji> you and they <kanji>guess</kanji> when you've done something wrong (with evidence, of course!). They are the <vocabulary>police</vocabulary>.",
+  "primaryReading": "けいさつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%AD%A6%E5%AF%9F",
+    "graph": "/v/vocabulary/4044"
+  },
+  "related": {
+    "radicals": [
+      255,
+      60,
+      117,
+      78,
+      8825
+    ],
+    "kanjis": [
+      1023,
+      1019
+    ]
+  }
+}

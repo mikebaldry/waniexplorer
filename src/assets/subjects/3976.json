@@ -1,0 +1,32 @@
+{
+  "id": 3976,
+  "type": "vocabulary",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "察する"
+  },
+  "primaryMeaning": "To Guess",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>guess</kanji> so the verb vocab version is <vocabulary>to guess</vocabulary>. Alternatively, you can learn this as <vocabulary>to sense</vocabulary> or <vocabulary>to presume</vocabulary>.",
+  "primaryReading": "さっする",
+  "readingMnemonic": "The reading for this is actually the same as what you learned with the kanji, but the さつ is shortened to さっ. If you had <vocabulary>to guess</vocabulary> be sure to guess with the shorter つ.",
+  "otherMeanings": [
+    "To Sense",
+    "To Presume",
+    "To Infer"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%AF%9F%E3%81%99%E3%82%8B",
+    "graph": "/v/vocabulary/3976"
+  },
+  "related": {
+    "radicals": [
+      78,
+      8825
+    ],
+    "kanjis": [
+      1019
+    ]
+  }
+}

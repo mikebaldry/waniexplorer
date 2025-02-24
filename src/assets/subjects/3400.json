@@ -1,0 +1,33 @@
+{
+  "id": 3400,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "短期"
+  },
+  "primaryMeaning": "Short Period",
+  "meaningMnemonic": "The <kanji>short</kanji> <kanji>period of time</kanji> is the <vocabulary>short term</vocabulary>. You know not to think short term anyways, right? You're learning kanji, after all.",
+  "primaryReading": "たんき",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Short-Term"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%9F%AD%E6%9C%9F",
+    "graph": "/v/vocabulary/3400"
+  },
+  "related": {
+    "radicals": [
+      72,
+      181,
+      205,
+      43
+    ],
+    "kanjis": [
+      847,
+      839
+    ]
+  }
+}

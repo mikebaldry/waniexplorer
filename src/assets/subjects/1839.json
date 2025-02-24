@@ -1,0 +1,47 @@
+{
+  "id": 1839,
+  "type": "kanji",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "裂"
+  },
+  "primaryReading": "れつ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "れつ",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "さ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Split",
+  "otherMeanings": [
+    "Tear"
+  ],
+  "meaningMnemonic": "When a <radical>yakuza</radical> takes a <radical>knife</radical> to <radical>clothes</radical>, it will of course cause a <kanji>split</kanji> or <kanji>tear</kanji>.",
+  "readingMnemonic": "\"I want to <kanji>split</kanji> and <kanji>tear</kanji> that.\" You agree, so you say <reading>Let's</reading> (れつ) do it.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%A3%82",
+    "graph": "/v/kanji/1839"
+  },
+  "related": {
+    "radicals": [
+      132,
+      128,
+      320
+    ],
+    "vocabularies": [
+      6658,
+      6659,
+      6660,
+      6844,
+      6845,
+      8926
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 1685,
+  "type": "kanji",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "伴"
+  },
+  "primaryReading": "はん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "はん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ともな",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Accompany",
+  "otherMeanings": [],
+  "meaningMnemonic": "A <radical>leader</radical> asks <radical>half</radical> of his men to <kanji>accompany</kanji> him on a secret mission. The leader’s mission is volunteer only, so it’s impressive that he got half of his men to accompany him.",
+  "readingMnemonic": "The leader you decided to <kanji>accompany</kanji> is none other than <reading>Han</reading> (はん) Solo. Who could be more inspiring? I’m surprised not more than half decided to accompany him. Han Solo is awesome.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E4%BC%B4",
+    "graph": "/v/kanji/1685"
+  },
+  "related": {
+    "radicals": [
+      75,
+      305
+    ],
+    "vocabularies": [
+      6178,
+      6179
+    ]
+  }
+}

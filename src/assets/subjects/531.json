@@ -1,0 +1,44 @@
+{
+  "id": 531,
+  "type": "kanji",
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "写"
+  },
+  "primaryReading": "しゃ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "しゃ",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "うつ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Copy",
+  "otherMeanings": [],
+  "meaningMnemonic": "The <radical>forehead</radical> of this <radical>beggar</radical> is on the <radical>ground</radical>. Except it’s not exactly the ground, it’s a giant <kanji>copy</kanji> machine, and he’s making copies of his forehead!",
+  "readingMnemonic": "This ground <kanji>copy</kanji> machine can only be the work of one person: a <reading>sha</reading>man (しゃ)!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%86%99",
+    "graph": "/v/kanji/531"
+  },
+  "related": {
+    "radicals": [
+      76,
+      1,
+      8766
+    ],
+    "vocabularies": [
+      2723,
+      2724,
+      3853,
+      5552,
+      6201
+    ]
+  }
+}

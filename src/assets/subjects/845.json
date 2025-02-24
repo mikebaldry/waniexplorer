@@ -1,0 +1,48 @@
+{
+  "id": 845,
+  "type": "kanji",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "登"
+  },
+  "primaryReading": "とう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "とう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "と",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "のぼ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Climb",
+  "otherMeanings": [],
+  "meaningMnemonic": "There's a <radical>tent</radical> of <radical>beans</radical>. You try to <kanji>climb</kanji> it.",
+  "readingMnemonic": "You <kanji>climb</kanji> the bean tent, and from this vantage point you can see <reading>とう</reading>きょう in the distance. ",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%99%BB",
+    "graph": "/v/kanji/845"
+  },
+  "related": {
+    "radicals": [
+      168,
+      181
+    ],
+    "vocabularies": [
+      3391,
+      3392,
+      3652,
+      5207,
+      5380
+    ]
+  }
+}

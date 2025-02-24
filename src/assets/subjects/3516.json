@@ -1,0 +1,33 @@
+{
+  "id": 3516,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "酒飲み"
+  },
+  "primaryMeaning": "Boozer",
+  "meaningMnemonic": "We have alcohol and a variant form of 飲む (to drink). So you know this has to do with drinking alcohol. It means a <vocabulary>boozer</vocabulary> or a <vocabulary>drunkard</vocabulary>, someone who drinks a lot of alcohol!",
+  "primaryReading": "さけのみ",
+  "readingMnemonic": "The readings are the vocab words お酒 and 飲む combined together into one. You can guess it's a kun'yomi reading because of the み on the end of 飲, which should make you think back to vocab words that use these kanji and the kun'yomi readings. If you can do that, you can read this word (and many others, probably!).",
+  "otherMeanings": [
+    "Drunkard"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%85%92%E9%A3%B2%E3%81%BF",
+    "graph": "/v/vocabulary/3516"
+  },
+  "related": {
+    "radicals": [
+      103,
+      182,
+      139,
+      142
+    ],
+    "kanjis": [
+      743,
+      755
+    ]
+  }
+}

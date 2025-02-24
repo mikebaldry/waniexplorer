@@ -1,0 +1,39 @@
+{
+  "id": 2081,
+  "type": "kanji",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "勘"
+  },
+  "primaryReading": "かん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "かん",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Intuition",
+  "otherMeanings": [],
+  "meaningMnemonic": "This <radical>crab trap</radical> has the <radical>power</radical> of <kanji>intuition</kanji>. By the power of intuition, this crab trap can trap like, every crab. Through intuition, it knows where the crabs will go and how they will react, so it is much easier to trap them.",
+  "readingMnemonic": "This crab trap's <kanji>intuition</kanji> powers were extracted from Genghis <reading>Khan</reading> (かん) himself. And as we all know by now, Genghis Khan was the absolute master of intuition, he always knew what his enemies and his allies were about to do.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%8B%98",
+    "graph": "/v/kanji/2081"
+  },
+  "related": {
+    "radicals": [
+      407,
+      13
+    ],
+    "vocabularies": [
+      7350,
+      7351,
+      7352,
+      7353,
+      7354,
+      7786
+    ]
+  }
+}

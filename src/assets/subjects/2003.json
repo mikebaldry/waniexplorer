@@ -1,0 +1,46 @@
+{
+  "id": 2003,
+  "type": "kanji",
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "滴"
+  },
+  "primaryReading": "てき",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "てき",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "したた",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "しずく",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Drip",
+  "otherMeanings": [],
+  "meaningMnemonic": "A <radical>tsunami</radical> hits your <radical>mohawk</radical> and it begins to <kanji>drip</kanji>. The water from the tsunami continues to drip from your mohawk long after the tsunami has passed. There’s a lot of water in your hair now, so it’s probably going to drip for a while.",
+  "readingMnemonic": "Luckily, you’re a self-proclaimed <reading>techie</reading> (てき), so you develop a device to stop the <kanji>drip</kanji> drip dripping. This techie device of yours is like a hair dryer helmet. You put it over your mohawk, it does its thing, and your hair is dry! Being a techie sure does have its benefits.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%BB%B4",
+    "graph": "/v/kanji/2003"
+  },
+  "related": {
+    "radicals": [
+      103,
+      276
+    ],
+    "vocabularies": [
+      7120,
+      7121,
+      7122
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 1993,
+  "type": "kanji",
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "崖"
+  },
+  "primaryReading": "がけ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "がけ",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "がい",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Cliff",
+  "otherMeanings": [],
+  "meaningMnemonic": "There is a <radical>mountain</radical> on top of a bunch of <radical>dirt</radical> with a steep <radical>cliff</radical>. This is a bit redundant, but the mountain and the dirt just make the <kanji>cliff</kanji> even bigger and steeper and scarier.",
+  "readingMnemonic": "You can't believe how big the <kanji>cliff</kanji> is now with the mountain and the dirt. You look at it for so long, you just become another <reading>gawker</reading> (がけ) who can't stop staring at the huge cliff. It really is huge.\n",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%B4%96",
+    "graph": "/v/kanji/1993"
+  },
+  "related": {
+    "radicals": [
+      20,
+      116,
+      17
+    ],
+    "vocabularies": [
+      7097
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": 7276,
+  "type": "vocabulary",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "誓約"
+  },
+  "primaryMeaning": "Vow",
+  "meaningMnemonic": "A <kanji>vow</kanji> <kanji>promise</kanji> is the promise that you made with your <vocabulary>vow</vocabulary>. It's the <vocabulary>oath</vocabulary> you swear to keep!",
+  "primaryReading": "せいやく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Pledge",
+    "Oath",
+    "Covenant"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%AA%93%E7%B4%84",
+    "graph": "/v/vocabulary/7276"
+  },
+  "related": {
+    "radicals": [
+      63,
+      115,
+      117,
+      86,
+      236
+    ],
+    "kanjis": [
+      2053,
+      915
+    ]
+  }
+}

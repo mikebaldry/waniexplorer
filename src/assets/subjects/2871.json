@@ -1,0 +1,30 @@
+{
+  "id": 2871,
+  "type": "vocabulary",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "次回"
+  },
+  "primaryMeaning": "Next Time",
+  "meaningMnemonic": "The <kanji>next</kanji> <kanji>time</kanji> you look at this kanji, you should know that it means <vocabulary>next time</vocabulary>.",
+  "primaryReading": "じかい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%AC%A1%E5%9B%9E",
+    "graph": "/v/vocabulary/2871"
+  },
+  "related": {
+    "radicals": [
+      123,
+      142,
+      16
+    ],
+    "kanjis": [
+      616,
+      569
+    ]
+  }
+}

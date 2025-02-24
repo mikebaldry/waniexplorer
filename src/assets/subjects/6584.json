@@ -1,0 +1,33 @@
+{
+  "id": 6584,
+  "type": "vocabulary",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "一括"
+  },
+  "primaryMeaning": "All Together",
+  "meaningMnemonic": "<kanji>Fasten</kanji> everything into <kanji>one</kanji>. <vocabulary>All together</vocabulary> in one <vocabulary>batch</vocabulary> or <vocabulary>lump</vocabulary>.",
+  "primaryReading": "いっかつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Watch out for the shortened いち.",
+  "otherMeanings": [
+    "Batch",
+    "One Lump"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B8%80%E6%8B%AC",
+    "graph": "/v/vocabulary/6584"
+  },
+  "related": {
+    "radicals": [
+      1,
+      63,
+      174
+    ],
+    "kanjis": [
+      440,
+      1811
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 1934,
+  "type": "kanji",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "硬"
+  },
+  "primaryReading": "こう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "こう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "かた",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Stiff",
+  "otherMeanings": [],
+  "meaningMnemonic": "You feel like a <radical>stone</radical> that’s been <radical>renew</radical>ed. How do renewed stones feel? <kanji>Stiff</kanji>. Very stiff.",
+  "readingMnemonic": "You remember how you used to cure these <kanji>stiff</kanji> body times: your old friend <reading>こう</reading>いち would just massage them out for you.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%A1%AC",
+    "graph": "/v/kanji/1934"
+  },
+  "related": {
+    "radicals": [
+      54,
+      397
+    ],
+    "vocabularies": [
+      6853,
+      6854,
+      9058
+    ]
+  }
+}

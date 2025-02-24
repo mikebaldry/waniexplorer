@@ -1,0 +1,51 @@
+{
+  "id": 553,
+  "type": "kanji",
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "虫"
+  },
+  "primaryReading": "むし",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "むし",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ちゅう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "き",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Insect",
+  "otherMeanings": [
+    "Bug"
+  ],
+  "meaningMnemonic": "The <radical>insect</radical> radical and <kanji>insect</kanji> are the same in looks as well as and meaning.",
+  "readingMnemonic": "It's an <kanji>insect</kanji>! Get it! You squish it with your foot - what sound does it make? A <reading>mush</reading> (むし) sound.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%99%AB",
+    "graph": "/v/kanji/553"
+  },
+  "related": {
+    "radicals": [
+      89
+    ],
+    "vocabularies": [
+      2689,
+      3383,
+      3409,
+      3477,
+      3937,
+      9039,
+      9040
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": 1440,
+  "type": "kanji",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "背"
+  },
+  "primaryReading": "はい",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "はい",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "せ",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "そむ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Back",
+  "otherMeanings": [
+    "Height"
+  ],
+  "meaningMnemonic": "You fly <radical>north</radical> to the <radical>moon</radical> and break your <kanji>back</kanji> when you finally land on it. You weren’t braced for impact so when you hit the moon, your back took all of the impact.",
+  "readingMnemonic": "Your <kanji>back</kanji> hurts so much that the only way to properly explain the pain is in <reading>hai</reading>ku (はい) form. \n\nI flew to the moon.\nIt is there I broke my back.\nMy back hurts real bad.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%83%8C",
+    "graph": "/v/kanji/1440"
+  },
+  "related": {
+    "radicals": [
+      327,
+      43
+    ],
+    "vocabularies": [
+      5324,
+      5361,
+      5515,
+      7279,
+      7554,
+      7607,
+      8760
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": 4181,
+  "type": "vocabulary",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "困る"
+  },
+  "primaryMeaning": "To Be Distressed",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>distressed</kanji> and <kanji>troubled</kanji>. The verb versions of those are <vocabulary>to be distressed</vocabulary> and <vocabulary>to be troubled</vocabulary>. ",
+  "primaryReading": "こまる",
+  "readingMnemonic": "If someone seems <vocabulary>to be distressed</vocabulary> maybe someone they know is in a <reading>coma</reading> (こま). Not too many things are more distressing and troubling than that.",
+  "otherMeanings": [
+    "To Be Troubled",
+    "To Be Perplexed",
+    "To Be Annoyed"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%9B%B0%E3%82%8B",
+    "graph": "/v/vocabulary/4181"
+  },
+  "related": {
+    "radicals": [
+      16,
+      23
+    ],
+    "kanjis": [
+      1086
+    ]
+  }
+}

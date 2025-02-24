@@ -1,0 +1,36 @@
+{
+  "id": 2141,
+  "type": "kanji",
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "肪"
+  },
+  "primaryReading": "ぼう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ぼう",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Obese",
+  "otherMeanings": [
+    "Fat"
+  ],
+  "meaningMnemonic": "When the <radical>moon</radical> faces the right <radical>direction</radical>, everyone on earth becomes <kanji>obese</kanji>. The pull of the moon moves all the water on earth as well as inside us, so when it faces the right way, we all get super <kanji>fat</kanji>.",
+  "readingMnemonic": "You look around and everyone is <kanji>obese</kanji> like you. You try to reach out to them, but you roll over like a big <reading>bow</reading>ling (ぼう) ball. The person next to you does too. Soon you're all rolling around like helpless, obese bowling balls.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%82%AA",
+    "graph": "/v/kanji/2141"
+  },
+  "related": {
+    "radicals": [
+      43,
+      66
+    ],
+    "vocabularies": [
+      7825
+    ]
+  }
+}

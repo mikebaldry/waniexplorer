@@ -1,0 +1,29 @@
+{
+  "id": 2541,
+  "type": "vocabulary",
+  "level": 2,
+  "characters": {
+    "type": "text",
+    "value": "日"
+  },
+  "primaryMeaning": "Sun",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well. Take note that this word means both \"sun\" and \"day,\" though. Why? because the sun takes a day to go around and come back!",
+  "primaryReading": "ひ",
+  "readingMnemonic": "Since this word is made up of a single kanji, it uses the kun'yomi reading. Here's a mnemonic to help you to remember it: \n\nWhat do you feel from the sun? You feel the <reading>hea</reading>t (ひ).",
+  "otherMeanings": [
+    "Day"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%97%A5",
+    "graph": "/v/vocabulary/2541"
+  },
+  "related": {
+    "radicals": [
+      22
+    ],
+    "kanjis": [
+      476
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": 3878,
+  "type": "vocabulary",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "面白い"
+  },
+  "primaryMeaning": "Interesting",
+  "meaningMnemonic": "The <kanji>face</kanji> of this object is so <kanji>white</kanji>! Why is it so white compared to everything else? This is so <vocabulary>interesting</vocabulary>...",
+  "primaryReading": "おもしろい",
+  "readingMnemonic": "The reading is unlike what you've learned before, at least with the 面 part (白い is just like the vocab word 白い). When you look at the white face of the object you say to your friend Moe: \"<reading>Oh mo</reading>!\" (おも) because you want him to come over and look at this. Try to imagine someone you know named Moe, or at least a celebrity or something named Moe.",
+  "otherMeanings": [
+    "Amusing",
+    "Funny"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%9D%A2%E7%99%BD%E3%81%84",
+    "graph": "/v/vocabulary/3878"
+  },
+  "related": {
+    "radicals": [
+      250,
+      52
+    ],
+    "kanjis": [
+      974,
+      491
+    ]
+  }
+}

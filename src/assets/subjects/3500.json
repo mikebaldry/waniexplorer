@@ -1,0 +1,35 @@
+{
+  "id": 3500,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "仕事"
+  },
+  "primaryMeaning": "Job",
+  "meaningMnemonic": "You know 事 means \"occurrence,\" but it can also mean \"thing.\" So when you're <kanji>doing</kanji> <kanji>thing</kanji>s all day, what are you probably doing? A <vocabulary>job</vocabulary>! All jobs really just amount to doing things.",
+  "primaryReading": "しごと",
+  "readingMnemonic": "This word uses the on'yomi reading for 仕 and the kun'yomi reading for 事. Please note that 事 uses the reading こと, which you didn't learn with the kanji, but you have come across it once or twice by now, and because of the way rendaku works, it's changed to the voiced ごと.",
+  "otherMeanings": [
+    "Work",
+    "Occupation"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BB%95%E4%BA%8B",
+    "graph": "/v/vocabulary/3500"
+  },
+  "related": {
+    "radicals": [
+      75,
+      97,
+      15,
+      16,
+      105
+    ],
+    "kanjis": [
+      564,
+      708
+    ]
+  }
+}

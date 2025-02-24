@@ -1,0 +1,35 @@
+{
+  "id": 8224,
+  "type": "vocabulary",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "治癒"
+  },
+  "primaryMeaning": "Healing",
+  "meaningMnemonic": "A <kanji>healing</kanji> <kanji>cure</kanji> will be great for <vocabulary>healing</vocabulary> sick people. ",
+  "primaryReading": "ちゆ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Cure",
+    "Recovery"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B2%BB%E7%99%92",
+    "graph": "/v/vocabulary/8224"
+  },
+  "related": {
+    "radicals": [
+      103,
+      417,
+      187,
+      8790,
+      65
+    ],
+    "kanjis": [
+      978,
+      2274
+    ]
+  }
+}

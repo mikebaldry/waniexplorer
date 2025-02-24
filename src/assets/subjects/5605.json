@@ -1,0 +1,31 @@
+{
+  "id": 5605,
+  "type": "vocabulary",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "和訳"
+  },
+  "primaryMeaning": "Japanese Translation",
+  "meaningMnemonic": "Remember how 和 represents Japan? Now, take that and add <kanji>translate</kanji> to it. With that, you have <vocabulary>Japanese translation</vocabulary>.",
+  "primaryReading": "わやく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%92%8C%E8%A8%B3",
+    "graph": "/v/vocabulary/5605"
+  },
+  "related": {
+    "radicals": [
+      135,
+      16,
+      117,
+      215
+    ],
+    "kanjis": [
+      712,
+      1511
+    ]
+  }
+}

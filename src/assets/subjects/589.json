@@ -1,0 +1,63 @@
+{
+  "id": 589,
+  "type": "kanji",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "形"
+  },
+  "primaryReading": "けい",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "けい",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ぎょう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "かた",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "かたち",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Shape",
+  "otherMeanings": [
+    "Form",
+    "Appearance"
+  ],
+  "meaningMnemonic": "You're walking at night when you discover a <radical>lantern</radical> covered entirely in <radical>hair</radical>, making it a very strange <kanji>shape</kanji>. In fact, this is a <kanji>form</kanji> you'd never expect a lantern to take.",
+  "readingMnemonic": "You stare at the <kanji>shape</kanji> until you finally recognize it: <reading>ca</reading>ke (けい)! Well, it's hairy, glowing cake, but it's still shaped like a big slice of cake.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%BD%A2",
+    "graph": "/v/kanji/589"
+  },
+  "related": {
+    "radicals": [
+      171,
+      38
+    ],
+    "vocabularies": [
+      2822,
+      2823,
+      3420,
+      4187,
+      4661,
+      5714,
+      5849,
+      7481,
+      7672,
+      7678,
+      7679,
+      7704
+    ]
+  }
+}

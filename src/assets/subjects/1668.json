@@ -1,0 +1,43 @@
+{
+  "id": 1668,
+  "type": "kanji",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "削"
+  },
+  "primaryReading": "さく",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "さく",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "けず",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Whittle Down",
+  "otherMeanings": [],
+  "meaningMnemonic": "A <radical>triceratops</radical> with a <radical>moon</radical> <radical>knife</radical> can <kanji>whittle down</kanji> anything.",
+  "readingMnemonic": "Everything it will <kanji>whittle down</kanji> shall be put in a <reading>sack</reading> (さく).",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%89%8A",
+    "graph": "/v/kanji/1668"
+  },
+  "related": {
+    "radicals": [
+      8765,
+      43,
+      128
+    ],
+    "vocabularies": [
+      6123,
+      6124,
+      6125,
+      6250
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": 757,
+  "type": "kanji",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "漢"
+  },
+  "primaryReading": "かん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "かん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "おとこ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Chinese",
+  "otherMeanings": [
+    "Man",
+    "China"
+  ],
+  "meaningMnemonic": "A <radical>tsunami</radical> hit ancient <radical>China</radical> and formed the <kanji>Chinese</kanji> country we know now as... <kanji>China</kanji>!\n\nSometimes this kanji also means <kanji>man</kanji>. In fact, it used to refer specifically to people of the Han dynasty, but over time evolved into a term for men in specific contexts.",
+  "readingMnemonic": "You peer closer at <kanji>China</kanji> and see one man, Genghis <reading>Khan</reading> (かん), leading his troops into the vast country, ready to conquer all the Chinese people living in China!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%BC%A2",
+    "graph": "/v/kanji/757"
+  },
+  "related": {
+    "radicals": [
+      103,
+      8774
+    ],
+    "vocabularies": [
+      3194,
+      8127
+    ]
+  }
+}

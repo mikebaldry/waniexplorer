@@ -1,0 +1,33 @@
+{
+  "id": 8308,
+  "type": "vocabulary",
+  "level": 56,
+  "characters": {
+    "type": "text",
+    "value": "窒息"
+  },
+  "primaryMeaning": "Suffocation",
+  "meaningMnemonic": "<kanji>Suffocate</kanji> to the point that you have no <kanji>breath</kanji> left and you'll die of <vocabulary>suffocation</vocabulary>. Chew your food and this shouldn't happen!",
+  "primaryReading": "ちっそく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Choking"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%AA%92%E6%81%AF",
+    "graph": "/v/vocabulary/8308"
+  },
+  "related": {
+    "radicals": [
+      170,
+      274,
+      109,
+      65
+    ],
+    "kanjis": [
+      2313,
+      815
+    ]
+  }
+}

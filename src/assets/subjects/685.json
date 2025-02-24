@@ -1,0 +1,49 @@
+{
+  "id": 685,
+  "type": "kanji",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "役"
+  },
+  "primaryReading": "やく",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "やく",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "えき",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Service",
+  "otherMeanings": [
+    "Duty"
+  ],
+  "meaningMnemonic": "You <radical>loiter</radical> around with a <radical>weapon</radical> because you're currently doing your <kanji>service</kanji> and <kanji>duty</kanji> to your country. You're standing guard outside, waiting just in case something will happen.",
+  "readingMnemonic": "You're about halfway through your <kanji>service</kanji>, when a <reading>yak</reading> (やく) walks by. It stops directly in front of you and grunts. \"Excuse me, Mr. Yak, but it's my <kanji>duty</kanji> to escort you away from my country.\"",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%BD%B9",
+    "graph": "/v/kanji/685"
+  },
+  "related": {
+    "radicals": [
+      99,
+      160
+    ],
+    "vocabularies": [
+      3013,
+      3014,
+      3015,
+      3016,
+      4614,
+      7238,
+      7680,
+      7737,
+      9242
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": 1458,
+  "type": "kanji",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "驚"
+  },
+  "primaryReading": "きょう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "きょう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "おどろ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Surprised",
+  "otherMeanings": [],
+  "meaningMnemonic": "If you can write an interesting <radical>poem</radical> about <radical>winter</radical> while riding on a <radical>horse</radical>, I’ll be pretty <kanji>surprised</kanji>. It’s hard enough to write a poem as it is, let alone an interesting one. And then you’re riding on a horse and the poem has to be about winter? Heck, I’d be surprised if you didn’t fall off the horse and injure yourself.",
+  "readingMnemonic": "You might also be <kanji>surprised</kanji> to learn that you are to ride this horse all across <reading>きょう</reading>と. That gives you a time limit. You have until you traverse きょうと to write this poem about winter.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%A9%9A",
+    "graph": "/v/kanji/1458"
+  },
+  "related": {
+    "radicals": [
+      255,
+      60,
+      165
+    ],
+    "vocabularies": [
+      5447,
+      5448,
+      5709
+    ]
+  }
+}

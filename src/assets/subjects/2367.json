@@ -1,0 +1,45 @@
+{
+  "id": 2367,
+  "type": "kanji",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "窃"
+  },
+  "primaryReading": "せつ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "せつ",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ぬす",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ひそ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Steal",
+  "otherMeanings": [],
+  "meaningMnemonic": "You see <radical>seven</radical> <radical>sword</radical>s just sitting in a <radical>hole</radical> and so you decide to <kanji>steal</kanji> them. They were just left in that hole after all, it's not like anyone was using them. And even if they were, they'll never know you were the one to steal them, right?",
+  "readingMnemonic": "You <kanji>steal</kanji> the swords and realize they aren't just seven random swords, they're from the famous sword <reading>sets</reading> (せつ) they sell online. This particular set is from the Seven Samurai movie. Yes! What a great steal!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%AA%83",
+    "graph": "/v/kanji/2367"
+  },
+  "related": {
+    "radicals": [
+      170,
+      4,
+      24
+    ],
+    "vocabularies": [
+      8483
+    ]
+  }
+}

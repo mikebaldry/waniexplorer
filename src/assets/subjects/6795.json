@@ -1,0 +1,31 @@
+{
+  "id": 6795,
+  "type": "vocabulary",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "謎"
+  },
+  "primaryMeaning": "Mystery",
+  "meaningMnemonic": "A <kanji>riddle</kanji> is a <vocabulary>riddle</vocabulary>, but in this case, more of a <vocabulary>mystery</vocabulary>.",
+  "primaryReading": "なぞ",
+  "readingMnemonic": "The reading is the one you learned with the kanji. No <vocabulary>mystery</vocabulary> there, I suppose.",
+  "otherMeanings": [
+    "Riddle"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%AC%8E",
+    "graph": "/v/vocabulary/6795"
+  },
+  "related": {
+    "radicals": [
+      117,
+      114,
+      98
+    ],
+    "kanjis": [
+      1881
+    ]
+  }
+}

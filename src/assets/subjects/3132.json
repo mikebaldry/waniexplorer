@@ -1,0 +1,31 @@
+{
+  "id": 3132,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "気持ち"
+  },
+  "primaryMeaning": "Feeling",
+  "meaningMnemonic": "The <kanji>energy</kanji> you <kanji>hold</kanji> in your body is your <vocabulary>feeling</vocabulary>s. It can take the form of all kinds of things. Good feelings, bad feelings, that \"strange feeling.\"",
+  "primaryReading": "きもち",
+  "readingMnemonic": "気 is on'yomi and you learned that with the kanji. 持ち, though, is kun'yomi, which you learned with the word 持つ. One of those weird exception readings, but the ち on the end of 持ち is a clue that it uses the kun'yomi.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B0%97%E6%8C%81%E3%81%A1",
+    "graph": "/v/vocabulary/3132"
+  },
+  "related": {
+    "radicals": [
+      82,
+      31,
+      63,
+      192
+    ],
+    "kanjis": [
+      548,
+      727
+    ]
+  }
+}

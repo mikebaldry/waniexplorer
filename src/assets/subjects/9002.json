@@ -1,0 +1,37 @@
+{
+  "id": 9002,
+  "type": "vocabulary",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "親戚"
+  },
+  "primaryMeaning": "Relatives",
+  "meaningMnemonic": "What exactly are your <kanji>parent</kanji> <kanji>relatives</kanji>? Your own <vocabulary>relatives</vocabulary>! You're all <vocabulary>kin</vocabulary>, after all.",
+  "primaryReading": "しんせき",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Family Members",
+    "Kin"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%A6%AA%E6%88%9A",
+    "graph": "/v/vocabulary/9002"
+  },
+  "related": {
+    "radicals": [
+      55,
+      23,
+      91,
+      5,
+      194,
+      325,
+      35
+    ],
+    "kanjis": [
+      770,
+      8992
+    ]
+  }
+}

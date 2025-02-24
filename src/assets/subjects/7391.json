@@ -1,0 +1,35 @@
+{
+  "id": 7391,
+  "type": "vocabulary",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "堤防"
+  },
+  "primaryMeaning": "Embankment",
+  "meaningMnemonic": "The <kanji>embankment</kanji> <kanji>prevent</kanji>s the water from going over the edge. It's an <vocabulary>embankment</vocabulary>.",
+  "primaryReading": "ていぼう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Bank",
+    "Levee"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A0%A4%E9%98%B2",
+    "graph": "/v/vocabulary/7391"
+  },
+  "related": {
+    "radicals": [
+      17,
+      22,
+      229,
+      176,
+      66
+    ],
+    "kanjis": [
+      2100,
+      1117
+    ]
+  }
+}

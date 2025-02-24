@@ -1,0 +1,30 @@
+{
+  "id": 3163,
+  "type": "vocabulary",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "お酒"
+  },
+  "primaryMeaning": "Sake",
+  "meaningMnemonic": "This is just the noun version of the kanji 酒 - it has an お there to be nice. This word can mean both <vocabulary>alcohol</vocabulary> (like the parent kanji) or <vocabulary>sake</vocabulary> (the main kind of Japanese alcohol, at least back in the kanji days).",
+  "primaryReading": "おさけ",
+  "readingMnemonic": "The reading is kun'yomi, which isn't what you learned with the kanji. But, it should be pretty easy. You know what Japanese alcohol is called already, right? It's <reading>さけ</reading>, simple as that. So long as you've heard of sake you should be A-Okay with this reading.",
+  "otherMeanings": [
+    "Alcohol"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E3%81%8A%E9%85%92",
+    "graph": "/v/vocabulary/3163"
+  },
+  "related": {
+    "radicals": [
+      103,
+      182
+    ],
+    "kanjis": [
+      743
+    ]
+  }
+}

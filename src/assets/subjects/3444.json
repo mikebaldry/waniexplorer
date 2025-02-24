@@ -1,0 +1,32 @@
+{
+  "id": 3444,
+  "type": "vocabulary",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "今年"
+  },
+  "primaryMeaning": "This Year",
+  "meaningMnemonic": "The <kanji>now</kanji> <kanji>year</kanji> is which year? It is <vocabulary>this year</vocabulary>.",
+  "primaryReading": "ことし",
+  "readingMnemonic": "With the first reading (the more common one), the こん of 今 is actually just こ. This gets shortened sometimes, so look out for it. Also, the 年 is the kun'yomi reading for some reason. It's a total mystery why this is. Perhaps the ancient aliens know, but I do not. You're going to have to remember this exception with that brain of yours and rely on the SRS to bestow this knowledge upon you.\n\nThe second reading, which is less common but still common enough, makes more sense. It is こんねん and just follows the jukugo patterns.",
+  "otherMeanings": [],
+  "otherReadings": [
+    "こんねん"
+  ],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BB%8A%E5%B9%B4",
+    "graph": "/v/vocabulary/3444"
+  },
+  "related": {
+    "radicals": [
+      238,
+      8762,
+      126
+    ],
+    "kanjis": [
+      497,
+      546
+    ]
+  }
+}

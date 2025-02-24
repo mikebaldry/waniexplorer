@@ -1,0 +1,31 @@
+{
+  "id": 3905,
+  "type": "vocabulary",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "練習する"
+  },
+  "primaryMeaning": "To Practice",
+  "meaningMnemonic": "You've hopefully seen 練習, which means \"practice.\" So, if you make it into a verb, you have <vocabulary>to practice</vocabulary>.",
+  "primaryReading": "れんしゅうする",
+  "readingMnemonic": "The reading comes from the kanji as well as from the vocab word 練習. You should be able to read this!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%B7%B4%E7%BF%92%E3%81%99%E3%82%8B",
+    "graph": "/v/vocabulary/3905"
+  },
+  "related": {
+    "radicals": [
+      86,
+      224,
+      213,
+      52
+    ],
+    "kanjis": [
+      869,
+      746
+    ]
+  }
+}

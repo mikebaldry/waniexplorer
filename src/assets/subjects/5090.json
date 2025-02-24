@@ -1,0 +1,31 @@
+{
+  "id": 5090,
+  "type": "vocabulary",
+  "level": 27,
+  "characters": {
+    "type": "text",
+    "value": "迷路"
+  },
+  "primaryMeaning": "Maze",
+  "meaningMnemonic": "A <kanji>road</kanji> where you're <kanji>astray</kanji> is a road that goes all around in different ways, tricking you and making you lost. This is a <vocabulary>maze</vocabulary>.",
+  "primaryReading": "めいろ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%BF%B7%E8%B7%AF",
+    "graph": "/v/vocabulary/5090"
+  },
+  "related": {
+    "radicals": [
+      114,
+      98,
+      95,
+      180
+    ],
+    "kanjis": [
+      1325,
+      758
+    ]
+  }
+}

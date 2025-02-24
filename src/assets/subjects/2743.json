@@ -1,0 +1,30 @@
+{
+  "id": 2743,
+  "type": "vocabulary",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "光"
+  },
+  "primaryMeaning": "Light",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "ひかり",
+  "readingMnemonic": "Since this word is made up of a single kanji, it should use the kun'yomi reading. When learning the kanji, you didn't learn that reading, so here's a mnemonic to help you with this word: \n\nYou have a ton of <vocabulary>sunlight</vocabulary> where you live. This creates heat. With this sunlight heat you're able to make your favorite food in the world: <reading>hickory</reading> (ひかり) smoked bacon. Mmm, taste that delicious bacon.",
+  "otherMeanings": [
+    "Sunlight"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%85%89",
+    "graph": "/v/vocabulary/2743"
+  },
+  "related": {
+    "radicals": [
+      8765,
+      101
+    ],
+    "kanjis": [
+      567
+    ]
+  }
+}

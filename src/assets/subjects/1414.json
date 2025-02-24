@@ -1,0 +1,44 @@
+{
+  "id": 1414,
+  "type": "kanji",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "渇"
+  },
+  "primaryReading": "かわ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "かわ",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "かつ",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Dry Up",
+  "otherMeanings": [
+    "Thirst"
+  ],
+  "meaningMnemonic": "You're stuck in a <radical>prison</radical> on the scorching hot <radical>sun</radical> with nothing but a <radical>spoon</radical>. Lucky for you, a <radical>tsunami</radical> is coming, right as you can feel yourself completely <kanji>dry up</kanji>. So you take your spoon and use the tsunami to quench your <kanji>thirst</kanji>. ",
+  "readingMnemonic": "This method of quenching your <kanji>thirst</kanji> reminds you of being in a <reading>ca</reading>r <reading>wa</reading>sh (かわ). The water pours over you in waves, and you're stuck inside a metal cage. Totally the same thing as a car wash, right?",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%B8%87",
+    "graph": "/v/kanji/1414"
+  },
+  "related": {
+    "radicals": [
+      103,
+      22,
+      14,
+      57
+    ],
+    "vocabularies": [
+      5333,
+      7797
+    ]
+  }
+}

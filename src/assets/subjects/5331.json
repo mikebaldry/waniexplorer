@@ -1,0 +1,37 @@
+{
+  "id": 5331,
+  "type": "vocabulary",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "浮世絵"
+  },
+  "primaryMeaning": "Ukiyo-e",
+  "meaningMnemonic": "A <kanji>float</kanji>ing <kanji>world</kanji> <kanji>painting</kanji> is what you call an <vocabulary>ukiyo-e woodblock print</vocabulary> in Japan. The \"floating world\" refers to an evanescent world that is impermanent (floating), just as beauty and entertainment are. Back in the day, this type of art was made into woodblock prints and paintings. Unfortunately, we don't have a name for these in English because they're so unique and special, but they come up more than you'd think, so get used to ukiyo-e!",
+  "primaryReading": "うきよえ",
+  "readingMnemonic": "The readings don't really line up perfectly, but they're close (although mixed in terms of what has what reading). Take a look at the word and break everything down. 浮 takes the kun'yomi うき (from 浮く), 世 also takes the kun'yomi よ, and then 絵 takes the on'yomi え. Put that all together and you have うきよえ! Or if you already know the word ukiyo-e, that works too!",
+  "otherMeanings": [
+    "Ukiyo-e Woodblock Print",
+    "Ukiyo-e Painting"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B5%AE%E4%B8%96%E7%B5%B5",
+    "graph": "/v/vocabulary/5331"
+  },
+  "related": {
+    "radicals": [
+      103,
+      8772,
+      34,
+      83,
+      86,
+      155
+    ],
+    "kanjis": [
+      1433,
+      527,
+      698
+    ]
+  }
+}

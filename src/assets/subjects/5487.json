@@ -1,0 +1,35 @@
+{
+  "id": 5487,
+  "type": "vocabulary",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "均整"
+  },
+  "primaryMeaning": "Symmetry",
+  "meaningMnemonic": "Things are <kanji>equal</kanji> in how they're <kanji>arrange</kanji>d. They have perfect <vocabulary>symmetry</vocabulary> and <vocabulary>balance</vocabulary>.",
+  "primaryReading": "きんせい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Balance"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%9D%87%E6%95%B4",
+    "graph": "/v/vocabulary/5487"
+  },
+  "related": {
+    "radicals": [
+      17,
+      236,
+      3,
+      219,
+      60,
+      229
+    ],
+    "kanjis": [
+      1473,
+      863
+    ]
+  }
+}

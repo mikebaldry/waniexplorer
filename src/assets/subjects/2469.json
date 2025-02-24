@@ -1,0 +1,29 @@
+{
+  "id": 2469,
+  "type": "vocabulary",
+  "level": 1,
+  "characters": {
+    "type": "text",
+    "value": "七"
+  },
+  "primaryMeaning": "Seven",
+  "meaningMnemonic": "When a vocab is alone with no okurigana (that's hiragana attached to a kanji) it usually has the same meaning as the kanji too. That goes for this word as well. So, if you know the kanji's meaning (<kanji>seven</kanji>) you'll know the vocab's meaning (<vocabulary>seven</vocabulary>).",
+  "primaryReading": "なな",
+  "readingMnemonic": "Most single-kanji all-alone vocab words like this use the kun'yomi reading. Numbers are an exception to this rule. That being said, four and seven are exceptions to this exception to the rule (because the on'yomi readings sound too much like the word for \"death\"). You should learn both readings for this word, though we're going to go with なな for the main one here. You can remember that because you had seven <reading>nana</reading>s after you.",
+  "otherMeanings": [],
+  "otherReadings": [
+    "しち"
+  ],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B8%83",
+    "graph": "/v/vocabulary/2469"
+  },
+  "related": {
+    "radicals": [
+      4
+    ],
+    "kanjis": [
+      443
+    ]
+  }
+}

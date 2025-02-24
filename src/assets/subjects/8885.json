@@ -1,0 +1,42 @@
+{
+  "id": 8885,
+  "type": "kanji",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "袖"
+  },
+  "primaryReading": "そで",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "そで",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "しゅう",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Sleeve",
+  "otherMeanings": [],
+  "meaningMnemonic": "A mix of <radical>spirit</radical> and <radical>reason</radical> helped you invent the <kanji>sleeve</kanji>. Your spirit told you your arms were uncomfortable, stuck to your sides under that shirt. Reason told you that maybe, just maybe, if you made holes for your arms something good would come out of it. And that's how sleeves were born!",
+  "readingMnemonic": "And without these <kanji>sleeve</kanji>s, your arms would be <reading>so de</reading>ad (そで). They'd be all exposed and defenseless!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%A2%96",
+    "graph": "/v/kanji/8885"
+  },
+  "related": {
+    "radicals": [
+      80,
+      268
+    ],
+    "vocabularies": [
+      8898,
+      8899,
+      8900,
+      8901
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": 3292,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "洋風"
+  },
+  "primaryMeaning": "Western Style",
+  "meaningMnemonic": "Remember how 風 can mean \"style\" as in 和風? Well, this is now <kanji>Western style</kanji> <kanji>style</kanji>, more simply put as <vocabulary>Western style</vocabulary>.",
+  "primaryReading": "ようふう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B4%8B%E9%A2%A8",
+    "graph": "/v/vocabulary/3292"
+  },
+  "related": {
+    "radicals": [
+      103,
+      136,
+      177,
+      5,
+      89
+    ],
+    "kanjis": [
+      798,
+      853
+    ]
+  }
+}

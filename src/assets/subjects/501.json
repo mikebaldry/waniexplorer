@@ -1,0 +1,77 @@
+{
+  "id": 501,
+  "type": "kanji",
+  "level": 3,
+  "characters": {
+    "type": "text",
+    "value": "分"
+  },
+  "primaryReading": "ぶん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ぶん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ふん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ぶ",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "わ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Part",
+  "otherMeanings": [
+    "Minute",
+    "Divide"
+  ],
+  "meaningMnemonic": "The <radical>fins</radical> that fell onto my <radical>sword</radical> were sliced into many <kanji>part</kanji>s. Following this logic, this also means <kanji>minute</kanji>, which is part of an hour, and <kanji>divide</kanji>, which is the action of splitting something into many parts.",
+  "readingMnemonic": "Now that the fins have been cut into neat <kanji>part</kanji>s, it's time to cut something else: <reading>bun</reading>s (ぶん).",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%88%86",
+    "graph": "/v/kanji/501"
+  },
+  "related": {
+    "radicals": [
+      2,
+      24
+    ],
+    "vocabularies": [
+      2597,
+      2598,
+      2599,
+      2600,
+      2673,
+      2700,
+      2755,
+      2770,
+      3405,
+      3741,
+      4072,
+      4159,
+      4357,
+      4468,
+      5128,
+      5412,
+      6605,
+      6660,
+      6845,
+      7533,
+      7749,
+      8052,
+      8628,
+      9070,
+      9282,
+      9300
+    ]
+  }
+}

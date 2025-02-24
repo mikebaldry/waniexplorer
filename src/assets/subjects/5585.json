@@ -1,0 +1,34 @@
+{
+  "id": 5585,
+  "type": "vocabulary",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "汚れる"
+  },
+  "primaryMeaning": "To Get Dirty",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>dirty</kanji> so the verb vocab version is <vocabulary>to get dirty</vocabulary>. You know you're not doing the dirtying, because it's <reading>rare</reading> (れる) for you to get anything dirty, though things do get dirty on their own.",
+  "primaryReading": "よごれる",
+  "readingMnemonic": "Things seem <vocabulary>to get dirty</vocabulary> easily around here, which is why <reading>you go</reading> (よご) to great lengths to keep things clean.\n\nNote that the reading よごれる is generally used for getting physically dirty, whereas けがれる is more figurative, so more like “to be defiled”.",
+  "otherMeanings": [
+    "To Get Polluted",
+    "To Become Dirty"
+  ],
+  "otherReadings": [
+    "けがれる"
+  ],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B1%9A%E3%82%8C%E3%82%8B",
+    "graph": "/v/vocabulary/5585"
+  },
+  "related": {
+    "radicals": [
+      103,
+      7,
+      14
+    ],
+    "kanjis": [
+      1506
+    ]
+  }
+}

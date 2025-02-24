@@ -1,0 +1,32 @@
+{
+  "id": 7135,
+  "type": "vocabulary",
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "芯"
+  },
+  "primaryMeaning": "Core",
+  "meaningMnemonic": "The kanji means <kanji>wick</kanji> and this word also means <vocabulary>wick</vocabulary>, but it means things at the <vocabulary>core</vocabulary> of other long things more often. Things like <vocabulary>pencil lead</vocabulary> and <vocabulary>marrow</vocabulary>.",
+  "primaryReading": "しん",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "otherMeanings": [
+    "Wick",
+    "Pencil Lead",
+    "Marrow"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%8A%AF",
+    "graph": "/v/vocabulary/7135"
+  },
+  "related": {
+    "radicals": [
+      90,
+      65
+    ],
+    "kanjis": [
+      2010
+    ]
+  }
+}

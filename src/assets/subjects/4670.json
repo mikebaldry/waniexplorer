@@ -1,0 +1,33 @@
+{
+  "id": 4670,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "負担"
+  },
+  "primaryMeaning": "Burden",
+  "meaningMnemonic": "You <kanji>lose</kanji>. Because of that, you have to <kanji>carry</kanji> this <vocabulary>burden</vocabulary> and <vocabulary>responsibility</vocabulary>.",
+  "primaryReading": "ふたん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Responsibility"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%B2%A0%E6%8B%85",
+    "graph": "/v/vocabulary/4670"
+  },
+  "related": {
+    "radicals": [
+      14,
+      94,
+      63,
+      293
+    ],
+    "kanjis": [
+      733,
+      1217
+    ]
+  }
+}

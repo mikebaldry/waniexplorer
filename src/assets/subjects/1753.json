@@ -1,0 +1,47 @@
+{
+  "id": 1753,
+  "type": "kanji",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "巡"
+  },
+  "primaryReading": "じゅん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "じゅん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "めぐ",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "まわ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Patrol",
+  "otherMeanings": [],
+  "meaningMnemonic": "You're using your <radical>scooter</radical> to navigate the <radical>flood</radical> because you're on <kanji>patrol</kanji>. You're one of the few people with a floating scooter, so it's your job to patrol the flood waters and look for people and animals that need help.",
+  "readingMnemonic": "You have to <kanji>patrol</kanji> all of the floods in <reading>June</reading> (じゅん). Unfortunately, that's the month when most of the floods in Japan happen, so you end up on patrol a lot.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%B7%A1",
+    "graph": "/v/kanji/1753"
+  },
+  "related": {
+    "radicals": [
+      114,
+      273
+    ],
+    "vocabularies": [
+      6391,
+      6392,
+      6393,
+      6394
+    ]
+  }
+}

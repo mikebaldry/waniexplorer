@@ -1,0 +1,28 @@
+{
+  "id": 3884,
+  "type": "vocabulary",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "動かす"
+  },
+  "primaryMeaning": "To Move Something",
+  "meaningMnemonic": "You've seen 動く hopefully, and know it means <vocabulary>to move</vocabulary>. This is similar to that, but now you're moving something else. You know this because as you go <vocabulary>to move something</vocabulary> the thing you're moving starts to <reading>cuss</reading> (かす) you out because it's angry. ",
+  "primaryReading": "うごかす",
+  "readingMnemonic": "The reading for this can come from 動く. If you know that word, you know how to read this word!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%8B%95%E3%81%8B%E3%81%99",
+    "graph": "/v/vocabulary/3884"
+  },
+  "related": {
+    "radicals": [
+      188,
+      13
+    ],
+    "kanjis": [
+      827
+    ]
+  }
+}

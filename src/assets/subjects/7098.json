@@ -1,0 +1,31 @@
+{
+  "id": 7098,
+  "type": "vocabulary",
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "布巾"
+  },
+  "primaryMeaning": "Dish Cloth",
+  "meaningMnemonic": "A <kanji>cloth</kanji> <kanji>towel</kanji> is just a cloth towel. Essentially it's known as a <vocabulary>dish cloth</vocabulary> or <vocabulary>tea towel</vocabulary>.",
+  "primaryReading": "ふきん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Tea Towel"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%B8%83%E5%B7%BE",
+    "graph": "/v/vocabulary/7098"
+  },
+  "related": {
+    "radicals": [
+      26,
+      102
+    ],
+    "kanjis": [
+      1062,
+      2049
+    ]
+  }
+}

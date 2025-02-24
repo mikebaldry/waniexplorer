@@ -1,0 +1,33 @@
+{
+  "id": 7245,
+  "type": "vocabulary",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "塗る"
+  },
+  "primaryMeaning": "To Paint",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>paint</kanji> and the verb vocab version is <vocabulary>to paint</vocabulary> and <vocabulary>to plaster</vocabulary> and <vocabulary>to lacquer</vocabulary>.",
+  "primaryReading": "ぬる",
+  "readingMnemonic": "Let's put a <reading>new</reading> (ぬ) layer of paint on the wall. Then we'll plaster it.",
+  "otherMeanings": [
+    "To Plaster",
+    "To Lacquer",
+    "To Spread"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%A1%97%E3%82%8B",
+    "graph": "/v/vocabulary/7245"
+  },
+  "related": {
+    "radicals": [
+      103,
+      313,
+      17
+    ],
+    "kanjis": [
+      2044
+    ]
+  }
+}

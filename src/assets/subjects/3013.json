@@ -1,0 +1,32 @@
+{
+  "id": 3013,
+  "type": "vocabulary",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "役"
+  },
+  "primaryMeaning": "Role",
+  "meaningMnemonic": "If you have a certain <kanji>duty</kanji> then it's your job to play that <vocabulary>role</vocabulary>. You have to play the <vocabulary>part</vocabulary>. Like in a play!",
+  "primaryReading": "やく",
+  "readingMnemonic": "The reading is the same as the kanji you learned, meaning you should be able to read this one as well.",
+  "otherMeanings": [
+    "Part",
+    "Duty",
+    "Service"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%BD%B9",
+    "graph": "/v/vocabulary/3013"
+  },
+  "related": {
+    "radicals": [
+      99,
+      160
+    ],
+    "kanjis": [
+      685
+    ]
+  }
+}

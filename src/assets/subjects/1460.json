@@ -1,0 +1,41 @@
+{
+  "id": 1460,
+  "type": "kanji",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "倉"
+  },
+  "primaryReading": "そう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "そう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "くら",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Warehouse",
+  "otherMeanings": [
+    "Storehouse"
+  ],
+  "meaningMnemonic": "The <radical>warehouse</radical> radical and the <kanji>warehouse</kanji> kanji are the same! You can call it a <kanji>storehouse</kanji> too. ",
+  "readingMnemonic": "You have a <kanji>warehouse</kanji> to store all of your <reading>sou</reading>ls (そう). When people or animals you know pass away, you take their souls and store them in your dry warehouse for safekeeping. It's a public service, really.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%80%89",
+    "graph": "/v/kanji/1460"
+  },
+  "related": {
+    "radicals": [
+      8827
+    ],
+    "vocabularies": [
+      5452,
+      5453
+    ]
+  }
+}

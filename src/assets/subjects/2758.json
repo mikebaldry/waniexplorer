@@ -1,0 +1,32 @@
+{
+  "id": 2758,
+  "type": "vocabulary",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "毎月"
+  },
+  "primaryMeaning": "Every Month",
+  "meaningMnemonic": "<kanji>Every</kanji> <kanji>moon</kanji> is <vocabulary>every month</vocabulary> (as you know from all the month-related vocab). This can also mean <vocabulary>monthly</vocabulary>.",
+  "primaryReading": "まいつき",
+  "readingMnemonic": "This word has the on'yomi reading for 毎 plus the kun'yomi reading for 月. That makes it まいつき.",
+  "otherMeanings": [
+    "Monthly"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%AF%8E%E6%9C%88",
+    "graph": "/v/vocabulary/2758"
+  },
+  "related": {
+    "radicals": [
+      8762,
+      107,
+      43
+    ],
+    "kanjis": [
+      572,
+      477
+    ]
+  }
+}

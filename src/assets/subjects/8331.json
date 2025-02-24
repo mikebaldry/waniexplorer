@@ -1,0 +1,33 @@
+{
+  "id": 8331,
+  "type": "vocabulary",
+  "level": 56,
+  "characters": {
+    "type": "text",
+    "value": "錯誤"
+  },
+  "primaryMeaning": "Mistake",
+  "meaningMnemonic": "If you're <kanji>confused</kanji> and you make a <kanji>mistake</kanji>, no matter how much you didn't mean it, it's still a <vocabulary>mistake</vocabulary>. You should ask for help next time you don't know what you're doing and you won't make these <vocabulary>error</vocabulary>s.",
+  "primaryReading": "さくご",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Error"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%8C%AF%E8%AA%A4",
+    "graph": "/v/vocabulary/8331"
+  },
+  "related": {
+    "radicals": [
+      118,
+      256,
+      117,
+      348
+    ],
+    "kanjis": [
+      2303,
+      1545
+    ]
+  }
+}

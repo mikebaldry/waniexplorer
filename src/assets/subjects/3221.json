@@ -1,0 +1,35 @@
+{
+  "id": 3221,
+  "type": "vocabulary",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "強調"
+  },
+  "primaryMeaning": "Emphasis",
+  "meaningMnemonic": "If you use a <kanji>strong</kanji> <kanji>tone</kanji> on certain words, then you are putting <vocabulary>emphasis</vocabulary> on whatever it is you're talking about. It's the <vocabulary>stress</vocabulary> you put on things that are important because your tone gets stronger on those words or syllables.",
+  "primaryReading": "きょうちょう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Highlight",
+    "Stress"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%BC%B7%E8%AA%BF",
+    "graph": "/v/vocabulary/3221"
+  },
+  "related": {
+    "radicals": [
+      36,
+      140,
+      89,
+      117,
+      169
+    ],
+    "kanjis": [
+      667,
+      769
+    ]
+  }
+}

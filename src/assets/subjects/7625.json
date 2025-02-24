@@ -1,0 +1,36 @@
+{
+  "id": 7625,
+  "type": "vocabulary",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "付近"
+  },
+  "primaryMeaning": "Neighborhood",
+  "meaningMnemonic": "If you <kanji>attach</kanji> things <kanji>near</kanji> you, they end up being in the same <vocabulary>neighborhood</vocabulary> as you. They're attached <vocabulary>nearby</vocabulary> so they can't go much further. ",
+  "primaryReading": "ふきん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You didn't learn this reading for 付 though, so here's a mnemonic to help you:\n\nYour <vocabulary>neighborhood</vocabulary> is full of <reading>foo</reading>ls (ふ). Fools everywhere. You're probably one too, since you live <vocabulary>nearby</vocabulary>.",
+  "otherMeanings": [
+    "Vicinity",
+    "Environs",
+    "Nearby",
+    "Locality"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BB%98%E8%BF%91",
+    "graph": "/v/vocabulary/7625"
+  },
+  "related": {
+    "radicals": [
+      75,
+      74,
+      114,
+      115
+    ],
+    "kanjis": [
+      652,
+      596
+    ]
+  }
+}

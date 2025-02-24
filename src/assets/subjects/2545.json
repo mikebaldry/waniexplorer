@@ -1,0 +1,29 @@
+{
+  "id": 2545,
+  "type": "vocabulary",
+  "level": 2,
+  "characters": {
+    "type": "text",
+    "value": "二月"
+  },
+  "primaryMeaning": "February",
+  "meaningMnemonic": "The kanji 月 means both month and moon (because moon cycles take about a month, presumably). So, what is the number two month? It's not January... it's not March... it's <vocabulary>February</vocabulary>!",
+  "primaryReading": "にがつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. 月 has two on'yomi readings, but it always uses the がつ reading in the names of the months, so here's a mnemonic to help you remember that:\n\n<vocabulary>February</vocabulary> is the month when somebody gives you a <reading>knee</reading> in the <reading>guts</reading> (にがつ). A complete stranger comes around each February just to knee you right in the guts. Ouch! That's why February is your least favourite month.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BA%8C%E6%9C%88",
+    "graph": "/v/vocabulary/2545"
+  },
+  "related": {
+    "radicals": [
+      7,
+      43
+    ],
+    "kanjis": [
+      441,
+      477
+    ]
+  }
+}

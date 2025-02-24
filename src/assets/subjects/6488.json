@@ -1,0 +1,31 @@
+{
+  "id": 6488,
+  "type": "vocabulary",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "拠る"
+  },
+  "primaryMeaning": "To Be Due To",
+  "meaningMnemonic": "The kanji means <kanji>based on</kanji> and the verb means <vocabulary>to be due to</vocabulary>. This is probably because when something is based off something, it does something else, which is due to what it was based on. It was caused by what it was based on.",
+  "primaryReading": "よる",
+  "readingMnemonic": "For example, <reading>yo</reading>gurt is due to milk. If milk didn't exist, neither would yogurt.",
+  "otherMeanings": [
+    "To Be Caused By"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%8B%A0%E3%82%8B",
+    "graph": "/v/vocabulary/6488"
+  },
+  "related": {
+    "radicals": [
+      63,
+      60,
+      177
+    ],
+    "kanjis": [
+      1780
+    ]
+  }
+}

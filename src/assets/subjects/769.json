@@ -1,0 +1,44 @@
+{
+  "id": 769,
+  "type": "kanji",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "調"
+  },
+  "primaryReading": "ちょう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ちょう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "しら",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Investigate",
+  "otherMeanings": [
+    "Tone"
+  ],
+  "meaningMnemonic": "You <radical>say</radical> something about the <radical>circumference</radical> of this area. You've looked around this whole area, making a big circle around it, because you are trying to <kanji>investigate</kanji> something that happened here. You also say this thing in a really quiet <kanji>tone</kanji> of voice, because you don't want the person or thing you're investigating to know you're on to them.",
+  "readingMnemonic": "\"I came here to <kanji>investigate</kanji> this place, and I did indeed find out who the criminal is... it's none other than Mrs. <reading>Chou</reading> (ちょう)!\"",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%AA%BF",
+    "graph": "/v/kanji/769"
+  },
+  "related": {
+    "radicals": [
+      117,
+      169
+    ],
+    "vocabularies": [
+      3220,
+      3221,
+      3222,
+      7685
+    ]
+  }
+}

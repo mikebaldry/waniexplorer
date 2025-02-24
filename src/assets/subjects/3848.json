@@ -1,0 +1,34 @@
+{
+  "id": 3848,
+  "type": "vocabulary",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "明治"
+  },
+  "primaryMeaning": "Meiji Era",
+  "meaningMnemonic": "It’s the era of <kanji>Bright</kanji> <kanji>Rule</kanji>! If this doesn't make sense, don't worry about it. Focus more on the reading, which is めいじ. Sound familiar? This is the famous <vocabulary>Meiji Era</vocabulary> or <vocabulary>Meiji Emperor</vocabulary>. If you don't know about it consider reading up, it's interesting history!",
+  "primaryReading": "めいじ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Meiji Emperor",
+    "Meiji"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%98%8E%E6%B2%BB",
+    "graph": "/v/vocabulary/3848"
+  },
+  "related": {
+    "radicals": [
+      22,
+      43,
+      103,
+      417
+    ],
+    "kanjis": [
+      626,
+      978
+    ]
+  }
+}

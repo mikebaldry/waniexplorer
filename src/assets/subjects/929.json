@@ -1,0 +1,41 @@
+{
+  "id": 929,
+  "type": "kanji",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "岩"
+  },
+  "primaryReading": "いわ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "いわ",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "がん",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Boulder",
+  "otherMeanings": [],
+  "meaningMnemonic": "A <radical>mountain</radical> <radical>stone</radical> is probably going to be a really big stone. We're talking about a <kanji>boulder</kanji> here.",
+  "readingMnemonic": "\"<kanji>Boulder</kanji>!!!\" yells a voice from behind you. \"<reading>Eek, wha</reading>...?\" (いわ) you reply. You look up to see a boulder falling off the cliff above you. \"Eeeeeek! Whaaaat!?,\" you shout again, running and screaming this time.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%B2%A9",
+    "graph": "/v/kanji/929"
+  },
+  "related": {
+    "radicals": [
+      20,
+      54
+    ],
+    "vocabularies": [
+      3754,
+      7206,
+      8564
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 1814,
+  "type": "kanji",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "掘"
+  },
+  "primaryReading": "くつ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "くつ",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ほ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Dig",
+  "otherMeanings": [],
+  "meaningMnemonic": "You see a <radical>flag</radical> near the <radical>exit</radical>, so you use your <radical>fingers</radical> to <kanji>dig</kanji> there. Most flags mark something, and this exit is pretty obvious, so there must be something under here. At least that's what you think to yourself as you dig.",
+  "readingMnemonic": "You <kanji>dig</kanji> until you finally hit something. It's a bunch of buried old <reading>coots</reading> (くつ). They're in an underground room for old coots. One yells up at you, \"Whatcha doing to our roof, ya whipper snapper?! Stop digging in our lawn!\"",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%8E%98",
+    "graph": "/v/kanji/1814"
+  },
+  "related": {
+    "radicals": [
+      63,
+      37,
+      332
+    ],
+    "vocabularies": [
+      6592,
+      6593
+    ]
+  }
+}

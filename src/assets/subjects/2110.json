@@ -1,0 +1,35 @@
+{
+  "id": 2110,
+  "type": "kanji",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "淀"
+  },
+  "primaryReading": "よど",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "よど",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Eddy",
+  "otherMeanings": [],
+  "meaningMnemonic": "A <radical>tsunami</radical> hits a <radical>roof</radical> and then <radical>correct</radical>s itself. This causes it to swirl around, creating an <kanji>eddy</kanji>.",
+  "readingMnemonic": "There is a person trying to create an <kanji>eddy</kanji> with a tsunami, and when their roof correction device is shown to be effective, they sing: \"This is how <reading>you do</reading> (よど) it.\"",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%B7%80",
+    "graph": "/v/kanji/2110"
+  },
+  "related": {
+    "radicals": [
+      103,
+      78,
+      229
+    ],
+    "vocabularies": [
+      7413
+    ]
+  }
+}

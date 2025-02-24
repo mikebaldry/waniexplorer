@@ -1,0 +1,48 @@
+{
+  "id": 2380,
+  "type": "kanji",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "鶏"
+  },
+  "primaryReading": "けい",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "けい",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "とり",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "にわとり",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Chicken",
+  "otherMeanings": [],
+  "meaningMnemonic": "Your <radical>husband</radical> was wearing his <radical>cleat</radical>s when he accidentally stepped on a <radical>bird</radical>. Luckily this particular bird is a <kanji>chicken</kanji>, and chickens are really durable!",
+  "readingMnemonic": "The only way to stop the <kanji>chicken</kanji> from putting on your husband's cleats and stepping on him to death in revenge is to feed it the <reading>ca</reading>ke (けい) you were making.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%B6%8F",
+    "graph": "/v/kanji/2380"
+  },
+  "related": {
+    "radicals": [
+      8772,
+      146,
+      151
+    ],
+    "vocabularies": [
+      8511,
+      8512,
+      8513,
+      8514
+    ]
+  }
+}

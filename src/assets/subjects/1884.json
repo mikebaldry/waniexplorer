@@ -1,0 +1,39 @@
+{
+  "id": 1884,
+  "type": "kanji",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "叱"
+  },
+  "primaryReading": "しか",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "しか",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "しつ",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Scold",
+  "otherMeanings": [],
+  "meaningMnemonic": "From my <radical>mouth</radical> I have told you <radical>seven</radical> times not to do that. Now I have to <kanji>scold</kanji> you.",
+  "readingMnemonic": "What were you doing wrong that caused me to <kanji>scold</kanji> you? You were feeding the <reading>鹿</reading> (しか). If you feed them they'll never be able to feed themselves!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%8F%B1",
+    "graph": "/v/kanji/1884"
+  },
+  "related": {
+    "radicals": [
+      16,
+      4
+    ],
+    "vocabularies": [
+      6801
+    ]
+  }
+}

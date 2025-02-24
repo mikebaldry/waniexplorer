@@ -1,0 +1,35 @@
+{
+  "id": 3941,
+  "type": "vocabulary",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "願い事"
+  },
+  "primaryMeaning": "One's Wish",
+  "meaningMnemonic": "You know that お願い means \"a request,\" and 事 can mean \"thing.\" Well, a request for some specific thing can also be called <vocabulary>one's wish</vocabulary> or a <vocabulary>prayer</vocabulary>. Do you have any 願い事 in your heart right now? Of course you do! Don't worry, you can tell me.",
+  "primaryReading": "ねがいごと",
+  "readingMnemonic": "The readings come from the words お願い and 事. If you know how to read those you should be able to read this word too. Just remember that 事 is rendaku'd, so it's read as ごと.",
+  "otherMeanings": [
+    "Prayer",
+    "Wish"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%A1%98%E3%81%84%E4%BA%8B",
+    "graph": "/v/vocabulary/3941"
+  },
+  "related": {
+    "radicals": [
+      230,
+      184,
+      15,
+      16,
+      105
+    ],
+    "kanjis": [
+      888,
+      708
+    ]
+  }
+}

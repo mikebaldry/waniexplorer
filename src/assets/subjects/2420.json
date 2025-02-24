@@ -1,0 +1,49 @@
+{
+  "id": 2420,
+  "type": "kanji",
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "詠"
+  },
+  "primaryReading": "えい",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "えい",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "よ",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "うた",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Compose",
+  "otherMeanings": [
+    "Recite"
+  ],
+  "meaningMnemonic": "If you want to <radical>say</radical> how <radical>eternity</radical> sounds you have to <kanji>compose</kanji> a poem. Or an essay. Or a song. <kanji>Recite</kanji> those deep thoughts about eternity and impress everyone who hears it.",
+  "readingMnemonic": "You decide to <kanji>compose</kanji> a poem about an <reading>a</reading>corn (えい). The tiny acorn is the perfect vessel for you to say how eternity feels to you.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%A9%A0",
+    "graph": "/v/kanji/2420"
+  },
+  "related": {
+    "radicals": [
+      117,
+      8820
+    ],
+    "vocabularies": [
+      8581,
+      9117,
+      9118,
+      9119
+    ]
+  }
+}

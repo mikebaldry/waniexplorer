@@ -1,0 +1,43 @@
+{
+  "id": 8880,
+  "type": "kanji",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "羨"
+  },
+  "primaryReading": "せん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "せん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "うらや",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Envy",
+  "otherMeanings": [
+    "Jealousy"
+  ],
+  "meaningMnemonic": "<radical>Sheep</radical> are always looking at the <radical>next</radical> animal, full of <kanji>envy</kanji> and <kanji>jealousy</kanji>. ",
+  "readingMnemonic": "The reason the sheep feels such <kanji>envy</kanji> and <kanji>jealousy</kanji> is that the next creature is a <reading>cen</reading>taur (せん)! Who wouldn't be jealous of a creature as noble as a centaur?",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%BE%A8",
+    "graph": "/v/kanji/8880"
+  },
+  "related": {
+    "radicals": [
+      136,
+      278
+    ],
+    "vocabularies": [
+      8887,
+      8888,
+      8889
+    ]
+  }
+}

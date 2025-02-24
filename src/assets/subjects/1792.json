@@ -1,0 +1,46 @@
+{
+  "id": 1792,
+  "type": "kanji",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "拳"
+  },
+  "primaryReading": "けん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "けん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "げん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "こぶし",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Fist",
+  "otherMeanings": [],
+  "meaningMnemonic": "A <radical>gladiator</radical> turns his <radical>hand</radical> into a <kanji>fist</kanji>. A fist for punching other gladiators.",
+  "readingMnemonic": "The gladiator's <kanji>fist</kanji> is now aimed at <reading>Ken</reading> (けん) the samurai. Little does the gladiator know, Ken knows the ways of the samurai and the gladiator. He slowly raises his own hands and turns them into fists.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%8B%B3",
+    "graph": "/v/kanji/1792"
+  },
+  "related": {
+    "radicals": [
+      8819,
+      41
+    ],
+    "vocabularies": [
+      6465,
+      6518,
+      6519
+    ]
+  }
+}

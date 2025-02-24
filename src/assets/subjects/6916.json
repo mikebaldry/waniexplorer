@@ -1,0 +1,32 @@
+{
+  "id": 6916,
+  "type": "vocabulary",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "悪霊"
+  },
+  "primaryMeaning": "Evil Spirit",
+  "meaningMnemonic": "An <kanji>evil</kanji> <kanji>ghost</kanji> isn't so much a ghost as it is an <vocabulary>evil spirit</vocabulary>.",
+  "primaryReading": "あくりょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Note this uses the secondary 霊 reading of りょう, so imagine an evil spirit rowing a boat.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%82%AA%E9%9C%8A",
+    "graph": "/v/vocabulary/6916"
+  },
+  "related": {
+    "radicals": [
+      204,
+      65,
+      119,
+      7,
+      8768
+    ],
+    "kanjis": [
+      829,
+      1932
+    ]
+  }
+}

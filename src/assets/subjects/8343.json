@@ -1,0 +1,31 @@
+{
+  "id": 8343,
+  "type": "vocabulary",
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "甲乙"
+  },
+  "primaryMeaning": "A And B",
+  "meaningMnemonic": "<kanji>A</kanji> and <kanji>B</kanji> make <vocabulary>A and B</vocabulary>!",
+  "primaryReading": "こうおつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "First And Second"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%94%B2%E4%B9%99",
+    "graph": "/v/vocabulary/8343"
+  },
+  "related": {
+    "radicals": [
+      330,
+      324
+    ],
+    "kanjis": [
+      1732,
+      2344
+    ]
+  }
+}

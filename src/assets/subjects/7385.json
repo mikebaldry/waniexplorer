@@ -1,0 +1,32 @@
+{
+  "id": 7385,
+  "type": "vocabulary",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "諮る"
+  },
+  "primaryMeaning": "To Consult With",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>consult</kanji> and the verb vocab version is <vocabulary>to consult with</vocabulary> or <vocabulary>to discuss</vocabulary>.",
+  "primaryReading": "はかる",
+  "readingMnemonic": "You need <vocabulary>to consult with</vocabulary> a <reading>hacker</reading> (はか) to solve your hacking problem. Imagine consulting with a hacker, whatever a hacker looks like in your mind.",
+  "otherMeanings": [
+    "To Discuss",
+    "To Confer"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%AB%AE%E3%82%8B",
+    "graph": "/v/vocabulary/7385"
+  },
+  "related": {
+    "radicals": [
+      117,
+      278,
+      16
+    ],
+    "kanjis": [
+      2097
+    ]
+  }
+}

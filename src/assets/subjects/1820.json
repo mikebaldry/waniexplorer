@@ -1,0 +1,35 @@
+{
+  "id": 1820,
+  "type": "kanji",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "析"
+  },
+  "primaryReading": "せき",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "せき",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Analysis",
+  "otherMeanings": [],
+  "meaningMnemonic": "You hit a <radical>tree</radical> with an <radical>axe</radical> so you can do some <kanji>analysis</kanji> on it. To do the analysis on the tree, a cross section needs to be obtained, so you must chop it in half with your axe.",
+  "readingMnemonic": "The person who is doing this <kanji>analysis</kanji> is very <reading>sexy</reading> (せき). Who is this sexy person? Why it’s you of course, you sexy beast. I love watching you do analysis on trees. It’s so sexy.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%9E%90",
+    "graph": "/v/kanji/1820"
+  },
+  "related": {
+    "radicals": [
+      23,
+      115
+    ],
+    "vocabularies": [
+      6604,
+      6605
+    ]
+  }
+}

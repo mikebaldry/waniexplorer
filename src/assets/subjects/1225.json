@@ -1,0 +1,47 @@
+{
+  "id": 1225,
+  "type": "kanji",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "狭"
+  },
+  "primaryReading": "せま",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "せま",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "せば",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "きょう",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Narrow",
+  "otherMeanings": [],
+  "meaningMnemonic": "You have an <radical>animal</radical> for a <radical>husband</radical> with <radical>horns</radical> that are <kanji>narrow</kanji>. This animal husband of yours is a goat. A goat with narrow horns. Why is this animal your husband? You’re weird, that’s why.",
+  "readingMnemonic": "I’m not even going to get into the <reading>sema</reading>ntics (せま) of how this weird relationship of yours works. Nope, this reading explanation is on the straight and <kanji>narrow</kanji>. Need to know basis. Classified. All that junk. There will be no discussion of the semantics between you and your goat lover.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%8B%AD",
+    "graph": "/v/kanji/1225"
+  },
+  "related": {
+    "radicals": [
+      144,
+      146,
+      8767
+    ],
+    "vocabularies": [
+      4690,
+      7769,
+      7865
+    ]
+  }
+}

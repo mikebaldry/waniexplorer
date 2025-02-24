@@ -1,0 +1,40 @@
+{
+  "id": 1797,
+  "type": "kanji",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "仁"
+  },
+  "primaryReading": "じん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "じん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "に",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Humanity",
+  "otherMeanings": [],
+  "meaningMnemonic": "This <radical>leader</radical> has <radical>two</radical> things that remind him of his <kanji>humanity</kanji>: his shoes, and his hat. These two things remind the leader of his humanity because humans are the only ones who wear shoes and hats.",
+  "readingMnemonic": "Another thing that reminds you and the leader about your <kanji>humanity</kanji> is wearing <reading>jean</reading>s (じん). Jeans are the go-to legwear for many people, and no one but humans wear them. Jeans are another great symbol of humanity.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E4%BB%81",
+    "graph": "/v/kanji/1797"
+  },
+  "related": {
+    "radicals": [
+      75,
+      7
+    ],
+    "vocabularies": [
+      6532,
+      6533
+    ]
+  }
+}

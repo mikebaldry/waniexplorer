@@ -1,0 +1,29 @@
+{
+  "id": 3144,
+  "type": "vocabulary",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "勝つ"
+  },
+  "primaryMeaning": "To Win",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>win</kanji> so the verb version is <vocabulary>to win</vocabulary>.",
+  "primaryReading": "かつ",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nWhat did you just <vocabulary>win</vocabulary>? You won a new <reading>ca</reading>r (か)!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%8B%9D%E3%81%A4",
+    "graph": "/v/vocabulary/3144"
+  },
+  "related": {
+    "radicals": [
+      43,
+      8819,
+      13
+    ],
+    "kanjis": [
+      738
+    ]
+  }
+}

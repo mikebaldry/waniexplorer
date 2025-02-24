@@ -1,0 +1,44 @@
+{
+  "id": 1518,
+  "type": "kanji",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "筋"
+  },
+  "primaryReading": "きん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "きん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "すじ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Muscle",
+  "otherMeanings": [
+    "Tendon"
+  ],
+  "meaningMnemonic": "This <radical>bamboo</radical> absorbed the <radical>moon</radical>'s <radical>power</radical>, and you want that power in your body, so you surgically insert them into your body to replace your <kanji>muscle</kanji>s and <kanji>tendon</kanji>s.",
+  "readingMnemonic": "Your special <kanji>muscle</kanji>s and <kanji>tendon</kanji>s have become famous and the <reading>Kin</reading>g (きん) of England has requested that you appear in his court! It looks like he wants you to teach his barber surgeons how you got your new muscles.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%AD%8B",
+    "graph": "/v/kanji/1518"
+  },
+  "related": {
+    "radicals": [
+      85,
+      43,
+      13
+    ],
+    "vocabularies": [
+      5627,
+      5628,
+      5838
+    ]
+  }
+}

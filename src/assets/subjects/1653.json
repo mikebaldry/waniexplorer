@@ -1,0 +1,43 @@
+{
+  "id": 1653,
+  "type": "kanji",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "戻"
+  },
+  "primaryReading": "もど",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "もど",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "れい",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Return",
+  "otherMeanings": [],
+  "meaningMnemonic": "This <radical>door</radical> is <radical>big</radical> and you need to <kanji>return</kanji> it to its rightful owner. This door is too big and important looking to not belong to someone. You need to find its owner and return it to them.",
+  "readingMnemonic": "You are in <kanji>return</kanji> <reading>mode</reading> (もど). When you enter this mode, you concentrate only on returning something. Nothing else matters in this mode. You’re in full on return mode.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%88%BB",
+    "graph": "/v/kanji/1653"
+  },
+  "related": {
+    "radicals": [
+      73,
+      18
+    ],
+    "vocabularies": [
+      6078,
+      6079,
+      6246,
+      6254,
+      6255
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": 1952,
+  "type": "kanji",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "椅"
+  },
+  "primaryReading": "い",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "い",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Chair",
+  "otherMeanings": [],
+  "meaningMnemonic": "This <radical>tree</radical> is very <radical>odd</radical>, to say the least. The shape is all crazy, like a lightning bolt stuck into the ground, or something. Oh wait, look at this. I can sit on it really nicely. It's just like a <kanji>chair</kanji>!",
+  "readingMnemonic": "But, this odd tree <kanji>chair</kanji> is also home to an <reading>ea</reading>gle (い). It swoops down upon you as you sit down, gouging your eyes out.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%A4%85",
+    "graph": "/v/kanji/1952"
+  },
+  "related": {
+    "radicals": [
+      23,
+      326
+    ],
+    "vocabularies": [
+      6989,
+      7154
+    ]
+  }
+}

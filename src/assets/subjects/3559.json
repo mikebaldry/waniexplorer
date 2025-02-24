@@ -1,0 +1,33 @@
+{
+  "id": 3559,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "終わり"
+  },
+  "primaryMeaning": "The End",
+  "meaningMnemonic": "By now you should know that 終わる means \"to end\" or \"to finish.\" So what is this noun-version of that word? It would be <vocabulary>the end</vocabulary> or <vocabulary>the finish</vocabulary>.",
+  "primaryReading": "おわり",
+  "readingMnemonic": "The reading comes from 終わる. So long as you know that word, you can learn this word's reading as well!",
+  "otherMeanings": [
+    "End",
+    "The Finish",
+    "Finish"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%B5%82%E3%82%8F%E3%82%8A",
+    "graph": "/v/vocabulary/3559"
+  },
+  "related": {
+    "radicals": [
+      86,
+      60,
+      123
+    ],
+    "kanjis": [
+      745
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": 1065,
+  "type": "kanji",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "若"
+  },
+  "primaryReading": "わか",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "わか",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "も",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "じゃく",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Young",
+  "otherMeanings": [],
+  "meaningMnemonic": "There are <radical>flowers</radical> on your <radical>right</radical> to show that you're still <kanji>young</kanji>. Your body still works, you're happy, you have your entire life ahead of you! And everything smells like flowers.",
+  "readingMnemonic": "When <kanji>young</kanji> people look to the right, they'll see their future: a <reading>walke</reading>r (わか). You know, those metal contraptions with tennis balls on the bottoms to make sure they don't scrape the floor. Everything may be flowers and happiness now, but your future is in a walker.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%8B%A5",
+    "graph": "/v/kanji/1065"
+  },
+  "related": {
+    "radicals": [
+      90,
+      362
+    ],
+    "vocabularies": [
+      4190,
+      4230,
+      4231,
+      4232,
+      6877
+    ]
+  }
+}

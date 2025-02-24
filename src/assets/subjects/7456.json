@@ -1,0 +1,31 @@
+{
+  "id": 7456,
+  "type": "vocabulary",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "三百"
+  },
+  "primaryMeaning": "Three Hundred",
+  "meaningMnemonic": "You have <kanji>three</kanji> <kanji>hundred</kanji>s. What does that come out to? <vocabulary>Three hundred</vocabulary>.",
+  "primaryReading": "さんびゃく",
+  "readingMnemonic": "The reading is a little bit weird, so be careful. You should already know the on'yomi readings, but the ひゃく rendakus to びゃく. This pattern will repeat itself with 三 + many counter kanjis that can rendaku, so pay attention for it as you read Japanese.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B8%89%E7%99%BE",
+    "graph": "/v/vocabulary/7456"
+  },
+  "related": {
+    "radicals": [
+      1,
+      7,
+      8763,
+      22
+    ],
+    "kanjis": [
+      449,
+      549
+    ]
+  }
+}

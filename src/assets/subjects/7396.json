@@ -1,0 +1,31 @@
+{
+  "id": 7396,
+  "type": "vocabulary",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "翻訳"
+  },
+  "primaryMeaning": "Translation",
+  "meaningMnemonic": "<kanji>Flip</kanji> the <kanji>translation</kanji> of a word from one language to another. That is the <vocabulary>translation</vocabulary> of that word (or phrase, etc).",
+  "primaryReading": "ほんやく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%BF%BB%E8%A8%B3",
+    "graph": "/v/vocabulary/7396"
+  },
+  "related": {
+    "radicals": [
+      280,
+      213,
+      117,
+      215
+    ],
+    "kanjis": [
+      2102,
+      1511
+    ]
+  }
+}

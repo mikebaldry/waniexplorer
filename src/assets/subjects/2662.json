@@ -1,0 +1,31 @@
+{
+  "id": 2662,
+  "type": "vocabulary",
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "２０１１年"
+  },
+  "primaryMeaning": "Year 2011",
+  "meaningMnemonic": "It's the 2011 <kanji>year</kanji>. I think the meaning is pretty obvious. This just means <vocabulary>year 2011</vocabulary> or simply <vocabulary>2011</vocabulary>.",
+  "primaryReading": "にせんじゅういちねん",
+  "readingMnemonic": "The reading is a little trickier. You start with two thousand (二千／にせん), then you need to add eleven to it (十一／じゅういち). Then, you simply add the reading for 年 which you already know. You can assume it's the on'yomi reading because it's attached to something else, like a jukugo. From there, you get the entire reading.",
+  "otherMeanings": [
+    "2011",
+    "The Year 2011"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%EF%BC%92%EF%BC%90%EF%BC%91%EF%BC%91%E5%B9%B4",
+    "graph": "/v/vocabulary/2662"
+  },
+  "related": {
+    "radicals": [
+      8762,
+      126
+    ],
+    "kanjis": [
+      546
+    ]
+  }
+}

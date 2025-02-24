@@ -1,0 +1,33 @@
+{
+  "id": 6722,
+  "type": "vocabulary",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "相撲"
+  },
+  "primaryMeaning": "Sumo Wrestling",
+  "meaningMnemonic": "A <kanji>mutual</kanji> <kanji>slap</kanji> is when two big guys run at each other and slap each other. This is <vocabulary>sumo wrestling</vocabulary>.",
+  "primaryReading": "すもう",
+  "readingMnemonic": "The reading is pretty weird, and not one you've learned. But, you know what sumo is, right? It's just the same as that. It's <reading>すもう</reading>.",
+  "otherMeanings": [
+    "Sumo"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%9B%B8%E6%92%B2",
+    "graph": "/v/vocabulary/6722"
+  },
+  "related": {
+    "radicals": [
+      23,
+      53,
+      63,
+      390
+    ],
+    "kanjis": [
+      730,
+      1861
+    ]
+  }
+}

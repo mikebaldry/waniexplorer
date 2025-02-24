@@ -1,0 +1,38 @@
+{
+  "id": 8861,
+  "type": "kanji",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "膝"
+  },
+  "primaryReading": "ひざ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ひざ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Knee",
+  "otherMeanings": [],
+  "meaningMnemonic": "Under the <radical>moon</radical> beneath a <radical>tree</radical> there is a <radical>hat</radical> filled with <radical>water</radical>. You stare down into the water and decide to stick your <kanji>knee</kanji> in it.",
+  "readingMnemonic": "Suddenly, in your <kanji>knee</kanji>, you feel <reading>he</reading>at and a <reading>za</reading>p (ひざ)! Your knee is simultaneously burned and electrocuted by the hot water!!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%86%9D",
+    "graph": "/v/kanji/8861"
+  },
+  "related": {
+    "radicals": [
+      43,
+      23,
+      8764,
+      45
+    ],
+    "vocabularies": [
+      8869,
+      8870,
+      8871
+    ]
+  }
+}

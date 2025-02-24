@@ -1,0 +1,42 @@
+{
+  "id": 1208,
+  "type": "kanji",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "沢"
+  },
+  "primaryReading": "たく",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "たく",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "さわ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Swamp",
+  "otherMeanings": [],
+  "meaningMnemonic": "A <radical>tsunami</radical> of <radical>shrimp</radical> crashes into a <kanji>swamp</kanji>. Now the swamp is filled with shrimp. They used to live in the ocean, but the tsunami has carried them to their new home in the swamp.",
+  "readingMnemonic": "Your house was right next to the <kanji>swamp</kanji> and on this side of your house you had many a <reading>tack</reading> (たく) there to hang things on. Now, on every tack there is skewered a shrimp. The force of the tsunami drove them into the tacks on the side of your house.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%B2%A2",
+    "graph": "/v/kanji/1208"
+  },
+  "related": {
+    "radicals": [
+      103,
+      215
+    ],
+    "vocabularies": [
+      4639,
+      4640,
+      6738,
+      8678
+    ]
+  }
+}

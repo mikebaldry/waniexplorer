@@ -1,0 +1,49 @@
+{
+  "id": 2065,
+  "type": "kanji",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "浸"
+  },
+  "primaryReading": "しん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "しん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ひた",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "つ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Immersed",
+  "otherMeanings": [],
+  "meaningMnemonic": "In the event of a <radical>tsunami</radical>, <radical>Wolverine</radical>, your <radical>forehead</radical>, and a <radical>stool</radical> will all be <kanji>immersed</kanji> in it. You will become immersed in the tsunami after it hits because tsunamis are gigantic and bring a lot of water. Now you and your forehead are immersed in the tsunami along with Wolverine and a stool.",
+  "readingMnemonic": "Still <kanji>immersed</kanji>, the stool floats over and hits you in the <reading>shin</reading> (しん). The tsunami gave the stool a good push and while it was fully immersed, it ran into your shin. It really hurts.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%B5%B8",
+    "graph": "/v/kanji/2065"
+  },
+  "related": {
+    "radicals": [
+      103,
+      105,
+      76,
+      30
+    ],
+    "vocabularies": [
+      7259,
+      7306,
+      7307,
+      7802
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 1136,
+  "type": "kanji",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "派"
+  },
+  "primaryReading": "は",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "は",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Sect",
+  "otherMeanings": [
+    "Faction"
+  ],
+  "meaningMnemonic": "A <radical>tsunami</radical> is coming for the <radical>cliff</radical> made of <radical>tofu</radical>, but there is a special <kanji>sect</kanji> that protects tofu cliff.",
+  "readingMnemonic": "All of the members of the <kanji>sect</kanji> are standing on the cliff, their hands raised, and right as the tsunami is about to collide with them, they shout, \"<reading>Ha</reading> (は)!\" and it's repelled! The tsunami sinks and rolls back out to sea, the tofu cliff is safe!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%B4%BE",
+    "graph": "/v/kanji/1136"
+  },
+  "related": {
+    "radicals": [
+      103,
+      116,
+      8778
+    ],
+    "vocabularies": [
+      4438,
+      4439,
+      5226,
+      6234
+    ]
+  }
+}

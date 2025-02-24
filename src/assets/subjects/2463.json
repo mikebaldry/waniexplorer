@@ -1,0 +1,44 @@
+{
+  "id": 2463,
+  "type": "kanji",
+  "level": 60,
+  "characters": {
+    "type": "text",
+    "value": "妄"
+  },
+  "primaryReading": "もう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "もう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ぼう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "みだ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Reckless",
+  "otherMeanings": [],
+  "meaningMnemonic": "If the <radical>death</radical> of a <radical>woman</radical> occurs it's because she was being <kanji>reckless</kanji>. People don't just die out of nowhere! They have to have done something super crazy to cause it. Right? Yes... right.",
+  "readingMnemonic": "As you watch the news about this <kanji>reckless</kanji> woman you find out that she died from <reading>mow</reading>ing (もう) her lawn. You're not sure how, but now you really believe that she had to be doing it really recklessly to die doing it.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%A6%84",
+    "graph": "/v/kanji/2463"
+  },
+  "related": {
+    "radicals": [
+      212,
+      19
+    ],
+    "vocabularies": [
+      8607
+    ]
+  }
+}

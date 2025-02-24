@@ -1,0 +1,33 @@
+{
+  "id": 3390,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "湯気"
+  },
+  "primaryMeaning": "Steam",
+  "meaningMnemonic": "<kanji>Hot water</kanji>'s <kanji>energy</kanji> isn't the hot water itself, it's what comes out of it (when it's boiling, for example). This is the <vocabulary>steam</vocabulary> and <vocabulary>vapor</vocabulary>.",
+  "primaryReading": "ゆげ",
+  "readingMnemonic": "The ゆ part of the reading makes sense. The げ part for 気 is a bit of an exception, so here's a mnemonic to help with that:\n\nNo creature likes <vocabulary>steam</vocabulary> and <vocabulary>vapor</vocabulary> more than <reading>ge</reading>ckos (げ). Geckos live in hot places, so wherever you see steam, you'll be sure to see at least one gecko nearby, if you look hard enough.",
+  "otherMeanings": [
+    "Vapor"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B9%AF%E6%B0%97",
+    "graph": "/v/vocabulary/3390"
+  },
+  "related": {
+    "radicals": [
+      103,
+      172,
+      82,
+      31
+    ],
+    "kanjis": [
+      844,
+      548
+    ]
+  }
+}

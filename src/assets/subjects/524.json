@@ -1,0 +1,53 @@
+{
+  "id": 524,
+  "type": "kanji",
+  "level": 3,
+  "characters": {
+    "type": "text",
+    "value": "母"
+  },
+  "primaryReading": "はは",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "はは",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "かあ",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ぼ",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Mother",
+  "otherMeanings": [
+    "Mom"
+  ],
+  "meaningMnemonic": "Someone breaks part of your <radical>window</radical>. Who did this? It was your <kanji>mother</kanji>!",
+  "readingMnemonic": "Suddenly your <kanji>mother</kanji> points her bloodied finger at you and laughs, \"<reading>Haha</reading> (はは)!\" She keeps laughing, haha haha haha, over and over. You feel even more alarmed.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%AF%8D",
+    "graph": "/v/kanji/524"
+  },
+  "related": {
+    "radicals": [
+      107
+    ],
+    "vocabularies": [
+      2639,
+      2640,
+      3552,
+      5543,
+      5723,
+      6513,
+      7409,
+      8420,
+      8525
+    ]
+  }
+}

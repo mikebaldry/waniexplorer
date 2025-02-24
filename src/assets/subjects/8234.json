@@ -1,0 +1,33 @@
+{
+  "id": 8234,
+  "type": "vocabulary",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "捕虜"
+  },
+  "primaryMeaning": "Prisoner Of War",
+  "meaningMnemonic": "<kanji>Catch</kanji> a <kanji>captive</kanji> and he'll be a <vocabulary>prisoner of war</vocabulary>. Or, if you're not in a war, just an ordinary <vocabulary>captive</vocabulary>.",
+  "primaryReading": "ほりょ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Captive"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%8D%95%E8%99%9C",
+    "graph": "/v/vocabulary/8234"
+  },
+  "related": {
+    "radicals": [
+      63,
+      300,
+      254,
+      243
+    ],
+    "kanjis": [
+      1265,
+      2278
+    ]
+  }
+}

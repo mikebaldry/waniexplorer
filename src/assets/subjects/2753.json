@@ -1,0 +1,32 @@
+{
+  "id": 2753,
+  "type": "vocabulary",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "毎回"
+  },
+  "primaryMeaning": "Every Time",
+  "meaningMnemonic": "<kanji>Every</kanji> <kanji>times</kanji> is really just <vocabulary>every time</vocabulary>. Do you get your kanji readings correct 毎回?",
+  "primaryReading": "まいかい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Each Time"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%AF%8E%E5%9B%9E",
+    "graph": "/v/vocabulary/2753"
+  },
+  "related": {
+    "radicals": [
+      8762,
+      107,
+      16
+    ],
+    "kanjis": [
+      572,
+      569
+    ]
+  }
+}

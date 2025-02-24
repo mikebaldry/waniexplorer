@@ -1,0 +1,42 @@
+{
+  "id": 1903,
+  "type": "kanji",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "雷"
+  },
+  "primaryReading": "らい",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "らい",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "かみなり",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Thunder",
+  "otherMeanings": [],
+  "meaningMnemonic": "<radical>Rain</radical> on a <radical>rice paddy</radical> means only one thing... <kanji>thunder</kanji>! Get off the rice paddy! There's nothing but you to attract the thunder!",
+  "readingMnemonic": "You can’t run fast enough to escape the <kanji>thunder</kanji>, so you decide to hide under a pile of… <reading>rye</reading> (らい)?! ",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%9B%B7",
+    "graph": "/v/kanji/1903"
+  },
+  "related": {
+    "radicals": [
+      119,
+      51
+    ],
+    "vocabularies": [
+      6836,
+      6837,
+      6838,
+      7666
+    ]
+  }
+}

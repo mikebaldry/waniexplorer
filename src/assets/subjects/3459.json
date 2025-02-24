@@ -1,0 +1,31 @@
+{
+  "id": 3459,
+  "type": "vocabulary",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "お知らせ"
+  },
+  "primaryMeaning": "Notice",
+  "meaningMnemonic": "This is a strange word, so you'll have to bear with me. You know that 知 means <kanji>know</kanji>. But in the case of this word, what do you know? Look at the second half. らせ sounds a bit like \"race.\" So, you know about a \"race.\" How do you know about this race? You got a <vocabulary>notice</vocabulary> or <vocabulary>notification</vocabulary> about it.",
+  "primaryReading": "おしらせ",
+  "readingMnemonic": "Remember 知る? This is the same reading (し). So, if you know that, you'll be able to read this one as well.",
+  "otherMeanings": [
+    "Notification",
+    "Flier"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B",
+    "graph": "/v/vocabulary/3459"
+  },
+  "related": {
+    "radicals": [
+      72,
+      16
+    ],
+    "kanjis": [
+      631
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": 1264,
+  "type": "kanji",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "模"
+  },
+  "primaryReading": "も",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "も",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ぼ",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Imitation",
+  "otherMeanings": [],
+  "meaningMnemonic": "A <radical>tree</radical> grows next to a <radical>greenhouse</radical> enclosing an <kanji>imitation</kanji> of the tree. The imitation greenhouse tree wants to be big and impressive like the tree outside, so it does its very best imitation of a real tree.",
+  "readingMnemonic": "The greenhouse tree realizes that its <kanji>imitation</kanji> will never be as good as the real thing. When it realizes this, the tree <reading>mo</reading>ans (も) aloud. The tree is still kinda tiny, so the moan isn’t very loud, but it is still pretty strange to witness. Speaking of witnesses, <reading>Bo</reading>bo (ぼ) the clown sees this greenhouse tree moaning and decides to take it for his next clown show. Surely this miniature moaning tree can be worked into Bobo's next clown act.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%A8%A1",
+    "graph": "/v/kanji/1264"
+  },
+  "related": {
+    "radicals": [
+      23,
+      356
+    ],
+    "vocabularies": [
+      4770,
+      4800,
+      4801,
+      5045,
+      5046,
+      6625,
+      8543
+    ]
+  }
+}

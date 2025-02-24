@@ -1,0 +1,46 @@
+{
+  "id": 2164,
+  "type": "kanji",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "噴"
+  },
+  "primaryReading": "ふん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ふん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ふ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Erupt",
+  "otherMeanings": [],
+  "meaningMnemonic": "From your <radical>mouth</radical> comes a <radical>cross</radical>, some <radical>flowers</radical>, and <radical>shellfish</radical>. It all <kanji>erupt</kanji>s from your mouth!",
+  "readingMnemonic": "When do inanimate objects <kanji>erupt</kanji> from your mouth? Mostly when you're having <reading>fun</reading> (ふん).",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%99%B4",
+    "graph": "/v/kanji/2164"
+  },
+  "related": {
+    "radicals": [
+      16,
+      15,
+      90,
+      94
+    ],
+    "vocabularies": [
+      7868,
+      7869,
+      7870,
+      7871,
+      7872,
+      8086
+    ]
+  }
+}

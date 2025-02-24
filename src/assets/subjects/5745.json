@@ -1,0 +1,30 @@
+{
+  "id": 5745,
+  "type": "vocabulary",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "誤用"
+  },
+  "primaryMeaning": "Misuse",
+  "meaningMnemonic": "A <kanji>mistake</kanji> in <kanji>use</kanji> is a <vocabulary>misuse</vocabulary>.",
+  "primaryReading": "ごよう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%AA%A4%E7%94%A8",
+    "graph": "/v/vocabulary/5745"
+  },
+  "related": {
+    "radicals": [
+      117,
+      348,
+      71
+    ],
+    "kanjis": [
+      1545,
+      525
+    ]
+  }
+}

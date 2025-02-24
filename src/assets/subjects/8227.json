@@ -1,0 +1,30 @@
+{
+  "id": 8227,
+  "type": "vocabulary",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "粗い"
+  },
+  "primaryMeaning": "Coarse",
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>coarse</kanji>? <vocabulary>Coarse</vocabulary> or <vocabulary>rough</vocabulary>. ",
+  "primaryReading": "あらい",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn this reading yet, so here's a mnemonic to help you:\n\nThe most <vocabulary>coarse</vocabulary> thing you can think of is <reading>a ro</reading>ck (あら). You rubbed it on your face and it was really <vocabulary>rough</vocabulary> and kinda painful. You probably shouldn't be rubbing a rock on your face, actually.",
+  "otherMeanings": [
+    "Rough"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%B2%97%E3%81%84",
+    "graph": "/v/vocabulary/8227"
+  },
+  "related": {
+    "radicals": [
+      98,
+      419
+    ],
+    "kanjis": [
+      2281
+    ]
+  }
+}

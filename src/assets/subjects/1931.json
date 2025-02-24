@@ -1,0 +1,43 @@
+{
+  "id": 1931,
+  "type": "kanji",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "陰"
+  },
+  "primaryReading": "いん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "いん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "かげ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Shade",
+  "otherMeanings": [],
+  "meaningMnemonic": "This <radical>building</radical> <radical>now</radical> has a <radical>cloud</radical> over it, creating <kanji>shade</kanji>.",
+  "readingMnemonic": "The building that's getting this nice <kanji>shade</kanji> is the <reading>inn</reading> (いん) you're staying at.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%99%B0",
+    "graph": "/v/kanji/1931"
+  },
+  "related": {
+    "radicals": [
+      176,
+      238,
+      159
+    ],
+    "vocabularies": [
+      6914,
+      6915,
+      7148,
+      7319
+    ]
+  }
+}

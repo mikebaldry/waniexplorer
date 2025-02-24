@@ -1,0 +1,49 @@
+{
+  "id": 472,
+  "type": "kanji",
+  "level": 2,
+  "characters": {
+    "type": "text",
+    "value": "円"
+  },
+  "primaryReading": "えん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "えん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "まる",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Yen",
+  "otherMeanings": [
+    "Round",
+    "Circle"
+  ],
+  "meaningMnemonic": "The combination of radicals for this kanji may not be obvious at first, but if you look carefully you'll see it. The <radical>lid</radical> is inside the <radical>head</radical> for this kanji because it's holding something in. Imagine the top of someone's head being closed by a lid. Open that lid up and peer inside... it's full of <kanji>yen</kanji> coins, the currency of Japan!",
+  "readingMnemonic": "What does the word <kanji>yen</kanji> sound like? It sounds like <reading>えん</reading>. Why? because back in the day, Japanese used to have a \"ye\" sound, but now it doesn't. Instead, it's an \"e\" sound, which is why yen = えん!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%86%86",
+    "graph": "/v/kanji/472"
+  },
+  "related": {
+    "radicals": [
+      29,
+      8
+    ],
+    "vocabularies": [
+      2532,
+      2533,
+      2534,
+      2933,
+      3528,
+      6205,
+      6588,
+      6619
+    ]
+  }
+}

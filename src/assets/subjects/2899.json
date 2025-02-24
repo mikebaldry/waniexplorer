@@ -1,0 +1,30 @@
+{
+  "id": 2899,
+  "type": "vocabulary",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "中東"
+  },
+  "primaryMeaning": "Middle East",
+  "meaningMnemonic": "The <kanji>middle</kanji> of the <kanji>east</kanji> is more simply known as the <vocabulary>middle east</vocabulary>.",
+  "primaryReading": "ちゅうとう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%B8%AD%E6%9D%B1",
+    "graph": "/v/vocabulary/2899"
+  },
+  "related": {
+    "radicals": [
+      49,
+      23,
+      22
+    ],
+    "kanjis": [
+      469,
+      627
+    ]
+  }
+}

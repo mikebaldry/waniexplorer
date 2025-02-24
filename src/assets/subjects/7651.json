@@ -1,0 +1,35 @@
+{
+  "id": 7651,
+  "type": "vocabulary",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "台詞"
+  },
+  "primaryMeaning": "Speech",
+  "meaningMnemonic": "A <kanji>part of speech</kanji> <kanji>machine</kanji> spits out <vocabulary>speech</vocabulary>es and <vocabulary>words</vocabulary>. It's all the machine is programmed to do.",
+  "primaryReading": "せりふ",
+  "readingMnemonic": "The reading for this is an exception. Here's a mnemonic to help you:\n\nThe only font the machine can print <vocabulary>speech</vocabulary>es in is <reading>serif</reading> font (せりふ).",
+  "otherMeanings": [
+    "Words",
+    "One's Lines",
+    "Remarks"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%8F%B0%E8%A9%9E",
+    "graph": "/v/vocabulary/7651"
+  },
+  "related": {
+    "radicals": [
+      140,
+      16,
+      117,
+      266
+    ],
+    "kanjis": [
+      520,
+      1066
+    ]
+  }
+}

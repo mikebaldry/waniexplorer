@@ -1,0 +1,33 @@
+{
+  "id": 5920,
+  "type": "vocabulary",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "酢の物"
+  },
+  "primaryMeaning": "Vinegared Food",
+  "meaningMnemonic": "A <kanji>vinegar</kanji> <kanji>thing</kanji> is a thing that has been vinegared. This is a <vocabulary>vinegared food</vocabulary> or a <vocabulary>pickled food</vocabulary>.",
+  "primaryReading": "すのもの",
+  "readingMnemonic": "The readings are the readings for 酢 and the kun'yomi reading for 物 which you've seen quite a bit by now.",
+  "otherMeanings": [
+    "Pickled Food"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%85%A2%E3%81%AE%E7%89%A9",
+    "graph": "/v/vocabulary/5920"
+  },
+  "related": {
+    "radicals": [
+      182,
+      122,
+      126,
+      173
+    ],
+    "kanjis": [
+      1604,
+      718
+    ]
+  }
+}

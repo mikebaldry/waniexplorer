@@ -1,0 +1,30 @@
+{
+  "id": 7370,
+  "type": "vocabulary",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "邪"
+  },
+  "primaryMeaning": "Wicked",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "よこしま",
+  "readingMnemonic": "This is a long reading for such a short word! Think of something being <vocabulary>wicked</vocabulary>. <vocabulary>Evil</vocabulary>, even! But what is wicked? It's the side of the island... but only the side. It's the <reading>横島</reading> (よこしま).",
+  "otherMeanings": [
+    "Evil"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%82%AA",
+    "graph": "/v/vocabulary/7370"
+  },
+  "related": {
+    "radicals": [
+      333,
+      176
+    ],
+    "kanjis": [
+      2086
+    ]
+  }
+}

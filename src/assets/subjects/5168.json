@@ -1,0 +1,33 @@
+{
+  "id": 5168,
+  "type": "vocabulary",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "横浜"
+  },
+  "primaryMeaning": "Yokohama",
+  "meaningMnemonic": "It's the <kanji>side</kanji> of the <kanji>beach</kanji>! Well, wait, what is it? This will make better sense when you look at the reading for the word, since it's a place: <vocabulary>Yokohama</vocabulary>.",
+  "primaryReading": "よこはま",
+  "readingMnemonic": "The reading is 横 and 浜 put together into one nice word, <reading>よこはま</reading>.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%A8%AA%E6%B5%9C",
+    "graph": "/v/vocabulary/5168"
+  },
+  "related": {
+    "radicals": [
+      23,
+      152,
+      103,
+      115,
+      1,
+      2
+    ],
+    "kanjis": [
+      768,
+      1376
+    ]
+  }
+}

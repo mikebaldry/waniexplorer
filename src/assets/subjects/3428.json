@@ -1,0 +1,32 @@
+{
+  "id": 3428,
+  "type": "vocabulary",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "向こう"
+  },
+  "primaryMeaning": "Over There",
+  "meaningMnemonic": "You know that 向 means <kanji>yonder</kanji>. So, think of a \"yonder こういち.\" All you know is that he's <vocabulary>over there</vocabulary> on the <vocabulary>other side</vocabulary> / <vocabulary>opposite side</vocabulary> of where you are. Basically, he's just pretty <vocabulary>far away</vocabulary>, wherever he is.",
+  "primaryReading": "むこう",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nStanding with こういち is a cow. It is saying <reading>moo</reading> (む). Weird, now こういち is saying it too. Also, if you know the reading of 向く you should be able to read this one as well.",
+  "otherMeanings": [
+    "Opposite Side",
+    "Other Side",
+    "Far Away"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%90%91%E3%81%93%E3%81%86",
+    "graph": "/v/vocabulary/3428"
+  },
+  "related": {
+    "radicals": [
+      3,
+      121
+    ],
+    "kanjis": [
+      611
+    ]
+  }
+}

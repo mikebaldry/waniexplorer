@@ -1,0 +1,31 @@
+{
+  "id": 7455,
+  "type": "vocabulary",
+  "level": 3,
+  "characters": {
+    "type": "text",
+    "value": "〜台"
+  },
+  "primaryMeaning": "Big Machine Counter",
+  "meaningMnemonic": "This counter is used with some kind of <kanji>machine</kanji> or device, usually a fairly large one (so nothing itty bitty). Cars are a good example of this. But it can also be used for things like computers, which were once the size of rooms, but are now nice and small. Thanks technology!",
+  "primaryReading": "だい",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji. Be sure to omit the 〜 in your answer as it is only a placeholder for a number.",
+  "otherMeanings": [
+    "Machine Counter",
+    "Number Of Machines"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E3%80%9C%E5%8F%B0",
+    "graph": "/v/vocabulary/7455"
+  },
+  "related": {
+    "radicals": [
+      140,
+      16
+    ],
+    "kanjis": [
+      520
+    ]
+  }
+}

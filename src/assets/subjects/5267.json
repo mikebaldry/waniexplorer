@@ -1,0 +1,30 @@
+{
+  "id": 5267,
+  "type": "vocabulary",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "面積"
+  },
+  "primaryMeaning": "Area",
+  "meaningMnemonic": "The <kanji>surface</kanji> that <kanji>accumulate</kanji>s into one area is a particular <vocabulary>area</vocabulary>. This has to do with math. When you add all the surfaces together by accumulating them into one calculation, you get yourself the area!",
+  "primaryReading": "めんせき",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%9D%A2%E7%A9%8D",
+    "graph": "/v/vocabulary/5267"
+  },
+  "related": {
+    "radicals": [
+      250,
+      135,
+      321
+    ],
+    "kanjis": [
+      974,
+      1393
+    ]
+  }
+}

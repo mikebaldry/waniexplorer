@@ -1,0 +1,32 @@
+{
+  "id": 2725,
+  "type": "vocabulary",
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "号"
+  },
+  "primaryMeaning": "Number",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.\n\nThis word is generally added to the end of a number, as in 三号 (\"number 3\"). It can also go together with other words to give things like train car numbers, as in ２号車 (\"car 2\"), and room numbers. When used on its own, it indicates the edition number of magazines and the like.",
+  "primaryReading": "ごう",
+  "readingMnemonic": "This word is made up of a single kanji all alone, but it uses the on'yomi reading. This is probably because you'll usually see this word attached to other things, like numbers. This shows the edition or number of an item. So, even though it's alone, it's usually used like jukugo, which is why the reading for this one is the same as the reading you learned when you learned the kanji.",
+  "otherMeanings": [
+    "Edition",
+    "Model"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%8F%B7",
+    "graph": "/v/vocabulary/2725"
+  },
+  "related": {
+    "radicals": [
+      16,
+      1,
+      14
+    ],
+    "kanjis": [
+      533
+    ]
+  }
+}

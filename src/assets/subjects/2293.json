@@ -1,0 +1,35 @@
+{
+  "id": 2293,
+  "type": "kanji",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "瑛"
+  },
+  "primaryReading": "えい",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "えい",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Crystal",
+  "otherMeanings": [],
+  "meaningMnemonic": "The <radical>king</radical> of the <radical>flowers</radical> in the <radical>center</radical> (of England, if you remember) has a special <kanji>crystal</kanji>. The king crystal.",
+  "readingMnemonic": "The king thinks everyone wants his <kanji>crystal</kanji> so he hides it in the giant <reading>a</reading>corn (えい) in the center of the flowers in England. There's a tiny hole in the bottom of the acorn, and that's where this crystal stays hidden.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E7%91%9B",
+    "graph": "/v/kanji/2293"
+  },
+  "related": {
+    "radicals": [
+      48,
+      90,
+      231
+    ],
+    "vocabularies": [
+      9098
+    ]
+  }
+}

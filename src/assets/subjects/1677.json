@@ -1,0 +1,41 @@
+{
+  "id": 1677,
+  "type": "kanji",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "宜"
+  },
+  "primaryReading": "よろ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "よろ",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ぎ",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Best Regards",
+  "otherMeanings": [],
+  "meaningMnemonic": "By showing the <radical>roof</radical> of your <radical>top hat</radical> you send your <kanji>best regards</kanji>.",
+  "readingMnemonic": "When you give your <kanji>best regards</kanji> you always yell <reading>YOLO</reading> (よろ) to the other person.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%AE%9C",
+    "graph": "/v/kanji/1677"
+  },
+  "related": {
+    "radicals": [
+      78,
+      419
+    ],
+    "vocabularies": [
+      6161,
+      6338,
+      6339
+    ]
+  }
+}

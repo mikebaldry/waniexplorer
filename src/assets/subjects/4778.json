@@ -1,0 +1,32 @@
+{
+  "id": 4778,
+  "type": "vocabulary",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "渡す"
+  },
+  "primaryMeaning": "To Hand Over",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>transit</kanji>. It's also in the verb 渡る, which means \"to cross.\" But with 渡す, it's more like you're sending something across instead, usually to another person. So 渡す means <vocabulary>to hand over</vocabulary>.\n\nIt can also mean <vocabulary>to ferry something across</vocabulary> a river, or <vocabulary>to lay something across</vocabulary> an expanse, like when you lay a plank over a pothole or build a bridge across a river.\n\nTo remember the す in 渡す, think of suing someone. When you <reading>sue</reading> (す) them, you have to hand over the papers to let them know you're suing. If you don't 渡す the papers, you can't sue!",
+  "primaryReading": "わたす",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "otherMeanings": [
+    "To Ferry Something Across",
+    "To Lay Something Across"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B8%A1%E3%81%99",
+    "graph": "/v/vocabulary/4778"
+  },
+  "related": {
+    "radicals": [
+      103,
+      8787,
+      30
+    ],
+    "kanjis": [
+      1253
+    ]
+  }
+}

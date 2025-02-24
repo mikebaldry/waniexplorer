@@ -1,0 +1,31 @@
+{
+  "id": 3306,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "戦い"
+  },
+  "primaryMeaning": "Battle",
+  "meaningMnemonic": "Don't let this word confuse you. It may end in い, but it's not an adjective, it's a noun. There are no rules in war, after all. This word describes what happens in <kanji>war</kanji>. Those things are <vocabulary>battle</vocabulary>s, <vocabulary>fight</vocabulary>s, and <vocabulary>conflict</vocabulary>s.",
+  "primaryReading": "たたかい",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you:\n\nIn a fierce <vocabulary>battle</vocabulary>, there's always a lot of collateral damage. One of the things that gets destroyed is your car. But you can't do anything about it, it's battle time! So you wave goodbye to your car saying, \"<reading>Ta-ta ca</reading>r (たたか)!\" as you punch some jerk in the face.",
+  "otherMeanings": [
+    "Fight",
+    "Conflict"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%88%A6%E3%81%84",
+    "graph": "/v/vocabulary/3306"
+  },
+  "related": {
+    "radicals": [
+      199,
+      194
+    ],
+    "kanjis": [
+      803
+    ]
+  }
+}

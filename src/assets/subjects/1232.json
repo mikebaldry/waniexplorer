@@ -1,0 +1,47 @@
+{
+  "id": 1232,
+  "type": "kanji",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "型"
+  },
+  "primaryReading": "けい",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "けい",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "かた",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Model",
+  "otherMeanings": [
+    "Type"
+  ],
+  "meaningMnemonic": "There is a <radical>lantern</radical> on top of a <radical>knife</radical> in the <radical>dirt</radical>. You walk up to take the knife and lantern when you realize it's just a <kanji>model</kanji>. It all looked real from far away, but now that you're up close you can see none of it is real.",
+  "readingMnemonic": "You touch the <kanji>model</kanji> and see that it's made of <reading>ca</reading>ke (けい)! Someone really into lanterns and knives must have been given this model cake as a birthday present! Though they left it out here so they probably didn't like it.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%9E%8B",
+    "graph": "/v/kanji/1232"
+  },
+  "related": {
+    "radicals": [
+      171,
+      128,
+      17
+    ],
+    "vocabularies": [
+      4703,
+      4704,
+      4705,
+      4770,
+      5740,
+      6819
+    ]
+  }
+}

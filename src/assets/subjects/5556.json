@@ -1,0 +1,34 @@
+{
+  "id": 5556,
+  "type": "vocabulary",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "賛成"
+  },
+  "primaryMeaning": "Agreement",
+  "meaningMnemonic": "It has <kanji>become</kanji> that we <kanji>agree</kanji>. We have <vocabulary>agreement</vocabulary>!",
+  "primaryReading": "さんせい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Approval",
+    "Support"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%B3%9B%E6%88%90",
+    "graph": "/v/vocabulary/5556"
+  },
+  "related": {
+    "radicals": [
+      146,
+      94,
+      194,
+      24
+    ],
+    "kanjis": [
+      1495,
+      780
+    ]
+  }
+}

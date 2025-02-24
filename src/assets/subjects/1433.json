@@ -1,0 +1,49 @@
+{
+  "id": 1433,
+  "type": "kanji",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "浮"
+  },
+  "primaryReading": "う",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "う",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "うわ",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ふ",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Float",
+  "otherMeanings": [],
+  "meaningMnemonic": "A <radical>tsunami</radical> knocks a <radical>cleat</radical> off a <radical>child</radical> and the shoe begins to <kanji>float</kanji> away in the water. This child was just out playing soccer, minding his own business, when the tsunami crashed in and knocked his cleats off his feet. Now the cleat is floating away with the tsunami.",
+  "readingMnemonic": "While you <kanji>float</kanji> in the water, an <reading>u</reading>ni (う) jabs into your foot. “<reading>Uwa</reading>aa~ (うわ)” you cry. That uni really hurts. They’re all spikey and painful and junk. “Uwaaaa~”",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%B5%AE",
+    "graph": "/v/kanji/1433"
+  },
+  "related": {
+    "radicals": [
+      103,
+      8772,
+      34
+    ],
+    "vocabularies": [
+      5330,
+      5331,
+      5332,
+      5610,
+      8552
+    ]
+  }
+}

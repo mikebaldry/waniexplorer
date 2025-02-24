@@ -1,0 +1,47 @@
+{
+  "id": 733,
+  "type": "kanji",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "負"
+  },
+  "primaryReading": "ふ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ふ",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ま",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "お",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Lose",
+  "otherMeanings": [],
+  "meaningMnemonic": "When you're in <radical>prison</radical>, whoever ends up with the <radical>shellfish</radical> will <kanji>lose</kanji>. It's the game all prisoners play. It's like keep away from the shellfish. And if you end up with the shellfish BZZZZTT that's it, you're the loser.",
+  "readingMnemonic": "If you <kanji>lose</kanji>, you're a <reading>foo</reading>l (ふ). All you had to do was not hold the prison shellfish. It really shouldn't have been that hard to not lose, ya fool.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%B2%A0",
+    "graph": "/v/kanji/733"
+  },
+  "related": {
+    "radicals": [
+      14,
+      94
+    ],
+    "vocabularies": [
+      3142,
+      3143,
+      3502,
+      4670
+    ]
+  }
+}

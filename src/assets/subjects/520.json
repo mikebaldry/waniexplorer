@@ -1,0 +1,50 @@
+{
+  "id": 520,
+  "type": "kanji",
+  "level": 3,
+  "characters": {
+    "type": "text",
+    "value": "台"
+  },
+  "primaryReading": "だい",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "だい",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "たい",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Machine",
+  "otherMeanings": [],
+  "meaningMnemonic": "You have a <radical>private</radical> <radical>mouth</radical> that's a <kanji>machine</kanji>. But you have to keep your machine mouth private because it would scare all the non-machine people around you.",
+  "readingMnemonic": "To make sure they can't tell what's <kanji>machine</kanji> and what's human, you <reading>dye</reading> (だい) the mouth to make it look like skin. You find dye the same shade as your normal mouth and just slap it on there.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%8F%B0",
+    "graph": "/v/kanji/520"
+  },
+  "related": {
+    "radicals": [
+      140,
+      16
+    ],
+    "vocabularies": [
+      2627,
+      2628,
+      2629,
+      2630,
+      6005,
+      6091,
+      6285,
+      6764,
+      7455,
+      7567,
+      7651,
+      7742
+    ]
+  }
+}

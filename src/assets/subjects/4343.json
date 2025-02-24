@@ -1,0 +1,31 @@
+{
+  "id": 4343,
+  "type": "vocabulary",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "余震"
+  },
+  "primaryMeaning": "Aftershock",
+  "meaningMnemonic": "A <kanji>surplus</kanji> (that's an extra!) <kanji>earthquake</kanji> is a quake that  comes after the main (non-surplus) quake. That's an <vocabulary>aftershock</vocabulary>.",
+  "primaryReading": "よしん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BD%99%E9%9C%87",
+    "graph": "/v/vocabulary/4343"
+  },
+  "related": {
+    "radicals": [
+      8764,
+      207,
+      119,
+      183
+    ],
+    "kanjis": [
+      1094,
+      1099
+    ]
+  }
+}

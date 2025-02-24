@@ -1,0 +1,34 @@
+{
+  "id": 9118,
+  "type": "vocabulary",
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "詠歌"
+  },
+  "primaryMeaning": "Poem",
+  "meaningMnemonic": "A <kanji>compose</kanji>d <kanji>song</kanji> is a <vocabulary>poem</vocabulary>, or a <vocabulary>song</vocabulary>. This can also refer to the act of <vocabulary>composing a poem or song</vocabulary>, which makes a lot of sense given the kanji.\n\nThis is used particularly when referring to waka poetry.",
+  "primaryReading": "えいか",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi for both kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Song",
+    "Composing A Poem Or Song"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%A9%A0%E6%AD%8C",
+    "graph": "/v/vocabulary/9118"
+  },
+  "related": {
+    "radicals": [
+      117,
+      8820,
+      113,
+      142
+    ],
+    "kanjis": [
+      2420,
+      761
+    ]
+  }
+}

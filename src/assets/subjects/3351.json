@@ -1,0 +1,34 @@
+{
+  "id": 3351,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "京都"
+  },
+  "primaryMeaning": "Kyoto",
+  "meaningMnemonic": "The <kanji>capital</kanji> <kanji>metropolis</kanji> back in the day was <vocabulary>Kyoto</vocabulary>. Now of course the capital is Tokyo, but kanji doesn't know this. That's why Kyoto is the capital metropolis!",
+  "primaryReading": "きょうと",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Kyouto"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BA%AC%E9%83%BD",
+    "graph": "/v/vocabulary/3351"
+  },
+  "related": {
+    "radicals": [
+      8,
+      16,
+      35,
+      203,
+      176
+    ],
+    "kanjis": [
+      620,
+      826
+    ]
+  }
+}

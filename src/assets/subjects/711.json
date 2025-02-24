@@ -1,0 +1,53 @@
+{
+  "id": 711,
+  "type": "kanji",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "受"
+  },
+  "primaryReading": "じゅ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "じゅ",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "う",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Accept",
+  "otherMeanings": [
+    "Receive"
+  ],
+  "meaningMnemonic": "You're sitting on a <radical>stool</radical> and someone <radical>cleat</radical>s you in the <radical>forehead</radical> as part of an <kanji>accept</kanji>ance ritual. It's for the most prestigious Spanish soccer club in the world. You got knocked off the stool, and the cleats really hurt your forehead, but you're just glad to have been accepted.\n\nThis kanji also means <kanji>receive</kanji>, which is quite similar to accept. It shouldn't be too hard to remember.",
+  "readingMnemonic": "After you've been <kanji>accept</kanji>ed, they give you a small <reading>ju</reading>ice (じゅ) box to help you recover from the trauma of getting kicked. And you <kanji>receive</kanji> it with grace.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%8F%97",
+    "graph": "/v/kanji/711"
+  },
+  "related": {
+    "radicals": [
+      8772,
+      76,
+      30
+    ],
+    "vocabularies": [
+      3091,
+      3511,
+      4163,
+      4539,
+      6023,
+      6218,
+      8187,
+      8396,
+      8434,
+      8943,
+      9269,
+      9279
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 6553,
+  "type": "vocabulary",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "侵入"
+  },
+  "primaryMeaning": "Intrusion",
+  "meaningMnemonic": "If you <kanji>invade</kanji> and <kanji>enter</kanji> that is an <vocabulary>intrusion</vocabulary>.",
+  "primaryReading": "しんにゅう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Penetration"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E4%BE%B5%E5%85%A5",
+    "graph": "/v/vocabulary/6553"
+  },
+  "related": {
+    "radicals": [
+      75,
+      105,
+      76,
+      30,
+      12
+    ],
+    "kanjis": [
+      1802,
+      445
+    ]
+  }
+}

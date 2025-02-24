@@ -1,0 +1,34 @@
+{
+  "id": 2922,
+  "type": "vocabulary",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "茶色"
+  },
+  "primaryMeaning": "Brown",
+  "meaningMnemonic": "What is the <kanji>color</kanji> of <kanji>tea</kanji>? You'd think it would be green, assuming it's Japanese... but this word came from China. What color is Chinese tea? It tends to be more <vocabulary>brown</vocabulary>. Think Oolong tea, for example.",
+  "primaryReading": "ちゃいろ",
+  "readingMnemonic": "The readings for both kanji are the readings you learned with the kanji, meaning you should be able to read this already.",
+  "otherMeanings": [
+    "Brown Color",
+    "Color Brown"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%8C%B6%E8%89%B2",
+    "graph": "/v/vocabulary/2922"
+  },
+  "related": {
+    "radicals": [
+      90,
+      8764,
+      130,
+      110
+    ],
+    "kanjis": [
+      643,
+      579
+    ]
+  }
+}

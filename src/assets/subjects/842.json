@@ -1,0 +1,48 @@
+{
+  "id": 842,
+  "type": "kanji",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "温"
+  },
+  "primaryReading": "おん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "おん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "あたた",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Warm",
+  "otherMeanings": [],
+  "meaningMnemonic": "There's a <radical>tsunami</radical> which washes a <radical>plate</radical> out into the <radical>sun</radical>. Because it's in the sun, it becomes  <kanji>warm</kanji>.",
+  "readingMnemonic": "The plate starts to get so <kanji>warm</kanji> that you could fry an <reading>on</reading>ion (おん) on it. Who doesn’t love fried onions? That plate sure is warm enough, so start cookin’ ‘em!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%B8%A9",
+    "graph": "/v/kanji/842"
+  },
+  "related": {
+    "radicals": [
+      103,
+      22,
+      84
+    ],
+    "vocabularies": [
+      3385,
+      3386,
+      3387,
+      3888,
+      4847,
+      5594,
+      6581,
+      8954,
+      9065
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": 1098,
+  "type": "kanji",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "裕"
+  },
+  "primaryReading": "ゆう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ゆう",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Abundant",
+  "otherMeanings": [
+    "Wealthy"
+  ],
+  "meaningMnemonic": "In <radical>spirit</radical> <radical>valley</radical>, spirits are <kanji>abundant</kanji>. Hence the name. Spirit valley has over two billion spirits floating in it.",
+  "readingMnemonic": "In spirit valley, it's not just spirits that are <kanji>abundant</kanji>. There is an abundance of <reading>you</reading>ths (ゆう) as well. ",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%A3%95",
+    "graph": "/v/kanji/1098"
+  },
+  "related": {
+    "radicals": [
+      80,
+      249
+    ],
+    "vocabularies": [
+      4325,
+      4326,
+      5493
+    ]
+  }
+}

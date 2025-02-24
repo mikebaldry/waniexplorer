@@ -1,0 +1,34 @@
+{
+  "id": 4557,
+  "type": "vocabulary",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "観念"
+  },
+  "primaryMeaning": "Idea",
+  "meaningMnemonic": "You have a <kanji>thought</kanji> on a particular <kanji>view</kanji>. This is your <vocabulary>idea</vocabulary> or <vocabulary>notion</vocabulary> on it.",
+  "primaryReading": "かんねん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Notion"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E8%A6%B3%E5%BF%B5",
+    "graph": "/v/vocabulary/4557"
+  },
+  "related": {
+    "radicals": [
+      72,
+      240,
+      91,
+      238,
+      65
+    ],
+    "kanjis": [
+      1175,
+      906
+    ]
+  }
+}

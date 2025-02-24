@@ -1,0 +1,33 @@
+{
+  "id": 4852,
+  "type": "vocabulary",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "検査する"
+  },
+  "primaryMeaning": "To Examine",
+  "meaningMnemonic": "You know that 検査 is inspection, so the verb version of that would be <vocabulary>to inspect</vocabulary>.",
+  "primaryReading": "けんさする",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. It will help to know 検査 already as well.",
+  "otherMeanings": [
+    "To Inspect",
+    "To Check"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%A4%9C%E6%9F%BB%E3%81%99%E3%82%8B",
+    "graph": "/v/vocabulary/4852"
+  },
+  "related": {
+    "radicals": [
+      23,
+      8785,
+      419
+    ],
+    "kanjis": [
+      1143,
+      1130
+    ]
+  }
+}

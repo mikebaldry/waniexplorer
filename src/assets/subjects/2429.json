@@ -1,0 +1,53 @@
+{
+  "id": 2429,
+  "type": "kanji",
+  "level": 27,
+  "characters": {
+    "type": "text",
+    "value": "憧"
+  },
+  "primaryReading": "あこが",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "あこが",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "しょう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "とう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "どう",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Long For",
+  "otherMeanings": [
+    "Yearn"
+  ],
+  "meaningMnemonic": "Your <radical>soul</radical> <radical>stand</radical>s in the <radical>village</radical> you <kanji>long for</kanji>. It's the village you're from, and no matter how far you go, no matter how old you get, your soul is still there, and you <kanji>yearn</kanji> for it.",
+  "readingMnemonic": "No matter how much you <kanji>long for</kanji> it, you can't go back because <reading>a cougar</reading> (あこが) is in the way. Whenever you try to return to your village to be reunited with the soul you yearn for, a cougar is back, and won't let you in.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%86%A7",
+    "graph": "/v/kanji/2429"
+  },
+  "related": {
+    "radicals": [
+      232,
+      55,
+      125
+    ],
+    "vocabularies": [
+      8540,
+      8541
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 4663,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "対策"
+  },
+  "primaryMeaning": "Counter Plan",
+  "meaningMnemonic": "Your <kanji>versus</kanji> <kanji>plan</kanji> is to attack back. They've already attacked you once, so now it's time for your <vocabulary>counter plan</vocabulary>.",
+  "primaryReading": "たいさく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Countermeasure"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E5%AF%BE%E7%AD%96",
+    "graph": "/v/vocabulary/4663"
+  },
+  "related": {
+    "radicals": [
+      42,
+      74,
+      85,
+      23,
+      29
+    ],
+    "kanjis": [
+      683,
+      1172
+    ]
+  }
+}

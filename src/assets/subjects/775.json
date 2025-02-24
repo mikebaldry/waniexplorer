@@ -1,0 +1,42 @@
+{
+  "id": 775,
+  "type": "kanji",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "争"
+  },
+  "primaryReading": "そう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "そう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "あらそ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Conflict",
+  "otherMeanings": [],
+  "meaningMnemonic": "If you keep a <radical>wolverine</radical> in a <radical>prison</radical> with <radical>barb</radical>s, you’re likely to get into a <kanji>conflict</kanji> with animal rights groups. Wolverines aren’t meant to be kept in cages, let alone barbed prisons. There’s going to be some sort of conflict here, and animal activist groups are not going to be happy with you.",
+  "readingMnemonic": "When the wolverine cuts itself inside the barbed prison (which is inevitable), the conflict changes. Now there is a <kanji>conflict</kanji> between the wolverine and its <reading>sou</reading>l (そう). Does it lose it and become a shell of its former self? Or does it keep fighting and try to hang onto what's left of its soul?",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E4%BA%89",
+    "graph": "/v/kanji/775"
+  },
+  "related": {
+    "radicals": [
+      14,
+      105,
+      6
+    ],
+    "vocabularies": [
+      3238,
+      3239,
+      3240
+    ]
+  }
+}

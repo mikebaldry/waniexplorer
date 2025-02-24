@@ -1,0 +1,43 @@
+{
+  "id": 2333,
+  "type": "kanji",
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "腸"
+  },
+  "primaryReading": "ちょう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ちょう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "はらわた",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Intestines",
+  "otherMeanings": [],
+  "meaningMnemonic": "The <radical>moon</radical> is <radical>easy</radical> tonight, so you decide to cut it open. But, the moon wasn't the moon, it was your big, pale, round tummy. You just cut it open, and now you can see your <kanji>intestines</kanji>.",
+  "readingMnemonic": "All over the world, people are cutting their bellies open, because they think its an easy moon (versus a normal moon, or hard moon, presumably). This is because they have fallen victim to a spell by Mrs. <reading>Chou</reading> (ちょう).",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E8%85%B8",
+    "graph": "/v/kanji/2333"
+  },
+  "related": {
+    "radicals": [
+      43,
+      172
+    ],
+    "vocabularies": [
+      8398,
+      8399,
+      8400,
+      8401,
+      8576
+    ]
+  }
+}

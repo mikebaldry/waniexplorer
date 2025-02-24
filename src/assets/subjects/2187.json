@@ -1,0 +1,51 @@
+{
+  "id": 2187,
+  "type": "kanji",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "颯"
+  },
+  "primaryReading": "さつ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "さつ",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "そう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "さっ",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "はやて",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Quick",
+  "otherMeanings": [
+    "Sudden"
+  ],
+  "meaningMnemonic": "If you <radical>stand</radical> in the <radical>wind</radical> it will be really <kanji>quick</kanji> to knock you over. So quick that you probably won't even know the wind did it. You'll end up standing up only to be knocked over again, just as quick.",
+  "readingMnemonic": "That <kanji>quick</kanji> wind is quicker than you can say <reading>Satsu</reading>ki (さつ). And \"Satsuki\" is a pretty quick sounding name already. Go ahead, say \"Satsuki\" as quick as you can right now. Heck, try it a few times.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%A2%AF",
+    "graph": "/v/kanji/2187"
+  },
+  "related": {
+    "radicals": [
+      55,
+      416
+    ],
+    "vocabularies": [
+      7956
+    ]
+  }
+}

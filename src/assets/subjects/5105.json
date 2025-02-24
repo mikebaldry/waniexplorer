@@ -1,0 +1,32 @@
+{
+  "id": 5105,
+  "type": "vocabulary",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "矢印"
+  },
+  "primaryMeaning": "Arrow",
+  "meaningMnemonic": "矢印 combines the kanji <kanji>arrow</kanji> and the vocab word 印 (mark), giving us the type of arrow you use for pointing at things, like these: →↑↓←. It could be an arrow on a sign, or on a piece of paper, or a document. We can just call it an <vocabulary>arrow</vocabulary>, or an <vocabulary>arrow symbol</vocabulary>.",
+  "primaryReading": "やじるし",
+  "readingMnemonic": "The reading is 矢 and 印 put together into one. The 印 is like the actual vocab word 印, but watch out for rendaku changing it from しるし to じるし.",
+  "otherMeanings": [
+    "Arrow Symbol"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E7%9F%A2%E5%8D%B0",
+    "graph": "/v/vocabulary/5105"
+  },
+  "related": {
+    "radicals": [
+      72,
+      8792,
+      145
+    ],
+    "kanjis": [
+      526,
+      1283
+    ]
+  }
+}

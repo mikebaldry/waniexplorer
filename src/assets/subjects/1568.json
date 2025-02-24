@@ -1,0 +1,43 @@
+{
+  "id": 1568,
+  "type": "kanji",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "源"
+  },
+  "primaryReading": "げん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "げん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "みなもと",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Origin",
+  "otherMeanings": [],
+  "meaningMnemonic": "The <radical>original</radical> <radical>tsunami</radical> was the <kanji>origin</kanji> of Japan. A big tsunami came and uncovered the islands of Japan. It's the origin of all life, as far as Japanese people are concerned.",
+  "readingMnemonic": "This tsunami was also the <kanji>origin</kanji> of <reading>Gen</reading>ji (げん), from \"The Tale of Genji.\" Just think, without this origin, Japan wouldn't exist and neither would the first Japanese heartthrob, Genji!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%BA%90",
+    "graph": "/v/kanji/1568"
+  },
+  "related": {
+    "radicals": [
+      103,
+      230
+    ],
+    "vocabularies": [
+      5802,
+      5803,
+      5804,
+      5805,
+      5948
+    ]
+  }
+}

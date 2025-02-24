@@ -1,0 +1,36 @@
+{
+  "id": 8170,
+  "type": "vocabulary",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "露顕"
+  },
+  "primaryMeaning": "Discovery",
+  "meaningMnemonic": "You <kanji>expose</kanji> something new and it <kanji>appear</kanji>s in front of the whole world as your <vocabulary>discovery</vocabulary>.",
+  "primaryReading": "ろけん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Detection",
+    "Exposure"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E9%9C%B2%E9%A1%95",
+    "graph": "/v/vocabulary/8170"
+  },
+  "related": {
+    "radicals": [
+      119,
+      95,
+      180,
+      22,
+      8768,
+      184
+    ],
+    "kanjis": [
+      1845,
+      2237
+    ]
+  }
+}

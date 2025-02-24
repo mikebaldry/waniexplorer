@@ -1,0 +1,30 @@
+{
+  "id": 5169,
+  "type": "vocabulary",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "清い"
+  },
+  "primaryMeaning": "Pure",
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>pure</kanji>? It's <vocabulary>pure</vocabulary>.",
+  "primaryReading": "きよい",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \"In order to stay <vocabulary>pure</vocabulary> and <vocabulary>clean</vocabulary>, you shouldn't ever do anything dirty or bad. That is the <reading>key, yo</reading> (きよ).\"",
+  "otherMeanings": [
+    "Clean"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%B8%85%E3%81%84",
+    "graph": "/v/vocabulary/5169"
+  },
+  "related": {
+    "radicals": [
+      103,
+      120
+    ],
+    "kanjis": [
+      1356
+    ]
+  }
+}

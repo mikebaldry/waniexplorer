@@ -1,0 +1,34 @@
+{
+  "id": 7204,
+  "type": "vocabulary",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "憶測"
+  },
+  "primaryMeaning": "Guess",
+  "meaningMnemonic": "A <kanji>recollection</kanji> and <kanji>measure</kanji>ment of the situation is what I use to make a <vocabulary>guess</vocabulary> and <vocabulary>speculation</vocabulary>.",
+  "primaryReading": "おくそく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Speculation"
+  ],
+  "otherReadings": [],
+  "urls": {
+    "wanikani": "https://www.wanikani.com/vocabulary/%E6%86%B6%E6%B8%AC",
+    "graph": "/v/vocabulary/7204"
+  },
+  "related": {
+    "radicals": [
+      232,
+      221,
+      103,
+      94,
+      128
+    ],
+    "kanjis": [
+      2029,
+      1581
+    ]
+  }
+}

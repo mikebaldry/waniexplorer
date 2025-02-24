@@ -1,0 +1,49 @@
+{
+  "id": 1662,
+  "type": "kanji",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "遣"
+  },
+  "primaryReading": "けん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "けん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "つか",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "や",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Dispatch",
+  "otherMeanings": [],
+  "meaningMnemonic": "On the <radical>scooter</radical> is an <radical>insect</radical> and a <radical>bear</radical>. The bear immediately stomps the insect, squishing it flat. \"My god, the insect is smashed. Someone call <kanji>dispatch</kanji>!\"",
+  "readingMnemonic": "Out of the <kanji>dispatch</kanji>ed ambulance jumps <reading>Ken</reading> (けん) the samurai. \"Dispatch sent me! I'm here to fix that insect.\"",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E9%81%A3",
+    "graph": "/v/kanji/1662"
+  },
+  "related": {
+    "radicals": [
+      114,
+      89,
+      8777
+    ],
+    "vocabularies": [
+      6108,
+      6234,
+      6248,
+      6249,
+      6466
+    ]
+  }
+}

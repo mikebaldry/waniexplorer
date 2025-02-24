@@ -1,0 +1,44 @@
+{
+  "id": 2375,
+  "type": "kanji",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "朽"
+  },
+  "primaryReading": "きゅう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "きゅう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "く",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Rot",
+  "otherMeanings": [
+    "Decay"
+  ],
+  "meaningMnemonic": "A <radical>tree</radical> is stuck in a <radical>prison</radical> under the <radical>ground</radical> and it's starting to <kanji>rot</kanji> and <kanji>decay</kanji>.",
+  "readingMnemonic": "You get close to the <kanji>rot</kanji>ting tree and see some rotten <reading>cu</reading>cumbers (きゅう) hanging from its branches. No!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E6%9C%BD",
+    "graph": "/v/kanji/2375"
+  },
+  "related": {
+    "radicals": [
+      23,
+      1,
+      14
+    ],
+    "vocabularies": [
+      8468,
+      8469,
+      8470
+    ]
+  }
+}

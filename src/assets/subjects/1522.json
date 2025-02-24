@@ -1,0 +1,48 @@
+{
+  "id": 1522,
+  "type": "kanji",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "尊"
+  },
+  "primaryReading": "そん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "そん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "とうと",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "たっと",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Revered",
+  "otherMeanings": [],
+  "meaningMnemonic": "The <radical>horns</radical> of the creatures who drink <radical>alcohol</radical> have a <radical>measurement</radical> so large that they are <kanji>revered</kanji> the world over. The horns are revered both for their size and potency. The horns can be used in medicine, so they are very valuable, those alcoholic monster horns.",
+  "readingMnemonic": "The reason you are interested in these <kanji>revered</kanji> horns so much is that your <reading>son</reading> (そん) is sick and you need one of these revered horns to make a medicine for your son. Only with the revered power of the horns will you be able to save your son’s life.",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%B0%8A",
+    "graph": "/v/kanji/1522"
+  },
+  "related": {
+    "radicals": [
+      8767,
+      182,
+      74
+    ],
+    "vocabularies": [
+      5636,
+      5637,
+      5851,
+      5852
+    ]
+  }
+}

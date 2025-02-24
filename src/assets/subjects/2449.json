@@ -1,0 +1,42 @@
+{
+  "id": 2449,
+  "type": "kanji",
+  "level": 60,
+  "characters": {
+    "type": "text",
+    "value": "升"
+  },
+  "primaryReading": "ます",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ます",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "しょう",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Grid",
+  "otherMeanings": [
+    "Measure"
+  ],
+  "meaningMnemonic": "You see <radical>twenty</radical> <radical>slide</radical>s lined up like a <kanji>grid</kanji>. You don't know who put them here, but they almost look like the grid paper you do your maths homework in. But who would use a slide as grid paper?",
+  "readingMnemonic": "As you stare at the slide <kanji>grid</kanji> you see some people come out and overhear them talk about their mass <reading>maths</reading> (ます) tournament happening later today. Oohhh it IS a giant grid. And they're going to use it to do maths later!",
+  "urls": {
+    "wanikani": "https://www.wanikani.com/kanji/%E5%8D%87",
+    "graph": "/v/kanji/2449"
+  },
+  "related": {
+    "radicals": [
+      5,
+      106
+    ],
+    "vocabularies": [
+      8599,
+      8600
+    ]
+  }
+}

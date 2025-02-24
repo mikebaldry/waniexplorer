@@ -1,13 +1,18 @@
-import { avroType, SearchResult } from "../db/search_result";
+import { SearchResult } from "../db/search_result";
 import * as WK from "./wanikani_subjects";
 import * as DB from "../db/subjects";
 import handleRadical from "./radicals";
 import handleKanji from "./kanji";
 import handleVocabulary from "./vocabulary";
 
-
 import { writeFileSync } from "fs";
 import compact from "lodash-es/compact";
+import MiniSearch from "minisearch";
+
+import { pack } from 'msgpackr';
+import { searchOpts } from "../db/search_opts";
+
+export const miniSearch = new MiniSearch<SearchResult>(searchOpts)
 
 export default async function generate(force: boolean) {
   const subjects = await WK.loadSubjects(force);
@@ -31,9 +36,10 @@ export default async function generate(force: boolean) {
   const searchResults = results.map((r) => r[0]);
   const dbSubjects = results.map((r) => r[1]);
 
-  writeFileSync("src/assets/search.avsc", avroType.toBuffer(searchResults));
+  miniSearch.addAll(searchResults);
+  writeFileSync("src/assets/search.data", pack(miniSearch.toJSON()));
 
   dbSubjects.forEach((dbSubject) => {
-    writeFileSync(`public/data/${dbSubject.id}.json`, JSON.stringify(dbSubject, null, 2));
+    writeFileSync(`src/assets/subjects/${dbSubject.id}.json`, JSON.stringify(dbSubject, null, 2));
   });
 }
