@@ -22,6 +22,12 @@ export default async function generate(force: boolean) {
     return acc;
   }, {} as Record<number, WK.Subject>);
 
+  subjects.forEach((s) => {
+    if (!s.data.document_url.endsWith(encodeURIComponent(s.data.slug))) {
+      throw "all WK slugs must be expected as from url";
+    }
+  });
+
   const results: ([SearchResult, DB.Subject])[] = compact(await Promise.all(subjects.map(async (subject) => {
     switch (subject.object) {
       case WK.SubjectType.RADICAL:

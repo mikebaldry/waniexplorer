@@ -11,14 +11,12 @@ export enum SubjectType {
 export type RadicalSubject = {
   id: number,
   object: SubjectType.RADICAL,
-  data: {
-    level: number,
+  data: BaseSubjectData & {
     characters: string | null,
     character_images: CharacterImage[],
     meanings: BasicMeaning[],
     meaning_mnemonic: string,
-    amalgamation_subject_ids: number[],
-    document_url: string
+    amalgamation_subject_ids: number[]
   }
 }
 
@@ -37,11 +35,16 @@ export type CharacterImage = {
   content_type: string,
 }
 
+export type BaseSubjectData = {
+  level: number,
+  document_url: string,
+  slug: string,
+};
+
 export type KanjiSubject = {
   id: number,
   object: SubjectType.KANJI,
-  data: {
-    level: number,
+  data: BaseSubjectData & {
     characters: string,
     amalgamation_subject_ids: number[],
     component_subject_ids: number[],
@@ -49,8 +52,7 @@ export type KanjiSubject = {
     auxiliary_meanings: AuxilaryMeaning[],
     readings: KanjiReading[],
     meaning_mnemonic: string,
-    reading_mnemonic: string,
-    document_url: string
+    reading_mnemonic: string
   }
 }
 
@@ -64,22 +66,21 @@ export type KanjiReading = Reading & { type: "onyomi" | "kunyomi" | "nanori" }
 export type VocabularySubject = {
   id: number,
   object: SubjectType.VOCABULARY,
-  data: {
-    level: number,
+  data: BaseSubjectData & {
     characters: string,
     meanings: BasicMeaning[],
     auxiliary_meanings: AuxilaryMeaning[],
     meaning_mnemonic: string,
     readings: Reading[],
     reading_mnemonic: string,
-    component_subject_ids: number[],
-    document_url: string
+    component_subject_ids: number[]
   }
 }
 
 export type KanaVocabularySubject = {
   id: number,
-  object: SubjectType.KANA_VOCABULARY
+  object: SubjectType.KANA_VOCABULARY,
+  data: BaseSubjectData
 }
 
 export async function loadSubjects(force: boolean): Promise<Subject[]> {

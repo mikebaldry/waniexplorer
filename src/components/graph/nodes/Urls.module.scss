@@ -1,10 +1,13 @@
 .container {
   display: flex;
   gap: 5px;
-  justify-content: space-between;
 }
 
 .link {
   text-decoration: none;
 }
 
+.rightLink {
+  flex: 1;
+  text-align: right;
+}

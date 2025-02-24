@@ -50,10 +50,7 @@ export default async function handle(subject: WK.RadicalSubject, subjectsById: R
     primaryMeaning: primaryMeaning.meaning,
     otherMeanings: otherMeanings,
     meaningMnemonic: subject.data.meaning_mnemonic,
-    urls: {
-      wanikani: subject.data.document_url,
-      graph: `/v/radical/${subject.id}`
-    },
+    wkSlug: subject.data.slug,
     related: {
       kanjis: relatedKanjiIds,
       vocabularies: relatedVocabularyIds

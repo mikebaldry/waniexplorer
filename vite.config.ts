@@ -26,7 +26,7 @@ const subjectMap = (): Plugin => {
         files.forEach(file => {
           const id = parseInt(idRegex.exec(file)![1]);
           if (isBuildMode) {
-            const chunkRefId = this.emitFile({ name: `subject-${file}`, type: "asset",  source: readFileSync(`./src/assets/subjects/${file}`) });
+            const chunkRefId = this.emitFile({ name: `s${file}`, type: "asset",  source: readFileSync(`./src/assets/subjects/${file}`) });
             results.push([id, `"__VITE_ASSET__${chunkRefId}__"`])
           } else {
             results.push([id, `"/src/assets/subjects/${id}.json"`]);

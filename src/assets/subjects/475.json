@@ -30,10 +30,7 @@
   ],
   "meaningMnemonic": "The kanji and the radical are the same, so remembering the meaning of this kanji is as simple as making sure you know the radical for <radical>writing</radical> first! If you know the radical, you know this kanji means <kanji>writing</kanji> as well.",
   "readingMnemonic": "This kanji has more than one important reading you need to learn! But don't worry, here's a mnemonic to help you:\n\nYou always put <kanji>writing</kanji> on your <reading>bun</reading>s (ぶん) to keep them from getting eaten by the bun <reading>mon</reading>ster (もん). What kind of writing? Usually it's just an X to show the monster these buns are off-limits. (In fact, it kind of looks like the X part in 文. Hmm…)",
-  "urls": {
-    "wanikani": "https://www.wanikani.com/kanji/%E6%96%87",
-    "graph": "/v/kanji/475"
-  },
+  "wkSlug": "文",
   "related": {
     "radicals": [
       42

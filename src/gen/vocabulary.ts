@@ -50,10 +50,7 @@ export default async function handle(subject: WK.VocabularySubject, subjectsById
     readingMnemonic: subject.data.reading_mnemonic,
     otherMeanings: subject.data.meanings.filter((m) => !m.primary).map((m) => m.meaning),
     otherReadings: otherReadings,
-    urls: {
-      wanikani: subject.data.document_url,
-      graph: `/v/vocabulary/${subject.id}`
-    },
+    wkSlug: subject.data.slug,
     related: {
       radicals: relatedRadicalIds,
       kanjis: relatedKanjiIds

@@ -14,10 +14,7 @@ export type BasicSubject = {
   primaryMeaning: string,
   otherMeanings: string[],
   characters: Characters,
-  urls: {
-    wanikani: string
-    graph: string
-  }
+  wkSlug: string
 }
 
 
