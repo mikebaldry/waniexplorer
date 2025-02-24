@@ -30,7 +30,7 @@ function DataLoader() {
 
 function Loader() {
   return (
-    <Suspense fallback="Loading...">
+    <Suspense fallback={<div id="root-loader">Loading...</div>}>
       <ReactFlowProvider>
         <DataLoader />
       </ReactFlowProvider>
