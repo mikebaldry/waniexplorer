@@ -3,6 +3,7 @@ import type { Plugin } from 'vite'
 import react from '@vitejs/plugin-react-swc'
 import path from 'path';
 import { readdir, readFileSync } from 'fs';
+import compression from 'vite-plugin-compression';
 
 const subjectMap = (): Plugin => {
   const virtualModuleId = 'virtual:subject_map'
@@ -61,7 +62,12 @@ const subjectMap = (): Plugin => {
 export default defineConfig({
   plugins: [
     subjectMap(),
-    react()
+    react(),
+    compression({
+      algorithm: 'gzip',
+      ext: '.gz',
+      deleteOriginFile: false
+    })
   ],
 
   resolve: {
