@@ -5,9 +5,9 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc -b && vite build --base=/waniexplorer",
+    "build": "tsc -b && vite build",
     "lint": "eslint .",
-    "preview": "vite preview --base=/waniexplorer",
+    "preview": "vite preview",
     "gen": "tsx bin/gen.ts",
     "gen:force": "FORCE=1 tsx bin/gen.ts"
   },
