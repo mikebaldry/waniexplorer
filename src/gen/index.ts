@@ -43,7 +43,7 @@ export default async function generate(force: boolean) {
   const dbSubjects = results.map((r) => r[1]);
 
   miniSearch.addAll(searchResults);
-  writeFileSync("src/assets/search.data", pack(miniSearch.toJSON()));
+  writeFileSync("src/assets/search.wasm", pack(miniSearch.toJSON()));
 
   dbSubjects.forEach((dbSubject) => {
     writeFileSync(`src/assets/subjects/${dbSubject.id}.json`, JSON.stringify(dbSubject, null, 2));

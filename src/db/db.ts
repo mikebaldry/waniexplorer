@@ -8,7 +8,7 @@ import { toKana, tokenize } from "wanakana";
 import { KanjiSubject, RadicalSubject, Subject, VocabularySubject } from "./subjects";
 import { unpack } from "msgpackr/unpack";
 
-import searchDataUrl from "../assets/search.data?url";
+import searchDataUrl from "../assets/search.wasm?url";
 import { searchOpts } from "./search_opts";
 
 export type View = {
