@@ -1,7 +1,13 @@
 import { ReactElement } from "react";
 import { Fragment } from "react/jsx-runtime";
 
-function CommaSeparatedList<T>({ items, component }: { items: T[], component: ({ item }: { item: T }) => ReactElement<{ item: T }> }) {
+function CommaSeparatedList<T>({
+  items,
+  component,
+}: {
+  items: T[];
+  component: ({ item }: { item: T }) => ReactElement<{ item: T }>;
+}) {
   return (
     <>
       {items.map((item, index) => {
@@ -14,11 +20,11 @@ function CommaSeparatedList<T>({ items, component }: { items: T[], component: ({
         );
       })}
     </>
-  )
+  );
 }
 
 export function SpanItem({ item }: { item: string }) {
-  return (<span>{item}</span>)
+  return <span>{item}</span>;
 }
 
 export default CommaSeparatedList;

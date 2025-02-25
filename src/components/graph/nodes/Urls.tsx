@@ -8,25 +8,40 @@ function Urls({ subject }: { subject: BasicSubject }) {
   const navigate = useNavigate();
   const { id } = useParams();
 
-  const handleView: MouseEventHandler<HTMLAnchorElement> = useCallback((e) => {
-    navigate(graphUrl(subject));
-    e.preventDefault();
-    e.stopPropagation();
-  }, [navigate, subject])
+  const handleView: MouseEventHandler<HTMLAnchorElement> = useCallback(
+    (e) => {
+      navigate(graphUrl(subject));
+      e.preventDefault();
+      e.stopPropagation();
+    },
+    [navigate, subject],
+  );
 
   const jishoUrl = makeJishoUrl(subject);
 
   return (
     <li className={clsx("list-group-item", styles.container)}>
-      <a href={wkUrl(subject)} target="_blank" className={styles.link}>WaniKani</a>
-      {jishoUrl && <a href={jishoUrl} target="_blank" className={styles.link}>Jisho</a>}
-      { parseInt(id!) !== subject.id && (
+      <a href={wkUrl(subject)} target="_blank" className={styles.link}>
+        WaniKani
+      </a>
+      {jishoUrl && (
+        <a href={jishoUrl} target="_blank" className={styles.link}>
+          Jisho
+        </a>
+      )}
+      {parseInt(id!) !== subject.id && (
         <div className={styles.rightLink}>
-          <a href={graphUrl(subject)} onClick={handleView} className={styles.link}>View</a>
+          <a
+            href={graphUrl(subject)}
+            onClick={handleView}
+            className={styles.link}
+          >
+            View
+          </a>
         </div>
       )}
-    </li> 
-  )
+    </li>
+  );
 }
 
 function wkUrl(subject: BasicSubject): string {

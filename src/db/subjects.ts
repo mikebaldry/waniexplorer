@@ -1,68 +1,67 @@
 import { Characters, TextCharacters } from "./characters";
 
 export type Subject = RadicalSubject | KanjiSubject | VocabularySubject;
-export enum SubjectType { 
+export enum SubjectType {
   RADICAL = "radical",
   KANJI = "kanji",
-  VOCABULARY = "vocabulary"
-};
+  VOCABULARY = "vocabulary",
+}
 
 export type BasicSubject = {
-  id: number,
-  type: SubjectType,
-  level: number,
-  primaryMeaning: string,
-  otherMeanings: string[],
-  characters: Characters,
-  wkSlug: string
-}
-
+  id: number;
+  type: SubjectType;
+  level: number;
+  primaryMeaning: string;
+  otherMeanings: string[];
+  characters: Characters;
+  wkSlug: string;
+};
 
 export type RadicalSubject = BasicSubject & {
-  type: SubjectType.RADICAL,
+  type: SubjectType.RADICAL;
 
-  meaningMnemonic: string,
-  
+  meaningMnemonic: string;
+
   related: {
-    kanjis: number[],
-    vocabularies: number[]
-  }
-}
+    kanjis: number[];
+    vocabularies: number[];
+  };
+};
 
 export type KanjiReading = {
-  reading: string,
-  primary: boolean,
-  type: "onyomi" | "kunyomi" | "nanori"
-}
+  reading: string;
+  primary: boolean;
+  type: "onyomi" | "kunyomi" | "nanori";
+};
 
 export type KanjiSubject = BasicSubject & {
-  type: SubjectType.KANJI,
-  characters: TextCharacters,
-  primaryReading: string,
-  readings: KanjiReading[],
-  readingMnemonic: string,
-  meaningMnemonic: string,
+  type: SubjectType.KANJI;
+  characters: TextCharacters;
+  primaryReading: string;
+  readings: KanjiReading[];
+  readingMnemonic: string;
+  meaningMnemonic: string;
   related: {
-    radicals: number[],
-    vocabularies: number[]
-  }
-}
+    radicals: number[];
+    vocabularies: number[];
+  };
+};
 
 export type VocabularySubject = BasicSubject & {
-  type: SubjectType.VOCABULARY,
-  characters: TextCharacters,
-  primaryReading: string,
-  otherReadings: string[],
-  readingMnemonic: string,
-  meaningMnemonic: string,
+  type: SubjectType.VOCABULARY;
+  characters: TextCharacters;
+  primaryReading: string;
+  otherReadings: string[];
+  readingMnemonic: string;
+  meaningMnemonic: string;
   related: {
-    radicals: number[],
-    kanjis: number[]
-  },
-  readingAudio: VocabularyReadingAudio[]
-}
+    radicals: number[];
+    kanjis: number[];
+  };
+  readingAudio: VocabularyReadingAudio[];
+};
 
 export type VocabularyReadingAudio = {
-  reading: string,
-  url: string
-}
+  reading: string;
+  url: string;
+};

@@ -5,7 +5,10 @@ import uniq from "lodash-es/uniq";
 import { CharactersType, TextCharacters } from "../db/characters";
 import groupBy from "lodash-es/groupBy";
 
-export default async function handle(subject: WK.VocabularySubject, subjectsById: Record<number, WK.Subject>): Promise<[SearchDocument, DB.VocabularySubject]> {
+export default async function handle(
+  subject: WK.VocabularySubject,
+  subjectsById: Record<number, WK.Subject>,
+): Promise<[SearchDocument, DB.VocabularySubject]> {
   const primaryMeaning = subject.data.meanings.find((m) => m.primary);
   const primaryReading = subject.data.readings.find((r) => r.primary);
 
@@ -17,14 +20,31 @@ export default async function handle(subject: WK.VocabularySubject, subjectsById
     throw `No primary reading for ${subject.id}`;
   }
 
-  let otherMeanings = subject.data.meanings.filter((m) => !m.primary).map((m) => m.meaning);
-  otherMeanings = [...otherMeanings, ...subject.data.auxiliary_meanings.filter((am) => am.type == "whitelist").map((am) => am.meaning)];
+  let otherMeanings = subject.data.meanings
+    .filter((m) => !m.primary)
+    .map((m) => m.meaning);
+  otherMeanings = [
+    ...otherMeanings,
+    ...subject.data.auxiliary_meanings
+      .filter((am) => am.type == "whitelist")
+      .map((am) => am.meaning),
+  ];
 
-  let otherReadings = subject.data.readings.filter((r) => !r.primary).map((r) => r.reading);
+  const otherReadings = subject.data.readings
+    .filter((r) => !r.primary)
+    .map((r) => r.reading);
 
   const relatedKanjiIds = subject.data.component_subject_ids;
-  const relatedRadicalIds = uniq(relatedKanjiIds.flatMap((kanjiId) => (subjectsById[kanjiId] as WK.KanjiSubject).data.component_subject_ids));
-  const characters: TextCharacters = { type: CharactersType.TEXT, value: subject.data.characters };
+  const relatedRadicalIds = uniq(
+    relatedKanjiIds.flatMap(
+      (kanjiId) =>
+        (subjectsById[kanjiId] as WK.KanjiSubject).data.component_subject_ids,
+    ),
+  );
+  const characters: TextCharacters = {
+    type: CharactersType.TEXT,
+    value: subject.data.characters,
+  };
   const searchResult = {
     id: subject.id,
     type: SearchResultType.VOCABULARY,
@@ -36,20 +56,25 @@ export default async function handle(subject: WK.VocabularySubject, subjectsById
     related: {
       radical: relatedRadicalIds,
       kanji: relatedKanjiIds,
-      vocabulary: []
-    }
+      vocabulary: [],
+    },
   };
 
   const readingAudio: DB.VocabularyReadingAudio[] = [];
-  const audioByReading = groupBy(subject.data.pronunciation_audios, (pa) => pa.metadata.pronunciation);
+  const audioByReading = groupBy(
+    subject.data.pronunciation_audios,
+    (pa) => pa.metadata.pronunciation,
+  );
   Object.entries(audioByReading).forEach(([reading, audios]) => {
-    const bestAudio = audios.find((a) => a.content_type === "audio/mpeg") || audios.find((a) => a.content_type === "audio/ogg");
+    const bestAudio =
+      audios.find((a) => a.content_type === "audio/mpeg") ||
+      audios.find((a) => a.content_type === "audio/ogg");
 
     if (bestAudio) {
       readingAudio.push({
         reading: reading,
         url: bestAudio.url,
-      })
+      });
     }
   });
 
@@ -62,16 +87,17 @@ export default async function handle(subject: WK.VocabularySubject, subjectsById
     meaningMnemonic: subject.data.meaning_mnemonic,
     primaryReading: primaryReading.reading,
     readingMnemonic: subject.data.reading_mnemonic,
-    otherMeanings: subject.data.meanings.filter((m) => !m.primary).map((m) => m.meaning),
+    otherMeanings: subject.data.meanings
+      .filter((m) => !m.primary)
+      .map((m) => m.meaning),
     otherReadings: otherReadings,
     wkSlug: subject.data.slug,
     related: {
       radicals: relatedRadicalIds,
-      kanjis: relatedKanjiIds
+      kanjis: relatedKanjiIds,
     },
-    readingAudio
+    readingAudio,
   };
-  
 
   return [searchResult, dbSubject];
 }

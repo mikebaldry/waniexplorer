@@ -9,18 +9,21 @@ import { writeFileSync } from "fs";
 import compact from "lodash-es/compact";
 import MiniSearch from "minisearch";
 
-import { pack } from 'msgpackr';
+import { pack } from "msgpackr";
 import { searchOpts } from "../db/search_opts";
 
-export const miniSearch = new MiniSearch<SearchResult>(searchOpts)
+export const miniSearch = new MiniSearch<SearchResult>(searchOpts);
 
 export default async function generate(force: boolean) {
   const subjects = await WK.loadSubjects(force);
 
-  const subjctsById = subjects.reduce((acc, subject: WK.Subject) => {
-    acc[subject.id] = subject;
-    return acc;
-  }, {} as Record<number, WK.Subject>);
+  const subjctsById = subjects.reduce(
+    (acc, subject: WK.Subject) => {
+      acc[subject.id] = subject;
+      return acc;
+    },
+    {} as Record<number, WK.Subject>,
+  );
 
   subjects.forEach((s) => {
     if (!s.data.document_url.endsWith(encodeURIComponent(s.data.slug))) {
@@ -28,16 +31,20 @@ export default async function generate(force: boolean) {
     }
   });
 
-  const results: ([SearchResult, DB.Subject])[] = compact(await Promise.all(subjects.map(async (subject) => {
-    switch (subject.object) {
-      case WK.SubjectType.RADICAL:
-        return await handleRadical(subject, subjctsById);
-      case WK.SubjectType.KANJI:
-        return await handleKanji(subject);
-      case WK.SubjectType.VOCABULARY:
-        return await handleVocabulary(subject, subjctsById);
-    }
-  })));
+  const results: [SearchResult, DB.Subject][] = compact(
+    await Promise.all(
+      subjects.map(async (subject) => {
+        switch (subject.object) {
+          case WK.SubjectType.RADICAL:
+            return await handleRadical(subject, subjctsById);
+          case WK.SubjectType.KANJI:
+            return await handleKanji(subject);
+          case WK.SubjectType.VOCABULARY:
+            return await handleVocabulary(subject, subjctsById);
+        }
+      }),
+    ),
+  );
 
   const searchResults = results.map((r) => r[0]);
   const dbSubjects = results.map((r) => r[1]);
@@ -46,6 +53,9 @@ export default async function generate(force: boolean) {
   writeFileSync("src/assets/search.wasm", pack(miniSearch.toJSON()));
 
   dbSubjects.forEach((dbSubject) => {
-    writeFileSync(`src/assets/subjects/${dbSubject.id}.json`, JSON.stringify(dbSubject, null, 2));
+    writeFileSync(
+      `src/assets/subjects/${dbSubject.id}.json`,
+      JSON.stringify(dbSubject, null, 2),
+    );
   });
 }

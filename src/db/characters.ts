@@ -1,17 +1,16 @@
 export enum CharactersType {
   TEXT = "text",
-  SVG = "svg"
+  SVG = "svg",
 }
 
 export type TextCharacters = {
-  type: CharactersType.TEXT,
-  value: string
-}
+  type: CharactersType.TEXT;
+  value: string;
+};
 
 export type SvgCharacters = {
-  type: CharactersType.SVG,
-  value: string
-}
+  type: CharactersType.SVG;
+  value: string;
+};
 
 export type Characters = TextCharacters | SvgCharacters;
-

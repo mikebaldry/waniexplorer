@@ -6,26 +6,36 @@ import { ReactFlowProvider } from "@xyflow/react";
 import StandardView, { StandardViewOrdering } from "./StandardView";
 
 function DataLoader() {
-  let { id: idParam, type } = useParams();
+  const { id: idParam, type } = useParams();
   const id = useMemo(() => parseInt(idParam!), [idParam]);
 
-  const { data: view } = useSuspenseQuery({ 
-    queryKey: [type, id], 
+  const { data: view } = useSuspenseQuery({
+    queryKey: [type, id],
     queryFn: () => {
       switch (type) {
-        case "radical": 
+        case "radical":
           return db.radicalView(id);
         case "kanji":
           return db.kanjiView(id);
         case "vocabulary":
           return db.vocabularyView(id);
       }
-    }
+    },
   });
-  
+
   return (
-    (view && <StandardView view={view} primarySubjectId={id} ordering={type === "vocabulary" ? StandardViewOrdering.VOCABULARY_KANJI_RADICAL : StandardViewOrdering.RADICAL_KANJI_VOCABULARY} />)
-  )
+    view && (
+      <StandardView
+        view={view}
+        primarySubjectId={id}
+        ordering={
+          type === "vocabulary"
+            ? StandardViewOrdering.VOCABULARY_KANJI_RADICAL
+            : StandardViewOrdering.RADICAL_KANJI_VOCABULARY
+        }
+      />
+    )
+  );
 }
 
 function Loader() {
@@ -35,7 +45,7 @@ function Loader() {
         <DataLoader />
       </ReactFlowProvider>
     </Suspense>
-  )
+  );
 }
 
-export default Loader
+export default Loader;

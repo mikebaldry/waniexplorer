@@ -4,28 +4,44 @@ import { SearchDocument, SearchResultType } from "../db/search_result";
 import uniq from "lodash-es/uniq";
 import { CharactersType } from "../db/characters";
 
-export default async function handle(subject: WK.RadicalSubject, subjectsById: Record<number, WK.Subject>): Promise<[SearchDocument, DB.RadicalSubject]> {
+export default async function handle(
+  subject: WK.RadicalSubject,
+  subjectsById: Record<number, WK.Subject>,
+): Promise<[SearchDocument, DB.RadicalSubject]> {
   const primaryMeaning = subject.data.meanings.find((m) => m.primary);
-  const otherMeanings = subject.data.meanings.filter((m) => !m.primary).map((m) => m.meaning);
+  const otherMeanings = subject.data.meanings
+    .filter((m) => !m.primary)
+    .map((m) => m.meaning);
 
   if (!primaryMeaning) {
     throw `No primary meaning for ${subject.id}`;
   }
 
-  let characters = { type: CharactersType.TEXT, value: subject.data.characters! };
+  let characters = {
+    type: CharactersType.TEXT,
+    value: subject.data.characters!,
+  };
   if (!characters.value) {
-    const svgImage = subject.data.character_images.find((i) => i.content_type == "image/svg+xml");
+    const svgImage = subject.data.character_images.find(
+      (i) => i.content_type == "image/svg+xml",
+    );
 
     if (!svgImage) {
       throw `No svg for radical without characters for ${subject.id}`;
     }
 
     const svgData = await WK.loadSvg(subject.id, svgImage.url);
-    characters = { type: CharactersType.SVG, value: svgData }
+    characters = { type: CharactersType.SVG, value: svgData };
   }
 
   const relatedKanjiIds = subject.data.amalgamation_subject_ids;
-  const relatedVocabularyIds = uniq(relatedKanjiIds.flatMap((kanjiId) => (subjectsById[kanjiId] as WK.KanjiSubject).data.amalgamation_subject_ids));
+  const relatedVocabularyIds = uniq(
+    relatedKanjiIds.flatMap(
+      (kanjiId) =>
+        (subjectsById[kanjiId] as WK.KanjiSubject).data
+          .amalgamation_subject_ids,
+    ),
+  );
 
   const searchResult = {
     id: subject.id,
@@ -38,8 +54,8 @@ export default async function handle(subject: WK.RadicalSubject, subjectsById: R
     related: {
       radical: [],
       kanji: relatedKanjiIds,
-      vocabulary: relatedVocabularyIds
-    }
+      vocabulary: relatedVocabularyIds,
+    },
   };
 
   const dbSubject: DB.RadicalSubject = {
@@ -53,8 +69,8 @@ export default async function handle(subject: WK.RadicalSubject, subjectsById: R
     wkSlug: subject.data.slug,
     related: {
       kanjis: relatedKanjiIds,
-      vocabularies: relatedVocabularyIds
-    }
+      vocabularies: relatedVocabularyIds,
+    },
   };
 
   return [searchResult, dbSubject];
