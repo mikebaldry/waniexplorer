@@ -2,14 +2,13 @@ import SubjectMap from "virtual:subject_map";
 
 import { SearchResult } from "./search_result";
 export type { SearchResult } from "./search_result";
-import compact from "lodash-es/compact";
-import MiniSearch, { Query } from "minisearch";
-import { toKana, tokenize } from "wanakana";
+import MiniSearch from "minisearch";
 import { KanjiSubject, RadicalSubject, Subject, VocabularySubject } from "./subjects";
 import { unpack } from "msgpackr/unpack";
 
 import searchDataUrl from "../assets/search.wasm?url";
 import { searchOpts } from "./search_opts";
+import parseQueryMiniSearch from "./query_parser";
 
 export type View = {
   radicals: RadicalSubject[],
@@ -43,11 +42,11 @@ class Db {
     this._miniSearch = loadIndex();
   }
 
-  public async search(query: string): Promise<SearchResult[]> {
-    const [queryExpression] = this.buildSearchQuery(query)
+  public async search(textQuery: string): Promise<SearchResult[]> {
+    const query = parseQueryMiniSearch(textQuery);
 
     const miniSearch = await this._miniSearch;
-    const results = miniSearch.search(queryExpression, { prefix: true, combineWith: "AND" }).slice(0, 15);
+    const results = miniSearch.search(query, { prefix: true, combineWith: "AND" }).slice(0, 15);
 
     return results.map((result) => {
       return {
@@ -98,52 +97,6 @@ class Db {
       radicals: radicals as RadicalSubject[],
       kanjis: kanjis as KanjiSubject[]
     };
-  }
-
-  private buildSearchQuery(input: string): [Query, string] {
-    const words = 
-      compact((tokenize(input, { compact: true, detailed: true }) as { type: string, value: string }[])
-        .flatMap((token) => {
-          if (token.type === "en" && token.value.trim().length > 0) {
-            const words = 
-              token.value.trim().split(/\s+/)
-                .map((word) => {
-                  const kana = toKana(word);
-                  const romajiTokens = tokenize(kana, { compact: true, detailed: true }) as { type: string, value: string }[];
-                  const allTranslatable = romajiTokens.every((t) => t.type === "ja");
-
-                  if (allTranslatable) {
-                    return [word, romajiTokens.map((t) => t.value).join("")];
-                  } else {
-                    return word;
-                  }
-                });
-  
-            return compact(words);
-          } else if (token.type === "ja") {
-            return [token.value.trim()];
-          }
-        }));
-
-    const userString = words.map((word) => {
-      if (Array.isArray(word)) {
-        return `(${word.join(' OR ')})`;
-      }
-      return word;
-    }).join(' AND ');
-
-    const query = { combineWith: 'AND', queries: words.map((word) => {
-      if (Array.isArray(word)) {
-        return {
-          combineWith: 'OR',
-          queries: word
-        } as Query;
-      }
-      return word;
-    })} as Query;
-    
-
-    return [query, userString]
   }
 }
 
