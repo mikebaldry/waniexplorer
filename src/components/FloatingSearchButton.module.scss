@@ -36,7 +36,7 @@
   stroke-linejoin: round;
 }
 
-@media (min-width: 576px) {
+@media ((min-width: 576px) and (orientation: portrait)) or ((min-height: 576px) and (orientation: landscape)) {
   .button {
     right: 10px;
     bottom: 10px;

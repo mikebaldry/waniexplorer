@@ -2,7 +2,10 @@
   display: none;
 }
 
-@media (min-width: 576px) {
+// there isn't a real way to see if the user has a physical keyboard
+// but this will only show keyboard shortcuts if the user has the 
+// ability to hover and a proper cursor, which might be good enough.
+@media (hover: hover) and (pointer: fine) {
   .container {
     display: unset;
   }

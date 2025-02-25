@@ -1,4 +1,4 @@
-import { ChangeEventHandler, KeyboardEventHandler, MouseEventHandler, useCallback, useEffect, useRef, useState } from 'react'
+import { ChangeEventHandler, KeyboardEventHandler, MouseEventHandler, useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { useLocation, useNavigate } from 'react-router'
 
 import db, {  SearchResult } from '../db/db.ts'
@@ -9,10 +9,12 @@ import FloatingSearchButton from './FloatingSearchButton.tsx';
 
 import styles from './SearchOverlay.module.scss'
 import clsx from 'clsx';
-import { useKeyboardEvent } from '@react-hookz/web';
+import { useKeyboardEvent, useMediaQuery } from '@react-hookz/web';
+import debounce from 'lodash-es/debounce';
 
 function SearchOverlay() {
   const navigate = useNavigate();
+  const isRealKeyboard = useMediaQuery('(hover: hover) and (pointer: fine)');
   const [open, setOpen] = useState(false);
   const [query, setQuery] = useState('');
   const [results, setResults] = useState<SearchResult[]>([])
@@ -86,9 +88,13 @@ function SearchOverlay() {
       e.preventDefault();
       e.stopPropagation();
     } else if (e.key === 'Enter' || e.key === 'Return') {
-      const result = results[selectedResultIndex];
-      if (result) {
-        handleOpenResult(result);
+      if (!isRealKeyboard) {
+        searchRef.current?.blur();
+      } else {
+        const result = results[selectedResultIndex];
+        if (result) {
+          handleOpenResult(result);
+        }
       }
 
       e.preventDefault();
@@ -108,6 +114,19 @@ function SearchOverlay() {
   useKeyboardEvent('Enter', handleOpen);
   useKeyboardEvent(' ', handleOpen);
   useKeyboardEvent('Escape', handleClose);
+
+  const [scrolling, setScrolling] = useState(false);
+
+  const handleEndScroll = useMemo(() => {
+    return debounce(() => {
+      setScrolling(false)
+    }, 500);
+  }, [setScrolling]);
+
+  const handleScroll = useCallback(() => {
+    setScrolling(true);
+    handleEndScroll();
+  }, [setScrolling]);
 
   return (
     <div className={styles.container}>
@@ -137,7 +156,7 @@ function SearchOverlay() {
                 )}
               </div>
               
-              <div className={clsx("list-group", styles.searchResults)}>
+              <div className={clsx("list-group", styles.searchResults)} onWheel={handleScroll}>
                 {results.map((result, i) => (
                   <SearchResultItem
                     key={result.id} 
@@ -145,6 +164,7 @@ function SearchOverlay() {
                     onClick={() => handleOpenResult(result)} 
                     onSelect={() => setSelectedResultIndex(i)}
                     selected={i === selectedResultIndex}
+                    scrolling={scrolling}
                   />
                 ))}
               </div>

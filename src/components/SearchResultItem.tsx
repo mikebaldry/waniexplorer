@@ -7,17 +7,18 @@ import { useEffect } from "react";
 import { useInView } from "react-intersection-observer";
 import { useMediaQuery } from "@react-hookz/web";
 
-type SearchResultItemProps = { searchResult: SearchResult, selected: boolean, onClick: () => void, onSelect: () => void };
+type SearchResultItemProps = { searchResult: SearchResult, selected: boolean, scrolling: boolean, onClick: () => void, onSelect: () => void };
 
-function SearchResultItem({ searchResult, selected, onClick, onSelect }: SearchResultItemProps) {
-  const cantHover = useMediaQuery('(hover: none)');
+function SearchResultItem({ searchResult, selected, scrolling, onClick, onSelect }: SearchResultItemProps) {
+  const canHover = useMediaQuery('(hover: hover) and (pointer: fine)');
+
   const { ref, inView, entry } = useInView({ threshold: 1 });
   
   useEffect(() => {
     // if the user can't hover over items, they don't become selected as scroll moves, 
     // then the scroll jumps around because the selected item isn't in view.
-    if (!cantHover && selected && !inView) {
-      entry?.target.scrollIntoView({ block: 'nearest', inline: 'nearest', behavior: 'smooth' });
+    if (!scrolling && canHover && selected && !inView) {
+      entry?.target.scrollIntoView({ block: 'nearest', inline: 'nearest', behavior: 'instant' });
     }
   }, [selected, inView, entry])
 
