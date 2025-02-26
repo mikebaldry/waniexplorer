@@ -7,6 +7,7 @@ import {
   KanjiSubject,
   RadicalSubject,
   Subject,
+  SubjectType,
   VocabularySubject,
 } from "./subjects";
 import { unpack } from "msgpackr/unpack";
@@ -16,27 +17,10 @@ import { searchOpts } from "./search_opts";
 import parseQueryMiniSearch from "./query_parser";
 
 export type View = {
+  primarySubjectId: number;
   radicals: RadicalSubject[];
   kanjis: KanjiSubject[];
   vocabularies: VocabularySubject[];
-};
-
-export type RadicalView = {
-  radical: RadicalSubject;
-  relatedKanji: KanjiSubject[];
-  relatedVocabulary: VocabularySubject[];
-};
-
-export type KanjiView = {
-  relatedRadicals: RadicalSubject[];
-  kanji: KanjiSubject;
-  relatedVocabulary: VocabularySubject[];
-};
-
-export type VocabularyView = {
-  relatedRadicals: RadicalSubject[];
-  relatedKanji: KanjiSubject[];
-  vocabulary: VocabularySubject;
 };
 
 class Db {
@@ -67,7 +51,12 @@ class Db {
   }
 
   public async radicalView(id: number): Promise<View> {
-    const radical = (await loadId(id)) as RadicalSubject;
+    const subject = await loadId(id);
+    if (subject.type !== SubjectType.RADICAL) {
+      throw `Subject ${id} is not a radical`;
+    }
+    const radical = subject as RadicalSubject;
+
     const kanjiPromises = radical.related.kanjis.map(loadId);
     const vocabularyPromises = radical.related.vocabularies.map(loadId);
     const [kanjis, vocabularies] = await Promise.all([
@@ -76,6 +65,7 @@ class Db {
     ]);
 
     return {
+      primarySubjectId: id,
       radicals: [radical],
       kanjis: kanjis as KanjiSubject[],
       vocabularies: vocabularies as VocabularySubject[],
@@ -83,7 +73,12 @@ class Db {
   }
 
   public async kanjiView(id: number): Promise<View> {
-    const kanji = (await loadId(id)) as KanjiSubject;
+    const subject = await loadId(id);
+    if (subject.type !== SubjectType.KANJI) {
+      throw `Subject ${id} is not a kanji`;
+    }
+    const kanji = subject as KanjiSubject;
+
     const radicalPromises = kanji.related.radicals.map(loadId);
     const vocabularyPromises = kanji.related.vocabularies.map(loadId);
     const [radicals, vocabularies] = await Promise.all([
@@ -92,6 +87,7 @@ class Db {
     ]);
 
     return {
+      primarySubjectId: id,
       kanjis: [kanji],
       radicals: radicals as RadicalSubject[],
       vocabularies: vocabularies as VocabularySubject[],
@@ -99,7 +95,12 @@ class Db {
   }
 
   public async vocabularyView(id: number): Promise<View> {
-    const vocabulary = (await loadId(id)) as VocabularySubject;
+    const subject = await loadId(id);
+    if (subject.type !== SubjectType.VOCABULARY) {
+      throw `Subject ${id} is not a vocabulary`;
+    }
+    const vocabulary = subject as VocabularySubject;
+
     const radicalPromises = vocabulary.related.radicals.map(loadId);
     const kanjiPromises = vocabulary.related.kanjis.map(loadId);
     const [radicals, kanjis] = await Promise.all([
@@ -108,6 +109,7 @@ class Db {
     ]);
 
     return {
+      primarySubjectId: id,
       vocabularies: [vocabulary],
       radicals: radicals as RadicalSubject[],
       kanjis: kanjis as KanjiSubject[],
@@ -124,7 +126,13 @@ async function loadIndex(): Promise<MiniSearch<SearchResult>> {
 }
 
 async function loadId(id: number): Promise<Subject> {
-  const response = await fetch(SubjectMap[id]);
+  const subjectUrl = SubjectMap[id];
+
+  if (!subjectUrl) {
+    throw `Unknown subject: ${id}`;
+  }
+
+  const response = await fetch(subjectUrl);
 
   return await response.json();
 }
