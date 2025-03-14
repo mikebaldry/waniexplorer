@@ -1,11 +1,10 @@
 import { useParams } from "react-router";
-import db, { View } from "../../db/db";
+import db, { View as DBView } from "../../db/db";
 import { useEffect, useMemo, useState } from "react";
-import { ReactFlowProvider } from "@xyflow/react";
-import StandardView, { StandardViewOrdering } from "./StandardView";
+import View from "./View";
+import { useAppState } from "../AppState";
 
-
-function loadView(type: string, id: number): Promise<View> {
+function loadView(type: string, id: number): Promise<DBView> {
   switch (type) {
     case "radical":
       return db.radicalView(id);
@@ -23,7 +22,7 @@ function Loader() {
   const id = useMemo(() => parseInt(idParam!), [idParam]);
   const [loading, setLoading] = useState<boolean>(false);
   const [error, setError] = useState<boolean>(false);
-  const [view, setView] = useState<View | null>(null);
+  const { view, setView } = useAppState();
 
   useEffect(() => {
     setError(false);
@@ -31,7 +30,7 @@ function Loader() {
   }, [type, id, setLoading, setError]);
 
   useEffect(() => {
-    if (view && id && view.primarySubjectId === id) {
+    if (view && id && view.primarySubject.id === id) {
       setLoading(false);
       return;
     }
@@ -39,7 +38,7 @@ function Loader() {
     if (!type || !id || isNaN(id)) {
       setError(true);
       setLoading(false);
-      setView(null);
+      setView(undefined);
       return;
     }
 
@@ -51,15 +50,14 @@ function Loader() {
       setLoading(true);
 
       const performLoad = async () => {
-        let view = null;
-  
         try {
-          view = await loadView(type, id);
+          const view = await loadView(type, id);
+          setView(view);
         } catch {
           setError(true);
+          setView(undefined);
         }
   
-        setView(view);
         setLoading(false);
       };
 
@@ -73,17 +71,7 @@ function Loader() {
       {loading && !error && (<div id="root-loader">Loading...</div>)}
 
       {view && !error && !loading && (
-        <ReactFlowProvider>
-          <StandardView
-            view={view}
-            primarySubjectId={id}
-            ordering={
-              type === "vocabulary"
-                ? StandardViewOrdering.VOCABULARY_KANJI_RADICAL
-                : StandardViewOrdering.RADICAL_KANJI_VOCABULARY
-            }
-          />
-        </ReactFlowProvider>
+        <View view={view} />
       )}
     </>
   );

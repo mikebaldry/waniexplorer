@@ -1,4 +1,4 @@
-import SubjectMap from "virtual:subject_map";
+import getSubjectUrl from "virtual:subject_map";
 
 import { SearchResult } from "./search_result";
 export type { SearchResult } from "./search_result";
@@ -16,8 +16,14 @@ import searchDataUrl from "../assets/search.wasm?url";
 import { searchOpts } from "./search_opts";
 import parseQueryMiniSearch from "./query_parser";
 
+export enum Ordering {
+  RadicalKanjiVocabulary,
+  VocabularyKanjiRadical,
+}
+
 export type View = {
-  primarySubjectId: number;
+  primarySubject: Subject;
+  ordering: Ordering;
   radicals: RadicalSubject[];
   kanjis: KanjiSubject[];
   vocabularies: VocabularySubject[];
@@ -65,7 +71,8 @@ class Db {
     ]);
 
     return {
-      primarySubjectId: id,
+      primarySubject: subject,
+      ordering: Ordering.RadicalKanjiVocabulary,
       radicals: [radical],
       kanjis: kanjis as KanjiSubject[],
       vocabularies: vocabularies as VocabularySubject[],
@@ -87,7 +94,8 @@ class Db {
     ]);
 
     return {
-      primarySubjectId: id,
+      primarySubject: subject,
+      ordering: Ordering.RadicalKanjiVocabulary,
       kanjis: [kanji],
       radicals: radicals as RadicalSubject[],
       vocabularies: vocabularies as VocabularySubject[],
@@ -109,7 +117,8 @@ class Db {
     ]);
 
     return {
-      primarySubjectId: id,
+      primarySubject: subject,
+      ordering: Ordering.VocabularyKanjiRadical,
       vocabularies: [vocabulary],
       radicals: radicals as RadicalSubject[],
       kanjis: kanjis as KanjiSubject[],
@@ -126,11 +135,7 @@ async function loadIndex(): Promise<MiniSearch<SearchResult>> {
 }
 
 async function loadId(id: number): Promise<Subject> {
-  const subjectUrl = SubjectMap[id];
-
-  if (!subjectUrl) {
-    throw `Unknown subject: ${id}`;
-  }
+  const subjectUrl = getSubjectUrl(id);
 
   const response = await fetch(subjectUrl);
 

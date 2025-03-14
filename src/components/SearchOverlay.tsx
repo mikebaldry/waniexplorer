@@ -20,29 +20,34 @@ import styles from "./SearchOverlay.module.scss";
 import clsx from "clsx";
 import { useKeyboardEvent, useMediaQuery } from "@react-hookz/web";
 import debounce from "lodash-es/debounce";
+import { useAppState } from "./AppState.tsx";
 
 function SearchOverlay() {
+  const { menuOpen, setMenuOpen } = useAppState();
+
   const navigate = useNavigate();
   const isRealKeyboard = useMediaQuery("(hover: hover) and (pointer: fine)");
-  const [open, setOpen] = useState(false);
   const [query, setQuery] = useState("");
   const [results, setResults] = useState<SearchResult[]>([]);
   const [selectedResultIndex, setSelectedResultIndex] = useState<number>(0);
   const searchRef = useRef<HTMLInputElement>(null);
   const location = useLocation();
 
-  useEffect(() => {
-    if (location.pathname === "/") {
-      setOpen(true);
-    }
-  }, [location.pathname]);
-
   const handleOpen = useCallback(() => {
-    if (!open) {
-      setOpen(true);
+    if (!menuOpen) {
+      setMenuOpen(true);
       searchRef.current?.focus();
     }
-  }, [open, setOpen, searchRef]);
+  }, [menuOpen, setMenuOpen, searchRef]);
+
+  // handle this in AppState - useParam to load view
+  useEffect(() => {
+    if (location.pathname === "/") {
+      setMenuOpen(true);
+      searchRef.current?.focus();
+    }
+  }, [setMenuOpen, searchRef, location.pathname]);
+
 
   const handleChange: ChangeEventHandler<HTMLInputElement> = useCallback(
     (e) => {
@@ -62,9 +67,9 @@ function SearchOverlay() {
   }, [setQuery, setResults, setSelectedResultIndex]);
 
   const handleClose = useCallback(() => {
-    setOpen(false);
+    setMenuOpen(false);
     handleClear();
-  }, [setOpen, handleClear]);
+  }, [setMenuOpen, handleClear]);
 
   const handleOpenResult = useCallback(
     (searchResult: SearchResult) => {
@@ -86,12 +91,12 @@ function SearchOverlay() {
   );
 
   const handleToggle = useCallback(() => {
-    if (open) {
+    if (menuOpen) {
       handleClose();
     } else {
       handleOpen();
     }
-  }, [open, handleOpen, handleClose]);
+  }, [menuOpen, handleOpen, handleClose]);
 
   const handleKeyDown: KeyboardEventHandler<HTMLInputElement> = useCallback(
     (e) => {
@@ -159,9 +164,9 @@ function SearchOverlay() {
 
   return (
     <div className={styles.container}>
-      <FloatingSearchButton onClick={handleToggle} showKanji={open} />
+      <FloatingSearchButton onClick={handleToggle} showKanji={menuOpen} />
 
-      {open && (
+      {menuOpen && (
         <div className={styles.backdrop} onClick={handleClickBackdrop}>
           <div className={styles.search}>
             <div className={styles.inputArea}>

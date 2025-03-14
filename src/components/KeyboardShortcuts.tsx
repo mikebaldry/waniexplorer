@@ -28,9 +28,6 @@ function KeyboardShortcuts() {
             <kbd>Space</kbd> open search
           </div>
           <div>
-            <kbd>0</kbd> reset view
-          </div>
-          <div>
             <kbd>+</kbd> zoom in
           </div>
           <div>

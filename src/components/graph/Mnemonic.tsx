@@ -7,7 +7,7 @@ export default function Mnemonic(props: MnemonicProps) {
 }
 
 function parseMnemonic(str: string) {
-  const result = parse(str, {
+  return parse(str, {
     replace(domNode) {
       if (domNode instanceof Element) {
         switch (domNode.name) {
@@ -34,6 +34,4 @@ function parseMnemonic(str: string) {
       }
     },
   });
-
-  return result;
 }
