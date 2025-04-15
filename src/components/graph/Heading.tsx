@@ -2,6 +2,7 @@ import clsx from "clsx";
 import { CharactersType } from "../../db/characters";
 
 import styles from "./Heading.module.scss";
+import jpStyles from "../../Jp.module.scss";
 import { BasicSubject } from "../../db/subjects";
 
 function Heading({ subject, onFocus }: { subject: BasicSubject, onFocus: (() => void) }) {
@@ -15,7 +16,8 @@ function Heading({ subject, onFocus }: { subject: BasicSubject, onFocus: (() => 
       </span>
 
       {subject.characters.type === CharactersType.TEXT &&
-        subject.characters.value}
+        <span className={jpStyles.text}>{subject.characters.value}</span>
+      }
       {subject.characters.type === CharactersType.SVG && (
         <div
           className="radical-svg"

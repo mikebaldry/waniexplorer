@@ -3,6 +3,8 @@ import { SearchResult } from "../db/search_result";
 import { CharactersType } from "../db/characters";
 
 import styles from "./SearchResultItem.module.scss";
+import jpStyles from "../Jp.module.scss";
+
 import { useEffect } from "react";
 import { useInView } from "react-intersection-observer";
 import { useMediaQuery } from "@react-hookz/web";
@@ -84,7 +86,7 @@ function SearchResultItem({
       </div>
       <div className={styles.characters}>
         {searchResult.characters.type == CharactersType.TEXT && (
-          <span>{searchResult.characters.value}</span>
+          <span className={jpStyles.text}>{searchResult.characters.value}</span>
         )}
         {searchResult.characters.type == CharactersType.SVG && (
           <div
